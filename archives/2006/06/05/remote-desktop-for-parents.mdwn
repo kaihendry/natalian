@@ -1,0 +1,20 @@
+[[!meta title="Remote desktop for parents" ]]
+[[!meta date="2006-06-11 14:55:27" ]]
+<p>My parents sadly run Windows and they&#8217;ve recently obtained &#8220;broadband&#8221;. Scary.</p>
+
+<p>They are complete novices and I wanted to control their system remotely to ensure the machine is setup correctly (and securely).</p>
+
+<p>I sent them <a href="http://static.natalian.org/2006-06-04/vnc.txt">instructions for setting up <span class="caps">VNC</span></a> and they managed to follow them.</p>
+
+<p>So you can use as a template for your parents.</p>
+
+<ul>
+<li>You need to change &#8220;ASECUREPASSWORD&#8221;</li>
+<li>You need to have a Linux server with a ssh account for them to connect to. Mine is perry.khanworks.com</li>
+<li>So with vncviewer connected to localhost on my server, I can control their system. Though they need to also <strong>accept</strong> the <span class="caps">VNC</span> connection</li>
+<li>I suggest downloading the required applications in Internet Explorer as Firefox download dialogue is really confusing for them</li>
+</ul>
+
+<p>Once logged in I suggest setting up a .bat file so they don&#8217;t have to type that scary stuff in <strong>cmd</strong>. I have not figured out to copy keys from plink to my server, so they still need to enter the password.</p>
+
+<p>So this is a lot cheaper than <a href="https://www.copilot.com/">copilot.</a> The remote assistance services or terminal services probably won&#8217;t work due to firewall issues. The <span class="caps">SSH</span> tunnel plink sets up, solves these problems.</p>

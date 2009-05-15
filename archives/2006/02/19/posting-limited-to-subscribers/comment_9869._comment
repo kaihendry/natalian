@@ -1,0 +1,36 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="221.143.162.18"
+ date="2006-02-19 11:32:46"
+ content="""
+<pre>
+                                                                                                                
+> I have set envelope_from=yes in my .muttrc                                                                     
+                                                                                                                 
+  Ok.                                                                                                            
+                                                                                                                 
+> Thanks. I think another problem is my FROM: is usually hendry@iki.fi and                                       
+> not hendry@dabase.com.                                                                                         
+                                                                                                                 
+  In that case, with mutt's envelope_from=yes, your return-path is being                                         
+  set to hendry@iki.fi. If what you say is that you want to use @iki in                                          
+  From, but @dabase as Return-Path:                                                                              
+                                                                                                                 
+    mutt from sid: set envelope_from envelope_from_address=hendry@dabase.com                                     
+    previous mutt: set envelope_from=no sendmail='/usr/lib/sendmail -oem -oi -f hendry@dabase.com'               
+                                                                                                                 
+  This, for lists that allow you to use whatever From you want, but                                              
+  force you an specific Return-Path.                                                                             
+                                                                                                                 
+> Sending up a hook to change to hendry@dabase.com for list traffic                                              
+> doesn't sound possible. Or is it?                                                                              
+                                                                                                                 
+  Depending on your taste, since all of @iki ends up in @dabase anyway,                                          
+  you can use the avobe snippet for all your outgoing mail. If you feel                                          
+  like being picky, then yes, you could use a hook to set it only for                                            
+  list mail.                                                                                                     
+                                                                                                                 
+  Again, HTH,                         
+</pre>
+"""]]

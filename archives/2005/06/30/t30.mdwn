@@ -1,0 +1,11 @@
+[[!meta title="T30" ]]
+[[!meta date="2005-08-01 16:54:15" ]]
+<p>In other news I bought a refurb <span class="caps">IBM</span> T30 for 1200AUD today. I had <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq01.059.htp">one before,</a> from <a href="http://www.cs.helsinki.fi/compfac/index.en.html">work</a> and I can&#8217;t complain. (Ok, it&#8217;s bulky and the sound card is crap.) I really wanted a X40, but since I am still backpacking I know how one of those things can get stolen. And I want to save up for my next leg of my trip.</p>
+
+<p>This will be the first time I&#8217;ve actually owned a laptop. So I&#8217;ll regenerate my <span class="caps">GPG</span> key and always carry it around with me, so <a href="http://nm.debian.org/nmstatus.php?email=hendry%40cs.helsinki.fi">I can become a proper DD.</a></p>
+
+<p>On second thought I hate that idea. <strong>I hate <span class="caps">GPG</span>.</strong> Those key signings are <span class="caps">BORING</span> ffs. I wish uploads were done in some <span class="caps">WIKI</span> fashion. Whereby the Debian community could just approve a diff or something. That&#8217;s a low barrier to entry for contributions.</p>
+
+<p>I had previous issues with <span class="caps">GPG</span> keys were assumed to be compromised as I kept them on a server in Finland. Since I went though all that bother, I can now recommend this advice to people wanting to become a debian developer:</p>
+
+<p>You&#8217;ll sadly need to get your own laptop. Now, that&#8217;s a high barrier to entry for contributions to the Debian project.</p>

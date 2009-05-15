@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Axel"
+ subject="130.237.60.70"
+ date="2006-02-21 02:22:46"
+ content="""
+<p>The problem is that most shells by default don&#8217;t resolve symlinked directories to a canonical path. This &#8216;feature&#8217; causes all sorts of havoc since &#8217;..&#8217; follows uses the symlinks parent in the cd builtin, but uses the parent of the canonical path when doing IO redirection, or when used as an argument for e.g. the ls command. Since it is completely impossible to never resolve symlinked directories to it&#8217;s canonical path in all situations, I think it is a huge mistake by most shells to do this sometimes, and sometimes not, since it leads to all kinds of silly bugs.</p>
+"""]]

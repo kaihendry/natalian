@@ -1,0 +1,18 @@
+[[!meta title="Invasion of the invited experts" ]]
+[[!meta date="2007-03-27 11:28:03" ]]
+<a href="http://www.flickr.com/photos/hendry/428373793/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/151/428373793_8502d3226c_m.jpg" width="240" height="180" alt="Windy sea at Boscastle" /></a>
+
+<p>It seems like I am not the only one on the <a href="http://www.w3.org/2000/09/dbwg/details?group=40318&amp;public=1&amp;order=org"><span class="caps">HTML</span> WG</a> bandwagon. ;)</p>
+
+<p>I thought this <a href="http://lists.w3.org/Archives/Public/public-html/2007JanMar/0358.html">mail about the workgroup&#8217;s use of &#8216;dated&#8217; <span class="caps">IRC</span> and &#8216;old school&#8217; mailing list</a> by <a href="http://gavinpearce.co.uk/">Gavin Pearce</a> was hilarious. A little early for April the 1st though.</p>
+
+<p>Though seriously, I am little worried about the clash of cultures on the WG. I think there are four types:</p>
+
+<ol>
+<li>The <a href="http://lists.w3.org/Archives/Public/public-html/2007JanMar/0309.html">dreamy</a> semantic/XML W3C staff</li>
+<li>The confused corporate guys featuring <a href="http://www.joelonsoftware.com/articles/APIWar.html">Microsoft stalling, yet leading the WG of the <span class="caps">API</span> that rivals its core business</a>!</li>
+<li>The frustrated &#8216;old school&#8217; <a href="http://whatwg.org/"><span class="caps">WHATWG</span></a> people</li>
+<li>The unwashed Web2.0 &#8220;Web designer&#8221;</li>
+</ol>
+
+<p>Update: I couldn&#8217;t resist <a href="http://lists.w3.org/Archives/Public/public-html/2007JanMar/0441.html">joining the fray</a>.</p>

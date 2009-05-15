@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Henri Sivonen"
+ subject="217.140.251.133"
+ date="2004-07-20 19:26:38"
+ content="""
+<p>My <a href="http://iki.fi/hsivonen/test/mobile/badentity.xhtml">test with a bogus entity ref</a> indicates SonyEricsson (T68i, T610) isn&#8217;t using a conforming <span class="caps">XML</span> processor, either. Also, their browser ignores namespaces.</p>
+"""]]

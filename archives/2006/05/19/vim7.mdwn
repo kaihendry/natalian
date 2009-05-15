@@ -1,0 +1,23 @@
+[[!meta title="vim7" ]]
+[[!meta date="2006-05-21 04:39:57" ]]
+<a href="http://www.flickr.com/photos/hendry/149027867/" title="Photo Sharing"><img src="http://static.flickr.com/47/149027867_ca2848f782_m.jpg" width="240" height="180" alt="Vim7 omnicompletion in a normal uxterm!" /></a>
+
+<p>Christmas has come early and vim7 has finally made its way on  my unstable machine thanks to the miracle of dist-upgrade.</p>
+
+<p>I&#8217;ve made some <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq07.018.htp">notes on my faq.</a></p>
+
+<p>So far the feature that might change my life forever, is omnicompletion.</p>
+
+<p>Spelling is a little disappointing. In the help page it says hitting <span class="caps">CTRL</span>-X after a misspelled word will present some alternatives. Doesn&#8217;t work for me. Starting spell support is quite ugly: <tt>:setlocal spell spelllang=en_gb</tt> Am I supposed to put that in my .muttrc? As it doesn&#8217;t setup automatically when editing mail. Might just stick with aspell for the time being.</p>
+
+<p>Tabs are cool. I&#8217;ll use them. Before I used to split and minimize windows. Kinda ugly really.</p>
+
+<p>I am still desperately looking for something that can close <span class="caps">HTML</span> tags or something that can assist me writing <span class="caps">HTML</span>. Some basic well formedness check would be nice.</p>
+
+<p>:hardcopy looks cool, but it doesn&#8217;t seem to be able to hardcopy Korean letters. Perhaps I am missing some Korean fonts in my postscript path. After peeking at &#8220;postscript-cjk-printing&#8221;, it looks like I need to install some fonts. Argh! How in Debian?</p>
+
+<p>Ok good luck vim7 users.</p>
+
+<p>Update: <br />
+ * Undo actually behaves better. I was a little too hasty in my initial tests.<br />
+ * Bracket highlighting, nice.</p>

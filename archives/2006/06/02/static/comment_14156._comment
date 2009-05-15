@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="222.106.128.78"
+ date="2006-06-02 21:45:49"
+ content="""
+<embed style="width:400px; height:326px;" id="VideoPlayback" align="middle" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?videoUrl=http%3A%2F%2Fvp.video.google.com%2Fvideodownload%3Fversion%3D0%26secureurl%3DwAAAAG7ggqAHSiJjpW0D3w4aYTWxVH791KP_8YUQfwPnXXNCapqWxVFdKfxiZXibjgreA93H40e4DvR4AK0Dev9SUvwvr1hu-VuTk_2_CubL5OyrXHPa69kyIOsz4EXSFKQqIQxFJ_ud-76OGUc-zP2bGy7pnSTc_0v7U4wtJffsb0dHjg_F18E1icN1QzM8VILHrx6ZO9Sc6Efjf-Xf3ZAiOh7DVSyuCMxmcQ6japi0WYTMU63-oOBWg3iAXalIdbP5uCK0YWh2PwUf1PX0GAE1qzU%26sigh%3DpiL7n4I0z8lz7pLRPLIkf5BvmqQ%26begin%3D0%26len%3D36167%26docid%3D-6945792253795546925&amp;thumbnailUrl=http%3A%2F%2Fvideo.google.com%2FThumbnailServer%3Fapp%3Dvss%26contentid%3Dcfa50a73eb46bbc3%26second%3D5%26itag%3Dw320%26urlcreated%3D1149248384%26sigh%3Dyp_l_HUqqJh_4vrz0FytJnt1drQ&amp;playerId=-6945792253795546925" allowScriptAccess="sameDomain" quality="best" bgcolor="#ffffff" scale="noScale" wmode="window" salign="TL"  FlashVars="playerMode=embedded"> </embed>
+
+<p>Here is something to reward my fans. I&#8217;m using <a href="http://packages.qa.debian.org/f/ffmpeg2theora.html">ffmpeg2theora</a> to compress the video. Google video understands theora! The space savings are enormous.</p>
+"""]]

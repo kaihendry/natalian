@@ -1,0 +1,28 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="221.143.162.18"
+ date="2006-02-19 11:26:27"
+ content="""
+<pre>
+On 2006-02-19T02:04+0100 Adeodato Simó wrote:                                                                    
+>   with respect to [1], I think that what you want is                                                           
+>   `echo set envelope_from >> ~/.muttrc`. This will call sendmail with                                          
+>   the -f <your_from_address> option, which should set the return-path                                          
+>   correctly.                                                                                                   
+                                                                                                                 
+I have set envelope_from=yes in my .muttrc                                                                       
+http://trac.natalian.org/browser/home/.muttrc                                                                    
+                                                                                                                 
+>   Note that in the mutt version in sid, documentation for envelope_from                                        
+>   is to be found under use_envelope_from.                                                                      
+                                                                                                                 
+Thanks. I think another problem is my FROM: is usually hendry@iki.fi and                                         
+not hendry@dabase.com. You see hendry@iki.fi redirects mail through                                              
+Gmail and then delivers to hendry@dabase.com. I find this step                                                   
+unneccessary when I subscribe to mailing lists.                                                                  
+                                                                                                                 
+Sending up a hook to change to hendry@dabase.com for list traffic                                                
+doesn't sound possible. Or is it?
+</pre>
+"""]]

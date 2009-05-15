@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="jorge"
+ subject="68.61.87.189"
+ date="2004-08-23 01:23:25"
+ content="""
+<p>Just boot off the knoppix disc and apt-get install subversion. You might need to tweak the sources.list to a debian source.</p>
+
+<p>subversion will then be loaded into ram and you can go about your business. You&#8217;ll just need to reinstall it every time you reboot. Works great for those packages that are in debian and not in knoppix.</p>
+"""]]

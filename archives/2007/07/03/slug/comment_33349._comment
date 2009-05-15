@@ -1,0 +1,26 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="91.84.62.62"
+ date="2007-07-03 23:21:32"
+ content="""
+<p>Hi Neil,</p>
+
+<p>I think <a href="http://www.nslu2-linux.org/wiki/Info/FlashExpansion" rel="nofollow">it only has 8Mb</a> and it&#8217;s spread across:</p>
+
+<pre>
+hendry@slug:~$ cat /proc/partitions 
+major minor  #blocks  name
+
+<p>31     0        256 mtdblock0<br />
+  31     1        128 mtdblock1<br />
+  31     2        128 mtdblock2<br />
+  31     3       1408 mtdblock3<br />
+  31     4       6144 mtdblock4<br />
+  31     5        128 mtdblock5<br />
+</pre></p>
+
+<p>Get an external <span class="caps">USB</span> drive. They&#8217;re cheap!</p>
+
+<p>I hope you get one Neil. :)</p>
+"""]]

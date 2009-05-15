@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="81.109.22.253"
+ date="2008-09-21 15:21:22"
+ content="""
+<p>Basic <span class="caps">HTML</span> works on most phones with a browser Alex. Unless perhaps you unfairly include <span class="caps">WAP</span> phones.</p>
+
+<p>You can use advanced features like Javascript in advanced phones. Then you must make sure your application is usable <strong>without Javascript</strong> enabled.</p>
+
+<p>If you are determined to throw money and resources to eeek out small &amp; temporary amounts of &#8220;user experience&#8221; then use <span class="caps">WURFL</span>. Reason why I say &#8220;temporary&#8221; is that these approaches &amp; techniques quickly become out of date and fragmented themselves.</p>
+"""]]

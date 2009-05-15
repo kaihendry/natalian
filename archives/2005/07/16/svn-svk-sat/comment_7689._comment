@@ -1,0 +1,11 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="220.253.37.196"
+ date="2005-07-17 20:37:35"
+ content="""
+<p>My first commit from <span class="caps">SVK</span> ;)<br />
+<a href="http://trac.natalian.org/file/projects/mprobots/basic.tmpl">http://trac.natalian.org/file/projects/mprobots/basic.tmpl</a></p>
+
+<p>Thanks for the tip Luke, though I think if I was going for an <span class="caps">MVC</span> I would choose Python. ;)</p>
+"""]]

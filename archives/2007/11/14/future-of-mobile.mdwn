@@ -1,0 +1,44 @@
+[[!meta title="Future of Mobile" ]]
+[[!meta date="2007-11-18 00:05:40" ]]
+<a href="http://www.flickr.com/photos/hendry/2005037394/" title="tools/emulate by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2146/2005037394_4168e89f50_m.jpg" width="155" height="240" alt="tools/emulate" /></a>
+
+<p>So this time, <a href="http://natalian.org/archives/2007/10/03/fowa/">no internet instead of a piss poor connection</a> from <a href="http://carsonified.com/">Carson</a>. So I had to struggle with my Gmail fix via my <a href="http://natalian.org/archives/2007/05/15/nokia-e65-from-3/">Nokia E65</a>. It can&#8217;t be that hard to setup a couple of Linksys WRT54G-L routers onto a computer with a Vodafone high speed connection dongle thingie. It&#8217;s a myth that <span class="caps">WIFI</span> can&#8217;t handle lots of users in a concentrated space, as I remember Debconf&#8217;s wireless in Edinburgh working well with <em>loads</em> of connections. However, you do need the right equipment (WRT54G-L with <a href="http://www.polarcloud.com/tomato">Tomato firmware</a>) and the expertise. Though today, they could of done with a decent sound engineer. Audio/mics were also poor.</p>
+
+<a href="http://www.flickr.com/photos/hendry/2023758986/" title="Luca's xhtml_support_levels by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2393/2023758986_386f058d21_m.jpg" width="180" height="240" alt="Luca's xhtml_support_levels" /></a>
+
+<p>Though I enjoyed the day really. It started slow for me, though I liked Luca Passani&#8217;s jibe at Navorra/Vodafone. I don&#8217;t like <a href="http://natalian.org/archives/2007/10/09/mobile-web-monday/">3rd party content adaption/transcoding</a> either, so it was nice to someone else being passionately against it.</p>
+
+<p>Though after speaking with <a href="http://my.opera.com/chaals/about/">chaals</a>, I relaxed a little. I don&#8217;t like Luca&#8217;s <a href="http://en.wikipedia.org/wiki/Wurfl">wurfl</a>, i.e. content creators &#8220;adapting content&#8221; (device dependent engineering) either. And after playing with those content transcoders, one must conclude any user will just move to a different service after encountering the very poor results (&#8220;user experience&#8221;) of content transcoders. Though&#8230; with 18th month contracts being the norm (for data), it is a <strong>bit tricky</strong> to change operators!!</p>
+
+<p>I really like one of the slides of chaals, summing up the whole situation for me. You either use:</p>
+
+<ol>
+<li>Use @media handheld</li>
+<li>Use media queries</li>
+<li>Use wurfl/wall</li>
+<li>Use &#8220;enterprise&#8221; (volantis cited) as your content adaptor</li>
+</ol>
+
+<p>You really want to use 1&#8211;2 and that&#8217;s what most developers will end of using. 3&#8211;4 is just too expensive.</p>
+
+<a href="http://www.flickr.com/photos/hendry/2022962363/" title="Android by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2350/2022962363_59a9fbd69f_m.jpg" width="240" height="180" alt="Android" /></a>
+
+<p>Dave Burke&#8217;s presentation on Android was exciting. There seemed to be some tension in the air, especially after hearing about the &#8220;revolutionary&#8221; iphone from Brian Fling. <a href="http://flickr.com/photos/hendry/2005037394/">I have taken a look at Android</a> beforehand, though I have a couple of concerns today:</p>
+
+<ol>
+<li>They won&#8217;t release the entire stack until the &#8220;first phone ships&#8221;. This looks like the 2nd half of 2008, so at least a year before I get to see the &#8220;whole picture&#8221;</li>
+<li>Haven&#8217;t discovered a &#8220;package management&#8221; system yet (like Debian packages)</li>
+<li>I am not fond of promoting a platform other than the <strong>web</strong>. I don&#8217;t like the idea of people writing java, python etc. apps on this platform.</li>
+</ol>
+
+<p>There was this &#8220;user permission&#8221; stuff talk in the manifest, which I gather has been another java inspired thing. I wonder how this security stuff will end up being solved, as I am looking into the problem too at <a href="http://wiki.webvm.net/">Aplix UK</a>.</p>
+
+<p>Surprisingly I found Simon Rockman&#8217;s presentation pretty good. I hoped to catch him afterwards for a chat. I need a mobile phone recommendation for my elderly dad! ;)</p>
+
+<p>Julie Stawson&#8217;s talk of proprietary fonts fired me up. Fonts on the &#8220;web platform&#8221; is in a bit of a dire state from a open standards <span class="caps">POV</span>. I&#8217;ve <a href="http://natalian.org/archives/2007/05/31/chinese-font/">blogged about fonts</a> before. There are some freely licensed fonts like <a href="http://en.wikipedia.org/wiki/DejaVu_fonts">Dejavu</a> that are pretty good. I wonder how it performs on mobile devices. However I think her company <a href="http://www.monotypeimaging.com/">Monotype Imaging</a> could make some contributions to typography on open platforms like <a href="http://www.bitstream.com/">Bitstream</a> did for example.</p>
+
+<p>Adobe&#8217;s slick &#8220;user experience&#8221; veiled Flash Lite pitch from Matt Millar also didn&#8217;t escape my comments. It is really sad that Adobe don&#8217;t properly support <span class="caps">SVG</span> anymore, since buying Macromedia&#8217;s Flash. Adobe, please carry on making create tools to generate (and playback) open formats. Please don&#8217;t push your proprietary platforms like <a href="http://en.wikipedia.org/wiki/Adobe_AIR"><span class="caps">AIR</span></a>. We&#8217;re <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/">Web developers following open standards</a> and we are not stupid.</p>
+
+<p>I enjoyed asking a few questions, though here is one more for the lazyweb. <span class="caps">WTF</span> is <a href="http://ovi.nokia.com"><span class="caps">OVI</span></a> supposed to be?</p>
+
+<p>I am left quite excited now by what I&#8217;ve seen today. I think people mostly understand the whole &#8220;Web as a mobile platform&#8221; idea and expectations are now raised.</p>

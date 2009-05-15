@@ -1,0 +1,16 @@
+[[!meta title="Wordpress mass hosting" ]]
+[[!meta date="2005-08-13 04:28:10" ]]
+<p>Why <a href="http://wordpress.org/hosting/">pay</a> <a href="http://comox.textdrive.com/pipermail/wp-hackers/2005-July/001836.html">more?</a></p>
+
+<p>Wordpress_1.5.1.3&#8211;4 has a little script to assist setting up loads of blogs on one machine. Try it out by putting <strong>wptest</strong> on your 127.0.0.1 line in /etc/hosts:</p>
+
+<code>
+debian$ sudo sh /usr/share/doc/wordpress/examples/setup-mysql wptest
+Constructed database name and user: wptest from wptest
+/etc/wordpress/config-wptest.php wrote
+Goto http://wptest to setup Wordpress
+</code>
+
+<p>Pretty easy huh?</p>
+
+<p>Though, I need to improve this hack and migrate it to dbconfig-common.</p>

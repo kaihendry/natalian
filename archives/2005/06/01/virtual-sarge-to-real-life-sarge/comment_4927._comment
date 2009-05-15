@@ -1,0 +1,19 @@
+
+[[!_comment format=mdwn
+ username="Mamading Ceesay"
+ subject="62.255.64.12"
+ date="2005-06-02 03:57:28"
+ content="""
+<p>It seems to me that both bootcd and mondo would allow you to create a backup of your debian install that can be restored to your newly acquired server and will create bootable media to kick off the restore from on a bare machine.</p>
+
+<p>Both are naturally apt-gettable on sarge, see:</p>
+
+<p><a href="http://packages.debian.org/testing/utils/bootcd">http://packages.debian.org/testing/utils/bootcd</a></p>
+
+<p><a href="http://packages.debian.org/testing/utils/mondo">http://packages.debian.org/testing/utils/mondo</a></p>
+
+<p><span class="caps">HTH</span></p>
+
+<p>Regards,<br />
+Mamading</p>
+"""]]

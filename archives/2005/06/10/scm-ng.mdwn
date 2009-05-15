@@ -1,0 +1,25 @@
+[[!meta title="SCM-NG" ]]
+[[!meta date="2005-06-16 07:55:40" ]]
+<p>There was another a problem I didn&#8217;t mention in my <a href="http://natalian.org/archives/2005/05/27/subversion-homedir/">Subversion homedir blog.</a></p>
+
+<p>It is not distributed.</p>
+
+<p>So when <a href="http://hendry.iki.fi">hendry.iki.fi</a> goes down or when I do not have a net connection(on a laptop), development halts. I can&#8217;t roll back easily, move/copy files about or run my favourite command svn diff effectively after an edit.</p>
+
+<p>Last Tuesday I attended a talk by Robert Collins about <a href="http://bazaar.canonical.com/">Bazaar</a> at <a href="http://www.luv.asn.au/presentations"><span class="caps">LUV</span>.</a></p>
+
+<p>He comes across as a smart guy and I will make an effort to switch from Subversion to his project.</p>
+
+<p>The thing I wanted with SCMs was something like what I&#8217;ve seen in <strong>Plan9</strong>. If you have not checked out the <a href="http://cm.bell-labs.com/plan9dist/">Plan9 operating system</a> you are really missing out. It comes with some <a href="http://plan9.bell-labs.com/sys/doc/">great papers</a> and now you can try <a href="http://www.cs.bell-labs.com/wiki/plan9/Installing_in_Xen">Plan9 in Xen.</a></p>
+
+<p>The Plan9 inbuilt command <a href="http://plan9.bell-labs.com/magic/man2html?man=history&amp;sect=1">history</a> gives you previous versions of the file. If you care to look at the examples, it suggests using it on a file which has current login information, in order to see when and how often someone logged in.</p>
+
+<p><span class="caps">HOW</span> <span class="caps">COOL</span> IS <span class="caps">THAT</span>?</p>
+
+<p>An inbuilt <span class="caps">SCM</span> into the filesystem. I have been dreaming of using such features (in Debian) since I saw it.</p>
+
+<p>I asked <a href="http://www.robertcollins.net/">Robert Collins</a> about Plan9 during his talk and he pointed out that Plan9 is a homogeneous system. Great features they are, like distributed computing but those features aren&#8217;t portable to <strong>Win32</strong>. This fact hit me like a relevation.</p>
+
+<p>He&#8217;s right. We live in a world of legacy technologies. Microsoft might be beaten on the server and <span class="caps">API</span>, but their software is going to be around for generations to come.</p>
+
+<p>That seriously limits Plan9&#8217;s amazing design from the ground up.</p>

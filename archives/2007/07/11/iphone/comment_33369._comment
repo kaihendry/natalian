@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="91.84.62.62"
+ date="2007-07-13 10:31:33"
+ content="""
+<p>I don&#8217;t know much about Image internals, so it is good of you to try explain them.</p>
+
+<p>I wonder if this scaling inefficiency is the same as the use case of zooming into an image?</p>
+
+<p>I am perhaps wrongly convinced that there must be a way of efficiently viewing bitmap images via network “byte-range requests&#8221;.</p>
+"""]]

@@ -1,0 +1,23 @@
+[[!meta title="Five nines" ]]
+[[!meta date="2005-07-04 15:40:56" ]]
+<p>99.999% availability on service level agreements generally accomodate just <strong>one</strong> point of failure. So in a cluster if one machine goes down, it copes as there is another one to take it&#8217;s tasks on the fly and all the data is replicated elsewhere.</p>
+
+<p>I wonder what High Availability(HA) setups feature <strong>two</strong> points of failure or how they&#8217;re marketed&#8230;</p>
+
+<p>Be aware of <a href="http://www.hostcentral.net.au/about/?p=sla">99.5% uptime guarantee</a> perticulars. Most providers have a sliding scale of how much they compensate you. The compensation rarely adds up to anything significant.</p>
+
+<p>One example:<br />
+<blockquote><br />
+If the total Downtime in the calendar month is more than fourteen and four-tenths (14.4) hours, the Service fee for that month shall be reduced by thirty-three percent (33%).<br />
+</blockquote></p>
+
+<p>One third of your hosting costs for one month doesn&#8217;t quite cover the costs of a client&#8217;s business process that went down for an entire business day.</p>
+
+<p>Other considerations:<br />
+* Actually monitoring your server &#8211; outsource to Netcraft? :)<br />
+* <span class="caps">DOS</span> attacks etc.<br />
+* When dependent link on the net goes down that&#8217;s out of your control<br />
+* Insurance policies (urgh!)<br />
+* Power disruptions &#8211; most &#8220;UPS&#8221; solutions offers just a few seconds to shut down your server. Better setups feature generators, but they only function for as long as there is fuel. ;)</p>
+
+<p><a href="http://www.kaibackman.com/development/2005/06/dependencies_co.html">Keep dependencies to a minimum</a></p>

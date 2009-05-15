@@ -1,0 +1,17 @@
+
+[[!_comment format=mdwn
+ username="Erich Schubert"
+ subject="84.154.5.67"
+ date="2005-12-22 23:23:15"
+ content="""
+<p>Well, From: is just the visible sender.<br />
+Return-Path is the specification where to return bounces to.<br />
+<span class="caps">FYI</span>: my mailserver will reject mails with a return-path that contains a non-resolveable hostname.<br />
+Note that both exim (use /etc/email-adresses) and postfix (use canonical maps) allow you to configure rewriting for your return path.</p>
+
+<p>To be precise: neither the &#8220;From:&#8221; nor the &#8220;To:&#8221; field have any real importance in <span class="caps">SMTP</span>. Thats why stuff like CC: and Bcc: and forwarding work. The real sender (read: return) and reciepient adresses are transmitted in the <span class="caps">SMTP</span> handshake. They are only &#8220;logged&#8221; to the mail headers, actually.<br />
+(see <span class="caps">SMTP</span> &#8220;MAIL <span class="caps">FROM</span>&#8221; and &#8220;RCPT TO&#8221; commands)<br />
+The return-path is by definition the contents of the &#8220;MAIL <span class="caps">FROM</span>:&#8221; part of the smtp handshake.</p>
+
+<p>The firewall argument is bogus. Thats what an MX is for. Setup an MX so it receieves and forwards/stores the return mail for you.</p>
+"""]]

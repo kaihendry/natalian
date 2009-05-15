@@ -1,0 +1,16 @@
+[[!meta title="Ubuntu Forums" ]]
+[[!meta date="2006-09-20 08:26:06" ]]
+<ol>
+<li>My sister has a problem with her Ubuntu installation, I recommended <a href="http://ubuntuforums.org/">Ubuntu forums</a></li>
+<li><a href="http://ubuntuforums.org/showthread.php?t=253801"><a href="http://ubuntuforums.org/showthread.php?t=253801">http://ubuntuforums.org/showthread.php?t=253801</a></a></li>
+<li>The answer isn&#8217;t really helpful</li>
+<li>Eventually I fix it myself. Problem was <strong>something</strong> muted one of the <span class="caps">ALSA</span> channels. Alsamixer to the rescue.</li>
+<li>So, I figure I should add my solution. So I login with my Ubuntu launchpad username and password</li>
+<li>You have entered an invalid username or password.</li>
+<li>Hmm, maybe I have the password down wrong. &#8220;Lost Password Recovery Form&#8221; and my email address&#8230;</li>
+<li>You have not entered an email address that we recognise. Please try again or contact the administrator.</li>
+<li>Ok, I&#8217;ll contact the administrator&#8230; oops &#8220;You are not logged in or you do not have permission to access this page.&#8221;</li>
+<li>Damn, guess I have to open <strong>another</strong> account. 144 accounts and counting so far, I guess there is room for another. So <a href="http://ubuntuforums.org/register.php?do=signup">register</a>&#8230;</li>
+<li>Forum Rules in a little textarea. Too long&#8230;</li>
+<li>I&#8217;ve wasted enough time already. Bye.</li>
+</ol>

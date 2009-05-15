@@ -1,0 +1,13 @@
+[[!meta title="XHTML MP" ]]
+[[!meta date="2004-02-10 10:14:40" ]]
+<p>Looking at <a href="http://ncsp.forum.nokia.com/downloads/nokia/documents/XHTML_Guidelines.pdf">Nokia&#8217;s <span class="caps">XHTML</span> Guidelines</a> on page 61:</p>
+
+<blockquote>
+As of 2002, most Nokia phones supporting XHTML MP have a 2800 byte limit per document.
+</blockquote>
+
+<p>Part of my job is to make sure our pages render on mobiles. With <a href="http://www.cs.helsinki.fi/u/hendry/work/nodes/template/pp/index.en.shtml">one of my 6347 byte project templates</a> am I supposed to carve it into three pages? What about a <a href="http://www.cs.helsinki.fi/u/hendry/work/nodes/template/pp/list.en.shtml">list of the project groups</a>, weighing in at over 8400 bytes.</p>
+
+<p>For those wondering what a byte is, it is generally one character. So the letter <em>a</em> would be encoded in a single byte. Same goes for whitespace. Whole elements however can be compressed down to one byte too.</p>
+
+<p>The body of this post is now 1000 bytes. Eeek.</p>

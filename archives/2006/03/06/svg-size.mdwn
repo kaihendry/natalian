@@ -1,0 +1,11 @@
+[[!meta title="SVG size" ]]
+[[!meta date="2006-06-21 17:07:25" ]]
+<embed src="http://dabase.com/svg/feed-icon.svg" type="image/svg+xml" />
+
+<p>I was having a look at the <span class="caps">SVG</span> version from the <a href="http://www.feedicons.com/">feed icons</a> site and I was surprised how well it <a href="http://dabase.com/svg/text.html">rendered.</a></p>
+
+<p>Interestingly the <span class="caps">SVG</span> file is just 1.2kb! Gzipped, it&#8217;s 545bytes. A <span class="caps">PNG</span> 32&#215;32 pixel version is 1.5kb and the 10&#215;10 is 469 bytes. I wonder how the <span class="caps">PNG</span> format&#8217;s size grows with the pixel size. <span class="caps">SVG</span>&#8216;s size won&#8217;t grow, though that&#8217;s a lie; surely memory whilst rendering the <span class="caps">SVG</span> will grow at some rate whilst zooming into it?</p>
+
+<p>I was thinking <span class="caps">SVG</span> would be great for mobiles, but it is hard to argue the case. For example, rendering the <span class="caps">SVG</span> is surely harder than to decode a bitmap image. Also, what is the point of scaling up into an <span class="caps">SVG</span> graphic (on a mobile) anyway?</p>
+
+<p>Perhaps we are <strong>still</strong> better with a <a href="http://natalian.org/archives/2005/01/21/images/">JPEG2000 type approach.</a> as bitmaps are <strong>far more common</strong> than vector graphics. Sadly, <a href="http://wiki.mozilla.org/Mozilla2:ImageLib#JPEG2000">JPEG2000 is heavily patented.</a> How frustrating. :(</p>

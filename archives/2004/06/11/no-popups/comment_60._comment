@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Tom Pike"
+ subject="217.159.17.26"
+ date="2004-06-13 17:25:14"
+ content="""
+<p>Yes it has &#8220;use style&#8221;.  It is accessed by an icon in the left-hand side of the status bar that appears if the site has defined titles for its stylesheets/alternate stylesheets.</p>
+
+<p>Site navigation bar is moved into <a href="http://extensionroom.mozdev.org/more-info/linktoolbar">an extension</a>.  It appear in the status bar rather than its own toolbar though.</p>
+"""]]

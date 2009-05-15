@@ -1,0 +1,19 @@
+[[!meta title="Working on Wordpress" ]]
+[[!meta date="2007-01-18 09:15:55" ]]
+<a href="http://www.flickr.com/photos/hendry/360729784/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/157/360729784_e3034c8fe7_m.jpg" width="240" height="180" alt="Stacked Thinkpads" /></a>
+
+<p>I am keeping a close eye on the <a href="http://wordpress.org/development/2007/01/wordpress-207/">Wordpress 2.0.7 release</a>.</p>
+
+<p>I am being cautious because:</p>
+
+<ol>
+<li>no pings on their post. bit odd!</li>
+<li>The mentioned <a href="http://bugs.debian.org/407116">vulnerability does not apply to Debian&#8217;s <span class="caps">PHP</span></a></li>
+<li>The diff between 2.0.6 and 2.0.7 has some considerable changes to the Akismet plugin which is not mentioned on the changelog/post</li>
+<li>I would like to improve the Debian copyright file, though I would like to hear back from upstream first</li>
+<li>There seems to be <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=407289">another minor security bug which I don&#8217;t think 2.0.7 addresses</a></li>
+</ol>
+
+<p>I am also keeping an eye on <a href="http://natalian.org/archives/2006/12/11/wordpress-mu/">Wordpress MU</a> edition, to see how they handle these bugs, which has been version 1.0 for sometime.</p>
+
+<p>Update: Ryan informs me there will be a 2.0.8 fixing the last reported security bug.</p>

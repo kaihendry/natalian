@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Steve Kemp"
+ subject="82.41.224.160"
+ date="2005-05-30 12:57:36"
+ content="""
+<p>I&#8217;m not too sure that enforcing the upgrade to Apache2 is a good idea, even if you mandate the use of mod_security.</p>
+
+<p>After all a non-clueful administrator is likely to be missing the necessary rules to protect their server.</p>
+
+<p>I briefly wrote an introduction to mod-security &#8211; but as has been said in many places without a good set of rules mod-security is giving a false impression of security and doing little active good.</p>
+
+<p>(My <a href="http://www.debian-administration.org/articles/65" rel="nofollow">introduction to mod-security on Debian</a>).</p>
+"""]]

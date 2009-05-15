@@ -1,0 +1,26 @@
+[[!meta title="Timeline" ]]
+[[!meta date="2005-07-19 21:23:47" ]]
+<p>After spending too many hours sorting out date and time issues with my <a href="http://pictures.natalian.org/">picture collection,</a> I am now concerned with date/time standards.</p>
+
+<p>The <a href="http://www.whatwg.org/specs/web-forms/2005-04-11-call-for-comments/#date">standard that <span class="caps">WHATWG</span></a> refers to is <a href="http://www.iso.ch/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=26780&amp;ICS1=1&amp;ICS2=140&amp;ICS3=30"><span class="caps">ISO</span> 8601.</a> Though in order to read this, I need to <strong>buy</strong> it. Er, no can do. And it seems to be a <strong>withdrawn standard</strong>. What&#8217;s that all about?</p>
+
+<p><span class="caps">OMG</span> date/time has historically been fecked up in software. Remember Y2K?</p>
+
+<p>In <a href="http://www.whatwg.org/specs/web-forms/current-work/">WF2</a> new date/time controls are introduced as extensions to the <strong>input</strong> element. Attributes like:</p>
+
+<ul>
+<li>datetime</li>
+<li>datetime-local</li>
+<li>date</li>
+<li>month</li>
+<li>week</li>
+<li>time</li>
+</ul>
+
+<p>Firstly I am not fond of having several attributes when one <a href="http://lists.whatwg.org/htdig.cgi/whatwg-whatwg.org/2005-January/003000.html">element</a> <a href="http://lists.whatwg.org/htdig.cgi/whatwg-whatwg.org/2005-January/003017.html">could</a> do. This was proposed by Matthew Raymond (as a format element?) though I think it was <a href="http://lists.whatwg.org/htdig.cgi/whatwg-whatwg.org/2005-January/003005.html">shot down</a> by the fact that legacy applications would have to ignore this new data type. Ok so it&#8217;s not in the domain of WF2, though we still can&#8217;t ignore this major problem of dating data!</p>
+
+<p>Other things I am worried about is:<br />
+* Negative dates &#8211; useful for faux blogs and games<br />
+* Timezones &#8211; You <strong>always</strong> need this! And the <a href="http://whatwg.org/demos/date-01/"><span class="caps">WHATWG</span> date/time demo</a> doesn&#8217;t have it.</p>
+
+<p>Something must be done to address the temporal values of the Web. Take for example the way currently the date/time of this post is marked up.  &#8220;July 2005&#8221; in a &#8220;small&#8221; element and &#8220;title&#8221; attribute. <strong>That&#8217;s not right.</strong></p>

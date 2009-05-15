@@ -1,0 +1,39 @@
+[[!meta title="Rant: Mailing lists" ]]
+[[!meta date="2006-11-21 14:33:30" ]]
+<p>Free software mailing lists suck. Especially Apache&#8217;s.</p>
+
+<ul>
+<li>Many of them have a <span class="caps">CRAP</span> Web interface or worse:</li>
+<li><strong>Posting limited to subscribers</strong></li>
+</ul>
+
+<p>For weeks I have been struggling with <a href="http://apache.org/">Apache</a> mailing lists (apache-users and <a href="http://groups.google.com.au/group/spamassassin/browse_thread/thread/fecfb958a9a9b60e">spamassassin</a>) and now recently with <a href="http://www.mutt.org/mail-lists.html">mutt lists</a>.</p>
+
+<p>I know with Apache lists you can use a special syntax:</p>
+
+<blockquote>
+You can start a subscription for an alternate address,
+for example "john@host.domain", just add a hyphen and your
+address (with '=' instead of '@') after the command word:
+&lt;users-subscribe-john=host.domain@httpd.apache.org&gt;
+</blockquote>
+
+<p>But when I do it via mutt or a `echo test | mail users-unsubscribe-hendry=dabase.<a href="mailto:com@httpd.apache.org">com@httpd.apache.org</a>`. I get <strong>no response</strong> from the automated mailing list manager. :(</p>
+
+<p>So, If I ever get subscribed it&#8217;s generally thanks to the mailing list owner.</p>
+
+<p>Then after lurking a bit, I try post. That never works as the <strong>return paths</strong> don&#8217;t match the email I am subscribed with. Return paths change all the time depending on which machine I sent it from. It could be anything from:</p>
+
+<ul>
+<li>&#104;&#101;&#110;&#100;&#114;&#121;&#064;&#112;&#105;&#099;&#111;&#046;&#100;&#114;&#101;&#097;&#109;&#104;&#111;&#115;&#116;&#046;&#099;&#111;&#109; (from my shell)</li>
+<li>&#104;&#101;&#110;&#100;&#114;&#121;&#064;&#108;&#097;&#112;&#116;&#111;&#112;&#046;&#100;&#097;&#098;&#097;&#115;&#101;&#046;&#099;&#111;&#109; (from my laptop)</li>
+<li>&#104;&#101;&#110;&#100;&#114;&#121;&#064;&#115;&#111;&#108;&#116;&#101;&#099;&#115;&#111;&#102;&#116;&#119;&#097;&#114;&#101;&#046;&#099;&#111;&#109;&#046;&#097;&#117; (from work)</li>
+</ul>
+
+<p>And the first two aren&#8217;t working email addresses!</p>
+
+<p>If you must filter, can&#8217;t you filter on my From OR Reply-To email address <span class="caps">FFS</span>: &#104;&#101;&#110;&#100;&#114;&#121;&#064;&#105;&#107;&#105;&#046;&#102;&#105;</p>
+
+<p>All I suggest is for Apache to start using something usable like <a href="http://groups.google.com.au/groups/create?lnk=l">Google Groups</a> for user support.</p>
+
+<p>Does anyone else feel my frustration?</p>

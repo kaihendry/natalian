@@ -1,0 +1,17 @@
+[[!meta title="Changes" ]]
+[[!meta date="2006-08-24 18:35:09" ]]
+<p>I&#8217;m at my parents <a href="http://prazefarm.co.uk/">farm in Cornwall</a> and there is ridiculous amount of work to do around the place. It&#8217;s difficult to hack bushes at day and then try hack at night. ;) At least we now have &#8220;broadband&#8221;.</p>
+
+<a href="http://www.flickr.com/photos/hendry/223025358/" title="Photo Sharing"><img src="http://static.flickr.com/98/223025358_eb4570f473_m.jpg" width="240" height="180" alt="Scene near Cardinham wood" /></a>
+
+<p>A couple of days ago I opened up a clueless  <a href="http://bugs.debian.org/383837">bug report</a>. Everything was unstable on my Unstable system, especially under 2.6.17, but not 2.6.16.</p>
+
+<p>Then I upgraded, not the kernel. I think udev (usual suspect), not sure, and everything works again. I was upgrading frantically after every pulse and last night I noticed 2.6.17 was working again. Now I am uneasy as I really don&#8217;t know what was at fault here.</p>
+
+<p>If I had more time I would have chased this down. Though as I&#8217;ve <a href="http://natalian.org/archives/2006/07/21/broken-thoughts/">whined about before</a>, you can&#8217;t roll back and diff that easily between upgrade snapshots.</p>
+
+<p>In other news I&#8217;ve <a href="http://10kloc.org/pipermail/dwm/2006-August/000352.html">switched</a> from Ion3 to <a href="http://10kloc.org/dwm/">dwm</a>. dwm sort of requires some tweaks and a recompile, so it&#8217;s another package to maintain. ;) Below is a screenshot:</p>
+
+<a href="http://www.flickr.com/photos/hendry/222786897/" title="Photo Sharing"><img src="http://static.flickr.com/80/222786897_070383b5e8_m.jpg" width="240" height="180" alt="IE6 on Debian" /></a>
+
+<p>In about a week I&#8217;ll be off on my first expedition to South America. I&#8217;ll begin at Buenos Aires to learn some of the local lingo.</p>

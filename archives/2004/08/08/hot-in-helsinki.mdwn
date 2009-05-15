@@ -1,0 +1,25 @@
+[[!meta title="Hot in Helsinki" ]]
+[[!meta date="2004-08-08 21:52:14" ]]
+<p><a href="ftp://ftp.edome.net/events/assembly04/compos/"><span class="caps">ASM</span> ´04 is over.</a></p>
+
+<p><a href="ftp://ftp.edome.net/events/assembly04/compos/browser_demo/Mooncheese_by_Shingebis.zip" title="not flash!">Browser demo wins with Javascript!</a></p>
+
+<p>Congratulations to the prolific <a href="http://jet.ro/">Jetro</a> for winning the Win32 4k intro!</p>
+
+<p>In other Helsinki news, there is a <a href="http://ncsp.forum.nokia.com/download/?asset_id=11956">white paper about UI enhancements to Nokia&#8217;s series 60 UA.</a></p>
+
+<p>A <a href="http://en.wikipedia.org/wiki/Whitepaper">white paper</a> btw outlines policy.</p>
+
+<p>Painfully repeats the fallacy of the web converging on <span class="caps">XHTML</span>. Talks about precise control with <span class="caps">CSS</span>. Oh pleasie. And some new UI enhancements like:</p>
+
+<ul>
+<li>Full screen browsing mode</li>
+<li>A progress bar</li>
+<li>Bookmarks history</li>
+<li><span class="caps">URL</span> auto-complete</li>
+</ul>
+
+<p>Like <span class="caps">WOO</span>-PEE! <br />
+Has some non-information about a scripting and a plugin <span class="caps">API</span>.</p>
+
+<p>A lot of people are talking about Nokia fucking up, not just me. Open your platform and get <a href="http://www.mozilla.org/projects/minimo/">minimo</a> going.</p>

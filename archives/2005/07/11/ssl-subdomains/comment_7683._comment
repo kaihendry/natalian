@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Joose"
+ subject="128.214.191.196"
+ date="2005-07-12 19:18:25"
+ content="""
+<p>CERTs in browser are already checked by the vendor. If there is a cert in IE, then we trust MS that IE has correct certs in it. If we use Safari, we trust Apple that there are correct CA certs in it.. Who cares whos certs there are, those are already checked and validated by the vendor we use. Of course if you use debian, no one can be sure of anything, not even that it [debian] works =)</p>
+
+<p>- Joose</p>
+"""]]

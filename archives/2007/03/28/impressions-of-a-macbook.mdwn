@@ -1,0 +1,33 @@
+[[!meta title="Impressions of a Macbook" ]]
+[[!meta date="2007-06-18 22:19:08" ]]
+<a href="http://www.flickr.com/photos/hendry/437391024/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/181/437391024_532dafdb2a_m.jpg" width="240" height="180" alt="Macbook kills my Internet connection" /></a>
+
+<ul>
+<li>The latch is badly designed</li>
+<li>MacOSX 10.4.9</li>
+<li>heavy (compared to an X40)</li>
+<li>2 <span class="caps">USB</span> ports? That&#8217;s it? I accidentally jab the Firewire port with my <span class="caps">USB</span> devices</li>
+<li>That camera looks tiny</li>
+<li>Amazed how it detected the open wireless network. nice.</li>
+<li>Slow</li>
+<li>Track pads are terrible. Even my Dad concedes he hates it. Give us a nipple anyday.</li>
+<li>Plugging in my external <span class="caps">USB</span> fat32 hard drive didn&#8217;t work! With <a href="http://www.oreillynet.com/pub/h/341">nfs</a> to access my media, I was surprised how to listen an mp3, you have to copy the file into Itunes. Omg. And watching a movie. Quicktime with no fullscreen playback. <span class="caps">OUCH</span>.</li>
+<li>I&#8217;ve had to get used to looking at the top bar carefully</li>
+<li>ctrl+trackpad button is right click. <span class="caps">OMG</span>. Pain.</li>
+<li>samba doesn&#8217;t seem to work right</li>
+<li>I can&#8217;t figure out how to scroll through photos. I think there is some crap Canon image software (why do camera manufacturers seem compelled to ship terrible software with their hardware?) getting in my way here.</li>
+<li>Quite noisy when doing something</li>
+<li>Software update doesn&#8217;t seem able to resume unlike Debian. :(</li>
+<li>It absolutely <span class="caps">HOGS</span> the Internet connection! <span class="caps">WTF</span>! Do I have to implement QoS now? How can my Debian machines share the Internet and Wireless nicely, but not this Macbook?</li>
+<li>Can&#8217;t shut it down after an update</li>
+<li>Zoom is pretty cool for my dad</li>
+<li>I am slowly starting to discover the shortcuts and how to manage Windows. Alt+Tab fealt wrong though. Can&#8217;t launch dictionary. Maybe it&#8217;s not installed?</li>
+<li>The interface isn&#8217;t that great. Intuitive my ass. They often move the close button about.</li>
+<li>Updating Itunes, &#8220;Please quit iTune before conti&#8230;&#8221; Pity it can&#8217;t update a running application like Debian.</li>
+<li>Installing .dmg files isn&#8217;t nearly as easy as apt-get</li>
+<li>When I close the lid, it stops doing what it supposed to do. I <span class="caps">HATE</span> <span class="caps">THAT</span>. If you have power, <strong>do not suspend</strong> whatever.</li>
+<li>The shell and some sensible default applications like vim is quite nice</li>
+<li>I&#8217;m not a fan of the widescreen dimensions.</li>
+</ul>
+
+<p>Btw this is my Dad&#8217;s Macbook. I&#8217;m still married to Debian <span class="caps">SID</span> and a Thinkpad.</p>

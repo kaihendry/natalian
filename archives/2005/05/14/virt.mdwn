@@ -1,0 +1,22 @@
+[[!meta title="Virtual domains are the norm, not the exception" ]]
+[[!meta date="2005-05-14 22:56:19" ]]
+<p>Spent about 4 hours today trying to configure <a href="http://www.postfix.org/VIRTUAL_README.html">Postfix for virtual domains.</a></p>
+
+<p>It just would not work. Mail kept on going to another user. It would never follow the original to field. And fiddling with main.cf would sometimes make it report that the user does not exist anymore. Oh ffs. Edit, postmap for the db, reload, restart. Argh.</p>
+
+<p>maildrop would not behave unless I created the Maildir with maildirmake. That took ages to figure out.</p>
+
+<p>Now I am back exim again. I hate exim&#8217;s configuration files. I have never quite understood them, yet it just works.</p>
+
+<p>I setup everything I wanted in exim with this <a href="http://koivi.com/exim4-config/">guide</a> in about 10 minutes.</p>
+
+<p>In future I just would like to configure my Unix box with a virtual domain structure. Like:<br />
+<pre><br />
+cat /mail/natalian.org<br />
+*:hendry</p>
+
+<p>ls /web/natalian.org<br />
+/web/natalian.org -> /usr/share/wordpress <br />
+</pre></p>
+
+<p>I met DDs Russell Coker and Hamish Moffat today in Melbourne. Had a surprisingly good Japanese Tempura lunch today. Better than Japan! ;)</p>

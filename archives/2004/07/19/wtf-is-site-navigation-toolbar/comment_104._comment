@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Stuart"
+ subject="209.152.205.123"
+ date="2004-07-19 16:25:00"
+ content="""
+<p>Someone already pointed you to the linktoolbar extension. The unfortunate thing about it is that for some reason they decided to put it in the statusbar instead of in the toolbars.</p>
+
+<p>Since I have a little bit of my code in there (I wrote the original implementation of &#8220;show only as needed&#8221;), I&#8217;ve often intended to try to &#8220;fix&#8221; that (by making it configurable, as presumably the original author of the extension likes it in its current insane location).</p>
+
+<p>Unfortunately I haven&#8217;t yet had time to actually tackle it, and the list of other things that I need to work on continues to stay full enough that it may not happen any time in the near future&#8230;</p>
+"""]]

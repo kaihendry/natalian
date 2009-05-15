@@ -1,0 +1,21 @@
+[[!meta title="W3C drops the mobile" ]]
+[[!meta date="2009-03-26 18:08:48" ]]
+<a href="http://www.flickr.com/photos/hendry/410374588/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/186/410374588_9b38f21945_m.jpg" width="180" height="240" alt="Wandsworth moon" /></a>
+
+<p>Today I came across a <a href="http://ready.mobi/">stupid .mobi</a> website that led me inspect W3C practices regarding the mobile domain.</p>
+
+<p>I&#8217;ve been <a href="http://maps.natalian.org/">travelling for years</a> since writing my <a href="http://natalian.org/archives/2004/10/03/web-engineering-for-mobile-devices/">thesis</a>, so I had some catching up to do.</p>
+
+<p>Back then it was just the <a href="http://lists.w3.org/Archives/Public/www-di/">W3 device independent mailing list</a>, now it&#8217;s mushroomed into the <a href="http://www.w3.org/Mobile/">Mobile Web Initiative</a>.</p>
+
+<p>Years ago I subscribed to all the <a href="http://natalian.org/archives/2005/05/11/w3c-fun-run/">new mailing lists</a>, then I thought the <a href="http://dabase.com/l/">mailing lists</a> were dead, however recently after inspecting the archives, I have discovered they have become more active. Perhaps I was unsubscribed. :)</p>
+
+<p>I&#8217;ve since re-subscribed and oh, there is of course another new list <a href="http://lists.w3.org/Archives/Public/public-bpwg-comments/">bpwg-comments</a>. Showing W3C&#8217;s &#8220;commitment&#8221; for people&#8217;s comments. <a href="http://ln.hixie.ch/?start=1172653243&amp;count=1">W3C&#8217;s secret practices</a> are way up shit creek. I don&#8217;t know why I bother navigating around a Website where several links are restricted. That really does absolutely nothing to motivate me help spend my time helping the W3C.</p>
+
+<p>Does the W3C really get the Web at all? The spirit of the thing? I don&#8217;t think so.</p>
+
+<p>Yet I still decided to send in a <a href="http://lists.w3.org/Archives/Public/public-bpwg-comments/2007JanMar/0007">comment</a>  about the laughable <a href="http://www.w3.org/TR/2007/WD-mobileOK-basic10-tests-20070130/">W3C mobileOK Basic Tests 1.0</a> document.</p>
+
+<p>Anyway it never ceases to surprise me how the W3C has dug its own grave by becoming irrelevant and disconnected. All those sponsors are really pissing their money away. :/</p>
+
+<p>Update: Sorry if this comes across a bit negative. It&#8217;s just that I was put in a bad mood on the prospect that this work is encouraging a device dependent Web, which would <a href="http://lists.w3.org/Archives/Public/public-bpwg-comments/2007JanMar/0012.html">create senseless redundancy as I again commented</a>.</p>

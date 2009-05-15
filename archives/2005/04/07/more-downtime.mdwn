@@ -1,0 +1,11 @@
+[[!meta title="More downtime" ]]
+[[!meta date="2005-04-07 07:18:37" ]]
+<p>My box hosting dabase.com and natalian.org and many other sites will be offline for awhile as I try migrate the box&#8217;s data from Finland to Jamie&#8217;s box in London.</p>
+
+<p>When I have some money I&#8217;ll get my box in some colo facility in Helsinki. Thanks Teemu Hukkanen for looking after the box.</p>
+
+<p>And yes, my wordpress installation&#8217;s comments are still not working. I dream of a stable fast net connection and a Thinkpad.</p>
+
+<p>I&#8217;ve added a <a href="http://natalian.org/archives/category/travel/">travel category.</a> I will start blogging about my extensive travels in future. Hopefully I won&#8217;t get too <strong>airy fairy</strong> and personal, as practical tips are already anonymously contributed to <a href="http://wikitravel.org/en/Main_Page">Wikitravel.</a></p>
+
+<p>Regarding travel, my accounts have been delivered in the past with a <a href="http://liw.iki.fi/liw/eoc/">mailing list.</a> Most of my friends are too IT incompetent to subscribe to <span class="caps">RSS</span>. ;) I need make the archives of that list available in future. Be good if I could merge the two mediums, email and blog. Wiki incorporated would be great too.</p>

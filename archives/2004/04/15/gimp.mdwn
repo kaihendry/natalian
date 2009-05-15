@@ -1,0 +1,11 @@
+[[!meta title="Gimp" ]]
+[[!meta date="2004-04-15 16:25:51" ]]
+<p>A collegue asked me how you draw a straight line in the <a href="http://www.gimp.org/index.html"><span class="caps">GIMP</span></a>.</p>
+
+<p>Good question.</p>
+
+<p>I never managed to figure it out.</p>
+
+<p>But whilst trying to get away from the freezing server room where I am testing the latest <a href="http://skolelinux.org/">Skolelinux</a>&#8230;</p>
+
+<p>I found the <a href="http://www.gimp.org/tutorials/Straight_Line/">answer</a>.  Now how do I do an arrow?</p>

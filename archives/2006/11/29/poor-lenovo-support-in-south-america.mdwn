@@ -1,0 +1,32 @@
+[[!meta title="Poor Lenovo support in South America" ]]
+[[!meta date="2006-11-29 20:15:45" ]]
+<p>So a month ago my Thinkpads X40&#8217;s hard drive died in <a href="http://natalian.org/archives/2006/10/19/where-was-i/">Mendoza</a>. Today my X40 is back in working order, 1 month and 10 days later.</p>
+
+<p><span class="caps">IBM</span> support for Lenovo in the UK have been good, though in South America, it was terrible. Some points from my experience in Brazil.</p>
+
+<ul>
+<li>Slow</li>
+<li>Wrong numbers to call</li>
+<li>Some departments having no numbers. &#8220;You can&#8217;t call us. We call you.&#8221;</li>
+<li>Representives not have direct numbers, you have to go through the process</li>
+<li>Not being able to call special toll-free number from call boxes.</li>
+<li>Being cut off. Randomly and while being transferred.</li>
+<li>Having to wait 50 minutes to speak to the right person</li>
+<li>Terrible phone lines making clear conversion difficult</li>
+<li>Asking if they have the right hard drive in stock for my X40. &#8220;We&#8217;ll let you know in a week&#8221;.</li>
+<li>Of course a useless website</li>
+<li>Unable to email me, I had to email them. They asked me to verify my warranty and of course spent ages trying to communicate their stupid long email address to me over the bad phone line.</li>
+<li>Then they say they have not received me email, had to send it again. After sending again, they received it. For them to check their email, it took seriously 10 minutes.</li>
+<li>Having to be transferred to different departments. <span class="caps">IBM</span>/Lenovo/IBM warranty/3rd party contractors services</li>
+<li>Terrible communication between these departments</li>
+<li>Whole process for them took about 16 days</li>
+<li>Took 3 days to transfer hard drive from their stock to repair contractor</li>
+<li>Repair contractor in the middle of nowhere. I offered to come and collect the hard drive replacement myself.</li>
+<li>Having to open support requests with everyone I talked to seemingly. The same details over and over again, over terrible lines.</li>
+<li>I do not have a Brazilian ID card. That wasted a day.</li>
+<li>Not knowing the postcode of my guest house. They require also that. That wasted a day.</li>
+<li>When contractor from TecnoComp arrived, he didn&#8217;t have a external CD-ROM, so I had to find another Debian machine and setup Network install (more time lost).</li>
+<li>Hard drive is the exact same model, except 3 months older. I was hoping for a different manufacturer.</li>
+</ul>
+
+<p>In conclusion, to be constructive I suggest people at <span class="caps">IBM</span>/Lenovo use an accountable email system to interface with clients and be very quick about it. The main problem was the use of phones.</p>

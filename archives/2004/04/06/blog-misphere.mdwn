@@ -1,0 +1,15 @@
+[[!meta title="Blog-misphere" ]]
+[[!meta date="2004-04-06 10:22:28" ]]
+<p>I have just noticed via <a href="http://www.technorati.com/cosmos/search.html?rank=&amp;url=natalian.org&amp;sub=Go%21">Technorati</a>, my good old friend <a href="http://twelves.blogspot.com/">Timothy Twelves has a blog</a>. :)</p>
+
+<p>Me in <a href="http://weather.yahoo.com/forecast/FIXX0002_c.html?force_units=1">Helsinki</a> and Tim in <a href="http://weather.yahoo.com/forecast/SFXX0023_c.html?force_units=1">Johannesburg</a>&#8230;</p>
+
+<p>I do plan to visit South Africa for awhile next year&#8230;</p>
+
+<p>Oh yeah, this a technical blog thing, so allow me to cast my opinion into this <a href="http://twelves.blogspot.com/2004_04_01_twelves_archive.html#108117266724006165">Gmail thing</a>. Yes, excellent marketing.</p>
+
+<p>I certainly will not be using it or recommending it mainly because of the <a href="http://www.theregister.co.uk/2004/04/03/google_mail_is_evil_privacy/"> grave privacy issues, described in the recently redesigned The Register</a>. I refuse to use Orkut on this basis too.</p>
+
+<p>So what do I recommend? Some of that home grown&#8230; For power users, nothing beats the speed and piece of mind that a bogofilter(spam filter), exim(MTA), vim(editor), offlineimap(archiver), Dovecot(imap server), mairix(searching) and mutt(mail pager) type setup offers.</p>
+
+<p>For family and friends, I have <a href="https://mail.dabase.com/src/login.php">webmail for you</a>. Need an account?</p>

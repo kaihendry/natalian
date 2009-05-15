@@ -1,0 +1,27 @@
+[[!meta title="Computer Science for kids?" ]]
+[[!meta date="2006-10-03 08:36:32" ]]
+<a href="http://www.flickr.com/photos/hendry/105185422/" title="Photo Sharing"><img src="http://static.flickr.com/35/105185422_ac7cadab01_m.jpg" width="240" height="180" alt="Earl1a" /></a>
+
+<p>A friend of mine with a 10 year old child wants his son to play less online Role Playing games and learn programming. In this kid&#8217;s free time, all he does is play computer games. At that age I was probably the same, though what made me a &#8220;programmer&#8221;?</p>
+
+<p>My friend is so frustrated with his son&#8217;s constant game playing, that he has limited his son to use the computer only in the weekends. I found this quite surprising, but I think I can understand his concern. I remember not coming down for dinner, because I wanted to play <span class="caps">BRE</span> (BBS door games) with my friends instead. Thankfully my Dad never threw out my computer out the window like he swore he would do at times. :)</p>
+
+<p>So now, my friend suggests that perhaps we could teach his child something about programming. Perhaps a whole group of kids. All armed with laptops.</p>
+
+<p>But, when I was that age, I don&#8217;t think I was very interested in programming for the most part. I had to be forced to write some logo and turbo pascal for school. And looking back at it, logo and turbo pascal seemed so much easier than the complex and multi-layered APIs (Web) I work with everyday. Ok, I do remember being enthused about:</p>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Demoscene">demoscene</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Lan_party"><span class="caps">LAN</span> parties</a> with doom2 and quake</li>
+</ul>
+
+<p>But both of these cultures seem to be on the decline. Or perhaps I am just out of touch?</p>
+
+<p>During boarding school I actually stopped having access to <span class="caps">BBS</span>/Internet so I didn&#8217;t really touch a computer throughout my A-levels. It was only at Bath University where I found myself, almost surprisingly, taking a Computer Science course I learnt about Unix et al. So I started learning Computer Science at University. I think people in Korea are surprised when I tell them I hardly knew about computers before I joined a Computer Science course! ;)</p>
+
+<p>Ok, so without driveling any more. Here are the questions for you to say your bit in the comments. <br />
+* Do you think it is worthwhile to teach programming (Computer Science) to a child? <br />
+* How can we get kids more excited / creative about computer science? <br />
+* And how should a parent deal with computer game addicted kid?</p>
+
+<p>It would be great to teach on <a href="http://cm.bell-labs.com/plan9/">Plan9</a> or something simple, but I think kids would be more interested in graphics and sound. Bleh&#8230;</p>

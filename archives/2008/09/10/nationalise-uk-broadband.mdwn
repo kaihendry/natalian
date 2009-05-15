@@ -1,0 +1,24 @@
+[[!meta title="Nationalise UK Broadband" ]]
+[[!meta date="2008-09-18 16:43:07" ]]
+<img src="http://www.speedtest.net/result/320513973.png" alt="Fast University connection" />
+
+<a href="http://www.ja.net/">JANET</a> is academic and government sponsored. Does it suck? No.
+
+<p>How much would business in England pay to get a 100mbit office Internet connection? You can&#8217;t get a connection like that in the private sector! <a href="http://webconverger.org/blog/entry/UK_fibre_optic/">Global Crossing and the big boys will milk you dry for that sort of connection</a>.</p>
+
+<p>Fast fibre optic networks are crucial for England&#8217;s <a href="http://www.berr.gov.uk/sectors/telecoms/telecomsbroadband/page10034.html">competitiveness</a>. The closest the private sector has got to cabling homes with fibre optic is in <a href="http://www.berr.gov.uk/files/file44791.pdf">Ashford by Virgin Media</a> and <a href="http://news.bbc.co.uk/1/hi/technology/7448704.stm">BT&#8217;s Ebbsfleet</a>, which has been mocked as the &#8220;slowest fibre service in Europe&#8221;. Well done private sector.</p>
+
+<p>The <a href="http://www.broadbanduk.org">Broadband Stakeholder Group</a> (who describe themselves as UK government&#8217;s &#8220;leading&#8221; advisory group on broadband) recently has estimated the <a href="http://www.broadbanduk.org/fibrecosts">costs of fibre optic</a> to be between 5&#8211;28 billion <span class="caps">GBP</span>, which is frankly fucking ridiculous. Competitive countries such as Asian countries from Pakistan to Japan must be laughing at this.</p>
+
+<p>In the <span class="caps">PDF</span> <a href="http://www.broadbanduk.org/component/option,com_docman/task,doc_view/gid,1036/Itemid,63/"><span class="caps">BGS</span> report titled &#8220;Costs of deploying fibre-based next-generation broadband infrastructure</a> prepared by <a href="http://www.analysysmason.com/">Analysysmason</a>, they do say they can save money by re-using existing duct networks, which are generally privatised too.</p>
+
+<p>In section 4.2.5 <a href="http://en.wikipedia.org/wiki/Overhead_cable">overhead cabling</a> (aerially, as the <span class="caps">BSG</span> confusingly call it) is not compared to digging up the roads. Also they assume new telegraph polls for everything. W.T.F.</p>
+
+<p>The report leaves a lot to be desired. <br />
+* It&#8217;s impossible to link to sections in their report in order to discuss in detail online on the Web<br />
+* Instead of overusing stupid acronyms like <span class="caps">FTTC</span><sub>a</sub>, <span class="caps">FTTC</span><sub>b</sub>, <span class="caps">FTTC</span><sub>c</sub> throughout the document, why not simply writing out Urban, Rural and Remote? <br />
+* The report identifies some competition issues and how money can be saved if Virgin Media and BT work together&#8230; errr&#8230; why not just <a href="http://en.wikipedia.org/wiki/Nationalise">nationalise</a> the whole lot?<br />
+* Fibre to the cabinet (FTTC) is pretty much what Virgin Media already has and their performance is crap (esp. for uploads). Is this what the next generation broadband we have to look forward to?<br />
+* No mention of &#8220;fair usage caps&#8221; that ISPs already exert on customers with slow connections. If we get fast connections, will we be allowed to use them?</p>
+
+<p>Take a look at the report yourselves. I&#8217;ll come back to this after I gather some courage to dive back into that document. Incidentally a good <a href="http://www.samknows.com/broadband/news/report-published-on-the-future-of-next-generation-broadband-432.html">source for broadband <strong>information</strong> in the UK is Samknows</a>.</p>

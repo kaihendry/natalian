@@ -1,0 +1,21 @@
+[[!meta title="Web engineering for mobile devices" ]]
+[[!meta date="2007-10-02 19:32:40" ]]
+<p>Currently my <a href="http://hendry.iki.fi/msc.pdf">masters thesis about the Web <span class="caps">API</span> and mobile devices</a> is only available as a <span class="caps">PDF</span>. A paradox, for the time being.</p>
+
+<p>Since my thesis misses an acknowledgements section I will informally thank the many people who have helped my realise this project here.</p>
+
+<p>Computer Science Department staff and collegues:<br />
+* <a href="http://www.cs.helsinki.fi/u/kraatika/">Kimmo Raatikainen</a> for sponsorship<br />
+* <a href="http://www.cs.helsinki.fi/u/laine">Harri Laine</a> for comments on the paper<br />
+* <a href="http://www.cs.helsinki.fi/u/mraento/">Mika Raento</a> for our discussions and latex help<br />
+* <a href="http://www.cs.helsinki.fi/u/niklande/">Tiina Niklander</a> for encouragement and our little discussions</p>
+
+<p>Bath University friends:<br />
+* <a href="http://www.hixie.ch">Ian Hickson</a><br />
+* <a href="http://www.xiven.com">Tom Pike</a><br />
+* <a href="http://www.exploding-planet.com">Allan Clements</a></p>
+
+<p>Last but not least:<br />
+* <a href="http://lists.w3.org/Archives/Public/www-di/">W3 device independent mailing list</a><br />
+* Rotan Hanrahan<br />
+* <a href="http://hsivonen.iki.fi/">Henri Sivonen</a></p>

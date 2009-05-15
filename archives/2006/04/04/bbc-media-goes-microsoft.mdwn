@@ -1,0 +1,15 @@
+[[!meta title="BBC Media goes Microsoft" ]]
+[[!meta date="2006-04-04 12:49:45" ]]
+<p>I was browsing <a href="http://news.bbc.co.uk"><span class="caps">BBC</span> News</a> today and I found a couple things that pissed me off.</p>
+
+<p>Their antiquated <a href="http://news.bbc.co.uk/1/hi/help/3281849.stm">copyright notice.</a> I thought <a href="http://backstage.bbc.co.uk"><span class="caps">BBC</span> backstage</a> changed all that, allowing people to manipulate and syndicate <span class="caps">BBC</span> content. I mean how does Google get away with &#8220;only download the content for your own personal non-commercial use&#8221;??</p>
+
+<p>Then I noticed this <a href="http://backstage.bbc.co.uk/news/archives/2006/03/mix06_round_up.html">blog entry</a> about exciting new M$ technologies. From there a link to a very disheartening <a href="http://news.bbc.co.uk/1/hi/technology/4828336.stm">article about <span class="caps">BBC</span> partnering with M$.</a></p>
+
+<p>What happened about <span class="caps">BBC</span>&#8216;s vlc or codec rumours? :(</p>
+
+<p>Vista&#8217;s goal of getting content <a href="http://backstage.bbc.co.uk/news/archives/2006/03/mix06_round_up.html">out of the browser</a> is a <strong>clear threat</strong> to the Web browser based desktop that we&#8217;ve fought so hard for.</p>
+
+<p>I wish <span class="caps">BBC</span> had their content on <a href="http://video.google.com/">Google video,</a> the service which now works in Korea.</p>
+
+<p>With video software <a href="http://natalian.org/archives/2006/03/23/consumer-hardware/">patents</a> in the mix, this is <strong>bad</strong> news. <a href="http://www.bbc.co.uk/complaints/make_complaint.shtml">Make a complaint.</a></p>

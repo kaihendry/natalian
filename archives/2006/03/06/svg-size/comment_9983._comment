@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="219.252.91.33"
+ date="2006-03-08 13:04:07"
+ content="""
+<p>Keeping your data in <span class="caps">XML</span>? Are you nuts? I would just generate the <span class="caps">SVG</span> from a DB or something. :)</p>
+
+<p>What is the tool to create the <span class="caps">PDF</span> from <span class="caps">HTML</span> with <span class="caps">SVG</span> inline called?</p>
+
+<p>Did you notice how odd the rendering are between object and embed in your example? <a href="http://dabase.com/svg/text.html">http://dabase.com/svg/text.html</a></p>
+
+<p>Thanks for your comments Joose!</p>
+"""]]

@@ -1,0 +1,11 @@
+[[!meta title="Orange I am campaign" ]]
+[[!meta date="2009-04-20 02:27:11" ]]
+<a href="http://www.orange.co.uk/">Orange's</a> latest billboard marketing campaign in London is quite remarkable, as it asks you to search for "I am" to find out more.
+
+<a href="http://www.flickr.com/photos/hendry/2685703782/" title="orange ad by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3258/2685703782_8e6a1aca60_o.png" width="1166" height="159" alt="orange ad" /></a>
+
+<p>So that means that at least through out the campaign they must have paid <em>every</em> major search engine every time a respondent wants to find out more about their product offering.</p>
+
+<p>To me, this is surprisingly stupid. Is it that difficult for those coke snorting marketeers to find a reasonable (sub)domain and add some non-vacuous content? Crikey.</p>
+
+<p>I guess <a href="http://en.wikipedia.org/wiki/3_(telecommunications)">Hutchison 3G</a> have the same problem when people search for <a href="http://www.google.co.uk/search?q=3">3</a>. I guess if you don&#8217;t understand the Web you&#8217;ll get punished by Google.</p>

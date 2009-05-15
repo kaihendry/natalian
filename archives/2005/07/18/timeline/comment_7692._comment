@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="220.253.8.251"
+ date="2005-07-19 21:23:47"
+ content="""
+<p>I expected the TZ to be more explicit. I guess the format is defined with this value attribute.</p>
+
+<p>value=&#8220;DD/MM/YYYY HH:MM&#8221;</p>
+"""]]

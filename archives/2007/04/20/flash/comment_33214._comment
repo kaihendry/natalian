@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="82.2.121.203"
+ date="2007-04-28 16:10:46"
+ content="""
+<p>No you can&#8217;t keep your browser settings atm. I am reluctant to implement this as I&#8217;ve said before as it is: 1) non-trivial to implement 2) It would make Webconverger a whole lot less secure.</p>
+
+<p>I want Webconverger users to simply log into Google/Yahoo whatever (Web application you choose) and retrieve their settings on the Web <span class="caps">API</span> level.</p>
+"""]]

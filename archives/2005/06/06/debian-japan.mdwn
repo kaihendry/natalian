@@ -1,0 +1,28 @@
+[[!meta title="Debian Japan" ]]
+[[!meta date="2006-02-07 23:04:48" ]]
+<p>Last <a href="http://pictures.natalian.org/japan/2005/apr/">April I was in Japan visiting my sister.</a></p>
+
+<p>I had the opportunity to meet, hack and dine with some Debian developers in Tokyo.</p>
+
+<p>From left to right:</p>
+
+<ul>
+<li>Yasuhiro Araki </li>
+<li>Masayuki Hatta</li>
+<li>Yutaka Niibe</li>
+<li>Takatsugu Nokubi</li>
+<li>Kai Hendry (er, me)</li>
+<li>Fumitoshi Ukai</li>
+</ul>
+
+<p><a href="http://pictures.natalian.org/japan/2005/apr/16/17:26:46/1000x750"><img src="http://pictures.natalian.org/japan/2005/apr/16/17:26:46/200x150" alt="Yasuhiro Araki, Masayuki Hatta, Yutaka Niibe,  Takatsugu Nokubi, Kai Hendry, Fumitoshi Ukai" /></a></p>
+
+<p>I had a brilliant time in Japan. The culture shock was almost as big as it was in <a href="http://natalian.org/archives/2004/11/24/retreat/">Pakistan.</a> Many thanks to <a href="http://aniki.daionet.gr.jp/~knok/blog/blosxom.cgi">Takatsugu Nokubi.</a></p>
+
+<p>There is an amazing view of Tokyo from that office:</p>
+
+<a href="http://pictures.natalian.org/japan/2005/apr/23/14:01:48/1000x750"><img src="http://pictures.natalian.org/japan/2005/apr/23/14:01:48/200x150" alt="View of Tokyo from the north" /></a>
+
+<p>I highly recommend a future <a href="http://www.netfort.gr.jp/~dancer/diary/200506.html.en#2005-Jun-4-15:20:38">Debconf in Japan.</a></p>
+
+<p>And to my Finnish colleagues, <a href="http://debconf.org/debconf5/">Good luck in <strong>Hel</strong> -sinki!</a> I wish I could be there. I am stuck on the other side of the earth in Melbourne.</p>

@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Tim Donahue"
+ subject="208.51.101.201"
+ date="2006-03-18 02:00:58"
+ content="""
+<p>VMWare Server (a new product) is now freely available.  I have used it on both linux and windows, and it seems to work ok on both host operating systems.  The install has a couple of kernel modules, but they were relatively painless to get installed, as for how &#8220;ugly&#8221; they are, i&#8217;m not a developer so I couldn&#8217;t really comment.</p>
+
+<p>Tim</p>
+"""]]

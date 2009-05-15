@@ -1,0 +1,19 @@
+[[!meta title="Location without GPS" ]]
+[[!meta date="2007-12-04 11:33:45" ]]
+<a href="http://www.flickr.com/photos/hendry/2071322077/" title="within 1700m by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2284/2071322077_34428f1456_m.jpg" width="180" height="240" alt="within 1700m" /></a>
+
+<p>From version 2.0 of Google Maps Mobile (gmm), there is this &#8220;My Location&#8221; feature using <a href="http://en.wikipedia.org/wiki/Assisted_GPS">A-GPS</a>.</p>
+
+<p>How it works is not really explained on the <a href="http://google.com/gmm/mylocation.html?hl=en_GB">official My Location page</a>. It works with previous <span class="caps">GPS</span> and <span class="caps">CELLID</span> mappings collected by Google. When gmm users who have had used <span class="caps">GPS</span> features in your area, Google collects the <span class="caps">GPS</span> co-ordinates and the <span class="caps">CELLID</span> associated with it.</p>
+
+<p>Approximate location without <span class="caps">GPS</span>. Google&#8217;s commercial &amp; proprietary implementation that has been tried in a couple of <a href="http://gsmloc.org/">open</a> <a href="http://www.cellspotting.com/">projects</a>.</p>
+
+<p>Carriers and operators probably could have made this service a lot better, by sharing the location of the cellular towers. However carriers probably don&#8217;t want to do this for several reasons. They don&#8217;t want the public to know where their towers are. For competition reasons and probably because they fear they might be embroiled in some sort of &#8220;privacy&#8221; scandal.</p>
+
+<p>So Google&#8217;s grass &#8220;routes&#8221; <a href="http://www.openstreetmap.org/">openstreetmap</a> collection strategy is pushing the boundaries. However this data isn&#8217;t public so I expect this collection of <span class="caps">CELLID</span> <span class="caps">GPS</span> mappings will prove to be very strategic for Google. There is no good reason for Google to share the data and they probably don&#8217;t want to taint their &#8220;good data&#8221; with 3rd party data.</p>
+
+<p>I imagine this service becoming quite useful in urban populated areas when done right. <span class="caps">GPS</span> doesn&#8217;t really work in the city as there isn&#8217;t a clear view of the sky, though CELLIDs heavily intersect. Mobile devices sans <span class="caps">GPS</span> translates to cheaper and more battery efficient devices. Fantastic.</p>
+
+<p>Update: I&#8217;ve learnt that the <span class="caps">CELLID</span> <span class="caps">API</span> on Nokia devices can be very limited. I.e. access to only a single <span class="caps">CELLID</span>! So there is no chance of this doing triangulation or being very effective in urban environments!</p>
+
+<p>Also I&#8217;ve heard some operators charge for cell ID requests. As much as 0.20GBP a request!</p>

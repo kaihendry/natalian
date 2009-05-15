@@ -1,0 +1,9 @@
+[[!meta title="Killer App" ]]
+[[!meta date="2005-07-11 13:38:06" ]]
+<p>Wanted: An application where you could simply draw beautiful arrows on a map.</p>
+
+<p>If I had a penny for every image I have seen like this one:</p>
+
+<img src="http://www.tky.hut.fi/~orc/paikat/smokki.gif" alt="Really awful arrows" />
+
+<p>I could buy a beer.</p>

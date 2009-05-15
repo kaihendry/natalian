@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="91.84.62.62"
+ date="2007-08-28 21:42:53"
+ content="""
+<p>For example I&#8217;m around your house and it needs a key. It remembers the key when I am next at your house or use any other secured wifi.</p>
+
+<p>On my X40 I have to manually edit /etc/network/interfaces when I move. And setting up <span class="caps">WPA</span>/WPA2 can be tricky!</p>
+"""]]

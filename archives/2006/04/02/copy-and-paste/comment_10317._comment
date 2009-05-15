@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Ele"
+ subject="84.227.31.205"
+ date="2006-04-02 22:03:57"
+ content="""
+<p>I don&#8217;t have this problem&#8230; Normal (or complex) copy and paste always works fine for me with Ctrl+C/V with all &#8220;modern&#8221; apps. I can copy the text from <a href="http://dabase.com/">http://dabase.com/</a> to gedit without problem&#8230;<br />
+I also love the functionallity of quick copy and paste by just selecting and middle-clicking. This is of course only for immediate copy and paste, and it doesn&#8217;t overwrite the real clipboard managed with Ctrl+C/V (except in gnome-terminal it seems) so I don&#8217;t see any downside here. Even in emacs, I can paste from the clipboard using &#8220;paste&#8221; from the menu&#8230;<br />
+If some old school programs don&#8217;t support Ctrl+C/V and don&#8217;t replace the shortcuts with others or some kind of menu, well sure you have to use the select &#8211; middle click copy and paste, but it&#8217;s not representative of the state of Xorg, <span class="caps">IMHO</span>.</p>
+"""]]

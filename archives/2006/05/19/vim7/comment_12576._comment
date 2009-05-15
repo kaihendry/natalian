@@ -1,0 +1,13 @@
+
+[[!_comment format=mdwn
+ username="bkor"
+ subject="24.132.164.94"
+ date="2006-05-19 15:40:03"
+ content="""
+<p>in ~/.vimrc:<br />
+autocmd FileType mail setlocal spell</p>
+
+<p>The vimspell plugin could detect the language of the file. Vim7 doesn&#8217;t seem to be able to do that :-( Also vimspell underlined, while vim7 (console, gtk UI does it ok) changes the background (not very readable).</p>
+
+<p><span class="caps">IIRC</span> there was something for <span class="caps">HTML</span>, check scripts on vim.org</p>
+"""]]

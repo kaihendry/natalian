@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Andrea"
+ subject="82.50.114.6"
+ date="2006-03-17 18:41:31"
+ content="""
+<p>VMWare is still non-free, but (for some products that right now i don&#8217;t recall the name =) is gratis, so maybe it can be useful (IIRC it needs a ugly kernel module to works correctly).</p>
+
+<p>For the screen-saver, i use xscreensaver, with blank only (with suspend and power off =) and the line &#8220;stop-xscreensaver = 1&#8221; to my ~/.mplayer/config works as expected. Don&#8217;t know about other player like Totem, Xine, <span class="caps">VLC</span>&#8230;</p>
+"""]]

@@ -1,0 +1,29 @@
+[[!meta title="Web Application Frameworks" ]]
+[[!meta date="2006-01-20 15:06:45" ]]
+<p>I&#8217;ve been wanting to try <a href="http://www.rubyonrails.com/">Rails</a> for ages and recently I obtained a copy of the <a href="http://www.pragmaticprogrammer.com/titles/rails/index.html">Agile Web development book.</a> The new-ish language <a href="http://www.ruby-lang.org/en/">Ruby</a> didn&#8217;t put me off as I played with it ( <a href="http://linuxbrit.co.uk/">Tom uses it so I thought I should try it</a> ) and compared it with <a href="http://python.org/">Python</a> sometime back when I was first teaching myself Python.</p>
+
+<p>I chose Python as the new 3rd generation (or 4th?) language back then, as I often like to write code <strong>without objects</strong>. I also didn&#8217;t like the <strong>end</strong> syntax of Ruby and I kind of initially thought the indentation stuff with Python was a good idea. I&#8217;ve since gone off Python and <a href="http://natalian.org/archives/2005/06/16/programming-languages/">my thoughts on Python are detailed in this blog.</a></p>
+
+<p>Back to the reasonable looking Web Frameworks today:</p>
+
+<ul>
+<li><a href="http://www.djangoproject.com/">Django</a> &#8211; from another <a href="http://www.bath.ac.uk/">Bath</a> <a href="http://simon.incutio.com/">geek</a></li>
+<li><a href="http://www.rubyonrails.com/">Rails</a> &#8211; follow <a href="http://lesscode.org/">Lesscode</a></li>
+<li><a href="http://catalyst.perl.org/">Catalyst</a> &#8211; from <a href="http://blog.dave.org.uk/archives/000851.html">Dave</a></li>
+</ul>
+
+<p>I tinkered with Rails (RoR) samples (including wow-wee <span class="caps">AJAX</span>) from the book and with <strong>code generation</strong> (urgh) I had quite a complete <strong>database driven</strong> Web application in next to no time. The directory layout and overall design is pretty clever. I wasn&#8217;t too impressed with Web brick as I wanted to work with Apache. But after seeing the nice development logs it produces and increasingly despising Apache configurations, I learnt to tolerate it. I have no idea how stable Rails all is but with <a href="http://dreamhost.com/">Dreamhost</a> support and <a href="http://37signals.com/">37signals</a> it probably does quite alright.</p>
+
+<p>Ok things I don&#8217;t like about Rails. Where is the <a href="http://en.wikipedia.org/wiki/I18n">i18n support</a>? The docs are pretty ugly, but maybe I am too used to frame-free <a href="http://www.python.org/doc">Python Docs.</a> It has a bit of an initial overwhelming feel, esp. as I often write &#8220;simple&#8221; (ok, trivial) Web applications without a need for a database. I still don&#8217;t quite know about the dependencies or have a feel for the stability of them, so it puts me on the back foot.</p>
+
+<p>Django implements the same stuff as Rails by the looks I things. That&#8217;s a good approach, though that means it doesn&#8217;t look like it is bringing anything new to the table and it&#8217;s going to fight for Rails mindshare. Good thing for me is that I know Python better than Ruby, but I don&#8217;t think I want to spend time on it for now.</p>
+
+<p>A cursory glance at Catalyst makes me think it&#8217;s also implementing those <a href="http://en.wikipedia.org/wiki/Model-View-Controller"><span class="caps">MVC</span></a> thingies that Rails leads. The amazing thing about Catalyst is <a href="http://www.cpan.org"><span class="caps">CPAN</span>.</a> Though my <a href="http://mightyv.blogspot.com/">friends</a> use Perl like crazy, I don&#8217;t think I want to go back to Perl code for some reason. Though I&#8217;ll give it a whirl with my dusty Perl books some rainy day after <strong>Django</strong>.</p>
+
+<p>Ok, I&#8217;ll end this boring review with my burning thoughts:</p>
+
+<ul>
+<li>The &#8220;project weight&#8221; difference with simple <span class="caps">PHP</span> applications and say <span class="caps">MVC</span> applications is quite large</li>
+<li>I wish &#8220;UNIX&#8221; played ball better with the Web. <strong>I guess I&#8217;ll have to accept they&#8217;re almost incompatible</strong></li>
+<li>I&#8217;ve got to take some time out to implement something in Rails</li>
+</ul>

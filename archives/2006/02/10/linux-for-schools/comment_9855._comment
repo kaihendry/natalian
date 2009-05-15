@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="jorge"
+ subject="217.127.113.169"
+ date="2006-02-14 03:43:59"
+ content="""
+<p>Hendry, eBox is modular, you could install it from our Debian based installer and then, remove every module you don&#8217;t need (except the firewall one).</p>
+
+<p>About <span class="caps">DNS</span> cache server, could you find any way to do it in a more simple way that &#8220;apt-get install bind9&#8221;? :-)</p>
+
+<p>We are using bind9 so we&#8217;ll improve this module to work as a full capable <span class="caps">DNS</span> server.</p>
+
+<p>Anyway, ebox maybe is not the best choice to fit your needs, but keep an eye on it ;-)</p>
+"""]]

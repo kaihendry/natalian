@@ -1,0 +1,66 @@
+[[!meta title="Epylog" ]]
+[[!meta date="2004-08-16 23:48:23" ]]
+<p>After having nightmares preying on my fears of the unlikely case of my online unstable <a href="http://www.imperialviolet.org/page22.html#e426">box compromised</a> I thought I would take a look at <a href="http://linux.duke.edu/projects/epylog/">Epylog</a> after <a href="http://verbum.org/blog/technology/distribtued-ssh-cracking">Walter&#8217;s post.</a></p>
+
+<p>It does not seem to have a debian package so I applied <strong>alien</strong> to convert rpm to deb and checked its contents, then installed the package. So far, so good.</p>
+
+<p>Edited quite a few files to get it working for my debian system. RH&#8217;s secure to auth.log and maillog to mail.log, and in the process I became familiar with the configuration files.</p>
+
+<p>What a mess.</p>
+
+<p>Python type syntax here, config.ini style there and <span class="caps">XML</span> stuff throw in for good measure. Sweet baby J. What ever happened to one line files like passwd? Compromise: please use python syntax!</p>
+
+<p><a href="http://log.natalian.org">The <span class="caps">HTML</span> log files it generates</a> could be much better. Not sure what templating engine they&#8217;ve decided to use. Seemingly not <a href="http://htmltmpl.sourceforge.net/">htmltmpl</a> which I have bothered to learn. :/</p>
+
+<p>Urgh, I <a href="http://www.dclug.org.uk/archive/2004/08/msg00097.html">can&#8217;t be arsed to log iptables traffic.</a></p>
+
+<p>When you run epylog, the console output is quite cool (esp. the parsing bit):</p>
+
+<pre>
+bilbo$ sudo /usr/sbin/epylog
+Invoking: "Initializing epylog"...
+Initializing epylog...done
+Invoking: "Restoring log offsets"...
+Restoring log offsets...done
+Invoking the module execution routines:
+Invoking: "Processing internal modules"...
+  /var/log/auth.log[.#]: [       20 of 204 lines parsed      ]
+  /var/log/messages[.#]: [       2 of 430 lines parsed       ]
+  /var/log/mail.log[.#]: [      113 of 470 lines parsed      ]
+  Telling all threads to quit
+  Waiting for threads to finish: [      all threads done     ]
+  Invoking: "Finished all matching, now finalizing"...
+    Invoking: "Finalizing "Logins""...
+    Finalizing "Logins"...done
+    Invoking: "Finalizing "Packet Filter""...
+    Finalizing "Packet Filter"...done
+    Invoking: "Finalizing "Mail Report""...
+    Finalizing "Mail Report"...done
+    Invoking: "Finalizing "Notices""...
+    Finalizing "Notices"...done
+    Invoking: "Finalizing "Spamassassin""...
+    Finalizing "Spamassassin"...done
+    Invoking: "Finalizing "Weedeater""...
+    Finalizing "Weedeater"...done
+  (Hanging from "Finished all matching, now finalizing")....done
+(Hanging from "Processing internal modules")....done
+Finished processing modules
+Invoking: "Making the report"...
+Making the report...done
+Invoking: "Publishing the report"...
+  Report saved in: /web/log.natalian.org/2004-Aug-16_Mon
+  Notification mailed to: epylog@natalian.org
+  Gzipping 2324.log: [      gzipped down to 13538 bytes      ]
+  Gzipped logs saved in: /web/log.natalian.org/2004-Aug-16_Mon
+(Hanging from "Publishing the report")....done
+Invoking: "Cleaning up"...
+Cleaning up...done
+</pre>
+
+<p>Although it would be better if it just gave me the report on the console.</p>
+
+<p>If I was a paid sysadmin I would defn. contribute to this project. There is <strong>lots to do</strong>. I would like a simple network traffic breakdown. I tried cacti with <span class="caps">SNMP</span> and RRDtool or something sometime ago. Nightmare.</p>
+
+<p>I&#8217;ll run epylog cron jobs for a few days before I remove it&#8230;</p>
+
+<p>Is a service to check what ports are open on my machine (from the outside)? I am not allowed to run nmap from school and I am using putty from my landlord&#8217;s Win98 machine.</p>

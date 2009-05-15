@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Michael Smith"
+ subject="202.7.99.3"
+ date="2004-08-06 11:58:52"
+ content="""
+<p>Pakage seems to require the MySQL version from unstable.</p>
+
+<p>dpkg: dependency problems prevent configuration of wordpress:<br />
+ wordpress depends on mysql-server (>= 4.0.20&#8211;8); however:<br />
+  Version of mysql-server on system is 4.0.18&#8211;5.</p>
+
+<p>But WP will work with version from testing (4.0.18&#8211;5), right?</p>
+"""]]

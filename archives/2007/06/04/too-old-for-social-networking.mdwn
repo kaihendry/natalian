@@ -1,0 +1,25 @@
+[[!meta title="Too old for social networking?" ]]
+[[!meta date="2007-06-05 04:07:30" ]]
+<a href="http://www.flickr.com/photos/hendry/528384945/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1193/528384945_ce0625c994_m.jpg" width="240" height="180" alt="Birthday greetings" /></a>
+
+<p>A year older and a year wiser hopefully. Or another year where I just don&#8217;t get &#8216;social networking&#8217; sites?</p>
+
+<p>I&#8217;ve seen Friendster and Orkut come and go. All these silly invites I keep receiving for LinkedIn, FaceBook, whatever-reunited and <a href="http://natalian.org/archives/2006/11/10/social-networking-spam/"><span class="caps">WAYN</span></a>. It reminds me of some <strong>pyramid scheme</strong>.</p>
+
+<p>Then at startup events which I sometimes attend, &#8216;social networking&#8217; is like the hottest buzz word since the <a href="http://natalian.org/archives/2007/05/26/mobile-web-3/">Mobile Web&#8482;</a>. In fact &#8220;mobile web social networking&#8221; (with <span class="caps">AJAX</span>) is probably the next Web 3.0. <em>puke</em> I&#8217;ve also heard people defend it, by calling it &#8220;community management&#8221;. Ah, does that make it better? No.</p>
+
+<p>Here are my issues with social networking:</p>
+
+<ul>
+<li>Social networking isn&#8217;t exactly new. I&#8217;ve been around since the very early days like BBSes, like co-founding #durban on ZAnet and this is all a little &#8216;beneath me&#8217;. ;)</li>
+<li>I don&#8217;t want to meet people on the net. I&#8217;m sorry.</li>
+<li>I really don&#8217;t think it will get me laid. </li>
+<li>I am not sure it is a good idea if I want my social/sexual network mapped out. I don&#8217;t want people to know who I &#8216;know&#8217; exactly. It could get me into trouble.</li>
+<li>Then if my &#8220;reputation&#8221; is tarnished, how do I repair it?</li>
+<li>Start again? New identity? Who is who? Who are you? Make new friends? Yeah, right.</li>
+<li>I think business contacts/partners are a precious thing and with LinkedIn, I <em>think</em> you&#8217;re supposed to share them. A relationship is a lot more deeper and meaningful than a Web link could ever be. I wouldn&#8217;t let someone look at my business card collection, even my precious business contacts.</li>
+<li>Worst thing is often you don&#8217;t seem to <strong>own this data</strong>. It&#8217;s all in the hands of the crazy bunch of guys known as the &#8220;FaceBook admins&#8221;.</li>
+<li>Who are absolutely desperate to sell all this personal information they&#8217;ve gathered about you and buy themselves some <em>real friends</em> ;)</li>
+</ul>
+
+<p>Ok, I&#8217;ll finish by trying to be constructive. If these things were using <strong>standards</strong> (XFN, microformats?) and had more user control, then I would be happier. These proprietary islands of &#8220;social connectivity&#8221; feel wrong.</p>

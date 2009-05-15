@@ -1,0 +1,11 @@
+[[!meta title="Wordpress 1.5.1" ]]
+[[!meta date="2005-05-10 04:14:57" ]]
+<p>G&#8217;day from Melbourne, Australia!</p>
+
+<p>A security release of <a href="http://wordpress.org/development/2005/05/one-five-one/">Wordpress 1.5.1</a> and now new <a href="http://www.cs.helsinki.fi/u/hendry/debian/wordpress/">Debian packages of Wordpress.</a></p>
+
+<p>Since <a href="http://blog.eltridente.org/">Teo</a> might not be around to upload my package into Debian, are there any volunteers please?</p>
+
+<p>I am also working on <a href="http://www.cs.helsinki.fi/u/hendry/debian/maradns/">Maradns packages</a> which at <a href="http://marc.10east.com/?l=maradns-list&amp;m=111543639932692&amp;w=2">last fixes a 2.6 kernel lockup problem when used as a recursive server.</a></p>
+
+<p>Btw Maradns is a great companion for Wordpress. You can easily setup blogs on subdomains like dad.family.org, mom.family.org and hamster.family.org. :)</p>

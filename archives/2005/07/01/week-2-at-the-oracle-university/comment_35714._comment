@@ -1,0 +1,17 @@
+
+[[!_comment format=mdwn
+ username="Oracle ate my baby"
+ subject="91.109.115.31"
+ date="2008-12-22 17:07:36"
+ content="""
+<p>Biggest pile of frotage i&#8217;ve ever used.</p>
+
+<p>Who thinks to themselves, &#8220;I know, we&#8217;ll make a stupidly over the top program so poor joe bloggs who has to do some jumped up shiz of an assignment using the damn thing will never ever be able to use it.</p>
+
+<p><span class="caps">ERROR</span>:<br />
+<span class="caps">ORA</span>-01034: <span class="caps">ORACLE</span> not available<br />
+<span class="caps">ORA</span>-27101: shared memory realm does not exist<br />
+Linux Error: 2: No such file or directory</p>
+
+<p>What does any of it mean!? I&#8217;ve hit about 40 errors just trying to get into sql plus so I can write a load of crap that I don&#8217;t even want to do! And I can&#8217;t even start the bloody crap writing because the sodding program won&#8217;t let me do jack crap. Have their devlopers never heard of &#8216;ease of use&#8217;. Writing assembly language in the dark is fun compared to this pile of bum gravy! Fuming!!!!</p>
+"""]]

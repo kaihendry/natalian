@@ -1,0 +1,7 @@
+[[!meta title="Unattended Upgrades" ]]
+[[!meta date="2006-04-08 14:01:02" ]]
+<p>A few days ago  I was moaning about how it wasn&#8217;t easy to <a href="http://natalian.org/archives/2006/03/24/mass-deployment/">keep a Debian machine updated</a> compared to say Red Hat&#8217;s automagic up2date (paid subscription required) service.</p>
+
+<p>Today I noticed a new package in a dapper dist-upgrade called <a href="http://packages.ubuntu.com/dapper/admin/unattended-upgrades">unattended-upgrades.</a> More information about <a href="https://wiki.ubuntu.com/AutomaticUpdates">unattended upgrades in the Ubuntu wiki.</a></p>
+
+<p>Sweet! And under the <span class="caps">GPL</span>. Great. I&#8217;ve copied the initial version for online viewing of <a href="http://static.natalian.org/2006-04-06/unattended-upgrades-0.0+bzr20051201/">unattended upgrade source on my static site.</a></p>

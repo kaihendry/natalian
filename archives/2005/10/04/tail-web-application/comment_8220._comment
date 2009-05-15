@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Joose"
+ subject="193.94.50.136"
+ date="2005-10-04 16:00:05"
+ content="""
+<p>That is not a tail -program behavior. That looks more like software which reverses the file. Tail prints last N lines of the file in correct order, your software just outputs software in backwards order&#8230; So eather you have to change behavior or rename software to describe better it&#8217;s behavior =)</p>
+
+<p>- Joose</p>
+"""]]

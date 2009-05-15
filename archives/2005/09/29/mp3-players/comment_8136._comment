@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Benjamin Seidenberg"
+ subject="162.39.87.250"
+ date="2005-09-29 20:39:00"
+ content="""
+<p>I have the iRiver H10 20 gb model. The US version of the H10 is <strong><span class="caps">NOT</span></strong> a <span class="caps">USB</span> mass storage device, instead using the &#8220;Music Transport Protocol&#8221;. However, don&#8217;t worry. If you hold &#8220;O&#8221; during startup, it connects in &#8220;Emergancy Mode&#8221; as a <span class="caps">UMS</span>. Also, the databases must be built by a 3rd party tool called easyh10. It is in Debian, I maintain the package.</p>
+
+<p>All in all, it works great with linux, you just have to hit &#8220;O&#8221;. I really like my H10 20GB and would recommend it. I do have a few issues with it (big playlist takes <strong><span class="caps">FOREVER</span></strong> to load, the only way to record from line in is with the dock, etc) but I think it&#8217;s a decent player for the money.</p>
+
+<p><span class="caps">HTH</span>, Benjamin</p>
+"""]]

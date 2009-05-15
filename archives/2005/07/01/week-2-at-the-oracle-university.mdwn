@@ -1,0 +1,13 @@
+[[!meta title="Week 2 at the Oracle University" ]]
+[[!meta date="2008-12-22 17:07:36" ]]
+<p>Excuse me. Another <a href="http://natalian.org/archives/2005/06/20/oracle-rant/">Oracle Rant.</a></p>
+
+<p><span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> ! <span class="caps">ORACLE</span> <span class="caps">SUCKS</span> !</p>
+
+<p>Sample of <span class="caps">STUPID</span> error message:<br />
+<code><br />
+<span class="caps">ERROR</span>:<br />
+<span class="caps">ORA</span>-01034: <span class="caps">ORACLE</span> not available<br />
+<span class="caps">ORA</span>-27101: shared memory realm does not exist<br />
+Linux Error: 2: No such file or directory<br />
+</code></p>

@@ -1,0 +1,13 @@
+[[!meta title="UK BBC Radio 5 live World cup coverage" ]]
+[[!meta date="2006-11-01 02:38:42" ]]
+<p>Broadcasting Status: <span style="color: red;">Offline</span></p>
+
+<tt>ogg123 <a href="http://222.106.128.198:8000">http://222.106.128.198:8000</a>/5live.ogg</tt>
+
+<p>Windows users, you&#8217;re going to have to plug in that <span class="caps">URL</span> into <a href="http://www.videolan.org/vlc/"><span class="caps">VLC</span></a>.</p>
+
+<p>I&#8217;ve been working on breaking <a href="http://natalian.org/archives/2006/06/09/world-cup-with-no-tv/"><span class="caps">BBC</span>&#8216;s geographical censorship of World Cup coverage</a>. I think I&#8217;ve managed it.</p>
+
+<p>Please take some time to <a href="http://www.bbc.co.uk/complaints/">complain to the <span class="caps">BBC</span></a> (<a href="http://static.natalian.org/2006-06-22/bbc.txt">like I have</a>) about UK only World cup broadcasting. I don&#8217;t necessarily blame the <span class="caps">BBC</span>, I blame <span class="caps">FIFA</span>&#8216;s greed. &#8220;Region locking&#8221; World cup coverage is simply not on.</p>
+
+<p>If you hear nothing from the stream, that <strong>horrible proprietary realplayer software</strong> has stalled and it is unlikely it will restart unless I&#8217;m around. Good luck.</p>

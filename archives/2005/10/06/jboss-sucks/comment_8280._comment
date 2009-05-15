@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Norman Richards"
+ subject="70.112.212.114"
+ date="2005-10-07 13:44:50"
+ content="""
+<p>I&#8217;m not sure if you are being serious or being a troll, but in case someone actually reads this and thinks this entry has any validity:<br /> &#8211; You don&#8217;t have to restart jboss to redeploy an app.<br /> &#8211; Hot deployment of EARs works flawlessly.  You do have to have at least some basic understanding of the classloader architecture if you are sharing classes between deployments, but that&#8217;s relatively straight forward.  I will say that I think deployment isolation should be the default for J2EE packaging structures.  Half a point for almost stumbling across a problem.<br /> &#8211; Multiple JBoss instances on one machine is pretty straight forward.  The binding manager is trivial, but a better solution is &#8220;run -b your.ip.no&#8221;.  Then you don&#8217;t have to worry about reconfiguring ports.<br /> &#8211; Are you aware you can tunnel everything over port 80 to minimize your firewall issues?  (and it is an alternative to having 50 ports x 100 instances on your massive server)<br /> &#8211; The forums actually were <span class="caps">PHP</span>-based 2 or 3 years ago. <br /> &#8211; Ok, you are right, the web console is pretty primitive.</p>
+
+<p>Total score.  I&#8217;ll give you 10%.  Congratulations.</p>
+
+<p>On a serious note, if you want to solve your classloading/hotdeployment problems I&#8217;ll be more than happy to explain how it works.  It really is quite simple.</p>
+"""]]

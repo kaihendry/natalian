@@ -1,0 +1,25 @@
+[[!meta title="Dropping the www" ]]
+[[!meta date="2004-08-14 11:42:32" ]]
+<p>A post on <a href="http://whatwg.org">whatwg</a> about <a href="http://listserver.dreamhost.com/pipermail/whatwg-whatwg.org/2004-July/001364.html">dropping www subdomain prefix is interesting.</a></p>
+
+<p><a href="http://annevankesteren.nl">Anne</a> suggested the <a href="http://no-www.org/">no www site</a> for perusal.</p>
+
+<p>It certainly saves on the annoying repetitive typing of &#8220;www&#8221;. But &#8220;www&#8221; does indicate a web site, whilst smtp.natalian.org indicates a mail relay. However as the web is <strong>the interface</strong>( the <a href="http://www.joelonsoftware.com/articles/APIWar.html"><span class="caps">API</span></a>) one could assume the various applications these subdomains represent are web applications, rendering www a little useless.</p>
+
+<p>This is <a href="http://fortune.dabase.com/">what</a> <a href="http://aat.dabase.com/">I</a> <a href="http://pictures.natalian.org/">do.</a> With my <a href="http://packages.qa.debian.org/m/maradns.html">Debian package maradns.</a> This domain natalian is primarily for my blog. See my <a href="http://svn.natalian.org/debian/configuration/bilbo/httpd.conf">httpd.conf</a> . I wonder if a straight up redirect is a Class B or A or whatever according to <a href="http://no-www.org/">no-www&#8230;</a></p>
+
+<p>This leads onto a more general thought I was having, about how to setup Wordpress (a web application). Should it be:</p>
+
+<ol>
+<li>blog.yourdomain.org</li>
+<li>youdomain.org/~youruserid/blog</li>
+<li>yourdomain.org/blog</li>
+</ol>
+
+<p>I don&#8217;t know how you would describe a web service or application on the web. How do you know dict.somedomain.org is a dictionary service? Someone has to link to it? Semantic web crap?</p>
+
+<p>I think for now at least, we must strive for a non-crufy explanatory unambiguous <span class="caps">URL</span>. I think since Wordpress does not feature multiple installations (at least in my package)  right now, so that rules out option 2. Actually it could rule out 1 and 3 too if your machine hosts a bunch of websites via <a href="http://mezzoblue.com/archives/2004/08/05/virtual_host/#000642">vhosts.</a></p>
+
+<p>When using auto-complete in most UAs and typing &#8220;blog.&#8221; in the Location Bar (or is called something else?) and seeing all the blogs you&#8217;ve visited I think is sorta nice. Of course loads of people don&#8217;t call a blog, a blog. Pain.</p>
+
+<p>I think it is better to name the application solely by the <strong>Internet Domain Name</strong> of the <span class="caps">URL</span>. Let the <strong>Path</strong> be the property of that web application. See my <a href="http://pictures.natalian.org/">pictures web application</a> for an example. So as you can see I am leaning towards option 1. But that would mean that everyone needs to use something like vhosts and wildcard authorative <span class="caps">DNS</span> server. This might totally break <span class="caps">DNS</span> based load balancing and related work.</p>

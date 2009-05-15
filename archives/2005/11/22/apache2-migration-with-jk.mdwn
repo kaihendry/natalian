@@ -1,0 +1,18 @@
+[[!meta title="Apache2 migration with JK" ]]
+[[!meta date="2005-12-02 14:05:02" ]]
+<p><a href="http://packages.debian.org/stable/web/libapache-mod-jk">libapache-mod-jk</a> configuration is radically different to <a href="http://packages.debian.org/stable/web/libapache2-mod-jk2">libapache2-mod-jk2.</a></p>
+
+<p>The sad thing is that that configuration style for libapache-mod-jk is <strong>so much better</strong> than libapache2-mod-jk2.</p>
+
+<p>Compare:</p>
+
+<ul>
+<li><a href="http://static.natalian.org/2005-11-21/workers.properties">Apache 1.3&#8217;s libapache-mod-jk worker properties</a></li>
+<li><a href="http://static.natalian.org/2005-11-21/workers2.properties">Apache 2&#8217;s lib2apache-mod-jk worker properties</a></li>
+</ul>
+
+<p>Which one do you prefer?</p>
+
+<p>Then the VirtualHost in Apache 1.3 was a simple <strong>JkMount</strong>. Now it&#8217;s a completely different <strong>JkUriSet</strong>.</p>
+
+<p>Insane. Waste of time.</p>

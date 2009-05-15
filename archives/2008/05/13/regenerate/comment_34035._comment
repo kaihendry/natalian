@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Here we are now, entertain us &raquo; Ubuntu-everyone: Your ssh keys should be considered compromised"
+ subject="208.97.183.9"
+ date="2008-05-13 15:22:33"
+ content="""
+<p>[...] Just read this and the security release. There is a checker provided in the security release note, but at any rate, your ssh key was probably generated incorrectly with respect to random time (mine were). Joy. [...]</p>
+"""]]

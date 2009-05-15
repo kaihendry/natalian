@@ -1,0 +1,50 @@
+[[!meta title="1G Mobile information appliances" ]]
+[[!meta date="2004-04-23 17:34:07" ]]
+<p>It&#8217;s quite harrowing to read history. I have discovered an <a href="http://www.w3.org/Mobile/1998/Workshop/Minutes">artifact</a>, where <a href="http://www.wapforum.org/"><span class="caps">WAP</span> Forum</a> and others debate about how to do the Mobile Web.</p>
+
+<p><span class="caps">WAP</span> Forum decided to create their own protocols, instead of using Internet protocols such as <span class="caps">HTTP</span> or the amazing <a href="http://www.cs.helsinki.fi/research/mowgli/">homegrown</a> <a href="http://www.w3.org/Mobile/1998/Workshop/Papers/Helsinki">Mowgli</a> approach to solve narrow and noisy problems associated with wireless networking. That&#8217;s history.</p>
+
+<p>There are such juicy quotes:</p>
+
+<p>Unwired Planet:<br />
+<blockquote></p>
+
+<p>Q: If existing web standards are hard to support, use e-mail and ascii display.</p>
+
+<p>It&#8217;s not enough.<br />
+</blockquote></p>
+
+<p>W3C (Henrik Nielsen):<br />
+<blockquote><br />
+Q: <span class="caps">HTTP</span> is not needed on wireless</p>
+
+<p>current <span class="caps">HTTP</span> may be not best, but why do you need new protocol?</p>
+
+<p>Q: Don&#8217;t you trust gateways?</p>
+
+<p>religious<br />
+</blockquote></p>
+
+<p><span class="caps">NTT</span> DoCoMo:<br />
+New Interactive Media over the Mobile Communication Network<br />
+<blockquote></p>
+
+<p>Q: How the content provider generate pages?</p>
+
+<p>This is just Compact <span class="caps">HTML</span>. Content provider will write text based primitive page.</p>
+
+<p>Q: Is there any <span class="caps">SDK</span> or tools to convert existing pages?</p>
+
+<p>No, we provide a guidline.</p>
+
+<p>Q: To support various clients is hard.</p>
+
+<p>Nobody can say that thisi is the best way, The market will decide.<br />
+</blockquote></p>
+
+<p>Prof. Martti Tienari:<br />
+<blockquote><br />
+Q: use <span class="caps">HTTP</span>/1.1, it will 5 times speed up.</p>
+
+<p>Mowgli can 2&#8211;20 times speed up. It depends on data.<br />
+</blockquote></p>

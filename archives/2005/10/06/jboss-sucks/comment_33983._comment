@@ -1,0 +1,19 @@
+
+[[!_comment format=mdwn
+ username="metricsdude"
+ subject="199.246.31.2"
+ date="2008-05-02 21:19:19"
+ content="""
+<p>I&#8217;ve worked with Java appservers for the better part of the last 5 years, of that just a bit with JBoss. This week, I&#8217;ve tried setting up a couple of clusters (a 4.0.2 and a 4.2.1), each with two servers, on two hosts.<br />
+Here&#8217;s what I&#8217;ve learned:<br />
+1. I was forced to learn way more about JBoss communication than I want or need to know. There are simply far too many ports to reconfigure. Did I mention that the hosts I&#8217;m using have just one <span class="caps">DNS</span> name, and just one real IP address? No? Common or not, JBoss is difficult to fit into the environment I have available &#8211; why do they assume it&#8217;s so easy to use a different IP, when there are more than enough ports in a single IP to go around?<br />
+2. Administration via <span class="caps">XML</span> is rather painful, particularly after performing very similar configurations using WebLogic 8.1, WebLogic 9.2 and WebSphere 5.1 ND.<br />
+3. Resource definition is a bit better than <span class="caps">WLS</span> or WebSphere &#8211; drop a -ds.xml file into the farm folder, and your cluster sees the datasource. Unfortunately, you still have to create the xml file, but once you do, life is a bit easier.<br />
+3. 4.0.2 servers do not like being connected to 4.2.1 clusters. The cluster-service.xml seems to indicate that some cross-version clusters are possible, but not across such a wide version difference, it seems.<br />
+4. Admin console? What admin console? I&#8217;m sorry, but the jmx-console and http-console apps don&#8217;t cut it for production environments, being little more than http-accessible back doors.<br />
+5. No built-in support for running as a Windows service. JBossNative, you say? That pos is no way near reliable enough for a production environment. Half of the time, stopping the service does not stop the JBoss server, but the service becomes stopped, among other service/reality discrepencies. Sure, these issues can probably be dealt with, but who has the time? If it doesn&#8217;t work reliably after a couple of days of trying, it&#8217;s crap that&#8217;s not worthy of a production system. JavaServiceWrapper is far superior, though still a questionable choice for a production system.</p>
+
+<p>Overall, the feel I get while trying to turn JBoss into a reliable service is that it&#8217;s little more than an academic exercise in how to conform to various standards, and to integrate with as many technologies-of-the-month as possible, without becoming a robust piece of software suitable for use in the real world.</p>
+
+<p>There, I feel better.</p>
+"""]]

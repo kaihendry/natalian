@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="91.84.62.62"
+ date="2007-05-28 20:57:26"
+ content="""
+<p>Hi Ronan,</p>
+
+<p>Ah, could you say hi to <a href="http://natalian.org/archives/2007/03/08/mobi-context/" rel="nofollow">James Pearce</a> for me? We have been through this .mobi context argument before.</p>
+
+<p><span class="caps">XHTML</span> is not supported by IE or <span class="caps">AFAIK</span> Google. It&#8217;s a <span class="caps">DEAD</span> markup format. <span class="caps">DEAD</span> like <span class="caps">WAP</span>. <span class="caps">DEAD</span> <span class="caps">BURIED</span>, <span class="caps">BYE</span> <span class="caps">WAP</span>. <span class="caps">GOODBYE</span> <span class="caps">XHTML</span>. Hello <span class="caps">HTML</span>. :)</p>
+
+<p>I recall the .mobi site for checking markup had a mobile and desktop version. Could you practice what you preach? Show me an example of a .mobi site you use on a desktop <span class="caps">WITHOUT</span> <span class="caps">DEVICE</span> <span class="caps">DEPENDENT</span> <span class="caps">DETECTION</span> <span class="caps">MODIFICATION</span> (CSS media tests allowed) would be a fantastic start.</p>
+"""]]

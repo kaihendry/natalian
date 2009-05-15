@@ -1,0 +1,21 @@
+[[!meta title="Intel sucks" ]]
+[[!meta date="2005-11-16 17:43:05" ]]
+<p>These dual/logical/hyperthreaded CPUs are too confusing, at least under Linux.</p>
+
+<p>Linux reports them as different CPUs.</p>
+
+<p>Is it supposed to be <a href="http://en.wikipedia.org/wiki/Symmetric_multiprocessing"><span class="caps">SMP</span></a> ? I.e. Does it require a <span class="caps">SMP</span> kernel?</p>
+
+<p>Are applications actually making use of this?</p>
+
+<p>I have a <strong>Intel&#174; Xeon&#8482; <span class="caps">CPU</span> 3.00GHz</strong> machine here with:</p>
+
+<pre>
+[hendry@airbus ~]$ cat /proc/cpuinfo | grep MHz
+cpu MHz         : 2801.692
+cpu MHz         : 2801.692
+</pre>
+
+<p>Eh?</p>
+
+<p><a href="http://www.amd.com"><span class="caps">AMD</span></a> Opterons are better.</p>

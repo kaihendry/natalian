@@ -1,0 +1,14 @@
+[[!meta title="Webconverger with Tor" ]]
+[[!meta date="2007-06-14 12:28:14" ]]
+<a href="http://www.flickr.com/photos/hendry/547570372/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1028/547570372_719861499e_m.jpg" width="240" height="180" alt="Webconverger with Tor" /></a>
+
+<p>Thanks to Jérémy Bobbio and Peter Palfrader for helping me at <a href="http://wiki.debconf.org/wiki/DebConf7">Debconf7 in Edinburgh</a> with this initial release.</p>
+
+<p>I&#8217;ve been wanting to create a <a href="http://tor.eff.org/">Tor</a> <a href="http://debian-live.alioth.debian.org/">LiveCD</a> for awhile. For <a href="http://maps.natalian.org/">trips</a> to &#8216;Internet censored&#8217; places, like for the participants of the next Olympics in Beijing, <a href="http://flickr.com/photos/hendry/tags/china/">China</a>. It also helps me feel better about myself for implementing <a href="http://webconverger.infogami.com/Filtering">content filtering</a> for <a href="http://webconverger.com/buy">customization clients</a>.</p>
+
+<p>Once Tor is enabled on the bottom right, you should be surfing anonymously without restrictions. Enjoy your Freedom!</p>
+
+<ul>
+<li><a href="http://download.webconverger.com/">Download Webconverger with Tor</a> &#8211; Check the package list. The big version of Webconverger has Tor.</li>
+<li><a href="http://webconverger.com/">About Webconverger</a></li>
+</ul>

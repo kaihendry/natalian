@@ -1,0 +1,11 @@
+[[!meta title="WRT54Gv4 WDS" ]]
+[[!meta date="2008-01-08 01:34:07" ]]
+<a href="http://www.flickr.com/photos/hendry/371747265/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/184/371747265_64be5680ef_m.jpg" width="240" height="180" alt="Tomato gave me WDS" /></a>
+
+<p>Last month I reported how I got my UK <a href="http://natalian.org/archives/2006/12/24/linksys-wag354g-and-wrt54g/"><span class="caps">ADSL</span> access point the WAG354G working with the WRT54G</a>. The WRT54G cranked up the wireless range throughout my <a href="http://prazefarm.co.uk/">family&#8217;s thick walled grade II listed home</a>. The wireless range of the WAG354G is pathetic. I am guessing those aerials on the WRT54G really help.</p>
+
+<p>Though we also have a separate <a href="http://prazefarm.co.uk/cottage/">guest cottage</a> where the wireless signal from the first WRT54G doesn&#8217;t quite reach. <a href="http://en.wikipedia.org/wiki/Wireless_Distribution_System><span class="caps">WDS</span></a> seemed to be the technology I required as it was too difficult to <a href="http://natalian.org/archives/2006/12/24/linksys-wag354g-and-wrt54g/">run a wired network cable back to the WAG354G like I did with first WRT54G</a>.</p>
+
+<p>The second WRT54Gv4 that I bought from Korea doesn&#8217;t do <span class="caps">WDS</span>, through with 3rd party firmware called <a href="http://www.polarcloud.com/tomato">Tomato</a> it can. I nervously updated the second WRT54G and carefully followed the <a href="http://www.polarcloud.com/tomatofaq#how_do_i_use_wds"><span class="caps">FAQ</span> entry on <span class="caps">WDS</span></a> and&#8230;</p>
+
+<p>Yes, the WRT54g now acts as wireless perimeter range extender without a wired connection! I tested Internet works in our <a href="http://prazefarm.co.uk/cottage/">cornish cottage</a>. Perfect. <a href="http://www.polarcloud.com/tomato">Tomato</a> looks great, kudos to the author. I love Linksys. I now also feel like an expert on Wireless networks. I&#8217;ve done it all&#8230; :)</p>

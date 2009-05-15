@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Josselin Mouette"
+ subject="132.165.91.101"
+ date="2006-08-04 20:01:12"
+ content="""
+<p>If you want working copy&amp;paste, you can use <span class="caps">GNOME</span> or <span class="caps">KDE</span>, where it is working. I have checked between epiphany and gnome-terminal or uxterm, and the exact key sequences you are describing work. In fact, you can use either middle-click, maj-insert or maj-control-V to paste, and the two first shortcuts work even without Control-C.</p>
+"""]]

@@ -1,0 +1,9 @@
+
+[[!_comment format=mdwn
+ username="Julien Danjou"
+ subject="213.41.156.228"
+ date="2004-08-23 00:08:04"
+ content="""
+<p>You should just build your own knoppix. It is pretty easy and you will be able to include rsync, subversion and whatever you want and remove things you dont need.<br />
+Just hope that your modem will work.</p>
+"""]]

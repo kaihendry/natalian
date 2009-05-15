@@ -1,0 +1,30 @@
+[[!meta title="Ham validator" ]]
+[[!meta date="2004-08-02 15:37:36" ]]
+<p>In order to encourage better style wouldn&#8217;t it be reasonable idea to evaluate emails (by <span class="caps">URL</span> for e.g.) for good practises such as:</p>
+
+<ul>
+<li>No top posting</li>
+<li>No spelling mistakes</li>
+<li>Grammar check</li>
+<li>Some sort of readability check</li>
+<li>Proper attribution</li>
+<li>Proper quoting</li>
+<li>Careful editing</li>
+<li>Line width maintained</li>
+<li>text/plain</li>
+<li><span class="caps">GPG</span> signature</li>
+<li>Using a respectable <span class="caps">ISP</span></li>
+<li>Award points for <span class="caps">MUA</span></li>
+<li>Perhaps subtract points for vulnerable software detected</li>
+<li>Proper encoding (unicode)</li>
+<li>No rhetorical questions.</li>
+<li>NO <span class="caps">CAPS</span></li>
+<li>No abuse of smilies or punctuation</li>
+<li>Not too long</li>
+<li>Good use of paragraphs</li>
+<li>No stupid signatures</li>
+<li>Nothing offensive</li>
+<li>No whitespace</li>
+</ul>
+
+<p>Feel free to add in the comments&#8230;</p>

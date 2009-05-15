@@ -1,0 +1,18 @@
+[[!meta title="Oracle 10g on Hoary notes" ]]
+[[!meta date="2005-07-29 16:32:54" ]]
+<p>Helpful:</p>
+
+<p>* <a href="http://www.togaware.com/linux/survivor/Installing_Oracle.shtml">Debian specific oracle guide</a><br />
+ * <a href="http://www.puschitz.com/InstallingOracle10g.shtml">RH specific walkthrough</a></p>
+
+<p>Put in the 10g <span class="caps">DVD</span> and had permission denied errors when trying to runInstaller from /media/cdrom. Didn&#8217;t quite figure this out as the file did have exectution rights. Ended up copying the db directory from the installation CD to the ~oracle homedir.</p>
+
+<p>&#8220;useradd -c &#8220;Oracle software owner&#8221; -g oinstall -G dba oracle&#8221; didn&#8217;t seem to create a homedir. Created one after by hand.</p>
+
+<p>I hate Gnome terminal. So slow.</p>
+
+<p>That terminal bell is so annoying.</p>
+
+<p>xhost + didn&#8217;t work. Ended up just logging in again as newly created oracle user.</p>
+
+<p>Had to install extra gcc package. Why does Oracle compile stuff on installation?! Those guys are &#8220;on crack&#8221;.</p>

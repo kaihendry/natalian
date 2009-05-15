@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Kai Hendry"
+ subject="217.30.176.161"
+ date="2004-01-16 09:13:11"
+ content="""
+<p>hendry@bilbo:~$ sudo chmod 1777 /var/mail</p>
+
+<p>Was the solution for Dovecot. Although against Debian policy ! Timo needs to work this one out&#8230; :)</p>
+
+<p>Nice to meet you Elfie and Liberty ! Don&#8217;t you two have blogs ?</p>
+"""]]

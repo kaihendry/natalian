@@ -1,0 +1,9 @@
+[[!meta title="Son of a..." ]]
+[[!meta date="2004-02-24 16:00:31" ]]
+<p>I just noticed <a href="http://www.sonera.com/">Sonera has closed their site.</a></p>
+
+<p>Does anyone seriously know what they&#8217;re doing there? You do not close a site, you re-direct people, with a line like:</p>
+
+<p>Redirect / <a href="http://www.teliasonera.com">http://www.teliasonera.com</a></p>
+
+<p>in the .htaccess. <a href="http://www.teliasonera.com">TeliaSonera&#8217;s website</a> takes the piss. No sign of any <a href="http://www.webstandards.org/">webstandard</a>. Don&#8217;t they realize when their <span class="caps">XHTML</span> capable browsers in the mobiles they service fall over?</p>

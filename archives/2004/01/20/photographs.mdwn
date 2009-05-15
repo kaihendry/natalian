@@ -1,0 +1,11 @@
+[[!meta title="Photographs" ]]
+[[!meta date="2004-01-20 11:28:00" ]]
+<p>I am trying to write down my <a href="http://svn.natalian.org/<strong>checkout</strong>/projects/pp/readme.txt?content-type=text%2Fplain&amp;rev=284&#8221;>photo requirements</a>, before I start madly coding. Get stuck/bored/tired. Put it off, and find it really difficult to pick up the pieces.</p>
+
+<p>Once that is done, I plan to write some unit tests, and go from there. This should be a relatively simple program, but is it my current state of mind?  I am finding it so difficult to go about doing just about anything nowadays.</p>
+
+<p>I just discovered <a href="http://www.axis-of-aevil.org/">a Helsinki Photoblog</a>.  <a href="http://www.axis-of-aevil.org/about.html">She</a> uses a <a href="http://www.leica-camera.com/">Leica Camera</a> which I have drooled upon before. I do want to upgrade from my Kodak DC3400.</p>
+
+<p>Although my Kodak still does take quite good snappy pictures. It&#8217;s easy to use. Low maintenance. Robust. It&#8217;s shaped like a brick so no one would dare steal it. Supported by gphoto2 and uses compact flash, my favourite memory card format.</p>
+
+<p>However I would like to take higher quality pictures. I generally end up taking thousands of frankly crappy ones. I also would like a camera which  could take pictures with <span class="caps">GPS</span> and with accurate time information embedded in the image format. I would want this if I ever graduate and go travelling for a bit&#8230;</p>

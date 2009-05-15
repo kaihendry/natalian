@@ -1,0 +1,15 @@
+[[!meta title="JBoss sucks" ]]
+[[!meta date="2009-02-18 02:26:11" ]]
+<ul>
+<li>Restarting the the <a href="http://www.jboss.com/products/jbossas">Application server</a> is <strong><span class="caps">PAIN</span></strong>. You need to do this every time you deploy. It adds at least 30 minutes to a software iteration.</li>
+<li><a href="http://wiki.jboss.org/wiki/Wiki.jsp?page=HotDeployment">Hot deployment</a> of <strong>Enterprise ARchive*s simply *doesn&#8217;t work</strong>. Save your sanity and don&#8217;t even test it.</li>
+<li><a href="http://wiki.jboss.org/wiki/Wiki.jsp?page=ConfiguringMultipleJBossInstancesOnOneMachine">Multiple instances of JBoss in the same machine</a> is <span class="caps">INSANELY</span> difficult (allocate 13 ports for each application server x 6)</li>
+<li>How awful are those <span class="caps">XML</span> configuration files? My <strong>ports-bindings.xml</strong> is 1000s of lines long</li>
+<li>The logs suck. From their init.d, there isn&#8217;t a date stamp. You&#8217;ll have to check the actual logs JBoss generates if you get JBoss running.</li>
+<li>If you have Swing applications that use <span class="caps">JNDI</span>. <strong>Good luck</strong> with the firewall administration.</li>
+<li>Community communication happens on a <span class="caps">PHP</span> <a href="http://www.jboss.com/index.html?module=bb">forum.</a> Professional? Please.</li>
+<li>The <a href="http://wiki.jboss.org/wiki/Wiki.jsp?page=WebConsole">Web console.</a> Shockingly bad.</li>
+<li>You&#8217;re crazy to run it at as a <span class="caps">HTTP</span> server. You&#8217;ll be <a href="http://jakarta.apache.org/tomcat/connectors-doc/">requiring <strong>mod_jk</strong>.</a></li>
+<li>Read the <a href="http://www.jboss.com/jbossBlog/blog/">JBoss blogs</a> to witness crack abuse. Quote: <a href="http://jboss.org/jbossBlog/blog/theute/2005/09/23/Annotations_and_external_descriptors.txt">I love <span class="caps">XML</span></a></li>
+<li>It&#8217;s a <strong>pig</strong>. <span class="caps">JSP</span> recompiles on a restart and all sorts of mysterious slowness for whatever stupid reason.</li>
+</ul>

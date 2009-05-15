@@ -1,0 +1,7 @@
+[[!meta title=".ssh/known_hosts" ]]
+[[!meta date="2005-10-10 23:37:11" ]]
+<p>Umm, why has the .ssh/known_hosts <strong>format</strong> seemed to have changed on my unstable machine?</p>
+
+<p>Can&#8217;t see the hostname or the IP address.</p>
+
+<p><strong>Update:</strong> <pre>vi /usr/share/doc/openssh-client/changelog.Debian.gz +/HashKnownHosts</pre> writes Adeodato Simó.</p>

@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Steve Laniel"
+ subject="69.143.160.50"
+ date="2005-10-10 23:37:11"
+ content="""
+<p>You can disable HashKnownHosts. If you think there&#8217;s a small chance of your machine being taken over by some automated tool, then HashKnownHosts seems like a lot of pain for not much gain. When the hosts are hashed, it&#8217;s impossible to use tab completion on hostnames. Since I use that completion quite a lot, I find HashKnownHosts to be more of a nuisance than it&#8217;s worth.</p>
+"""]]

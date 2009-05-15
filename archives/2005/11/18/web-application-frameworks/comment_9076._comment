@@ -1,0 +1,19 @@
+
+[[!_comment format=mdwn
+ username="Adrian Holovaty"
+ subject="24.148.30.138"
+ date="2005-11-18 12:20:20"
+ content="""
+<p>Hey there,</p>
+
+<p>Here&#8217;s a response to your statement that &#8220;it doesn’t look like [Django] is bringing anything new to the table.&#8221; Off the top of my head, Django offers the following things that Ruby on Rails doesn&#8217;t:</p>
+
+<ul>
+<li>Internationalization (you lamented Rails&#8217; lack of i18n in this post).</li>
+<li>An automatic, production-ready administration interface.</li>
+<li><span class="caps">RSS</span>/Atom syndication feed framework.</li>
+<li>The Python syntax you know you love. :)</li>
+</ul>
+
+<p>You&#8217;ve got to take some time out to implement something in Django!</p>
+"""]]

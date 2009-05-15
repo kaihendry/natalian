@@ -1,0 +1,46 @@
+[[!meta title="Alpha Telecom" ]]
+[[!meta date="2004-08-05 17:57:14" ]]
+<p>I am completely outraged by these <a href="http://www.alphatelecom.com/uk/">assholes.</a></p>
+
+<p>Alpha Telecom UK scammed my vulnerable parents.</p>
+
+<p>I used alpha telecom to call my parents cheaply from Bath University years ago and I unfortunately recommended them to my parents to save money while calling my sister in Japan.</p>
+
+<p>To save money again they attempted to get 15UKP in credit by opening an account on their website. However they reached a dead end when their web application would not proceed without a street name. My parents do not live on a street.</p>
+
+<p>So my parents end up calling and paying 15UKP via their credit card over the phone for some phone credit to call my sister. Firstly, my parents could never get through to Japan. They could with BT, but not with Alpha Telecom UK. &#8220;Oh well&#8221;, they thought and they tried to forget about their frustrating evening.</p>
+
+<p>My parents receive a lot of junk mail and one from BT about <span class="caps">PDC</span> connection. My parents do not understand what <span class="caps">PDC</span> is and ignore it. There is no mention of 3rd party company.</p>
+
+<p>Time goes by and they complain to me that they get a stupid error message while trying to send mail. Seeing that it&#8217;s quite hard to debug these problems especially as they&#8217;re unfortunately using Outlook Express, I advised them to switch to <a href="http://mail.dabase.com/">Webmail.</a></p>
+
+<p>Next they notice that some numbers they called don&#8217;t work. They investigated and after a lot of phone calls and an helpful email I sent to <a href="http://ukfsn.org/"><span class="caps">UKFSN</span></a> I got this:</p>
+
+<blockquote>
+On Tue, 3 Aug 2004, Kai Hendry via RT wrote:
+
+<p>> My parents are using you as an <span class="caps">ISP</span> (smtp) and they&#8217;re telling me they<br />
+> are having problems connecting to your number.<br />
+><br />
+> They got some notification from BT about a <span class="caps">PDC</span> or <span class="caps">PCD</span> change, and since<br />
+> then it stopped working.</p>
+
+<p>Could it be that they have started using a Carrier PreSelection (CPS)<br />
+service?</p>
+
+<p>If so this could be the cause of the problem. <span class="caps">CPS</span> provders typically<br />
+intercept Internet access calls and route them via their own platform so<br />
+as to avoid the requirement to pay other telco&#8217;s terminating costs for the<br />
+calls.</p>
+
+<p>This means that we never actually see the connection here and so our<br />
+records are never updated to show that the user is connected. Even though<br />
+our number is being dialled the telco your parents are using is not<br />
+routing the call to us.</p>
+
+<p>I&#8217;m afraid there is nothing we can do about this.</p>
+
+<p>Jason Clifford<br />
+</blockquote></p>
+
+<p>So Alpha Telecom has hijacked my parents landline connection. How the hell has this happened? My parents called Alpha Telecom asking about this. They said they opened the account over the Internet. They did no such thing. They said they won&#8217;t get their 15UKP back. They say they will have to wait at least a week for them to hand the line back to BT. Fucking assholes.</p>

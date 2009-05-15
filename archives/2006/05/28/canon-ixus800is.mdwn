@@ -1,0 +1,13 @@
+[[!meta title="Canon IXUS800is" ]]
+[[!meta date="2006-06-19 18:04:27" ]]
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/ByQWSSvVMIk"></param><embed src="http://www.youtube.com/v/ByQWSSvVMIk" type="application/x-shockwave-flash" width="425" height="350"></embed></object>
+
+<a href="http://www.flickr.com/photos/hendry/154550848/" title="Photo Sharing"><img src="http://static.flickr.com/60/154550848_a33632c24c_m.jpg" width="240" height="180" alt="Kai crouching over a keyboard" /></a>
+
+<p>So I bought a Canon <span class="caps">IXUS</span> 800is. The <strong>is</strong> is for Image Stabilisation.</p>
+
+<p>I&#8217;m fairly pleased with the device. It&#8217;s not that much different than my sister&#8217;s IXUS600. There is still the lingering problem with red eye and flash, but this is a regular problem with these pocket cameras. The 16mb SD memory card they ship with it, is stupid. The enclosure has quite a glossy feel to it, so I am getting a lot of grease marks on it. I wish it was a little more matte.</p>
+
+<p>I&#8217;m not sure what resolution I should photograph on. I think 2816&#215;2112 is really too big. Images themselves are often 2mb each.</p>
+
+<p>I am excited about the potential &#8220;Web videos&#8221; you can take with this. I&#8217;m now <a href="http://video.natalian.org/">uploading my movies I take with this camera to my video site.</a> I wish there was a really great <span class="caps">AVI</span> opensource editing tool. Though the video editing capabilities on the camera isn&#8217;t bad.</p>

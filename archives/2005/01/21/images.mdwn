@@ -1,0 +1,23 @@
+[[!meta title="Scalable images" ]]
+[[!meta date="2008-04-14 12:12:06" ]]
+<p>One of the key reasons for the success of the Web are images.</p>
+
+<p>But images do not scale currently very well to mobile devices. A server needs to know the screen size of the mobile device (close to impossible) and then <span class="caps">CPU</span> intensively resize it.</p>
+
+<p><span class="caps">SVG</span> will not solve the problem. It is for vector graphics, not for bitmaps!</p>
+
+<p>So I had an idea inspired by watching progressive JPEGs load in the past. Don&#8217;t see much of this anymore, perhaps because my Internet connection is so fast.</p>
+
+<p>Wouldn&#8217;t it be good enough if just the first few bytes of an image for the UA to generate an increasingly detailed image(resampling on-the-fly)? That way if the resolution limit is reached, it just stops downloading the image. This would also save network bandwidth!</p>
+
+<p><a href="http://lists.w3.org/Archives/Public/www-di/2004Dec/0010.html">I posted about it on w3-di and <span class="caps">PNG</span> implement.</a></p>
+
+<p><a href="http://lists.w3.org/Archives/Public/www-di/2004Dec/0012.html">John Bowler offered an encouraging reply.</a> It was Adam Costello who pointed out <a href="http://www.aware.com/products/compression/whyj2k.html#Resolution%20Scalability">JPEG2000&#8217;s (.jp2) scalability features.</a></p>
+
+<p>Wow. <a href="http://slashdot.org/article.pl?sid=00/01/03/0215218&amp;mode=thread">So JPEG2000 is an <span class="caps">ISO</span> standard and royalty free too (although with a history of resolved legal and licensing issues).</a> <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=36351">And a Mozilla bug going back as far as the year 2000.</a> The comments are worth reading. So I&#8217;ve voted for bug #36351, but does it really solve the problem?</p>
+
+<p>John Bowler says that JPEG2000&#8217;s handling of <span class="caps">RGB</span> values are not properly accounted for at different resolutions, which will result in perception errors. <a href="http://www.siggraph.org/s98/conference/keynote/blinn.html">Note point 6 and 7 of Blinn&#8217;s unsolved image problems.</a></p>
+
+<p><a href="http://pmt.sourceforge.net/mailing-lists/png-implement/png-implement.200412.gz">The <span class="caps">PNG</span>-implement thread and its techy details are archived here without a Web interface.</a> (Wishlist: I need a little tool to dump email threads from mutt to a nice Web interface and <span class="caps">URL</span> on my server).</p>
+
+<p>I&#8217;ll conclude by re-iterating the need to address <span class="caps">BITMAP</span> graphics formats and their problems especially for allowing small screen devices efficient access to the Web&#8217;s images.</p>

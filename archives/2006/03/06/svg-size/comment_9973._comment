@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="219.252.91.33"
+ date="2006-03-07 13:09:42"
+ content="""
+<p>ICONs are the typical application for <span class="caps">SVG</span>. As graphics go this is surely a small slice of the graphics market. As bitmaps, they generally they pose a problem because of their size either. So <span class="caps">SVG</span>&#8216;s impact is sort of severely limited.</p>
+
+<p>Is there was some special <span class="caps">GPU</span> for <span class="caps">SVG</span>, yeah, it probably would be fast. Though I doubt rendering <span class="caps">SVG</span> hardware is all that easy/cheap.</p>
+"""]]

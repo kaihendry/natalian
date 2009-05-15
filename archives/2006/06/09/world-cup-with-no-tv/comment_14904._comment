@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="125.131.161.40"
+ date="2006-06-14 15:20:18"
+ content="""
+<p>Haha! I figured out why Realplayer was crashing on my machine. <span class="caps">SCIM</span>. Which is a special input method which is used to enter foreign character sets.</p>
+"""]]

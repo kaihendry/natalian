@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Robbert"
+ subject="82.210.71.50"
+ date="2006-03-14 20:10:01"
+ content="""
+<p><span class="caps">SVG</span> is already used a lot for mobile applications. In fact there is a mobile variant of the normal <span class="caps">SVG</span> spec, <span class="caps">SVG</span> Basic or <span class="caps">SVG</span> Tiny. Most recent mobile browsers support <span class="caps">SVG</span> Tiny. If the regular webbrowsers would just implement <span class="caps">SVG</span> support then u would be able to create a graphic once and scale it for al kinds of user agents without loss of quality.</p>
+"""]]

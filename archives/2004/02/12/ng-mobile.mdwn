@@ -1,0 +1,32 @@
+[[!meta title="NG mobile" ]]
+[[!meta date="2004-02-12 10:51:36" ]]
+<a href="http://wapsearch.google.com/sprint_xhtml">Google for mobiles</a>... but why? Why couldn't Google just provide an XHTML file suitable for all devices?
+
+<a href="http://ncsp.forum.nokia.com/downloads/nokia/documents/Next_Generation_Mobile_Browsing_White_Paper_v1_0_en.pdf">Nokia's White Paper on NG Mobile browsing</a> seems to echo the mistakes of the past:
+
+<a href="http://www.worldofends.com/">Emphasizing how operators need to control and improve the Internet</a>
+Advocating the walled garden business model
+
+<p>Then contradicting themselves, advising operators that in order for a &#8220;browsing service market to take off&#8221;, you need to make sure users can access third party content. <span class="caps">WELL</span> <span class="caps">DUH</span>. That&#8217;s the Web.</p>
+
+<p>Attempting to adapt content for different devices. Resize images. Re-sample sound. noooo!</p>
+
+<p>Setting up push type services to subscribers (remember popups?)</p>
+
+<p>Advocating a rich and colourful Internet experience</p>
+
+<p>Not implementing any W3C standard very well. Piss poor implementations are called subsets.</p>
+
+<p>Rebranding W3 technology. <span class="caps">XHTML</span> Basic becomes <span class="caps">XHTML</span> MP. <span class="caps">CSS</span> becomes wCSS. CC/PP becomes UAProf. Slightly modifying for <span class="caps">TCP</span> to wTCP for that slow start problem. And calling the whole thing <span class="caps">WAP</span> 2.0 !</p>
+
+<p>A &#8220;win-win&#8221; situation between providers and operator. (sic)</p>
+
+<p>Create rich services with sophisticated user interfaces.</p>
+
+<p>Nokia&#8217;s own <span class="caps">CSS</span> examples with pixel measurements. A <span class="caps">CSS</span> file for each mobile? <span class="caps">ARGH</span>!!!</p>
+
+<p>Ecmascript-MP, argh&#8230; <span class="caps">NOO</span>!</p>
+
+<p><span class="caps">CSS</span> as a means of precise control of presentation? I don&#8217;t think so&#8230;</p>
+
+<p>Infotainment?!</p>

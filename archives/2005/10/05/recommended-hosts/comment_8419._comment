@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Natalian &raquo; Blog Archive &raquo; Dreamy Debian"
+ subject="64.111.108.166"
+ date="2005-10-13 14:50:34"
+ content="""
+<p>[...] While using my shell over at Dreamhost I did an instinctive apt-get search and noticed some strange packages. After checking with Debian I quickly realized these must be packages Dreamhost came up with themselves to manage their hosts. [...]</p>
+"""]]

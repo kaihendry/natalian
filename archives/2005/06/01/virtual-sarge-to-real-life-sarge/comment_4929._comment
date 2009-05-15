@@ -1,0 +1,19 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-06-02 10:08:46"
+ content="""
+<p>Thanks for the comments everyone.</p>
+
+<p>bootcd says:</p>
+
+<p>&#8212;- Sizes in KByte (du -klsc )&#8212;-<br />
+NOT_TO_CD =  . . . . . . . . . . . . . . . . . . . . . . . . . . . 0<br />
+CD_ALL (SRCDISK v NOT_TO_CD) = . . . . . . . . . . . . . . . . . . 5931620<br />
+Needed = CD_ALL &#8211; NOT_TO_CD  . . . . . . . . . . . . . . . . . . . 5931620<br />
+CD (650 MB) =  . . . . . . . . . . . . . . . . . . . . . . . . . . 665600<br />&#8212;- <span class="caps">WARNING</span>&#8212;-<br />
+<span class="caps">SRCDISK</span> does not fit on CD (Needed &gt; CD)<br />&#8212;- (e)xit (i)gnore&#8212;- e</p>
+
+<p>So I am going to download the sarge netinst. Set up a base machine. And then rsync and get the selections of my vm Sarge.</p>
+"""]]

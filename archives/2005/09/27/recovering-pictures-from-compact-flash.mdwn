@@ -1,0 +1,33 @@
+[[!meta title="Recovering pictures from compact flash" ]]
+[[!meta date="2005-09-28 01:24:37" ]]
+<p>My routine with my digital camera:<br />
+# Take pictures on camera which get stored on a compact flash disk<br />
+# Put CF disk into external <span class="caps">USB</span> card reader<br />
+# mount and cp files over to ~/pix/kodak<br />
+# unmount and format the CF disk on camera</p>
+
+<p>Unfortunately I was wrestling with Debian&#8217;s udev and never got the CF to bloody mount!<br />
+<pre><br />
+mount: special device /dev/sda1 does not exist<br />
+</pre></p>
+
+<p>Then without thinking I replaced the CF and formatted the disk! F#^$!</p>
+
+<p>After <a href="http://www.google.com.au/search?q=unformat+compact+flash&amp;start=0&amp;start=0&amp;ie=utf-8&amp;oe=utf-8&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official">Googling around</a> on my Windows work PC I found:</p>
+
+<ul>
+<li><a href="http://diskinternals.com/fat-recovery/features.shtml">Fat recovery</a> which was useless because it didn&#8217;t see the <span class="caps">USB</span> external device</li>
+<li><a href="http://www.panterasoft.com/file-recovery/">Flash file recovery</a> which worked, but required more than 60AUD to perform the actual recovery!</li>
+</ul>
+
+<p>Doesn&#8217;t panterasoft realize how much lifelong kudos I would have given them, if it worked? I might have actually paid 60 <span class="caps">AUD</span> if I was happy with the end results and had some spare cash. Anyway in absolute desperation I tried (after searching for crack, warez):</p>
+
+<pre>
+frodo$ apt-cache search fat recovery
+mondo - powerful disaster recovery suite
+mondo-doc - manual for Mondo, a powerful disaster recovery suite
+testdisk - Partition scanner and disk recovery tool
+</pre>
+
+<p>And a later apt-cache show testdisk reveals <a href="http://www.cgsecurity.org/index.html?photorec.html">PhotoRec.</a> /me salivates.<br />
+<span class="caps">OMG</span>, thank god for Debian. Sadly I don&#8217;t have time to figure out how to make <a href="http://packages.qa.debian.org/u/udev.html">udev</a> create the /dev/sda1 device for my compact flash card so I downloaded the <a href="http://www.cgsecurity.org/testdisk-5.8.win.zip">windows version</a> which works. Thank you Christophe Grenier.</p>

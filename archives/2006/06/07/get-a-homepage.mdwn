@@ -1,0 +1,22 @@
+[[!meta title="Get a homepage" ]]
+[[!meta date="2006-06-09 17:55:31" ]]
+<a href="http://www.flickr.com/photos/hendry/157150142/" title="Photo Sharing"><img src="http://static.flickr.com/47/157150142_8fb72d6fbe_m.jpg" width="240" height="180" alt="Business card holder" /></a>
+
+<p>I&#8217;ve collected quite a few business cards in my few months in Asia. My main issue is that I misplace them and I can&#8217;t find the name card of that French Siemens-Benq developer I met in China&#8230;</p>
+
+<ol>
+<li>So ideally the scenario would involve finding someone&#8217;s contact details on the computer.</li>
+<li>I usually visit the <span class="caps">URL</span> printed on the business cards I receive.</li>
+<li>From there it would be wonderful to see a homepage of that person with the same details that are on the card.</li>
+<li>Then I would log or save that Webpage. Then I am free to <strong>lose that card</strong>.</li>
+<li>If I want to search for a particular contact, I would just search via those &#8220;homepages&#8221; of business representatives I&#8217;ve previously logged.</li>
+<li>So if I searched &#8220;Siemens&#8221; I should find that person who I can&#8217;t recall the name of.</li>
+</ol>
+
+<p>Sadly it doesn&#8217;t work that way. 99 times out of 100 that &#8220;homepage&#8221; doesn&#8217;t exist. Many business fail to have just basic contact details on their Web pages. So reaching that developer you met in <span class="caps">XYZ</span> conference from Siemens is well, unlikely if you&#8217;ve lost that business card.</p>
+
+<p>With that <a href="http://microformats.org/wiki/hcard">hcard</a> microformat, I should be able to find that person&#8217;s homepage a.k.a. contact details (a 1% probability recall) and then <strong>save</strong> it to an addressbook application. That&#8217;s assuming that <strong>they</strong> have carefully formatted their contact details in <strong>hcard&#8217;s microformat</strong>. And another problem with that is that I don&#8217;t use an addressbook application. Currently I have a bunch of aliases in mutt, saved Web pages in del.icio.us and my phonebook locked away on my Samsung phone. So everything is a little disparate.</p>
+
+<p>So hopefully you can see, the first scenario would be better and it doesn&#8217;t necessarily require the hcard microformat. Just for company employees to <strong>have a homepage printed on their business card</strong>.</p>
+
+<p>Still I have <a href="http://hendry.iki.fi/">updated my homepage with hcard formatted contact details.</a> I must be bored.</p>

@@ -1,0 +1,12 @@
+[[!meta title="Language is the parent of thought" ]]
+[[!meta date="2005-05-21 11:16:11" ]]
+<p>Discovery: <a href="http://en.wikinews.org">Wikinews</a> do (non-cryptic) <a href="http://en.wikinews.org/wiki/Crosswords/">crosswords.</a></p>
+
+<p>My only new year resolution for 2005 has been to do a cryptic crossword. I started by reverse engineering the <a href="http://www.hinduonnet.com/">Hindu&#8217;s</a> cryptic crosswords.</p>
+
+<p>I hope it will help improve my vocabulary. I have been travelling with a superficial American who used a couple of words, I think I should have known:</p>
+
+<p>* <a href="http://dictionary.reference.com/search?q=gentrification">Gentrification</a><br />
+ * <a href="http://dictionary.reference.com/search?q=Nepotism">Nepotism</a></p>
+
+<p>Can anyone recommend a good dictionary site? I hate dictionary.com and MW is just as bad. I should just write my own Web app with a nice clean fast interface to my <a href="http://www.dict.org">dict</a> server.</p>

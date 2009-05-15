@@ -1,0 +1,25 @@
+[[!meta title="Friday Feeling" ]]
+[[!meta date="2004-02-20 21:43:46" ]]
+<a href="/pictures/2004/02/18/DCP_8011.JPG"><img alt="Room on Porthaninkatu" src="/thumb/2004/02/18/DCP_8011.JPG" /></a>
+
+<p>As I am about to open up a bottle of Nederburg red, I thought I should give a little update to this blog. Argh it&#8217;s difficult.</p>
+
+<p>This week I have been putting together a couple of websites.</p>
+
+<p>First the <a href="http://www.helsinki.fi/jarj/debating/"><acronym title="University of Helsinki Debating Society"><span class="caps">UHDS</span></acronym></a>. In order to promote a collaborative effort, I setup a <a href="http://wiki.dabase.com/FinalDesign">wiki</a> for my fellow board members to contribute to.</p>
+
+<p>What I discovered is that they really did know much about structure. They all would rather use bold or italics or even try some dodgy placement instead of headers. Another thing which surprised me, is that were not afraid of copying. They wanted me to make the page look exactly like another <a href="http://www.debate.nl/">debating site in the Netherlands</a>. And much of the text was just copied and pasted from somewhere else. Is this the Internet Generation?</p>
+
+<p>I wrote a very very cool <span class="caps">XMLRPC</span> script to rip the contents from the Moin wiki <span class="caps">XMLRPC</span> interface, and <a href="http://tidy.sourceforge.net/">tidy it up</a> to be included in the final <a href="http://www.helsinki.fi/jarj/debating/"><acronym title="University of Helsinki Debating Society"><span class="caps">UHDS</span></acronym> website</a>. I wish I could show you, but my repo is still dodgy.</p>
+
+<p>Next thing I have learnt about websites that is slowly getting through my thick skull is that <span class="caps">XHTML</span> is not easy. You can&#8217;t expect people to edit <span class="caps">XHTML</span>. No one, even power users, employs an editor that can easily edit and validate <span class="caps">XML</span>. It&#8217;s just too difficult! So you have to setup an simple validating interface and <a href="http://tidy.sourceforge.net/">tidy</a> to make sure.</p>
+
+<p>I finally learnt how to use <a href="http://htmltmpl.sourceforge.net/python.html"><span class="caps">HTML</span> template</a>. It could do with a couple more examples or at least documentation. Ended up reading the source to get what I want. Unfortunately it does not seem to be maintained and I quickly noticed some bugs and quirks. There is seems to be a painful lack of proper web magic with python, that I at least expect should be there.</p>
+
+<p>What else? I am tormented about my illegal media. I tuned into <a href="suprnova-radio.com/manual-listen.m3u">Suprnova Radio</a> and found it quite good. This is my generation, and how are you going to stop us? I downloaded the <a href="http://greytuesday.org/">controversial Grey Album</a> with <a href="http://nicotine.thegraveyard.org/">Nicotine</a>. It&#8217;s actually good.</p>
+
+<p>I don&#8217;t have any good ideas about solving this mess either. I have been using legitimate software thanks to high quality free software typically under the <a href="http://www.gnu.org/copyleft/gpl.html"><span class="caps">GPL</span></a>. To be honest, as a developer I now expect software to be free. Am I musician? No, although like many I wish I could have the opportunity to learn to DJ and demonstrate my own mixed musical tastes.</p>
+
+<p>Via <a href="http://www.axis-of-aevil.net/archives/000709.html">Axis of aevil</a> I found <a href="http://www.helsinki.fi/%7Ensjoblom/maisema/index_eng.html">Niklas Sjöblom&#8217;s photoblog</a>. I get stupidly excited when I see places around Helsinki I know. <a href="http://uk.imdb.com/title/tt0311519/">Kaurismäki moving pictures</a> is particuarly good. :)</p>
+
+<p>I have a good idea for a little program, maybe I&#8217;ll make myself a cup of tea instead.</p>

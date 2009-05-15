@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Sean Owen"
+ subject="72.14.228.89"
+ date="2007-05-30 18:29:02"
+ content="""
+<p>Are we talking about the same Asia? which includes Japan and cHTML and i-mode? <span class="caps">LOL</span> Asia is <strong>already</strong> the biggest user of the little mobile web pages, and getting bigger because of developing markets on the other end. I am in the fortunate position of having access to information about mobile web usage globally and can confirm this is really happening. I&#8217;d also encourage you to &#8220;have a look for yourself&#8221; in India. There&#8217;s a lot of people happily using the web on phones right now.</p>
+
+<p>Re: Gmail, you say that it&#8217;s easy to write one document (with many stylesheets) that renders nicely everywhere. I challenge you to imagine how you would implement Gmail this way. The desktop version&#8217;s markup alone won&#8217;t fit into memory in some phones. And what about devices that don&#8217;t render <span class="caps">CSS</span>? or run scripts?</p>
+
+<p>While you can slam-dunk this elegant theory of markup on a static home page with a picture and a few links, or a blog, it won&#8217;t do for other sites; I don&#8217;t think you&#8217;re extending your theories beyond the kinds of pages people were writing in 1995.</p>
+
+<p>I wholeheartedly disagree that the mobile web creates any disincentive to deliver a usable desktop experience on a portable device. I can point to things like Opera Mini that are already in existence. Demand for today&#8217;s mobile services, crap or not, stokes demand for tomorrow&#8217;s richer, more capable devices. In the meantime, I do not understand why one should deliver no service to lesser devices just because it doesn&#8217;t fit a neat model of page authoring. The &#8220;Universal Web&#8221; is about bringing access to all devices above all else. You personally are welcome to target whatever subset you like, but, why the withering criticism of organizations that are trying not to shut out most of the world?</p>
+
+<p>&#8230; and PS your home page is the first result!! look again.</p>
+"""]]

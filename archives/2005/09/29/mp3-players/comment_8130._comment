@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Wesley"
+ subject="130.194.13.101"
+ date="2005-09-29 14:41:19"
+ content="""
+<p>The nano is a standard <span class="caps">USB</span> mass storage device so you shouldn&#8217;t have any trouble getting Debian to talk to it. Also Apple has said that there is a problem with the screens on some of the nano&#8217;s but it supposedly only affect a very small percentage.</p>
+
+<p><a href="http://www.tuaw.com/2005/09/27/apple-addresses-ipod-nano-screen-complaints/">http://www.tuaw.com/2005/09/27/apple-addresses-ipod-nano-screen-complaints/</a></p>
+"""]]

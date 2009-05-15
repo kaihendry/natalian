@@ -1,0 +1,13 @@
+[[!meta title="Printing from HTML" ]]
+[[!meta date="2005-12-09 16:12:33" ]]
+<p>I discovered <a href="http://www.princexml.com/overview/">Prince</a> from a <a href="http://www.alistapart.com/articles/boom">printing from <span class="caps">HTML</span> article</a> whilst looking for a date picker on <a href="http://www.alistapart.com">a list apart</a>. I&#8217;ve yet to find a decent date picker. I&#8217;ll probably have to <a href="http://whatwg.org/demos/date-01/">wait for one.</a></p>
+
+<p>The <a href="http://www.princexml.com/samples/">samples really show off <strong>Prince</strong></a>. Too <a href="http://www.princexml.com/purchase/">pricey</a> (for me) at 3800USD to run on a server.</p>
+
+<p>The idea of manipulating Web content (or rather <span class="caps">XHTML</span>+CSS) to print via <span class="caps">PDF</span> (<strong>cough</strong>) is especially important nowadays as there needs to be some sort of <strong>fusion between print and Web applications</strong>. I wish we could somehow avoid the <strong><span class="caps">PDF</span> phase</strong>, having this functionality inbuilt into Firefox or something. Currently printing <span class="caps">HTML</span> from either Firefox or IE sucks!</p>
+
+<p>Though I&#8217;m no <a href="http://www.latex-project.org/">latex</a> expert, I am confident I can get the same results with latex tools. See my poorly titled <a href="http://letter.dabase.com/">letter writing Web application</a> for a demonstration.</p>
+
+<p><a href="http://hixie.ch/advocacy/xhtml"><span class="caps">XHTML</span></a> is a sore point. Finding someone or some tool to write <span class="caps">XHTML</span> period&#8230;</p>
+
+<p>And everyone who did a serious degree or research knows latex, right? ;)</p>

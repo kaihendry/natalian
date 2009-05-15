@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Michael Smith"
+ subject="202.7.99.3"
+ date="2004-08-06 12:52:06"
+ content="""
+<p>um, er, I was thinking you already had the package in unstable.<br />
+But now I realize that package is maintained by somebody else&#8230;<br />
+Sorry. I&#8217;ll try installing from your .deb instead.</p>
+"""]]

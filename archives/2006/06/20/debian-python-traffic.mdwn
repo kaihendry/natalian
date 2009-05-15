@@ -1,0 +1,13 @@
+[[!meta title="debian-python traffic" ]]
+[[!meta date="2006-06-20 15:03:46" ]]
+<p>There are interesting developments afoot, complete with Ubuntu conspiracy theories on <a href="http://lists.debian.org/debian-python/2006/06/threads.html">debian-python</a>.</p>
+
+<p>Since I&#8217;m working on a couple of Python packages, a <a href="http://wiki.debian.org/DebianPython/NewPolicy">new policy</a> has been <a href="http://lists.debian.org/debian-devel-announce/2006/06/msg00009.html">announced</a>.</p>
+
+<p>The python policy has for a long time been inadequate. Come python upgrades practically all python packages needed updates. So I am glad we have something like <a href="http://packages.qa.debian.org/p/python-support.html">python-support</a> now.</p>
+
+<p>The unfortunate issue is that Ubuntu uses <a href="http://packages.qa.debian.org/p/python-central.html">python-central</a> to do this. So having <a href="http://lists.debian.org/debian-python/2006/06/msg00014.html">two ways of doing the same thing</a> is a little confusing.</p>
+
+<p>The <a href="http://lists.debian.org/debian-python/2006/06/msg00015.html">bigger issue</a> though is how the new policy isn&#8217;t stable. New X?<del>Python</del> control fields were added and now, they look like <a href="http://lists.debian.org/debian-python/2006/06/msg00248.html">they&#8217;re being taken out.</a> Much to the <a href="http://lists.debian.org/debian-python/2006/06/msg00250.html">frustration of some</a>.</p>
+
+<p>Oh well, I&#8217;m going to keep <a href="http://lists.debian.org/debian-python/2006/06/index.html">watching</a> until the dust settles. That means I&#8217;m in no rush with the <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=373407">Python policy transition</a>; so don&#8217;t worry, be happy.</p>

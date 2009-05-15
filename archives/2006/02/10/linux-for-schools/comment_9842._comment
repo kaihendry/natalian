@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hippi"
+ subject="62.236.91.3"
+ date="2006-02-10 21:54:08"
+ content="""
+<p>Ooh.. Starting with a distrowar is a great way to improve Linux penetration in chools &#8211; <span class="caps">NOT</span>!!!!</p>
+
+<p>Debian has &#8220;kickstart-like&#8221; automatic installation support via d-i and preseed file or for more complex setups <span class="caps">FAI</span>. Since you want to be a Debian Developer, and free software happens only via people scratching their own itches, and automatic installation is your itch, why not join the effort to make those tools better?</p>
+
+<p><span class="caps">THAT</span> is much more productive solution than participating in distrowars..</p>
+"""]]

@@ -1,0 +1,34 @@
+[[!meta title="Geek Pension" ]]
+[[!meta date="2008-06-29 13:36:52" ]]
+<a href="http://www.flickr.com/photos/hendry/197948276/" title="My first grey hair by Kai Hendry, on Flickr"><img src="http://farm1.static.flickr.com/73/197948276_a369d92b39_m.jpg" width="240" height="180" alt="My first grey hair" /></a>
+
+<p>I&#8217;ve long been annoyed by large corporates, hedge funds and investment bankers. I believe in a world of small businesses and this is why I&#8217;ve already invested a large proportion of my efforts in Free software &amp; the (open) Web.</p>
+
+<p>However it comes to a point in one&#8217;s life (I&#8217;m 30 now) where one needs to aggressively save money. Save for a car, save for a house, save for the future. In England tax-free cash ISAs are just 3600GBP a year. That sum makes it very difficult to get a mortgage for a house in England. Though, the UK government also offers tax-free share based <span class="caps">ISA</span> savings.</p>
+
+<p>That means you need to invest in a <a href="http://en.wikipedia.org/wiki/Public_limited_company">public limited company</a> on the <a href="http://finance.google.co.uk/finance">stock exchange</a>. I.e. you need to give your money to those &#8220;large corporates, hedge funds and investment bankers&#8221;. Not cool.</p>
+
+<p>Recently the company <a href="http://hendry.iki.fi/cv/">I work for</a> set me up with a <a href="http://www.scottishwidows.co.uk/">Scottish Widows plan</a>. Personally I&#8217;d rather have the extra money, but once again the powers that be force me to put some of my money into &#8220;large corporates, hedge funds and investment bankers&#8221;. Grumble.</p>
+
+<p>Scottish Widows however does allow you to make (token) choices. You have very little to go on, except for the name of the funds. You really haven&#8217;t got a clue where the money goes. :(</p>
+
+<p>I chose the following funds with the advice from my pension adviser:<br />
+* Property 15%<br />
+* European 15%<br />
+* SW Newton Managed 20%<br />
+* SW MM UK Eq Growth 10%<br />
+* Corporate bond 15%<br />
+* Fixed Interest 10%<br />
+* SW Art UK Sm Cos 15%</p>
+
+<p>I tried to invest in EU small businesses, as I believe in a strong <strong>economic European union</strong>. I wanted to invest mostly in <strong>property</strong> as I argued to myself that property would be safe, low risk, long term and didn&#8217;t involve the short term interests of &#8220;large corporates, hedge funds and investment bankers&#8221;.</p>
+
+<p>Unfortunately 15% is the maximum you can spend in property.</p>
+
+<p>My dad later commented that investing in typical pension property schemes like shopping centres isn&#8217;t going to work with &#8220;E-commerce&#8221;. That had me again about the future. Where natural resources &amp; food will probably rise and travelling gets harder and the Web&#8217;s reach will probably span wider.</p>
+
+<p>Now I can understand how those <a href="http://en.wikipedia.org/wiki/Venture_capitalists">VCs</a> at <a href="http://openbusiness.cc/">Minibar London</a> get all their money!</p>
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/gqBqTb8fxHs&amp;hl=en"></param><embed src="http://www.youtube.com/v/gqBqTb8fxHs&amp;hl=en" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+
+<p>Ideally I could take that share <span class="caps">ISA</span> allocation and the money going into that aforementioned pension plan and put it into my own <a href="http://webconverger.com/">Web kiosk company</a>. It might be risky, but I think it has a good future and a future I can control. That&#8217;s piece of mind for my principles and beliefs.</p>

@@ -1,0 +1,67 @@
+[[!meta title="Cracked by WordPress 1.5.1.3" ]]
+[[!meta date="2005-09-21 10:17:05" ]]
+<p>From the 12th of August I was on <a href="http://www.flickr.com/photos/hendry/sets/975227/">holiday around and about Australia.</a></p>
+
+<p>My Wordpress blog 1.5.1.3 hosted at <a href="http://dreamhost.com/">DreamHost</a> doesn&#8217;t use my <a href="http://packages.qa.debian.org/w/wordpress.html">Wordpress Debian package</a> so I had to upgrade Wordpress by hand. Sigh. So I didn&#8217;t get around to upgrading to 1.5.2, until yesterday.</p>
+
+<p>Yesterday I spotted a .cron directory in natalian.org and raptor_chown which seems to be something for grabbing user processes, a httpd and some files that looked like they were for <span class="caps">IRC</span> dcc transfers.  I&#8217;ve since put the files in <a href="http://static.natalian.org/2005-09-20/quarantine.tar">quarantine</a> for you to study. I changed my passwords and checked for any running processes. The &#8220;trojan&#8221; didn&#8217;t seem to be running and after checking my bandwidth graphs, it looks like everything was normal and my account wasn&#8217;t abused.</p>
+
+<p>I wrote to DreamHost support about the break in:</p>
+
+<blockquote>
+> I am not sure if someone sniffed my password or becuase there was a
+> security issue with Wordpress:
+> pico:331$ cat natalian.org/wp-includes/version.php | grep version
+> $wp_version = '1.5.1.3';
+>
+> Latest version is 1.5.2 and I am only getting around to upgrading it.
+>
+> The suspect files are in /home/hendry/quarantine.tar
+>
+> I am changing my passwords and updating Wordpress by hand. I will be
+> also studying the files in quarantine.tar
+>
+> Have you considered using the Debian packages of Wordpress for sarge?
+> http://people.debian.org/~dilinger/backports/wordpress/
+
+<p>We have to have a different mechanism than that for installing per user<br />
+on the shared machines. We upgrade the one-click installs when there are<br />
+security updates, but after that one-click install is completed, you need<br />
+to keep on top of the security updates.</p>
+
+<p>Wordpress&#8217;s xmlrpc.php was vulnerable, so upgrading is a great idea. I<br />
+would also evaluate the other applications running under any of your<br />
+websites if there are any &#8211; you never know what could be vulnerable!</p>
+
+<p>securityfocus.com is a great website for finding what applications are<br />
+vulnerable. They have a huge vulnerability database that is updated<br />
+daily.</p>
+
+<p>Please let me know if you have any further questions.<br />
+</blockquote><br />
+Another email:<br />
+<blockquote><br />
+> So that was the cause for the break in you expect? Could any further<br />
+> information be gleamed from logs? I&#8217;ve been away for almost a month<br />
+> before this.</p>
+
+<p>I suspect that it is. If you&#8217;ve been away for a month, I don&#8217;t think I<br />
+could really dig into the logs that far back because we only keep Apache<br />
+access logs for about five days maximum.</p>
+
+<p>Again, the best way to prevent break-ins is to keep your applications up<br />
+to date, although evaluating your passwords and changing them now and<br />
+again isn&#8217;t a bad idea. Make sure you don&#8217;t use any dictionary terms or<br />
+names of pets, relatives, etc. Nonsense words that easily stick in your<br />
+mind with a number or two thrown is are best.<br />
+</blockquote></p>
+
+<p>I am a bit dissapointed that I got cracked. This has happened to more people than people like to admit. :( I am eager to point fingers, but I guess ultimately I have myself to blame.</p>
+
+<p>I wish the Web or Wordpress or <span class="caps">PHP</span> wasn&#8217;t riddled with security problems. Though in the last month, it has stabilised&#8230;</p>
+
+<p>I wish DreamHost took care of updating Wordpress. DreamHost could have flagged this trojan by running chkrootkit and rkhunter periodically, but then again I don&#8217;t want them scanning my files tbh.</p>
+
+<p>I am not too sure about the extent of the crack. All files look ok, but are they? I did run some greps and finds for obvious things. I do have copies of everything which are pretty much all in source control.</p>
+
+<p>This cracker is probably a warez script kiddie who wants my account to help distribute something illegal. Hopefully not intent on destroying my data. The attack could have been reduced by not having unzip on the system. ;)</p>

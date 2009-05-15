@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="90.152.10.134"
+ date="2008-10-30 13:31:50"
+ content="""
+<p>I&#8217;m going to host my Website :)</p>
+
+<p>With the help of <a href="http://dreamhost.com/" rel="nofollow">Dreamhost</a>.</p>
+
+<a href="http://www.dataportability.org/" rel="nofollow">Data portability</a> with Dreamhost is pretty easy. They have a backup function or you can just use tools like rsync.
+"""]]

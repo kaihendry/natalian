@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Sean Owen"
+ subject="66.65.57.163"
+ date="2007-05-30 14:52:05"
+ content="""
+<p>Your original point was that mobile (.mobi) sites need &#8220;DEVICE <span class="caps">DEPENDENT</span> <span class="caps">DETECTION</span> <span class="caps">MODIFICATION</span>&#8221; to display on the desktop. This wasn&#8217;t what you meant I suppose since it&#8217;s obviously not true; <span class="caps">XHTML</span> MP and Basic render fine. bbc.co.uk/mobile chooses to send desktop browsers away from its mobile site for a different reason: it&#8217;s hardly optimal for desktop users, not because it doesn&#8217;t render.</p>
+
+<p>I didn&#8217;t ask whether mobile web Gmail can be as fast as a Gmail J2ME app. I asked whether you can write one Gmail that works nicely on the desktop and mobile, and you dodged that question.</p>
+
+<p>&#8220;Gmail&#8221; is exactly what you need to address to make your points relevant. This site works well on phones and browsers, no doubt. 99 others won&#8217;t even when authored with the latest <span class="caps">CSS</span> tricks. I don&#8217;t think you can say, sorry, don&#8217;t offer Gmail at all, or not on mobile, because it&#8217;s not what the web is for, etc.</p>
+
+<p>What do you for people in, say, India, who have a cell phone but no computer? who don&#8217;t have an N60 or fancy Blackberry? These are issues that we can&#8217;t ignore. We can&#8217;t say, sorry India, <span class="caps">GET</span> A <span class="caps">REAL</span> <span class="caps">PHONE</span>/BROWSER! How do we get them Gmail? The practical value trumps any theoretical arguments about how markup and <span class="caps">CSS</span> should be used&#8212;points I don&#8217;t disagree with.</p>
+
+<p>The Google link you provide shows ten results about you (well someone with your name), so not sure I follow your point there? There are two mobile web results and eight transcoded results from the web. I am not surprised that there are better informational links about you on the web. Seriously I&#8217;d be happy to hear what you think should have been done better here&#8212;I&#8217;d assume you like that we&#8217;ve finally gotten rid of the Web / Mobile Web distinction here, and only indicate which links are to &#8220;native&#8221; mobile sites and which are being chewed up by our transcoder because, unfortunately, almost every single desktop site on the planet doesn&#8217;t work on a mobile phone directly.</p>
+"""]]

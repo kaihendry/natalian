@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Carsten"
+ subject="194.94.224.254"
+ date="2006-02-03 20:47:27"
+ content="""
+<p>Well, do you have a desktop system handy with about 30 GB free space?</p>
+
+<p>I have just resized the partitions on my laptop&#8217;s <span class="caps">HDD</span> two weeks ago and simply rsync&#8217;ed things over to the desktop, repartitioned the <span class="caps">HDD</span> and rsync&#8217;ed things back again. About 35 GBytes in every go took about 4 hours in total.</p>
+
+<p>No reinstall necessary, thing is still stable!</p>
+
+<p>If you need any advice hot to do it with rsync, please drop me an email.</p>
+"""]]

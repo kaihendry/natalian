@@ -1,0 +1,7 @@
+[[!meta title="Mailing list subscriptions" ]]
+[[!meta date="2006-06-29 19:28:36" ]]
+<p>Since mutt can&#8217;t tell me how many messages are in each <a href="http://trac.natalian.org/browser/home/.procmailrc">procmail filtered</a> <span class="caps">IMAP</span> folder I wrote a <a href="http://trac.natalian.org/browser/projects/maildir/mailcheck.sh">little script</a> that could.</p>
+
+<p>That combined with a cronjob and a <a href="http://trac.natalian.org/browser/projects/dabase.com/l"><span class="caps">HTML</span></a> template, I now have a <a href="http://dabase.com/l/">listing</a> that I can check from time to time.</p>
+
+<p>Didn&#8217;t realise I was subscribed to 60+ lists.</p>

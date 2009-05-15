@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Andy Edinborough"
+ subject="209.66.18.195"
+ date="2007-08-10 14:47:14"
+ content="""
+<p>Personally, I can&#8217;t stand Linux.  But in an environment such as digital signage, why waste the money on Windows?  Linux works well in static environments like this.</p>
+
+<p>I say, throw Ubuntu on it, load <span class="caps">VNC</span>, then run your signage via Flash in Firefox.</p>
+"""]]

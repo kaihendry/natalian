@@ -1,0 +1,19 @@
+[[!meta title="Web.py VS Rails" ]]
+[[!meta date="2006-01-23 07:25:24" ]]
+<a href="http://www.flickr.com/photos/hendry/89056954/" title="Photo Sharing"><img src="http://static.flickr.com/32/89056954_82eab3a111_m.jpg" width="240" height="180" alt="Kai at Emma Laine (FIN) vs Martina Hingis (SUI)" /></a>
+
+<p>This weekend I have been having fun coding on my laptop a report tool in <a href="http://webpy.org/">web.py</a> and <a href="http://studiolist.biz/">basic Web (database) application</a> in <a href="http://www.rubyonrails.org/">Rails.</a></p>
+
+<p>Current versions of web.py didn&#8217;t have sqlite, but I hacked in support quickly. This is so opposite to my fumbling experiences with Rails&#8230;</p>
+
+<p>I have the <a href="http://www.pragmaticprogrammer.com/titles/rails/"><span class="caps">PDF</span> of Agile Webdev</a> and reading the <span class="caps">PDF</span> (in that monster acroread) sucks. The <a href="http://api.rubyonrails.com/"><span class="caps">API</span></a> is good, but you have to be online, as I can&#8217;t find it on my (often offline) Debian system. So I prefer Aaron&#8217;s simple python style <a href="http://webpy.org/documentation">web.py docs</a>. Online I love that <a href="http://poignantguide.net/ruby/">Poignant guide to Ruby</a>, though I still find <a href="http://docs.python.org/">python docs</a> just easier.</p>
+
+<p>One thing I quickly noticed is putting Rails vendor/ stuff in source control was a <strong>bad</strong> idea. I sorted things out eventually, though I am struggling to merge some conflicts in <a href="http://svk.elixus.org/">svk</a>. Argh, <strong>pain</strong>.</p>
+
+<p>The generators in Rails are great, but installing them is a <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=301790">bitch as I discovered on my system.</a> I eventually installed <strong>login_generator</strong> and got something working pretty quickly. Then when I upped it back to dreamhost, it seem that <a href="http://www.dreamhost.com/">DreamHost</a> doesn&#8217;t have login generator installed either. Omg, how do I install it? So deploying and managing code in web.py is 100 times better. Even though it isn&#8217;t a Debian package. ;)</p>
+
+<p>Debugging in web.py is easy. I still not sure about printing and showing up stuff the way I&#8217;d like too in Rails. That makes me really blind.</p>
+
+<p>I find Rails scaffold generator, form helpers and the model construct to save a bunch of time. So with database applications with luser input, I think I will still employ Rails. For smaller (more cutting edge) projects I will definitely use web.py.</p>
+
+<p>Rails is definitely a phenomenon. Their <a href="http://www.rubyonrails.org/community">mailing list is incredibly busy.</a></p>

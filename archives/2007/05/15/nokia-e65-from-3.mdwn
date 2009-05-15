@@ -1,0 +1,49 @@
+[[!meta title="Nokia E65 from 3" ]]
+[[!meta date="2008-10-26 21:30:55" ]]
+<a href="http://www.flickr.com/photos/hendry/499279944/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/215/499279944_d7d721781e_m.jpg" width="240" height="180" alt="Nokia E65 billboard" /></a>
+
+<ol>
+<li>Not liking the slider. Wish it was a clamshell model&#8230;</li>
+<li>Not liking the top buttons. The thin ones are the most useful. I wish Nokia came up with some nice responsive tactile input device like Ipod and Blackberry has done&#8230;</li>
+<li>Not liking the <a href="http://flickr.com/photos/hendry/475395821/">new (why!) small charger size</a></li>
+<li>3 has hooked in their services with the horrible (terrible fonts) legacy (XHTML&amp;WAP) <strong>Services</strong> browser</li>
+<li>Installed Google Mail, Google Maps, Opera Mini (high mem version) and Fring</li>
+<li><a href="http://www.fring.com/">Fring</a> allows me use Google chat. Oh yes. Though no chat history. :(</li>
+<li>Skype and <span class="caps">MSN</span> came with the device, but I don&#8217;t use either. Fring gives me the Skype.</li>
+<li>I have figured out how to adjust the phone&#8217;s top menu and shortcuts. Settings->Phone->Standby mode</li>
+<li>The in built camera is a joke. In a natural holding position your finger can easily obscure the lens</li>
+<li>Not liking how the screen blanks quite quickly.</li>
+<li>Andrei showed me two wonderful things; The hidden away, fast, Webkit based &#8220;Web&#8221; browser that he worked on at Nokia. Wow.</li>
+<li>And, that holding down the Menu key shows a Task manager. Yay!</li>
+<li>Gmail application works well. Though like Fring you need to tell it twice to connect to 3 as it&#8217;s &#8220;unsigned&#8221;.</li>
+<li>Opera mini is great, though &#8220;Web&#8221; is much faster.</li>
+<li>3 has hooked the top right key to go to their services page where a wrong click could cost me dear&#8230; :/</li>
+<li>Calendar seems absolutely useless</li>
+<li><a href="http://static.natalian.org/2007-05-15/E65crash.txt">Data cable and PC suite almost crashed my machine!</a></li>
+<li>Received two text messages from 3 at 9am Sunday morning about configuring the mail application. Er, NO <span class="caps">THANKS</span>.</li>
+<li>&#8216;Skype In&#8217; works. :)</li>
+<li>I have a bag full of packaging. I scanned through the docs, but found nothing useful.</li>
+<li>I am on a 32.99GBP 900 min&amp;150 texts (Talk &amp; Text 900) with the &#8220;X-Series Silver&#8221; addon (flat rate Internet) <a href="http://three.co.uk/xseries/mobiles/e65/index.omp">E65 Three deal</a> for 18months. Oh gosh&#8230;</li>
+<li>I can see from the receipt the E65 is valued at 279GBP. 33GBP*18months=594 594&#8211;279=315GBP service charges. Yowsers!</li>
+<li>Bribed with a Jabra 150 bluetooth headset. You won&#8217;t see me in public with one of these!</li>
+<li>I couldn&#8217;t get voice dialling to work. No idea how this is supposed to work.</li>
+<li>I wish the editor was a little more responsive. Predictive text is ok, but still, it seems like input has not really improved for many years now. In fact a little worse with its sluggish-ness.</li>
+<li>Andrei says he can connect his mobile to his macbook and use the Internet. I wanted to use the Internet through this device, though the salesmen as the 3 store were trying to sell me some <span class="caps">USB</span> data cable which I was never going to buy. I wonder if I can get this working with my Debian <a href="http://www.thinkwiki.org/wiki/How_to_setup_Bluetooth">TP X40</a> (I think a kernel compile is required&#8230;). Update: my particular TP X40 doesn&#8217;t have bluetooth. <span class="caps">DOH</span>!</li>
+<li>Complaints aside, I think this is a next generation device. <strong>I can check my email, chat and Skype away from my desk. Amazing!</strong></li>
+<li>The image viewer is really slow.</li>
+<li>Oh course flash apps don&#8217;t seem to work</li>
+<li>It uses realplayer for video. God no&#8230; :/</li>
+<li>I was advised not to buy 3 insurance for the phone, though instead to get &#8220;First Additions&#8221; from Baclays at 6.50GBP a month.</li>
+<li>&#8220;First Additions&#8221; gives you insurance for your cards, three other gadgets and some extras. Though after going through a really long process of opening this account feature and registering the <span class="caps">IMEI</span>, insurance cover only starts in 3 weeks time. <span class="caps">WTF</span>! I hate insurance. I&#8217;ve also found out since I don&#8217;t have a &#8220;Proof of purchase&#8221; for my thinkpad or Canon <span class="caps">IXUS</span> (no idea where they are), I can&#8217;t get them insured with &#8216;Lifestyle&#8217;. :/</li>
+<li><a href="http://flickr.com/photos/hendry/499355373/">I get really daft messages from three.</a></li>
+<li>I don&#8217;t like how the phone notifies me when plugged into the charger that it&#8217;s charging and that the battery is full. It&#8217;s disruptive!</li>
+<li>Three&#8217;s support seems useless. After painstakingly finding the right form to send them feedback, they get back to me by calling me. An Indian voice saying that they can address my several point feedback over the phone, whilst I was out and about in the West End. I said to the person, email me the answers and then she said it can take upto 10 days for a response. <span class="caps">WTF</span>? I said I&#8217;ll wait 10 days then for her email.</li>
+<li>As for &#8220;unlimited Internet on a mobile&#8221; type plans. I heard there is some competition from T-mobile UK with their <a href="http://www.t-mobile.co.uk/eshop/personal/phones-plans.do">Web &#8216;n Walk</a> plans. Why do these phone companies have to make such ridiculous names for their Internet plans? Their <a href="http://www.t-mobile.co.uk/eshop/personal/phones/phone-specification.do?mpc=300003186&amp;allOnOnePage=false&amp;menuId=handset.postpaid&amp;paymentTypeId=1&amp;bundleTypeGroup=0&amp;currentPageNumber=0">Nokia N95</a> offering has got me envious.</li>
+<li>You need to charge this thing every night. :(</li>
+<li>Yesterday (10 days later exactly) I received an email respone from 3, briefly:</li>
+<li>The is a 1G monthly usage allowance. Though a 3 insider says they actually don&#8217;t have the equipment to accurately track that.</li>
+<li>&#8220;You can’t disable services browser&#8221;, 3 says. I think I have actually.</li>
+<li>I wrote to them asking to stop promotional messages as I couldn&#8217;t find wtf you could it one their website and they write: &#8220;I’ve amended your marketing permissions and you should stop receiving any promotional messages from us after 14 days.&#8221;</li>
+<li>I asked if there was an E65 user group, and they responded, yes, we do have E65 users on the 3 network. No shit!</li>
+<li>They really seem to want me to call them, instead of email. Crikey&#8230;</li>
+</ol>

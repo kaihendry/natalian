@@ -1,0 +1,39 @@
+[[!meta title="Mobile domain names" ]]
+[[!meta date="2005-03-06 05:20:22" ]]
+<p>While watching footie on the TV I noticed domains like <a href="http://www.samsungmobile.com/"><a href="http://www.samsungmobile.com/">http://www.samsungmobile.com/</a></a> and <a href="http://www.arsenalmobile.com"><a href="http://www.arsenalmobile.com">http://www.arsenalmobile.com</a></a> advertised.</p>
+
+<p>What the hell are those <strong>assholes</strong> thinking?</p>
+
+<p><a href="http://www.w3.org/DesignIssues/TLD">This is just as bad as a <span class="caps">TLD</span> devoted to mobile devices.</a></p>
+
+<p>These assholes threaten to divide information space aka the Web into two!</p>
+
+<ol>
+<li>For mobiles only</li>
+<li>For desktops only</li>
+</ol>
+
+<p>NO! This would have terrible consequences.</p>
+
+<ul>
+<li>It would fragment the Web. </li>
+<li>It would make websites much harder to maintain decreasing their quality. </li>
+<li>It would make websites inconsistent. </li>
+<li>It would prevent true multi-modal access. </li>
+<li>Information wouldn&#8217;t be pervasive at all, it would be sadly <strong>device dependent.</strong></li>
+</ul>
+
+<p>Please use a <strong>device independent</strong> approach:</p>
+
+<ul>
+<li>Use no/less images</li>
+<li>Minimize the size of the page</li>
+<li>Write good HTML4 strict code (no hunky tables)</li>
+<li>Have a good search at the top of the page like <a href="http://aat.dabase.com/"><span class="caps">AAT</span></a></li>
+<li>Presentational elements of course should be in <span class="caps">CSS</span>, but bear in mind that mobile UAs generally have very poor <span class="caps">CSS</span> support, e.g. series 40</li>
+<li>No proprietary bullshit like Flash of course!</li>
+</ul>
+
+<p>I know this would make many websites &#8220;boring&#8221;. They will get more exciting when UAs on mobiles get better. However although limited, information can be  discerned through a simple form interface from a mobile device. Just look at <a href="http://aat.dabase.com/"><span class="caps">AAT</span></a> on yout mobile. Just think this interface could be used to query client records. Customer orders. Football scores. It&#8217;s just about enough to actually have an information application on zillions of mobiles out there with below-par UAs. So do it!</p>
+
+<p>For more, read my <a href="http://natalian.org/archives/2004/10/03/web-engineering-for-mobile-devices/">Msc.</a></p>

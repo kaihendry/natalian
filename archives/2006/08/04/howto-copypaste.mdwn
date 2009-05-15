@@ -1,0 +1,35 @@
+[[!meta title="Howto: Copy&Paste" ]]
+[[!meta date="2006-08-05 19:52:33" ]]
+<p>Ok, I know I&#8217;ve whinged about <a href="http://natalian.org/archives/2006/04/02/copy-and-paste/">Copy &amp; Paste</a> before. It just seems to have got worse. Maybe I am becoming more inept.</p>
+
+<p>Though I have a dream. A dream whereby I can copy and paste the <span class="caps">URL</span> bar of my Firefox with:</p>
+
+<ol>
+<li><span class="caps">CTRL</span>+L</li>
+<li><span class="caps">CTRL</span>+C</li>
+<li>Alt+1 (switch to uxterm)</li>
+<li>Middle click into uxterm or shift+insert on keyboard</li>
+</ol>
+
+<p>Instead of the nightmare right now:</p>
+
+<ol>
+<li><span class="caps">CTRL</span>+L</li>
+<li><span class="caps">CTRL</span>+C</li>
+<li>Alt+1 (switch to uxterm)</li>
+<li>Middle click into uxterm</li>
+<li>Wrong text! (if you are using vim and pasting a lot of text, hilarious consequences ensue)</li>
+<li>Undo damage </li>
+<li>Alt+2 (switch to firefox)</li>
+<li>Find correct tab</li>
+<li><span class="caps">CTRL</span>+L</li>
+<li>Double click with <span class="caps">LMB</span> (i hate having to use the mouse here)</li>
+<li>Pray</li>
+<li>Double click with <span class="caps">LMB</span> again just to be sure</li>
+<li>Alt+1 (switch to uxterm)</li>
+<li>Middle click into uxterm</li>
+</ol>
+
+<p>Btw my window manager is <a href="http://wmii.de/">wmii</a>.</p>
+
+<p>Update: The dream has been realised! Step four is though now a Shift+Middleclick with this <a href="http://svn.natalian.org/home/.Xresources">Xresources</a> configuration for uxterm. Thanks guys&#8230;</p>

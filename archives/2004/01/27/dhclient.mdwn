@@ -1,0 +1,13 @@
+[[!meta title="Dhclient" ]]
+[[!meta date="2004-01-28 12:25:58" ]]
+<strike><a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=177846">http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=177846</a>
+
+<p>This bug has kept my thinkpad at home off the net for a couple of days.</p>
+
+<p>I had to boot a <a href="ftp://ftp.skolelinux.no/skolelinux/knoppixes/snofrix/">Live-CD</a>. Mount my hard drive in write mode. chroot, run aptitude and install pump. <br />
+<pre><br />
+pump -i iface<br />
+</pre><br />
+Gets you back into action.</strike></p>
+
+<p>I have been a fool. The reason why my network was not working, is that my wireless and ethernet interface swapped around. I am such a moron.</p>

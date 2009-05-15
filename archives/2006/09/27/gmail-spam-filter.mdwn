@@ -1,0 +1,33 @@
+[[!meta title="Gmail spam filter" ]]
+[[!meta date="2006-10-05 13:09:02" ]]
+<a href="http://www.flickr.com/photos/hendry/245020218/" title="Photo Sharing"><img src="http://static.flickr.com/98/245020218_709c5afa00.jpg" width="500" height="375" alt="Spam on Gmail" /></a>
+
+<p>Suddenly everyday for the last couple of weeks I&#8217;ve had to manually report more than 10 pieces of spam a day. Today my spam folder is almost 4000 mails for the month.</p>
+
+<p>I reported the problem as ticket #74303023 and received a painfully generic response:</p>
+
+<blockquote>
+
+<p>Thank you for your message.</p>
+
+<p>The Gmail system considers a number of factors when classifying messages<br />
+as &#8216;Spam.&#8217; To best protect our users, we can&#8217;t share specific details<br />
+about our spam filters.</p>
+
+<p>Providing you with a spam-free inbox is very important to us, so we&#8217;re<br />
+continuously working to improve our filtering system. To help with this<br />
+process, we ask that you report any unsolicited messages you receive in<br />
+your inbox. To do so, check the box next to the unwanted mail and click<br />
+&#8216;Report Spam.&#8217; If you decide an email is spam after it has been opened,<br />
+simply click &#8216;Report Spam&#8217; along the top of the message.</p>
+
+<p>We appreciate your help in keeping your inbox free from spam. When you<br />
+report unwanted messages, you send valuable data to help our spam filters<br />
+eliminate unwanted email.</p>
+
+<p>Sincerely,</p>
+
+<p>The Google Team<br />
+</blockquote></p>
+
+<p>One of the key features for using Gmail for me is the spam filtering. Now I can&#8217;t argue Gmail&#8217;s spam filtering is any good.</p>

@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="90.152.10.135"
+ date="2008-07-09 11:07:31"
+ content="""
+<p>Of course collisions with 4 bit checksums are very possible.</p>
+
+<p>md5sum is a 128 bit checksum and it&#8217;s very hard to get a collision. &#8220;get a cue&#8221; uses just the first 4 bits of md5sum.</p>
+
+<p>there must be some intersection where this checksum catches most errors. &#8216;Cue&#8217; is <strong>not</strong> about being &#8220;fool proof&#8221; (thanks Jamie), or providing secure authentication.</p>
+
+<p>I think you could fairly compactly represent 128bit with <span class="caps">CSS</span>, colours &amp; Unicode. Though I think a much lower bit size, like 10bit can suffice for small input fields commonly found in Web forms.</p>
+"""]]

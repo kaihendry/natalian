@@ -1,0 +1,41 @@
+[[!meta title="OpenID fresh auth can be slow" ]]
+[[!meta date="2007-02-11 15:58:01" ]]
+<p>I&#8217;ve been thinking of how to test Web applications lately. Since I&#8217;m playing with <a href="http://en.wikipedia.org/wiki/OpenID">OpenID</a> I wrote a unit test using <a href="http://twill.idyll.org/">twill</a> which I discovered with <a href="http://groups.google.com/group/webpy/browse_thread/thread/4b5eac2640c004ad">this post on web.py mailing list</a>.</p>
+
+<p>So I am running the consumer.py example from <a href="http://packages.debian.org/unstable/python/python-openid">python-openid</a> and here is what the test case looks like:</p>
+
+<pre>
+monty$ cat t.twill
+#debug http 1
+go http://0.0.0.0:8001
+code 200
+
+<p>fv 1 openid_identifier <a href="http://YOURUSERNAME.myopenid.com/">http://YOURUSERNAME.myopenid.com/</a><br />
+submit<br />
+code 200</p>
+
+<p>fv 1 password <span class="caps">YOURPASSWORD</span><br />
+submit<br />
+code 200</p>
+
+<p>find successfully<br />
+</pre></p>
+
+<p>Fill in your openID details and lets try it with twill:</p>
+
+<pre>
+monty$ time ./twill-sh t.twill
+>> EXECUTING FILE t.twill
+==> at http://0.0.0.0:8001
+Note: submit is using submit button: name="None", value="Verify"
+Note: submit is using submit button: name="None", value="Sign In"
+
+<p>&#8212;<br />
+1 of 1 files <span class="caps">SUCCEEDED</span>.</p>
+
+<p>real    0m33.065s<br />
+user    0m0.920s<br />
+sys     0m0.100s<br />
+</pre></p>
+
+<p>33 seconds! Ok, I&#8217;ve run this a couple of times and it can be low as 17 seconds or it is usually in the mid-twenty seconds somewhere. So I wish that was a little faster.</p>

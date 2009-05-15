@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Sean Owen"
+ subject="66.65.57.163"
+ date="2007-05-29 12:25:23"
+ content="""
+<p>Kai, I&#8217;m also not sure what you mean. Your example is an <span class="caps">XHTML</span> page that is correctly indexed and served. It uses a <span class="caps">DTD</span> that is, as far as I can tell, an experimental draft <span class="caps">XHTML</span> + MathML <span class="caps">DTD</span>. The &#8220;unrecognized&#8221; file format is probably a result of that.</p>
+
+<p>But we&#8217;re talking about mobile and, yeah, have you ever seen google.com/m? :) We&#8217;ve served <span class="caps">XHTML</span> MP and Basic along with cHTML and <span class="caps">WML</span> there since early 2005. If you&#8217;ve followed the evolution of mobile markup, you won&#8217;t be surprised to learn that the amount of <span class="caps">XHTML</span> mobile content out there is increasing fastest by far.</p>
+
+<p>To answer one of your questions&#8212;I have never seen an <span class="caps">XHTML</span> mobile site that doesn&#8217;t work on a desktop browser. It&#8217;s not particularly <strong>suitable</strong> for a desktop browser, but it displays fine. <a href="http://google.com/m">http://google.com/m</a> does for example. Can you give an example of mobile site that <strong>doesn&#8217;t</strong> render?</p>
+
+<p>I think the Universal Web idea is simply unrealistic right now. I&#8217;d turn your question around and show me a single <span class="caps">HTML</span> document that provides a compelling desktop experience while working on most mobile devices too.</p>
+"""]]

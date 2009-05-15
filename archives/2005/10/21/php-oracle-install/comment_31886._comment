@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="werner"
+ subject="141.65.129.36"
+ date="2007-01-30 09:16:34"
+ content="""
+<p>Maybe the page <a href="http://www.oracle.com/technology/pub/notes/technote_php_instant.html">http://www.oracle.com/technology/pub/notes/technote_php_instant.html</a> (maybe you need to login here, at least I have a greeting in the upper right corner) is newer than your search, but it tells what do do with PHP5. It does not tell how to build it as a module, one has to recompile the whole <span class="caps">PHP</span>&#8230; sad :-(</p>
+"""]]

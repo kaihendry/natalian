@@ -1,0 +1,24 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-10-07 11:30:30"
+ content="""
+<p>I remember what I liked about dictionary.com. It has quite a good spell checking suggestion service. For example:</p>
+
+<p>debian$ wn unwiedly<br />
+No information available for noun unwiedly<br />
+No information available for verb unwiedly<br />
+No information available for adj unwiedly<br />
+No information available for adv unwiedly</p>
+
+<p>Though dict does:</p>
+
+<p>debian$ dict -h dict.org unwiedly<br />
+No definitions found for &#8220;unwiedly&#8221;, perhaps you mean:<br />
+gcide:  Unwieldy<br />
+wn:  unwieldy<br />
+moby-thes:  unwieldy</p>
+
+<a href="http://www.google.com.au/search?q=define+unwiedly+&amp;start=0&amp;start=0&amp;ie=utf-8&amp;oe=utf-8&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official" rel="nofollow">Once again Google lets me down.</a>
+"""]]

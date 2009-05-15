@@ -1,0 +1,24 @@
+[[!meta title="Cancelling a Three mobile contract FAIL" ]]
+[[!meta date="2008-10-10 18:21:11" ]]
+<p>So I&#8217;ve <a href="http://natalian.org/archives/2008/08/08/cancelling-my-three-contract/">carefully marked the 2008&#8211;10-10 in my calendar to cancel my 18 month mobile contract</a>. This according to <a href="http://en.wikipedia.org/wiki/3_(telecommunications)"><span class="caps">HTG</span> Three</a> was the only time I could cancel my 18 month contract. However I nervously called on the 2008&#8211;10-06 to indeed <strong>make sure</strong> that it was the 10th I had to call.</p>
+
+<p>After spending some time on the phone, the Scottish operator said I could cancel upto 37 days. Excitedly I decided to cancel then and there and get the <a href="http://en.wikipedia.org/wiki/PAC_code"><span class="caps">PAC</span> code</a>. However I was warned that the <span class="caps">PAC</span> code will only last 30 days. Whatever, I want to cut and run. I honestly felt traumatized after that call.</p>
+
+<p>So today the 2008&#8211;10-10 I decided to call and ensure I really had cancelled. I had not received any confirmation by email or post I had indeed cancelled. This time the Indian operator said alarmingly that since I&#8217;ve ordered a <span class="caps">PAC</span> code my account will only close once I&#8217;ve transferred the number to another operator.</p>
+
+<p>Eh? What happens if I decide not to keep the number and not port it I ask? Three operator says my contract will <strong>renew and remain active</strong>. W.T.F. I want to cancel! I want confirmation and I want to know exactly when the last penny leaves my account. Sorry the operator replies, you&#8217;ve requested a <span class="caps">PAC</span> code and our system will only send notification after the transferral. Incidentally the operator says I should have called 2008&#8211;10-11 as today is 31 days, contrary to what the Scottish operator allowed me to do.</p>
+
+<p>So since transfers can take upto 5 working days, and my initial <span class="caps">PAC</span> code from 2008&#8211;10-06 lasts only 30 days, that means I probably need to stop using <span class="caps">HTG</span> Three by the end of October. But I have paid Three for service until the 2008&#8211;11-10, therefore I am loosing out on at <strong>least 10 days</strong> of service!</p>
+
+<p>Now I need a new operator/provider/carrier <span class="caps">SIM</span> to switch to. Since <a href="http://tmobile.modeaondemand.com/htc/g1/">T-mobile</a> has not got back to me after registering for a G-phone, I&#8217;ll have to shoot for Vodafone I think.</p>
+
+<p>On the Vodafone store the <a href="http://shop.vodafone.co.uk/mobile-phones/sim-only/pay-monthly/?WT_ref=Homepage-Layer3-SIMO-1"><span class="caps">SIM</span> only 20GBP a month with 30 day cancellation contract</a> looked best. Though after filling in their form with <abbr title="Too much information!"><span class="caps">TMI</span></abbr> like my occupation and dates where I have been resident it did not give me the option to:</p>
+
+<ul>
+<li>Enter a <span class="caps">PAC</span> code</li>
+<li>Set the date when I want the contract to start. Preferably right at the end of my Three contract 2008&#8211;11-10!</li>
+</ul>
+
+<p>That&#8217;s no good. So now I&#8217;ve ordered their free <abbr title="Pay as you go"><span class="caps">PAYG</span></abbr> <span class="caps">SIM</span>, which Vodafone painfully call the &#8220;Vodafone Free Pay As You Talk Sim&#8221;. Argh, this is all too painful.</p>
+
+<p><span class="caps">PAC</span> != Cancelling. I&#8217;ve noticed that <a href="http://en.wikipedia.org/wiki/Porting_Authorisation_Code">Orange also do not terminate your contract if you decide not to use your <span class="caps">PAC</span></a>. FS.</p>

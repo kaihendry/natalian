@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Steve Kowalik"
+ subject="220.233.5.14"
+ date="2006-03-17 18:23:47"
+ content="""
+<p>The simplest way to get video and audio playback on an Ubuntu box is to follow these instructions: <a href="https://wiki.ubuntu.com/RestrictedFormats">https://wiki.ubuntu.com/RestrictedFormats</a></p>
+
+<p>I install the packages it suggests as about the third thing I do on a new desktop install, and have absolutely no problems.</p>
+
+<p>Enjoy!</p>
+"""]]

@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Simon Waters"
+ subject="84.45.158.52"
+ date="2006-07-24 07:10:31"
+ content="""
+<p>Snapshot worked for me&#8230;.</p>
+
+<p><a href="http://www.debian-administration.org/users/simonw/weblog/49">http://www.debian-administration.org/users/simonw/weblog/49</a></p>
+
+<p>Because it was X, I ended up reinstalling every package depending on X. But because X is an application that doesn&#8217;t require a reboot or anything silly.</p>
+
+<p>Of course backing out this way is dependent on no irreversable changes to data, but I doubt other vendors do a better job than Debian here. Sure one vendr will restore some types of metadata to their earlier configuration, but it ain&#8217;t intelligent in the way it is done.</p>
+"""]]

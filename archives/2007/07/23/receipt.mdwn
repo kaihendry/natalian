@@ -1,0 +1,21 @@
+[[!meta title="Receipt" ]]
+[[!meta date="2007-07-23 14:55:34" ]]
+<a href="http://www.flickr.com/photos/hendry/871604165/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1121/871604165_73a1a903fd_m.jpg" width="240" height="180" alt="18 megs of mobile traffic" /></a>
+
+<p>While purchasing a couple of <span class="caps">USB</span> sticks from <a href="http://ebuyer.com/">ebuyer.com</a>(E), via <a href="https://checkout.google.com">Google Checkout</a>(GC) I was surprised how many emails they sent me.</p>
+
+<ol>
+<li>GC &#8211; order receipt</li>
+<li>E &#8211; order confirmation</li>
+<li>GC &#8211; you&#8217;ve received a note from E</li>
+<li>E &#8211; Payment processed</li>
+<li>E &#8211; Order dispatched</li>
+<li>GC &#8211; Your order has dispatched (sent twice?!)</li>
+</ol>
+
+<p>I guess it is a minor improvement they&#8217;re not sending any <span class="caps">PDF</span>/Word attachments of invoices. This is still all too common. :( <br />
+I now notice on my <a href="https://ibank.barclays.co.uk">Internet Banking application on Barclays</a> I get these cryptic reference codes when money goes out like:</p>
+
+<p><b><span class="caps">REF</span> 195 6847321804 <span class="caps">BCC</span></b></p>
+
+<p>Anyone know how I can make that useful?</p>

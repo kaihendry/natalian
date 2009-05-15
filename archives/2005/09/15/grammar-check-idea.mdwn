@@ -1,0 +1,7 @@
+[[!meta title="Grammar check idea" ]]
+[[!meta date="2005-09-16 16:23:35" ]]
+<p>This Slashdot post about <a href="http://ask.slashdot.org/askslashdot/05/09/14/194218.shtml?tid=215&amp;tid=156&amp;tid=4">the need for a decent grammar check</a> reminded me of an idea I had a while ago.</p>
+
+<p>My solution would be to run substring searches of the sentence I typed with Google&#8217;s search to measure its feasibility as correct grammar.</p>
+
+<p>If many people write the same way, it should be correct. If not, it is probably isn&#8217;t.</p>

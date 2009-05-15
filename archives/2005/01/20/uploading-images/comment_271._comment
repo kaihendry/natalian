@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Joose Vettenranta"
+ subject="128.214.191.196"
+ date="2005-01-24 12:57:35"
+ content="""
+<p>openssh does not support chrooting sftp. There is some odd shells which support some kind of that. I think the commercial ssh-daemon supports sshd with chroot ability. Have you though of using webdav as upload. Without <span class="caps">SSL</span> windows support it (called webfolders) and also does Macs. Some Linux desktop supports webdav too.</p>
+
+<p>Nice thing about webdav is that it works through <span class="caps">HTTP</span>. Bad thing is that if using apache as webdav server, apache can&#8217;t do perchild mode yet :( as in: can&#8217;t run apache by the user whos files it is accessing. <span class="caps">IIS</span> has been able to do that for a long time, but apache haven&#8217;t. That feature is very important for ISPs.</p>
+"""]]

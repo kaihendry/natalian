@@ -1,0 +1,26 @@
+[[!meta title="Holiday" ]]
+[[!meta date="2005-12-21 10:55:53" ]]
+<a href="http://pictures.natalian.org/kodak/2004/dec/31/15:10:54/"><img alt="Holidaying in the Andaman" src="http://pictures.natalian.org/kodak/2004/dec/31/15:10:54/300x200" /></a>
+
+<p>I am making arrangements to go to <a href="http://maps.natalian.org/">New Caledonia on my travels</a> from Saturday. So I won&#8217;t be packaging imminent releases of:</p>
+
+<ul>
+<li><a href="http://maradns.org/">Maradns</a> 1.2</li>
+<li><a href="http://wordpress.org/">Wordpress</a> 2.0</li>
+</ul>
+
+<p>Sorry. I am pissed with Debian the last couple of days. Boiling. Yes I&#8217;m stressed, yes Debian is my scapegoat.</p>
+
+<p>My <a href="http://natalian.org/archives/2005/12/14/unstable-is-just-that/">unstable system</a> is completely b0rked. :(</p>
+
+<p><a href="http://wiki.debian.org/StatusOfUnstable">I tried. Honestly. I tried.</a></p>
+
+<p>I am running the 2.4 kernel which no matter how many modules I insert can&#8217;t seem to get X running with mouse support. I expected perhaps I need to dpkg-reconfigure xserver but then that reported I had a broken installation. <span class="caps">WTF</span>! Thanks mate.</p>
+
+<p>Paging around the end of virtual consoles in 2.4 which I have to do now, also does not bloody work. If I go off the edge it gets stuck. <span class="caps">ALT</span>+arrows don&#8217;t work. <span class="caps">CTRL</span>+ALT+F-keys don&#8217;t either. Nightmare. Reboot. Fsck errors. Fuck.</p>
+
+<p>dpkg -i of a 2.6.14 kernel just bombs out too while trying to make a mysteriously complicated initrd. I can&#8217;t really debug this problem as I don&#8217;t have Internet connectivity with my laptop either. Internet connectivity problems aren&#8217;t to do with Debian. That&#8217;s <a href="http://natalian.org/archives/category/australia/">Australia&#8217;s</a> fault.</p>
+
+<p>To add to my miseries I&#8217;ve caught a cold. I&#8217;ve also been playing around with <strong>sed</strong> all morning, trying to <a href="http://debian.dabase.com/">parse Debian <span class="caps">LDAP</span> output.</a> Nightmare.</p>
+
+<p>To think I wanted to do my <a href="https://nm.debian.org/nmstatus.php?email=hendry%40iki.fi">Debian New Maintainer</a> stuff this month. Moray got back to me last month (or the month before that?) saying he was too busy (again). I&#8217;ve written to debian nm frontdesk for another AM and I&#8217;ve yet to hear from them. Oh well, I&#8217;m going to roast my ass in the tropics for a while and try forget computers ever existed.</p>

@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Alex Kerr"
+ subject="82.35.167.36"
+ date="2008-09-19 13:51:23"
+ content="""
+<p>&gt; I don’t like <span class="caps">WURFL</span> and work arounds. Just write a simple Web application. Google.com probably works on any Web browser on any mobile device without fragmented “device dependent” engineering.</p>
+
+<p>OK, so I want to write a mobile web app that <span class="caps">NEEDS</span> to reach literally as many of the different phone models that are out there, in use, especially older models in people&#8217;s hands in developing markets. So, I don&#8217;t use <span class="caps">WURFL</span>. So how do I get my app to work on all those phones then? Do I:<br />
+a.) Write one markup, and screw anyone who&#8217;s phone it doesn&#8217;t work on (most people), bearing in mind this approach also misses out using more advanced features of more capable phones?<br />
+b.) ???</p>
+
+<p><span class="caps">WURFL</span>, or more specifically the <span class="caps">WURFL</span> based <span class="caps">WALL</span> and WALL4PHP (and probably HawHaw) are the only way I can see to address as many users as possible. I see no logic or reason whatsoever to your suggestion.</p>
+"""]]

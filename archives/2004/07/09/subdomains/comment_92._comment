@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Anonymous"
+ subject="84.128.213.141"
+ date="2004-07-09 20:40:56"
+ content="""
+<p>you can use &#8220;ls <del>1&#8221; instead of &#8220;for i in `ls`; do echo $i; done&#8221; :</del>)</p>
+"""]]

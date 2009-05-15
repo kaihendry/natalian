@@ -1,0 +1,21 @@
+[[!meta title="10 years of XML" ]]
+[[!meta date="2008-05-15 16:33:36" ]]
+<p>Since <a href="http://www.w3.org/2008/xml10/"><span class="caps">XML</span> is 10 years of age</a> I thought I&#8217;d give it the rant treatment. I&#8217;ve long grumbled about <span class="caps">XML</span>. Here&#8217;s why:</p>
+
+<ul>
+<li><a href="http://groups.google.com/group/google-contacts-api/browse_thread/thread/129f1e9eae466d90"><span class="caps">XML</span> is hard to parse</a> computationally (do <strong>not</strong> regex or grep)</li>
+<li><span class="caps">XML</span> is not human readable</li>
+<li><a href="http://groups.google.com/group/google-checkout-uk/browse_thread/thread/1049515cc972693f#"><span class="caps">XML</span> is hard to create</a></li>
+<li>Google&#8217;s Gdata <span class="caps">ATOM</span> <span class="caps">XML</span> I find is hard to <span class="caps">UPDATE</span></li>
+<li>Alternatives like <a href="http://en.wikipedia.org/wiki/Comma-separated_values"><span class="caps">CSV</span></a> for unstructured data (often the case) is so much faster and <strong>easier</strong></li>
+<li>No native support for <span class="caps">XML</span> in my $EDITOR vim</li>
+<li><a href="http://hixie.ch/advocacy/xhtml"><span class="caps">XML</span> does not work on the Web</a></li>
+<li>Related <a href="http://en.wikipedia.org/wiki/XSLT"><span class="caps">XSLT</span></a> for transforming <span class="caps">XML</span> is seriously not fun. <span class="caps">XSLT</span> unnecessarily bloats a Web browser. :(</li>
+<li><span class="caps">XML</span> has <a href="http://esw.w3.org/topic/HTML/DraconianErrorHandling">draconian error handling</a></li>
+<li><span class="caps">XML</span> attributes makes things ambiguous for markup</li>
+<li>Near impossible to diff (and nicely version control)</li>
+</ul>
+
+<p>A testament to <span class="caps">XML</span>&#8216;s waning popularity must have been at the <a href="http://wiki.webvm.net/papers/xtech2008">Xtech2008</a>&#8216;s <a href="http://2008.xtech.org/public/schedule/detail/642"><span class="caps">XML</span>@10</a> when a handful of <a href="http://www.oreillynet.com/xml/blog/2008/05/is_it_really_that_taxing_1.html">die hards</a> showed.</p>
+
+<p>I hope to continue see more of <span class="caps">JSON</span>, <span class="caps">CSV</span> and <a href="http://code.google.com/p/html5lib/"><span class="caps">HTML</span></a>.</p>

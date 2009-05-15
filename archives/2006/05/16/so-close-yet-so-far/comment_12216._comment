@@ -1,0 +1,19 @@
+
+[[!_comment format=mdwn
+ username="Sergio Talens-Oliag"
+ subject="80.59.203.224"
+ date="2006-05-17 05:29:40"
+ content="""
+<p>Well, if you like LaTeX output I believe that reStructuredText is a good format, the rst2latex<br />
+script + pdflatex has worked great for me for a long time.</p>
+
+<p>In fact we are now using it in the office with a small sed script to change the latex document<br />
+type and the pdf output looks great and has our own look&#8217;n&#8217;feel.</p>
+
+<p>I suggested this format as an intermediate step before moving documents to other editors like<br />
+OpenOffice.org writer (importing the html output), but it is quite probable that we adopt it as<br />
+an alternate way of writting documents as all the people working with it is quite happy with<br />
+the results.</p>
+
+<p>The only remaining thing to do for us is remove the sed script (it was a quick hack to reuse a previously defined document type) and move our customizations to a stylesheet for the rst2newlatex output format, as it seems a better and safer way of customize the latex output format.</p>
+"""]]

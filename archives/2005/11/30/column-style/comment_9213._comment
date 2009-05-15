@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-12-01 13:23:24"
+ content="""
+<p>Antoine tells me the bottom header Tags doesn&#8217;t have any content below it. Quite right.</p>
+
+<p>Just tried encapsulating the Tag block in a div. That doesn&#8217;t work either. Grrrr</p>
+"""]]

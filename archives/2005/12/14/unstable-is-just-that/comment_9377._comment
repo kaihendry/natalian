@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Joose"
+ subject="193.94.50.136"
+ date="2005-12-15 16:46:08"
+ content="""
+<p>hmm.. why in the world you think that unstable should be stable? unstable is unstable and it&#8217;s broken always =)</p>
+
+<p>Even debian stable is broken&#8230; Debian is broken always! Why? Because no one really does any packet testing and stuff, just everyone throws own packet and that&#8217;s it.</p>
+
+<p>Redhat is way more nicer stable distribution. Everything is tested and packets just work. And if some packet is upgraded, it won&#8217;t brake anything. I think dpkg still has issues with overwriten config files automaticly. sad sad, bad bad system is the debian.</p>
+
+<p>One debian user once said, that you can&#8217;t use debian stable, it&#8217;s way too old and buggy and that you should use unstable. but unstable is unstable by  it&#8217;s nature.. so debian is sucky sucky and I don&#8217;t recommend anyone using debian anything else except for fun homepages which you can then fix every day&#8230;</p>
+
+<p>- Joose</p>
+"""]]

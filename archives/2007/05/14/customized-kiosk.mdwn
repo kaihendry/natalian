@@ -1,0 +1,11 @@
+[[!meta title="Customized Web kiosk" ]]
+[[!meta date="2007-05-14 11:38:29" ]]
+<a href="http://www.flickr.com/photos/hendry/500029507/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/232/500029507_90e29b3123_m.jpg" width="240" height="180" alt="Hannux alpha screenshot" /></a>
+
+<p>One of the most requested features for <a href="http://webconverger.com/">Webconverger</a> is a &#8220;customization kit&#8221;.</p>
+
+<p>Before I pointed enquirers to <a href="http://debian-live.alioth.debian.org/">Debian Live</a> and a <a href="http://webconverger.infogami.com/Develop">guide</a>, which didn&#8217;t seem to satisfy the &#8220;easy to use&#8221; crowd.</p>
+
+<p>Now I&#8217;ve created a <a href="http://webconverger.com/buy/">Web form where you can easily tell me what customized homepage you would like and I will go away and build it for you. For 20GBP.</a> I just need 25 orders a month and I can pay my rent. ;)</p>
+
+<p>Since Webconverger is a collection of free software Debian packages, feel free to become a competitor. :)</p>

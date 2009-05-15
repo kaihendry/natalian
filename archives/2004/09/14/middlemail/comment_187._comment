@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Andreas Metzler"
+ subject="131.130.134.246"
+ date="2004-09-14 12:34:23"
+ content="""
+<blockquote>I need to setup [...] with a proper SSL certificate. Why can’t Debian automagically generate one, like sshd does?</blockquote>
+
+<p>Because it is not easily possible to do this proper. A <i>proper</i> <span class="caps">SSL</span>/TLS certificate is not self-signed, you need one signed by a CA. (And yes, especially for <span class="caps">SMTP</span> a self-signed won&#8217;t do, some clients just won&#8217;t work with it.) And setting up a local mini-CA is beyond a mail- or imap-server package. (On a sidenote ssh does not generate a &#8220;certificate&#8221;, just a private/public key-pair.)</p>
+
+<blockquote>Aren’t my needs quite common amongst other Debian users?</blockquote>
+
+<p>For any setup, there&#8217;ll be a non-trivial number of Debian-users requiring it, however we cannot support all setups by debconf. Debconf is no general configuration interface (like webmin or linuxconf), it is just a way to <i>ask, if there is no sane default</i>. Exim4 currently is already complexer than I like it to be, and we are already providing example configurations for <span class="caps">SMTP</span>-auth even against the local system passwords.</p>
+"""]]

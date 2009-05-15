@@ -1,0 +1,24 @@
+[[!meta title="Posting limited to subscribers" ]]
+[[!meta date="2006-04-22 22:35:53" ]]
+<a href="http://www.flickr.com/photos/hendry/99532754/" title="Photo Sharing"><img src="http://static.flickr.com/34/99532754_b381c005e2_m.jpg" width="240" height="159" alt="Sunset" /></a>
+
+<p>I subscribe to mailing lists on &#104;&#101;&#110;&#100;&#114;&#121;&#064;&#100;&#097;&#098;&#097;&#115;&#101;&#046;&#099;&#111;&#109;, but I send from different shells where the return path isn&#8217;t the same.</p>
+
+<p>So time and time again I can&#8217;t contribute to free software mailing lists. Mailman typically gives me a:</p>
+
+<blockquote>
+Is being held until the list moderator can review it for approval.
+The reason it is being held:
+    Post by non-member to a members-only list 
+</blockquote>
+
+<p>Whilst the human moderator usually never moderates (blame spam) or moderates far too late. Thank you <a href="http://lists.debian.org/">Debian list</a> managers for getting your policy right&#8230;</p>
+
+<p>The fix for Linux users is simple. A mutt configuration like:</p>
+
+<code>
+set envelope_from=no
+set sendmail='/usr/lib/sendmail -oem -oi -f yourremail@example.com'
+</code>
+
+<p>Will normalise your return path, no matter which shell you use.</p>

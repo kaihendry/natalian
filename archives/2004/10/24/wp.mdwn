@@ -1,0 +1,13 @@
+[[!meta title="Wordpress 1.2.1 " ]]
+[[!meta date="2004-10-24 14:28:01" ]]
+<p>I am on my <a href="http://trip.natalian.org">trip,</a> but I thought I would use svn-buildpackage to master this release.</p>
+
+<p>Test it please:</p>
+
+<p><a href="http://debian.natalian.org/wordpress/">Wordpress 1.2.1 Debian package</a></p>
+
+<p>It&#8217;s an <span class="caps">NMU</span>. <a href="http://secunia.com/advisories/12773/">Security fix.</a> But I know this package best. ;) I should be maintaining it. If a DD likes it, please fix the changelog and upload it?</p>
+
+<p>I will be on a train for <strong>three days</strong> from tonight to Novosibirsk. Right now I am at an Internet cafe in Moscow. 1 Ruble a minute. That&#8217;s almost 2 <span class="caps">USD</span> an hour. Grrr!</p>
+
+<p>Must dash.</p>

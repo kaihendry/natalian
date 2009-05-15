@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Simon Waters"
+ subject="84.45.158.52"
+ date="2006-10-10 16:49:44"
+ content="""
+<p>vim hang? Not once in (cough) years. Not to say I have fat fingered it into modes I couldn&#8217;t get out of sensibly :(</p>
+
+<p>I&#8217;d say check how it is invoked, and check the filesystem is working, fsck, and connectivity if the filesystem isn&#8217;t local (include any temp space being used).</p>
+"""]]

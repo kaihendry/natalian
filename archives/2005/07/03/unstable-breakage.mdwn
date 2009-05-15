@@ -1,0 +1,8 @@
+[[!meta title="Unstable breakage" ]]
+[[!meta date="2005-07-04 00:40:20" ]]
+<code>
+sudo dpkg-reconfigure debconf
+</code>
+<a href="http://www.flickr.com/photos/16105436@N00/23229660/" title="Photo Sharing"><img src="http://photos19.flickr.com/23229660_0c0a98269e_m.jpg" width="240" height="180" alt="2005-07-03-224218_1024x768_scrot" /></a>
+
+<p>Grrr, my unstable is broken and I don&#8217;t know how to fix this. Guess I need to change debconf to readline or something. Help. :)</p>

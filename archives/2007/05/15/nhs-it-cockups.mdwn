@@ -1,0 +1,19 @@
+[[!meta title="NHS IT cockups" ]]
+[[!meta date="2007-05-28 15:37:51" ]]
+<a href="http://www.flickr.com/photos/hendry/449980606/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/173/449980606_366612daac_m.jpg" width="240" height="180" alt="Sick Macbook user" /></a>
+
+<a href="http://www.private-eye.co.uk/">Private Eye</a> readers and the like are familiar with stories of billions of pounds lost on failed government IT projects. Channel4 news reports that the NHS IT systems are as flawed as to be criminally negligent!
+
+<p>However with <a href="http://www.channel4.com/news/articles/society/health/doctors+online+system+to+be+ditched/511747">John Snow confronting Patricia Hewitt</a> about another <span class="caps">NHS</span> IT failure, I thought isn&#8217;t it a little odd for two people who know nothing about IT to debate about it?</p>
+
+<p>I suppose that&#8217;s what politicians naturally do, though, come on. I think there is an &#8220;elephant in the room&#8221; here.</p>
+
+<ul>
+<li>Who are the dumb ass IT contractors managing these services?</li>
+<li>Who got the money?</li>
+<li>Is the <strong>source code and processes public</strong>? After all the money comes from the public purse.</li>
+</ul>
+
+<p>Yes, I like to think if these IT projects faced public scrutiny (opensource!) from its inception then perhaps the money could have been better spent.</p>
+
+<p>Though I would love to see the right people go to jail. Sadly these big IT consultancies tend to escape punishment and often get even more money to (try) fix their errors.</p>

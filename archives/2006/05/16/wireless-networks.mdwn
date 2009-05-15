@@ -1,0 +1,17 @@
+[[!meta title="Wireless Networks" ]]
+[[!meta date="2006-05-16 13:16:19" ]]
+<p>Yes, <a href="http://ln.hixie.ch/?start=1147719602&amp;count=1">wireless network access</a> is woeful.</p>
+
+<p>I&#8217;ve setup a Linksys WRT54G at my apartment and my sister&#8217;s as an open wireless access point. The linksys Web interface could be a lot better for seeing who is connected and perhaps banning abusing users. But on the scale of things it doesn&#8217;t really matter.</p>
+
+<p>Both my sister and I live in Korea where 100mbit home network connections are quite normal. So the impact of an open 11mbit Wireless access point isn&#8217;t noticeable, especially if we use the network cable from the AP. We also don&#8217;t get charged for excessive bandwidth, so it&#8217;s more of QoS issue for us and I can&#8217;t say I&#8217;ve ever noticed from my Wireless laptop.</p>
+
+<p>I&#8217;m not sure if I am violating my <span class="caps">ISP</span>&#8216;s &#8220;terms of service&#8221; by dishing out free Wireless access.<br />
+I know people have used my access wireless point judging by the high <span class="caps">DHCP</span> ips.</p>
+
+<p>Those access points that demand credit cards and logins. Very silly. Especially if you like to access the service with a simple device like a Nintendo DS!</p>
+
+<p>The company I work for doesn&#8217;t have a Wireless access point in the office. Which is really inconvenient for the many guests we receive, who all have wireless enabled laptops! <br />
+Also for some bizaare reason, we don&#8217;t run a <span class="caps">DHCP</span> server. Ok, that&#8217;s another issue entirely, but not running a <span class="caps">DHCP</span> server is <strong>stupid</strong>.</p>
+
+<p>&#8220;Security issues&#8221; are often touted when companies operate (open) Wireless Access Points. I think they are non-issues myself.</p>

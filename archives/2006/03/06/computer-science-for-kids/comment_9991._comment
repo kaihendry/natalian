@@ -1,0 +1,209 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="219.252.91.36"
+ date="2006-03-09 12:22:55"
+ content="""
+<p>Here are some thoughts from the highly esteemed Aki which he sent to me via email:</p>
+
+<p>i don&#8217;t have an opinion ready, because i never actually thought about                                            <br />
+that. i&#8217;ve been thinking how i got interested in computers and programming,                                      <br />
+and i honestly don&#8217;t know how it all happened. i had a c64, and i remember                                       <br />
+playing games with it. i also remember loaning many basic programming books                                      <br />
+from the library at the age of 6 or 7, but basic didn&#8217;t impress me much.                                         <br />
+                                                                                                                 <br />
+i wasn&#8217;t interested in game programming, i was more fascinated by the fact                                       <br />
+that the computer was clearly capable of doing almost anything, if i only                                        <br />
+had the skill to command it properly. i think it is important that i felt                                        <br />
+i was the weakest link, so i had to improve my skills. i think i really                                          <br />
+got into programming later, maybe at the age of 8 or 9 when i got to                                             <br />
+play with my mother&#8217;s company&#8217;s (a bookkeeping agency) computers that                                            <br />
+had a cobol compiler along with source code of the software they used (so                                        <br />
+more examples than i&#8217;d ever need). this was the first time a saw a                                               <br />
+programming language with abstraction facilities like named procedures,                                          <br />
+procedure calls, data structures and such. the good thing about software of                                      <br />
+that time was that because the computers were so slow and small, the software                                    <br />
+had to be simple. now that computers are so much bigger and faster, less                                         <br />
+thought is put to software, which maybe renders the vast amounts of freely                                       <br />
+available source code less valuable as a learning resource. about at the                                         <br />
+same time, i got (copied?, stole?) turbo assembler and turbo pascal from                                         <br />
+the local school, along with a bunch of examples, and started learning                                           <br />
+those with the 286 PC we had at home.</p>
+
+<p>i had one friend who was really interested in programming, and another who                                       <br />
+was too but didn&#8217;t have the patience learning a programming language                                             <br />
+required, but who was always impressed by the programs we came up with.                                          <br />
+i think it&#8217;s important to have someone who &#8220;sees&#8221; what is so &#8220;cool&#8221; about                                        <br />
+your stupid programs that blink some pixels or rotates a pentagram on the                                        <br />
+screen. trying to impress that person again and again keeps you going as a                                       <br />
+kid (at least it kept me..).                                                                                     <br />
+                                                                                                                 <br />
+we sat most evenings in front of the computer, reading the available source                                      <br />
+codes and trying to understand how they worked, and what the various different                                   <br />
+language primitives actually did. very much of this was trial and error.                                         <br />
+change this, change that, compile, run, crash and burn. we were most                                             <br />
+interested in graphics programs, but hated the abstract functions like line                                      <br />
+and circle, because now we couldn&#8217;t see how they actually did what they did.                                     <br />
+we got some senior high math books from our parent&#8217;s childhood to help us                                        <br />
+with the geometry. many times we didn&#8217;t understand it and had to ask my                                          <br />
+father, who was a very good teacher with endless time to explain things.                                         <br />
+often he had to explain things from many different perspectives and draw                                         <br />
+lots and lots of illustrations before we &#8220;got it&#8221;. after that we had to                                          <br />
+figure out how to do what we wanted to do with fixed point arithmetic,                                           <br />
+because that was something my father had now clue about. apparently the                                          <br />
+finnish school system of the 50&#8217;s and 60&#8217;s was good at teaching math and                                         <br />
+analysis but sucked big time in discrete mathematics.</p>
+
+<p>one of the things i miss about dos and the pc was the ease with which one                                        <br />
+could do graphics programming. two lines of assembler was needed to do the                                       <br />
+vga bios call to switch to graphics mode. details of that procedure were                                         <br />
+explained in the vga adapters manual at the time. the rest could be done                                         <br />
+in pascal or c by just declaring a pointer to 0xa000:0 and manipulating                                          <br />
+that memory with whatever methods the programming language provided. this                                        <br />
+ease is long-gone with x11, and none of the further abstraction libraries                                        <br />
+(gtk+, qt, motif, ..) gets that ease back because the x11 protocol                                               <br />
+works at the abstract graphics primitive level (pixel, line, circle,...).                                        <br />
+                                                                                                                 <br />
+in the end i think what the beginning programmer wants to do, is to                                              <br />
+challenge himself. learning an api is not challenging but just in the way.                                       <br />
+what he really wants is the basic stuff like mouse position, mouse button                                        <br />
+up/down events, keyboard events, the pixel data on screen, to be trivially                                       <br />
+available.  this was true on vic20, c64, amiga, the early pc with dos, and                                       <br />
+(consequently?) in that era, demoscene was really something. these days,                                         <br />
+operating system and especially the windowing system are thick layers that                                       <br />
+force abstractions on programmers (compare opengl with having a pointer to                                       <br />
+framebuffer). this is bad because the (beginning?) programmer is not                                             <br />
+used to these artificial contracts and he doesn&#8217;t care about interoperability,                                   <br />
+portability or ease of maintenance. he wants to see that pixel on the screen                                     <br />
+fast and without layers of software between him and the hardware. and he wants                                   <br />
+example programs that do everything by themselves and hide nothing behind                                        <br />
+silly apis. he wants to know how things work. note that this is exactly the                                      <br />
+opposite of the way programming and software design is taught at                                                 <br />
+universities. here abstraction is everything and everything needs to be                                          <br />
+abstracted away, until most of the code deals with mapping different                                             <br />
+abstractions to other abstractions and does nothing useful at all. this kind                                     <br />
+of software is the worst kind possible when one has nothing but the code and                                     <br />
+wants to learn to do things.</p>
+
+<p>in plan9, it&#8217;s not as easy as in dos, but is much closer to it than the x11                                      <br />
+model. essentially you have a loadimage function, which is a write call                                          <br />
+in disguise. it can be used to transfer rectangles of pixel data from                                            <br />
+the program&#8217;s main memory to display memory. then there is a draw function                                       <br />
+which is another write in disguise, which commands the display driver                                            <br />
+to transfer a rectangle of pixels to another rectangle of pixels (ie.                                            <br />
+a slightly generalized bitblt, if you&#8217;re familiar with it). i&#8217;ve found                                           <br />
+that i enjoy gui programming in plan9, which i&#8217;ve always hated with linux                                        <br />
+and x11. audio in plan9 is not in a very mature state (yet). you have                                            <br />
+/dev/audio, which assumes stereo 16bit signed little-endian pcm data, ie.                                        <br />
+cd format, so cp /mnt/cd/a000 /dev/audio will play that track through your                                       <br />
+sound card. but there is no standard midi sequencer or anything reminding                                        <br />
+the c64 sid or amiga wavetable engine, just bare pcm. i think the same                                           <br />
+is true for linux and *bsd as well, except that their default settings                                           <br />
+for /dev/audio are from the 80&#8217;s (mono 11khz 8bit unsigned) so                                                   <br />
+you need to tweak with ioctl (the horror!) before doing the read or                                              <br />
+write loop.                                                                                                      <br />
+                                                                                                                 <br />
+the danger in plan9 is that it very abstract, and maybe forcing one&#8217;s                                            <br />
+thiking inside that box is too much to ask of an impatient young                                                 <br />
+beginning programmer. or maybe not. plan9 has simple and clean                                                   <br />
+abstractions, and the abstractions there are (everything is a file                                               <br />
+etc) are reused to their extreme. but i still don&#8217;t know if it&#8217;s enough                                          <br />
+to get the young programmer interested.       <br />
+maybe an old 386 with a floppy drive and a vga card next to a modern                                             <br />
+computer with linux could be more fun? you could develop and compile the                                         <br />
+program on the linux box and then try it with the bare metal next to it.                                         <br />
+                                                                                                                 <br />
+maybe i&#8217;m wrong, but i think that&#8217;s what i&#8217;d like to have if i was a                                             <br />
+kid now. the good thing is that 386 with vga, floppy and 1 or 2                                                  <br />
+megabytes of memory should cost nothing, and all the hardware inside it                                          <br />
+is well known and relatively good documentation is available in the                                              <br />
+internet.</p>
+
+<p>a modern computer should work equally well, as they&#8217;re all 386                                                   <br />
+and vga compatible. it&#8217;s just that having a modern and good                                                      <br />
+computer for just booting toy programs from a floppy seems bit                                                   <br />
+of a waste to me.<br />
+                                                                                                                 <br />
+perhaps source code (few hundred lines of C, few ten lines of assembler)                                         <br />
+of a stub operating system would be nice, demonstrating how interrupt                                            <br />
+handlers and device drivers are put together (for mouse and keyboard),                                           <br />
+and some example programs that show how to draw lines, circles and strings                                       <br />
+of text. i also think it&#8217;s important that the example programs contain no                                        <br />
+comments at all. virtual memory and such advanced things should not be used.                                     <br />
+                                                                                                                 <br />
+come to think of it, this wouldn&#8217;t be a bad platform to have at the                                              <br />
+university either. in fact i think it summarizes quite well what i missed                                        <br />
+on all the three or four hardware &amp; operating system courses we have here.                                       <br />
+maybe once i graduate, i&#8217;ll put that together and start teaching a basic                                         <br />
+os programming course with plenty of excercise projects.</p>
+
+<p><strong>and there is more</strong></p>
+
+<p>> Since everyone runs windows. Perhaps the best way is some environment                                          <br />
+> that runs ontop of windows. Any suggestions?                                                                   <br />
+                                                                                                                 <br />
+i think cygwin might do the trick. i&#8217;m not aware of any good programming                                         <br />
+editors for windows though. maybe notepad is good enough?</p>
+
+<p>> I can&#8217;t help but think you had a lot of initiative. At least we all did                                        <br />
+> back then, when computers were all so new, easy and mysterious. I think                                        <br />
+> that&#8217;s really important to learning about computers. I am quite worried                                        <br />
+> about how to encourage kids to learn by themselves, rather than a                                              <br />
+> teacher forcing it down their throats. But perhaps the teacher model                                           <br />
+> works just as well.                                                                                            <br />
+                                                                                                                 <br />
+i&#8217;m afraid it doesnt work. we have some students here who are (seemingly)                                        <br />
+not interested in computers nor programming, but somehow think they are                                          <br />
+going to become it professionals. what they are thinking is completely                                           <br />
+beyond me. no amount of force-fed teaching will work in an industry so                                           <br />
+immature that in 10 years, &#8220;state of the art&#8221; technologies get deprecated                                        <br />
+to the point of inexistence. force-feeding can be expected to work if                                            <br />
+the teachings remain valid for an entire carreer (ie. 40 years), but                                             <br />
+knowing the general principles are not enough for the it industry. they                                          <br />
+want to know (if not proof) that you are able to learn new stuff fast.</p>
+
+<p>> Some good exercises would be a great start.                                                                    <br />
+> I wonder if there are any books already available on the market that                                           <br />
+> might help.                                                                                                    <br />
+                                                                                                                 <br />
+hard to say. maybe the famous tanenbaum&#8217;s books and minix come close,                                            <br />
+but somehow i suspect that&#8217;s not the case. linux is one easy answer,                                             <br />
+but it has grown big and bloated, and the books never start from                                                 <br />
+the beginning. i think this is yet another project to be added on                                                <br />
+my list.                                                                                                         <br />
+                                                                                                                 <br />
+how about an incremental collection of source code? one assembler file,                                          <br />
+one c file, perhaps 10 versions, starting from the simplest things                                               <br />
+possible, and adding more complex functionalities, something like                                                <br />
+                                                                                                                 <br />
+  1. loads itself off the floppy, write hello on screen, nop loop forever.                                       <br />
+  2. switch to graphics mode, play games with the pixels.                                                        <br />
+  3. add polling keyboard procedure (&#8220;driver&#8221;), ask stupid question,                                             <br />
+     show answer.                                                                                                <br />
+  4. change the keyboard driver to use interrupt.                                                                <br />
+  5. add a mouse driver that uses interrupt                                                                      <br />
+  6. generate a multiplexer that gives both, mouse and kbd events, making                                        <br />
+     the event loop possible.                                                                                    <br />
+  7. a simple gui system (computer asks a stupid question, user answers by                                       <br />
+     clicking a button)                                                                                          <br />
+  8. timer (i8254 or ds1287) driver, add a timer event to the event                                              <br />
+     multiplexer, add clock to some corner of the program.                                                       <br />
+  9. implement task-switching using the timer, do a simple multi-tasking                                         <br />
+     demo (one process sets pixels green, other sets them red, and a third                                       <br />
+     one sets them blue..)                                                 <br />
+ 10. implement interprocess communication, ie. the unix pipe. synchronize                                        <br />
+     the pixel coloring by passing tokens (permissions to color) using                                           <br />
+     pipes.                                                                                                      <br />
+ 11. file system?                                                                                                <br />
+ 12. ethernet? tcp/ip?                                                                                           <br />
+ 13. virtual memory, separated user/kernel modes?                                                                <br />
+                                                                                                                 <br />
+i think upto step 10 can be under 1000 lines, 11 will cross the limit.                                           <br />
+do you think this would be interesting enough for a kid to learn from                                            <br />
+and play with? i haven&#8217;t been in touch with kids for a long time, so i                                           <br />
+really have no clue. i&#8217;m sure they&#8217;re harder to impress than we were,                                            <br />
+as they have seen movies by pixar and they all have ipods and cellphones :)                                      <br />
+                                                                                                                 <br />
+perhaps it could still be impressive, if the &#8216;stupid&#8217; example programs                                           <br />
+are made to look cool to a kid of today (whatever that is).</p>
+"""]]

@@ -1,0 +1,35 @@
+[[!meta title="Halifax spam" ]]
+[[!meta date="2005-02-19 15:14:35" ]]
+<p>My parents are visiting me in Helsinki and since the weather is so bad, I am helping my father manage his computer affairs. A couple of things I was annoyed about firstly is that his bank Halifax spam him.</p>
+
+<img src="https://www.halifax-online.co.uk/LookAndFeel/images/Halifax/hxgivingyouextra.gif" alt="Halifax logo" />
+
+<p>Assholes.</p>
+
+<p>On their emails they do not even seem to have a standard way to opt-out:</p>
+
+<pre>
+                                                                                                                                                                                                                                        
+Halifax plc. Registered in England No. 2367076. Registered Office: Trinity Road, Halifax, West Yorkshire HX1 2RG.                                                                                                                       
+                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                        
+If you would prefer not to receive further messages from this sender:                                                                                                                                                                   
+                                                                                                                                                                                                                                        
+1. Click on the Reply button.                                                                                                                                                                                                           
+2. Replace the subject field with the word REMOVE.                                                                                                                                                                                      
+3. Click the Send button.                                                                                                                                                                                                               
+                                                                                                                                                                                                                                        
+You will receive an additional e-mail message confirming your removal.     
+
+</pre>
+
+<p>Do you really think my 63 year old father can manage that? He only just manages to read my mail, and another:</p>
+
+<pre>
+                                                                                                                                                                                                                                        
+To unsubscribe from further mailings, visit:                                                                                                                                                                                            
+http://www.halifax-mail.co.uk/trackerbox2/tbstore/433/unsubscribe.htm                                                                                                                                                                   
+                                                                        
+</pre>
+
+<p>He should change to a responsible bank.</p>

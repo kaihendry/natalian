@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="90.152.10.134"
+ date="2007-10-11 08:38:38"
+ content="""
+<p>&#8220;Content owners&#8221; already use <span class="caps">HTML</span>. No one writes valid <span class="caps">XHTML</span> or <span class="caps">XML</span>. <span class="caps">WML</span> isn&#8217;t the Web and no one wants a new markup language. The Web is <span class="caps">HTML</span> and most people do write bad (non-standard) <span class="caps">HTML</span>. I want better browsers to cope with this <strong>reality</strong>.</p>
+
+<p>Regarding phone purchases, I&#8217;ve been hearing the opposite. Consumers are looking out for Opera and other capable &#8220;better browsers&#8221;.</p>
+
+<p>That quote is what I said earlier in my blog entry. An adaptive proxy coupled to the UA is ok. They are working closely together. Expensive operations like resizing an image is done by a proxy as a function of the browser. The adaption proxy is an actual component of Opera Mini, together they make a single browser.</p>
+
+<p>However Openwave/Novarra <span class="caps">AFAIK</span> do not work or extend the browser such as Webkit/Gecko. They are disjoint, decoupled and blind. So you will have poor results. It&#8217;s another type of walled garden, without the potential benefits of ensuring quality and control, e.g. iMode.</p>
+
+<p>How about giving public access to your adaptive proxy Ed? Please?</p>
+"""]]

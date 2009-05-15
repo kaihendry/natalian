@@ -1,0 +1,27 @@
+[[!meta title="DreamHost review" ]]
+[[!meta date="2005-08-09 11:36:47" ]]
+<p>I am moving over to <a href="http://www.dreamhost.com/r.cgi?104617">DreamHost.</a></p>
+
+<p>My colleague says the <a href="http://natalian.org/archives/2005/07/29/jmeter/">Jmeter test on DreamHost hosted Natalian is about 10 times better than the previous test.</a></p>
+
+<p>Several of my Web application are still hosted with <a href="http://camera.theholybible.co.uk/">Jamie&#8217;s</a> server. On my CodeMonster account I can only seem to fully host 15 domains. So that means 15 Web applications and I have more than that, although many of them are unstable prototypes.</p>
+
+<p>DreamHost seems alright after exploring the panel for a good few hours.</p>
+
+<p>There does seem to be a <strong>major</strong> <span class="caps">NFS</span> issue regarding <a href="http://wiki.dreamhost.com/index.php/Subversion">Subversion.</a> That&#8217;s a <strong>pain</strong>, as that means that I can&#8217;t host my <span class="caps">FSFS</span> <a href="http://svn.natalian.org/">repository</a> here on my DreamHost account.</p>
+
+<p>Another element I didn&#8217;t like with the DreamHost is the amount of new accounts I had to create. I think it was 6 and that&#8217;s just one domain:<br />
+# WebID<br />
+# Spork (mail)<br />
+# pico (shell)<br />
+# <a href="http://wiki.dreamhost.com">DreamHost Wiki</a><br />
+# <a href="http://natalian.org/stats">Stats</a><br />
+# <a href="http://mysql.natalian.org">Mysql</a></p>
+
+<p>My encrypted ~/personal/accounts file is nearing 100 accounts. <span class="caps">FFS</span>! We need something like <a href="http://openid.net/">OpenID.</a></p>
+
+<p>On my laptop I had trouble with Postfix again. <a href="http://groups.google.com.au/group/list.postfix.users/browse_thread/thread/c5607be03aaf3015/8616c2847023cf08?q=hendry&amp;rnum=1&amp;hl=en#8616c2847023cf08">This time getting clear <span class="caps">SMTP</span> Authentication to work.</a> How many times have a I tried to migrate from Exim to Postfix? <span class="caps">OMG</span>. Anyway, usual story. Back to <a href="http://wiki.dreamhost.com/index.php/Exim4">Exim4</a> and things work. Although I wish DreamHost would use secure <span class="caps">SMTP</span>. Now I have to make sure my passwords are different as my mail password is very vulnerable. :(</p>
+
+<p>Wordpress &#8220;one click&#8221; installation just seems to untar the latest.tar.gz, so I guess I have to manage updates manually. That&#8217;s a pain. Dreamhost should use my Debian package for taking care of this problem with tons of users ! :)</p>
+
+<p>Here is some <a href="http://flickr.com/photos/16105436@N00/tags/dreamhost/">DreamHost porn to give you an idea about the DreamHost panel.</a></p>

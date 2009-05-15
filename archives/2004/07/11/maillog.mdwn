@@ -1,0 +1,26 @@
+[[!meta title="Maillog" ]]
+[[!meta date="2004-07-11 20:00:16" ]]
+<p>I just commented out bogofilter from my <a href="http://svn.natalian.org/home/.mailfilter">mailfilter</a> because it backed up my mail by making maildrop fail for a couple of weeks. I wish if there was a big mailq I would get warned somehow. Not easy when mail isn&#8217;t getting delivered.</p>
+
+<p>The error looks like in /var/log/exim4/mainlog:</p>
+
+<pre>
+2004-07-11 13:48:12 1BjbsR-000693-S7 == |/usr/bin/maildrop (hendry@flkdsjflkdsf.com) <faqw@fdsfdsh.com> R=userforward T=address_pipe defer (0): Child process of address_pipe transport returned 75 (could mean temporary error) from command: /usr/bin/maildrop
+</pre>
+
+<p>I debugged the problem by exporting an old mail from mutt and saved it as test.mail, and ran:<br />
+<pre><br />
+maildrop -V 9 < /tmp/test.mail </pre></p>
+
+<p>It turns out that bogofilter doesn&#8217;t understand the option -f anymore. Hmph. I can&#8217;t remember wtf it did, I copied and pasted it probably from somewhere. Tbh I never managed to get bogofilter working. I was hoping from the configuration I copied from somewhere, spamassasin would teach bogofilter about spam. I remember trying to cat my spam and ham maildir folders to bogofilter, but it never worked&#8230; So bye bogofilter.</p>
+
+<p>I am now only using spamassasin and it isn&#8217;t working. Lots of spam. I am going to throw into  /etc/spamassassin/local.cf:<br />
+<pre><br />
+required_hits 2<br />
+</pre></p>
+
+<p>And pray. It should just work!</p>
+
+<p>Bogofilter does work quite well at <a href="http://www.cs.helsinki.fi/">school</a> but often personal mail goes into spam. And I&#8217;m reluctant to forward personal mail to the postmaster, as I don&#8217;t want the mail to be read and my privacy violated.</p>
+
+<p>I wish I knew how to easily move <span class="caps">HTML</span> mail and mail with attachments to the spam folder. I read the spamassasin perldoc and it&#8217;s not clear to me. Maybe I am supposed to do this in my maildrop mailfilter. These programs should also simply work with mutt so it accounts for when I delete spam from my inbox. Argh&#8230; Nightmare.</p>

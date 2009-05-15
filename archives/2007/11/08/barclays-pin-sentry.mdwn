@@ -1,0 +1,19 @@
+[[!meta title="Barclays PIN sentry" ]]
+[[!meta date="2008-08-06 21:59:28" ]]
+<img src="http://www.barclays.co.uk/pinsentry/images/00_sentry.gif" />
+
+<p>Last August I lost my <span class="caps">VISA</span> debit card. So I ordered a new one.</p>
+
+<p>It was a bit annoying, as I had to update Amazon, Ebuyer, Google Checkout with my new <span class="caps">VISA</span> debit card details&#8230;</p>
+
+<p>Then yesterday I received another new <span class="caps">VISA</span> debit card. <span class="caps">WTF</span>? There was no explanation why with the card&#8230;</p>
+
+<p>When I was abroad a friend of mine&#8217;s <span class="caps">VISA</span> card stopped working. Why? Because back in Europe his bank decided to send him a new <span class="caps">VISA</span> card. Now that&#8217;s very inconvenient. That card had to be somehow securely couriered to India (I think) <strong>fast</strong>. <strong>Quickly</strong> as he had no money otherwise!</p>
+
+<p>So I rang up Barclays yesterday to find out <strong>why</strong>, and they said they sent me a new <span class="caps">VISA</span> debit card because their new <a href="http://www.barclays.co.uk/pinsentry/"><span class="caps">PIN</span> sentry</a> requires it. <span class="caps">WTF</span>? The cards look identical! So cards made last August, <strong>even though</strong> they announced this &#8220;new secure&#8221; initiative back in at least April, aren&#8217;t valid? <span class="caps">WTF</span>? !!</p>
+
+<p>Barclays helpdesk also informed my old <span class="caps">VISA</span> will stop working in four days. I wonder if a pre-order I made with the &#8220;old&#8221; card is going to fail? I think this <span class="caps">PIN</span> sentry roll out is going very badly. I still don&#8217;t know how this thing is supposed to work. Why don&#8217;t they demo (and <span class="caps">TEST</span>) it in their branches first??</p>
+
+<p>Do I physically carry this device with me when I am abroad to do Internet banking for example ?!</p>
+
+<p>I&#8217;m left in the dark&#8230;</p>

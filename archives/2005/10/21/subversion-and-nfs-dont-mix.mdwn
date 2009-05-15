@@ -1,0 +1,19 @@
+[[!meta title="Subversion and NFS don't mix" ]]
+[[!meta date="2005-10-21 16:57:59" ]]
+<img src="http://pictures.natalian.org/japan/2005/apr/10/17:47:58/500x375/" alt="Kai partying" />
+
+<p>Why didn&#8217;t <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq01.074.htp">I heed my own advice?</a></p>
+
+<p>I <a href="http://wiki.dreamhost.com/index.php/Trac#Get_DH_to_install_Trac_on_your_shared_host">tried to get Subversion working at Dreamhost.</a></p>
+
+<p>Honestly, I <a href="http://wiki.dreamhost.com/index.php/Subversion#Issues_with_Pre-installed_Subversion_.282005-08-31.29">tried.</a></p>
+
+<p><a href="http://woss.name/2005/08/25/subversion-and-nfs-file-locking/#comment-117"><span class="caps">NFS</span> and Subversion don&#8217;t mix.</a></p>
+
+<p>So that makes <a href="http://subversion.tigris.org/">Subversion</a> close to <strong>useless</strong> in large computing environments which generally always run <span class="caps">NFS</span> to provide mounts. :(</p>
+
+<p>It&#8217;s a miracle I am still using Subversion knowing what I&#8217;ve been through. Omg the Berkley stuff still gives me nightmares&#8230;</p>
+
+<p>So I moved back my repository to <a href="http://theholybible.co.uk/">Jamie&#8217;s <span class="caps">ADSL</span> hosted unstable box.</a></p>
+
+<p>At least now you can see <a href="http://trac.natalian.org/browser/projects/?order=date&amp;desc=1">what I&#8217;ve been up to.</a></p>

@@ -1,0 +1,33 @@
+[[!meta title="Marking up mail" ]]
+[[!meta date="2008-10-10 16:00:08" ]]
+<a href="http://lists.suckless.org/dwm/0809/6793.html">Marking up email on the Web is not a pretty picture in 2008</a>.
+
+<a href="http://www.flickr.com/photos/hendry/2923041200/" title="What I look like on a telecon by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3215/2923041200_89ab542025_m.jpg" width="180" height="240" alt="What I look like on a telecon" /></a>
+
+<ul>
+<li><a href="http://weaver.gmane.org/">Weaver daemon</a> used by <a href="http://news.gmane.org/gmane.announce">Gmane</a> (seems complicated to setup)</li>
+<li><a href="http://packages.qa.debian.org/h/hypermail.html">Hypermail</a> (51k <span class="caps">SLOC</span>) used at <a href="http://lists.suckless.org/">suckless</a></li>
+<li><a href="http://dev.w3.org/cvsweb/hypermess/">Hypermess</a> (56k <span class="caps">SLOC</span> C) used by the <a href="http://lists.w3.org/Archives/Public/public-html/latest">W3C</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Pipermail">Mailman&#8217;s Pipermail</a> used for <a href="http://mail.python.org/pipermail/python-list/">Python mail archives</a> (not a drop in replacement for hypermail or maintained according to upstream)</li>
+<li><a href="http://www.mhonarc.org/">MHonArc</a> (280k <span class="caps">SLOC</span> of perl) used by <a href="http://lists.debian.org/">Debian lists</a></li>
+<li><a href="http://lurker.sourceforge.net/">lurker</a> (10k+ <span class="caps">CPP</span>) used by the <a href="http://archives.free.net.ph">free network group</a></li>
+<li><a href="http://zesty.ca/zest/">zest</a> 1k of Python (looks like an interesting research project which I have not managed to get working yet&#8230;)</li>
+</ul>
+
+<p>Notable mail archiving services:</p>
+
+<ul>
+<li><a href="http://groups.google.com">Google Groups</a> for Usenet archives and much more, with a killer search feature</li>
+<li><a href="http://www.mail-archive.com/">The Mail Archive</a> which uses <a href="http://www.mail-archive.com/faq.html#equipment">MHonArc</a></li>
+</ul>
+
+<p>Random thoughts:</p>
+
+<ul>
+<li>I think the <strong>thread view</strong> is the most important feature. Google&#8217;s approach to threading mail as a bunched up conversation works quite well, though I still prefer the <a href="http://flickr.com/photos/hendry/433395783/">tree threaded structure that mutt does so well</a>.</li>
+<li>Mailman implements <a href="http://www.faqs.org/rfcs/rfc2369.html">RFC2369</a>, though the W3C doesn&#8217;t seem to support this, though it does use <a href="http://www.rfc-editor.org/rfc/rfc5064.txt">Archived-At:</a> which is quite useful. Google doesn&#8217;t seem to employ archive links to <span class="caps">HTML</span> sadly.</li>
+<li>I am not fond of framed views that I&#8217;ve seen some mail archiving services provide.</li>
+<li>Has anyone really studied how a <a href="http://www.faqs.org/rfcs/rfc2822.html">RFC2822 mail message</a> should be marked up in <span class="caps">HTML</span>? <a href="http://www.rfc-editor.org/rfc/rfc5064.txt">3.1.  Formats of Archived Message</a> does not address the problem.</li>
+</ul>
+
+<p>Any other relevant RFCs, tools or tips I might have missed?</p>

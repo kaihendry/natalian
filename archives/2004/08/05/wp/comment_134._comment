@@ -1,0 +1,17 @@
+
+[[!_comment format=mdwn
+ username="Adarsh Patil"
+ subject="143.239.201.253"
+ date="2004-08-06 16:23:10"
+ content="""
+<p>dpkg&#8212;install wordpress_1.2.0&#8211;1.1_all.deb<br />
+(Reading database&#8230; 168604 files and directories currently installed.)<br />
+Preparing to replace wordpress 1.2.0&#8211;1.1 (using wordpress_1.2.0&#8211;1.1_all.deb) ...Unpacking replacement wordpress&#8230;<br />
+dpkg: dependency problems prevent configuration of wordpress:<br />
+ wordpress depends on mysql-server (>= 4.0.20&#8211;8); however:<br />
+  Version of mysql-server on system is 4.0.18&#8211;5.<br />
+dpkg: error processing wordpress (&#8212;install):<br />
+ dependency problems &#8211; leaving unconfigured<br />
+Errors were encountered while processing:<br />
+ wordpress</p>
+"""]]

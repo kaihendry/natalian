@@ -1,0 +1,11 @@
+[[!meta title="Regenerate your .ssh/id_rsa key Debian users" ]]
+[[!meta date="2009-01-11 02:14:48" ]]
+<p>Whoa, this <a href="http://lists.debian.org/debian-security-announce/2008/msg00152.html">security bug</a> exposed by <a href="http://community.livejournal.com/lbello_english/7900.html">Luciano Bello</a> (Ola!) is one of the worst I&#8217;ve ever seen.</p>
+
+<p>Time to <a href="http://dabase.com/e/01013/">regenerate your key</a> with the updated openssl 0.9.8c packages.</p>
+
+<strike><a href="http://rafb.net/p/JFifHk85.html">This seems to be Debian specific patch that caused this bug.</a></strike>
+
+<p>Further instructions should be posted on a special <a href="http://www.debian.org/security/key-rollover/">Debian key rollover page</a> and the <a href="http://wiki.debian.org/SSLkeys">Debian wiki</a>.</p>
+
+<p>Update: key rollover is hard. :/ `ssh-vulnkey` was missing for awhile and only <em>recent</em> updates to openssh-server seem to regenerate the keys for me.</p>

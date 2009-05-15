@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Joose Vettenranta"
+ subject="82.181.82.163"
+ date="2006-03-06 18:22:08"
+ content="""
+<p>Well, I think it depends on <span class="caps">SVG</span>-implementation. I acually heard that in some cases it would be easier to render svg than showing bitmap. But to think when that would happen, well, when you have <span class="caps">GPU</span> and you can output svg as vectors to that <span class="caps">GPU</span>.. then it would be fast, wouldn&#8217;t it!</p>
+
+<p><span class="caps">SVG</span> as replacement for say, icons, would be ideal for web-environment, because then you could easily scale it on mobile-browsers to small-size and on desktops with big big resolution to big size.. in <span class="caps">PNG</span>/JPEG/GIF -format.. you normally might render it as 100ppi display&#8230;</p>
+
+<p>- Joose</p>
+"""]]

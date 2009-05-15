@@ -1,0 +1,9 @@
+[[!meta title="On Opera" ]]
+[[!meta date="2005-09-22 02:32:12" ]]
+<p>My gripe is similar to that of <a href="http://www.kitenet.net/~joey/blog/entry/bug_hiding_systems-2005-07-30-06-25.html">Joey Hess&#8217;s regarding Mozilla.</a></p>
+
+<p>I can&#8217;t see <a href="https://bugs.opera.com/">Opera&#8217;s bugs.</a> Yes, I&#8217;ve filed a bug asking for an account.</p>
+
+<p>I remember they did a <a href="http://my.opera.com/community/party/">registration code giveaway</a> at the end of last month. I wonder if this would entitle one access to their <span class="caps">BTS</span>.  Anyway Opera has removed those awful Ads thank god and painfully marketed it as <a href="http://opera.com/free/">free.</a> I wonder, is that the same as having a registration code?</p>
+
+<p>I am not entirely fond of registration codes besides. I am a big fan of anonymity.</p>

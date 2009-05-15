@@ -1,0 +1,17 @@
+[[!meta title="dabase" ]]
+[[!meta date="2004-02-12 09:56:40" ]]
+<p>I can&#8217;t quite decide to do with my first ever domain I&#8217;ve bought, <a href="http://dabase.com">dabase.com</a>.</p>
+
+<p>Originally I bought it, because it was a good name for a MP3 database type-application that I have in mind, that would help me keep track of MP3s I have burnt to CD.</p>
+
+<p>Then I had it for a year or two as a page advertising IT consulting. No one ever enquired. :)</p>
+
+<p>As I have co-located my machine I obviously started hosting it on a very dynamic environment, and setup <a href="http://spycyroll.sourceforge.net/">spycyroll</a> to act as a news aggregator for the blogs I am reading.</p>
+
+<p>Unfortunately spycyroll is a little out dated, and has a fair bit of problems pulling down the usual dodgy <span class="caps">RSS</span> feed. Therefore I have switched to <a href="http://www.w3.org/2002/09/rss2email/">rss2email</a>, complete with packages by Joey Hess, and I am happier. My email environment is so much more sane than my browser.</p>
+
+<p>Oh so what about <a href="http://dabase.com">dabase.com</a>? Any takers? Investors?</p>
+
+<p>If I will have the time, I will write up some statistics notes there. I hope to share what I am learning while I take an intensive 15cr minor in statistics, and hopefully my tinkering with the <a href="http://www.r-project.org/">language R</a>.</p>
+
+<a href="http://www.r-project.org/screenshots/boxplot-notched.jpg"><img alt="box and whisker plots" src="http://www.r-project.org/screenshots/icon-boxplot-notched.jpg" /></a>

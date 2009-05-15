@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Dean"
+ subject="194.223.231.3"
+ date="2006-01-17 21:07:14"
+ content="""
+<p>The new edit form is utterly horrible. Thankfully it&#8217;s optional per-user, so just turn it off and not worry about it.</p>
+
+<p>Most of the plug-ins work fine, there&#8217;s a list of plug-ins on the wordpress wiki that definetly work.</p>
+
+<p>The new askimet plug-in removes the need for captchas et al, you do need a wordpress.com login (free) to get an api key though.</p>
+"""]]

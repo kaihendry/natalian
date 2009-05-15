@@ -1,0 +1,13 @@
+
+[[!_comment format=mdwn
+ username="Jeroen Schot"
+ subject="145.97.196.172"
+ date="2007-08-29 08:45:55"
+ content="""
+<p>&gt; I need to figure out how to compile (Xlib.h not there) and run a “tabbed WM” dwm on the <span class="caps">MBP</span><br />
+&gt; natively.</p>
+
+<p>You can get the X11-dev for Mac <span class="caps">OSX</span> as part of the XCode package. See <a href="http://developer.apple.com/tools/xcode/">http://developer.apple.com/tools/xcode/</a> or your <span class="caps">OSX</span> install CD&#8217;s.</p>
+
+<p>And I wouldn&#8217;t call dwm &#8216;tabbed&#8217;: tiled is far more appropriate ;)</p>
+"""]]

@@ -1,0 +1,19 @@
+[[!meta title="Text legibility" ]]
+[[!meta date="2004-07-01 13:53:13" ]]
+<p>Remember <a href="http://natalian.org/archives/2004/04/01/back-to-top/">Back to top</a> and <a href="http://natalian.org/archives/2004/06/11/no-popups/">popups</a>? Let me continue with rant about how user agents screw up text legibility.</p>
+
+<cite href="http://lists.w3.org/Archives/Public/www-di/2004Jun/0010.html">Some fonts may not be legible at 120%, while perfectly legible at 112%.</cite>
+
+<p>I have seen device dependent engineering where pixels sizes of each limited font size from Nokia&#8217;s Development Platform specification are found and coded into the style sheet. <a href="http://www.forum.nokia.com/main/0,6566,1_1_25_30,00.html#25">Font sizes in pixels</a> is <strong>not device independent</strong>. Previously I was advocating relative sizes. Then again, I think it is better to specify an <a href="http://www.w3.org/TR/REC-CSS1#font-size">absolute size keyword</a> like <em>large</em> or <em>small</em>.</p>
+
+<p>If authors are silly enough to specify pixels, UAs <span class="caps">IMO</span> should convert pixels to relative sizes. (Probably done already?)</p>
+
+<p>The next thing is zooming or <a href="http://natalian.org/archives/2004/06/07/can-text-scale/">text scaling</a> as I like to call it. If someone can not read the normal sized text easily, then it is not legible. The UA in co-operation with the device should provide an easy to adjust mechanism like little wheel or switch on the side of the device to scale, zoom, resize the text so it is comfortable, legible and readable to the user.</p>
+
+<p>If the device screen can only support 3 different text sizes (small, medium, large), then everything has to go <strong>large</strong>. Therefore logical/structural markup should not be done with the help of text sizes.</p>
+
+<p>Btw I am not talking neccessarily about accessibility here. This isn&#8217;t about people with disabilities. For example I could be sitting comfortably in a train and willing to have a very small font to cram in as much information as possible. However if I was out and running about in town, I would want the font size huge to read easier.</p>
+
+<p><strong>Summary: If this text doesn&#8217;t look great, blame your User Agent!</strong> :)</p>
+
+<p>It&#8217;s not the authors responsibilty. So I don&#8217;t seem why I have to see Javascript in pages to change the font size (or style!). It pollutes content.</p>

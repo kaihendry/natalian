@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Jeroen Schot"
+ subject="62.45.9.83"
+ date="2006-07-23 03:53:36"
+ content="""
+<p>dwm is packaged for grml by mika: <a href="http://grml.org/repos/">http://grml.org/repos/</a></p>
+
+<p>The package should word fine on Debian/unstable.</p>
+"""]]

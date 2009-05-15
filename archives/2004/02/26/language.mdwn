@@ -1,0 +1,16 @@
+[[!meta title="Language" ]]
+[[!meta date="2004-02-26 17:00:45" ]]
+<p>Isn&#8217;t it funny how <a href="http://www.waybackmachine.org/">language changes over time</a>?</p>
+
+<p>In <a href="http://web.archive.org/web/19990203211419/www.wapforum.org/about/indexf.htm">1998</a>:</p>
+
+<blockquote>
+The Wireless Application Protocol (WAP) is the de-facto world standard for                                                                                                                                         
+wireless information and telephony services on digital mobile phones and other                                                                                                                                     
+wireless terminals.
+</blockquote>
+
+<p>In <a href="http://www.wapforum.org/what/index.htm">2004</a>:<br />
+<blockquote><br />
+The Wireless Application Protocol (WAP) is an open, global specification that empowers mobile users with wireless devices to easily access and interact with information and services instantly.<br />
+</blockquote></p>

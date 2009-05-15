@@ -1,0 +1,14 @@
+[[!meta title="svn svk sat" ]]
+[[!meta date="2005-07-17 20:37:35" ]]
+<p>Woke up early to get Harry Potter. My flatmate and I are reading it to each other. It&#8217;s been quite fun though straining on the vocal chords.</p>
+
+<p>In the afternoon I spent some time with <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq09.003.htp">svk.</a><br />
+It seems stable and since I am doing more work from my Thinkpad, I will make the switch.</p>
+
+<p>Also took a little look at <a href="http://www.djangoproject.com/">Django.</a> I am not convinced about <span class="caps">MVC</span> and the docs are a little thin. I will come back to it before making a final judgement.</p>
+
+<p>I have been writing a few little things in <span class="caps">PHP</span>. <span class="caps">HTML</span> and logic needs to be tight, that&#8217;s why I am unsure about <span class="caps">MVC</span>. I am quite pleased with <span class="caps">PHP</span>&#8216;s speed. It&#8217;s lightning fast.</p>
+
+<p>I also discovered <a href="http://yaml.org/"><span class="caps">YAML</span>.</a> I like the look of it and it seems easy to parse.</p>
+
+<p>Tonight I&#8217;m off to the Opera. <strong>Sigh</strong>. A <a href="http://en.wikipedia.org/wiki/Don_Pasquale">comedy.</a> I prefer to finish Nick Hornby&#8217;s latest book and act out Harry Potter.</p>

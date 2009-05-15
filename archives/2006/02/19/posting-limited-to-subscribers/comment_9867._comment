@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Antti-Juhani Kaijanaho"
+ subject="130.234.192.228"
+ date="2006-02-19 03:41:39"
+ content="""
+<p>I don&#8217;t understand what <span class="caps">SMTP</span> servers have got to do with it. The MLMs usually look at your envelope sender address, which is set by the originating <span class="caps">SMTP</span> client. The <span class="caps">SMTP</span> route is irrelevant.</p>
+
+<p>One common solution to your problem in Mailman is to subscribe the addresses that you could be posting as and then mark them as &#8220;nomail&#8221;, so they don&#8217;t get sent list mail.</p>
+"""]]

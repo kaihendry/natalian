@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="221.143.162.11"
+ date="2006-02-03 20:03:37"
+ content="""
+<p>I think it is passe to have seperate partitions for swap with <span class="caps">LVM</span> in mind.</p>
+
+<p>Copying from root doesn&#8217;t work in my exp because of that proc madness. Though that sounds like a reasonable approach. I just don&#8217;t want the hassle of creating partitions, installing a boot loader and fiddling with the fstab.</p>
+
+<p>And just want to copy whatever I have in A to B. :)</p>
+"""]]

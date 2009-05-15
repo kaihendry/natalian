@@ -1,0 +1,15 @@
+[[!meta title="OMFG NOT another stupid TLD" ]]
+[[!meta date="2005-07-12 16:00:00" ]]
+<p><a href="http://www.russellbeattie.com/notebook/1008531.html">.mobi</a></p>
+
+<ul>
+<li>Vodafone</li>
+<li>Microsoft</li>
+<li>Nokia</li>
+</ul>
+
+<p>Are idiots. Why?</p>
+
+<p><a href="http://www.w3.org/DesignIssues/TLD">Let Sir Tim tell you why.</a></p>
+
+<p>The dream of the Universal Web is fading. :/</p>

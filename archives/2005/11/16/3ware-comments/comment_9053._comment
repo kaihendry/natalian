@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Joose"
+ subject="128.214.182.158"
+ date="2005-11-16 17:36:40"
+ content="""
+<p>&gt; 2×160G drives come up as only 150G:</p>
+
+<p>Nothing new there.. Software which you use to check size, counts 1 KB  1024B and 1MB=1024KB and manufacturer counts 1KB  1000B and 1MB == 1000KB&#8230;</p>
+
+<p>There comes the difference.</p>
+
+<p>Funny that you don&#8217;t know this, because it&#8217;s been a fact for a very very very long time =)</p>
+
+<p>- Joose</p>
+"""]]

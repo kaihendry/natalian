@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="91.84.62.62"
+ date="2007-08-24 08:26:05"
+ content="""
+<p>Ok, just to be clear I am looking for a <span class="caps">LAN</span> solution.</p>
+
+<p>Also I am not keen on encryption, as I don&#8217;t think its explicitly necessary.</p>
+
+<p>I guess I could just run a samba server. I wonder how it&#8217;s performance compares to <span class="caps">NFS</span>. I wonder if Apple <span class="caps">OSX</span> and Debian/Ubuntu can search a Samba/Windows workgroup for a particular piece of multimedia.</p>
+
+<p>There is defn. a gap in the market here.</p>
+"""]]

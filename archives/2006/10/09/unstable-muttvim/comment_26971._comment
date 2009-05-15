@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="201.250.4.19"
+ date="2006-10-09 23:51:47"
+ content="""
+<p>It&#8217;s not very repeatable. Happens like 1 in 50 saves. I tried to strace it or something, but I didn&#8217;t get far. I should try harder&#8230;</p>
+"""]]

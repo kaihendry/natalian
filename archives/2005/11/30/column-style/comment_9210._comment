@@ -1,0 +1,19 @@
+
+[[!_comment format=mdwn
+ username="Xiven"
+ subject="217.41.51.136"
+ date="2005-11-30 18:57:44"
+ content="""
+<p>something like:</p>
+
+<p>pre, img {<br />
+ max-width: 15em;<br />
+}<br />
+pre {<br />
+ overflow: auto;<br />
+}</p>
+
+<p>The  will be made to scroll if it gets too wide and the  will be resized to fit.</p>
+
+<p>With the  you could alternatively make it wordwrap with something like pre { white-space: pre-wrap } though making that work in all browsers is trickier.</p>
+"""]]

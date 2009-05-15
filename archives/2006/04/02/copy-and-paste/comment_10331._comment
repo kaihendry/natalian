@@ -1,0 +1,18 @@
+
+[[!_comment format=mdwn
+ username="Decklin Foster"
+ subject="66.93.236.207"
+ date="2006-04-03 06:30:25"
+ content="""
+<p>I know others have alluded to this, but:</p>
+
+<p><span class="caps">PRIMARY</span> != <span class="caps">CLIPBOARD</span></p>
+
+<p>yes, having the first client hold the selection until the second client asks was an incredibly stupid design decision even back when we were worried about the bandwidth and memory on our X servers, but this has nothing whatsoever to do with anything&#8217;s UI.</p>
+
+<p>Use gnome-clipboard-daemon, if you&#8217;re a C-x/C-c/C-v person, or xcb, if you&#8217;re like me and will give up your <span class="caps">PRIMARY</span> when they pull it from your cold, dead hands.</p>
+
+<p>There&#8217;s nothing I hate more than coming across a Firefox where url-yanking has been disabled (this feature dates from Netscape 1.x, fer chrissakes), or being limited to only the clipboard on a Windows box.</p>
+
+<p>Actually, no. What I really hate are <span class="caps">GNOME</span> apps than <strong>assume</strong> everyone only uses <span class="caps">CLIPBOARD</span> and therefore it&#8217;s okay to mess with <span class="caps">PRIMARY</span>. An app can still &#8220;select&#8221; stuff without doing this; if it won&#8217;t, it&#8217;s broken.</p>
+"""]]

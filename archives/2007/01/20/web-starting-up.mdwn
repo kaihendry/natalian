@@ -1,0 +1,20 @@
+[[!meta title="Web starting up" ]]
+[[!meta date="2007-01-21 17:46:35" ]]
+<a href="http://www.flickr.com/photos/hendry/362655287/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/124/362655287_489984ff22_m.jpg" width="240" height="180" alt="My new office" /></a>
+
+<p>So I am thinking of writing a Web application that can &#8220;make money&#8221;. I don&#8217;t quite believe in advertising or accumulating a community to sell on, so I need:</p>
+
+<p><strong>A way to take money</strong> Well there is Google checkout and Paypal, but why go through a third party?<br />
+I recall setting up a merchant account with a bank in Australia to take client&#8217;s money. It was very painful, but doable. I wonder how it is in England or Europe. Do you have to setup a business? I think so. What other paperwork? Taxes? Argh!</p>
+
+<p><strong>Manage users</strong> User accounts, reputations, discounts, rewards, subscriptions, tariff plans, direct debit, <strong>billing</strong>, all that. It&#8217;s complicated! Does any Web framework take care of that all? I don&#8217;t think I&#8217;ve personally used a system where I am completely happy with the way <strong>I get billed</strong>. Ok, I must say Flickr is doing a great job of extorting money out of me.</p>
+
+<p><strong>Marketing</strong> I need some referer sub-application to help let existing users tell their friends about this great Web application. Ok, sending a email from a user to that user&#8217;s friend is not terribly difficult to implement, though it can pose problems. For example I don&#8217;t want to appear spammy. Also users that do refer other users need to be <strong>rewarded</strong>. Ok, that may go back under the manage users, but it&#8217;s complicated. Ideally users can become your salesman, so you need a process to pay them <strong>money</strong>.</p>
+
+<p><strong>an <span class="caps">API</span></strong> Oh dear! You want this so other Web applications can <strong>mash-up</strong> with yours. For example <span class="caps">RSS</span> is great, because people don&#8217;t have to endure my poor taste in colours and the &#8220;mobile friendly&#8221; interface I have dreamt up for this blog. So a lot more people read my blog, who ordinary probably wouldn&#8217;t. Though <span class="caps">RSS</span> is only for Reading, not for Creating, Updating or Destroying (CRUD). The only mashup applications I&#8217;ve made was one that used <span class="caps">SOAP</span> (Google has depreciated), <span class="caps">XMLRPC</span> (no idea what&#8217;s happen to this) and Google Maps obfuscated Javascript. Google Maps was most impressive, but could I do the same with javascript? I don&#8217;t think so. It&#8217;s out of my league.</p>
+
+<p><strong>Mobile version</strong> <span class="caps">OMG</span>, had to throw this in there. A lot of companies seem to write Java ME apps for phones, which I think is nuts. I think one has to carefully test one&#8217;s Web application with mobile UAs. This might help with usability testing and what not. The Web application has to be simple (KISS), which it wants to be. But it might make my Web application very dull (e.g. no images).</p>
+
+<p><strong>Introspection</strong> The blog post <a href="http://steve-yegge.blogspot.com/2007/01/pinocchio-problem.html">The Pinocchio Problem</a> resonated with me. For example, I have great difficulty keeping track of my Web applications. Are they running? Are they performing? Are they under attack? Who is using it? Who has used it? I am not comfortable with this at all in my applications. I recall we had a logging system in a previous job with this horrible Jboss application that had to be turned off (on the live system) as it was making the entire system so slow. Hilarious!</p>
+
+<p><strong>Deployment</strong> Which provider? Where? Bandwidth charges? Which system? Which version? What httpd? What programming language? What framework? How is going to <strong>scale</strong>? How are you going to do backups? What happens if it goes down somewhere? A backup in another data centre? This is all also, you guessed it, really complex.</p>

@@ -1,0 +1,9 @@
+[[!meta title="RedHat Enterprise" ]]
+[[!meta date="2005-08-11 14:48:46" ]]
+<a href="http://www.flickr.com/photos/16105436@N00/33071488/" title="Photo Sharing"><img src="http://photos22.flickr.com/33071488_e4b088c399_m.jpg" width="240" height="186" alt="Errata" /></a>
+
+<p>There currently is a <a href="https://www.redhat.com/archives/rhn-users/2005-August/msg00040.html">bug with Red Hat&#8217;s Network and systems aren&#8217;t automagically updating their security fixes.</a></p>
+
+<p>I&#8217;ve noticed this on a <a href="http://server.soltecsoftware.com.au">machine</a>  I administer.</p>
+
+<p>I really expect better from <a href="http://www.relevancellc.com/blogs/?p=36">Enterprise</a> products.</p>

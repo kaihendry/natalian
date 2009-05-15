@@ -1,0 +1,20 @@
+[[!meta title="Mobile browser market" ]]
+[[!meta date="2005-08-01 11:33:59" ]]
+<p>Lately, it is really <strong>heating</strong> up with mobile UAs.</p>
+
+<ol>
+<li><a href="http://en.wikipedia.org/wiki/Minimo">Minimo</a></li>
+<li><a href="http://apple.slashdot.org/article.pl?sid=05/06/13/1158208&amp;from=rss">Webkit mobile port</a></li>
+<li><a href="http://www.opera.com/products/mobile/">Opera for Mobile</a></li>
+<li><a href="http://www.psp-vault.com/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=244">Netfront</a></li>
+</ol>
+
+<p>After being subscribed on the Minimo dev mailing list, I can safely say that it&#8217;s a dead project. As for opensource software, I am not sure how Nokia&#8217;s port will be licensed. Hopefully opensource, though I am not sure how opensource will work on the mobile platform. You can&#8217;t develop on that platform as easily as a desktop. Some advantages of opensource might be reduced&#8230;</p>
+
+<p>If Opera 8 is on a mobile, then Opera have a great <a href="http://www.opera.com/products/mobile/brochures/OperaPlatform.pdf">mobile platform.</a> They need to aggressively market this product the world over and right now. Japan has the edge with small devices and selling in that market could prove tricky. <span class="caps">IMO</span>, give it away. I&#8217;ve seen at least one phone (KYOCERA?) in Japan with Opera though. <a href="http://www.opera.com/pressreleases/en/2005/07/29/">Oh, there&#8217;s more.</a> Their big hope is with Scandanavian Nokia who are working on the competition, Apple&#8217;s Webkit. Oh dear !</p>
+
+<p>Japan&#8217;s <a href="http://www.access.co.jp/products/nf.html">NetFront</a> is a product I haven&#8217;t used, but I am <a href="http://www.russellbeattie.com/notebook/1008558.html">hearing a lot of.</a> If this is going to be on every <span class="caps">PSP</span>, it will be <span class="caps">HUGE</span>. I am sure it will be, so targeting applications now for that platform should be worthwhile.</p>
+
+<p>I would love to see a good <a href="http://en.wikipedia.org/wiki/Comparison_of_web_browsers">comparison</a> of at least 3 of these browsers. I would happily do it myself if someone gave me the devices to test. Please improve this <a href="http://www.opera.com/products/desktop/compare/">silly comparison for <strong>mobiles</strong> Opera!</a></p>
+
+<p>This is really an exciting time for Web applications. At last there  is light at the tunnel for <strong>deployment to the masses.</strong></p>

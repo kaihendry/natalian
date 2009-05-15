@@ -1,0 +1,8 @@
+[[!meta title="Firefox 1.5 comments" ]]
+[[!meta date="2005-09-19 12:13:13" ]]
+<ul>
+<li>Some of my extensions don&#8217;t work with Firefox &#8220;1.4&#8221;<br />
+ * It replaces my old Firefox and I can&#8217;t figure out how to easily rollback</li>
+</ul>
+
+<p>Otherwise I&#8217;m impressed by this release&#8217;s <a href="http://simon.incutio.com/archive/2005/09/11/firefox15">highlights</a> and look forward to using <a href="http://developer.mozilla.org/en/docs/CSS3_Columns">columns.</a></p>

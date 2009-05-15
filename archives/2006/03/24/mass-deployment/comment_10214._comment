@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Gustavo Franco"
+ subject="200.198.184.97"
+ date="2006-03-24 23:44:07"
+ content="""
+<p>I think you missed the major difference between Debian mass deployment in &#8216;real desktops&#8217; (or servers) using <span class="caps">FAI</span>, d-i preseed, whatever and deliver a &#8220;system image&#8221; through the network for a thin-client (without harddisk) ram.</p>
+
+<p>Well, (21 desktops * US$ 800,00) or (20 thin-clients * US$ 300 + 1 server * U$ 1000,00) for a project where you just want to teach people how to use a computer with small classes and providing internet access like in a coffee shop ? Let&#8217;s not forget that it&#8217;s easier to maintain one server than 21 desktops.</p>
+
+<p>Maybe in Europe and North America it&#8217;s cheaper to run a lab and hire two or three persons to deploy Debian in 20 desktops with hard disks and pay the team to maintain them up-to-date and cleaned. In South America, Africa and for people that use their brains to do something useful it isn&#8217;t! Wait, i&#8217;m not saying that <span class="caps">FAI</span> and d-i preseed are useless, it just fits better in others user scenarios. The debconf4 hacklab scenario was one of them.</p>
+
+<p>I&#8217;m sorry to disturb your dreamland with a wake up call, but a <span class="caps">LTSP</span>-based <span class="caps">CDD</span> was already used to cut the budget of a project that give internet access for more than 500.000 brazilians in poor areas, it&#8217;s probably the bigger Debian (and <span class="caps">GNOME</span>) deployment ever made (120 telecentres * 20 machines). Yes, i really know that you don&#8217;t care, maybe it&#8217;s why you wrote that <span class="caps">LTSP</span> sucks.</p>
+
+<p>Closing, Michael Vogt is working on a &#8216;apt-server&#8217; thing. You can take a look at his code that should appear in Ubuntu Dapper+1 in the end of the year, at his bzr repositories somewhere.</p>
+"""]]

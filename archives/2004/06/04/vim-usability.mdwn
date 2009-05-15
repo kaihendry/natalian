@@ -1,0 +1,7 @@
+[[!meta title="Vim usability" ]]
+[[!meta date="2004-06-04 11:59:16" ]]
+<p>Why is Insert mode &#8220;i&#8221; and Undo command &#8220;u&#8221; bound so close together on the most common <span class="caps">QWERTY</span> keyboard?</p>
+
+<p>The amount of times I have accidently undone my last changes while trying to insert some text is mind boggling. I guess I should enter insert mode with more style, like &#8220;a&#8221;.</p>
+
+<p>Tsk, Esc, esc&#8230;</p>

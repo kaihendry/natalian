@@ -1,0 +1,15 @@
+[[!meta title="Bad taste" ]]
+[[!meta date="2004-04-18 16:04:19" ]]
+<a href="http://natalian.org//pictures/2004/04/08/DCP_8224.JPG"><img alt="Ceramic panther"  src="http://natalian.org//thumb/2004/04/08/DCP_8224.JPG" /></a>
+
+<p>Can you believe people pay hard earned EUROs for such bad taste?</p>
+
+<p>Ok, what news. Mozilla is giving me such heartache in unstable. These extensions I&#8217;ve installed I suspect are the cause of the problem.</p>
+
+<p>I have been mostly working on another gallery system for my pictures. I have been employing test driven development.  The test cases are painful. But it&#8217;s not as bad as coding the real thing and getting suck I guess. Once the test cases are done, it&#8217;s great to knock them from Error to OK one by one. :)</p>
+
+<p>I changed the page system to show several posts on one page. The single page system from before didn&#8217;t seem go down well with people. I don&#8217;t know. It&#8217;s just that I used to have about 300 unique visitors a week, now I have about 200. What gives? :)</p>
+
+<p>I have been doing a lot of School linux stuff. I have lots to report. I will need to put it on the Koululinux pages probably. Although I don&#8217;t like the name Koululinux anymore.</p>
+
+<a href="http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&amp;item=3474619018&amp;category=3715"> OK LASTLY. My sister is selling her Thinkpad. There is something wrong with it. It doesn't boot properly. If you're looking for a little project, bid on these quality components.</a>

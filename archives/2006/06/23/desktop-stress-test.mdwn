@@ -1,0 +1,13 @@
+[[!meta title="Desktop stress test" ]]
+[[!meta date="2006-06-23 00:19:21" ]]
+<a href="http://www.flickr.com/photos/hendry/172624926/" title="Photo Sharing"><img src="http://static.flickr.com/72/172624926_a706393866_m.jpg" width="240" height="180" alt="Desktop test" /></a>
+
+<p>I&#8217;ve devised a fascinating new desktop stress test.</p>
+
+<p>Try clean your keyboard with your computer on and see if your desktop crashes.</p>
+
+<p>Kubuntu <strong>failed</strong> dismally.</p>
+
+<p>Debian Unstable with <a href="http://www.modeemi.fi/~tuomov/ion/">Ion3</a> fared much better.</p>
+
+<p>I remember my old Amiga being pretty good in this department.</p>

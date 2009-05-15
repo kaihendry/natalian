@@ -1,0 +1,17 @@
+[[!meta title="Mobile Gaming" ]]
+[[!meta date="2005-12-05 09:11:56" ]]
+<p>I bought a (early Xmas present) Nintendo DS with Mario Kart for a 190AUD. <a href="http://delaunay.org/antoine/">Antoine</a> and I have been playing wirelessly between floors in the hostel we&#8217;re staying in. I have never bought a Nintendo before and it is amazing to play such a slick game.</p>
+
+<p>Though it is quite difficult to co-ordinate a <span class="caps">LAN</span> game in seperate rooms, as it is impossible to hop into or get instant messaged via <span class="caps">PICTOCHAT</span> whilst in another mode.</p>
+
+<p>Paranoid: I am always thinking to myself, what happens if I find a bug? How do I update this?</p>
+
+<p>We tried playing Advance Wars DS with &#8220;Direct Play&#8221; (as I don&#8217;t have the cartridge) and sadly the realtime game mode <span class="caps">SUCKS</span> <span class="caps">SUCKS</span> <span class="caps">SUCKS</span>.</p>
+
+<p>So really there seems to be only Mario Kart as <strong>the</strong> mobile wireless game. Oh well, we have to start somewhere.</p>
+
+<p>I was hoping to use the DS as a Wireless AP detector. Sadly it is nowhere near as sensitive as my Thinkpad T30. I&#8217;ve yet to try <a href="http://www.nintendo.com.au/wifi/hotspots.html">Nintendo&#8217;s <span class="caps">WIFI</span> service.</a> The launch seems to have been done <strong>pretty badly</strong>. There is only a couple of hotspots in that Australian state of Victoria in places I have never heard of.</p>
+
+<p>There was talk of hotspots in McDonalds. Oh well, all this &#8220;free&#8221; wifi hotspot stuff never seems to get off the ground sadly. :(</p>
+
+<p>They must be worried that laptop users are going to leech the Free Internet.</p>

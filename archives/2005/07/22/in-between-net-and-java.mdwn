@@ -1,0 +1,39 @@
+[[!meta title="In between .NET and JAVA" ]]
+[[!meta date="2005-07-22 11:46:16" ]]
+<p>One of my work colleagues said to me: &#8220;If you&#8217;re not in the .NET camp or the <span class="caps">JAVA</span> camp, where the hell are you?&#8221;</p>
+
+<p>Shame not many people know what <a href="http://en.wikipedia.org/wiki/LAMP"><span class="caps">LAMP</span></a> is. Though, I see a lot of Perl developers wanted on contracts, at least in Australia. Urgh, Perl. ;)</p>
+
+<p>I refuse to work with Microsoft technologies, so here I am on a <span class="caps">JAVA</span> contract.</p>
+
+<p>Since I came across a real <a href="http://natalian.org/archives/2005/07/20/java14-sucks/">nasty bug,</a> I have been migrating the environment to the 1.5 <span class="caps">JDK</span>. I could have gone for a bug fix version of 1.4, but since you&#8217;re forced to go to 1.5 sooner or later, I decided to make the jump now. While I&#8217;m still sane. Everything was going so well, until some clients complained about this error:</p>
+
+<code>
+Exception in thread "main" java.lang.UnsupportedClassVersionError: xxxxxxxxxxxxx 
+(Unsupported major.minor version 49.0)
+</code>
+
+<p>I skipped lunch to fix this problem. It turns out that our <span class="caps">SWING</span> applications built with the 1.5 <span class="caps">JVM</span> don&#8217;t run on the 1.4 <span class="caps">JVM</span>. That makes sense, though 1.4 applications run fine on a 1.5 <span class="caps">JVM</span>. That error message is so stupid, if it said &#8220;YOU <span class="caps">ARE</span> <span class="caps">RUNNING</span> A 1.5 <span class="caps">BUILT</span> <span class="caps">APP</span> ON A 1.4 <span class="caps">JVM</span>&#8221;, it would have saved zillions of precious hours. In order to ease <span class="caps">SWING</span> deployment I investigated <a href="http://java.sun.com/products/javawebstart/">Java Webstart.</a> Die <span class="caps">SWING</span> client <span class="caps">DIE</span>. It is so going to be a Web application sooner or later.</p>
+
+<p>Another concern of mine is the JBoss4 environment. It&#8217;s unstable. I have some experience of <span class="caps">IBM</span> Websphere too and I wasn&#8217;t impressed with that either. They are all so shaky compared to say a <span class="caps">LAMP</span> environment under Debian. I don&#8217;t understand how corporations can trust their business processes to them. Insane.</p>
+
+<p>My boss asked me: &#8220;is Jboss so bad because it&#8217;s free?&#8221;</p>
+
+<p>Oh sweet Jesus. Applications that are free software are about 10x better than non-free applications in my experience.</p>
+
+<p>Anyway I was asked to investigate other &#8220;Application servers&#8221;. Lets take <a href="http://www.theserverside.com/reviews/thread.tss?thread_id=27168">Oracle&#8217;s <span class="caps">JVM</span> which is part of their 10g suite and hosts their Enterprise Manager.</a></p>
+
+<p>Check the hilarious comments:<br />
+<blockquote><br />
+most complicated and hard to use and full of bugs software i&#8217;ve ever seen<br />
+</blockquote></p>
+
+<p>Finally here is a <a href="http://www.theserverside.com/reviews/matrix.tss">matrix of all those really crappy application servers.</a></p>
+
+<p>I think my best advice is stick with Jboss. &#8220;sigh&#8221;</p>
+
+<p>I would love to see all these <a href="http://an9.org/devdev/why_frameworks_suck?sxip-homesite=&amp;checked=1">sucky frameworks,</a> middleware and application servers disappear. People nowadays prefer using 3 layers of data objects (SLOW) instead of running a simple <span class="caps">SQL</span> statement(fast). Get back to basics, <span class="caps">UNIX</span> style: small independent programs. You know, using sendmail instead of some buggy &#8220;mail framework&#8221; to send email.</p>
+
+<p>I guess the problem is most developers develop on a Windows workstation and re-invent a lot of stuff because Windows doesn&#8217;t do anything properly.</p>
+
+<p>Though still, object orientated programming is a real fuck up.</p>

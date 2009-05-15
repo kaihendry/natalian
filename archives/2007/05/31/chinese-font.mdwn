@@ -1,0 +1,46 @@
+[[!meta title="Chinese Web fonts" ]]
+[[!meta date="2008-02-01 11:11:52" ]]
+<a href="http://www.flickr.com/photos/hendry/523304079/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/231/523304079_c568bcb718_m.jpg" width="240" height="180" alt="Webconverger Portal in Chinese" /></a>
+
+<p>I wanted to <a href="http://www.markshuttleworth.com/archives/119">spill the discussion of fonts from Mark&#8217;s blog</a> and share what little I know on the topic and learn from the lazyweb.  :)</p>
+
+<p>So I am localising <a href="http://webconverger.com">Webconverger (Web Operating System)</a> and learning as I go.</p>
+
+<p>On my unstable system, I somehow have <a href="http://static.natalian.org/2007-05-30/fc-list_monty.txt">179 fonts installed</a>.</p>
+
+<pre>
+monty$ fc-list | wc -l
+179
+</pre>
+
+<a href="http://static.natalian.org/2007-05-30/monty-fonts.txt">50 of them are Truetype fonts</a> fonts. <a href="http://en.wikipedia.org/wiki/Computer_font#TrueType_Font">Truetype fonts</a> are what get used by your Web browsers rendering engine. I am going to ignore bitmap fonts et al for some simplicity and sanity. I am also not going to talk about hinting and anti-aliasing, though I do have opinions. :)
+
+<p>50 <a href="http://en.wikipedia.org/wiki/TrueType">True Type fonts</a> is not helpful considering that these &#8220;free fonts&#8221; do not really replace the <a href="http://packages.qa.debian.org/m/msttcorefonts.html">Microsoft Core Fonts (msttcorefont)</a>, that everyone <a href="http://en.wikipedia.org/wiki/Web_fonts">uses on the Web</a>.</p>
+
+<p>There are no Microsoft <a href="http://en.wikipedia.org/wiki/CJK"><span class="caps">CJK</span></a> fonts available in Debian or Ubuntu. And &#8216;free software&#8217; compatibility with proprietary <span class="caps">CJK</span> font faces is poor. <strong>So free software software platforms in <span class="caps">CJK</span> markets suck because of their font legibility</strong>.</p>
+
+<p>The leading free fonts like Bitstream Vera Sans and <a href="http://en.wikipedia.org/wiki/DejaVu_Sans">DejaVu Sans</a> look the same to me (actually they are the same, thanks <a href="http://blog.daniel-baumann.ch/">Panthera</a>!) and are seriously boring. I guess they&#8217;re comparable to msttcorefont&#8217;s Verdana. Great&#8230; one down. :) Update: Mike Day informs me this is what <a href="https://www.redhat.com/promo/fonts/">Red Hat are doing, developing a set of fonts that are metrically equivalent to the key Microsoft fonts</a>.</p>
+
+<p>DejaVu Sans (our best hope of Freedom so far) has really good i18n coverage, though unfortunately i18n coverage especially with China/Japan/Korea (CJK) markets is complicated.</p>
+
+<p>There are free (as in freedom) <span class="caps">CJK</span> fonts though many of these glyphs are really bad quality. Some are OK quality, though they aren&#8217;t comparable to the proprietary fonts and hence too often the Web page renders poorly, as it was designed with some other proprietary font in mind. Ouch! Web designers <strong>please use &#8216;em&#8217; units</strong> and this <a href="http://flickr.com/photos/hendry/521334985/">problem such as over lapping text</a> could be avoided.</p>
+
+<p>Then some people in China prefer some font over another so this problem gets quite complex. Add Korea and Japan to the mix who also use Chinese characters in their own &#8220;special way&#8221;.</p>
+
+<p>I&#8217;ve been testing out <a href="http://www.sina.com.cn/">sina.com.cn</a> and taking <a href="http://flickr.com/search/?w=16105436%40N00&amp;q=sina+screenshot&amp;m=tags">screenshots</a>.</p>
+
+<a href="http://www.flickr.com/photos/hendry/523304087/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/236/523304087_afc9ae6096_m.jpg" width="240" height="180" alt="Sina test rendering, take 2" /></a>
+
+<p>So I have a Chinese friend and asked him to try a special <a href="http://webconverger.org/i18n">Chinese specific Debian live build of Webconverger</a>. He says all the Ubuntu geeks use <a href="http://wiki.ubuntu.org.cn/VeraSansYuanTi">VeraSansYuanTi</a>. However that&#8217;s <strike>non-free</strike> <strong>theft</strong>, sigh&#8230;. My friend also writes:</p>
+
+<blockquote>
+sorry for Chinese there is no best font..
+because China government never try hard for this;
+all kinds of fonts is some company create;
+and u know China had so log history so many great beautiful font style
+.. but not become computer free fonts...
+</blockquote>
+
+<p>I think the opensource evolution model doesn&#8217;t work very well with fonts. They need to be super high quality from the outset. Throwing a bunch of fonts at the problem gets us in our current confused situation. Update: <a href="http://hsivonen.iki.fi/">Henri Sivonen</a> wisely points out that &#8220;in the case of <a href="http://en.wikipedia.org/wiki/DejaVu_fonts">DejaVu</a>, adding glyphs to Vera as an open source project seems to work&#8221;.</p>
+
+<p>I think it would be great if governments could settle on some cultural core fonts for their locality instead of being <a href="http://news.com.com/Microsofts+forgotten+monopoly/2010-1032_3-6085417.html">dictated to by Microsoft</a>, or by whatever proprietary font gains acceptance in other markets.</p>

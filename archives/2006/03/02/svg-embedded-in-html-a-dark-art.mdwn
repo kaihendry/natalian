@@ -1,0 +1,13 @@
+[[!meta title="SVG embedded in HTML, a dark art" ]]
+[[!meta date="2006-03-05 11:04:07" ]]
+<a href="http://www.flickr.com/photos/hendry/103601439/" title="Photo Sharing"><img src="http://static.flickr.com/15/103601439_dccc71d9e0_m.jpg" width="240" height="180" alt="Kai, Hannah and James playing scrabble" /></a>
+
+<p>Spent an hour or two looking at <a href="http://dabase.com/svg/"><span class="caps">SVG</span> and embedding them into Web pages.</a></p>
+
+<p>I worked from <a href="http://ln.hixie.ch/">Ian Hickson&#8217;s</a> <a href="http://code.google.com/webstats/index.html">Webstats</a> and I didn&#8217;t get very far. I grabbed another svg from somewhere else, and it wouldn&#8217;t render without a ?xml-stylesheet def. Which I think is a little weird.</p>
+
+<p><strong>I don&#8217;t like all these pixel definitions.</strong> It&#8217;s so <strong>not easy</strong> to simply say this bar is 40% big and another is 60%. Instead it is drowned in this x, y placement cruft.</p>
+
+<p>Perhaps <a href="http://developer.mozilla.org/en/docs/Drawing_Graphics_with_Canvas">canvas</a> is the answer. I&#8217;m unsure how the <a href="http://www.whatwg.org/specs/web-apps/current-work/#scs-dynamic">spec</a> has been implemented in Firefox. If I understand <code>canvas</code> correctly, then these graphs/graphics would be generated programatically with Javascript. Which sounds kinda sucky.</p>
+
+<p><span class="caps">SVG</span> looks like it will take a while. For graphs et al, I rely on <a href="http://www.r-project.org/">R</a> and just export to <span class="caps">PNG</span> or something else that <a href="http://natalian.org/archives/2005/01/21/images/">doesn&#8217;t scale.</a> :(</p>

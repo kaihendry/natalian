@@ -1,0 +1,27 @@
+[[!meta title="Web clients" ]]
+[[!meta date="2004-08-23 18:35:28" ]]
+<p>I was thinking in the bath this morning about how I would construct a small of hardware that would just run a User Agent like Firefox.</p>
+
+<p>It would have to have quite a lot of memory.  256mb <span class="caps">RAM</span> say.</p>
+
+<p>The binary could be stored on compact flash. Compact flash I heard has a limited amount of writes.</p>
+
+<p>That does not matter because I really don&#8217;t think there is anything that needs to be written. If the box is turned off, it could build up all those cookies etc. again. It&#8217;s no big deal. History is often poorly utilized by users too.</p>
+
+<p>Couple of <span class="caps">USB</span> ports.</p>
+
+<p><span class="caps">VGA</span> ouput. The software would need some sort of Knoppix like Monitor detection.</p>
+
+<p>Kettle lead power input. I just hate external PSUs.</p>
+
+<p>Sound is unneccessary.</p>
+
+<p>Actully hardware wise the <a href="http://www.openbrick.org">Open Brick</a> seems to do most of this already.</p>
+
+<img src="http://www.openbrick.org/Members/jp/openbrick2.png" alt="A hand holding a computer brick" />
+
+<p>It would need a straight up Internet connection. Absolutely seamless updates.</p>
+
+<p>How much would people charge for this? Judging by the <a href="http://www.openbrick.org/wiki/ng/FrontPage">Wiki</a> comments, <strong>400EUR is just too dear</strong>. I would agree. It needs to be 100UKP or something.</p>
+
+<p>Getting people to buy some sort of service subscription might be difficult. I guess it would be some Tivo like model.</p>

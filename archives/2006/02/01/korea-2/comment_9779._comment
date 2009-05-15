@@ -1,0 +1,11 @@
+
+[[!_comment format=mdwn
+ username="Seo Sanghyeon"
+ subject="211.104.100.240"
+ date="2006-02-01 16:43:20"
+ content="""
+<p>apt-get install ttf-unfonts # To get Hangul font<br />
+apt-get install im-switch nabi # To get Hangul input</p>
+
+<p>In Sid, im-switch will automatically launch nabi at X startup. Restart X now and all done!</p>
+"""]]

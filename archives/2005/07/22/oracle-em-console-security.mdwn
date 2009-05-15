@@ -1,0 +1,14 @@
+[[!meta title="Oracle EM Console security" ]]
+[[!meta date="2005-07-22 11:14:48" ]]
+<p>It&#8217;s probably not a wise idea to allow SYSDBAs to connect to Oracle&#8217;s Enterprise Manager Console (actually it&#8217;s a Web application) over <span class="caps">HTTP</span>. Someone could sniff the password and have access to the database.</p>
+
+<p>Create a secure <span class="caps">SSH</span> tunnel:<br />
+<code><br />
+ssh -L 5501:localhost:5501 server.thatrunsoracle.example.com<br />
+</code></p>
+
+<p>So I run the above line from my workstation and then connect to localhost:5501/em</p>
+
+<p>Gotcha: Make sure the <strong>local and remote port</strong> are the same! EM doesn&#8217;t work otherwise.</p>
+
+<p>P.S. I&#8217;m available for Oracle security auditing for just 100UKP an hour.</p>

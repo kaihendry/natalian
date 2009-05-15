@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Noah Meyerhans"
+ subject="128.30.14.243"
+ date="2006-03-24 14:06:12"
+ content="""
+<p>At my workplace, we use <span class="caps">FAI</span> + cfengine to install and manage several hundred servers and workstations.  For a while we were using it to install both woody and sarge systems, but we&#8217;ve since dropped support for installing woody.  Other sites are using <span class="caps">FAI</span> to install Ubuntu and even Solaris.</p>
+
+<p>It takes a fair bit of work to make it do exactly what you want, but but it does work.  It supports debconf preseeding, custom config file installation, dynamic disk partition layouts, and pretty much anything else you care to script up.</p>
+
+<p>To automatically update systems, I&#8217;ve used both cron-apt and a custom shell script, run via cfengine, to perform a non-interactive upgrade, dist-upgrade, or single package installation.</p>
+"""]]

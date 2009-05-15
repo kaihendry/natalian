@@ -1,0 +1,35 @@
+[[!meta title="Text width" ]]
+[[!meta date="2004-06-10 13:51:07" ]]
+<p>Every wonder why the text width of email is set to 72 characters? <a href="http://natalian.org/archives/2004/05/29/debian-display/">I have.</a> But I did not think of it in the context of the web&#8230; until now.</p>
+
+<p>Mika Raento started the ball rolling by suggesting I should be setting a maximum width to my text like his <a href="http://www.cs.helsinki.fi/u/mraento/symbian/bt-ap.html">symbian page</a>, so a line doesn&#8217;t go too wide and becomes unreadable.</p>
+
+<p>When I resized my blog or say <a href="http://ln.hixie.ch/">Ian&#8217;s</a> for a bigger screen (i.e. zoomed out), I imagined the text was scaling for the larger screen size. The fact that lines were getting longer, meant that the text  was taking full advantage (i.e. scaling) for the larger screen size.</p>
+
+<a href="http://www.theregister.co.uk/">The register</a> posts also get longer lines when zooming out.
+
+<p>Although the lines are scaling <strong>UP</strong> to the larger screensize, it is not helping <a href="http://www.w3.org/WAI/">accessibility</a>. <br />
+Why? Because this <a href="http://www.webstyleguide.com/type/lines.html">line length</a> style guide tells that &#8220;normal reading distances the eye&#8217;s span of acute focus is only about three inches wide&#8221;. Wide lines (roughly over 60 characters) get <strong>difficult to read</strong>, <strong>less usable</strong> and hence <strong>less accessible</strong>.</p>
+
+<p>Mika again pointed out to me that optimal line width depends on:</p>
+
+<ul>
+<li>reading distance</li>
+<li>font size</li>
+</ul>
+
+<p>Ok, what does this mean for mobiles? I think this is good news. If we read <strong>within</strong> three inches, and the mobile screen is typically one inch square (128&#215;128), then there is no need to panic.</p>
+
+<p>For desktops with bigger screens (17+ inches now?) it has of course had an impact. That&#8217;s why <a href="http://www.opera.com/products/smartphone/smallscreen/">banner sizes are 468 pixels wide</a> and many sites operate complex tables emulating magazine columns. <em>This now affects mobiles.</em> How do you scale a two column (at least 6 inches) desktop designed webpage to a screen sized the third of a three inch column of a mobile?</p>
+
+<p>So how can we solve this problem?</p>
+
+<ol>
+<li>Re-adaption (<a href="http://www.w3.org/2000/10/DIAWorkshop/dia-realistic.html">guess and pray</a>). </li>
+<li>Let the author worry about it. (let him do a bunch of different style sheets for media types or just one style sheet for one device and forget the rest)</li>
+<li>Let the device user agent worry about it</li>
+</ol>
+
+<p>I am in favour of 3&#8230; better UAs to solve this problem. Let the UA agent in co-operation with device vendor take responsibility for making the page readable and usable. The more pressure you put on authors to scale their text properly for devices they&#8217;ve never seen is <strong>unreasonable</strong>. Authors should be just writing content. Just think how good it would have been if browsers (or some other application) could help you navigate instead of crappy author&#8217;s menu struggling to fill in the void with <strong>inconsistent</strong> results.</p>
+
+<p>UAs can solve the font size problem. The vendor is in the best position to determine whether a &#8220;120% is not as legible as the same font at 112% on a particular device.&#8221; One down. As for reading distance, I think it&#8217;s probably more of a text flow problem. It&#8217;s not an easy problem to solve but UAs are best positioned to do so.</p>

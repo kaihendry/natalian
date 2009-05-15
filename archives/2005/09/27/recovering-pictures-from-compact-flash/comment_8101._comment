@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Sean Hagen"
+ subject="64.180.101.245"
+ date="2005-09-28 01:24:37"
+ content="""
+<p>Interesting how it didn&#8217;t work for you. I had to do the same sort of thing with my new digital camera ( memory stick -&gt; usb 4-in-1 reader -&gt; computer ), and my computer picked it up fine. Don&#8217;t know if you checked dmesg beforehand to make sure it was sda1 you were supposed to mount. For me it wasn&#8217;t. On my computer sda1 was the reader itself, and the memory stick was at sda3 or something like that. At least you were still able to recover your photos.</p>
+
+<p>Cheers!</p>
+"""]]

@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Jon"
+ subject="82.39.115.104"
+ date="2004-07-11 18:09:05"
+ content="""
+<p>/usr/share/doc/spamassassin/examples/muttrc contains some muttrc stuff to report spam to sa-learn; at least in unstable. I have a slightly more refined set of macros:</p>
+
+<p>macro index S &#8221;|sa-learn&#8212;spam&#8212;no-rebuild > /dev/null&amp;nd&#8221;</p>
+
+<p>That is, tell sa-learn that this is spam and not to rebuild the filters, I don&#8217;t care about the output; do it all in the background and then delete the mail. `d&#8217; should probably be <delete-message> for safety incase I rebind d at some later stage.</p>
+
+<p>Having it backgrounded means I can hold down &#8216;S&#8217; for a long list of spams. The output needs to be redirected in this case to stop the screen being corrupted (perhaps a wishlist bug for a silent mode to sa-learn)</p>
+"""]]

@@ -1,0 +1,19 @@
+[[!meta title="Chip & Pin rant" ]]
+[[!meta date="2008-04-27 19:31:19" ]]
+<a href="http://www.flickr.com/photos/hendry/1973989772/" title="PIN SENTRY by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2272/1973989772_82508e6354_m.jpg" width="240" height="180" alt="PIN SENTRY" /></a>
+
+<p>I am in a foul mood as I left my card <a href="http://www.flickr.com/photos/hendry/1973989772/">in my pin sentry</a> device and hence had to survive without any money today. Fantastic  tiny marvels of technology aren&#8217;t they?</p>
+
+<p>Sidenote: Why the <span class="caps">HELL</span> does Barclays require the last five digits of my card? They already have my membership number. Are they trying to <a href="http://natalian.org/archives/2008/04/27/brute-force-attack-risks/">prevent a brute force attack?</a></p>
+
+<p><strong>Why not make a physical token robust and small enough to fit on my existing key ring?</strong></p>
+
+<p>Most ATMs in the UK still use the barcode strip, so umm&#8230; where is the security benefit of the chip?</p>
+
+<p>The new generation of chip &amp; pin cards (just had my nationwide card replaced with no warning) might be more secure, but why&#8230; <span class="caps">WHY</span> do they require my signature on them?</p>
+
+<p>And my <strong>name</strong>, card number, expiry date, <strong>sort code</strong> and <strong>account number</strong>. A name, sort code, account number and phony signature is a enough to start ripping money out my bank account with <a href="http://en.wikipedia.org/wiki/Direct_debit">direct debit</a>. It&#8217;s even easier if you copy down my card number, expiry data and daft <span class="caps">CVV</span> numbers. So <strong>all the usual risks are still present</strong>.</p>
+
+<p>If you really care about security, get rid of that insecure legacy crap on your new cards.</p>
+
+<p>One step forward and two steps back. To all those security experts employed by banks who make my life more difficult, fuck you.</p>

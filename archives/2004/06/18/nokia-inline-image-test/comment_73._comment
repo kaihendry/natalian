@@ -1,0 +1,20 @@
+
+[[!_comment format=mdwn
+ username="Kai"
+ subject="128.214.48.17"
+ date="2004-06-22 11:13:02"
+ content="""
+<p>Ok, what I wrote above is bullshit. :)</p>
+
+<p>Thanks to a <a href="http://lists.w3.org/Archives/Public/www-di/2004Jun/0031.html">pointer from this post</a>, it wasn&#8217;t the resolution size of the image that stopped it from displaying&#8230; it was the <strong><span class="caps">FILE</span> <span class="caps">SIZE</span></strong>.</p>
+
+<p><span class="caps">DOH</span></p>
+
+<p>I made <a href="http://dabase.com/imagetest.xhtml">another test with a simpler image</a> which took up less space than the previous chair image. I discovered that the UA can take rediculously large resolutions if the file size is small enough.</p>
+
+<p>600&#215;600 pixels !</p>
+
+<p>Although the useragent really suffered to display it properly. The Nokia 1.0 browser was doing some odd wrapping and spacing. :(</p>
+
+<p>But this is interesting. The most important thing about this era of mobile phone is to make sure the total size of the <span class="caps">XHTML</span>+CSS+IMG (delivered content) etc is less than the deck size.</p>
+"""]]

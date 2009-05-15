@@ -1,0 +1,9 @@
+[[!meta title="Web kiosk Video" ]]
+[[!meta date="2007-04-26 22:36:15" ]]
+<embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=5173550835959570684&amp;hl=en" flashvars=""> </embed>
+
+<p>My sister and her friend &#8220;interviewed&#8221; me about <a href="http://webconverger.com/">Webconverger</a>. Can you tell we had no script or production skills for <a href="http://video.google.com/videoplay?docid=5173550835959570684&amp;hl=en">this video</a>?</p>
+
+<a href="http://www.flickr.com/photos/hendry/465205851/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/203/465205851_c104d2550f_m.jpg" width="240" height="180" alt="Flash-free and totally Free Software version of Webconverger" /></a>
+
+<p>On a personal note, this week I am making the move to London, so I might be offline for a few days.</p>

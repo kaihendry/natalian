@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Joose Vettenranta"
+ subject="82.181.82.163"
+ date="2006-02-10 16:56:19"
+ content="""
+<p>Well,</p>
+
+<p>if you would be using redhatt/centos/Fedoracore.. it would have kickstart support so it would be very easy to install n+1 computers. Just boot with kickstart and let the magic happen.</p>
+
+<p>Also, redhat/centos is suppose to be stable distribution, unlike ubuntu. Because there doesn&#8217;t seem to be anykind of administration for computers, then I recommend using distribution which is supported for years to come &#8211; unlike ubuntu/debian.</p>
+
+<p>- Joose</p>
+"""]]

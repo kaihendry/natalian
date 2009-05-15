@@ -1,0 +1,23 @@
+[[!meta title="X40 versus the T30" ]]
+[[!meta date="2007-02-28 04:55:06" ]]
+<a href="http://www.flickr.com/photos/hendry/107949095/" title="Photo Sharing"><img src="http://static.flickr.com/56/107949095_73d77e0155_m.jpg" width="240" height="180" alt="T30 and X40 batteries" /></a>
+
+<p>I am a little disappointed with the new <a href="http://thinkwiki.org/wiki/Category:X40">Thinkpad X40</a> I have from work. I wanted a MacBook Pro, but their availability and <a href="http://natalian.org/archives/2006/02/09/korean-quirks/">price</a> in Korea is bad.</p>
+
+<p>Unplugging the mains leaves me about 2:30hrs. That&#8217;s almost the same as my personal <a href="http://thinkwiki.org/wiki/Category:T30">T30</a> machine! My T30 has about 2 hours of battery life, although it also has about twice the <span class="caps">CPU</span> power (going by Bogomips)!</p>
+
+<p>If I do processor intensive stuff like compiling and watching videos then we can half those times&#8230; (!)</p>
+
+<p>My T30 also has better wireless performance after my little tests. I&#8217;m also wary of this little X40 keyboard. I don&#8217;t think it&#8217;s good for my <span class="caps">RSI</span>. Though it&#8217;s too early to tell.</p>
+
+<p>You can get a <a href="http://reviews.cnet.com/ThinkPad_X40/4505-3121_7-30733357-6.html">bigger battery pack for the X40.</a> But it will probably be expensive. :/</p>
+
+<p>The X40 is brand new and is branded <span class="caps">IBM</span> thinkpad. The build quality is excellent, just like my other thinkpads I&#8217;ve used. It does say &#8220;Lenovo&#8221; on all the copyright stickers.</p>
+
+<p>I whipped out the <a href="http://thinkwiki.org/wiki/Harddrive_Upgrade">hard drive and I thought I might upgrade to a quieter Seagate Momentus.</a> I was surprised to see a 2&#8221; drive that was about half the height. I didn&#8217;t know about this form factor! I&#8217;ll miss my T30&#8217;s roomy 100G.</p>
+
+<p>It was tricky installing Debian without a <span class="caps">CDROM</span>. I managed in the end with an external <span class="caps">USB</span> hard drive and my experiences are documented in debian-boot threads starting <a href="http://lists.debian.org/debian-boot/2006/03/msg00103.html">here</a> and <a href="http://lists.debian.org/debian-boot/2006/03/msg00148.html">here.</a></p>
+
+<p>One <strong>major</strong> redeeming thing about the X40 is that I get 18371880.31 bytes/sec compared with the T30&#8217;s 959174.47 bytes/sec for <span class="caps">USB</span> throughput. That&#8217;s an amazing 20x speed up! So I&#8217;ll be using external <span class="caps">USB</span> drives to compensate for the tiny 30GB hard drive.</p>
+
+<p>I am giving away my old T30 to my <a href="http://jutta.prazefarm.co.uk">sister.</a> <strong>I just wish the X40 fealt a little more like an upgrade from the T30</strong>. The X40 is my workplace&#8217;s equipment after all. I think I will aim to get a Mac Pro still if I visit Japan in the next weeks for myself.</p>

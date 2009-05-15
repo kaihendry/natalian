@@ -1,0 +1,22 @@
+[[!meta title="Firefox 0.9.3" ]]
+[[!meta date="2004-09-09 00:07:34" ]]
+<p>I know I should report these as bugs or something. But I am <strong>lazy</strong>.</p>
+
+<p>I have seen my parents use Firefox in the last couple of days, as I am trying to ween them off IE. Couple of problems:</p>
+
+<ul>
+<li>They do not understand tabs very well. They should be more prevalent. I think they look too small, hence they do not notice them. Tabs should stretch across perhaps. They really do not get the Red X.</li>
+<li>When using tabs and the dialup connection drops, 5 million popups all saying the same thing. Stupid.</li>
+<li>At least two sites with forms (BT and <a href="http://speedferries.com/">Speedferries</a>) do not work. Yes JS is enabled. Frustrating.</li>
+<li>It can&#8217;t seem to pull up pages offline that I surfed on earlier as well as IE. Is the cache broken?</li>
+<li>My mother initially complained there is no GO button. :)</li>
+<li>They do not resize the page like they should do. Even after showing them repeatedly how to resize. Perhaps the page does not grow like they expect it to. </li>
+<li>They do not seem to use bookmarks. The <span class="caps">URL</span> bars autocompletion is what they go by. Although they do end up typing the whole thing.</li>
+<li>They do not read popups. They just try their best to close them. With urgency.</li>
+<li>They do not use the context menu(right mouse button) of the mouse.</li>
+<li>I think sometimes the scroll wheel of the mouse has not worked as expected and hence they do not use it. They opt for the scroll bar.</li>
+</ul>
+
+<p>It amazes me how dependent they are on using the mouse. They do not like to type or use the keyboard in conjunction with mouse. For me I always like to use the keyboard. They always reach for the mouse. And I can tell you, they even find it hard to double click.</p>
+
+<p>There should be a theme for very passive use where a keyboard is absolutely unneccessary for normal effective surfing. This theme should also have  an option to turn off images.</p>

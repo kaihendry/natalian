@@ -1,0 +1,18 @@
+[[!meta title="Maxdox" ]]
+[[!meta date="2004-05-12 19:35:32" ]]
+<p>I am slowly writing a <a href="http://svn.natalian.org/school/thesis/tktl/">thesis about the Mobile as an Information Appliance</a>.</p>
+
+<p>Basic question I&#8217;m answering is whether the mobile can be an information device yadda yadda, and make a pitch for <a href="http://www.webstandards.org/">webstandards</a>. Today I noticed a poster in my <a href="http://www.cs.helsinki.fi/">department</a> about <a href="http://maxdox.com/">Maxdox</a> and their <a href="http://www.maxdox.com/squeeze/">&#8220;Squeeze&#8221; competition</a>.</p>
+
+<p>They seem to be pushing a proprietary format for mobiles, which by looking at it&#8217;s <a href="http://www.maxdox.com/pdf/features_list.pdf">feature list</a> looks like its aiming at something between <span class="caps">XHTML</span>, Flash and <span class="caps">PDF</span> type functionality. Great looking documents they say. More likely another proprietary patented vacuous content free flashy visual format. <a href="http://www.pp.fishpool.fi/~q-funk/wap.htm">Something for graphic artists rather than authors.</a></p>
+
+<p><span class="caps">CAN</span> <span class="caps">YOU</span> <span class="caps">JUST</span> <span class="caps">PLEASE</span> <span class="caps">LEARN</span>? Proprietary formats are not part of the web aka Information space. Contribute to and implement W3C webstandards, and lets build a commodity market place for content creation and services!</p>
+
+<p>I tried to download their developer tool, but there is no telling if it runs on a <a href="http://www.debian.org/">developer platform such as Debian.</a> The <a href="http://www.maxdox.com/trial-registration/wizard.pl">terms and conditions are scary for their  competition</a>. Do I have to sign an <span class="caps">NDA</span>? Will I own my work once I submit it? Will you eat my brain for a <a href="http://www.maxdox.com/squeeze/prize.html">camera prize?</a></p>
+
+<p>After trying to register in order to see their tool I get an email with:<br />
+<blockquote><br />
+Your registration is now being reviewed by our support staff and you should receive your login name and password within 1&#8211;3 business days.<br />
+</blockquote></p>
+
+<p>Just when I get all excited about an era of accessible scalable W3C technologies for mobiles et al and this s*** comes along.</p>

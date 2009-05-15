@@ -1,0 +1,25 @@
+[[!meta title="R conference" ]]
+[[!meta date="2004-06-17 23:32:14" ]]
+<p>Here is my writeup of <a href="http://natalian.org/archives/2004/04/19/user/">useR</a> R conference.</p>
+
+<p>Austria is a nice country to live in, and I really like Vienna. I planned to absolutely rave about it when I returned to Finland, but then as I walking home from a bus stop I couldn&#8217;t help but notice how quiet Helsinki is. And I live in the middle of Kallio!</p>
+
+<p>Vienna has lots of amazing buildings:</p>
+
+<a href="http://pictures.natalian.org/kodak/2004/may/23/19:52:16/">
+<img src="http://pictures.natalian.org/kodak/2004/may/23/19:52:16/440x292" alt="Facade" />
+</a>
+
+<p>Hehe&#8230; And it was super to see some old friends. Public transport was great. The useR conference !</p>
+
+<p>vigentte(&#8220;grid&#8221;) when I get pissed off with normal R graphics placement.</p>
+
+<p>I learnt <a href="http://r.dabase.com/">interfacing with R</a> is non-trivial problem. Security being my biggest concern.</p>
+
+<p>I sat in a few Financial track lectures, and it was interesting to hear how 99% of investment traders base their trades on Excel quality statistics. All those city jobs for supporting M$, and that&#8217;s how they work&#8230; with blunt tools.</p>
+
+<a href="http://www.insightful.com/">Insightful's</a> Jeff Coombs giving a slick CEO talk was quite facinating. R users heard how S-plus makes products out of R packages. He was asking that R and S should become more compatible. And I think it was <a href="http://dirk.eddelbuettel.com/">Dirk</a> on behalf of the R community who asked... "What do we get out from this?". I wonder if Jeff knew what he was saying when he said we send bug reports. Whoopee.
+
+<p>Without a shadow of a doubt, the highlight of the conference was <a href="http://www.ci.tuwien.ac.at/Conferences/useR-2004/Keynotes/Ripley.pdf">Brian Ripley&#8217;s presentation on Data Mining.</a> It was great how he attacked the dubious synonyms of Data Mining, <span class="caps">KDD</span> and well&#8230; data dredging. He pointed how it came out of machine learning, where <strong>machine learning is statistics plus marketing minus assumptions</strong>. =) He also showed up how Biostaticians typically never have enough subjects. Finally he parted on some advice, that statistical linear methods are fine and don&#8217;t get tempted by the hip Neural Networks et al.</p>
+
+<p>R is very interesting free software project. It brings together computer scientists, polictical scientists, financial/business, statisticians, biostaticians, seimologists, geoligists, weather forcasters and other random geeks. =)</p>

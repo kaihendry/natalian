@@ -1,0 +1,26 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-06-23 09:28:05"
+ content="""
+<p>You should be able to fix subdomains by pointing to something like my directory with an Redirection htaccess.<br />
+<a href="http://trac.natalian.org/browser/projects/nowww/">http://trac.natalian.org/browser/projects/nowww/</a></p>
+
+<p>OR<br />
+In the httpd.conf<br />
+<code></p>
+
+<VirtualHost *>
+ServerName www.natalian.org
+Redirect / http://natalian.org/
+</VirtualHost>
+
+</code>
+
+<p>OR</p>
+
+<p>I think the <strong>ServerAlias</strong> directive&#8230;</p>
+
+<p>About the logs. You can log each domain in Apache2. A little trickier in Apache 1.3 I recall. I don&#8217;t bother with logs atm.</p>
+"""]]

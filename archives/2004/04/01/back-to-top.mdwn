@@ -1,0 +1,13 @@
+[[!meta title="Back to top" ]]
+[[!meta date="2004-06-22 11:25:33" ]]
+<p>The first installment of failures of web user agents I have come across begins with that stupido Back to Top link.</p>
+
+<p>It is information pollution caused by the user agent failing to provide the user a usable, logical way of quickly getting to the top of a viewed webpage.</p>
+
+<p>Examples:<br />
+<ul><br />
+<li><a href="http://news.bbc.co.uk/2/hi.html"><a href="http://news.bbc.co.uk/2/hi.html">http://news.bbc.co.uk/2/hi.html</a></a></li><br />
+<li><a href="http://cve.mitre.org/about/terminology.html"><a href="http://cve.mitre.org/about/terminology.html">http://cve.mitre.org/about/terminology.html</a></a></li><br />
+</ul></p>
+
+<p>More <a href="http://www.w3.org/TR/2001/NOTE-cuap-20010206">user agent madness</a> if you can&#8217;t wait for my next post.</p>

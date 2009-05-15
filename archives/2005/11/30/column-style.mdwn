@@ -1,0 +1,16 @@
+[[!meta title="Column style" ]]
+[[!meta date="2005-12-01 16:01:25" ]]
+<p>Those who use <a href="http://getfirefox.com/">Firefox 1.5</a> will have noticed a use of <a href="http://developer.mozilla.org/en/docs/CSS3_Columns">columns</a> associated with my <a href="http://hendry.iki.fi/css/bluegold.css">style sheet.</a></p>
+
+<p>It can look really <strong>ugly</strong>.</p>
+
+<p>Column text can overflow onto different elements resulting in unreadable pages on my blog.</p>
+
+<ul>
+<li><a href="http://natalian.org/archives/2005/11/18/elevator-code/">Image overlap</a></li>
+<li><a href="http://natalian.org/archives/2005/05/27/subversion-homedir/"><span class="caps">PRE</span> text overlapping</a></li>
+</ul>
+
+<p>I guess I need to restrict <span class="caps">PRE</span> into some tight block and somehow the same with pictures (without knowing their size).</p>
+
+<p>Er, help!</p>

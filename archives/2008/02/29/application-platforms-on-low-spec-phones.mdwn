@@ -1,0 +1,21 @@
+[[!meta title="Application platforms on low spec phones" ]]
+[[!meta date="2008-02-29 20:16:51" ]]
+<a href="http://flickr.com/photos/riot/66455636/">
+<img src="http://farm1.static.flickr.com/28/66455636_c6546883d7.jpg" />
+</a>
+
+<p>So what&#8217;s a low specification phone? Say something with less than an Arm9 with less than 50 megs of memory to play with.</p>
+
+<p>Lets not kid ourselves, most of the world use low spec mobiles. I&#8217;ve thought about how the Web application platform will be delivered on such devices in &#8220;developing countries&#8221;: <strong>over a long period of time</strong>.</p>
+
+<p>I predict most people in the world will only have a usable Web environment on their mobiles in about 20 years. So roughly 2030.</p>
+
+<p>However some people can&#8217;t wait that long. So lets say we stripped WebKit to it&#8217;s core <span class="caps">HTML</span> rendering capabilities. No Javascript engine, etc. etc. A colleague says that <em>might</em> work on a low specification device (32meg) with <strong>a lot</strong> of work. Is it worth the work though?</p>
+
+<p>I don&#8217;t think so, because there are stats out there to say that most low spec phone users aren&#8217;t really interested in applications. Secondly and probably most importantly lets not forget these people are probably not on any sort of <strong>cost effective data plan</strong>! Thirdly the interactive and more efficient Web requires Javascript capabilities.</p>
+
+<p>So how are low spec mobile users going to be offered services? I imagine via <strong>voice services</strong> will bridge the gap like they are doing currently now for the developed world. Here in the &#8220;developed world&#8221; we have call centres and over time most people will migrate to better services offered via the Web application platform.</p>
+
+<p>So please be patient, the future of the Web on mobile for the masses will be slow, evolutionary and I&#8217;m fine with that.</p>
+
+<p>Let me know your opinion if it differs. :)</p>

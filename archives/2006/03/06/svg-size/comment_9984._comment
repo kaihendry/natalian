@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Joose Vettenranta"
+ subject="82.181.82.163"
+ date="2006-03-08 16:12:07"
+ content="""
+<p>I&#8217;m not keeping data in <span class="caps">XML</span>. I have data in DB. Process goes like: DB -&gt; java objects -&gt; <span class="caps">XML</span> -&gt; <span class="caps">XML</span>-FO + <span class="caps">SVG</span> -&gt; <span class="caps">PDF</span>.</p>
+
+<p>I don&#8217;t know any tool to create <span class="caps">PDF</span> from <span class="caps">HTML</span> with <span class="caps">SVG</span> inlie.. Maybe if using <span class="caps">XHTML</span> and inline <span class="caps">SVG</span> then you could create <span class="caps">XSL</span>-T from <span class="caps">XHTML</span> to <span class="caps">XSL</span>-FO and then convert that to <span class="caps">PDF</span>.</p>
+
+<p>Nope, I didn&#8217;t have time to chech that out yet =)</p>
+
+<p>- Joose</p>
+"""]]

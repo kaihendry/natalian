@@ -1,0 +1,11 @@
+[[!meta title="Wordpress-MU" ]]
+[[!meta date="2006-12-12 21:12:56" ]]
+<p>Thought I should mention I am wondering whether or not to package <a href="http://mu.wordpress.org/">wordpress-mu</a>.</p>
+
+<p>It has stabilised and <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=399756">request has been made for it almost a month ago</a>.</p>
+
+<p>Trouble is I have been very busy <a href="http://maps.natalian.org/">travelling</a> and I have not found time to find out how it complements the existing wordpress packaging, that also support &#8220;multi-users&#8221;, though with a different sort of hack.</p>
+
+<p>Around the Christmas holidays expect something more concrete.</p>
+
+<p>Greetings from Argentina!</p>

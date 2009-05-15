@@ -1,0 +1,12 @@
+[[!meta title="Marquee Mobile" ]]
+[[!meta date="2004-06-07 18:05:53" ]]
+<p>I have been searching around desperately trying to find what has been added and removed in both <span class="caps">XHTML</span> MP and <span class="caps">WAP</span> <span class="caps">CSS</span> in <span class="caps">WAP</span> 2.0 from <a href="http://www.openmobilealliance.org/"><span class="caps">OMA</span>.</a></p>
+
+<p>At last thanks to<br />
+<a href="http://nds1.forum.nokia.com/nnds/ForumDownloadServlet?id=2995&amp;name=WML%5Fto%5FXHTML%5FMigration%5Fv2%5F1%2Epdf"><span class="caps">WML</span>  to <span class="caps">XHTML</span> Migration guidelines from Nokia</a> I now know.</p>
+
+<p>Let me remind you that wCSS is an incomplete implementation, ER <span class="caps">SORRY</span> <strong>subset</strong> of <span class="caps">CSS</span>. It does not say what it is missing. It does say what it has added. <a href="http://weblogs.mozillazine.org/hyatt/archives/2003_10.html#004283">Marquee support.</a></p>
+
+<abbr title="OH MY FUCKING GOD">OMFG</abbr>
+
+<p>Dear Nokia content developer, you now have &#8220;precise&#8221; control on marquee elements such as direction, number of loops, style and speed.</p>

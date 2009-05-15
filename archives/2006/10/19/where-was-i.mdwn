@@ -1,0 +1,12 @@
+[[!meta title="¿Where was I?" ]]
+[[!meta date="2007-10-05 00:30:43" ]]
+<a href="http://flickr.com/photos/jamiekitson/269616342/">
+<img src="http://static.flickr.com/102/269616342_e85742cee5_m.jpg" alt="School children learning about Free software" /></a>
+
+<p>I feel a little stupid for my last <a href="http://natalian.org/archives/2006/10/09/unstable-muttvim/">post about my unstable machine</a>. It <strong>was the hardware to blame</strong> and my hard drive finally crashed during a Linux conference in Mendoza, Argentina. Typical.</p>
+
+<p>At the <a href="http://jornadas.lugmen.org.ar/">conference</a> there wasn&#8217;t much new for me and I regret that I didn&#8217;t get organised enough to give a talk about the Web and <a href="http://whatwg.org"><span class="caps">WHATWG</span></a> stuff. Though I did manage to meet good people and talk about some topics that are of interest to me. As usual the fabulous friendly <a href="http://www.cafelug.org.ar">CafeLUG</a> geeks from Buenos Aires were there, led by the wonderful DD <a href="http://www.asciigirl.com.ar/">Marcela</a>. I also met an inspiring guy from <a href="http://en.wikipedia.org/wiki/C%C3%B3rdoba,_Argentina">Cordoba</a> who founded a <a href="http://except.com.ar/en/">successful software company that works with free software</a>. His brother gave a great talk about it at the conference. I really love to see Free software power people to start a business.</p>
+
+<p>Oh and about my thinkpad X40 hard drive replacement. With the help of another new friend from Mendoza, we called up <span class="caps">IBM</span> in Buenos Aires and arranged a new hard drive and a battery within 5 days! I didn&#8217;t know if my machine was under warranty still, <strong>phew</strong>. Unfortunately <span class="caps">IBM</span> called the next day saying they didn&#8217;t have any stock and the wait from the US is about 2 weeks. Since I have no idea where I will be in two weeks (ok, probably Sao Paulo, Brazil) I cancelled that request and now I have found a free Windoze (hopefully not trojaned) terminal just over the Andes, in Santiago Chile.</p>
+
+<p>Tough life!</p>

@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Jan Hudec"
+ subject="194.138.12.145"
+ date="2007-08-20 07:04:49"
+ content="""
+<p>There are distributed filesystems. <span class="caps">AFS</span>, Coda, Intermezzo, <span class="caps">SFS</span>, maybe Lustre-lite come to mind. I don&#8217;t know how complicated they are to set up though.</p>
+"""]]

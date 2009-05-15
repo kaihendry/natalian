@@ -1,0 +1,21 @@
+[[!meta title="unstable is just that" ]]
+[[!meta date="2005-12-20 15:42:53" ]]
+<p>&#8220;unstable is just that&#8221; is what some dork says to me on #debian when I said:<br />
+<blockquote><br />
+i&#8217;ve nuked my machine from a dist-upgrade from unstable last night. It won&#8217;t boot. The shell doesn&#8217;t look right. help. :)<br />
+</blockquote></p>
+
+<p>To make matters worse. Last night I did some house cleaning and ripped out all my old kernels to save space. My 6.5G root partition (everything except home) was full!</p>
+
+<ol>
+<li>Ok, try dpkg or apt news on #debian. Nothing.</li>
+<li>How about blog postings on <a href="http://planet.debian.org/">Debian Planet</a>? Bah&#8230;</li>
+<li>I quickly page in mutt and see if debian-devel has talked about it. Hmmm, seemingly no. </li>
+<li>Perhaps <a href="http://people.debian.org/~terpstra/list/debian-user.en.html">debian-user</a> via the lurker interface. Hmmm no. </li>
+<li>Ok, people in #debian-devel will hate me, but I&#8217;ll ask there.</li>
+<li>They point to the topic: <strong><span class="caps">FUCKED</span>: yaird/kernels</strong> (#<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=343042">343042</a>/#343048) Aha!</li>
+</ol>
+
+<p>Ok, I need a rescue CD. Which <a href="http://www.sysresccd.org/">one</a> <a href="http://knoppix.org/">I wonder</a>? Let&#8217;s try this one <a href="http://www.grml.org/download/">grml</a>.</p>
+
+<p>Wouldn&#8217;t it be nice to have some sort of Web page like <strong>status.debian.org/unstable</strong> telling about <strong>current high priority problems that will probably affect most Debian users</strong>? Right now, I have to look all over the place. Very tiring.</p>

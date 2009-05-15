@@ -1,0 +1,13 @@
+[[!meta title="Virtual Sarge to real life Sarge" ]]
+[[!meta date="2005-06-05 06:38:40" ]]
+<p>I  have been running a virtual machine of Debian <strong>sarge</strong> under VMware at work. I have eventually convinced the geeks around here a Debian machine would make a nice addition to the network.</p>
+
+<p>It took quite a lot of whining and fits over stupid <span class="caps">RPM</span> packages. It is such a nightmare to find packages for the things I need. There are several RH machines at work and they&#8217;re all horribly out of date because it is so difficult to upgrade them.</p>
+
+<p>I had real difficulties building <a href="http://www.cvstrac.org/">CVStrac</a> on a RH9 machine (for the <a href="http://www.joelonsoftware.com/articles/fog0000000043.html">Joel test</a> ) and in the end people went with the Debian server. I offered to get the network clients going properly with <span class="caps">DHCP</span>, instead of guessing a local address that might not be taken.</p>
+
+<p>The Debian <strong>dnsmasq</strong> package did the trick here. It is so sweet and simple (without resolvconf), <span class="caps">DNS</span> and DHCPd in one. I put in the critical/server machine names in /etc/hosts whose IPs are between 192.168.0.1/50 and setup the rest of the network in /etc/dnsmasq.conf to get an IP over .50 from the dhcpd in dnsmasq. No more <strong><span class="caps">BIND</span></strong> on an ancient machine.</p>
+
+<p>There were some strange problems when I /etc/init.d/networking restart the Debian machine to take over the <span class="caps">DNS</span>. The <span class="caps">NFS</span> mounts came up with permission denied errors, though their orginal exports were for the entire local network. A remount solved the problems. Since the cvstrac IP changed with Debian, the windows machines needed a ipconfig /flushdns. Pretty painless overall, considering it is afterall <span class="caps">DNS</span>.</p>
+
+<p>Since I have Debian under WinXP in VMware becoming more and more important, I now have a physical machine to put it on. But, urm&#8230; I don&#8217;t want to install Debian all over again and copy the files. Is there some easier way from <a href="http://groups.google.com.au/group/vmware.for-linux.general/browse_thread/thread/1926d4cc2692d78d/accb650efb76dadf?hl=en#accb650efb76dadf">VMware to a live physical machine?</a></p>

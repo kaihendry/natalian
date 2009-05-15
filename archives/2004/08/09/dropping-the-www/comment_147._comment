@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Kai Hendry (Actually Corey Wright)"
+ subject="217.30.176.161"
+ date="2004-08-14 11:41:17"
+ content="""
+<p>the problem with vhosts (with a single ip): ssl breaks.  but with<br />
+directories, ssl works (as the host name stays consistent for all<br />
+applications).</p>
+"""]]

@@ -1,0 +1,5 @@
+[[!meta title="Whiteband" ]]
+[[!meta date="2005-11-23 16:05:56" ]]
+<p>The great thing about that <a href="http://www.makepovertyhistory.org/">Make Poverty History</a> idiocy was the <strong>marketing</strong>. Not just those <a href="http://news.scotsman.com/uk.cfm?id=588782005">sweat shop wrist bands,</a> but that <span class="caps">CSS</span> whiteband that appeared on many Web pages.</p>
+
+<p>I ripped one off <a href="http://iki.fi/hsivonen">Henri</a> and put it on my host as a <a href="http://whiteband.dabase.com/">Whiteband example</a> so other Web developers can abuse it.</p>

@@ -1,0 +1,21 @@
+[[!meta title="Rewrite Help" ]]
+[[!meta date="2005-10-26 10:57:23" ]]
+<a href="http://www.flickr.com/photos/hendry/56120684/" title="Photo Sharing"><img src="http://static.flickr.com/30/56120684_3846929b83.jpg" width="332" height="500" alt="Dining at the Instituto Superior Técnico" /></a>
+
+<p><a href="http://people.apache.org/~rbowen/presentations/mod_rewrite.pdf">mod_rewrite</a> is a <strong>pain</strong> to work with. In order to debug you <strong>need</strong> <a href="http://httpd.apache.org/docs/2.0/mod/mod_rewrite.html#RewriteLog">RewriteLog</a> and if you&#8217;re on a <a href="http://natalian.org/archives/category/dreamhost/">shared host</a> you&#8217;re probably stuck with <strong>evil .htaccess</strong> where Rewritelog is:</p>
+
+<pre>
+.htaccess: RewriteLog not allowed here
+</pre>
+
+<p>So what does one do?</p>
+
+<p>While preparing alpha Debian packages for WP 1.6 I looked at the <strong>htaccess</strong> Wordpress generates.  It&#8217;s just:</p>
+
+<pre>
+RewriteRule . /index.php
+</pre>
+
+<p>I didn&#8217;t know you could do this. This makes it so much easier to de-crufy URLs. I started an <a href="http://comox.textdrive.com/pipermail/wp-hackers/2005-October/002986.html">interesting thread on Wordpress hackers which details this sane <span class="caps">URL</span> rewriting technique.</a></p>
+
+<p>Here is the <a href="http://trac.wordpress.org/file/trunk/wp-includes/classes.php">code that implements Wordpress <span class="caps">URL</span> rewriting in <span class="caps">PHP</span>.</a></p>

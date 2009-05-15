@@ -1,0 +1,18 @@
+[[!meta title="Stinkpad" ]]
+[[!meta date="2006-02-13 10:56:47" ]]
+<p>I love my thinkpad T30, though since <a href="http://ibm.com/"><span class="caps">IBM</span></a> sold it to <a href="http://www.lenovo.com">Lenovo</a> I have been feeling uneasy. I want to purchase a new laptop and I am having real concerns.</p>
+
+<ul>
+<li>Their website is awful</li>
+<li>There has been no innovation</li>
+<li>The specs are rubbish</li>
+<li>It should really be cheaper</li>
+</ul>
+
+<p>Go to there Website and try pull up specs of the X60 model or something. I kept going in circles.</p>
+
+<p>Seriously <strong>no innovation</strong>. The most innovative thing I can recall Lenovo have come up with is the stupid fingerprint reader (that doesn&#8217;t work in Debian) and the <strong>tablet</strong> PC. <strong>Tablet PCs are a complete waste of time.</strong> Everyone knows that. Look at an example of a <a href="http://ln.hixie.ch/media/comics/hixie/tantek-ben-steve-at-csswg-f2f-oct-2005.png">daft tablet drawing</a> you can produce. That&#8217;s so un-amazing.</p>
+
+<p>Ancient complaints of the Thinkpad are poor video cards and piss poor sound cards. The <a href="http://blog.drinsama.de/erich/en/2006021101-thinkpad-x60-not-sufficient-for-vista">basic specs currently aren&#8217;t enough to run Windows Vista.</a> That&#8217;s not encouraging.</p>
+
+<p>If you compare the Thinkpad with the <a href="http://www.apple.com/macbookpro/">MacBook Pro</a> the <a href="http://feh.holsman.net/articles/2006/01/27/is-apple-more-expensive">price is about the same</a> for the same specs.</p>

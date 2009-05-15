@@ -1,0 +1,17 @@
+[[!meta title="Social networking spam" ]]
+[[!meta date="2007-06-04 21:41:51" ]]
+<a href="http://www.flickr.com/photos/hendry/293726999/" title="Photo Sharing"><img src="http://static.flickr.com/114/293726999_437a0be157_m.jpg" width="240" height="180" alt="Last taxi" /></a>
+
+<p>Lately I get spam email from <span class="caps">WAYN</span> <a href="mailto:info@whereareyounow.net">info@whereareyounow.net</a> with a subject like:</p>
+
+<blockquote>
+You have 2 unread messages from "Friend's name"
+</blockquote>
+
+<p>Of course if you want to read the message (after clicking <strong>Read messages now</strong>), you need to register and hand over all your precious personal data.</p>
+
+<a href="http://alanskorea.blogspot.com/2006/11/spam.html">Alan complains about the same type of spam from Facebook</a>.
+
+<p>Assholes.</p>
+
+<p>Please friends, do not fall for such scams.</p>

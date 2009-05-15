@@ -1,0 +1,34 @@
+[[!meta title="Yongsan" ]]
+[[!meta date="2006-02-06 22:42:27" ]]
+<p>Yongsan is famed in South Korea for its electronics shops. The first thing that strikes you as that there are no prices on any of the items. This really puts me off. I love comparing prices and just getting a price from a salesman is a chore. It goes like this:</p>
+
+<ul>
+<li>Initial smiles and formalities in actually pointing out the item you&#8217;re interested in</li>
+<li>Getting the price usually means him tapping on a calculator for about 10 seconds</li>
+<li>Then you work out the price in your head. Here I worked in <span class="caps">USD</span> because dividing <span class="caps">WON</span> by 1000 is pretty easy</li>
+<li>Then you are naturally shocked by the initial bad price</li>
+<li>Then he taps some more on the calculator and gives a better price</li>
+<li>You struggle to memorise the price and the model number of the item you just looked at, and try to leave to find another price from another stall to compare with</li>
+<li>Salesman jumps around and gives you an even better price or wants to show you another product</li>
+</ul>
+
+<p>So it was a real chore. Together my sister and I wanted a:<br />
+* MP3 player<br />
+* Electronic Dictionary<br />
+* Wireless router as my network port on my laptop is a bit flaky<br />
+* <a href="http://natalian.org/archives/2006/02/03/dreading-the-upgrade/">Hard drive upgrade</a><br />
+* Mobile phone</p>
+
+<p>In Korea there are millions of different types of MP3 players. Without getting into too much detail we bought a 512mb Qoolqee digital audio player (E-D023&#8211;05-4165(B)) for 100USD. I didn&#8217;t think it was such a great price. I was quite worried it wouldn&#8217;t work on my Debian system, but in the end it did. Though there is a license.drm file in the root fs on the device which sent shivers up my spine.</p>
+
+<p>The electronic dictionary devices are surprisingly expensive. We settled on a Casio. I won&#8217;t publish the price and it was a birthday gift for a friend.</p>
+
+<p>Wireless routers don&#8217;t seem to be very popular here. I tracked down a Linksys WRT54G for 65USD. It works well and I am happy with it. The packaging asks you to run the CD before, but since it was obviously for Windows I didn&#8217;t bother. I set it up painlessly with default &#8216;admin, admin&#8217;. I still prefer a wired connection mind.</p>
+
+<p>I could only find like <strong>one</strong> place that was selling momentus hard drives in bulk. There was awful miscommunication and haggling. At first I painstakingly agreed on 160USD for 100GB and external <span class="caps">USB</span> enclosure. Then he goes and fetches me a Fujitsu drive. FS. Then he tries to sell me a 4200 Seagate. Eventually I got what I wanted. 5200 100GB momentus, but the price was 180USD for it (170USD without the case). Argh. It&#8217;s about 150USD in the states.</p>
+
+<p>I didn&#8217;t bother with the mobile phones in the end because there are just too many different models. And getting a price on each one and comparing was seriously too difficult. The Korean mobile system seems a little odd. It&#8217;s not compatible with the Japanese system or <span class="caps">GSM</span>. There aren&#8217;t sim cards, so after buying a phone, getting a contract seemed like another incredible mission. There isn&#8217;t any Nokia phones. Many Samsung built phones sold under different brand names. I didn&#8217;t bother to scrutinize the Web UA software. Last night I bumped into a couple of Finns who actually work for Nokia. I asked them what the hell are they doing here as they have like 0% market share in Korea. They said they are making partnerships with Samsung et al and selling the Symbian series 60 OS. <span class="caps">OMG</span>. He tells me that the series 60 platform is already deployed in places like Italy on Samsung phones. Oh dear. ;)</p>
+
+<p>Anyway back to Yongsan. I was looking for Thinkpads, but they only had new machines. I was hoping to find some good 2nd hand stock. No one seemed to have the new T60 or X60 models sadly. There was no Apple stuff to be found. Ok, I admit I did see a shuffle on sale, but that was it. I was hoping to drool over a MacPro.</p>
+
+<p>I really do not want to go back there! I was so exhausted and traumatized after haggling all day. The prices are not better than the states. I much prefer shopping on the Internet.</p>

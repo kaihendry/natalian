@@ -1,0 +1,33 @@
+[[!meta title="Ipod touch" ]]
+[[!meta date="2008-03-19 16:09:24" ]]
+<a href="http://www.flickr.com/photos/hendry/1507773371/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2115/1507773371_7a1310ffd1_m.jpg" width="240" height="180" alt="Ipod touch plugins" /></a>
+
+<ul>
+<li>Very similar to the <a href="http://natalian.org/archives/2007/07/11/iphone/">iPhone</a>, except without the voice comms functionality</li>
+<li>Picked up my 8G model for 324USD in <a href="http://natalian.org/archives/2007/10/02/san-francisco/">San Francisco</a></li>
+<li>UA string: &#8220;Mozilla/5.0 (iPod; U; <span class="caps">CPU</span> like Mac OS X; en) AppleWebKit/420.1 (KHTML, like Gecko) Version/3.0 Mobile/3A110a Safari/419.3&#8221; ... quite new in <a href="http://wiki.webvm.net/webkit/">comparison</a>. I wonder what to call the browser? &#8220;iPod Webkit&#8221;?</li>
+<li>Probably the best example of a capable Web platform on the mobile UA. Though that doesn&#8217;t stop people from making iphone specific sites. :(</li>
+<li>Only plugin is quicktime</li>
+<li>No Flash, No Java</li>
+<li>No copy and paste :/</li>
+<li><span class="caps">WIFI</span> in London really sucks, despite the <a href="http://www.thecloud.co.uk/page/3615">options</a></li>
+<li>Seems to have issues with some wifi setups to say the least. Wifi implementations are a bit varied tbh.</li>
+<li>Managed to crash it transparently a few times. Itunes asks to send the debug logs back to Apple.</li>
+<li>Noticed some odd navigation issues from time to time, like not being able to select links</li>
+<li>No <span class="caps">SVG</span> support in <a href="http://svg.webvm.net/">my tests</a></li>
+<li>Does have <span class="caps">PDF</span> support</li>
+<li>Touch navigation and its appropriate Web design is a world unto its own. The <a href="http://iphone.facebook.com">iphone Facebook</a> site is worthy of study.</li>
+<li>I can&#8217;t seem to select Flickr&#8217;s drop down menus. I never really liked them. Perhaps Flickr will change their menu styling??</li>
+<li>You need a .com to make typing in URLs easier :)</li>
+<li>Can&#8217;t figure out how to get rid of English (US) keyboard</li>
+<li><span class="caps">RSS</span> feeds are redirected and read in reader.mac.com</li>
+<li>Windowing is nice</li>
+<li>Like the idea that the bookmarks are synced up with my desktop. Bookmarks menu could be in itself a platform when I think about it.</li>
+<li>Typing in landscape mode is slightly better, but it still sucks a lot to type. Wish there was some nice portable bluetooth keyboard of some sort for this.</li>
+<li>Long wireless passwords with numbers and lEtTeRs is incredibly painful to type in. Please use sensible short passwords with <span class="caps">WPA</span>, without anything odd like irregular length encryption keys!!</li>
+<li>It has autocompletion. Not too sure what to make of it yet. I don&#8217;t seem to use it&#8230;</li>
+<li>Want to investigate certificates. Unsurprisingly it does not seem to support <span class="caps">SSL</span> certificate importing. Did a test with <a href="https://www.myopenid.com/settings_authentication">myopenid</a>.</li>
+<li>Nice panning, though it can render slowly. I think I miss the snappy minimap of the S60. S60 guys&#8230; sync up the browser.</li>
+<li>Big difference I think between this and other mobile platforms is the smooth <strong>upgrade process</strong> via Itunes.</li>
+<li>Be amazing if the headphones didn&#8217;t always tangle up</li>
+</ul>

@@ -1,0 +1,20 @@
+[[!meta title="Support" ]]
+[[!meta date="2004-04-14 11:08:58" ]]
+<p>I am quite interested in this <a href="http://necrotic.deadbeast.net/rt/">Request Tracker</a> (user: guest pass: guest) from <a href="http://bestpractical.com/">Best practical</a>.</p>
+
+<p>Ok, I don&#8217;t think anything can beat the <a href="http://www.debian.org/Bugs/">Debian <span class="caps">BTS</span></a> at present. But that is too Debian specific.</p>
+
+<p>If you run an IT support company you need to be the layer / middle man between Debian and your customer.</p>
+
+<p>Some other interesting packages :<br />
+<pre><br />
+phpgroupware-tts &#8211; The phpGroupWare trouble ticket system module<br />
+request-tracker1 &#8211; Request Tracker, a <span class="caps">GPL</span>&#8216;d Trouble Ticket System<br />
+request-tracker3 &#8211; Extensible trouble-ticket tracking system<br />
+rt3-clients &#8211; Mail gateway and command-line interface to request-tracker3<br />
+rtfm &#8211; RT <span class="caps">FAQ</span> Manager<br />
+</pre></p>
+
+<p>There is always <a href="http://www.bugzilla.org/">Bugzilla</a>, but I hate it&#8217;s interface.</p>
+
+<p>Food for thought.</p>

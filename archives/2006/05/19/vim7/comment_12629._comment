@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="222.106.128.78"
+ date="2006-05-19 23:26:00"
+ content="""
+<p>Oh yes, <span class="caps">CTRL</span>-x s works. But if I don&#8217;t like any choices, <span class="caps">CTRL</span>-c doesn&#8217;t break. Argh!</p>
+
+<tt>:help i_ctrl-x_s</tt>
+"""]]

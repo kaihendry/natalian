@@ -1,0 +1,26 @@
+[[!meta title="Linux for schools" ]]
+[[!meta date="2006-02-14 10:24:16" ]]
+<p>So my sister is working at a school where the computers are in a shocking state.</p>
+
+<p>All infected with viruses, spyware and malware. The machines either crawl along or are incredibly unstable. Some of them run some sort of virus protection program and I&#8217;ve seen one or two computers running two different anti-virus programs. On my travels I have seen countless infected Windows machines. It&#8217;s <a href="http://it.slashdot.org/it/06/02/09/1346212.shtml">incredible!</a></p>
+
+<p>And the worse thing about it, is that the Free Software geeks and outfits <strong>can&#8217;t seem to capitalise enough</strong> on it.</p>
+
+<p>So what can I do? <strong>The Computer Scientist.</strong> Well, not a lot. For example all the Windows machines are in Korean. I can&#8217;t figure out how to change win32 language. Can you?</p>
+
+<p>Plus, <strong>I don&#8217;t want to re-install Windows</strong>. I want to deploy some Linux based solution.</p>
+
+<p>So what are the requirements? They need to :<br />
+* print timetables (via a crappy Epson inkjet) with something like Office<br />
+* be able to play macromedia based games<br />
+* use a browser</p>
+
+<p>That&#8217;s it. It also can&#8217;t be more complex. No username or passwords please. We don&#8217;t want to have to train people to use a new system. Must be simple.</p>
+
+<p>Oh diddums. Can Director macromedia kid games be played in Linux? I don&#8217;t think so. Oh I wish these kids&#8217; software was on a N64 or something.</p>
+
+<p>There is only like 10 PCs in this school and installing them with Linux would take quite a bit of my time. I need some sort of centralised control tower where I can control deployment of my own customized Ubuntu based distro.</p>
+
+<p>I know very well about <a href="http://www.skolelinux.org/portal/index_html">SkoleLinux</a> but it is simply too complicated. No need for email. Outsource to Gmail and hosted service. Must be simple.</p>
+
+<p>All I can think of will be complex and painful. Grrr&#8230;</p>

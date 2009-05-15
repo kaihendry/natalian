@@ -1,0 +1,22 @@
+[[!meta title="Foreign Office has no clue" ]]
+[[!meta date="2006-01-17 13:03:58" ]]
+<p>I loathe the <a href="http://www.fco.gov.uk">British foreign office</a>. Absolutely hate them.</p>
+
+<p>I am not going to pain myself to recall my experience with them post-tsunami. Today I will just highlight how stupidly they don&#8217;t have the sense to have some sort of standard for naming consulate Web sites.</p>
+
+<p>Just search for <a href="http://www.google.com.au/search?q=british+high+commission">British High Commission</a> to get a taste of all the bizaare names of the consulates.</p>
+
+<ul>
+<li>britaus.net for Australia</li>
+<li>britainincanada.org for Canada</li>
+<li>britain.org.za for South Africa</li>
+<li>britishembassy.gov.uk/kazakhstan for Kazakhstan</li>
+</ul>
+
+<p>Why not use a sensible <span class="caps">URI</span> structure with a short domain such as <strong>bhc.gov.uk</strong> and <a href="http://en.wikipedia.org/wiki/Country_Codes">country codes</a>:</p>
+
+<ul>
+<li><a href="http://bhc.gov.uk/fi">http://bhc.gov.uk/fi</a> for Finland say</li>
+</ul>
+
+<p>This option would make it credible and somewhat guessable what the official site should be. Very sad current situation.</p>

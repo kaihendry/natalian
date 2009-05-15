@@ -1,0 +1,48 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="221.143.162.18"
+ date="2006-02-05 19:26:42"
+ content="""
+<p>I used a livecd and the cat method. It took a few hours to copy the 30GB across. The parted resize only too 30 minutes, which was great. Except I&#8217;ve yet to grow the root system. Oh crap.</p>
+
+<pre>
+frodo$ parted /dev/hda
+bash: parted: command not found
+frodo$ sudo parted /dev/hda
+GNU Parted 1.6.25.1
+Copyright (C) 1998 - 2005 Free Software Foundation, Inc.
+This program is free software, covered by the GNU General Public License.
+
+<p>This program is distributed in the hope that it will be useful, but <span class="caps">WITHOUT</span> <span class="caps">ANY</span> <span class="caps">WARRANTY</span>; without even the<br />
+implied warranty of <span class="caps">MERCHANTABILITY</span> or <span class="caps">FITNESS</span> <span class="caps">FOR</span> A <span class="caps">PARTICULAR</span> <span class="caps">PURPOSE</span>.  See the <span class="caps">GNU</span> General Public License for<br />
+more details.</p>
+
+<p>Using /dev/hda<br />
+(parted) print<br />
+Disk geometry for /dev/hda: 0kB &#8211; 100GB<br />
+Disk label type: msdos<br />
+Number  Start   End     Size    Type      File system  Flags<br />
+1       32kB    7000MB  7000MB  primary   ext3         boot<br />
+2       7000MB  100GB   93GB    extended<br />
+5       7000MB  8003MB  1003MB  logical   linux-swap<br />
+6       8003MB  100GB   92GB    logical   ext3<br />
+(parted) quit<br />
+Information: Don&#8217;t forget to update /etc/fstab, if necessary.</p>
+
+<p>frodo$ df -h<br />
+Filesystem            Size  Used Avail Use% Mounted on<br />
+/dev/hda1             6.5G  5.7G  411M  94% /<br />
+tmpfs                 380M     0  380M   0% /dev/shm<br />
+/dev/hda6              85G   18G   63G  22% /home<br />
+tmpfs                  10M  104K  9.9M   2% /dev<br />
+</pre></p>
+
+<p>Getting the new 100GB Seagate momentus hard drive into my Thinkpad proved far more tricky. It actually was stuck inside the <span class="caps">USB</span> enclosure, so I had to like bang it out!!! I hope I have not damaged it. I wonder if the 5 year warranty covers shock&#8230;</p>
+
+<p>Getting the old hard drive out it&#8217;s mount was also tricky as one the tiny screws had a bad thread. Eventually I got the Seagate in. Though I couldn&#8217;t get the black cover with the audio holes to click back in.</p>
+
+<p>FS!</p>
+
+<p>Anyway, I booted it up and the Momentus is <span class="caps">SERIOUSLY</span> <span class="caps">QUIET</span> compared to the Travelstar. I didn&#8217;t need to go into the <span class="caps">BIOS</span> to detect the new hard drive, it just worked. :)</p>
+"""]]

@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Chris Daniel"
+ subject="69.17.46.82"
+ date="2005-01-20 18:56:59"
+ content="""
+<p>Google&#8217;s first hit for WinSCP +resume is the winscp docs. They claim that the scp protocol disallows resuming, and to use sftp instead. Give winSCP a shot if you can, it is also scriptable despite being gui. <span class="caps">HTH</span>!</p>
+"""]]

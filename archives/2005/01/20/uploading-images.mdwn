@@ -1,0 +1,21 @@
+[[!meta title="Uploading images" ]]
+[[!meta date="2005-02-22 14:35:09" ]]
+<p>Hello from Chennai, India!</p>
+
+<p>How do I resume <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">scp</a> uploads from a Windows box?</p>
+
+<p><a href="http://groups-beta.google.com/group/comp.security.ssh/msg/25e0c74501ee1b14">No answer from google groups.</a></p>
+
+<p><strong>Update</strong></p>
+
+<p>For users:</p>
+
+<p>Ok so I need the client <a href="http://putty.dabase.com/winscp371.exe">WinSCP avoiding the stupid sourceforge download interface.</a> 1 meg! Argh, the Windows way.</p>
+
+<p>For admins:</p>
+
+<p>Ok, default sshd seems to include <span class="caps">SFTP</span>. That&#8217;s a relief.</p>
+
+<p>My average user does not require bash so their shell is /usr/bin/rssh with the configuration to allow scp, sftp and rsync.</p>
+
+<p><span class="caps">TODO</span>: Web application to allow users to change password on my system.</p>

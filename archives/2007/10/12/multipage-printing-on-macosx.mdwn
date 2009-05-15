@@ -1,0 +1,7 @@
+[[!meta title="Multipage printing on MacOSX" ]]
+[[!meta date="2007-10-15 07:27:18" ]]
+<a href="http://www.flickr.com/photos/hendry/1560823261/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2310/1560823261_b4d52c63ed_m.jpg" width="180" height="240" alt="4 page layout" /></a>
+
+<p>I searched around for &#8220;multipage pages per sheet&#8221; for printing from my Darwin system and didn&#8217;t find what I was looking for.</p>
+
+<p>Eventually I tracked the option down to the <strong>Layout</strong> section in the print dialog. Bump that up to 4 sheets per page and seriously start saving the world. ;)</p>

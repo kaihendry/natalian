@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Jamie Kitson"
+ subject="62.49.117.34"
+ date="2008-07-09 10:49:56"
+ content="""
+<p>It&#8217;s a good idea, I just don&#8217;t see how it can ever be practical. In your example you have a 10 digit number, I don&#8217;t know the possible combinations, but it must be huge, especially as you are using this for any character, and you need a different visual clue for <strong>any</strong> combination. Currently in your example you use, what, 16 colours? So 1 in 16 errors will go unnoticed (1, 12 and 13 all show cyan), not only will they go unnoticed, but worse the user will think that they have it right. You say that you can use any visual clue, you are not limited to colours, but I do not see how you can keep it simple enough and at the same time cover enough possible errors.</p>
+"""]]

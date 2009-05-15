@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Riku Voipio"
+ subject="192.100.124.218"
+ date="2004-07-15 18:30:00"
+ content="""
+<p>see <a href="http://bugs.debian.org/cgi-bin/pkgreport.cgi?which=src&amp;data=lists.debian.org&amp;archive=no">l.d.o</a> bug reports for discussing spam on the lists.</p>
+
+<p>For your own server, try updating to spamassassin 3.0 from experimental. It has new rules to detect various spammers obfuscation techniques. Frankly if you want to stick at the content-based filtering, you need to prepare yourself to update the filters often. Basicly a same kind of autoupdater like Antivirus-programs have, should be part of spamassassin.</p>
+
+<p>Another choice is to read the mailing lists via the gmane nntp gateway.</p>
+"""]]

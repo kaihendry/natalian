@@ -1,0 +1,15 @@
+[[!meta title="Another holiday" ]]
+[[!meta date="2003-05-29 09:59:59" ]]
+<p>Today I have been mostly browsing:</p>
+
+<ul>
+<li><a href="http://www.norvig.com/">Peter Norvig</a> </li>
+<li><a href="http://www.aaronsw.com/weblog/">Aaron Swartz</a> </li>
+<li><a href="http://www.oreillynet.com/pub/au/1054">Uche Ogbuji</a> </li>
+</ul>
+
+<p>I meant to write an essay about <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq05.005.htp">standards.</a></p>
+
+<p>I guess I will try do that over the weekend. Ended up reading up about AI and looking about some search/indexing stuff for <a href="http://www.cs.helsinki.fi/group/inex/"><span class="caps">INEX</span>.</a> I am really starting to hate textile(uche&#8217;s link is broken). Also, I need to get pingback working again.</p>
+
+<p><span class="caps">NARG</span> ! <span class="caps">NEED</span> <span class="caps">FOOD</span> Not using my machine since the <span class="caps">IBM</span> DeathStar is starting to smack down holes on my file system. Hence today (a holiday) I am at work (with NO <span class="caps">FOOD</span>). Sad, very sad. <a href="http://kauppa.iqs.fi/?s=&amp;k=38077">Ordered a 120 Gig Seagate btw with 3 year warranty</a> Link is broken again, FS.</p>

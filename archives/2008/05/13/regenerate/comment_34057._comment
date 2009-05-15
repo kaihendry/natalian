@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="farslayer"
+ subject="64.210.52.98"
+ date="2008-05-14 13:25:12"
+ content="""
+<p>Debian has posted a more complete instruction set for key regeneration..</p>
+
+<p><a href="http://wiki.debian.org/SSLkeys">http://wiki.debian.org/SSLkeys</a></p>
+
+<p>this affects more than just <span class="caps">SSH</span> keys, quite  along list actually.</p>
+"""]]

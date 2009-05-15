@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Simon"
+ subject="193.237.109.203"
+ date="2005-07-22 03:03:46"
+ content="""
+<p>The old Netscape use to take it&#8217;s profile data from <span class="caps">LDAP</span>, so I&#8217;d be surprised if it didn&#8217;t do this.</p>
+
+<p>Are you sure!</p>
+
+<p>The Netscape site use to include all the schema information you needed, but if you bought the Netscape^W IPlanet server it would &#8220;Just work&#8221;.</p>
+
+<p>But yes <span class="caps">NFS</span> would work, anything that pretends to be a filesystem could store the current directories (WebDav, <span class="caps">SSH</span>), although that might raise issues if you ever went back a version.</p>
+
+<p>I&#8217;ve been playing with moving Bookmarks, and related information via Webdav, for which there are extensions.</p>
+"""]]

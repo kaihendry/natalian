@@ -1,0 +1,9 @@
+[[!meta title="London" ]]
+[[!meta date="2004-09-29 13:27:24" ]]
+<a href="http://homecam.kitten-x.com/image/image.jpg">
+<img src="http://pictures.natalian.org/screenies/2004/sep/29/13:23:00/" alt="Kai in Jamie's Webcam" />
+</a>
+
+<p>Started my <a href="http://trip.natalian.org/">trip</a> yesterday. London today, Helsinki tomorrow. St. Petersburg Monday.</p>
+
+<p>Need to still write the conclusion to my <a href="http://www.cs.helsinki.fi/u/hendry/work/thesis/tktl/">thesis.</a></p>

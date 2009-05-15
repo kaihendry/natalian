@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Joose Vettenranta"
+ subject="82.181.82.163"
+ date="2006-03-04 03:20:34"
+ content="""
+<p>how about this: <a href="http://joose.iki.fi/hendry/joose.xml">http://joose.iki.fi/hendry/joose.xml</a></p>
+
+<p>very basic <span class="caps">SVG</span>, but showing it embedded and using embed tag.. and also screenshot to prove that it works.</p>
+
+<p>Browser: latest nightly build of webkit+safari</p>
+"""]]

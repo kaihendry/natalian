@@ -1,0 +1,14 @@
+[[!meta title="Silver surfer market" ]]
+[[!meta date="2007-02-13 05:27:15" ]]
+<p>The <span class="caps">BBC</span> mentioned the rising amount of <a href="http://news.bbc.co.uk/1/hi/technology/4582831.stm">silver surfers</a> in the Internet population.</p>
+
+<p>I&#8217;ve been observing the way my Dad uses the computer. He&#8217;s just turned 66. Today we find out his insurance has gone up for travelling. Asshole insurers. Anyhoo, I will just make a list of my observations, which I&#8217;ll add to if possible (feel free to add some in the comments):</p>
+
+<ul>
+<li>He loves silly emails from his friends with suspect looking email attachments of badly made PPTs. </li>
+<li>He seems a little more patient than I am with regards to loading and errors. I think he does skim pages like most other &#8216;surfers&#8217; do, so he isn&#8217;t patient in that sense of reading everything.</li>
+<li>He has problems with <a href="http://en.wikipedia.org/wiki/CAPTCHA">image captchas</a>. Please don&#8217;t implement them people. They <strong>suck</strong>.</li>
+<li>He is crap at typing. Perhaps there is room for some tool in regards to help older people type better?</li>
+<li>I don&#8217;t think a lot of current slick Web design appeals to older people. Sober designs like Reddit and Youtube are better, but still. I think simple social sites with room designed for fat fonts in topics that interest them, as well as me. :)</li>
+<li>I guess since he is so bad at typing, he is much more likely to browse than to search.</li>
+</ul>

@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Jean-Francois Gagnon Laporte"
+ subject="65.93.243.155"
+ date="2006-03-17 23:46:44"
+ content="""
+<p>Hi there,</p>
+
+<p>For your codec problems, you should add the universe and multiverse repository to your source.list and  search for the new gstreamer-0.10 packages with their good,bad,ugly classification. <span class="caps">IIRC</span> mp3 playback is in the ugly group (patent attached to it). I use totem for video playback and rhythmbox for audio and don&#8217;t have problems with the new gstreamer.</p>
+
+<p>Good luck !</p>
+"""]]

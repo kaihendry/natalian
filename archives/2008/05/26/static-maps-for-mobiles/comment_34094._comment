@@ -1,0 +1,19 @@
+
+[[!_comment format=mdwn
+ username="Rick Smith"
+ subject="193.34.187.17"
+ date="2008-05-27 08:55:38"
+ content="""
+<p>Hi there</p>
+
+<p>I thought you might be interested in Spacemark &#8211; it allows you to grab an address/postcode from any website and then save it to a list of saved places &#8211; known as Spacemarks. You can then retrieve and review your Spacemarks on your mobile (and on the Spacemark website too if you wish).</p>
+
+<p>As Spacemark has an open <span class="caps">API</span> at the back end, other organisations can save a Spacemark for you e.g. by calling 118xxx and similalry you can access Spacemarks from other clients e.g. your satnav system. It&#8217;s  also easy to save places between friends.</p>
+
+<p>If you have a moment, please register at www.spacemark.com &#8211; and then use the &#8216;tools&#8217; tab to download a bookmarklet for capturing places &#8211; and use the &#8216;mobile&#8217; tab to get a link on your phone.</p>
+
+<p>Hope you like it.</p>
+
+<p>Rgds<br />
+Rick</p>
+"""]]

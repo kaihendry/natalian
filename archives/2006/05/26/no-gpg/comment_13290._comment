@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Wouter Verhelst"
+ subject="195.144.77.46"
+ date="2006-05-26 23:09:06"
+ content="""
+<p>This isn&#8217;t called for, at all. Unless you can show me a way in which an attacker can abuse a compromised web of trust to upload trojaned binaries.</p>
+
+<p>Do remember that the <span class="caps">DAM</span> will <strong>never</strong> replace a key without checking, and without double-checking.</p>
+"""]]

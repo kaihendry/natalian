@@ -1,0 +1,24 @@
+[[!meta title="W3C Fun Run" ]]
+[[!meta date="2007-03-06 17:01:16" ]]
+<p>There are now four W3C mailing lists that concern mobile devices :</p>
+
+<p># <a href="http://lists.w3.org/Archives/Public/www-mobile/">www-mobile</a><br />
+ # <a href="http://lists.w3.org/Archives/Public/www-di/">www-di</a><br />
+ # <a href="http://lists.w3.org/Archives/Public/public-bpwg/">public-bpwg</a><br />
+ # <a href="http://lists.w3.org/Archives/Public/public-ddwg/">public-ddwg</a></p>
+
+<p><a href="http://lists.w3.org/Archives/Public/www-di/2005May/0002.html">The difference between the four are explained here.</a></p>
+
+<p>On my <a href="http://www.cs.helsinki.fi/u/hendry/msc.pdf">Masters thesis</a> around the bottom of page 36 is some more background:</p>
+
+<blockquote>
+The W3C working group most concerned with the mobile device, is the device independence work group. Previously this group originated from W3C's User Interface domain. The UI domain split into Document Formats and Interaction domain in July 2001. Document Formats was later was split again to Architecture and some parts moved in the Interaction domain. The interaction domain first featured the Mobile Access Activity which later was merged into the Device Independence Activity.  They have notably produced Composite Capability/Preference Profiles (CC/PP) and Authoring Techniques for Device Independence.
+</blockquote>
+
+<p>I suspect their new <a href="http://www.w3.org/2005/MWI/">Mobile Web Initiative</a> is a method to raise money.</p>
+
+<p>Their existing mailing lists have dismal traffic. Why create another 2 is beyond me. And the stuff W3C have produced like CC/PP is a sad joke. I would love them to start talking about JPEG2000 or something. Distinguishing between desktop and mobile is already dangerous, now we have a <strong>four way</strong> with mobiles.</p>
+
+<p><a href="http://whatwg.org/"><span class="caps">WHATWG</span></a> are doing it right in this regard. <a href="http://listserver.dreamhost.com/pipermail/whatwg-whatwg.org/">One mailing list.</a> Also, no exclusive member only links and thousands of dollars membership fee. It does not cost much to run one mailing list W3C.</p>
+
+<p><a href="http://www.technorati.com/cosmos/search.html?rank=&amp;url=http%3A%2F%2Fwww.w3.org%2F2005%2FMWI%2F">Lets watch Technorati for developments&#8230;</a></p>

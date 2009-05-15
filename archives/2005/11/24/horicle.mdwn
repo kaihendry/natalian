@@ -1,0 +1,17 @@
+[[!meta title="HOricle   " ]]
+[[!meta date="2005-11-24 08:04:17" ]]
+<p>A heartfelt email from a fellow Oracle administrator:</p>
+
+<blockquote>
+
+<p>There seems to be a bug in oracle enterprise manager (as well as the<br />
+fact that it&#8217;s so obviously written in java) that you cannot log in.</p>
+
+<p><span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span><br />
+<span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span><br />
+<span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span><br />
+<span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span> <span class="caps">FUCK</span></p>
+
+<p>I really didn&#8217;t need this today.</p>
+
+</blockquote>

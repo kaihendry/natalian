@@ -1,0 +1,18 @@
+
+[[!_comment format=mdwn
+ username="Ed Moore"
+ subject="82.68.66.137"
+ date="2007-10-10 10:05:10"
+ content="""
+<p>Kai,</p>
+
+<p>I was the Openwave speaker at MoMo and afterwards the two of us did have an interesting debate on the issues you raise. You wanted content owners to adopt standardised <span class="caps">HTML</span> for markup and the phone industry to push towards smarter browsers as found in the iPhone I recall.</p>
+
+<p>My point back for consideration was that most people don&#8217;t see the web experience to be a key deciding factor in buying a handset &#8211; go check a Carphone Warehouse brochure to check relevance. Because of this we may spend many years with browsers not much better than those available today so must look to make the experience as good as possible for these handsets, which in my terms means adaptation. Reading your thesis I note one conclusion:</p>
+
+<p>&#8220;However adaptive proxies do have the potential to extend the functionality of an UA by outsourcing expensive operations.&#8221;</p>
+
+<p>This is what our OpenWeb platform does; most current phone browsers do not run JavaScript so we do for example. If we do find a site that is in <span class="caps">HTML</span> with <span class="caps">CSS</span> we&#8217;ll do as you ask and just tidy it up.</p>
+
+<p>Happy to continue the debate next time we meet!</p>
+"""]]

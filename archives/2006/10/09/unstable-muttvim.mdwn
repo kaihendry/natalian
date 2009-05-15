@@ -1,0 +1,14 @@
+[[!meta title="unstable mutt+vim" ]]
+[[!meta date="2006-10-11 00:13:05" ]]
+<a href="http://www.flickr.com/photos/hendry/265390899/" title="Photo Sharing"><img src="http://static.flickr.com/115/265390899_05f727e401_t.jpg" width="100" height="75" alt="2006-10-09-182158_1024x768_scrot" /></a>
+
+<p>Using my preferred email environment lately has been really painful.</p>
+
+<ul>
+<li>Losing connection to my courier <span class="caps">IMAP</span> server at <a href="http://dreamhost.com/">dreamhost</a> (perhaps blame the wireless) and having to restart mutt</li>
+<li>vim hanging after a save (see the <a href="http://flickr.com/photos/hendry/265390899/">screenshot</a>)</li>
+</ul>
+
+<p>Does this affect other people? Any tips? My configs can be found in my <a href="http://svn.natalian.org/home/">$HOME</a></p>
+
+<p>Otherwise I have to use freakin&#8217; <a href="http://natalian.org/archives/2006/10/05/public-availability-status/">gmail and cope with its problems</a>.</p>

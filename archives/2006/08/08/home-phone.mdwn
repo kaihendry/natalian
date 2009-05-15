@@ -1,0 +1,49 @@
+[[!meta title="Home phone" ]]
+[[!meta date="2006-08-08 17:54:47" ]]
+<p>A history of the unsatisfactory nature of my parent&#8217;s home phone network.</p>
+
+<p>Once upon a time, things were simple albeit expensive with just our BT line. We discovered we could make cheaper foreign calls via competitive international carriers and everything was tolerable.</p>
+
+<p>Until I wanted Internet access. Since broadband was not an option 10 years ago, I went for 56k dialup. Our remoteness and our home phone network showed problems then.</p>
+
+<ul>
+<li>It was expensive to call <span class="caps">ISP</span></li>
+<li>Is was inconvenient, if not antisocial (block incoming calls, parents can&#8217;t make calls)</li>
+<li>Our signal was weak and it would tend to drop carrier every so often to my frustration</li>
+</ul>
+
+<p>Anyway, I lived with it, like many other people had to do. One day when we learnt we could have cheaper local calls which was still amounting to quite a fee with BT, we switched to Onetel. Now things get a bit more complex:</p>
+
+<ul>
+<li>We&#8217;re with vodafone with the mobile</li>
+<li>Alpha telecom for international calls</li>
+<li>BT for the line rental</li>
+<li>Nildram for the <span class="caps">ISP</span></li>
+<li>Onetel for the local calls, ummm&#8230; yeah</li>
+</ul>
+
+<p>Eventually we moved our mobile, international and <span class="caps">ISP</span> to Onetel, hoping for some order and convenience whilst managing our bills.</p>
+
+<p>So years pass with this setup. We have a great Siemens cordless phone for talking around the house, as well as other phones, slow pitiful Internet and a bit of complexity.</p>
+
+<p>Finally early in 2006 we can get Broadband! Whoop pee! Enter into a new era of even more complexity. I ordered the <a href="http://www.dabs.com/productview.aspx?Quicklinx=3QYJ">modem</a> and <span class="caps">ISP</span> package with <a href="http://www.plus.net">plus.net</a> and hoped my parents could set it up.</p>
+
+<p>Unfortunately they couldn&#8217;t. I had to ask for some local member of my Linux User Group to help my parents set it up. Once set up with all the PPPoA auth bullshit and other odd titchy settings, the broadband modem would still keep dropping the connection.</p>
+
+<p>What&#8217;s worse is that the other phone sockets in the house aren&#8217;t suitable for use, due to the scream of broadband on them. Not sure how to fix this. More splitters??!</p>
+
+<p>Finally my father had the sense to unplug all the phones from the network and finally the broadband modem maintained the connection. Great. Finally. We have broadband. It took just ten years to arrive. About the normal phones, well only one socket works now. So my father buys a 3 handset <span class="caps">DECT</span> 535 Trio pack from Philips.</p>
+
+<p>Sadly since my parents are bordering on deaf, they didn&#8217;t initially notice how poor the sound quality is. Digital is supposed to be better, right? No it is actually worse than the old Siemens analogue cordless. What&#8217;s worse is that the Philips digital phone actually just drops the call sometimes. It&#8217;s a very complicated piece of kit. In built answer phone (WHY?) and functions we all have no idea how to intuitively use. They all once knew how to transfer a phone call to another phone, but we&#8217;ve since forgot how to do it. It&#8217;s that complicated. It&#8217;s that buggy.</p>
+
+<p>Months pass and since I am home from my travel, I can&#8217;t have a clear conversation with anyone using the Philips. It&#8217;s just terrible. Plugging in a wired corded phone into the broadband socket just about makes the call tolerable. Hence cutting out all the other 3 digital handsets.</p>
+
+<p>I&#8217;ve since complained and argued with my parents so much, they&#8217;ve decided to send the dodgy Philips kit back. But what the <span class="caps">HELL</span> are we going to get as a replacement I wonder??? The same complicated Philips pack??</p>
+
+<p>Months ago I was living in Korea. In Korea everyone has mobiles and even with special long distance calling cards, it was quite expensive to call <a href="http://prazefarm.co.uk/">home</a>. However in Korea everyone has 100mbit Internet connections. That&#8217;s why via <span class="caps">VNC</span> I setup Skype for my parents.</p>
+
+<p>Unfortunately my parent&#8217;s computer is piece of crap. The sound card didn&#8217;t work and I was left with no choice, but to buy a Skype phone, a Linksys CIT200. That made their computer not only crap, but also <a href="http://natalian.org/archives/2006/08/04/stumbling-to-freedom/">depedent on Windows</a>. :( I was going to install dapper on their machine to at least get rid that stupid virus checker.</p>
+
+<p>Anyway my parents love Skype. Why? Because the sound quality is actually better than the Philips <span class="caps">DECT</span> phones around the house. I would argue the sound quality on Skype is much worse than those &#8220;international card calling&#8221; days.</p>
+
+<p>We&#8217;ve gone digital and things have become much more complex and voice calling is very poor.</p>

@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="222.106.128.78"
+ date="2006-06-07 01:43:46"
+ content="""
+<p>hcard is a 1:1 mapping of vcard that unlike vcard is <strong>publishable</strong> on the Web.</p>
+
+<p>So with hcard it is super easy to convert the information to a vcard. That&#8217;s pretty much the philosophy behind hcard as I understand it. So you could interchange hcard with vcard. Just as unlikely companies will do it.</p>
+"""]]

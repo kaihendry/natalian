@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Adrian Bridgett"
+ subject="81.5.177.202"
+ date="2006-07-21 22:24:15"
+ content="""
+<p>To be fair I had this exact problem with Debian unstable (the font issue) since my box started out so long ago (I&#8217;ve never reinstalled the box and it&#8217;s running unstable for over 10 years now!)  FontPath in /etc/X11/xorg.conf needs to be /usr/share/fonts/X11/...  (I think it was /usr/lib/X11/fonts/... on my old config.</p>
+"""]]

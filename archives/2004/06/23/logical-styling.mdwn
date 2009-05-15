@@ -1,0 +1,27 @@
+[[!meta title="Logical styling" ]]
+[[!meta date="2004-06-23 20:09:16" ]]
+<a href="http://natalian.org/archives/2004/06/22/ua-font/">From my previous post</a> you can probably guess I am a bit obsessed with <a href="http://dabase.com/style.xhtml">text formatting</a> right now.
+
+<p>How should you display logical text? Text which has say more meaning or importance than another piece?</p>
+
+<ul>
+<li>Bigger font size</li>
+<li><strong>Bolding</strong></li>
+<li><em>Italics</em></li>
+<li>Colour</li>
+<li><blink>Blink</blink></li>
+<li><marquee>Marquee</marquee></li>
+<li>Underlining</li>
+</ul>
+
+<p>Blink and marquee (in the mobile profile btw) are extremely frustrating for desktop users, but&#8230; they work great on a mobile. Mobile displays must be stupidly eye catching. I still probably wouldn&#8217;t use them. Time dependence = Accessibility violation</p>
+
+<p>Font size variation does not work <span class="caps">IMO</span>. My Dad always wants the largest font on his palm. If an entire text is at its largest font setting then it will not vary, and hence lose the meaning.</p>
+
+<p>Italics for some reason is a bit strange. Firstly is not implemented on most Nokia mobiles. Secondly, what does its typeface <strong>mean</strong>? Under CSS1 it&#8217;s just a style. I just looked through a newspaper. It is never used.</p>
+
+<p>Bolding or weighting is probably the best way to go. It&#8217;s well supported and for me at least it is unambiguous. It is something important.</p>
+
+<p>Logical markup colouring is tricky. Colour blindless is too difficult to cater for. But colour is highly effective and well implemented (a little slow to fill colour on mobiles mind). It is difficult to be consistent too with the scheme. Using possibly gradients (with the help of a background) for distinguishing headers whilst using a large font might be the way to go. Although gradients would have to be quite different.</p>
+
+<p>Underlining! Argh. I hate how some mobile profiles implement it. Underlining on the web medium is for hyperlinks. Plain and simple. End of story.</p>

@@ -1,0 +1,13 @@
+[[!meta title="TODO" ]]
+[[!meta date="2004-03-25 19:27:54" ]]
+<p>Personal Python Software Projects <span class="caps">TODO</span>:</p>
+
+<p>Rewrite <a href="http://natalian.org/thumb/">gallery</a> software. (I&#8217;ll append my design notes sometime)</p>
+
+<p>Write new <a href="http://www.math.montana.edu/Rweb/">Rweb</a> so it can handle <span class="caps">GET</span> requests.</p>
+
+<p>Fix my <a href="http://aat.dabase.com/">acronym expander</a> and perhaps prepare source for release.</p>
+
+<p>Write a <a href="http://tinyurl.com/">TinyURL</a> type app which has <span class="caps">XMLRPC</span>/API interface and a bonus would be a privacy policy.</p>
+
+<p>I will try mod_python again, and hopefully I&#8217;ll have more luck than I had in the past in getting it working. Need a public view of subversion repo (need to hack robots.txt support onto ViewCVS).</p>

@@ -1,0 +1,17 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-12-02 14:05:02"
+ content="""
+<p>OH <span class="caps">SUPER</span> <span class="caps">FUCKING</span> <span class="caps">GREAT</span></p>
+
+<a href="http://wiki.apache.org/tomcat/Tomcat/Jk2Connector" rel="nofollow">JK2 is deprecated</a> for mod_jk1.2
+
+<a href="http://tomcat.apache.org/connectors-doc/news/20041100.html#20041115.1" rel="nofollow">
+Reasons include configuration complexity!!</a>
+
+<p>And here is the related <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=296444" rel="nofollow">Debian bug</a> about it.</p>
+
+<p>I should be using, libapache2-mod-jk, but it&#8217;s not in sarge. Ok, just built a <a href="http://static.natalian.org/2005-12-01/">libapache2-mod-jk backport</a> here.</p>
+"""]]

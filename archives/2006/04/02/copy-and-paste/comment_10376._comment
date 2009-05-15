@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="222.106.128.34"
+ date="2006-04-05 10:26:09"
+ content="""
+<p>Just saw this in my blogroll this morning:</p>
+
+<p><a href="http://berserk.org/2006/04/04/copy-or-cut-and-paste-firefox-bug/">http://berserk.org/2006/04/04/copy-or-cut-and-paste-firefox-bug/</a></p>
+
+<p>Many mice have the middle mouse button implemented as the scroll wheel. Anyone who doesn&#8217;t have nimble figures can trigger not only a middle mouse event, but a couple of scroll events too! This can lead to all sorts of unwanted behaviour. Especially in firefox.</p>
+
+<p>So I copy a <span class="caps">URL</span> and I get a popup from Klipper asking what UA I want to launch? How daft. I use one browser, I don&#8217;t like popups and I want my clipboard to work.</p>
+
+<p>I didn&#8217;t complain about &#8216;middle mouse click in Firefox&#8217;. I think some other people mentioned there was something wrong it. My complaint for Firefox is copying text inside A <span class="caps">HREF</span> links. I get this strange drag icon that disrupts my navigation.</p>
+"""]]

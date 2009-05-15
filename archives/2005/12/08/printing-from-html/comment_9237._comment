@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Joose"
+ subject="193.94.50.136"
+ date="2005-12-08 17:50:52"
+ content="""
+<p>When webpage is <span class="caps">XHTML</span>, it would be easy to create <span class="caps">XSL</span>-T template for changing that <span class="caps">XHTML</span> to <span class="caps">XSL</span>-FO.. then eather browser would convert that <span class="caps">XSL</span>-FO to some more suitable form (PDF,PS,PCL&#8230;) or have the server do it (there are free implementations of <span class="caps">XSL</span>-FO renderers out there) if browser is incapable of doing it by itself.</p>
+
+<p>I use <span class="caps">XSL</span>-FO to create very nice looking <span class="caps">PDF</span>&#8216;s. <span class="caps">PDF</span>&#8216;s can have vector graphics in it you know!</p>
+
+<p>- Joose</p>
+"""]]

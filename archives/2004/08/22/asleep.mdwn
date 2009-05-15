@@ -1,0 +1,7 @@
+[[!meta title="If not asleep: alert" ]]
+[[!meta date="2004-08-23 16:56:37" ]]
+<p>I have irregular sleeping patterns like a lot of geeks and it would be so nice if my mobile did not wake me up when I am asleep.</p>
+
+<p>How can mobiles know when humans are sleeping?</p>
+
+<p>Then again, when my sleep is interrupted I do tend to recall my dreams better.</p>

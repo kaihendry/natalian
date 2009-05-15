@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Benjamin Seidenberg"
+ subject="162.39.87.168"
+ date="2005-12-20 21:50:27"
+ content="""
+<p>For me the solution was to go into 2.4, apt-get install kinitramfs-tools, dpkg&#8212;purge yaird, add &#8220;ide-core&#8221; and my motherboard&#8217;s <span class="caps">IDE</span> driver (or &#8220;ide-generic if you can&#8217;t find it, but that driver <span class="caps">SUCKS</span>) to /etc/mkinitramfs/modules, dpkg-reconfigure linux-image-2.6.14&#8211;2-arch and reboot.</p>
+"""]]

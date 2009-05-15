@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="125.131.161.40"
+ date="2006-05-26 16:35:20"
+ content="""
+<p>Contributions can be rolled back, like a <strong>Wiki</strong> if someone uploads malware.</p>
+
+<p>Time delay like what already happens with Unstable->Testing->Stable can make sure people notice any malware uploads.</p>
+
+<p>The <strong>Web of trust</strong> is broken on so many levels. I dispute trust elements when you just meet someone and see their ID card. I dispute the &#8220;Web&#8221; where other people make that decision for me.</p>
+
+<p>The technology itself is braindead. How many people keep their <span class="caps">GPG</span> key on a networked machine? More than most would like to admit.</p>
+
+<p>The alternative is Wiki like contributions.</p>
+"""]]

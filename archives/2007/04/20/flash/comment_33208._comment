@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="82.27.228.178"
+ date="2007-04-26 22:22:21"
+ content="""
+<p>Hi!</p>
+
+<p>Yes it can run from <span class="caps">USB</span>. Download the .img and give it a try. <a href="http://download.webconverger.com/">http://download.webconverger.com/</a></p>
+
+<p>Though <span class="caps">USB</span> boot support seems only present in machines built in the last year or two in my experience.</p>
+
+<p>The default Webconverger does include the non-free Flash, so on &#8220;Web 2.0&#8221; Webconverger &#8216;just works&#8217;!</p>
+
+<p>Best wishes,</p>
+"""]]

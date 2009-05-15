@@ -1,0 +1,41 @@
+[[!meta title="Australian ISPs" ]]
+[[!meta date="2005-09-17 18:54:10" ]]
+<pre>
+melbourne$ traceroute hendry.iki.fi
+traceroute to hendry.iki.fi (83.146.8.59), 30 hops max, 38 byte packets
+ 1  192.168.0.254 (192.168.0.254)  0.224 ms  0.627 ms  0.116 ms
+ 2  61.9.128.251 (61.9.128.251)  5.587 ms  6.261 ms  6.620 ms
+ 3  adelaide-atm.vic.bigpond.net.au (61.9.128.145)  7.324 ms  6.013 ms  8.093 ms
+ 4  61.9.129.6 (61.9.129.6)  8.807 ms  6.990 ms  6.984 ms
+ 5  GigabitEthernet2-10.exi2.Melbourne.telstra.net (139.130.0.5)  6.634 ms  6.954 ms  7.931 ms
+ 6  GigabitEthernet2-9.exi1.Melbourne.telstra.net (203.50.77.33)  6.927 ms  5.917 ms  6.034 ms
+ 7  GigabitEthernet2-2.exi-core1.Melbourne.telstra.net (203.50.77.13)  7.052 ms  6.713 ms  7.220 ms
+ 8  Pos15-0.chw-core2.Sydney.telstra.net (203.50.6.37)  15.231 ms  19.333 ms  13.641 ms
+ 9  10GigabitEthernet1-0.oxf-core1.Sydney.telstra.net (203.50.6.2)  13.667 ms  13.682 ms  14.330 ms
+10  10GigabitEthernet6-0.syd-core04.Sydney.net.reach.com (203.50.13.34)  15.515 ms  14.034 ms  15.137 ms
+11  i-5-0.syd-core02.net.reach.com (202.84.144.249)  15.021 ms  15.130 ms  15.116 ms
+12  i-0-0.wil-core02.net.reach.com (202.84.144.101)  87.804 ms  88.678 ms  88.051 ms
+13  i-2-0.dal-core01.net.reach.com (202.84.143.66)  105.450 ms  104.138 ms  113.829 ms
+14  level3.Dal-core01.net.reach.com (134.159.63.142)  104.931 ms  103.841 ms  104.742 ms
+15  ae-1-54.bbr2.Dallas1.Level3.net (4.68.122.97)  105.148 ms  106.163 ms  104.682 ms
+16  4.68.128.210 (4.68.128.210)  147.005 ms  127.075 ms  120.121 ms
+17  as-0-0.bbr1.London2.Level3.net (4.68.128.101)  154.690 ms  160.077 ms  156.726 ms
+18  as-0-0.bbr1.London1.Level3.net (4.68.128.109)  157.392 ms  156.953 ms  157.385 ms
+19  ge-3-0-0-0.gar1.London1.Level3.net (4.68.128.122)  155.321 ms  155.926 ms  159.832 ms
+20  195.50.117.106 (195.50.117.106)  154.008 ms  158.532 ms  155.584 ms
+21  83.146.19.17 (83.146.19.17)  160.787 ms  159.563 ms  157.557 ms
+22  ge-3-0.31.cll-bas-004.bddsl.net (83.146.17.67)  155.681 ms  158.597 ms  160.596 ms
+23  host-83-146-8-59.bulldogdsl.com (83.146.8.59)  158.576 ms  159.810 ms  159.139 ms
+</pre>
+
+<p>So all the Internet has to go through America before it hits Europe. Helsinki feels so far away now. Australian ISPs seem big on bandwidth caps too. Nasty. I miss my 1mbit line in Finland!</p>
+
+<p>I am having major problems getting Internet. Libraries require you to be registered before going off to a website, for fear of <strong>hacking</strong>. Well, I am not an Australian citizen, nor a permanent resident.</p>
+
+<p>I hate Net cafe&#8217;s. They usually charge the earth and have some spyware installed. Typical rate, anything above 3AUD an hour.</p>
+
+<p>Oh well, it is not as expensive as getting Wireless access from my laptop. It&#8217;s just 13.20AUD an hour. Cheap! <span class="caps">NOT</span>.</p>
+
+<p>As for getting broadband at home, you need to sign up for 12month contract. Hmm, I am not going to be here 12 months. Nor do I have a credit card. Oh gosh, see what I am getting at?</p>
+
+<p>It is difficult to be free.</p>

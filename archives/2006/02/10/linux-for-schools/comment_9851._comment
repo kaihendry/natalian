@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="221.143.162.18"
+ date="2006-02-12 14:33:33"
+ content="""
+<p>On the topic of <span class="caps">LTSP</span>. <span class="caps">LTSP</span> doesn&#8217;t take advantage of the client&#8217;s hard drive and other client resources. That&#8217;s silly.</p>
+
+<p>Every PC has a hard drive. It is folly not to use it.</p>
+
+<p>Efficient use of client resources makes client machines startup etc. so much faster and the whole experience much more responsive.</p>
+
+<p>Admittedly right now, <span class="caps">LTSP</span> solutions are much easier to deploy. Though hopefully d-i efforts will change that.</p>
+"""]]

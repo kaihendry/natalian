@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="mike"
+ subject="203.109.154.193"
+ date="2007-01-18 00:39:32"
+ content="""
+<p><span class="caps">FYI</span>,<br />
+The 2.0.7 release does fix the security bug you posted above :)<br />
+(<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=407289">http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=407289</a>)</p>
+
+<p>Cheers, and nice Thinkpad Stack!</p>
+"""]]

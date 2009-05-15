@@ -1,0 +1,11 @@
+[[!meta title="Google goes flash" ]]
+[[!meta date="2005-09-28 13:35:42" ]]
+<p><strong>I hate Flash.</strong></p>
+
+<p>I guess I am not the only one who noticed that <a href="http://blogsearch.google.com/blogsearch?hl=en&amp;q=google+video+flash+vlc&amp;btnG=Search+Blogs">Google has gone for Flash.</a></p>
+
+<p>That&#8217;s a real shame for opensource.</p>
+
+<p>If <a href="http://www.videolan.org/vlc/"><span class="caps">VLC</span></a> wasn&#8217;t good enough, why not invest some money? You&#8217;ve got loads Google.</p>
+
+<p>I think the real issue is probably because Flash is pre-installed. That&#8217;s the reality. Whoever gets their stuff shipped with Microsoft Windows is a winner.</p>

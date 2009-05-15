@@ -1,0 +1,19 @@
+[[!meta title="Web operating systems" ]]
+[[!meta date="2007-05-23 14:31:16" ]]
+<a href="http://www.flickr.com/photos/hendry/507865862/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/213/507865862_1b6c031e06_m.jpg" width="240" height="180" alt="My new office" /></a>
+
+<p>I&#8217;ve been struggling for a tagline for <a href="http://webconverger.com/">Webconverger</a>.</p>
+
+<p>The previous tagline &#8220;Webconverger is a free, up-to-date Web browser kiosk live system&#8221;, was a bit of a mouth full. Now, I&#8217;ve decided that a &#8220;Web operating system&#8221; best describes Webconverger. Webconverger isn&#8217;t just a &#8220;kiosk&#8221;...</p>
+
+<p>The reason why I didn&#8217;t call Webconverger a <a href="http://en.wikipedia.org/wiki/Web_operating_system">Web operating system</a> initially, was because I didn&#8217;t want to confuse anyone.</p>
+
+<a href="http://www.flickr.com/photos/hendry/501846577/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/227/501846577_b078ee781f_m.jpg" width="240" height="180" alt="Hannux on Cyworld with HY roundgothic" /></a>
+
+<p>You see I&#8217;ve read blogs which talk about <a href="http://en.wikipedia.org/wiki/Webtop">Web desktops</a> or rather Web applications that emulate desktops, &#8220;operating systems&#8221;. I think for such Web applications, I&#8217;ll call them <strong>Web desktops</strong>, to be called an <strong>operating system</strong> is just abuse.</p>
+
+<p>Calling Web desktops &#8220;operating systems&#8221; tarnishes the good name of <a href="http://en.wikipedia.org/wiki/Operating_systems">operating systems</a>, when silly Web applications emulate broken dead <span class="caps">WIMP</span> win32 environments. I can&#8217;t be the only one that hates Windows. I&#8217;m not talking about Microsoft Windows. I am talking about overlapping Windows windows. :)</p>
+
+<p>So I have a little fight on my hands with <a href="http://en.wikipedia.org/">Wikipedia</a> and the entry on <a href="http://en.wikipedia.org/wiki/Web_operating_system">Web operating system</a>s. Hopefully someone agrees with me that <a href="http://webconverger.com/">Webconverger is a Web OS</a>.</p>
+
+<p>Sidenote: I&#8217;m in the process of releasing the <a href="http://debian-live.alioth.debian.org/">Debian-live</a> etch based <a href="http://webconverger.com/">Webconverger</a> 2.15 (<a href="http://download.webconverger.com/webconverger.iso">download</a>) which features a new <a href="http://flickr.com/photos/hendry/510000876/">textless progress bar</a> and reset <a href="http://webconverger.infogami.com/Features">feature</a>.</p>

@@ -1,0 +1,40 @@
+[[!meta title="Opera9" ]]
+[[!meta date="2006-06-29 09:17:09" ]]
+<p>Another ex-Bath student <a href="http://simon.incutio.com/archive/2006/06/20/opera9">Simon Willison let me know about Opera9</a> via the magic of <span class="caps">RSS</span>. Later I noticed my ex-collegue and Opera employee <a href="http://exploding-planet.com/weblog/2006/06/21/Opera_9">Allan Clements</a> announced Opera9.</p>
+
+<p>I&#8217;ve used Opera9 quite a lot this week and it is still running alongside Firefox, though admittedly usually with less tabs. The <a href="http://www.opera.com/docs/changelogs/linux/900/">new features</a> that most interested me is <a href="http://whatwg.org/specs/web-forms/current-work/"><span class="caps">WHATWG</span> Web Form 2.0</a> support. In fact I&#8217;ve already implemented the form controls on this blog. Try enter your email incorrectly whilst commenting from Opera9.</p>
+
+<p>Also my <a href="http://surink.com"><span class="caps">URL</span> shortening service surink</a> sports WF2.</p>
+
+<p>Overall I like the product, but the usual proprietary software complaints kick in. For me the discussion about Opera is difficult. I had a look around at their Web forums. Hmm, not for me. Couldn&#8217;t find a mailing list. The google group <a href="http://groups.google.com/group/opera.linux">opera.linux</a> seems to be about installation issues. Lastly Alan doesn&#8217;t bother to engage in dialog with me via <a href="http://exploding-planet.com/weblog/2006/06/21/Opera_9">his blog comments</a>!  I can&#8217;t wait to spank Kamakaze in some <span class="caps">FPS</span> one day. ;)</p>
+
+<p>I have noticed an interesting <a href="http://my.opera.com/WebApplications/blog/">Web application blog</a> but it seems to go on about widgets largely. Widgets don&#8217;t interest me as I am a hardened IonWM user who believes floating windows or widgets are just annoying.</p>
+
+<p>Anyway I have a ton of questions and I&#8217;ll just list them here for my reference.</p>
+
+<p># How much of WF2 is supported?<br />
+ # Where can I find WF2 demos? Or test cases. Come on, there must be tests&#8230;<br />
+ # Can I assume &#8220;small screen&#8221; view is like Opera mini 2.0? I don&#8217;t think I can.<br />
+ # What is the status of <span class="caps">SVG</span>? Why does it look different to Firefox&#8217;s rendering?<br />
+ # Does it support <span class="caps">SVG</span>-T?<br />
+ # Do I really have to download an <span class="caps">SDK</span>?<br />
+ # Is the <span class="caps">SDK</span> Win32 centric? Because I only develop under Debian. A Debian package would be nice.<br />
+ # Why do they bother with an email client. Email should be encapsulated in a Web application<br />
+ # Why doesn&#8217;t chat in Gmail work?<br />
+ # Why does my <a href="http://hendry.iki.fi">homepage</a> render the bottom border funny (FF doesn&#8217;t)<br />
+ # Why no audio support in Linux<br />
+ # How much of <a href="http://whatwg.org/specs/web-apps/current-work/">Web app 1.0</a> is implemented? Demos?<br />
+ # Feeds also should be implemented in a Web application. Feed reader bloats the browser<br />
+ # How come their Java <a href="http://www.opera.com/products/mobile/operamini/demo.dml">Mini 2.0 demo</a> doesn&#8217;t work, when &#8220;About Opera&#8221; under linux seems to think I have a Java runtime installed<br />
+ # What image codecs does it support. Will it support JPEG2000?<br />
+ # I hate having to hover my mouse over a link to see what the link points to<br />
+ # Why on earth did they implement Ad blocking. Surely they are going to piss some corp off with that.<br />
+ # Why-oh-why skins<br />
+ # How the hell do I customize the search widget, for Wikipedia/Debian<br />
+ # Be good to know how or if greasemonkey/extensions might be compatible with FF<br />
+ # The <span class="caps">URL</span> history isn&#8217;t as good as FF for some reason<br />
+ # On some Web pages the fonts don&#8217;t look very good.</p>
+
+<p>I just want to test the latest Web technologies out in Opera, with a timeline to when Opera&#8217;s mobile or DS or other ports might support said features. Is that too much to ask?</p>
+
+<p>I am so demanding considering who I work for. ;)</p>

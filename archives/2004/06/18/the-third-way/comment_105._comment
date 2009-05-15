@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Kai"
+ subject="217.30.176.161"
+ date="2004-07-20 12:15:17"
+ content="""
+<p>Damn all of these are quite similar&#8230;</p>
+
+<p>Ok proxy adaption is automated. It is useful, but it is complex and dependent on the UA.</p>
+
+<p>Templating usually combines logic and content to generate device dependent <span class="caps">HTML</span> or formats like <span class="caps">WML</span>.</p>
+"""]]

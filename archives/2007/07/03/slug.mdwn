@@ -1,0 +1,19 @@
+[[!meta title="Slug" ]]
+[[!meta date="2007-07-03 22:06:00" ]]
+<a href="http://www.flickr.com/photos/hendry/704588150/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1360/704588150_210f6d48f7_m.jpg" width="240" height="180" alt="NAS installing with Debian 4.0" /></a>
+
+<p>Bought a <a href="http://en.wikipedia.org/wiki/NSLU2">NSLU2</a> from <a href="http://www.ebuyer.com/customer/search/?qfind=nslu2&amp;x=0&amp;y=0">Ebuyer</a>. Was about ~50GBP hence qualifying for free delivery with 5 working days. I don&#8217;t know why, but according to the packaging it was sent &#8220;next day&#8221; on the 4th day(!?). The device came direct from the usual suspects <a href="http://www.computer2000.co.uk">Computer2000</a>, one of the oldest and biggest computer part distributors in the UK. Sidenote: I wonder if Ebuyer can claim to have stock, when it&#8217;s actually their distributors stock?</p>
+
+<a href="http://www.cyrius.com/debian/nslu2/install.html">tbm's slug install page</a> aided my Debian etch install. <a href="http://static.natalian.org/2007-07-03/slug.txt">This slug</a> has a 80G external USB hard drive attached with 10G ext3 for Debian and the rest for my legacy pr0n collection on fat32. I've already configured nfs and it seems to work well. 539M Debian install for that... bloat.
+
+<p>I am worried <a href="http://static.natalian.org/2007-07-03/slug.txt">I might have not have given it enough swap</a>, so now I am thinking of how to ramp up the memory. I&#8217;ve reassuringly discovered my slug is already operating at full 266 speeds. It would be good if this device can handle btdownloadcurses. Other ideas is to setup a logging server on it. Also I&#8217;d like to familiarise myself better with the architecture. I think I&#8217;ve seen these Xscale&#8217;s in at least one mobile phone. :)</p>
+
+<p>Other hardware purchases I am thinking of:<br />
+* a <a href="http://www.aircrack-ng.org/doku.php?id=compatibility_drivers"><span class="caps">USB</span> wireless device</a> &#8211; <a href="http://surink.com/cyd">Anyone knows what chipset a Linksys WUSB54GR sports and if it is compatible with aircrack?</a><br />
+* Another <span class="caps">USB</span> stick<br />
+* Another huge <span class="caps">USB</span> external drive for the slug<br />
+* <span class="caps">USB</span> serial for connecting up my etrex primarily</p>
+
+<p>I wish this slug had a <span class="caps">USB</span>-style power supply.</p>
+
+<p>As for backups, I want to switch everything I have over to LVM2 eventually and use its snapshot features. Any tips or suggestions, let me know. I am not a fan of <span class="caps">RAID</span> solutions btw.</p>

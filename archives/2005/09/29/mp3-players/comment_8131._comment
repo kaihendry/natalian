@@ -1,0 +1,13 @@
+
+[[!_comment format=mdwn
+ username="abi"
+ subject="213.155.82.132"
+ date="2005-09-29 16:41:17"
+ content="""
+<p>hi,</p>
+
+<p>accessing the nano is quite easy. First off, you use it like a usb mass storage device,<br />
+over here, /dev/sda2 contains the data. Then there are a bunch of tools you can use to<br />
+manage your playlists and iTunes Database (gtkpod for X, gnupod-tools for command line<br />
+and several perl libraries like Mac::Ipod::Gnupod if you want to hack your own).</p>
+"""]]

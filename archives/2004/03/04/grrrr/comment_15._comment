@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Kai Hendry"
+ subject="217.30.176.161"
+ date="2004-03-04 18:41:49"
+ content="""
+<p>The problem seemed to be the &#8221;&#8212;limit 5/s&#8221;. I don&#8217;t quite understand why. Man pages refers to a module.</p>
+
+<p>The package has a few bugs:</p>
+
+<p><a href="http://packages.debian.org/unstable/base/ifupdown">http://packages.debian.org/unstable/base/ifupdown</a></p>
+"""]]

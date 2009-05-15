@@ -1,0 +1,18 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="90.152.10.135"
+ date="2008-09-29 14:54:34"
+ content="""
+<p>Little gotchas? A simple <span class="caps">HTML</span> page will work. It won&#8217;t be pixel perfect for the perfectionist who does not understand how the Web scales.</p>
+
+<p><span class="caps">WAP</span> is not the Web. Neither is <span class="caps">XHTML</span> btw. Though I am not going down that road. ;)</p>
+
+<p>Just in case readers are confused into thinking you need <span class="caps">WALL</span> to handle browsers that have no Javascript capability, that&#8217;s of course not true. I&#8217;m sure Alex didn&#8217;t mean to imply that anyway.</p>
+
+<p>It must take a long time to check and recheck different tweaks. I&#8217;ve known <a href="http://en.wikipedia.org/wiki/WURFL" rel="nofollow"><span class="caps">WALL</span></a> to be wrong. <span class="caps">WURFL</span> is a <a href="http://www.joelonsoftware.com/articles/LeakyAbstractions.html" rel="nofollow">leaky abstraction</a> after all. There is a high maintenance cost to <strong>device dependent engineering</strong> even if you are using free tools.</p>
+
+<p>I&#8217;ve written simple <span class="caps">HTML</span> markup as long as ten years ago that works in more and more devices which I have never updated. That&#8217;s device independent engineering for you. It&#8217;s the long term solution.</p>
+
+<p>Alex I understand your side of the argument. Though please don&#8217;t ignore mine.</p>
+"""]]

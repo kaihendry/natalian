@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Michael Smith"
+ subject="202.7.99.3"
+ date="2004-08-06 13:07:33"
+ content="""
+<p>OK. Your package is definitely better than the current one that&#8217;s in unstable. (That one doesn&#8217;t do any MySQL setup at all, or even<br />
+automatically create a wp-config.php file. Might as well just install<br />
+from the WP tarball itself rather than using that package.)</p>
+
+<p>But would definitely be better if you could have your package<br />
+automatically set up the tables and Apache config file. And also<br />
+if it did a clean remove of everything.</p>
+"""]]

@@ -1,0 +1,13 @@
+[[!meta title="Regus suck at Internet" ]]
+[[!meta date="2008-09-19 08:02:38" ]]
+<p>Just when you think things can&#8217;t get any worse when it comes to the <a href="http://natalian.org/archives/2008/09/10/nationalise-uk-broadband/">terrible state of UK broadband</a>. It does. My workplace connectivity used to be 10mbit under a guaranteed half-a-megabit connection. Now we are <strong>capped</strong> at half-a-megabit. Their capping / QoS is a bit mean and seems to strike you down to 40kB/sec if you get anywhere close to half. :(</p>
+
+<p>A <a href="http://docs.google.com/Doc?id=dcxr29xt_222ddzmn9w5">10mbit connection with Regus (the serviced offices I&#8217;m in) costs more than 3000GBP a month</a>! I used to think <a href="http://webconverger.org/blog/entry/UK_Internet/">29GBP for 20mbit with Virgin Media</a> was a rip-off. <a href="http://www.regus.co.uk/">Regus serviced offices are to be avoided like the plague</a>.</p>
+
+<p>Now I am seriously looking into <a href="http://natalian.org/archives/2008/09/07/fragmented-mobile-broadband/">mobile broadband</a>. <a href="http://flickr.com/photos/hendry/2278783255/">Getting any Internet at all at first from my mobile with my laptop was <strong>amazing</strong></a>. Now I am looking at the <a href="http://www.speedtest.net/result/325425509.png">results</a> and they aren&#8217;t good.</p>
+
+<p>30kB/sec downstream on Hutchinson 3G UK in ideal conditions is incredibly poor. The Iphone has <a href="http://en.wikipedia.org/wiki/HSDPA"><span class="caps">HSPDA</span></a> enabled, but you can&#8217;t <a href="http://www.nullriver.com">share that with your laptop</a>. You see as I&#8217;ve said before <a href="http://natalian.org/archives/2008/09/07/fragmented-mobile-broadband/">carriers</a> don&#8217;t want you using your &#8220;unlimited&#8221; Internet enabled mobile with a device like your laptop</a>.</p>
+
+<p>Will new <a href="http://en.wikipedia.org/wiki/Android_(mobile_device_platform)"> Android devices</a> save the day? The <a href="http://en.wikipedia.org/wiki/HTC_Dream"><span class="caps">HTC</span> Dream</a> only has <a href="http://www.intomobile.com/2008/05/29/a-few-htc-dream-specifications-revealed.html">3.6Mbps <span class="caps">HSDPA</span></a>. So half of what a 3G networks like Vodafone&#8217;s currently boast.</p>
+
+<p>So any tips, other than moving back to Korea and I would be grateful.</p>

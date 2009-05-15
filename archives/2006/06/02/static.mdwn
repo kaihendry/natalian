@@ -1,0 +1,11 @@
+[[!meta title="Static" ]]
+[[!meta date="2006-06-05 15:08:30" ]]
+<a href="http://www.flickr.com/photos/hendry/155134313/" title="Photo Sharing"><img src="http://static.flickr.com/77/155134313_87a648dd75_m.jpg" width="180" height="240" alt="Torward the Han from Ichon exit4" /></a>
+
+<p>I wrote some <a href="http://trac.natalian.org/browser/projects/static">bash tools to assist uploading and maintaining a Web static file repository.</a></p>
+
+<p>This should be useful to anyone who has a bunch of public files he/she wants to share day by day, that might not fit into existing solutions like Flickr. For example, I intend on uploading my videos to static.</p>
+
+<p>So <a href="http://static.natalian.org/">static.natalian.org</a> now has a <a href="http://static.natalian.org/latest.rss">feed of my latest uploads.</a></p>
+
+<p>Enjoy!</p>

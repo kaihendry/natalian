@@ -1,0 +1,8 @@
+[[!meta title="Howto download movies" ]]
+[[!meta date="2004-02-09 21:11:27" ]]
+<ol>
+
+<p><li>Install the <a href="http://bitconjurer.org/BitTorrent/">Bit torrent</a> client</li><br />
+	<li><a href="http://www.suprnova.org/">Suprnova.org&#8217;s</a> torrents</li></p>
+
+</ol>

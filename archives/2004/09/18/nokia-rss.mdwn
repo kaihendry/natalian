@@ -1,0 +1,32 @@
+[[!meta title="Nokia RSS" ]]
+[[!meta date="2004-09-24 04:25:55" ]]
+<p>I try keep track of mobile Web developments like I do with most things, via <span class="caps">RSS</span>/Atom/whatever syndication and <a href="http://www.aaronsw.com/2002/rss2email/">rss2email.</a></p>
+
+<p><a href="http://nokia.com/">Nokia</a> could make it easier.  Yes they now have some sort of <a href="http://ncsp.forum.nokia.com/csp/">syndication page</a> for the last year,<br />
+but they&#8217;ve changed and hence broken it at least twice in the year I have been using it. Their feeds are <strong>never</strong> correct.</p>
+
+<p>Lately my Nokia feed broke <strong>again</strong>. This time I just can&#8217;t figure it out. Their <a href="http://tinyurl.com/6s4pl"><span class="caps">UGLY</span> url</a> for bits I am interested <strong>works in a browser</strong>, but not in wget:</p>
+
+<code>
+bilbo$ wget http://tinyurl.com/6s4pl
+--21:12:52--  http://tinyurl.com/6s4pl
+           => `6s4pl'
+Resolving tinyurl.com... 216.234.186.14
+Connecting to tinyurl.com[216.234.186.14]:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://unicyclist.com/tinyurl/redirect.php?num=6s4pl [following]
+--21:12:52--  http://unicyclist.com/tinyurl/redirect.php?num=6s4pl
+           => `redirect.php?num=6s4pl'
+Resolving unicyclist.com... 66.98.140.48
+Connecting to unicyclist.com[66.98.140.48]:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ncsp.forum.nokia.com/csp?b=content;f=rss;sort=new;limit=30;subject=Browsing|Browsing/WAP|WAP|XHTML [following]
+--21:12:53--  http://ncsp.forum.nokia.com/csp?b=content;f=rss;sort=new;limit=30;subject=Browsing%7CBrowsing/WAP%7CWAP%7CXHTML
+           => `csp?b=content;f=rss;sort=new;limit=30;subject=Browsing|Browsing%2FWAP|WAP|XHTML'
+Resolving ncsp.forum.nokia.com... 212.226.143.252
+Connecting to ncsp.forum.nokia.com[212.226.143.252]:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+21:12:53 ERROR 404: Not Found.
+</code>
+
+<p>I get a 404. Help!</p>

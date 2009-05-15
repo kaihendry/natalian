@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Robin Cornelius"
+ subject="80.177.105.46"
+ date="2007-08-10 11:55:00"
+ content="""
+<p>Be careful with the rt2&#215;00 based devices and the NSLU2 at present, in theory Rt2500USB and rt73usb devices should work but there are some remaining issues that are stopping the device from receiving data and with the mac80211 changes in the kernel it will be a lot easier for everyone when we get to around kernel 2.6.22 in the slug. I am working on it!</p>
+
+<p>Also as for the internal storage its 8Mb but you must get your kernel and basic rootfs tools in there first</p>
+"""]]

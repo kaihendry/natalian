@@ -1,0 +1,16 @@
+[[!meta title="KT changed my IP address" ]]
+[[!meta date="2006-06-14 19:29:26" ]]
+<p>Sometime this afternoon, KT one of the leading Korean ISPs change my IP address from  <br />
+222.106.128.78 to 222.106.128.198.</p>
+
+<p><strong><span class="caps">CRAP</span></strong></p>
+
+<p>I&#8217;ve asked for a fixed address, but they said they couldn&#8217;t give me one.</p>
+
+<p>So this has prompted me to move my <a href="http://svn.natalian.org">repository</a> and projects once again (previously hosted with <a href="http://theholybible.co.uk/">Jamie</a> in the UK) from Seoul to Dreamhost in California.</p>
+
+<p>In the  next day most of my other hosted projects won&#8217;t work and this site will look a little funny. In the next few days almost everything will be working <a href="http://wiki.dreamhost.com/index.php/Trac">except Trac</a>.</p>
+
+<p>I&#8217;ve not been able to get Trac working without unacceptable crufty URLs in Dreamhost.</p>
+
+<p>Update: Everything up again, including <a href="http://trac.natalian.org/"><a href="http://trac.natalian.org/">http://trac.natalian.org/</a></a></p>

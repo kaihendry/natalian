@@ -1,0 +1,16 @@
+[[!meta title="Kiosk Linux" ]]
+[[!meta date="2005-07-22 08:37:36" ]]
+<p>Update: <a href="http://webconverger.com/">Webconverger is the best Linux Web kiosk</a> out there.</p>
+
+<p>If I could setup a &#8220;bounty&#8221; I would set it on:</p>
+
+<ul>
+<li><a href="http://www.mozilla.org/start/1.0/faq/profile.html">User profiles overhaul for Firefox</a></li>
+</ul>
+
+<p>I can&#8217;t even find the bug for this. <span class="caps">SALT</span> or the current default way it stores profile really <strong>really</strong> sucks.<br />
+If this authentication infomation etc. was stored in <span class="caps">PAM</span> or <span class="caps">LDAP</span> then I wouldn&#8217;t have to bother with <span class="caps">XDM</span>. A remote profile service would be even better.</p>
+
+<p>A <strong>mass</strong> market &#8220;Kiosk Linux&#8221; could then have a chance work. An end user distribution where the desktop is just a browser. No Gnome, No <span class="caps">KDE</span>, No bullshit. <strong>Just a browser.</strong> That&#8217;s the desktop.</p>
+
+<p>Web applications could be made to assist people in say, burning CDs. Playing music from Firefox would be trickier.</p>

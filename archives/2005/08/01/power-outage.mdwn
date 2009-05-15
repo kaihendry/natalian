@@ -1,0 +1,11 @@
+[[!meta title="Power outage" ]]
+[[!meta date="2005-08-01 10:05:52" ]]
+<p>Last Saturday there was a scheduled power outage.</p>
+
+<p>For admins, rule <strong>number one</strong> is to make sure your servers are configured to come back on when power resumes. This usually involves a switch in the <span class="caps">BIOS</span> and of course a simple test.</p>
+
+<p>Office <span class="caps">UPS</span> are useless in such situations as they rarely cover the length of the outage.</p>
+
+<p>It is good to have lots of servers in order to distribute services. So if one machine goes down it isn&#8217;t the end of the world. However in hybrid networks where samba and nfs run together strange problems can result. <span class="caps">NFS</span> and Samba are usually configured to automatically try remount, but sometimes esp. on old servers this isn&#8217;t the case. So sometimes the way machines come online, is something to worry about.</p>
+
+<p>I experienced a strange <a href="http://www.google.com.au/search?q=mount%3A+RPC%3A+Program+not+registered&amp;sourceid=mozilla-search&amp;start=0&amp;start=0&amp;ie=utf-8&amp;oe=utf-8&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official">mount: <span class="caps">RPC</span>: Program not registered</a> error this morning. Some people suggested it is some race condition between samba and nfs. I fixed it by tailing the logs and retrying the mount. It seemed to want non-IP entries in the /etc/exports for some odd reason. 192.168.0.* should be OK. Anyway I played dumb, added the duplicated entries. Restarted. Remounted and everything was back online at last on one of &#8220;those&#8221; Monday mornings.</p>

@@ -1,0 +1,13 @@
+[[!meta title="Mouse" ]]
+[[!meta date="2004-05-15 12:23:39" ]]
+<a href="http://www.kitenet.net/~joey/blog/entry/ion_and_lua-2004-05-09-02-25.html">Joey Hess has blogged about using the Ion window manager</a>. Teemu Hukkanen initially spread the word about Ion to me about a year ago. I think <a href="http://ln.hixie.ch/">Ian Hickson</a> uses Ion too, I remember Ian saying something like "I wet myself" when he first come across Ion. ;)
+
+<p>Hehe. If you are sick of the mouse I recommend Ion. It&#8217;s just another Window manager like vim is just another editor and mutt is just another email client&#8230;</p>
+
+<p>Thinking about the mouse as an input device has me perplexed. It obviously doesn&#8217;t suck completely as I think the majority of people seem to use it without complaint. Although I&#8217;ve observed my parents who have trouble moving the mouse accurately or choosing between single or double click.</p>
+
+<p>Then <a href="http://www.cs.bell-labs.com/plan9dist/screenshot.html">Plan9</a> has a very mouse driven interface, but it tries to seperate the costly painful constant switching between the keyboard and mouse common say while browsing. But then again, there is no getting away from the browser interface. So maybe that&#8217;s the problem really. The cost of switching between mouse and keyboard is something that needs to be addressed. Although I think I would be happy with a <a href="http://natalian.org/archives/2004/04/26/line-mode-browser/">text driven browser</a>, or rather using <a href="http://www.mozilla.org/projects/ui/accessibility/typeaheadfind.html">type ahead find</a>. Although there are problems using the keyboard. I find the scrolling isn&#8217;t as pleasurable as the mouse wheel, and mouse is better at taking focus. Also I often can&#8217;t recall how to flick between tabs (probably rebound the keyboard combination to something else), so I often painfully result to the mouse.</p>
+
+<p>I remember using the mouse possibly first with Sierra games. The earlier text driven interface games were more enjoyable for me than the odd mouse interfaces born from later King&#8217;s Quest games. Although Day of the Tentacle was a superb mouse driven game. So is Warcraft. So is Quake. Ok the mouse is here to stay, but beware! They can bite.</p>
+
+<img src="http://fugly.com/media/IMAGES/funny/fugly40404398.jpg" alt="Now you have to wash your mouse pads" />

@@ -1,0 +1,55 @@
+[[!meta title=" Validation is not the last word in conformance" ]]
+[[!meta date="2004-07-06 03:02:00" ]]
+<a href=" http://www.xiven.com/weblog/2004/04/26/ValidityOfTheArgument#comments">Validation is not the last word in conformance,</a> as <a href="http://ln.hixie.ch/">Ian Hickson</a> excellently reminds us.
+
+<p>It all started when a coffee room discussion ended with <a href="http://www.cs.helsinki.fi/u/hendry/temp/test1/">a test</a> that shows a tricky ambiguity in <span class="caps">XML</span>. <a href="http://www.cs.helsinki.fi/u/mraento/">Mika Raento</a>&#8216;s email has more:</p>
+
+<blockquote>
+> On Tue, Apr 27, 2004 at 10:05:20AM +0300, Mika Raento wrote:                                                                                                                                                                          
+> > and you can't disallow the a-b-a with an XML DTD.                                                                                                                                                                                   
+>                                                                                                                                                                                                                                       
+> I didn't know about that XML limitation. That's quite a serious one.                                                                                                                                                                  
+                                                                                                                                                                                                                                        
+:-). Well, you can have a look at the relevant writings but the basic                                                                                                                                                                   
+idea is:                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                        
+SGML: _complex_, described in a 400 page ISO standard, _does_ include so                                                                                                                                                                
+called exclusions and inclusions so that you can say:                                                                                                                                                                                   
+        b: all inline                                                                                                                                                                                                                   
+        a: all inline _excluding a_                                                                                                                                                                                                     
+                                                                                                                                                                                                                                        
+XML: _simple_, described in 40 pages. Much simpler content models.                                                                                                                                                                      
+                                                                                                                                                                                                                                        
+The good thing: XML is _a lot_ easier to write software for.                                                                                                                                                                            
+The bad thing: since XML is upwards compatible with SGML they couldn't                                                                                                                                                                  
+go to another kind of grammar. So to be simple they had to give up a few                                                                                                                                                                
+things, although we could have had more flexibility without the                                                                                                                                                                         
+complexity. See Relax NG.                                                                                                                                                                                                               
+                                                                                                                                                                                                                                        
+A good starting point is http://xml.coverpages.org/topics.html#grammar                                                                                                                                                                  
+                                                                                                                                                                                                                                        
+If you are interested in these topics you are very welcome to                                                                                                                                                                           
+participate on the tree-grammar course I and Miro are holding next                                                                                                                                                                      
+autumn.                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                        
+>                                                                                                                                                                                                                                       
+> Surely a security issue too? Someone can create a maliciously malformed                                                                                                                                                               
+> XML document, and pass it through the doctype as valid. Or am I missing                                                                                                                                                               
+> something?                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                        
+Well, with almost any kind of grammar you have restrictions that you                                                                                                                                                                    
+cannot check on the grammar level. Think C: a syntactically correct                                                                                                                                                                     
+program might still not _link_. These have to be checked in some other                                                                                                                                                                  
+way - you just have to be aware of what these are. Validity just means                                                                                                                                                                  
+that you don't have to check the stuff that _can_ be expressed in the                                                                                                                                                                   
+DTD.                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                        
+So my point was really: XHTML doesn't remove the possibility for                                                                                                                                                                        
+ambiguity in the document structure and doesn't remove the need to make                                                                                                                                                                 
+judgements on the application level. But I agree with you that there is                                                                                                                                                                 
+a big difference between the kinds of HTML docs normally on the web and                                                                                                                                                                 
+with the strictness of XHTML. What I _don't know_ is how significant                                                                                                                                                                    
+this difference is.                        
+</blockquote>
+
+<p>It always amazes me how much <span class="caps">XML</span> can burn you&#8230;</p>

@@ -1,0 +1,19 @@
+[[!meta title="Mobile web" ]]
+[[!meta date="2004-06-24 15:15:24" ]]
+<p>Actually, I have renamed my <a href="http://www.cs.helsinki.fi/u/hendry/work/thesis/">thesis to &#8220;Web Engineering for  heterogeneous mobile devices&#8221;</a>. It&#8217;s a little more scientific sounding, although I have my fears about the word <strong>mobile</strong>. Perhaps it just be <em>wireless small computing devices</em>.</p>
+
+<a href="http://www.russellbeattie.com/notebook/1007881.html">Variability of mobile phones</a> is an issue, but all the same I do believe mobile phones are consolidating PDAs, "smart phones", cameras and even the humble wristwatch. ;)
+
+<p>Before I start enjoying my freezing Juhannus summer holiday I must throw in my 2 cents about the <a href="http://www.mezzoblue.com/archives/2004/06/23/web_apps_are/index.php">hubbub surrounding web applications and mobiles</a>. I would love to see it all work out but you have:</p>
+
+<ul>
+<li>Using javascript hackery in IE6 to <strong>just about do</strong> web applications with <a href="http://www.mod-pubsub.org/kn_docs/faq.html">like so</a> and <a href="http://www.whatwg.org/specs/web-forms/current-work/">so</a>.</li>
+<li><a href="http://www.openmobilealliance.org/"><span class="caps">OMA</span></a>&#8216;s <span class="caps">XHTML</span> MP for mobile phones and really <strong>really</strong> bad default Nokia user agents</li>
+<li>Macromedia&#8217;s (amongst others) Flash/<a href="http://www.macromedia.com/software/flex/">Flex</a> doing real plugin representing</li>
+<li>W3C in the background with flops like UA profiles&#8230;</li>
+<li><a href="http://www.joelonsoftware.com/articles/APIWar.html">Microsoft&#8217;s Avalon</a> grappling for market share</li>
+</ul>
+
+<p>Anyway it&#8217;s a turbulent time and by no means a time of convergence. Another point I&#8217;ll attempt to make is that people are raving about the network as the computer, server is über lalala. If user agents continue to suck like they do and worse on mobiles, then we&#8217;re not going to move very fast. <span class="caps">OMG</span>, there are so many problems everywhere&#8230;. <span class="caps">ARGH</span>!! I need a holiday. ;)</p>
+
+<img src="http://pictures.natalian.org/screenies/2004/jun/23/15:10:46/" alt="Minimo screenshot" />

@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="part"
+ subject="82.181.63.44"
+ date="2005-06-16 07:55:40"
+ content="""
+<p>There is a proprietary version control system called ClearCase which is implemented on top of nfs. You can use files by saying somefile.txt@@/somebranch/someversion</p>
+
+<p>The filesystem interface is pretty nice, but that&#8217;s the only really nice thing about it.</p>
+"""]]

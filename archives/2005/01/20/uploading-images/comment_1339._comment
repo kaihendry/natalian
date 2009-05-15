@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Colin Watson"
+ subject="81.153.126.219"
+ date="2005-02-22 14:35:09"
+ content="""
+<p>psftp supports the &#8216;reput&#8217; command; no need for WinSCP for that.</p>
+
+<p>As folks have said, the scp protocol doesn&#8217;t support resuming. That said, it would probably be possible to add resume support to pscp for when it&#8217;s operating in <span class="caps">SFTP</span> mode, which would be handy.</p>
+"""]]

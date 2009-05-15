@@ -1,0 +1,18 @@
+
+[[!_comment format=mdwn
+ username="Sean Owen"
+ subject="72.14.228.89"
+ date="2007-05-29 16:08:27"
+ content="""
+<p>(google.com and other properties will redirect phones to the mobile version, <span class="caps">BTW</span>. And bbc.co.uk/mobile returns <span class="caps">XHTML</span> (Transitional actually, ugh) to mobile devices. Change your User Agent to see it.)</p>
+
+<p>I take your point about browsers not enforcing valid <span class="caps">XHTML</span> docs, that obviously this well-formedness requirement is followed so little that browsers don&#8217;t insist on it. I don&#8217;t think you&#8217;re arguing against the idea that documents should follow a defined standard, so maybe you mean you prefer <span class="caps">SGML</span>-based markup like <span class="caps">HTML</span>? I don&#8217;t know enough to argue that point. But I think you&#8217;re really arguing against the idea of a mobile-specific markup standard, and not whether it&#8217;s <span class="caps">XML</span>-based.</p>
+
+<p>This very site probably nearly validates as MP or Basic, so I don&#8217;t think you object to the spec itself since you&#8217;re nearly using it. It&#8217;s the idea of a separate mobile spec that&#8217;s a problem.</p>
+
+<p>This site, a blog, with mostly text, is easily implementable with one document such that it works reasonably on mobile and desktop. I don&#8217;t think that&#8217;s true for all or even most sites. Try making a compelling Gmail that works everywhere without modification. It does add complexity&#8212;how do you know what the user agent is for example?</p>
+
+<p>In the end I think we are merely differing over implementation details. I don&#8217;t think you disagree in theory that different user agents may need to present one resource differently. This page&#8217;s stylesheet is restricted to &#8220;screen&#8221; for example. So you have context-specific <span class="caps">CSS</span> there already. It&#8217;s a question of whether markup should vary. I would also prefer to have one document rather than two where possible, but I don&#8217;t think it&#8217;s always possible. The difference between the mobile and desktop presentation of a site is not just a bit of <span class="caps">CSS</span> trickery&#8212;especially considering how limited <span class="caps">CSS</span> support is on phones!</p>
+
+<p>I don&#8217;t see the big theoretical difference between presenting different markup and presenting the same markup but different <span class="caps">CSS</span>, for example. Seems like an implementation detail. I also just don&#8217;t see that this &#8220;problem&#8221; is the big one holding up advancement of the web and mobile web. People don&#8217;t even use basic <span class="caps">HTML</span> correctly in most cases, let alone elegantly weave together <span class="caps">HTML</span> and <span class="caps">CSS</span> in the way you say is desirable.</p>
+"""]]

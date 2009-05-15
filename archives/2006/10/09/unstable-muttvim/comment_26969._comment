@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="James Vega"
+ subject="24.218.220.129"
+ date="2006-10-09 23:48:20"
+ content="""
+<p>I use mutt and vim on a daily basis (and Vim as my editor in mutt) and have never seen Vim hang after saving.  Assuming this is very repeatable, I&#8217;d suggest setting up mutt to invoke Vim as &#8216;vim -u /etc/vim/vimrc -N&#8217; and see if that clears up the problem (indicating it&#8217;s caused by something in ~/.vimrc or ~/.vim).  A quick look at your config doesn&#8217;t show anything that would be causing that problem.  If that doesn&#8217;t clear it up, feel free to file a bug against the Vim package (ideally with definite steps to reproduce it and hopefully without mutt involved) and I&#8217;ll take a look at it.  I&#8217;m currently building the next Vim upload which may or may not help your current issue.</p>
+"""]]

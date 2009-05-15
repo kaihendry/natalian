@@ -1,0 +1,9 @@
+[[!meta title="Wordpress 1.5.1.2" ]]
+[[!meta date="2005-06-04 08:13:11" ]]
+<p>A couple of people have asked me why Wordpress is not going to be in sarge.</p>
+
+<p>It is because of its <a href="http://wordpress.org/development/2005/05/security-update/">ongoing security problems</a> with <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=308534">Debian.</a></p>
+
+<p>Today I have updated the <a href="http://hendry.iki.fi/debian/wordpress/">Wordpress package</a> (urm, I need a sponsor!) and I have made the package depend on <strong>Apache2</strong>&#8216;s mod_security.</p>
+
+<p>Ok, many of you will not like the forced upgrade to Apache2. It took me awhile to get to like it, but now I am enjoying the clean /etc/apache2/sites-available structure of the Debian package and its improved modules.</p>

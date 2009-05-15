@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Kevin"
+ subject="84.165.218.75"
+ date="2006-04-03 09:22:25"
+ content="""
+<p>Ctrl-{x,c,v} is just bullshit. Ctrl-c should always be the interrupt signal. The other two are just nonsens, as MJ Ray already pointed out.<br />
+The most common and long lasting standard is Ctrl-Insert for &#8216;Copy&#8217;, Shift-Insert for &#8216;Paste&#8217; and Shift-Delete for &#8216;Cut&#8217;.<br />
+Please don&#8217;t adopt the brain-farts of Micro$oft.</p>
+"""]]

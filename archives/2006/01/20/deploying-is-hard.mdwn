@@ -1,0 +1,29 @@
+[[!meta title="Deploying is hard" ]]
+[[!meta date="2006-06-08 05:41:08" ]]
+<p><a href="http://dreamhost.com/">Dreamhost</a> are great and everything, but it can be quite difficult to make full use of one&#8217;s host.</p>
+
+<p>For example. I have more diskspace, so I was thinking of hosting a copy of wikipedia and abusing my near unlimited bandwidth. Not so fast:</p>
+
+<pre>
+pico$ bunzip2 pages_articles.xml.bz2
+Killed
+Connection to dabase.com closed by remote host.
+Connection to dabase.com closed.
+</pre>
+
+<p>Hmph. Next things I&#8217;ve been playing with is <a href="http://rubyonrails.org/">Ruby on Rails.</a><br />
+Though I read the <a href="http://wiki.dreamhost.com/index.php/Ruby_on_Rails">Wiki page</a> I am experiencing <a href="http://studiolist.biz/admin">Application error (Rails)</a> whilst using Fast <span class="caps">CGI</span>. It&#8217;s a bit odd and <a href="http://studiolist.biz/say/hello">somethings</a> work. I know without Fast <span class="caps">CGI</span>, development iterations are extremely slow. You&#8217;re basically going nowhere without something like Fast <span class="caps">CGI</span>.</p>
+
+<p>Then I had a look at <a href="http://webpy.org/">web.py.</a> It seems to <a href="http://webpy.org/install">require mod_python</a> and again DreamHost doesn&#8217;t seem to support this module. Oh crap.</p>
+
+<p><a href="http://wiki.dreamhost.com/index.php/Django">Django</a> seems to be able to utilise Fast <span class="caps">CGI</span> and I tried a <a href="http://fastcgi.dabase.com/">very basic sanity test for Fast <span class="caps">CGI</span> via Python</a> and that doesn&#8217;t work either.</p>
+
+<p>So where are we? Back at <a href="http://natalian.org/archives/2005/11/18/web-application-frameworks/">square one</a>. This blog about <a href="http://www.sitepoint.com/blogs/2006/01/10/the-sysadmin-view-on-why-php/">The sysadmin view on <span class="caps">PHP</span></a> is actually quite right. It is <strong>so easy</strong> to deploy a <span class="caps">PHP</span> application in comparison to Rails and Python.</p>
+
+<p>I almost forgot I work with Java, tomcat, JBoss and other hopeless Enterprise technologies. They need the server to come down to deploy. That&#8217;s Web 0.0.</p>
+
+<p>Update: Dreamhost support spotted an error in my database.yml. It&#8217;s working! <span class="caps">WOOT</span>!</p>
+
+<p>Update: With the help of <a href="http://www.aaronsw.com/">Aaron Swartz</a> I managed to get a <a href="http://wiki.dreamhost.com/index.php/Web.py">web.py &#8220;hello world&#8221; working with fastcgi on dreamhost</a>.</p>
+
+<p>Update: <strong>Django on DreamHost does work</strong>. I missed the part about <a href="http://www.saddi.com/software/py-lib/py-lib/fcgi.py">fcgi.py</a>. Oops.</p>

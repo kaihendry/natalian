@@ -1,0 +1,37 @@
+[[!meta title="Nokia usability" ]]
+[[!meta date="2004-06-06 07:54:17" ]]
+<p>Use case is that I want my mobile to alert me when my <a href="http://www.bluewillowpages.com/mushroomexpert/false_morel_toxicity.html">poisonous mushrooms</a> have boiled enough.</p>
+
+<ol>
+<li>Find mobile</li>
+<li>Unlock phone</li>
+<li>Scroll down menu&#8230; Ah <strong>Settings</strong>&#8230; I want to set a 5 minute countdown</li>
+<li>Hmm&#8230; is it <strong>Time and date settings</strong>&#8230; </li>
+<li>Gah! It&#8217;s nowhere here&#8230; lets go back to the beginning</li>
+<li>Menu, scroll down&#8230; Past <strong>Settings</strong> this time&#8230;</li>
+<li><strong>Alarm clock</strong>. Yes! Exactly! I want to be alarmed after 5 minutes</li>
+<li><strong>Alarm time</strong>&#8230;no&#8230; I want it to count down damn it. Where is the count down feature. No I do not want to set my fucking tone.</li>
+<li><span class="caps">BACK</span> <span class="caps">AGAIN</span> to the menu</li>
+<li>Hmmm, could it be in <strong>Calendar</strong>? ... nooo</li>
+<li><strong>Applications</strong>. Well, yeah, count down is an application.</li>
+<li><strong>Select application</strong>, <strong>App. downloads</strong>, <strong>Memory</strong>&#8230; ok I want to select the application</li>
+<li>Opening&#8230; (empty)... <span class="caps">WTF</span>. <span class="caps">HELP</span> ME <span class="caps">LORD</span>. I <span class="caps">JUST</span> <span class="caps">WANT</span> TO <span class="caps">SET</span> A 5 <span class="caps">MINUTE</span> <span class="caps">COUNTDOWN</span> <span class="caps">TIMER</span></li>
+<li><span class="caps">BACK</span> <span class="caps">AGAIN</span></li>
+<li><strong>Extras</strong>, <strong>Services</strong>&#8230; Hmmm which one&#8230; I&#8217;ll shoot for <strong>Extras</strong> as Nokia don&#8217;t seem to give a hoot about my time so why not extra?</li>
+<li>Sweet <span class="caps">JESUS</span>! <strong>Countdown timer</strong>. Ok, lets select this&#8230;</li>
+<li>00:00, is that minutes and seconds? I&#8217;ll assume hours and minutes</li>
+<li>00:05, OK&#8230; this must be it&#8230; please&#8230;. let this be it&#8230;</li>
+<li>Note for timer? <span class="caps">WTF</span>? <span class="caps">JUST</span> <span class="caps">TIME</span> <span class="caps">DOWN</span> <span class="caps">YOU</span> <span class="caps">FOOL</span></li>
+<li>J (I am not going to type in &#8220;You&#8217;re mushrooms are done&#8221;), <strong>OK</strong>, Timer running. AT <span class="caps">LONG</span> <span class="caps">LAST</span>.</li>
+</ol>
+
+<p>6 or so minutes later:</p>
+
+<ol>
+<li>Hey, five minutes must be up now&#8230; why doesn&#8217;t that Nokia 3100 ring ?</li>
+<li>OH <span class="caps">FFS</span>&#8230; It&#8217;s on <strong>silence</strong>. Oh shoot me now, life is not worth living if this stuff is our future&#8230;</li>
+</ol>
+
+<a href="http://pictures.natalian.org/kodak/2004/jun/4/20:13:35/">
+<img src="http://pictures.natalian.org/kodak/2004/jun/4/20:13:35/440x292" alt="False Morels with potatoes" />
+</a>

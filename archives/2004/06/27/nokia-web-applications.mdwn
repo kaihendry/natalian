@@ -1,0 +1,14 @@
+[[!meta title="Nokia web "applications"" ]]
+[[!meta date="2004-06-27 11:17:58" ]]
+<a href="http://pictures.natalian.org/konica/2002/10:55:17/">
+<img src="http://pictures.natalian.org/konica/2002/388x291" alt="Midsummer from Bodmin moor" />
+</a>
+
+<p>Just implemented a couple of <a href="http://aat.dabase.com/gprs"><span class="caps">GPRS</span></a> bandwidth wasters which have been tested on the Nokia series 40 1.0 <span class="caps">XHTML</span> browser:</p>
+
+<p>* <a href="http://fortune.dabase.com/">Fortune</a><br />
+ * <a href="http://aat.dabase.com/">Acronym lookup</a></p>
+
+<p>Only one submit button and optionally one input field at the top is all you can do on these devices.</p>
+
+<p>That means the interface can be abstracted quite easily. :)</p>

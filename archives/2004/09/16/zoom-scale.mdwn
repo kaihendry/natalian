@@ -1,0 +1,23 @@
+[[!meta title="Scale vs Zoom" ]]
+[[!meta date="2004-09-19 21:37:33" ]]
+<p>Continuing my <a href="http://natalian.org/archives/2004/06/22/ua-font/">text legibility</a> thoughts with <a href="http://annevankesteren.nl/archives/2004/08/specifications"><span class="caps">SVG</span> comments by Anne.</a></p>
+
+<code>
+19:51 <@draq> I was thinking about SVG
+19:51 <@draq> Could you resize text on an SVG media
+19:51 <@draq> as easy as a web page?
+19:51 <@draq> it wouldn't flow
+19:51 <@draq> you would be zooming
+19:52 <@draq> And I don't think zooming is the same as resizing text
+19:52 <@draq> or is it?
+</code>
+
+<p>If you do not know what <span class="caps">SVG</span> is, think Macromedia Flash. Or am I making a grave mistake in that comparison?</p>
+
+<p>I was sharing a pint with my Dad and his friend where we chatted about mobiles. They liked that Nokias have a standard power supply unit for charging their phones.</p>
+
+<p><strong>They disliked how tiny the text was and how they needed to get their glasses out.</strong></p>
+
+<p>When I asked the friend why he thought Nokia has performing badly, he said because they were too late getting out the camera phones. I wouldn&#8217;t agree, but its an interesting comment.</p>
+
+<p>One also complained how his series 60 device did not have automatic key lock. My series 40 phone does!</p>

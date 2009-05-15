@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Sean Neakums"
+ subject="202.63.39.120"
+ date="2006-05-19 21:52:31"
+ content="""
+<p>On framebuffer console, underline comes out as bright white regardless of the colour specified.</p>
+
+<p>The key for spelling suggestions while in insert mode is not &#8221;<sup>X&#8221; but &#8221;</sup>X s&#8221;.  Easy to miss the way the help file is formatted.</p>
+"""]]

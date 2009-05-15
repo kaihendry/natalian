@@ -1,0 +1,27 @@
+[[!meta title="Opensource Transaction support" ]]
+[[!meta date="2005-10-13 14:10:51" ]]
+<p><a href="http://www.mysql.com/">MySQL</a> is one of the first <acronym title="DataBase Management System"><span class="caps">DBMS</span></acronym> I&#8217;ve ever used. I really can&#8217;t recall what I was using it for, though I was and still impressed by MySQL&#8217;s:<br />
+* stability<br />
+* ease of setup<br />
+* speed<br />
+* <a href="http://packages.debian.org/changelogs/pool/main/m/mysql-dfsg-5.0/mysql-dfsg-5.0_5.0.13rc-1/mysql-server-5.0.copyright">opensource license</a></p>
+
+<p>And after working in commercial environments with <a href="http://www-306.ibm.com/software/data/informix/">Informix</a> and <a href="http://www.oracle.com">Oracle,</a> you <strong>really</strong> start to <strong>appreciate</strong> MySQL&#8217;s <strong>quality</strong>. No strange quirks or odd behaviour like my <a href="http://natalian.org/archives/category/oracle/">Oracle experiences.</a> It works like you expect it to and with <a href="http://packages.debian.org/cgi-bin/search_packages.pl?keywords=mysql&amp;searchon=names&amp;subword=1&amp;version=all&amp;release=all">Debian packages</a> it is an absolute breeze to maintain/update/upgrade.</p>
+
+<p>The legendary feature that MySQL <strong>missed</strong>, the feature that seperated the boys from the men a.k.a. <a href="http://oracle.com/">Oracle,</a> was <a href="http://en.wikipedia.org/wiki/Database_transaction">Transaction support.</a> It was only recently I discovered that MySQL has in fact transaction support with <a href="http://en.wikipedia.org/wiki/InnoDB">InnoDB</a> and <strong>big</strong> players like <a href="http://wikipedia.org/">Wikipedia</a> and Slashdot uses it.</p>
+
+<p>Though now <a href="http://www.redmonk.com/sogrady/archives/001033.html">Oracle has acquired InnoDB.</a> Yikes! <br />
+* <a href="http://developers.slashdot.org/article.pl?sid=05/10/07/2021211&amp;tid=221">Slashdot coverage</a> <br />
+* <a href="http://www.webmasterworld.com/forum112/75.htm">Webmaster world forum discussion.</a></p>
+
+<p>So what could this mean? I&#8217;m taking quite a <strong>pessimistic</strong> approach here as why should Oracle fund development of a product that basically competes with the Oracle Database product? <a href="http://www.joelonsoftware.com/articles/APIWar.html">That would be like Microsoft competing as a Web application platform and undermining its core Win32 platform. <span class="caps">DOH</span>!</a><br />
+# Infeasibly they could get each developer to change the licensing to something non-Opensource. I think you are allowed to &#8220;revoke&#8221; the <a href="http://opensource.org/">Opensource license</a> (or any license), though I don&#8217;t think it&#8217;s practical.<br />
+# The future Opensource licensed versions of InnoDB are in doubt<br />
+# InnoDB goes &#8220;professionally&#8221; unsupported<br />
+# The developers get bought out to not do any work on InnoDB and instead work on something else or go on a <strong>long</strong> holiday. It only takes a buy out of a couple of core programmers it some projects to absolutely ruin a product. Remember Borland?<br />
+# An opensource company/project is founded which works from InnoDB opensource base. I haven&#8217;t looked at the source code, but this is always hard to do. Some people from the community would have to super motivated to do a good job here, though the potential rewards are high. The <acronym title="DataBase Management System"><span class="caps">DBMS</span></acronym> market is worth <strong>a lot</strong>.<br />
+# People use <a href="http://www.postgresql.org/">Postgres</a> instead. Some people on WebmasterWorld have justified this move by citing MySQL licensing issues and some other concerns with drivers. I&#8217;ve used Postgres and I&#8217;m not going there again.</p>
+
+<p>I think option <strong>5</strong> will be realized despite the difficulties in finding the right <strong>people</strong>, because the potential gains are so high. Even if just to be bought out again. ;)</p>
+
+<p>Conclusion: Just a bump in the road towards opensource domination.</p>

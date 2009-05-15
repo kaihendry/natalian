@@ -1,0 +1,7 @@
+[[!meta title="Bar charts" ]]
+[[!meta date="2004-07-30 12:36:16" ]]
+<a href="http://pictures.natalian.org/kodak/2004/jul/29/17:34:38/">
+<img src="http://pictures.natalian.org/kodak/2004/jul/29/17:34:38/328x218" alt="Bar chart on a Nokia 3100" />
+</a>
+
+<p>I am supposed to be studying statistics today. I thought I would look into <a href="http://db.cs.helsinki.fi/t/ipuustin/webrisk/webrisk.jsp">Risk statistics</a> which inspired me to instead to look into doing <a href="http://dabase.com/bar/">bar charts on a mobile without images.</a></p>

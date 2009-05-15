@@ -1,0 +1,13 @@
+[[!meta title="Google supports XHTML!" ]]
+[[!meta date="2006-04-10 01:29:01" ]]
+<a href="http://www.flickr.com/photos/hendry/125709976/" title="Photo Sharing"><img src="http://static.flickr.com/50/125709976_8b52f56a81_m.jpg" width="240" height="180" alt="2006-04-10-001739_1024x768_scrot.png" /></a>
+
+<p>Excuse the sarcasm.</p>
+
+<p>Rejoice <a href="http://en.wikipedia.org/wiki/XHTML"><span class="caps">XHTML</span></a> <a href="http://hsivonen.iki.fi/wannabe/">advocates</a> !</p>
+
+<p>For several years I&#8217;ve maintained an <a href="http://dabase.com"><span class="caps">XHTML</span> site</a> that actually <a href="http://hixie.ch/advocacy/xhtml">correctly sets the content type to application/xhtml+xml</a></p>
+
+<p>I&#8217;ve only just noticed that Google indexes it. :)</p>
+
+<p>People new to this game, stick with <a href="http://whatwg.org/"><span class="caps">HTML</span></a> and save yourself some grief.</p>

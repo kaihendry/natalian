@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Joose"
+ subject="193.94.50.136"
+ date="2005-12-07 17:49:33"
+ content="""
+<p>You wrote: &#8220;HTML in messages is just plain stupid. Most MUAs can’t render Unicode or wrap text properly. To render <span class="caps">HTML</span> correctly you need a beast! Or am I wrong? Most Web forum posts don’t seem to use <span class="caps">HTML</span> that much …&#8221;</p>
+
+<p>Only <span class="caps">MUA</span> I know that can&#8217;t handle Unicode nicely is pine. Mutt can handle unicode but not by default. Real <span class="caps">MUA</span>&#8216;s (the one with <span class="caps">GUI</span>) what people are using, like outlook, can handle unicode correctly.</p>
+
+<p><span class="caps">HTML</span>-mails on the anotherhand.. Webmail&#8217;s display <span class="caps">HTML</span>-mails only when you open attachment in a new window (== sucky <span class="caps">MUA</span> design), and one windows <span class="caps">MUA</span> which is included in one finnish companys business suite. Mutt can&#8217;t handle html mails unless you hook lynx -dump or similar to config.</p>
+
+<p><span class="caps">HTML</span>-based emails are good thing and Unicode is the best thing what Internet has for text compatibility!</p>
+
+<p>- Joose</p>
+"""]]

@@ -1,0 +1,28 @@
+[[!meta title="Manpages" ]]
+[[!meta date="2004-04-21 23:17:33" ]]
+<pre>
+hendry@scrooge-15:~/100konic$ identify ‐format %[EXIF:*] pict0725.jpg
+pict0725.jpg JPEG 2048x1536+0+0 DirectClass 8-bit 523.4kb 0.000u 0:01
+
+<p>hendry@scrooge-15:~/100konic$ identify -format %[EXIF:*] pict0725.jpg<br />
+Make=Konica Corporation<br />
+Model=Konica Digital Camera KD-310Z<br />
+Orientation=1<br />
+XResolution=72/1<br />
+YResolution=72/1<br />
+ResolutionUnit=2<br />
+YCbCrPositioning=1<br />
+ExifOffset=110<br />
+ExposureTime=1250/10000<br />
+FNumber=28/10<br />
+ISOSpeedRatings=100<br />
+ExifVersion=0220<br />
+DateTimeOriginal=2004:03:28 15:34:18<br />
+DateTimeDigitized=2004:03:28 15:34:18<br />
+</pre></p>
+
+<p>I copied with my mouse the ‐format which does not work&#8230;</p>
+
+<p>Grrrr</p>
+
+<p>At least I can read that man page. At work, Konsole is garbling them up. <span class="caps">FFS</span>.</p>

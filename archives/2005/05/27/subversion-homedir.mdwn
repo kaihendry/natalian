@@ -1,0 +1,54 @@
+[[!meta title="Subversion homedir" ]]
+[[!meta date="2005-11-30 16:16:24" ]]
+<p>Inspired by <a href="http://www.kitenet.net/~joey/svnhome.html">Joey Hess</a> in the past couple of years I have had my homedir in a subversion repositry. I <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq01.060.htp">tipped</a> about this a while back, but I thought I should give the topic some blog treatment.</p>
+
+<p>When I move to a new machine in $HOME:</p>
+
+<pre>
+hendry@perry:~$  ssh-keygen -t dsa
+Generating public/private dsa key pair.
+Enter file in which to save the key (/home/hendry/.ssh/id_dsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /home/hendry/.ssh/id_dsa.
+Your public key has been saved in /home/hendry/.ssh/id_dsa.pub.
+The key fingerprint is:
+6c:2e:4e:8a:f2:54:b3:1a:89:25:59:65:f9:fe:1a:2f hendry@perry
+hendry@perry:~$  ssh-copy-id -i .ssh/id_dsa.pub hendry.iki.fi
+15
+Password:
+Now try logging into the machine, with "ssh 'hendry.iki.fi'", and check in:
+
+<p>.ssh/authorized_keys</p>
+
+<p>to make sure we haven&#8217;t added extra keys that you weren&#8217;t expecting.</p>
+
+<p>hendry@perry:~$ svn co svn+ssh://<a href="mailto:hendry@hendry.iki.fi">hendry@hendry.iki.fi</a>/home/hendry/repo/public/home .<br />
+svn: Failed to add file &#8217;.bashrc&#8217;: object of the same name already exists<br />
+</pre></p>
+
+<p>Unfortunately, this generally means I have to manually remove .bashrc, .bash_profile et al out the way and re-run the checkout a couple of times.</p>
+
+<p>If I wish to read and write emails from that machine, I generally need my addressbook and mutt colouring from another private repository:<br />
+<pre><br />
+svn co svn+ssh://<a href="mailto:hendry@hendry.iki.fi">hendry@hendry.iki.fi</a>/home/hendry/repo/private/Mail<br />
+</pre></p>
+
+<p>I don&#8217;t keep my Maildir (mail archives) in the repo because I filter mails through Gmail and use offlineimap/mairix dumps from my  <span class="caps">IMAP</span> server on whatever machine I read mail from. So there tends to be copies or backups of my Mail.</p>
+
+<p>Browse my <a href="http://svn.natalian.org">public repository</a> to learn more.</p>
+
+<p>It isn&#8217;t perfect.</p>
+
+<ul>
+<li>I often forget to commit after a change. I tried automated commits with mixed results and maybe I should again.</li>
+<li>I need to incorporate my favourite package listing, so I can apt-get the packages I typically need like screen, vim, irssi-text, offlineimap, mairix etc. (hmm, perhaps a Debian package for my homedir&#8230;)</li>
+<li>Subversion can&#8217;t handle symlinks. Arse. (Update: Oh, it can now)</li>
+</ul>
+
+<p>I had some awful problems keeping .mozilla in there, in order to maintain my bookmarks. Now I am keeping them with <a href="http://del.icio.us/hendry">delicious.</a></p>
+
+<p>I don&#8217;t keep binary files like porn or mp3s in there. I back them up occasionally with rsync like so:<br />
+<pre><br />
+rsync -essh -rtpv ~/pictures backupmachine:<br />
+</pre></p>

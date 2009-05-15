@@ -1,0 +1,25 @@
+
+[[!_comment format=mdwn
+ username="Marius Gedminas"
+ subject="195.182.77.65"
+ date="2006-02-03 22:08:55"
+ content="""
+<p>I have successfully migrated Linux systems to larger hard drives this way:</p>
+
+<p>* create a larger partition (or partitions) on the new disk, format them (as ext3).  I usually use cfdisk.<br />
+  * mount both disks on the same system<br />
+  * create the necessary mount points on the new empty partitions and mount all of them<br />
+  * for each old partition use this command to copy the data from that partition only:</p>
+
+<p>(cd /mountpoint-of-old-partition &amp;&amp; tar clf -) | (cd /new-location &amp;&amp; tar xvf -)</p>
+
+<p>The &#8216;l&#8217; argument to tar tells it to not recurse into other partitions (thus no /proc etc).  tar is very good about preserving all the attributes (permissions, ownership, special tipes of files such as device nodes).</p>
+
+<p>If you cannot mount both disks on the same system, you can do the same thing over the network via <span class="caps">SSH</span>:</p>
+
+<p>(cd /mountpoint-of-old-partition &amp;&amp; tar clf -) | (ssh othermachine &#8216;cd /new-location &amp;&amp; tar xvf -&#8217;)</p>
+
+<p>Once you have copied all the data, install <span class="caps">GRUB</span>/LILO in the appropriate place and switch the hard disks.  Everything should work.</p>
+
+<p>(Um, your blog software does not have a &#8216;Preview&#8217; button.)</p>
+"""]]

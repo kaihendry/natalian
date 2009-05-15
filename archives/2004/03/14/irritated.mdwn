@@ -1,0 +1,24 @@
+[[!meta title="IrriTated" ]]
+[[!meta date="2004-03-14 18:46:55" ]]
+<p>I have this <span class="caps">TODO</span> list trying to address some broken stuff in my setup.</p>
+
+<p>I upgraded my BayStack 660 Wireless Access Point which was so fucking annoying. A win32 program was required, therefore I had to use my flatmates incredibly annoying Windows laptop. It doesn&#8217;t work. I still get millions of:<br />
+<pre><br />
+Mar 13 10:56:43 scrooge-15 kernel: eth0: New link status: AP In Range (0005)                                                                                                                                                            <br />
+Mar 13 10:57:23 scrooge-15 kernel: eth0: New link status: AP Out of Range (0004)<br />
+</pre></p>
+
+<p>Or worse:<br />
+<pre><br />
+kern.log:Mar 14 01:17:53 scrooge-15 kernel: eth0: Error -110 writing Tx descriptor to <span class="caps">BAP</span><br />
+</pre></p>
+
+<p>Which can result in my TP T30 reaching full load and basically falling over. This hyped 802.11b thing is not usable for me. The wireless setup at <a href="http://www.cs.helsinki.fi/compfac/uutiset/index.html#english">school</a> is just as <a href="http://dictionary.reference.com/search?r=2&amp;q=precarious">precarious</a>.</p>
+
+<p>What else? <a href="http://modeemi.cs.tut.fi/~tuomov/ion/">Ion2</a> is such a bitch to get working like I want. I think I will go back to Ion1 as at least I could understand the configuration file. I really do not want to learn another language <a href="http://www.lua.org/">Lua</a> this weekend in order to get my browser bound to F5.</p>
+
+<p>I tried to get 3D acceleration in order to get <a href="http://prboom.sourceforge.net/">prboom</a> playable with my T30&#8217;s Radeon 7500 since I am now using X 4.3. No such luck, it seems like I need to compile a module. Urgh, I can&#8217;t be bothered to build my own kernel package. It&#8217;s just so easy with stock kernels.</p>
+
+<p>Played around with apache-ssl, only to find out all I needed was a module enabled with my current Apache configuration. Waste more time&#8230;</p>
+
+<p>I have gone back to only using Mozilla as my browser. Except why do the fonts look so crap compared to Fire(bird|fox). Lots of irritating house keeping to do.</p>

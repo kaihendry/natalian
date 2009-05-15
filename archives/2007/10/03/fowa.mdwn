@@ -1,0 +1,48 @@
+[[!meta title="FOWA" ]]
+[[!meta date="2009-05-02 17:39:13" ]]
+<a href="http://www.flickr.com/photos/hendry/1507763337/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2017/1507763337_afda70e459_m.jpg" width="240" height="180" alt="My only picture at FOWA" /></a>
+
+<h4>Day 1</h4>
+
+<ul>
+<li>Wifi doesn&#8217;t work with my new &#8216;Ipod touch&#8217;. I am guess because of the odd <span class="caps">WEP</span> key length&#8230;</li>
+<li>It hardly works with my Thinkpad. Timeouts all over the shop. :(</li>
+<li>Lost an earlier WP post as the wifi timed out and the back button didn&#8217;t seem to work. :(</li>
+</ul>
+
+<p>Hate this Apple bashing that they aren&#8217;t opening up their platform. Keeping it with just the Web platform is an incredibly sensible move. &#8220;Opening&#8221; their (proprietary) platform will increase fragmentation&#8230; we should all be aiming for Web convergence. One Web platform for all.</p>
+
+<p>Why don&#8217;t people bash Microsoft&#8217;s Silverlight or Adobe&#8217;s <span class="caps">AIR</span> ffs? It&#8217;s not the Open Web! I am sick and tired of Flash even. Can&#8217;t we recognise for the burden it is on the &#8220;open standards&#8221; Web??</p>
+
+<p>A business model to be bought by Adobe. Great&#8230; <strong>not</strong>. This is not the open Web imo. People positioning themselves to be eaten up by a monopoly.</p>
+
+<p>I don&#8217;t understand tagging. Why isn&#8217;t it in the same as &#8220;categories&#8221; in Wordpress? Should I be migrating my categories to &#8220;tags&#8221;? <span class="caps">WTF</span>! Thankfully Matt is around&#8230; :)</p>
+
+<p>My thinkpad X40 hard drive is crashing&#8230; this happened about a <a href="http://natalian.org/archives/2006/10/19/where-was-i/">year ago</a>!</p>
+
+<h4>Day 2</h4>
+
+<pre>
+monty:~% ping google.com                                                                                         
+PING google.com (64.233.187.99) 56(84) bytes of data.                                                            
+64 bytes from jc-in-f99.google.com (64.233.187.99): icmp_seq=3 ttl=241 time=446 ms                               
+64 bytes from jc-in-f99.google.com (64.233.187.99): icmp_seq=7 ttl=241 time=546 ms                               
+64 bytes from jc-in-f99.google.com (64.233.187.99): icmp_seq=9 ttl=241 time=2607 ms                              
+64 bytes from 64.233.187.99: icmp_seq=11 ttl=241 time=1244 ms                                                    
+64 bytes from jc-in-f99.google.com (64.233.187.99): icmp_seq=12 ttl=241 time=1595 ms                             
+                                                                                                                 
+--- google.com ping statistics ---                                                                               
+13 packets transmitted, 5 received, 61% packet loss, time 43040ms                                                
+rtt min/avg/max/mdev = 446.625/1288.080/2607.883/786.967 ms, pipe 3                                              
+monty:~% ping google.com                                                                                         
+ping: unknown host google.com
+</pre>
+
+<ul>
+<li>Wireless has slightly improved, no DUPs&#8230;</li>
+<li>Still ill with some sort of infected chest :(</li>
+<li>Converting my categories to tags on my blog. Doesn&#8217;t seem to be going too well.</li>
+<li>Comet looked like a hacky <a href="http://en.wikipedia.org/wiki/Comet_(programming)"><span class="caps">AJAX</span> push implementation</a>. I wish JS didn&#8217;t look so darn flaky.</li>
+<li>Enjoyed <a href="http://www.plasticbag.org/">Tom Coates</a> presentation on the location service code named <a href="http://fireeagle.research.yahoo.com/">FireEagle</a></li>
+<li>Commented to <a href="http://simonwillison.net/">Simon Willison</a> (great host btw) we really could have done with a proper presentation on HTML5. That&#8217;s the Future of Web Apps!</li>
+</ul>

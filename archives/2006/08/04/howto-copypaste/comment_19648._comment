@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Dobrica Pavlinusic"
+ subject="89.172.56.47"
+ date="2006-08-04 19:57:53"
+ content="""
+<p>You might try <a href="http://freshmeat.net/projects/autocutsel/" rel="nofollow">autocutsel</a> which does sync two copy/paste buffers in X11. There is<br />
+<a href="http://www.jwz.org/doc/x-cut-and-paste.html" rel="nofollow">nice article from <span class="caps">JWZ</span></a><br />
+how copy/paste buffers in X11 work.</p>
+"""]]

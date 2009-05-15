@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="part"
+ subject="82.181.63.44"
+ date="2005-06-29 01:26:57"
+ content="""
+<p>Moving ssh to a non-standard port doesn&#8217;t really help, portscanning is cheap. In addition to the hostname, username and password you will have to remember which non-standard port you used for ssh on a particular machine.</p>
+"""]]

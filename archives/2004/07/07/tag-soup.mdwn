@@ -1,0 +1,25 @@
+[[!meta title="Tag soup" ]]
+[[!meta date="2004-07-20 19:26:38" ]]
+<p>Today I tested my Nokia UA armed with Ian Hickson&#8217;s tests to determine the answer to a important question.</p>
+
+<p>Is Nokia&#8217;s UA <span class="caps">XHTML</span> browser an <span class="caps">XHTML</span> browser?</p>
+
+<p>An <span class="caps">XHTML</span> UA would naturally use a <span class="caps">XML</span> parser. The big benefit for painstakingly using <span class="caps">XHTML</span> compared to &#8220;tag soup&#8221; is that it is <a href="http://hixie.ch/advocacy/xhtml"><strong>much</strong> simpler to parse</a>, which is important for mobile devices with limited resources.</p>
+
+<a href="http://www.hixie.ch/tests/">Hixie's tests</a>:
+# "Tag soup or XML?":http://www.hixie.ch/tests/adhoc/xhtml/mime-type/001
+# "Sanity test":http://www.hixie.ch/tests/adhoc/xhtml/001.xhtml
+# "text/xml":http://www.hixie.ch/tests/adhoc/xhtml/001.xml
+# "text/html test (not treating invalid HTML as XHTML)":http://www.hixie.ch/tests/adhoc/xhtml/002.html
+
+<p>Nokia3100/1.0 (04.01) UA:<br />
+# Fails &#8211; red, black, red &#8211; Not an <span class="caps">XML</span> parser then<br />
+# Pass (phew!)<br />
+# Doesn&#8217;t understand text/xml<br />
+# Fails &#8211; red &#8211; parses text/html like it is <span class="caps">XHTML</span></p>
+
+<p>I am a little shocked.</p>
+
+<p>It&#8217;s <strong>not</strong> a (compliant) <span class="caps">XML</span> parser.</p>
+
+<p>So perhaps a better question is: Is an <span class="caps">XHTML</span> browser an <span class="caps">XHTML</span> browser without an <span class="caps">XML</span> parser?</p>

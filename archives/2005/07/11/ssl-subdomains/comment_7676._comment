@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Joose"
+ subject="128.214.191.196"
+ date="2005-07-11 15:55:36"
+ content="""
+<p>Well, the client should have bought chained <span class="caps">SSL</span> certificate. It allows *.client.com style domains to be used with <span class="caps">SSL</span>.</p>
+
+<p>ssl + http is bad combination because you can&#8217;t use virtualhosts. http + tls would be better, because it could support virtualhosts.</p>
+
+<p>About signing <span class="caps">SSL</span> sites. <span class="caps">SSL</span> is used to make connection more secure by means of crypting data and verifying that the site is who the site claims to be (no man in the middle attack). Using some debian&#8217;s CA-cert or something doesn&#8217;t quite do it.</p>
+
+<p>There is some free <span class="caps">SSL</span>-certificate program where it works by web of trust thing, but then that CA-cert isn&#8217;t supported by browsers. If a bad CA-cert get&#8217;s say mozilla or to IE, then it would crash whole use of <span class="caps">SSL</span>.</p>
+
+<p>- Joose</p>
+"""]]

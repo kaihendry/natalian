@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Jon"
+ subject="82.39.115.104"
+ date="2004-07-06 03:01:34"
+ content="""
+<p>Why disallow nested links in the grammar? Remember, <a> tags only have meaning in <span class="caps">XHTML</span>, not <span class="caps">XML</span>&#8230; so the solution shouldn&#8217;t be in <span class="caps">XML</span>. Perhaps a defined order (e.g. deepest link counts) would solve this.</a></p>
+"""]]

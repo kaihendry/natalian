@@ -1,0 +1,11 @@
+[[!meta title="Webc activity" ]]
+[[!meta date="2007-07-19 11:04:30" ]]
+<a href="http://www.flickr.com/photos/hendry/845129169/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1309/845129169_7b43022006_m.jpg" width="240" height="180" alt="Webconverger's 2.26 new boot up screen" /></a>
+
+<p>Admittedly I&#8217;ve not been working much on <a href="http://webconverger.com/">Webconverger</a> in the past couple of weeks. Sorry about that.</p>
+
+<p>However yesterday I started plugging away at a couple of things and this morning I have had a couple of business enquiries! Goes to show you&#8217;ve got to show some activity in the project otherwise people won&#8217;t contribute.</p>
+
+<p>I&#8217;ve been dragging my heels the last weeks as I am starting to realise a <a href="http://natalian.org/archives/2007/05/31/chinese-font/">Webconverger image for each locale</a> is too hard on my computing resources. So I am working on getting all the iceweasel-l10n-<strong>, myspell-</strong> etc. things in one CD. And dropping <a href="http://download.webconverger.com/i18n">http://download.webconverger.com/i18n</a>. Users will have to enter in <a href="http://webconverger.org/i18n/">locale definition in manually</a>, else please purchase a <a href="http://webconverger.com/buy">customized CD</a>.</p>
+
+<p>Ok, I&#8217;ve just released 2.26 which is now <strong>double the size</strong> with all the locales &amp; dictionaries I could find crammed in there. Also I re-enabled <a href="http://webconverger.org/printing/">printing</a>. <a href="http://download.webconverger.com/">Download the Webconverger Web kiosk</a> and tell me what you think. There is a Debian installer mode (for hard drive installs) I am experimenting with, so Webconverger will be less of a LiveCD/USB, and more of a &#8220;distribution&#8221;.</p>

@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Kai Hendry"
+ subject="217.30.176.161"
+ date="2004-08-06 09:26:37"
+ content="""
+<p>fire59, you need to update your mysql package to the most recent unstable version. I will change the depends line of the package.</p>
+"""]]

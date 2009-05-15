@@ -1,0 +1,5 @@
+[[!meta title="Costly contributions in Academia" ]]
+[[!meta date="2005-04-07 06:56:01" ]]
+<p><a href="http://natalian.org/archives/2005/03/04/working-on-a-file-on-two-machines/">So</a> my <a href="http://www.cs.helsinki.fi/u/hendry/work/thesis/conf/bare_conf.ps">contribution</a> from my <a href="http://www.cs.helsinki.fi/u/hendry/msc.pdf">thesis</a> was accepted to the <a href="http://www.mbusiness2005.org/">fourth <span class="caps">IEEE</span> Conference on Mobile Business in Sydney, Australia.</a></p>
+
+<p>Unfortunately the <a href="http://www.mbusiness2005.org/rego.html">costs</a> of participating in the event are surprisingly high. As an author and presenter I expected some benefit, however now it looks like they want as much as 800AUD for my contribution.</p>

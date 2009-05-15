@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Pete"
+ subject="68.174.9.162"
+ date="2005-12-12 15:57:37"
+ content="""
+<p>Umm, isn&#8217;t the lesson here that gnupod-tools sucks, not that iTunes sucks?  I have no great feelings for or against iTunes, but clearly gnupod-tools &#8211; or some other Debian package in the chain &#8211; is broken here.  Transferring songs to an iPod from a Debian box shouldn&#8217;t &#8220;break&#8221; the iPod.  Making your friend install Debian because Debian &#8220;broke&#8221; their iPod is not a sane solution.  If your answer to this problem wasn&#8217;t &#8220;oops, sorry&#8221; but instead &#8220;iTunes sucks, here computer neophyte, change your entire life around and install Debian&#8221; then maybe you were being anti-social.</p>
+
+<p>Hope you file a bug against gnupod-tools.</p>
+"""]]

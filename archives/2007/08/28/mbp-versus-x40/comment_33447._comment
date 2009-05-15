@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="thebluesgnr"
+ subject="200.99.138.2"
+ date="2007-08-31 03:24:02"
+ content="""
+<p>Any wm you install on it will only manage X11 apps, so it might not be very useful.</p>
+
+<p>Also, you should install network-manager on your X40. :)</p>
+"""]]

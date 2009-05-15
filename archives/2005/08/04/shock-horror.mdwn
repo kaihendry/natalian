@@ -1,0 +1,18 @@
+[[!meta title="Shock, Horror" ]]
+[[!meta date="2005-08-05 10:34:49" ]]
+<p>Can&#8217;t access google.</p>
+
+<code>
+debian$ date --iso-8601=seconds
+2005-08-04T09:42:59+1000
+debian$ ping google.com
+PING google.com (216.239.57.99) 56(84) bytes of data.
+64 bytes from 216.239.57.99: icmp_seq=4 ttl=239 time=335 ms
+64 bytes from 216.239.57.99: icmp_seq=11 ttl=239 time=330 ms
+64 bytes from 216.239.57.99: icmp_seq=16 ttl=239 time=326 ms
+64 bytes from 216.239.57.99: icmp_seq=18 ttl=239 time=330 ms
+
+<p>&#8212;- google.com ping statistics&#8212;-<br />
+18 packets transmitted, 4 received, 77% packet loss, time 16997ms<br />
+rtt min/avg/max/mdev = 326.154/330.584/335.217/3.243 ms<br />
+</code></p>

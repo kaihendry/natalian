@@ -1,0 +1,27 @@
+[[!meta title="Sonera" ]]
+[[!meta date="2003-07-09 10:09:41" ]]
+<p>This morning Sonera&#8217;s <span class="caps">HOASNET</span> was not working. Great. If this happens while I am away, I won&#8217;t be able to manually restart it. To combat this, I have shoved:</p>
+
+<pre> 0 0,12    /etc/init.d/ppp restart </pre> 
+
+<p>Into root&#8217;s crontab. Let me go on about Sonera for a little while longer. While I was walking to school, a troop of Sonera employees came out of their offices and followed me to school. Just as they entered they hid their stupid smart card dog tags hanging from their necks. Guess what they were doing ? Getting a cheap <strong>student</strong> lunch. Most are running around with fake student ids, to scam off my department&#8217;s cafeteria. Thanks peeps. If you work at Sonera, please eat there too. Otherwise I swear, I will have go at them about:</p>
+
+<ul>
+<li><span class="caps">HOASNET</span> being such a dismal &#8220;service&#8221;  </li>
+</ul>
+
+<ul>
+<li>About why it is taking so long for Sonera to implement an EU directive to allow me to change providers and still keep my number  </li>
+</ul>
+
+<ul>
+<li>How they can make the most dumbest decisions, lose an awful amount of money and then come begging to the Finnish government to bail them out  </li>
+</ul>
+
+<ul>
+<li>Attempt to force me to sign an <a href="http://natalian.org/archives/2003/06/09/itp/">idiotic <span class="caps">NDA</span></a></li>
+</ul>
+
+<ul>
+<li>Why their calls are so much more expensive compared to their rivals  Why they are such unpredictable partners in research Hmmm, I think I feel better.</li>
+</ul>

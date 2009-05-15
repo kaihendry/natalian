@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="sten"
+ subject="12.106.254.66"
+ date="2007-08-21 15:38:45"
+ content="""
+<p>I can&#8217;t find the name now, but there&#8217;s an open-source distributed filesystem similar to <span class="caps">IBM</span>&#8216;s <span class="caps">GPFS</span> out there. Or, you could do what I do- get a cheap web hosting account with <span class="caps">SFTP</span> access and lots of storage/transfer, mount with EncFS on <span class="caps">SSHFS</span>, and away you go. I&#8217;m limited by my cable modem speed- getting the files all out there in the first place is rather painful, and I can only stream media at about 480p &#8211; HD video content is much to choppy to be watchable off the remote host. Still, its getting a lot better.</p>
+"""]]

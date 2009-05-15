@@ -1,0 +1,25 @@
+[[!meta title="Web desktop" ]]
+[[!meta date="2006-07-23 03:53:36" ]]
+<img src="http://static.natalian.org/2006-07-22/2006-07-23-003833_1020x235_scrot.png" alt="Firefox setup" />
+
+<p>With the help of <a href="http://delaunay.org/antoine">Antoine</a> I&#8217;ve customized my Debian Unstable Firefox.</p>
+
+<p>Via right-clicking, customize and dragging away the various widgets, I&#8217;ve managed to remove most junk and leave the stuff I want:</p>
+
+<ol>
+<li>Google&#8217;s spell check</li>
+<li>Google&#8217;s pagerank indicator</li>
+<li><a href="http://del.icio.us/hendry">del.icio.us</a> bookmarking</li>
+<li><a href="http://surink.com">sURInk.com</a> to shorten&amp;share long URLs</li>
+</ol>
+
+<p>The extensions I have installed are:</p>
+
+<ol>
+<li>Google toolbar</li>
+<li>Mozex 1.07.1 for editing textareas with vim</li>
+<li>Web Developer 1.0.2</li>
+<li>Searchbar Autosizer 1.1 to expand the Google search box for longer queries</li>
+</ol>
+
+<p>I&#8217;m also back to using <a href="http://wmii.de/">wmii</a> window manager, although I miss Ion&#8217;s speed. I should try <a href="http://wmii.de/dwm/">dwm</a> when it is packaged. Overall, I am happy with this <strong>desktop</strong>.</p>

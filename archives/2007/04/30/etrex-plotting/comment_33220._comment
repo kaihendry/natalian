@@ -1,0 +1,11 @@
+
+[[!_comment format=mdwn
+ username="anonymous"
+ subject="83.46.30.141"
+ date="2007-05-01 08:50:31"
+ content="""
+<p>No need to use a web app to convert from gpx to kml. Gps does that very well (and any other conversion from one <span class="caps">GPS</span> format to another known to man).<br />
+gpsbabel -i gpx -f myfile.gpx -o kml -F myfile.kml</p>
+
+<p>Cheers!</p>
+"""]]

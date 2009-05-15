@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-11-24 08:14:54"
+ content="""
+<p>I initially tried mod_proxy, though the links that the JBoss Application generated were not coming out right. I think it needed mod_html_proxy too. It just didn&#8217;t work after repeated attempts.</p>
+
+<p>I&#8217;ve got mod-jk working with Apache2 and I am happy with it for now.</p>
+
+<p>Thanks Joose !</p>
+"""]]

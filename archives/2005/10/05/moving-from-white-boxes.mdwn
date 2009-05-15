@@ -1,0 +1,33 @@
+[[!meta title="Moving from white boxes" ]]
+[[!meta date="2005-11-14 14:14:50" ]]
+<p>At work I am keen to move away from white boxes to something say listed on Red Hat&#8217;s <a href="https://hardware.redhat.com/hwcert/list.cgi?product=Red+Hat+Hardware+Certification&amp;quicksearch"><span class="caps">HCL</span>.</a></p>
+
+<p>Pain.</p>
+
+<p><a href="http://www.ibm.com/au/"><span class="caps">IBM</span></a><br />
+* Unable to find a midi tower with my specs in mind<br />
+* Unable to quote over the Internet<br />
+* Take forever to quote from what I&#8217;ve heard<br />
+* Stupid promotion with renting a server&#8230;<br />
+* Too expensive :(</p>
+
+<p><a href="http://www.hp.com.au">HP</a><br />
+* Unable to quote over the Internet<br />
+* Stupid size of company questions. I <span class="caps">KNOW</span> <span class="caps">THE</span> <span class="caps">SPEC</span> <span class="caps">THAT</span> I <span class="caps">WANT</span>.<br />
+* Minimum requirements of software. <span class="caps">FFS</span>&#8230;<br />
+* Too many unneccessary questions<br />
+* Awful Website, awful URLs, awful navigation&#8230;<br />
+* <a href="http://h50043.www5.hp.com/campaigns/promotions/promo_detail1.asp?pid=2366&amp;ptid=1">Microsoft 2003 server</a></p>
+
+<p><a href="http://www.dell.com.au"><span class="caps">DELL</span></a><br />
+* Terrible Website, terribly long forms, URLs make little sense<br />
+* Asking me for too much information like the size of company and applications! FS.<br />
+* Getting put on hold and transferred to two different sales people and then onto an engineer in Bangalore<br />
+* Still takes seemingly forever to quote<br />
+* Seem to settle on a <a href="https://hardware.redhat.com/hwcert/show.cgi?id=147171">SC1420</a><br />
+* Eventually get an email quote with <span class="caps">PDF</span> attachment with 200AUD knocked off the quote given over the phone. I hate these annoying Dell promotion codes.<br />
+* Difference in <span class="caps">RAID</span>-1 solution and non-RAID solution is like 1000AUD. That&#8217;s insane.<br />
+* Trying to get me to buy 4&#215;512 <span class="caps">RAM</span> instead of 2&#215;1G. Honestly&#8230;<br />
+* Seem to be unable to refer to a Web form to complete payment. FS. Looks like I have to call them up voice if I want buy this. <span class="caps">ARGH</span>!</p>
+
+<p>Update: Another email from Dell with a large <span class="caps">PDF</span> and survey, saying if we order today, we get 100AUD off! Instead I&#8217;ve decided to buy <strong>local</strong> a rack and cabinet from our dedicated server hosts, <a href="http://www.hostcentral.net.au/">Hostcentral.</a> The price in the end wasn&#8217;t far from Dell&#8217;s quote and it was a more &#8220;professional&#8221; rack format.</p>

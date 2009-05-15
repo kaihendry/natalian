@@ -1,0 +1,40 @@
+[[!meta title="Web application policy" ]]
+[[!meta date="2005-06-23 09:28:05" ]]
+<p>Web applications. Mega important. :)</p>
+
+<p>I raised the <a href="http://www.debian.org/News/weekly/2004/33/">issue sometime ago.</a> Though since I have been gallivanting across Russia and Asia until now I didn&#8217;t do any work in this area.</p>
+
+<p>Only recently I noticed the issue was <a href="http://www.debian.org/News/weekly/2005/18/">brought up again</a> by Neil McGovern and a <a href="http://lists.debian.org/debian-webapps/">debian-webapps mailing list created.</a></p>
+
+<p>So back to work.</p>
+
+<p>I really wanted to see the top level directory /web. Mainly because that&#8217;s how I have configured my own servers for years and I find it a good solution.</p>
+
+<p>So a little foolishly I spewed out my thoughts on <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=314808">two</a> <a href="http://lists.debian.org/debian-webapps/2005/06/msg00029.html">fronts.</a></p>
+
+<p>Ok, I <strong>concede</strong>. ;)</p>
+
+<p>Lets go for the non-consensus <a href="http://www.pathname.com/fhs/pub/fhs-2.3.html#SRVDATAFORSERVICESPROVIDEDBYSYSTEM">/srv/www could be also /srv/physics/www</a> of <a href="http://www.pathname.com/fhs/"><span class="caps">FHS</span>&#8216;s</a> /srv/www . Though, I still think we should store package files by HTTP_HOST.</p>
+
+<p>So:<br />
+/srv/www/HTTP_HOST</p>
+
+<p>I mean everybody has an Apache configuration like this below already, don&#8217;t you?</p>
+
+<pre>
+debian$ cat /etc/apache2/sites-available/virtual
+NameVirtualHost *
+<VirtualHost *>
+UseCanonicalName    Off
+VirtualDocumentRoot /web/%0
+#LogFormat "%V %h %l %u %t "%r" %>s %b" vhost_common
+#CustomLog /var/log/apache/access_log full
+Options All
+</VirtualHost>
+</pre>
+
+<p>No messy editing of httpd.conf after a package install!</p>
+
+<p>I still haven&#8217;t got my head around the problem. I know about my cases or packages, but I am not sure what type of package files are referred to here. I probably need to work out some examples or test cases and look at the other Web applications in Debian.</p>
+
+<p><a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=314808">Bug #314808</a> is one to watch.</p>

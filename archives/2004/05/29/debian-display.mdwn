@@ -1,0 +1,37 @@
+[[!meta title="Debian Display" ]]
+[[!meta date="2004-05-29 19:53:44" ]]
+<p>It&#8217;s not easy being a Debian user when it comes to displays.</p>
+
+<p>I still have not managed to direct rendering to work on this <span class="caps">ATI</span> Radeon based chipset. Yes, I have radeon and agpgart in lsmod. There are so many critical issues with displays in Debian systems&#8230; I am going to ramble here.</p>
+
+<p>Drivers are complex beasts nowadays. Non-free is not an option. That means Free software users are out of this 3D gaming loop.</p>
+
+<p>Xfree86 and XF86Config-4 is&#8230; arg&#8230; you know&#8230;</p>
+
+<pre>
+hendry@scrooge-15:/etc/X11$ apt-cache search fonts | wc -l
+332
+</pre>
+
+<p>Do we really need so many? xfont, truetype, font servers&#8230; It&#8217;s too complicated. :/</p>
+
+<p>Unicode(ISO 10646) is such a pain in the ass. Many fonts do not have all the glyphs. What&#8217;s worse is you can&#8217;t tell easily how complete and compliant a Unicode font you are using has all the glyphs you might need. Is there some certification scheme? And I assume fully unicode fonts are quite hefty on the memory (and hard to find!).</p>
+
+<p>I would like a <strong>policy</strong> where fonts on the system were just a couple good scalable complete fonts. A default Debian font! One for fixed width and one for variable. I should post a coherent version of this to debian-devel.</p>
+
+<p>Anti-aliasing should be looked at. Yes, I have that stupid package mozilla-xft. On my display it makes fonts look blurry. I want my font&#8217;s sharp and defined. I want them to be able to scale. Small fonts look crap typically on my display. And then you get different types of hardware powering the display. <span class="caps">CRT</span>, <span class="caps">CRT</span> Flat, <span class="caps">TFT</span>&#8230; argh! Madness.</p>
+
+<p>I want uniformity. I want the same font and the same readable size on any of the many different workstations I might use.<br />
+Right now will my uxterm font:</p>
+
+<pre>
+UXTerm*Font: -efont-fixed-medium-r-normal-*-16-*-*-*-*-*-iso10646-1
+</pre>
+
+<p>set in my ~/.Xresources, work on a RH machine? Will it be the same readable size as it is right now on a 1024&#215;768 display as it is on my thinkpad&#8217;s 1400&#215;1050? Btw, I am not terribly happy with &#8220;efont&#8221;. I would like zeros crossed like <a  href="http://www.tobias-jung.de/seekingprofont/">profont</a>. Efont also looks a little oddly square to me. At least it&#8217;s readable right now. The previous default wasn&#8217;t. I found the details of the mystic line from a post on a Unicode mailing list somewhere. I should have found it with xfontsel, but didn&#8217;t. It sucks.</p>
+
+<p>Now a little about how I like to have my display setup currently. Ion providing two vertically split windows. Uxterm providing the unicode terminal with at least 80 columns wide. 80 columns seems to be a magical limit of how long a line can be for puny humans. Finally the terminals are running bash with screen. I have about four virtual desktops I move between. One for <span class="caps">IRC</span>/Email. One for hacking on the local machine, and one for a remote machine I am working on. Final desktop is for Mozilla. I would love to teach ion to set this up for me when I log in. When I log in via xdm, I have to waste time setting up windows, connections and waiting for Mozilla to start. Grrrr&#8230;.</p>
+
+<p>Here is a screen shot of my setup, showing <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.045.htp">something about my display</a>:</p>
+
+<a href="http://pictures.natalian.org/screenies/2004/may/29/18:29:08/"><img src="http://pictures.natalian.org/screenies/2004/may/29/18:29:08/350x262" alt="Screenshot" /></a>

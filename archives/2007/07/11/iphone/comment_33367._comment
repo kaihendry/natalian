@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Henri Sivonen"
+ subject="84.239.175.85"
+ date="2007-07-12 22:01:18"
+ content="""
+<p>Suppose you have a <span class="caps">JPEG</span> 2000 image that is w pixels wide, h pixels high and b bytes in size. Suppose you want to load a version that is scaled down to being w/2 pixels wide and h/2 pixels high. If you re-encoded the image, you&#8217;d expect the scaled image to take b/4 bytes. However, if you want to get equivalent quality by reading the original <span class="caps">JPEG</span> 2000 image partially, you have to read roughly b/2 bytes, which is double compared to the re-encoded case.</p>
+"""]]

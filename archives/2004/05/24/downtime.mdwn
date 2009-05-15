@@ -1,0 +1,15 @@
+[[!meta title="Downtime" ]]
+[[!meta date="2004-05-24 15:28:54" ]]
+<p>On the 16th of May this machine went down to be moved to a new location.</p>
+
+<p>I elected to get up on a Sunday morning to help move and troubleshoot any problems. Unfortunately I was there for a couple of hours and still the main router at <a href="http://pannuhuone.org/">pannuhuone</a> wasn&#8217;t up, so I left for lunch and prayed my machine would come up. It didn&#8217;t for almost a week. Here&#8217;s why:</p>
+
+<ul>
+<li>I switched to a stock kernel and forgot to `echo via-rhine >> /etc/modules`, so the <span class="caps">NIC</span> driver didn&#8217;t load and the interface didn&#8217;t come up!</li>
+<li>The <span class="caps">DNS</span> control panel at domainmonger <strong>and</strong> gandi <span class="caps">SUCKS</span></li>
+<li><span class="caps">DNS</span> changes take upto 2 days to propagate. Oh fantastic. So if you&#8217;ve made a mistake, wait 4 days&#8230;</li>
+<li>Apache of course can&#8217;t serve until it can dig the domain. You need to restart it once it can.</li>
+<li>I didn&#8217;t realise that the old IP address was in the httpd.conf and I forgot to change it (NameVirtualHost)</li>
+<li>pannuhuone was really slow to update the <span class="caps">PTR</span> record for daidalos.pannuhuone.org which a ton of stuff relies on</li>
+<li>Finally I forgot to `sudo dpkg-reconfigure exim4-config`, reconfigure exim <span class="caps">MTA</span>.</li>
+</ul>

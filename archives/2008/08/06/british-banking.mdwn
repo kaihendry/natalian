@@ -1,0 +1,29 @@
+[[!meta title="British banking - the poor customer service industry" ]]
+[[!meta date="2008-08-07 07:33:03" ]]
+<p>In the UK, people believe they have a thriving banking service industry. The British banking system is largely free of cost (except if you&#8217;re a business), however when you want to transfer money prepare to <a href="http://en.wikipedia.org/wiki/Bacs">wait three working days</a>. That&#8217;s archaic.</p>
+
+<a href="http://www.flickr.com/photos/rcfl/1429656963/in/pool-lloyds_open_house">
+<img src="http://farm2.static.flickr.com/1107/1429656963_10372ef364_m.jpg" />
+</a>
+
+<p>In the <a href="http://webconverger.com">business I direct</a> I typically have to do business all over the world. To do transfers in the <a href="http://natalian.org/archives/2006/08/26/barclays-and-eu-banking/">EU</a> or the <span class="caps">USA</span>, prepare to wait at least 5 working days, fill in forms physically at your bank and pay at least 20GBP. Call that service?</p>
+
+<p>I decided to write to my <a href="http://www.writetothem.com/who?pc=GU21+5EQ">Members of the European Parliament</a> last March. Only <strong>one</strong> <a href="http://www.carolinelucasmep.org.uk/"><span class="caps">MEP</span>, Caroline Lucas</a> put forth my complaint to a member of the <a href="http://en.wikipedia.org/wiki/European_commission">European Commission</a>.</p>
+
+<p>Five months later, I received a <a href="http://static.natalian.org/2008-08-06/CLHendryreply.pdf">response from Charlie McCreevy</a>, saying:</p>
+
+<ol>
+<li>Acknowledges UK cross border charges are &#8220;very high&#8221;. Though UK banks are free to charge whatever they like.</li>
+<li>I should &#8220;convince my bank&#8221; that I do not need to appear in person to make a international transfer.</li>
+<li>An <a href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:319:0001:01:EN:HTML">EU directive 2007/64/EC</a> should force UK banks to take at <strong>most</strong> two working days to complete an EU transfer by 2012.</li>
+</ol>
+
+<p>So:</p>
+
+<ol>
+<li>20GBP charge is not going away</li>
+<li>Hopefully <a href="http://mjr.towers.org.uk/blog/2007/banking#list">UK banking Web applications</a> will improve to add a cross-border transfer form. Though judging by the history of how awful British Web banking applications are&#8230; I am not hopeful. I also suspect stupid &#8220;anti-terrorism&#8221; laws have also made this process, extremely painful in the UK.</li>
+<li>Down from 5 days to 2 days by 2012&#8230; so carry on waiting</li>
+</ol>
+
+<p>The British banking service industry needs to better serve its small Internet business banking customers. <span class="caps">AFAIK</span> <a href="http://googlecheckout.blogspot.com/2007/04/google-checkout-arrives-in-uk.html">Google checkout only operates in the US &amp; UK</a>. I would move my business bank account overnight to Europe if <a href="http://checkout.google.com">Google checkout</a> operated in another EU country. I think we&#8217;re still very far from Economic Union. :/</p>

@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="wagner"
+ subject="201.55.6.181"
+ date="2007-07-10 21:29:23"
+ content="""
+<p>Hi,</p>
+
+<p>I am using debian etch (4.0) and I would like to ask what the repository I will must put in the my  sources.list to make &#8220;apt-get install jboss&#8221; work. And whats the exact name of the package?</p>
+
+<p>Excuse for the qualityof my english .</p>
+
+<p>thanks a lot,</p>
+
+<p>wagner</p>
+"""]]

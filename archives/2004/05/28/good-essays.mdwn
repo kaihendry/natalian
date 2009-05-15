@@ -1,0 +1,17 @@
+[[!meta title="Cryptography, a Tool for Today" ]]
+[[!meta date="2004-05-28 18:23:48" ]]
+<p>I found an old 1997 link <a href="http://www.bath.ac.uk/~masdr/show.html">about good essays on the web</a> whilst in a <a href="http://www.google-fight.com/cgi-bin/compare.pl?q1=Kai+Hendry&amp;q2=Jamie+Kitson&amp;B1=Make+a+fight%21&amp;compare=1&amp;langue=us">googlefight with Jamie Kitson.</a></p>
+
+<p>It is an essay about cryptography I wrote in my first year of my Computer Science degree in Bath. Seven years later, I am writing my Masters thesis in Helsinki.</p>
+
+<p>If you don&#8217;t have Word, you can use something such as <a href="http://packages.debian.org/cgi-bin/search_packages.pl?keywords=antiword&amp;searchon=names&amp;subword=1&amp;version=all&amp;release=all">antiword</a>. I chose to summon Openoffice 1.1.0 and see what it could to the proprietary document encoding.</p>
+
+<ul>
+<li>It renders Word document perfectly</li>
+<li>It converts Word to really ugly <span class="caps">HTML</span>. And even then it&#8217;s not very good.</li>
+<li>It exports to <span class="caps">PDF</span> just fine. You are unable to view it in Openoffice. :/ Acroread shows great results, although xpdf shows a garbled mess!</li>
+</ul>
+
+<p>If anyone can tell me how to convert Word documents to <span class="caps">XHTML</span> and <span class="caps">CSS</span> with images stored neatly as <span class="caps">PNG</span> in an images/ directory, I would love to know.</p>
+
+<p>Updated: <a href="http://docs.google.com/Doc?id=dcxr29xt_200gtxbn47t">Cryptography, a Tool for Today , by Kai Hendry. Google <span class="caps">DOC</span> version</a></p>

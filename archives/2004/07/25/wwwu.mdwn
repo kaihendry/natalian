@@ -1,0 +1,15 @@
+[[!meta title="www update" ]]
+[[!meta date="2004-07-27 19:20:09" ]]
+<p><a href="http://developers.slashdot.org/developers/04/07/23/1646237.shtml?tid=156&amp;tid=95">Slashdot:</a><br />
+* <a href="http://www.w3.org/MarkUp/2004/xhtml-faq"><span class="caps">XHTML</span> <span class="caps">FAQ</span></a><br />
+* Lacking in any sense of reality</p>
+
+<p><a href="http://www.xiven.com/">Tom:</a><br />
+* <a href="http://www.xiven.com/weblog/2004/07/24/UserAuthenticationOnTheWorldWideWeb">Web app auth</a></p>
+
+<p><a href="http://iki.fi/hsivonen/">Henri:</a><br />
+* Google does not index <span class="caps">XHTML</span><br />
+* Using <span class="caps">XHTML</span> means no incremental page loads</p>
+
+<p>Kai:<br />
+* <a href="http://listserver.dreamhost.com/pipermail/whatwg-whatwg.org/2004-July/001492.html">Remove Accesskey</a></p>

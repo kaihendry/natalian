@@ -1,0 +1,17 @@
+[[!meta title="Mass deployment" ]]
+[[!meta date="2006-04-06 22:43:08" ]]
+<p>Ok, I glanced over the earlier DP <a href="http://stratusandtheswirl.blogspot.com/2006/03/debian-everywhere-using-ltsp.html"><span class="caps">LTSP</span> post</a> and I thought I should let out this brain fart.</p>
+
+<p><span class="caps">LTSP</span> sucks, because:</p>
+
+<ul>
+<li>It needs a super strong server to do the heavy lifting</li>
+<li>A decent network design to go along with it</li>
+<li>I recall <span class="caps">LTSP</span> not making use of the hard drive. That&#8217;s stupid. Every computer has a hard drive.</li>
+</ul>
+
+<p>The good thing about <span class="caps">LTSP</span> is that it is very easy to get a number of machines booting up Debian, which is impressive.</p>
+
+<p>So really <strong>mass deployment</strong> in my mind needs to be with the debian installer&#8217;s preseed technology and apt-get updating itself. Are there any guides how to make a Debian machine auto-update? Like RH&#8217;s up2date? Ubuntu&#8217;s gnome updating thing is painful.</p>
+
+<p>Any other better ideas?</p>

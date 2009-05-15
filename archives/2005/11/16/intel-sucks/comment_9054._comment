@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Joose"
+ subject="128.214.182.158"
+ date="2005-11-16 17:43:05"
+ content="""
+<p>Of course they appear as 2 processor and yes, it requires <span class="caps">SMP</span> kernel.</p>
+
+<p>Like, when using dual core processor, how else you can use the another processor?</p>
+
+<p>Hyperthreading is one sort of dual processoring thing.</p>
+
+<p>And yes, applications which are threaded make use of several <span class="caps">CPU</span>. Of course application which is only 1 thread, doesn&#8217;t make use of many processors.</p>
+
+<p>- Joose</p>
+"""]]

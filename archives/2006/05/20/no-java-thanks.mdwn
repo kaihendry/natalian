@@ -1,0 +1,15 @@
+[[!meta title="No Java thanks" ]]
+[[!meta date="2006-05-20 19:32:17" ]]
+<p>I just visited Google and Firefox popped up a message, &#8220;Install Missing Plugins&#8221;.</p>
+
+<p>Oh crap. Are Google using (more) Flash I first think?</p>
+
+<p>Then I go see what plugin it wants&#8230; the <strong>Java runtime environment</strong> !! <span class="caps">WHAT</span>? <span class="caps">NOOOO</span>!</p>
+
+<p>I also sadly saw this <a href="http://code.google.com/webtoolkit/">webtoolkit</a> released recently by Google that seems to be a Java + Eclipse monster.</p>
+
+<p>I hate Java. Absolutely loathe it. Recently there has been talk of an amazing license change to warrant its inclusion into Debian.</p>
+
+<p>Evil.</p>
+
+<p>I thought Java was dying. :(</p>

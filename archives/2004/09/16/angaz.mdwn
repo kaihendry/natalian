@@ -1,0 +1,15 @@
+[[!meta title="Angaz" ]]
+[[!meta date="2004-09-16 13:44:06" ]]
+<p>A preview of the <a href="http://www.websters-online-dictionary.org/definition/english/ub/ubuntu.html">Ubuntu</a> <a href="http://www.ubuntulinux.org/">Linux distribution</a> is out.</p>
+
+<p>For the time being, you could order some <a href="http://shipit.ubuntulinux.org/">free copies.</a> Their script could do with some polishing, however I hope my 386 arch CD comes through in the post.</p>
+
+<p>After <a href="http://blog.einval.com/2004/09/13#DVDs-too-big">Steve&#8217;s worrying post about Debian not fitting on a <span class="caps">DVD</span></a> I hope that <a href="http://www.ubuntulinux.org/">UbuntuLinux</a> has all I need. Wait a minute. Nothing can satisfy <strong>my</strong> needs! :)</p>
+
+<p>So, who is the audience of this Debian based UbuntuLinux distro? Mum&amp;Pop? <a href="http://www.skolelinux.org/portal/index_html">School?</a> <a href="http://www.redhat.com/software/rhel/">Enterprise?</a> <a href="http://www.google.com/search?q=barbie+linux&amp;sourceid=firefox&amp;start=0&amp;start=0&amp;ie=utf-8&amp;oe=utf-8">Little girls?</a></p>
+
+<p>Why bother using <strong>heavy</strong> <a href="http://www.plone.org/">plone</a> after the success of something like <a href="http://wikipedia.org/">Wikipedia?</a> Make the entire site a Wiki.</p>
+
+<p>I am very wary of Gnome 2.8. I have said this several times before, but I&#8217;ll just say it again (and again). The desktop should be just a <a href="http://mozilla.org/">browser.</a> I would sport <a href="http://modeemi.cs.tut.fi/~tuomov/ion/">Ion.</a> Fast &amp; effective. Although it wouldn&#8217;t look great to non-believers.</p>
+
+<p>My Zulu is pretty bad, however I hope the title of the post translates to &#8220;I don&#8217;t know&#8221;.</p>

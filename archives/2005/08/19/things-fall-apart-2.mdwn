@@ -1,0 +1,15 @@
+[[!meta title="Things fall apart" ]]
+[[!meta date="2005-08-20 11:11:02" ]]
+<p>Made <a href="http://hendry.iki.fi/debian/unstable/">packages</a> of <a href="http://wordpress.org/development/2005/08/one-five-two/">Wordpress 1.5.2.</a></p>
+
+<p>This needs testing. Though it should be OK for Fabio to upload.</p>
+
+<p>I have had <a href="http://trac.natalian.org/log/debian/wordpress/">horrible problems reverting to a pre dbconfig-common Wordpress packaging</a> with Subversion. dbconfig-common just isn&#8217;t going to work with Wordpress for awhile. Use the setup-mysql example for now.</p>
+
+<p>Odd problem on upgrade with mysql I have yet to work out. Also base-config seems broken on my machine after a dist-upgrade. Great.</p>
+
+<p>3AUD an hour in this Internet cafe. I sort of got <a href="http://pickupline.berlios.de/">pickup line</a> working with an Azure accesspoint in Canberra <span class="caps">ACTON</span> shopping centre. Argh, free (Wireless) Internet is hard. :(</p>
+
+<p>I&#8217;m off to see the Australian National Museum. Canberra is actually surprisingly good, though I am a geek and I like museums, art and exhibits etc. Buses are a scandal though. I wish I bothered to rent a car.</p>
+
+<p>Sydney tomorrow.</p>

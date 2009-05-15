@@ -1,0 +1,11 @@
+[[!meta title="Java1.4 sucks" ]]
+[[!meta date="2005-07-20 11:16:03" ]]
+<code>
+./run.sh: line 182: 19321 Real-time signal 28     "$JAVA" $JAVA_OPTS -Djava.endorsed.dirs="$JBOSS_ENDORSED_DIRS" -classpath "$JBOSS_CLASSPATH" org.jboss.Main "$@"
+</code>
+
+<p>One of the &#8220;test&#8221; servers at work bombed out with the above message. I almost had a heart attack.</p>
+
+<p>Lucky a google revealed I need to <a href="http://forum.java.sun.com/thread.jspa?threadID=563298&amp;messageID=3575166">upgrade the <span class="caps">JVM</span> to make this problem go away.</a></p>
+
+<p>But still! What a <a href="http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=4927336">bad ass bug that was in in <span class="caps">JVM</span> 1.4.</a></p>

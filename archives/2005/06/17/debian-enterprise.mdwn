@@ -1,0 +1,20 @@
+[[!meta title="Debian Enterprise" ]]
+[[!meta date="2005-06-17 19:19:22" ]]
+<p>I have been subscribed to the <a href="http://www.redhat.com/">Red Hat</a> <a href="https://www.redhat.com/mailman/listinfo/enterprise-watch-list">enterprise-watch-list</a> for a week and there has been about <strong>12</strong> <a href="https://rhn.redhat.com/errata/rhel4es-errata.html">Red Hat Security Advisories.</a></p>
+
+<p>The last Debian Security Advisory was <a href="http://www.debian.org/security/2005/dsa-732">2 weeks ago.</a> That amazes me considering RH Enterprise is considered stable and it has far fewer packages.</p>
+
+<pre>
+[root@RHES ~]# up2date --showall | wc -l
+1468
+
+<p>debian$ grep Package: /var/lib/apt/lists/ftp.monash.edu.au_pub_linux_debian_dists_sarge_main_binary-i386_Packages | wc -l<br />
+15198<br />
+</pre><br />
+Hmm&#8230; can that be right? I think there is <a href="http://libresoft.urjc.es/debian-counting/sarge/index.php?menu=Statistics">8633 packages in Sarge&#8230;</a></p>
+
+<p>Is <a href="http://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=security">Debian keeping up?</a> Are there mechanisms to compare security related problems between distrbutions?</p>
+
+<p>Most likely is that RH is using more &#8220;bleeding edge&#8221; software. I have personally dealt with security updates of Wordpress, yet those don&#8217;t make advisories as the package is not in stable.</p>
+
+<p>Redhat does seem to by default update to these updates automatically. Maybe Debian should do that?</p>

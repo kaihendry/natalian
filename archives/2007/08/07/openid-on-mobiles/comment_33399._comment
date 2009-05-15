@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="91.84.62.62"
+ date="2007-08-09 11:26:51"
+ content="""
+<p>I&#8217;ve just tried certificate-based login on Iceweasel and that works. However certificate-based login <a href="http://flickr.com/photos/hendry/1063239173/" rel="nofollow">does not work</a> on any of my mobile UAs. :/</p>
+
+<p>I need to push some feedback to myopenid.com</p>
+"""]]

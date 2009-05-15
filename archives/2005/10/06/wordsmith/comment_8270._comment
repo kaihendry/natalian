@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Josh Triplett"
+ subject="71.111.80.5"
+ date="2005-10-07 04:12:10"
+ content="""
+<p>You might try dict.org, which runs the dictd service and also offers a web interface to the dict data.</p>
+"""]]

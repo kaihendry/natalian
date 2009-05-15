@@ -1,0 +1,17 @@
+
+[[!_comment format=mdwn
+ username="Kai"
+ subject="128.214.48.17"
+ date="2004-07-09 13:03:36"
+ content="""
+<p>I must adjust the third picture, to show lots of style sheets.</p>
+
+<code>
+15:34 < @draq> Ok, I was thinking that media queries might encourage people to do device dependent engineering. I will instead think of them giving the *options* that designers
+              want.
+15:35 < @draq> :)
+15:35 < @Hixie> yes
+15:36 < @Hixie> they help authors create just one document that can then be used on all devices
+15:36 < @Hixie> instead the authors might need to create one document per device, which is much much worse.
+</></></></></></code>
+"""]]

@@ -1,0 +1,12 @@
+[[!meta title="Nokia Media queries" ]]
+[[!meta date="2004-06-07 08:08:38" ]]
+<p>I have discovered my:<br />
+<pre><br />
+Nokia3100/1.0 (04.01) Profile/MIDP-1.0 Configuration/CLDC-1.0<br />
+</pre></p>
+
+<p>Completely ignores media queries, with a <a href="http://media.dabase.com/">Media test suite</a> I knocked up. This is sad, as when this Nokia tries to load the floating style sheet of this blog it does a terrible job of it. It&#8217;s better when there isn&#8217;t a style sheet attached at all, which kind of defeats the <a href="http://www.w3.org/People/Janne/porject/paper.html">whole <span class="caps">XHTML</span> thing</a> in the first place. It&#8217;s real <a href="http://natalian.org/archives/2004/04/01/back-to-top/">UA shame</a> when the UA does not allow you to turn off crappy implementations of <span class="caps">CSS</span>.</p>
+
+<p>So what now? You need to write some &#8220;middleware&#8221; to detect the specific device and not feed it a proper style sheet. That is really the wrong way to engineer device independant (aka Multi-purpose published, Accessible&#8230;) web pages.</p>
+
+<p>The real culprit is the UA on this <a href="http://www.forum.nokia.com/main/0,6566,015_003,00.html">Nokia 3100</a>. :/</p>

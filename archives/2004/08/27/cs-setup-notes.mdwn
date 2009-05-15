@@ -1,0 +1,57 @@
+[[!meta title="CS Setup notes" ]]
+[[!meta date="2005-10-05 15:08:41" ]]
+<p>I checked out the <a href="http://www.cs.helsinki.fi/compfac/uutiset/index.html#english">CS department&#8217;s 4 new FS servers.</a></p>
+
+<p>Here are my notes:</p>
+
+<p><span class="caps">IBM</span> e-server (made in China) hardware <strong>works</strong>. It was assembled painlessly by CS staff. No need for <span class="caps">IBM</span> engineers. It is expensive though, 100000 <span class="caps">EUR</span> for about 5000+ users. Typical concurrent users is 500.</p>
+
+<p>The <span class="caps">IBM</span> console hardware is beautiful. They way it slid out. The black <span class="caps">IBM</span> keyboard with the red nipple. Sexy stuff.</p>
+
+<p>So about 20EUR per user. Of course 100kEUR is one off cost for about 5 years I would imagine. Then again the average time it takes to graduate from my department is 7 years.</p>
+
+<p>Tape drives are still the best way to backup terrabytes of information.</p>
+
+<p>Sun hardware is expensive and isn&#8217;t neccessarily better quality than <span class="caps">IBM</span> hardware. It does better in hardware scalability. You can plug in more CPUs when the machine is running. SunOS is difficult to administrate compared to <span class="caps">GNU</span>/Linux based systems. I&#8217;d agree with that, as I remember them from when I worked with Siemens. Unimpressive to say the least.</p>
+
+<p>Users are distributed amongst the four FS with a md5sum in a userpath <a href="http://svn.natalian.org/projects/scripts/nfs/">script.</a></p>
+
+<code>
+melkinpaasi$ sh userpath hendry
+f4dfad803df83144a5be86d9bca87678
+f4
+/fs-3/4/hendry
+</code>
+
+<p>It surprisingly seems to work. See the distribution:<br />
+<code><br />
+melkinpaasi$ sh countusers.sh <br />
+/fs-0 : 1114<br />
+/fs-1 : 1098<br />
+/fs-2 : 1085<br />
+/fs-3 : 1175<br />
+Grand Total: 4472<br />
+</code></p>
+
+<p>I also liked the way auth is setup instead of the horrible <span class="caps">LDAP</span>:</p>
+
+<code>
+melkinpaasi$ ls /etc/r
+group  lost+found  passwd  shadow
+melkinpaasi$ mount
+/dev/hda3 on / type ext3 (rw)
+none on /proc type proc (rw)
+none on /dev/pts type devpts (rw,gid=5,mode=620)
+usbdevfs on /proc/bus/usb type usbdevfs (rw)
+/dev/hda4 on /home type ext3 (rw)
+sunrpc on /var/lib/nfs/rpc_pipefs type rpc_pipefs (rw)
+fs-0:/fs-0 on /fs-0 type nfs (rw,nosuid,nodev,bg,nfsvers=3,addr=128.214.9.55)
+fs-1:/fs-1 on /fs-1 type nfs (rw,nosuid,nodev,bg,nfsvers=3,addr=128.214.9.56)
+fs-2:/fs-2 on /fs-2 type nfs (rw,nosuid,nodev,bg,nfsvers=3,addr=128.214.9.57)
+fs-3:/fs-3 on /fs-3 type nfs (rw,nosuid,nodev,bg,nfsvers=3,addr=128.214.9.58)
+/dev/ram0 on /etc/r type ext2 (rw)
+fs:/fs on /fs type nfs (rw,nosuid,nodev,bg,nfsvers=3,addr=128.214.48.121)
+fs:/group on /group type nfs (rw,nosuid,nodev,bg,nfsvers=3,addr=128.214.48.121)
+</code>
+
+<p>Quite a hack I&#8217;m told, but it works.</p>

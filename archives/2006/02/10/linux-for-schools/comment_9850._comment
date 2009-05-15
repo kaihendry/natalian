@@ -1,0 +1,24 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="221.143.162.18"
+ date="2006-02-12 12:48:05"
+ content="""
+<p>Ebox seems also far too complex : <a href="http://www.ebox-platform.com/features">http://www.ebox-platform.com/features</a></p>
+
+<p>Firewall &#8211; Done by cheap hardware</p>
+
+<p>Fileserver &#8211; I&#8217;d rather get a seperate netapp</p>
+
+<p>Mail &#8211; outsource that to a hosting company or Google <a href="http://slashdot.org/articles/06/02/11/1421200.shtml">http://slashdot.org/articles/06/02/11/1421200.shtml</a></p>
+
+<p>Jabber &#8211; Outsource to a hosting company (dreamhost) or google</p>
+
+<p><span class="caps">DNS</span> cache with Bind? Surely there is a simpler way&#8230;</p>
+
+<p>Date and time server &#8211; this should be done by the router</p>
+
+<p><span class="caps">VLAN</span> &#8211; another feature of the dedicated router box</p>
+
+<p>A lot of features in ebox are just bloat to me. I want a lean mean solution that&#8217;s easy to deploy to lots of computers.</p>
+"""]]

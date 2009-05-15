@@ -1,0 +1,15 @@
+
+[[!_comment format=mdwn
+ username="Joose Vettenranta"
+ subject="82.181.82.163"
+ date="2006-05-20 18:56:10"
+ content="""
+<p>Well, seems like didn&#8217;t read the friendly webpage well enough.</p>
+
+<p>It&#8217;s interesting idea how the google did the thing they did. They create software using Java, and then compiling it to javascript, making <span class="caps">AJAX</span>-applications.  So I don&#8217;t see any references to Java to be required on the browser.</p>
+
+<p>See the <span class="caps">FAQ</span>:</p>
+
+<p>What is Google Web Toolkit?<br />
+Google Web Toolkit (GWT) is a Java software development framework that makes writing <span class="caps">AJAX</span> applications easy. With <span class="caps">GWT</span>, you can develop and debug <span class="caps">AJAX</span> applications in the Java language using the Java development tools of your choice. When you deploy your application to production, the <b><span class="caps">GWT</span> compiler translates your Java application to browser-compliant JavaScript and <span class="caps">HTML</span></b>.</p>
+"""]]

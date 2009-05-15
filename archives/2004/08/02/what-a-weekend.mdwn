@@ -1,0 +1,46 @@
+[[!meta title="What a weekend" ]]
+[[!meta date="2004-08-02 12:57:33" ]]
+<p>Since my research contract has ended I have had to return my Thinkpad T30 and my life has turned upside down!</p>
+
+<p>Almost everything I have is in my <a href="http://svn.natalian.org/">repo</a> or <a href="http://pictures.natalian.org">pictures</a> .Except say my gnupg secret key.</p>
+
+<p>So I thought I would move .gnupg and write it to CD. I would just simply link the dir when I needed it. Then I would dig up my landlord&#8217;s PC and use that to do Debian work. But I forgot:</p>
+
+<ul>
+<li>CD-R (multisession) can&#8217;t be read in old computer <span class="caps">CDROM</span> drives</li>
+<li><span class="caps">ALWAYS</span> use tar</li>
+<li><span class="caps">ALWAYS</span> check if it burnt correctly. In fact, make copies.</li>
+<li>CD media <span class="caps">SUCK</span> and you&#8217;re mad to use them</li>
+</ul>
+
+<a href="http://pictures.natalian.org/kodak/2004/jul/30/21:56:32/">
+Hours were spent getting this Win98 crap going. The mysteries of the Network Neighbourhood properties make ifconfig and route seem like godsends. The End/Wait/Cancel dialogs. OMG. The restarting... the praying...
+</a>
+
+<p>Anyway after tracking down a CD-R compatible CD-ROM drive I discovered that the gnupg folder was not on the CD. Why? I am not sure. Could be k3b not burning dotfiles. Stress. Panic. <span class="caps">ARGHHHHHHHHHHHHHHHHHHHHHHHHHH</span></p>
+
+<a href="http://pictures.natalian.org/kodak/2004/jul/31/09:37:30/">
+On Saturday I decided to give up computers and become a fish monger.
+</a>
+
+<p>I learnt how to:<br />
+* Fillet fish<br />
+* Scale fish<br />
+* Sharpen knives</p>
+
+<p>Oh crap, <strong>the key</strong> I was thinking with a hang over on Sunday morning.<a href="http://pictures.natalian.org/kodak/2004/jul/31/23:25:53/">Those alcohol testing devices are dangerous at parties.</a> I thankfully made a backup on a piece of paper with had about 20 staples in to protect it from prying eyes.</p>
+
+<p>Found paper. Now I needed to scan it in. I don&#8217;t have a scanner. Managed to find a friend-of-a-friend who has a scanner on Sunday morning. Scanned it in. Used <a href="http://altmark.nat.uni-magdeburg.de/~jschulen/ocr/">gocr</a> but something was wrong. Gnupg wasn&#8217;t having it when I tried to import it.</p>
+
+<p>Unfortunately the font I printed my key in fouled up gocr in several ways:<br />
+* O and 0<br />
+* K and X<br />
+* f and r<br />
+* 1 and l</p>
+
+<p>Being the most common. I spent more hours with the help of a friend Teemu until I finally succesfully imported my secret key.</p>
+
+<ul>
+<li>I need to figure out how to print my secret key in a font which gocr can reasonably understand.</li>
+<li>There is a <span class="caps">HUGE</span> difference between a thinkpad and pretty much anything else.</li>
+</ul>

@@ -1,0 +1,50 @@
+[[!meta title="ssh attacks" ]]
+[[!meta date="2005-07-07 16:03:36" ]]
+<p>This dedicated RH machine was put online this month. A collegue suggested I put the ssh port on some non-standard port.</p>
+
+<code>
+[hendry@server tmp]$ cat attacks.sh
+TEMPFILE=`mktemp`
+sudo cat /var/log/secure* | grep Failed > $TEMPFILE
+for i in `seq 1 30`
+do
+DAY="Jun $i"
+echo -n $DAY :
+egrep "$DAY" $TEMPFILE | wc -l
+done
+wc -l $TEMPFILE
+[hendry@server tmp]$ sh attacks.sh
+Jun 1 :3685
+Jun 2 :4326
+Jun 3 :0
+Jun 4 :0
+Jun 5 :0
+Jun 6 :0
+Jun 7 :0
+Jun 8 :0
+Jun 9 :0
+Jun 10 :1548
+Jun 11 :517
+Jun 12 :216
+Jun 13 :1333
+Jun 14 :0
+Jun 15 :1
+Jun 16 :30
+Jun 17 :22
+Jun 18 :18
+Jun 19 :0
+Jun 20 :93
+Jun 21 :190
+Jun 22 :522
+Jun 23 :765
+Jun 24 :638
+Jun 25 :1
+Jun 26 :1314
+Jun 27 :787
+Jun 28 :16
+Jun 29 :0
+Jun 30 :0
+8011 /tmp/tmp.LhnKd20208
+</code>
+
+<p>He&#8217;s got a point, though I hate non-standard ports.</p>

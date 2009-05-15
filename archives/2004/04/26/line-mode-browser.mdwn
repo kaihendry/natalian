@@ -1,0 +1,57 @@
+[[!meta title="Line mode browser" ]]
+[[!meta date="2007-08-14 08:57:05" ]]
+<p>I was just going through <a href="http://www.google.com/custom?hl=en&amp;lr=&amp;ie=UTF-8&amp;oe=UTF-8&amp;c2coff=1&amp;cof=AWFID%3A0b9847e42caf283e%3BL%3Ahttp%3A%2F%2Fwww.w3.org%2FIcons%2Fw3c_home%3BLH%3A48%3BLW%3A72%3BBGC%3Awhite%3BT%3Ablack%3BLC%3A%23000099%3BVLC%3A%23660066%3BALC%3A%23ff3300%3BAH%3Aleft%3B&amp;domains=www.w3.org&amp;q=history&amp;btnG=Google+Search&amp;sitesearch=www.w3.org">W3 history</a> when I discovered the <a href="http://www.w3.org/LineMode/">Line Mode browser</a>.</p>
+
+<p>Am I always thinking how to better design browsers, especially for small <span class="caps">MMI</span> like a wristwatch or mobile, and I think how this browser does it, is quite novel. What I hate about browsing on my phone is having to unpredictably jump from one highlighted link to another. It&#8217;s part of the libwww0 package on Debian, apt-get it and try it out:</p>
+
+<pre>
+hendry@bilbo:~$ www http://www.cs.helsinki.fi/u/hendry/
+
+<p>Kai Hendry @ Helsinki</p>
+
+<p>Kai Hendry&#8217;s Homepage</p>
+
+<p>Blog<sup class="footnote"><a href="#fn1">1</a></sup><br />
+    CV<sup class="footnote"><a href="#fn2">2</a></sup></p>
+
+<p>Contact details</p>
+
+<p>Full Name<br />
+                Kai Ian Hendry</p>
+
+<p>Address<br />
+                Porthaninkatu 4 B 38, 00530, Helsinki, Finland.</p>
+
+<p>Mobile<br />
+                +358&#8211;40-8367733</p>
+
+<p>Email</p>
+
+<p><a href="mailto:hendry@cs.helsinki.fi">hendry@cs.helsinki.fi</a></p>
+
+<p>Office<sup class="footnote"><a href="#fn3">3</a></sup><br />
+                A411</p>
+
+<p>Office telephone<br />
+                +358&#8211;9-19144225</p>
+
+<p><span class="caps">GPG</span>/PGP Public key<br />
+        gpg&#8212;keyserver wwwkeys.pgp.net&#8212;recv-keys 22341978<sup class="footnote"><a href="#fn4">4</a></sup></p>
+
+<p><span class="caps">IRC</span> nick<br />
+    hendry on freenode, ircnet and draq on quakenet</p>
+
+<p>Jabber<sup class="footnote"><a href="#fn5">5</a></sup> <span class="caps">UID</span></p>
+
+<p><a href="mailto:hendry@amessage.de">hendry@amessage.de</a></p>
+
+<p><span class="caps">ICQ</span> <span class="caps">UIN</span><br />
+    238(I prefer Jabber peeps)6684</p>
+
+<p>1&#8211;5, Top, Up,<br />
+Quit, or Help:<br />
+</pre></p>
+
+<p>With a mobile I can easily enter the number corresponding to link via my numeric keypad. Even double digits are OK, if I enter the numbers in a &#8220;remote control&#8221; UI way.</p>
+
+<p>I think this is kind of interface I would like to see on my mobile.</p>

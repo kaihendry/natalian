@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="joey"
+ subject="76.195.8.254"
+ date="2007-08-08 19:31:06"
+ content="""
+<a href="https://www.myopenid.com/settings_certificates" rel="nofollow">MyOpenid.com's certificate-based login</a> will avoid the need for entering a password. It will work on mozilla, I'm unsure about the other browsers.
+"""]]

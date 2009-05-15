@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="lxer"
+ subject="193.108.78.10"
+ date="2005-09-29 20:58:49"
+ content="""
+<p>Don&#8217;t bother with the Nano. You want something robust, reliable, and packed with features. Besides, why do you want to support a product that uses a proprietary database that you have to constantly manage? Vote with your wallet.</p>
+
+<p>I would highly recommend you go for one of the Creative MuVo range. Just plug one into your usb port and its instantly recognised as a <span class="caps">USB</span> Mass Storage device. Mount it in Debian, or set up an automounting hotplug script, then simply copy folders of your tracks onto it, or individual tracks.</p>
+"""]]

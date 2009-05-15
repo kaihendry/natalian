@@ -1,0 +1,5 @@
+[[!meta title="SSL subdomains " ]]
+[[!meta date="2005-07-12 19:18:25" ]]
+<p>I <a href="http://db.cs.helsinki.fi/~hendry/log/pyblosxom.cgi/bad/web/ssl.html">hate</a> <a href="http://lists.debian.org/debian-devel/2004/09/msg00955.html"><span class="caps">SSL</span>.</a></p>
+
+<p>I am just setting up an <span class="caps">SSL</span> website for server.client.com. Turns out the certificate is only for www.client.com. I like to host Web applications off subdomains and this &#8220;SSL domain mismatch&#8221; error pisses me right off.</p>

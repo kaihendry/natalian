@@ -1,0 +1,11 @@
+[[!meta title="dabase is the place to be" ]]
+[[!meta date="2009-02-03 22:51:44" ]]
+<p>I confess! I hate <a href="http://wordpress.org/">Wordpress</a> (~130k <span class="caps">SLOC</span>).</p>
+
+<p>Though I love <a href="http://ikiwiki.info/">ikiwiki</a> (~18k <span class="caps">SLOC</span>) powering my new blog over at <a href="http://dabase.com/">dabase.com</a>.</p>
+
+<p>Please subscribe to my <a href="http://dabase.com/index.rss"><span class="caps">RSS</span> feed about mobiles, Debian, Web and related rants</a>.</p>
+
+<p>I&#8217;m also contributing to the <a href="http://www.w3.org/2005/MWI/Tests/blog/">W3C Mobile Web Test Suites Working Group Blog</a>. If you care about bringing the open standards Web to mobile devices (the World), perhaps you too can help improve the <a href="http://www.w3.org/2008/06/mobile-test/">Web Compatibility Test for Mobile Browsers</a>?.</p>
+
+<p>To that special someone who figures out how to dump a <a href="http://www.natalian.org/">Wordpress installation</a>&#8216;s <a href="http://ikiwiki.info/tips/Importing_posts_from_Wordpress/">comments, permalinks and all into a git backend with Ikiwiki</a>. I&#8217;ll treat you to dinner in London.</p>

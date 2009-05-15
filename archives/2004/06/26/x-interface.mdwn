@@ -1,0 +1,24 @@
+[[!meta title="X interface" ]]
+[[!meta date="2004-06-28 02:23:02" ]]
+<p>I am using X with the help of my <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.072.htp">x-window-manager</a> <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.101.htp">Ion2</a> and <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.004.htp"><strong><span class="caps">GNU</span> screen</strong></a>.</p>
+
+<p>I have about four workspaces. Typically one runs a browser. The rest are big black *uxterm*s.</p>
+
+<img src="http://pictures.natalian.org/screenies/2004/jun/26/13:27:30/" alt="X interface" />
+
+<p>I find fault with <span class="caps">GNU</span> screen. Firstly <a href="http://groups.yahoo.com/group/gnu-screen/">Screen does not have an active mailing list.</a> <span class="caps">WTF</span>. That&#8217;s a bad sign.</p>
+
+<p>Second thing I do not like is that Screen does not integrate very well with ion and itself.</p>
+
+<p>If you run screen, hit the default bind of the window list(ctrl+a &#8221;). <br />
+First by default the terms there are not easy to distuingish. They are all bash on my system. It needs user@host and pwd. Better still, mutt or top when it is running.</p>
+
+<p>Additionally it would be nice if it showed windows of all the screens on my system. I am running typically at least two instances/sockets/processes of screen. I <strong>can&#8217;t switch from one window of <span class="caps">GNU</span> Screen to a window from another Screen socket</strong>. Interprocess communication would be nice. Even across hosts.</p>
+
+<p>It also sucks that I can&#8217;t say get my mutt screen window and <strong>split</strong> or <strong>move</strong> it into an empty Ion window. Screen should somehow recognize the window manager. I guess Ion too needs to somehow know about windows in Screen too.</p>
+
+<p>Perhaps I am missing a few settings. Please inform me. Right now I am a little dissapointed with my interface. Focus problems and <a href="http://ask.slashdot.org/askslashdot/04/06/02/1832201.shtml?tid=104&amp;tid=189">don&#8217;t even get me started about copy and paste.</a></p>
+
+<p>I hope the whole complicated mess of the windowing paradigm aka the <strong>desktop</strong> will be replaced by simple tabbed <span class="caps">MDI</span> of the browser user agent.</p>
+
+<p>Final comment is that Gnu Screen and Ion have such <span class="caps">AWFUL</span> names. Screen gets confused with the general term of a screen. And ion is the substring of a lot of words. /me sighs&#8230;</p>

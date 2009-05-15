@@ -1,0 +1,34 @@
+[[!meta title="Nokia's Web" ]]
+[[!meta date="2004-02-09 14:40:22" ]]
+<p>I looking deeply into how Nokia phone handle the web. Hence I am spending a lot of time on <a href="http://www.forum.nokia.com/main.html">Nokia&#8217;s Forum site</a> and the much better <a href="http://ncsp.forum.nokia.com/content/">syndication page</a>.</p>
+
+<p>Firstly it is incredibly annoying how Nokia seems to layout their information. They mis-use an incredible amount of whitespace on their website and their PDFs. Most documents are in some corporate branded <span class="caps">PDF</span>, piss poor typography (Word most likely), some ugly font which makes on screen reading, a nightmare.</p>
+
+<p>The forum site is just scary. I just hate all those tasteless pictures of models hanging around smiling and using their mobile phone. Give me a break. I am a developer.</p>
+
+<p>Now to download a <span class="caps">PDF</span>, you need to go through, 1 2 3 4 5 different dialogues. Rate this file (er, I have not downloaded it), Thank you for rating this file, Thank you for downloading this file, <span class="caps">CLICK</span> AT <span class="caps">LAST</span> on the actual file.</p>
+
+<p>Then get something like this:<br />
+<pre><br />
+ Due to international export control regulations, you are not authorized to download this file. You can contact nokia.forum.<a href="mailto:team@nokia.com">team@nokia.com</a> to get more information. <br />
+</pre></p>
+
+<p>Or please come back later.</p>
+
+<p>Argh, there is an incredible of shit to wade through here. To think I used to think <a href="http://www.w3.org/">W3</a> was difficult to navigate, and <a href="http://sourceforge.net/">Sourceforge</a> for being so troublesome to download a file.</p>
+
+<p>Ok, I am focusing on browsing implementations. Bear with me. You have all these different Series phones, with different browsers and device characteristics, and to add insult to injury these phones won&#8217;t be able to upgrade to newer versions very easily. I was just looking at the series 90 docs:</p>
+
+<a href="http://ncsp.forum.nokia.com/downloads/nokia/documents/DP_2_0_for_Series_90_Designing_Web_Services_v1_0_en.pdf">Web services</a>
+
+<a href="http://ncsp.forum.nokia.com/downloads/nokia/documents/DP_2_0_for_Series_90_Designing_XHTML_HTML_Content_v1_0_en.pdf">Web content</a>
+
+<p>Which seem to be amazingly similar, OK&#8230; I have figured this out. Designing <span class="caps">XHTML</span> content the 11/03, replaces web services 10/03.</p>
+
+<p>I started getting quite excited about all the conformance to Web Standards it touts. Look carefully and you will find it using an old Opera 6 as it&#8217;s engine. Look even more carefully to find a <a href="http://www.opera.com/docs/specs/opera6/">terrifying list of exceptions</a>. It&#8217;s not that bad, but it is dis-heartening to see it is designed for <span class="caps">HTML</span> 3.2. At least one generation before <span class="caps">XHTML</span>. It says but I am not certain, that it does not support things like abbreviation, which I like to use very much. Also no support for accesskeys. But it&#8217;s all very difficult to read what it does or does not support as the information is not laid out in an easy to read comparitive matrix or something.</p>
+
+<p>So, how else can I figure out if a page is going to render properly on a Series 90 phone? Try get Opera 6 and try it. Oh no, you can&#8217;t download Opera 6. And does it have small screen view like Opera 7??</p>
+
+<p>I am just dis-heartned. There are disparities everywhere. For example, if Opera does support <span class="caps">CSS</span>, why doesn&#8217;t <span class="caps">CSS</span> definitions render in small screen view in Opera7?</p>
+
+<p>Trying to figure out how the web will look on the mobile is looking like quite a feat. It&#8217;s near impossible to get any <a href="http://news.bbc.co.uk/2/hi/business/3454811.stm">decent statistics about how many phones</a>, and of what type are out there and what about the browsing user agent?! For a Web developer who tore his hair out over poor standards compliance with Netscape and IE, stay out of Mobile Web stuff right now!</p>

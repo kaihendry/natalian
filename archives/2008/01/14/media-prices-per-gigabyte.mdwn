@@ -1,0 +1,19 @@
+[[!meta title="Media prices per Gigabyte" ]]
+[[!meta date="2008-03-12 09:59:30" ]]
+<ul>
+<li><span class="caps">DVD</span>-R DL (5&#215;8.5GB at 15GBP) ~38p</li>
+<li>External <span class="caps">USB</span> 2.5&#8221; HD (160GB at 80GBP) 50p</li>
+<li>Flash <a href="http://www.bunniestudios.com/blog/?p=222">5GBP</a></li>
+</ul>
+
+<p>Update 12/3:</p>
+
+<ul>
+<li>External <span class="caps">USB</span> 3.5&#8221; HD (600GB at 69GBP) 14p</li>
+</ul>
+
+<p>Update: 14/4:</p>
+
+<ul>
+<li>4G <span class="caps">SDHC</span> for 9GBP &#8211; 2.25GBP per gigabyte</li>
+</ul>

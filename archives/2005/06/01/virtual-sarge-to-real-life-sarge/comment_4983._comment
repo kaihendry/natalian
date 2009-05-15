@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Michael P"
+ subject="67.189.77.103"
+ date="2005-06-05 06:38:40"
+ content="""
+<p>You need to include the x option for rsync&#8230; x tells it not to cross filesystem boundaries, thus skipping over /proc, /mnt, etc.</p>
+"""]]

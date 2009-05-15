@@ -1,0 +1,11 @@
+[[!meta title="Linux computing on your arm" ]]
+[[!meta date="2008-09-05 18:12:53" ]]
+<a href="http://www.flickr.com/photos/hendry/2795115115/" title="Using 3G by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3118/2795115115_e0a28abc05.jpg" width="500" height="375" alt="Using 3G" /></a>
+
+<p>I played with a friend&#8217;s <a href="http://lists.suckless.org/dwm/0809/6621.html">Atom based <span class="caps">EEEPC</span></a> yesterday. The <a href="http://en.wikipedia.org/wiki/EEEPC"><span class="caps">EEEPC</span></a> is an amazing achievement considering it&#8217;s comparable to the <a href="http://wiki.webvm.net/x61/">Thinkpad X61</a>, yet it&#8217;s a fifth of the price in the UK.</p>
+
+<p>I like the idea of carrying an <span class="caps">EEEPC</span> as I&#8217;m a bit nervous about losing my $$$ Thinkpad when I am out and about. If it just runs a <a href="http://webconverger.com/">kiosk like browser</a>, with a <a href="http://en.wikipedia.org/wiki/HSPDA"><span class="caps">HSPDA</span></a> 3G modem, it would be very handy. I wouldn&#8217;t sob as much if it got stolen.</p>
+
+<p>In other news: I upgraded my beloved <a href="http://flickr.com/photos/hendry/703708705/">slug</a> to <a href="http://www.debian.org/releases/lenny/">lenny</a> which I use as a <a href="http://en.wikipedia.org/wiki/Network-attached_storage"><span class="caps">NAS</span></a> at home, only to get bitten by a <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=492970">serious <span class="caps">NFS</span> permission issue in Debian</a>. Urgh.</p>
+
+<p>Update: <a href="http://www.thinkwiki.org/wiki/Category:SL300">Thinkpad</a> lovers rejoice. Lenovo has released the <span class="caps">EEEPC</span> rival <a href="http://www.notebookreview.com/default.asp?newsID=4582  ">SL300</a>, which seems like <a href="http://www5.pc.ibm.com/uk/products.nsf/Products?openagent&amp;brand=Thinkpad&amp;series=ThinkPad+SL+Series">half the price</a> of the <a href="http://wiki.webvm.net/hardware/x61/">X61</a>.</p>

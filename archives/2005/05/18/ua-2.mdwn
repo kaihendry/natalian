@@ -1,0 +1,11 @@
+[[!meta title="UA" ]]
+[[!meta date="2005-05-18 15:26:55" ]]
+<p><a href="http://www.mozilla.org/products/firefox/">Firefox</a> is just the bomb. I have installed a bunch of extensions and I am really enjoying them the last couple of days to aid some Web development. Great thing is I have loads of them installed and my environment does not feel slow or unstable.</p>
+
+<p>Bonus.</p>
+
+<p>Today I discovered <a href="http://diveintomark.org">Mark Pilgrim</a> is sort of back online. Which is nice. He also has a new tool out called <a href="http://diveintomark.org/projects/butler">Butler.</a> It depends on <a href="http://greasemonkey.mozdev.org/">greasemonkey</a> but it rocks. It filters Google crap and allows you to easily check out the competition.</p>
+
+<p>Anyway it is nice to see Firefox as a <strong>platform</strong>. I wish killer apps like <a href="http://skype.com/download/">Skype</a> could run inside Firefox.</p>
+
+<p>I have started a IT contract in Melbourne as a deployment manager. I will try not to talk about work here on my blog, but I must say they need the <a href="http://www.joelonsoftware.com/articles/fog0000000043.html">Joel treatment real bad.</a> Hopefully I am going to make it happen.</p>

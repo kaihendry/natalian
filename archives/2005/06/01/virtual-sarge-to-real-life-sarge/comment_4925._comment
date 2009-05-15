@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="vittorio"
+ subject="213.174.253.7"
+ date="2005-06-02 02:56:32"
+ content="""
+<p>i would use dd an copy the vmware partions somewhere. then partion the real server exactly like the vmware, and copy the partions using dd again. (and <span class="caps">MBR</span>). maybe later try to make partions on real server bigger (probably has more space)</p>
+"""]]

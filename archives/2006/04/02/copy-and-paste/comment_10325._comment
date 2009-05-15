@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="James"
+ subject="203.59.148.150"
+ date="2006-04-03 00:00:20"
+ content="""
+<p>For someone new to Debian and X, all you should teach them is ctrl-x,c,v. On any modern desktop it work as expected. Don&#8217;t tell them about the selecting and middle-clicking as that will just confuse them and is a legacy/power user feature.</p>
+
+<p>gnome-terminal uses shift-control-v because ctrl-v can used in command-line applications. I&#8217;m guessing reason x/c/v (and z for undo) were chosen (by Apple?) is because they&#8217;re all in the lower left corner and can be easily hit by the left hand holding ctrl (or command).</p>
+"""]]

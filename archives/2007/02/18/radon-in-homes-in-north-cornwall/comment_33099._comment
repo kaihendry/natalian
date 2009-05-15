@@ -1,0 +1,17 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="87.113.5.52"
+ date="2007-02-21 10:39:14"
+ content="""
+<p>There are six possibilities of people I could contact:</p>
+
+<ol>
+<li><span class="caps">NCDC</span></li>
+<li><span class="caps">NHS</span></li>
+<li><span class="caps">HPA</span></li>
+<li><span class="caps">NCDC</span> <span class="caps">HPA</span></li>
+<li><span class="caps">HPA</span> <span class="caps">NHS</span></li>
+<li><span class="caps">NCDC</span> <span class="caps">HPA</span> <span class="caps">NHS</span></li>
+</ol>
+"""]]

@@ -1,0 +1,15 @@
+[[!meta title="Open business" ]]
+[[!meta date="2007-07-30 12:06:08" ]]
+<a href="http://flickr.com/photos/rcfl/939047347/">
+<img src="http://farm2.static.flickr.com/1115/939047347_528a94b5fa_m.jpg" alt="Free beer" />
+</a>
+
+<p>Last Friday I gave a &#8216;lightning&#8217; talk at a <a href="http://www.oreillygmt.eu/2007/07/minibar-londo-1.html">minibar event</a>. I tempted fate by demoing the LiveCD and <span class="caps">USB</span> boot versions of Webconverger.</p>
+
+<p>I think some people now actually understand what <a href="http://webconverger.com/">Webconverger</a> is! Frustratingly I can&#8217;t seem to explain in words what Webconverger is. Though demoing Webconverger can be difficult as I usually only carry the <span class="caps">USB</span> version with me, which doesn&#8217;t work very well on crap machines and machines without a wired <span class="caps">DHCP</span> network. Anyway it went well and it was great to receive some positive feedback about Webconverger.</p>
+
+<p>At minibar Hannah gave out <a href="http://www.freebeer.org">Free beer</a> (free as in cost and free as in Freedom). I think it is a fantastic beer with that hint of <a href="http://en.wikipedia.org/wiki/Guarana">Guarana</a> at first and the lasting good taste of knowing it comes from <a href="http://prazefarm.co.uk/">Cornwall</a>. Also my quiz team came second place in the first <a href="http://flickr.com/photos/antischokke/927602915/">Minibar pub quiz</a>. Awesome! The prize was a <span class="caps">USB</span> key in the shape of a banana. I&#8217;ll probably backup some important data to it and hide it in a fruit bowl. ;)</p>
+
+<p>Thanks Christian and Hannah for organising <a href="http://openbusiness.cc/minibar">minibar</a>. Incidentally I just &#8220;guest blogged&#8221; for the first time on the <a href="http://www.openbusiness.cc/2007/07/30/finding-your-feet-in-an-internet-business/">Open Business</a> blog about some lessons learnt about running a business.</p>
+
+<p><strong>Open business</strong> is the future. :)</p>

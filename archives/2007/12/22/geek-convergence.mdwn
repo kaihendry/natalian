@@ -1,0 +1,9 @@
+[[!meta title="Geek convergence" ]]
+[[!meta date="2007-12-22 14:04:16" ]]
+<p>I&#8217;m a big fan of <a href="http://en.wikipedia.org/wiki/Stephen_Fry">Stephen Fry</a> and his work. I can highly recommend his <a href="http://en.wikipedia.org/wiki/Stephen_Fry#Literature">novels</a> too. Brilliant stuff.</p>
+
+<p>Though I find really odd yet wonderful how <a href="http://stephenfry.com/blog/?p=32">Stephen is blogging about HTML5</a>.</p>
+
+<p>I have been peering into his world (admittedly I&#8217;ve read his autobiographies) and now he&#8217;s almost peering into mine.</p>
+
+<p>I feel a little more inspired about working on the <a href="http://video.natalian.org/">video</a> stuff. There is a lot of interest in this and it will be an incredibly important milestone for the &#8220;Free Software&#8221; Web to get this right!</p>

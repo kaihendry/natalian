@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="mlambie"
+ subject="202.72.148.102"
+ date="2005-06-23 01:57:19"
+ content="""
+<p>In that virtual host config file I&#8217;m guessing %0 is the domain being requested? In that case, do you use symlinks eo ensure www.domain.com and domain.com have the same content? Also, I see that logging is commented out. How would you provide logs for each domain? Can %0 be used again in specifying a log path?</p>
+
+<p>Ideally, I&#8217;d like any host on any domain to serve &#8220;domain.com&#8221; content, unless there existed a specific host.domain.com directory in /web. I wouldn&#8217;t want bob.domain.com and yoyoma.domain.com log files though: I&#8217;d want just domain.com log files, and host.domain.com logfiles.</p>
+
+<p>Time to read up on Apache2&#8217;s httpd.conf options I think :)</p>
+
+<p>Thanks for the post :)</p>
+"""]]

@@ -1,0 +1,17 @@
+[[!meta title="Making contact information more accessible" ]]
+[[!meta date="2006-02-07 22:08:20" ]]
+<a href="http://www.flickr.com/photos/hendry/94698777/" title="Photo Sharing"><img src="http://static.flickr.com/30/94698777_332004992b_m.jpg" width="240" height="180" alt="Ramen and Computers, the Korean lifestyle" /></a>
+
+<p>I read on someone&#8217;s blog recently about an old complaint of mine. That it is a pain-in-the-ass to determine some people&#8217;s blog contact email address.</p>
+
+<p>Yeah, you could email webmaster@blogdomain. Countless times I&#8217;ve done that with no response&#8230; :/</p>
+
+<p>I try to make it easy with my <a href="http://hendry.iki.fi">homepage.</a> Though I suspect a lot of people aren&#8217;t used to finding contact information on a homepage.</p>
+
+<p>The major problem with my contact information on my homepage is that it isn&#8217;t machine readable. If it was, maybe it would be easier for my visitors to contact me. Or maybe I will receive even <strong>more spam</strong>.</p>
+
+<p>I remember <a href="http://bloglines.com/">Bloglines</a> has some sort of &#8220;contact&#8221; <span class="caps">XML</span> standard, but after searching around on their site, I couldn&#8217;t find it. So of course I looked at <a href="http://microformats.org/wiki/hcard">hCard</a> again.</p>
+
+<p>Yes, I&#8217;ve looked at hCard before and for some reason I didn&#8217;t convert my homepage to a hCard. The problem is I like the way my contact information is a simple definition list. I&#8217;ve searched around for a hCard definition list example and I came up empty.</p>
+
+<p>Another little niggle is that it bothered me with hCard that the class name is &#8220;vcard&#8221;. Blah&#8230;</p>

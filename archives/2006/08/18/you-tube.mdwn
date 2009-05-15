@@ -1,0 +1,11 @@
+[[!meta title="You tube" ]]
+[[!meta date="2006-08-19 17:26:18" ]]
+<p><span class="caps">BBC</span> News at 9pm tonight poorly covered <a href="http://youtube.com/">You tube</a> website.</p>
+
+<p>It&#8217;s fascinating to see <span class="caps">BBC</span> reporters concerned about the potential of You tube and that whole &#8220;we the media&#8221; thing.</p>
+
+<p>Personally I wish that <span class="caps">BBC</span> News published their enormous video collection in a similar way. Using the <strong>Web</strong> <span class="caps">API</span>, the regrettably proprietary Flash and progressive download is far better than Real player and Window media player.</p>
+
+<p>I also think it is important that videos basically move off You tube. Their bandwidth bill must be astonishing and it can&#8217;t be sustainable. This delivery must be more distributed and that means people (like the <span class="caps">BBC</span>) should be offering videos on their own sites.</p>
+
+<p>I imagine You tube will go down in history as a pioneering first mover. I find their Web application quite poor. I am usually offended by the comments or spam and I get frustrated by how hard it can be to find an entertaining video!</p>

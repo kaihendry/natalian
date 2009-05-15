@@ -1,0 +1,21 @@
+[[!meta title="Mobile Web" ]]
+[[!meta date="2007-06-04 21:42:29" ]]
+<p>For me there is people who believe in the <strong>device independent</strong> Web and those who believe in the <strong>device dependent</strong> Web.</p>
+
+<p>Mobile Web, .mobi, that&#8217;s all &#8220;device dependent&#8221; as people think they need to target Web pages for the mobile.</p>
+
+<p>I&#8217;ve long <a href="http://iki.fi/hendry/msc.pdf">argued</a> for the &#8220;device independent&#8221; Web. For example on my <a href="http://natalian.org/archives/2007/05/15/nokia-e65-from-3/">Nokia E65</a>, I browse <a href="http://www.bbc.co.uk/mobile"><span class="caps">BBC</span>&#8216;s mobile site</a> and <a href="http://news.bbc.co.uk"><span class="caps">BBC</span>&#8216;s normal news page</a>.</p>
+
+<p>I can view either with Nokia&#8217;s excellent Webkit based <strong>Web</strong> browser, though the mobile site is quicker as it is faster to download. However the &#8216;BBC normal page&#8217; is often far more up to date! Having a &#8216;device dependent&#8217; Web <strong>will create redundancy</strong>. Solution: make the <span class="caps">BBC</span> News page a little leaner please and just do away with the &#8220;Mobile Web site&#8221;.</p>
+
+<p>Then there is some people who think you either get:<br />
+# Standards geeks who write boring Web sites<br />
+# Or people who write for the best possible user experience on the mobile</p>
+
+<p>The 2nd group argues are that most peoples&#8217; Web browsers suck and/or their network sucks. A lot of <a href="http://www.torgo.com/blog/2007/05/prada-phone-browser.html">modern Web browsers do suck</a>. Also network connections in London aren&#8217;t fantastic. :/</p>
+
+<p>Though there is the very real future of capable mobile browsers (Nokia&#8217;s Web/Opera Mobile) and fast networks (go to Korea or Japan).</p>
+
+<p>People who care about the &#8220;user experience&#8221; are not in my good books. They are often making dead applications for big companies (e.g. Sony, <span class="caps">BMW</span>, FTSE100) who do not need to have to build a page rank. These &#8216;one off&#8217; applications with great user experiences have no future.</p>
+
+<p>The &#8216;standards geeks&#8217; who write device independent minimal Web pages will create the <strong>most useful</strong> sites. Web applications that quickly discern useful information is what I like to call a great &#8220;user experience&#8221;. No flash device dependent dead crap thank you.</p>

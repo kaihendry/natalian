@@ -1,0 +1,17 @@
+[[!meta title="Here be dragons" ]]
+[[!meta date="2006-08-18 07:54:04" ]]
+<p>Time and time again I see a common <span class="caps">GPS</span> misconception. Anyone who has done some <a href="http://en.wikipedia.org/wiki/Geocaching">geocaching</a> will have noticed these problems.</p>
+
+<p><span class="caps">GPS</span> isn&#8217;t very reliable in bad weather and in cities. In fact anywhere with a poor view of the satellites required for a location fix. It also sometimes takes a fair few <strong>minutes</strong> for a fix once the device is activated.</p>
+
+<p>For example on the <span class="caps">BBC</span> show <a href="http://www.bbc.co.uk/dragonsden/">Meet the Dragons</a> an invention which used <span class="caps">GPS</span> to log co-ordinates when people fall overboard is flawed.</p>
+
+<p>If someone falls off a pleasure boat it&#8217;s probably in bad weather. <span class="caps">GPS</span> probably won&#8217;t work then.</p>
+
+<p>Whilst I was in <a href="http://en.wikipedia.org/wiki/New_Caledonia">New Caledonia</a> I did log co-ordinates of my friends who went snorkeling. This isn&#8217;t that useful as currents can be really strong and it really isn&#8217;t easy to spot submerged people even in quite calm seas.</p>
+
+<p>Sonar doesn&#8217;t really work until someone is <strong>under</strong> the water. If someone has fallen off the boat in seas and under water, you best be a really good swimmer and at the <a href="http://en.wikipedia.org/wiki/Kiss_of_life">kiss of life</a> too.</p>
+
+<p>Whilst I am here, I would like to also criticize the &#8220;Meet the dragons&#8221; show for encouraging <strong>patents</strong>. Patents should not be required to run a successful business. It&#8217;s not the idea, it&#8217;s the implementation. The show is actually really about implementation. Getting that capital, help &amp; expertise. It should concentrate on that.</p>
+
+<p>Finance isn&#8217;t very relevant to software companies I like to think. One should be able to hash out a workable implementation that can grow from there with very little financial resources. If you do need a little money for an office and some kit, normal banks should be able to help. I don&#8217;t see why you need as much as 100k <span class="caps">GBP</span> that many of the featured entrepreneurs seem to require.</p>

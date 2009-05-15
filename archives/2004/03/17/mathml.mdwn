@@ -1,0 +1,5 @@
+[[!meta title="MathML" ]]
+[[!meta date="2004-03-18 13:31:20" ]]
+<p>Resizing the font can produce some strange results in my Mozilla 1.6:</p>
+
+<a href="http://www.dabase.com">MathML experiments</a>

@@ -1,0 +1,18 @@
+[[!meta title="Internet Survey" ]]
+[[!meta date="2004-06-02 12:03:47" ]]
+<p>Wouldn&#8217;t it be a good idea if the Debian project leveraged their <a href="http://www.debian.org/vote/">Internet voting system</a> to research companies?</p>
+
+<p>Debian developers are probably the only community on the Internet that can identify themselves with <span class="caps">GPG</span> public/private key signatures.</p>
+
+<p>Debian Developers after all are generally highly informed technologists, of opinion of which I at least value greatly.</p>
+
+<p>Another way of surveying or proving identity on the Internet is blogs I guess. What would be good if I could pose a questions like:</p>
+
+<p><strong>Have you heard of the University of Helsinki?</strong></p>
+
+<p>Now that question above would be a link whereby other blog users could ping it back with their answer, like Yes/No, and perhaps a short commentary. If I could specify the range of answers, all the better. <br />
+Then clicking on the question permalink would produce a summary of the answers from bloggers received via ping back.</p>
+
+<p>Of course I am assuming that a blog belongs to one blogger, and that person is sort of identifiable, which is workable <span class="caps">IMHO</span>.</p>
+
+<p>I think this would certainly be an improvement over the <a href="http://slashdot.org/pollBooth.pl">Slashdot poll</a>.</p>

@@ -1,0 +1,17 @@
+[[!meta title="Australia" ]]
+[[!meta date="2005-06-27 09:41:36" ]]
+<p>In Melbourne, Australia Telstra (like BT in the UK) aggresively markets <a href="http://www.telstra.com.au/mobile/products/imode">Imode.</a></p>
+
+<p>They have slogans like &#8220;It&#8217;s like the Web on your mobile.&#8221;</p>
+
+<p>And: &#8220;With over two hundred sites to choose from.&#8221;</p>
+
+<p>I hate verticals.</p>
+
+<p><a href="http://www.three.com.au/">Three</a> on the other hand push their choppy and piss poor quality Video messaging services. Argh.</p>
+
+<p>Internet in Australia sucks. It&#8217;s all routed through America at cost. Co-lo&#8217;s in Melbourne are charging about <span class="caps">AUD</span> $0.066/MB for inbound traffic. Free outbound, but come on! Pay-as-go-Internet is so nineties.</p>
+
+<p>Russell Coker told me that Telstra are taking some ISPs in the states to court over this fiasco. Though Telstra give the same pricing plan to their customers, even if their traffic is just for Australia. Very silly.</p>
+
+<p>A couple weeks ago I complained about the cost of wireless Internet access at the State library in Melbourne. 13.20AUD for <strong>one</strong> hour of access via Optus. I did get a reply from the library saying they have complained to Optus themselves and they are about to setup free access to their library catalogues via Wireless. <strong>sigh</strong> they just don&#8217;t get it.</p>

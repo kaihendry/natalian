@@ -1,0 +1,12 @@
+[[!meta title="Static maps for Mobiles" ]]
+[[!meta date="2008-05-27 08:55:38" ]]
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/jOE_h4AGhCg&amp;hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/jOE_h4AGhCg&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+
+<p>I&#8217;m been wishing for this awhile and Google have finally done it.</p>
+
+<ul>
+<li><a href="http://code.google.com/apis/maps/documentation/staticmaps/">Static Maps <span class="caps">API</span></a></li>
+<li><a href="http://nonjslocalsearch.appspot.com/">Non-JS local search</a></li>
+</ul>
+
+<p>So I saved the <span class="caps">URL</span> <a href="http://nonjslocalsearch.appspot.com">http://nonjslocalsearch.appspot.com</a> on my mobile device too, so when I bookmark places on my desktop I can easily refer to them on my mobile. Web applications without JavaScript are great for mobiles!</p>

@@ -1,0 +1,19 @@
+[[!meta title="Webconverger 2.4" ]]
+[[!meta date="2007-04-11 16:59:49" ]]
+<a href="http://www.flickr.com/photos/hendry/454397398/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/231/454397398_b32677fe62_m.jpg" width="240" height="180" alt="Korean Webconverger split 2.4" /></a>
+
+<p>I&#8217;ve just released <a href="http://webconverger.com/">Webconverger</a> (Web kiosk) <span class="caps">USB</span>&amp;ISO versions built with stable Debian etch.</p>
+
+<p>Webconverger has received some good feedback and <a href="http://webconverger.infogami.com/Press">press</a>. I would like to thank <a href="http://blog.daniel-baumann.ch/">Daniel Bauman</a> for his rather excellent <a href="http://debian-live.alioth.debian.org/">Debian Live</a> work on which Webconverger is based.</p>
+
+<p>I was hoping that <a href="http://webconverger.org/design/">Webconverger could support every locale</a>, now it looks like I need to produce a separate <span class="caps">ISO</span>/IMG (or at least apt-get hooks) for every locale. One reason is that Iceweasel/Firefox extensions don&#8217;t scale very well. Try install every locale and dictionary extension. I dare you. :) Sidenote: I wonder why no one has packaged the dictionaries for Iceweasel.</p>
+
+<p>In other news, I&#8217;ve been playing around with <a href="http://en.wikipedia.org/wiki/Scim">scim</a> (keyboard switcher) and Korean locales. It seems to work though the title bar didn&#8217;t render hangul characters right in <a href="http://www.suckless.org/">dwm</a>. After some investigation I discovered there isn&#8217;t such a thing as a single &#8220;generic&#8221; Unicode font. This came as a shock to me. :)</p>
+
+<p>Typical ttf only have 65536 glyphs, so no one font will do. Jeff Zhang also informed me about <a href="http://www.unifont.org/fontguide/">free Unicode fonts</a>. Though I think especially in <span class="caps">CJK</span> environments proprietary fonts are unfortunately more common. Or I don&#8217;t know why microsoft-gulim isn&#8217;t in msttcorefonts.</p>
+
+<p>Anyway the <a href="http://download.webconverger.com/beta/">Korean version of Webconverger</a> turned out OK, though I doubt any Koreans will be using it. It&#8217;s all sadly <a href="http://blog.vlad1.com/archives/2007/03/16/141/">ActiveX out there</a>.</p>
+
+<p>My package <a href="http://packages.qa.debian.org/w/wordpress.html">wordpress 2.0.10</a> didn&#8217;t quite make it to etch in time as I was waiting for CVEs! 2.0.10 will be coming soon though&#8230;</p>
+
+<p>It always amazes me how much work can get done in breaks like Easter. It&#8217;s great that etch is out. And whoa, the weather is great.</p>

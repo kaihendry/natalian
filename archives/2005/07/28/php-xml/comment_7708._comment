@@ -1,0 +1,18 @@
+
+[[!_comment format=mdwn
+ username="Luke"
+ subject="62.252.128.28"
+ date="2005-07-28 19:23:20"
+ content="""
+<p>Hi Kai,</p>
+
+<p><span class="caps">PHP</span> 4 and <span class="caps">XML</span> is pretty bad in that you have to choose a particular setup and lots of stuff is not in the default install, but there are some libraries out there that can help &#8211; this one would have been used by me in my latest project but for the fact that I just took the plunge with <span class="caps">PHP</span> 5. It&#8217;s called MiniXML and can be used in Perl too.</p>
+
+<p><a href="http://minixml.psychogenic.com/">http://minixml.psychogenic.com/</a></p>
+
+<p>they have a good amount of docs too.</p>
+
+<p>hope this is of use,</p>
+
+<p>Luke</p>
+"""]]

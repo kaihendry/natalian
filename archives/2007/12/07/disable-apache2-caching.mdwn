@@ -1,0 +1,13 @@
+[[!meta title="Disabling Apache2 caching" ]]
+[[!meta date="2007-12-07 13:16:55" ]]
+<a href="http://flickr.com/photos/refractedmoments/223052548/">
+<img src="http://farm1.static.flickr.com/97/223052548_9f5ff24797_m.jpg" alt="cache" />
+</a>
+
+<p>Not all browsers <a href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html#sec13">cache <span class="caps">HTTP</span></a> the predictable same way. Firefox behaves right <span class="caps">IMO</span> during my short development iterations, though not Safari or Opera in some <strong>odd cases</strong>. Hence I was searching for some way of telling the browsers explicitly <strong>not to cache anything</strong>, instead of manually emptying their cache every time I made some change to the Web application.</p>
+
+<p>Trick is to use mod_headers, not mod_cache.</p>
+
+<p>Btw I maintain an amazing <a href="http://faq.dabase.com/">collection of tips and tricks</a>. I&#8217;ve added my little <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq04.038.htp">howto disable Apache2 caching</a> to it. I wonder which Google will rank higher.</p>
+
+<p>Thanks to the ex-<a href="http://buncs.com/">buncs</a> wise man <a href="http://www.xiven.com/">Tom</a> for the pointers.</p>

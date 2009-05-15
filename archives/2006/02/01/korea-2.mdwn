@@ -1,0 +1,20 @@
+[[!meta title="@Korea" ]]
+[[!meta date="2006-02-01 21:09:17" ]]
+<a href="http://www.flickr.com/photos/hendry/93913832/" title="Photo Sharing"><img src="http://static.flickr.com/38/93913832_bcdf8d3121.jpg" width="375" height="500" alt="Jutta's spare room (my bedroom in Korea)" /></a>
+
+<p>I&#8217;m in Korea. Lots to do:</p>
+
+<ul>
+<li>Figure out how to get Korean &#8220;Hangul&#8221; characters to show up in X</li>
+<li>Figure out how to change my date/time to Korean</li>
+<li>Get my locale setup for Korea</li>
+<li>Figure out how to input Hangul characters</li>
+</ul>
+
+<p>I have Internet at home at long last. (I couldn&#8217;t get Internet in Australia without signing up for an annual contract!)</p>
+
+<p>200kb/sec to Dreamhost. I also seem to have my own exposed (dynamic! sigh) IP without a firewall. I&#8217;ll have to cook something up with iptables quickly.</p>
+
+<p>I am looking forward to going to Seoul&#8217;s &#8220;Electronic Market&#8221; and getting some bits and pieces. One of those new Seagate hard drives for my laptop I&#8217;m hoping. Perhaps an MP3 player too.</p>
+
+<p>Btw, upgraded to Wordpress 2.0. Notice any problems? Let me know&#8230;</p>

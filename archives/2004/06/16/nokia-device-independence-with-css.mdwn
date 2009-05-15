@@ -1,0 +1,19 @@
+[[!meta title="Nokia device independence with CSS" ]]
+[[!meta date="2004-10-13 10:23:14" ]]
+<p>Since Nokia&#8217;s <span class="caps">XHTML</span> browser doesn&#8217;t give a toot about <a href="http://media.dabase.com/">media types</a>, and is able to <a href="http://dabase.com/override.xhtml">over-ride previous style selectors</a>, many authors could offer the millions of Nokia phones access (not to be confused with accessibility) to their content !</p>
+
+<p>I assume your site typically has a <a href="http://natalian.org/bluegold.css">two column float setup for post and menu like mine.</a> Trouble is on the Nokia <span class="caps">XHTML</span> browser(Nokia3100/1.0 (04.01) Profile/MIDP-1.0 Configuration/CLDC-1.0), the two column layout makes the text unreadable as it is too narrow. :/</p>
+
+<p>So you need to <a href="http://dabase.com/reset.xhtml">reset</a> back to original readable values. This seems to work if it is the <b><span class="caps">LAST</span></b> style selector it will execute:</p>
+
+<pre>
+<style type="text/css" media="handheld">
+.post {width: 100%; clear: both; float: none; margin: none; padding: none; }
+</style>
+</pre>
+
+<p>Have a look at this page&#8217;s source and <a href="http://natalian.org/bluegold.css">default style sheet</a> for a better idea. Menu should come after the post.</p>
+
+<p>Notice the <strong>handheld</strong> is not for the Nokia phone. It&#8217;s for the normal (desktop PC) <strong>screen</strong> browser. Nokia ignores the media type, but the desktop PC&#8217;s UA should only listen to <strong>all</strong> and <strong>screen</strong>. Hopefully Nokia&#8217;s <span class="caps">XHTML</span> browser will support the <em>handheld</em> media type in future, or even better&#8230; able to render the very popular two column view correctly without budging it up!</p>
+
+<p>The next problem is that page size must be <strong>small</strong>, hence I have limited the front page to the last blog. I need to sort out the menu to be better and lighter&#8230;</p>

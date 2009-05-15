@@ -1,0 +1,26 @@
+[[!meta title="Wordsmith" ]]
+[[!meta date="2005-10-07 11:30:30" ]]
+<pre>
+debian$ dict qualms
+bash: dict: command not found
+</pre>
+
+<p>This happens to me far too often. I can&#8217;t be bothered to install <strong>dictd</strong> and the database files. It is usually quite a mess and I&#8217;m not too happy with the results. Instead I use the Web:</p>
+
+<ul>
+<li><a href="http://dictionary.com">http://dictionary.com</a> or <a href="http://dictionary.reference.com/">http://dictionary.reference.com/</a></li>
+<li><a href="http://www.answers.com/">Answers.com</a></li>
+</ul>
+
+<p>I&#8217;ve stopped using dictionary.com although it does seem to be first site I think of because of its great domain name.</p>
+
+<p>I hate dictionary.com because it has annoying popups, advertisements and today I found it didn&#8217;t have a definition for the word <a href="http://dictionary.reference.com/search?q=qualms">qualms</a> whilst <a href="http://www.answers.com/qualms">Answers.com did.</a></p>
+
+<p>Now I just need to find a decent <strong>thesaurus</strong> not from *.reference.com</p>
+
+<ul>
+<li>Before anyone suggests <a href="http://www.m-w.com/">Merriam-Webster</a>&#8230; NO Their Web forms are too heavy.</li>
+<li><a href="http://www.elook.org/dictionary/search.php?search=qualms">Elook doesn&#8217;t have qualms either.</a> It also doesn&#8217;t do <a href="http://www.elook.org/thesaurus/index.php?search=SOA">acronyms.</a></li>
+<li>I have not been very impressed with <a href="http://en.wiktionary.org/wiki/Special:Search?search=qualms&amp;go=Go">Wiktionary either.</a> The site is also usually, too <strong>slow.</strong></li>
+<li>Google <strong>define</strong> isn&#8217;t impressive <a href="http://www.google.com/search?q=define+qualms&amp;btnG=Google+Search">too.</a></li>
+</ul>

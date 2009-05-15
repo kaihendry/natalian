@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Mike"
+ subject="202.6.138.45"
+ date="2005-09-23 11:30:26"
+ content="""
+<p>Hmm.</p>
+
+<p>I&#8217;d do it. I see that it&#8217;s removing various perl packages, but installing perl-base.</p>
+
+<p>One thing for sure, it&#8217;s debian/unstable, so you have to let it break before you can fix it!</p>
+
+<p>Mike :)</p>
+"""]]

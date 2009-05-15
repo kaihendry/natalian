@@ -1,0 +1,15 @@
+
+[[!_comment format=mdwn
+ username="Sam Morris"
+ subject="82.32.57.57"
+ date="2006-08-04 20:24:53"
+ content="""
+<p>The problem is that xterm doesn&#8217;t use the <span class="caps">CLIPBOARD</span> selection: it only uses the <span class="caps">PRIMARY</span> selection, in defiance to how all (modern) X11 apps behave<sup class="footnote"><a href="#fn0">0</a></sup>. When you hit Ctrl+C in Firefox, that&#8217;s the same as Edit-&gt;Copy, which copies the selection to the <span class="caps">CLIPBOARD</span> selection. You can verify this by pasting into gnome-terminal, or gedit, or another program that uses the <span class="caps">CLIPBOARD</span> correctly.</p>
+
+<p>You have three options; first, switch to a different (dare I say, better) terminal emulator; second, use the mouse for selecting text, which will then go to the <span class="caps">PRIMARY</span> selection, which is the only one that xterm can use; third, patch<sup class="footnote"><a href="#fn1">1</a></sup> or configure<sup class="footnote"><a href="#fn2">2</a></sup>[3] xterm to use the <span class="caps">CLIPBOARD</span> selection instead.</p>
+
+<p>[0] <a href="http://www.freedesktop.org/wiki/Standards_2fClipboardsWiki">http://www.freedesktop.org/wiki/Standards_2fClipboardsWiki</a><br />
+[1] <a href="http://www.davidsimmons.com/soft/xtermhacks/">http://www.davidsimmons.com/soft/xtermhacks/</a><br />
+[2] <a href="http://wiki.tcl.tk/1217">http://wiki.tcl.tk/1217</a><br />
+[3] <a href="http://linux.seindal.dk/item71.html">http://linux.seindal.dk/item71.html</a></p>
+"""]]

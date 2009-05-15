@@ -1,0 +1,15 @@
+[[!meta title="Laid back" ]]
+[[!meta date="2005-02-19 18:14:55" ]]
+<p>So I am in Bali, Indonesia and <span class="caps">BBC</span> World today announce another fecking earthquake. 6.5? FS, that&#8217;s nothing!</p>
+
+<p>I am aware there are new versions of Wordpress and Maradns. Wordpress upgrade looks a little tricky, but it&#8217;s nothing that the debian package system can&#8217;t handle. I did have in mind to put configs some how in user space for a Debian machine to be able to easily able to support multiple blogs. Lot of work.</p>
+
+<p>Oh I need to blog about my <span class="caps">GPG</span> key. According to my AM since I don&#8217;t have a PC, my key has been compromised. My secret key atm lies in Finland hosted with another DD. Oh dear, oh dear. More will come about this thorny issue, I&#8217;ll assure you. It won&#8217;t stop my work though, as teo or liiwi checks it as usual!</p>
+
+<p>Oh if you use my maradns package, you should out the latest mailing list posts regarding the recursive resolver.</p>
+
+<p>I don&#8217;t have a computer and the wireless Internet connection I am using now <span class="caps">SUCKS</span> <span class="caps">SUCKS</span> <span class="caps">SUCKS</span>!!! <span class="caps">SSH</span> is awful slow. I am not sure how the hell I am going to do this. I want to do this work.</p>
+
+<p>I&#8217;ve also need to prepare a 3000 word paper for an Australian <a href="http://www.mbusiness2005.org/">Mobile Business</a> conference. I think this will be a little test for me to see whether or not to take up a Phd program. If my paper gets accepted, I am sure it would be easy. If not, then Kazakhstan beckons.</p>
+
+<p>Argh, these computer configurations seem to block ssh traffic on port 22. So I booted one of their machines with Ubuntu live cd. <span class="caps">FECK</span> it&#8217;s so fecking feck feck slow. I blame CD Roms. There is always r/w errors. Oh feck it. So now I have a basic ssh connection (slow as hell) on one machine, and using IE on another. Feel my pain in paradise.</p>

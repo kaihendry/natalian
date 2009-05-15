@@ -1,0 +1,15 @@
+[[!meta title="Sundays" ]]
+[[!meta date="2004-04-04 20:01:48" ]]
+<p>Don&#8217;t you just love Sundays?</p>
+
+<p>I can sit on my computer all day undisturbed. I tackled more than half on my dreaded <span class="caps">TODO</span> list of today. That&#8217;s a lot.</p>
+
+<p>I spent a large amount of time with <a href="http://www.modpython.org/live/current/doc-html/">Mod_Python</a>. Namely after reading an encouraging <a href="http://www.onlamp.com/pub/a/python/2003/10/02/mod_python.html">introduction</a> and <a href="http://simon.incutio.com/archive/2003/10/03/modPythonIntro">blog post</a>.</p>
+
+<p>Anyway, I have given up on it. The publisher example didn&#8217;t work. I didn&#8217;t get PythonHandler directive.  I didn&#8217;t understand how to debug the whole thing. Like what was the version of mod_python I was running?  I wanted to see lots more examples, and better documentation basically.</p>
+
+<p>Oh ffs, my <a href="http://svn.natalian.org/">repo</a> just died again (after switching needlessly from viewcvs to websvn). Berkely DB is quite sensitive, there must be something wrong with my computer&#8230; <span class="caps">URGH</span> :/</p>
+
+<p><span class="caps">ANYWAY</span>. I have discovered <a href="http://divmod.org/users/wiki.twistd/nevow/moin.cgi">Nevow</a>, and will be working with that instead of mod_python. I didn&#8217;t need an <span class="caps">API</span> to Apache&#8217;s internals. I want to try out high level stuff.</p>
+
+<p>I will get back to you about it. I am going to have some dinner, settle down with some cognac and watch a movie I&#8217;ve downloaded.</p>

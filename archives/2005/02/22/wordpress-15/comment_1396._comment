@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="202.52.200.134"
+ date="2005-02-25 09:19:07"
+ content="""
+<p>Took some time out and updated the <a href="http://natalian.org/archives/2005/02/22/wordpress-15/">wordpress package.</a> I wish I could have done this earlier and now I think I have pissed off <a href="http://www.morayallan.com/">Moray Allan</a> and <a href="http://blog.eltridente.org">Teo.</a> Perhaps even Debian security, oh hell the package is not even in testing.</p>
+
+<p>I am satisfied that the security issues have been dealt with.</p>
+
+<p>I&#8217;ve installed <a href="http://unknowngenius.com/blog/wordpress/spam-karma/">Spam Karma</a> and as usual not impressed. Tons of options I care less about. So in the end I marked all my comments as spam, went through them quickly searching for friends and killed exactly 1000 comments as spam. I am leaving &#8220;spam karma&#8221; on, so readers try comment and any problems, please mail me.</p>
+"""]]

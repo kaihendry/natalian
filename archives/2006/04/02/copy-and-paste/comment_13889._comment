@@ -1,0 +1,15 @@
+
+[[!_comment format=mdwn
+ username="Robin"
+ subject="213.219.140.222"
+ date="2006-05-31 06:21:53"
+ content="""
+<p>shift+insert, ctrl+insert and shift+delete are <span class="caps">CUA</span> standards that were proposed by <span class="caps">IBM</span> long time ago.  They are the standards.</p>
+
+<p><span class="caps">CTRL</span>+X,CTRL+C and <span class="caps">CTRL</span>+V are Machintosh and have been introduced by Microsoft since their divorce with <span class="caps">IBM</span>.</p>
+
+<p><span class="caps">CUA</span> standards are faster when your using the keyboard and typing a lot.<br />
+Microsoft standards are faster when your using the mouse and not typing a lot.</p>
+
+<p>If you don&#8217;t know <span class="caps">CUA</span> standards that&#8217;s because you started informatics with VB and have not been a lot to school.</p>
+"""]]

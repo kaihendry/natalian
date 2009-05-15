@@ -1,0 +1,13 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-10-07 10:55:45"
+ content="""
+<p>A big package:</p>
+
+<p>Get:1 <a href="http://ftp.monash.edu.au">http://ftp.monash.edu.au</a> sarge/main wordnet-base 2.0g-12 [8336kB]<br />
+Get:2 <a href="http://ftp.monash.edu.au">http://ftp.monash.edu.au</a> sarge/main wordnet 2.0g-12 [108kB]</p>
+
+<p>But seems to work. <span class="caps">OMG</span> another <span class="caps">CRAP</span> Web UI for it : <a href="http://wordnet.princeton.edu/perl/webwn">http://wordnet.princeton.edu/perl/webwn</a></p>
+"""]]

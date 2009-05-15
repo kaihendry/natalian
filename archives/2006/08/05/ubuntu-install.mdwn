@@ -1,0 +1,17 @@
+[[!meta title="Ubuntu 6.06 install" ]]
+[[!meta date="2006-08-05 17:34:07" ]]
+<p>I <strong>highly recommend</strong> the Server install CD version of Ubuntu Dapper 6.06.</p>
+
+<p>I tried the &#8220;Desktop installer&#8221; and it <strong>failed</strong> with some partitioner error. It installs via some program after you boot via a live CD, like Knoppix. It sucks. I remember Ubuntu hacking on it right upto release. It never got enough testing.</p>
+
+<p>This was in front of a family friend and I don&#8217;t think I have ever been so embarrassed by something failing. Damn Free software can be a hard sell, even if it is for free. :/</p>
+
+<p>I retried the installation with <strong>Debian&#8217;s text installer</strong> with the &#8220;Server install CD&#8221; and now Ubuntu with X is installed.</p>
+
+<ol>
+<li>Must figure out how to turn off that <strong>stupid screensaver</strong> that drains computer power</li>
+<li>Why isn&#8217;t openssh server installed by default? <span class="caps">FFS</span>, that&#8217;s a pain. (waiting for an update)</li>
+<li>Damn, why don&#8217;t they release an update with all the security updates? They&#8217;re taking forever to download and install</li>
+<li>I remove the CD and try apt-get install openssh-sever and now it wants the CD back. <span class="caps">FFS</span>, download it off the Internet! /me edits sources.list and updates&#8230;</li>
+<li>Why is the UK mirror using &#8220;gb&#8221;. Odd. I prefer the &#8220;uk&#8221; code.</li>
+</ol>

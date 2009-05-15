@@ -1,0 +1,11 @@
+[[!meta title="Koululinux" ]]
+[[!meta date="2004-01-30 20:31:07" ]]
+<a href="http://www.linux-aktivaattori.org/view/Bazaar/KouluLinux">Koululinux</a> is here.
+
+<p>Today I had my first opportunity to fully test (and get working) all configurations of <a href="ftp://ftp.skolelinux.no/">Skolelinux</a> aka Debian-Edu aka Koulu (Finnish for school) Linux here in Finland.</p>
+
+<p>After a few hours of tinkering, I managed to get a Main server, Thin Client server and a thin client working. And whoa, I am impressed and even more excited about the project. <span class="caps">LDAP</span>, <span class="caps">LVM</span>, Samba, backup and other services you&#8217;d expect out of the box. Crazy&#8230; ;)</p>
+
+<p>Next week I hope to demonstrate the ease in which I can setup a typical&#8217;s school computer system. However this is a tad difficult. As I am making use of HU CS resources on the pretext of <em>Network experiments</em>, I honestly do not have any <em>political</em>  support or permission to do work here for Skolelinux, I mean Koululinux.</p>
+
+<p>I now have first hand experience of setting up everything. I hope some collegues could possibly, maybe, share my enthusiasm here.</p>

@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="MJR"
+ subject="213.55.30.50"
+ date="2005-12-22 18:56:32"
+ content="""
+<p>On the return paths: yes, the <span class="caps">MTA</span> usually generates them, but it should set them to working email addresses. The not-always-accessible and more location-specific identifiers should be in the Sender header, not the envelope/return path. If your <span class="caps">MTA</span> doesn&#8217;t set a working return path, it&#8217;s misconfigured.</p>
+
+<p>Why are envelope/return paths useful? They&#8217;re sent in the <span class="caps">SMTP</span> conversation, so they can be used without needing to parse the message headers. It&#8217;s not that your headers aren&#8217;t trusted, just that it&#8217;s not as easy. I doubt a good listserver should use them much, though, as surely most have header-parsing routines available.</p>
+"""]]

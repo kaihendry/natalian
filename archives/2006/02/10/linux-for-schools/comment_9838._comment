@@ -1,0 +1,13 @@
+
+[[!_comment format=mdwn
+ username="joseluis"
+ subject="80.58.12.235"
+ date="2006-02-10 17:25:48"
+ content="""
+<p>I know it is in spanish, but it is easy to be followed: Take a look at <a href="http://www.educarex.es/linexcolegios">http://www.educarex.es/linexcolegios</a><br />
+Three characters for three levels of primary education, with their customized desktop and applications, more than 2 gb in games and educational tools, and a lot of tools to make teachers life easier. As you said in your post: one click to login, no passwords for students, and ldap and nfs for the teachers home who have mobility across the school classrooms.<br />
+We have begun this week to install this customized linex (a debian based distribution: it&#8217;s dcc in the heart but with the educative an desktop applications backported from sid). It&#8217;s being installed in 20.000 desktops pc and more than 500 servers. It has a pyramidal structure, so I can put a line with a instruction in my server and next time one, a school or all the pc starts up will made the changes I prepared.<br />
+And the instalation: a clonation with mondoarchive and a script in the first boot that asks for some network parameters in the server, and only for a name in the desktop. 25 minutes and a school with 40 pc is ready.<br />
+You can see a flash demo of the desktops at <a href="http://www.itais.net/linexcole.swf">http://www.itais.net/linexcole.swf</a><br />
+Obviusly: it&#8217;s Debian, so changing the locales you will get it in any language</p>
+"""]]

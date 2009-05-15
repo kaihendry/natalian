@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-07-11 16:26:30"
+ content="""
+<p>I like <span class="caps">PAM</span> because it is simple. You need that basic auth at first and that could be local. The rest of the profile could be downloaded by firefox from a remote site. profiles.mozilla.org or something or another.</p>
+
+<p>I hate <span class="caps">LDAP</span>. :)</p>
+"""]]

@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Kai Hendry"
+ subject="217.30.176.161"
+ date="2004-03-18 18:42:10"
+ content="""
+<p>I don&#8217;t know why this opensource product is not in the official debian repositry yet, so you need to add a line to your sources.list</p>
+
+<p><a href="http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html#Are%20there%20Unix%20binaries%20for%20R%3f">http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html#Are%20there%20Unix%20binaries%20for%20R%3f</a></p>
+"""]]

@@ -1,0 +1,29 @@
+[[!meta title="Unix and Helsinki" ]]
+[[!meta date="2004-08-24 16:45:55" ]]
+<p>So this morning I am in Helsinki and I thought, lets use the computers at <a href="http://db.cs.helsinki.fi/~hendry/log/pyblosxom.cgi/bad/aleksandria.html">Aleksandria,</a> maybe they&#8217;ve improved from a year ago.</p>
+
+<p>It has not. :/</p>
+
+<p>First I found a machine and tried log in. Remembering the password is one thing, the username is another. I remember it being .hendry.ml, that&#8217;s right <span class="caps">DOT</span> hendry <span class="caps">DOT</span> ml. <strong>ml</strong> is for my faculty, Maths.</p>
+
+<p>Didn&#8217;t work. I couldn&#8217;t tell if I had the wrong username, password or if my account has expired. Oh well, lets ask support. I go to the janitors who tell me to go the user account office on the 3rd floor. I go to find the User Account office is only open at 1pm. Hmmm, it&#8217;s 10am. <span class="caps">WTF</span> I am going to do.</p>
+
+<p>I go and use the old <span class="caps">DEC</span> VT420. Still the old burnt out monitor. The keyboard that hasn&#8217;t been cleaned from the 70s. Still a keyboard with no <span class="caps">ESC</span> key to be found. And the screen update problems still exist. Those IT guys must think they&#8217;re pretty smart by predicting the demise of Unix terminals. IT <span class="caps">DOES</span> <span class="caps">NOT</span> <span class="caps">WORK</span>, <span class="caps">THAT</span> IS <span class="caps">WHY</span> NO <span class="caps">ONE</span> <span class="caps">USES</span> IT. It has been like that for a year now. Morons.</p>
+
+<p>I talk again with janitors on the ground floor after they&#8217;ve had their smoke and they say I should try the IT support guy on the 2nd floor. After waiting ten minutes I tell him please let me have <span class="caps">SSH</span> access.</p>
+
+<p>He&#8217;s sort of helpful and tells me if he had the choice he would be using Linux. I couldn&#8217;t help but notice he was using Internet Explorer. Would a man using Internet Explorer use Linux? I doubt it. Anyway, I got a (anonymous?) log in where he asked me to make sure I logged off.</p>
+
+<p>He logged me in and nothing happened. Seriously. I thought to myself, there is something wrong! As I got up off my chair and proceeded back to the support office a win2k loading bar appeared. <span class="caps">WTF</span>? Can login times be slower than <span class="caps">KDE</span> I thought??! After seriously waiting for what seemed to be 5 minutes I was greeted with an <a href="http://pictures.natalian.org/screenies/2004/aug/24/12:00:33/">error message and bunch of Novell icons</a>.</p>
+
+<p>Is this suppose to be easy with a sea of icons? Ok, I launch <span class="caps">SSH</span> client of F-secure which has a white background. I hate that. It seems to take ages to install the program. Why doesn&#8217;t it just run? I also launch Opera to browse and Coral to paste in the screenshot. What a mistake. The splash windows of either application preoccupied my foreground for about another 5 minutes.</p>
+
+<p>Ok, so I do some work via <span class="caps">SSH</span>, check out some amazing Finnish girls and then goto Unicafe lunch.</p>
+
+<p>I come back to the User Account office as it is now after 1pm to complain and get my account sorted so I can log in and do some work. The guy tells me my login has changed to <strong>.hendry.it.hy</strong>. I thought to myself so my faculty ML has become IT. So what does IT stand for I say? (remember we&#8217;re in Finland). He says Information Technology. He continues to say all students now have .it.hy in their username.</p>
+
+<p>What? So every student has a <span class="caps">DOT</span>, <span class="caps">DOT</span>-I-T-DOT-H-Y in there username? Doesn&#8217;t that strike you as a little redundent? In defence he said he wasn&#8217;t the Computer Scientist.</p>
+
+<p>After the User Account guy enables my account, he tells me I have to wait an hour before I can log into my account. I said I have waited half a day for you to open. He then says then I shouldn&#8217;t mind waiting another hour then.</p>
+
+<p>I decided to then go play Lunch Money with some friends to chill out.</p>

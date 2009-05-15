@@ -1,0 +1,41 @@
+[[!meta title="Etrex plotting" ]]
+[[!meta date="2007-05-01 17:37:34" ]]
+<a href="http://www.flickr.com/photos/hendry/479026170/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/199/479026170_fa5be59553_m.jpg" width="240" height="180" alt="Etrex via a USB interface" /></a>
+
+<p>This morning I thought I couldn&#8217;t get my <span class="caps">GPS</span> tracklog from my bike ride through London off my Etrex <span class="caps">GPS</span> device as I didn&#8217;t have:</p>
+
+<ol>
+<li>A serial port on my X40</li>
+<li>Google plus (20USD for getting data off my <span class="caps">GPS</span>!) on my Windows desktop at work</li>
+</ol>
+
+<p>As I left work, a colleague suggested I try an <span class="caps">USB</span> serial adaptor that was lying around. He also gave me a CD with the drivers. I said I don&#8217;t need drivers! I run Debian, much to my colleague&#8217;s bemusement.</p>
+
+<p>Anyhoo, the <span class="caps">USB</span>/Serial interface works well, it comes up like so:</p>
+
+<pre>
+Apr 30 22:56:53 monty kernel: usbcore: registered new driver usbserial
+Apr 30 22:56:53 monty kernel: drivers/usb/serial/usb-serial.c: USB Serial support registered for generic
+Apr 30 22:56:53 monty kernel: usbcore: registered new driver usbserial_generic
+Apr 30 22:56:53 monty kernel: drivers/usb/serial/usb-serial.c: USB Serial Driver core
+Apr 30 22:56:53 monty kernel: drivers/usb/serial/usb-serial.c: USB Serial support registered for pl2303
+Apr 30 22:56:53 monty kernel: pl2303 2-1:1.0: pl2303 converter detected
+Apr 30 22:56:53 monty kernel: usb 2-1: pl2303 converter now attached to ttyUSB0
+</pre>
+
+<p>Then I ran:</p>
+
+<tt>gpsbabel -t -i garmin -f /dev/ttyUSB0 -o gpx -F tracklog.gpx</tt>
+
+<p>To download the track log from the Garmin. Then I converted the <span class="caps">GPX</span> into <span class="caps">KML</span> with this <a href="http://www.gpsvisualizer.com/map?form=googleearth">Gpsvisualizer Web application</a>.</p>
+
+<p>Then I load up the <span class="caps">KML</span> with <a href="http://earth.google.com/">Google Earth</a> to see where and when I have been cycling London. Google Earth really needs the package libgl1-mesa-dri installed to get <span class="caps">DRI</span> working on my X40 machine.</p>
+
+<a href="http://www.flickr.com/photos/hendry/479056992/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/210/479056992_d459a5fc45_m.jpg" width="240" height="180" alt="Google earth showing my track log" /></a>
+
+<p>Though I prefer not to use Google Earth. I wish I could load the data with this <a href="http://libgmail.sourceforge.net/googlemaps.html">Google maps animator</a>, though the service doesn&#8217;t seem to accepting new accounts. Grrr&#8230;</p>
+
+<p>Update: Just a couple of comments about riding in London:<br />
+* There are more bike paths than I expected<br />
+* Traffic was real easy last Sunday<br />
+* Overtaking buses is scary, but it&#8217;s better than sitting behind them in the fumes and you do tend to go much faster on average than a bus</p>

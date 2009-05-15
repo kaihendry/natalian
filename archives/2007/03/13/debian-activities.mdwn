@@ -1,0 +1,11 @@
+[[!meta title="Debian activities" ]]
+[[!meta date="2007-03-13 09:06:51" ]]
+<a href="http://www.flickr.com/photos/hendry/418003169/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/125/418003169_2d614d0ae5_m.jpg" width="240" height="180" alt="Debian net boot" /></a>
+
+<p>Of late I have been:</p>
+
+<ul>
+<li>Tracking the progress of <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=413926">#413926</a> and the fate of <a href="http://wordpress.org/">Wordpress</a> in etch.</li>
+<li>Celebrating <a href="https://nm.debian.org/nmstatus.php?email=hendry%40iki.fi">3 years in the NM queue</a>.</li>
+<li>Working on <a href="http://live.debian.net/">Debian Live</a>. Check out my <a href="http://wiki.debian.org/DebianLive/Howto/Creating_a_Test_environment">test environment</a>. Daniel Baumann is currently rewriting make-live and I have begun a new project which I like to pretentiously call the <a href="http://webconverger.org/design/">Universal Web terminal</a>. :)</li>
+</ul>

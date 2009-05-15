@@ -1,0 +1,15 @@
+[[!meta title="Ubuntu's minimum resolution lie" ]]
+[[!meta date="2009-01-13 15:09:10" ]]
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/1wd066HO8_E&amp;hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1wd066HO8_E&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+<p>Another reason to hate Gnome, <strong>scalability</strong>. Though Ubuntu <a href="https://help.ubuntu.com/community/Installation/SystemRequirements">advertise a minimum resolution of 640&#215;480</a>, there are many several menus and applications that assume a much larger display. Hence OK/Cancel buttons can be unreachable!</p>
+
+<p>I noticed this several times with Ubuntu 8.10 on a <a href="http://en.wikipedia.org/wiki/IdeaPad">Lenovo S10e</a> which has a vertical resolution of at least <a href="http://en.wikipedia.org/wiki/WSVGA">600 pixels</a>.</p>
+
+<p>So what to do about it? Run X in a higher virtual resolution? Urgh!</p>
+
+<p>One could try hunt down all the applications and menus this affects and file bugs&#8230; too painful. Instead I dropped a mail to the <a href="http://www.canonical.com/projects/ubuntu/nbr">Ubuntu Netbook Remix</a> (nbr) people, asking if they are aware of this problem. However they replied saying: &#8220;Thanks for your kind updates.  Please also highlight it to Lenovo for the hardware incompatibility.&#8221;.</p>
+
+<p>Er, you want me to contact Lenovo that a plethora of <span class="caps">GTK</span> applications assume a minimum resolution larger than 600 vertical pixels? What will that achieve?</p>
+
+<p>Sorry, most Web browsers are far more flexible with panning &amp; resizing and hence are scalable to any screen size from a tiny mobile device to a cinema screen. So once again the <a href="http://webconverger.com/">Web trumps as an application platform</a>.</p>

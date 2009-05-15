@@ -1,0 +1,14 @@
+[[!meta title="Computer Time syncing best practice" ]]
+[[!meta date="2005-12-09 09:31:11" ]]
+<p>I started a thread about <a href="https://www.redhat.com/archives/nahant-list/2005-November/msg00195.html">syncing time between machines in an office</a> over at the <a href="https://www.redhat.com/mailman/listinfo/nahant-list">Red Hat nahant list.</a> Feck I hate <a href="http://www.gnu.org/software/mailman/">mailman.</a> The thread continues in the next month, detailing <a href="https://www.redhat.com/archives/nahant-list/2005-December/msg00000.html"><span class="caps">NTP</span> syncing best practices.</a></p>
+
+<p>A summary:</p>
+
+<ul>
+<li>Don&#8217;t use <a href="http://en.wikipedia.org/wiki/Cron"><span class="caps">CRON</span></a> fools!</li>
+<li>Use Red Hat&#8217;s tool <a href="https://www.redhat.com/archives/nahant-list/2005-December/msg00019.html">X-version of <strong>system-config-date</strong> and use it to set up ntp</a> (GOSH, that sucks!)</li>
+<li>ntpdate for laptops and workstations that reboot often, because you should only use <a href="http://www.ntp.org/ntpfaq/NTP-s-config.htm#AEN2510">ntpdate on boot as big time shifts during a running system can cause havoc</a></li>
+<li>Otherwise run ntpd for machines that stay on. Caveat: If time is out by more than 1000 seconds, it won&#8217;t update. First ntpdate then restart ntpd. Urgh.</li>
+<li><a href="http://en.wikipedia.org/wiki/Daylight_saving_time"><span class="caps">DST</span></a> is a <a href="https://www.redhat.com/archives/nahant-list/2005-December/msg00009.html">pain.</a></li>
+<li><a href="https://www.redhat.com/archives/nahant-list/2005-December/msg00010.html">Win32 time sync</a> net time /setsntp:yourlocalRHserver (on the Domain Controller)</li>
+</ul>

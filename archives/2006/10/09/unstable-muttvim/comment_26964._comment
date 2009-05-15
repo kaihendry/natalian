@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Jon Åslund"
+ subject="213.112.86.179"
+ date="2006-10-09 22:55:01"
+ content="""
+<p>I used <span class="caps">IMAP</span> in mutt many years ago. Back then it was very slow and almost unusable unless you had very fast access to the server. An atlantic lag like Sweden-Dreamhost would have been unbearable. I switched to isync, which at the time was also very buggy. If you gave it the wrong parameters, it usually segfaulted, but it was fast and local maildir access didn&#8217;t have to care about network connection. I am guessing mutt is much better today with imap caching and stuff, but I am happy with isync and friends are using offlineimap for similar effect.</p>
+
+<p>Never seen vim hanging, but that&#8217;s because I use emacs. ;)</p>
+
+<p>Still can&#8217;t stand gmail, after being so used to mutt but I like the new Google Reader for web feeds.</p>
+"""]]

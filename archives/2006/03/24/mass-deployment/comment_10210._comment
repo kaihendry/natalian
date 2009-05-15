@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="pabs"
+ subject="202.72.168.241"
+ date="2006-03-24 13:44:24"
+ content="""
+<p>&gt; I recall <span class="caps">LTSP</span> not making use of the hard drive. That’s stupid. Every computer has a hard drive.</p>
+
+<p>Wrong, <span class="caps">LTSP</span> is specifically designed to make use of special, cheap embedded i386 (yes, real i386, not i486/etc) boxes that do <span class="caps">NOT</span> have hard drives and thus run silently.</p>
+"""]]

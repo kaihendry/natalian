@@ -1,0 +1,190 @@
+[[!meta title="WNPP" ]]
+[[!meta date="2004-08-20 10:37:15" ]]
+<p>[NEW] debconf (<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=265570">#265570</a>), orphaned 6 days ago</p>
+
+<p>Description: Debian configuration management system</p>
+
+<code>
+     Reverse Depends: lg-issue10 lg-issue11 ilohamail lg-issue12
+     lg-issue13 cmucl openwebmail lg-issue14 haskell-mode lg-issue15
+     txt2pdbdoc pimppa lg-issue16 lg-issue17 zhcon lg-issue18 lg-issue19
+     teapop-mysql popa3d php4-gd lm-sensors php4-imap netenv idanish
+     zope-emarket linup jspwiki quake2-data ssmtp cpufreqd sympa
+     squid-cgi ntpdate pptpd lg-issue20 lg-issue21 lg-issue22 apache-perl
+     lg-issue23 lg-issue24 xdm pdsh lg-issue25 tpb lg-issue26
+     bsdmainutils squid lg-issue27 openafs-fileserver lurker lg-issue28
+     lg-issue29 ispanish cpml-ev5 xbanner cpml-ev6 flowscan ssh
+     php4-mhash orville-write language-env jove gkdebconf python2.3-popy
+     exult irm spellcast eagle-adsl-tools bacula-sd libots lg-issue100
+     lg-issue101 pcmcia-modules-2.4.26-1-k6 wpolish lg-issue102
+     pcmcia-modules-2.4.26-1-k7 lw-pro-installer-43 lg-issue103 hunglish
+     tmpreaper tilp gforge fontconfig ifinnish-large sitebar screen
+     lg-issue30 checksecurity lg-issue31 network-console-config
+     lg-issue32 lg-issue33 dcl lg-issue34 ipvsadm iirish lg-issue35
+     lg-issue36 diablo-common lg-issue37 lg-issue38 zope-cmfdefault
+     xprt-common lg-issue39 phpldapadmin lynx-cur linesrv-mysql waproamd
+     ntop abook wswedish sl-modem-daemon ftpwatch exim4-base mixmaster
+     mason lvm10 krb4-config webfs zope-localizer ilisp xtrs
+     libvpopmail-freecdb lessdisks flashplugin-nonfree anacron ndtpd
+     lg-issue40 iamerican lg-issue41 posh med-common-dev lg-issue42
+     autoinstall-hppa python2.1-popy lg-issue43 gnats lg-issue44
+     timezoneconf muse lg-issue45 ifplugd php4-interbase lg-issue46
+     lg-issue47 mush lg-issue48 openoffice.org-bin postgrey lg-issue49
+     irda-utils ifinnish-small harden uucp libhesiod0 tinc
+     libasedrive-serial dhelp sa-exim libslbreflex2 libnet-perl caudium
+     proftpd-mysql apmd modlogan cdd-common openvpn libfltk1.1-dev
+     libraw1394-5 motion popularity-contest mp3kult libpaper1 lg-issue50
+     lg-issue51 lg-issue52 libcwd-dev lg-issue53 lidstools-2.4 lg-issue54
+     postfix lg-issue55 aolserver4 firebird-server-common xfonts-thai-ttf
+     lg-issue56 gforge-mta-exim4 workman lg-issue57 xawtv wukrainian
+     lg-issue58 oneliner-el lg-issue59 gnump3d zope-zwiki ddt-client cfal
+     aide fcron wmnetmon pure-ftpd-common mped arcboot fwlogwatch
+     mailagent muttprint aladin autolog acpid plptools dailystrips
+     lw-per-installer ibrazilian libuptimed lg-issue60 lg-issue61
+     lg-issue62 tmda lg-issue63 lg-issue64 lg-issue65 lg-issue66
+     lg-issue67 distmp3 lg-issue68 lg-issue69 gforge-ldap-openldap
+     dbmail-pgsql zephyr-server-krb proftpd phpmyadmin
+     firebird-s32-server libapache-mod-acct-mysql ftape-source exiscan
+     keychain snort-mysql kernel-patch-usagi lirc-modules-source
+     heimdal-kdc spamassassin usermin update-cluster mooix hybserv
+     alsa-source cmap-adobe-korea1 dump nagios-mysql mailman adjtimex
+     lg-issue70 snort lg-issue71 php4-curl lg-issue72 lg-issue73
+     lg-issue74 lg-issue75 kdrill lg-issue76 lg-issue77 lg-issue78
+     lg-issue79 nfs-common drupal locales rancid-installer jpilot iswiss
+     zope-cmfcore numlockx tripwire plan apache2-common f-prot-installer
+     atlas3-3dnow apsfilter php4-cgi phpbb2-conf-mysql ifinnish
+     docbook-dsssl diskless-image-secure ksensors dpkg-www lg-issue80
+     dict-de-en lg-issue81 wdutch lg-issue82 teapop-ldap lg-issue83
+     lg-issue84 kerberos4kth-kdc lg-issue85 lg-issue86 resolvconf
+     lg-issue87 tutos lg-issue88 fonty lg-issue89 nis amavis-stats
+     partimage-server xsmbrowser libusb-0.1-4 isdnlog feta dhcp3-client
+     zope-tinytableplus cyrus21-common ssh-krb5 hinfo interchange-ui
+     darkstat libwine phalanx bitlbee nvram-wakeup smb2www bonsai bacula
+     debian-edu-install laptop-netconf filterproxy arla-modules-source
+     libflac4 boa sslwrap lg-issue90 gtktrain bacula-director-mysql
+     gforge-cvs lg-issue91 lg-issue92 spong-server lg-issue93 lg-issue94
+     lapack lg-issue95 lg-issue96 php4 lg-issue97 lg-issue98 lg-issue99
+     localeconf prospect raidtools2 libcanna1g eagle radioclk mdctl
+     wcanadian arla cvsd ingerman euro-support mserv mozilla-browser
+     drscheme zope-docfindertab apache postgresql lyskom-server
+     iesperanto apache-common wu-ftpd plex86 pnm2ppa netselect ftape-util
+     wdanish ntp-simple yank twig wogerman reiser4progs
+     libapache2-mod-python2.2 libapache2-mod-python2.3 isoqlog pcmcia-cs
+     php4-odbc catalog thttpd iukrainian foomatic-filters zope-cmfldap
+     teapop cnews sash cfengine2 solid-pop3d php4-ps ipopd snoopy
+     lsh-server xpilot-server gradm tetex-bin nessus-plugins cipe-common
+     kvdr xserver-xfree86 cpad-kernel-source iitalian calamaris seyon
+     logcheck firebird-s64-server hotplug bacula-director-sqlite
+     spong-common sendpage-client cxml-ev5 lg-issue01to08 cxml-ev6 imanx
+     user-euro-es tiger nbd-server fbiterm zope-translationservice man-db
+     apt-proxy slrn openafs-dbserver gcl atlas2-ev5 cltl
+     gforge-db-postgresql ifupdown mpd lsb dacode debconf-utils lsh
+     harden-servers krb5-admin-server pcmcia-modules-2.4.26-1-586tsc
+     erlang-base slapd interchange racoon canna python2.3-configlet uqwk
+     playmidi courier-base diffmon acl-installer gdm scsitools phpbb2
+     scponly wamerican-large libsqlite0 xringd wspanish atlas3-sse2
+     mantis atokx ibritish wgalician-minimos cw flyspray conserver-client
+     proofgeneral cpu remstats imp3 distcc qmail-src tpconfig
+     libdebconf-client-ruby twiki libapache-mod-backhand
+     ldap-account-manager mldonkey-server med-common xfree86-common
+     proftpd-ldap libcteco50000 ipppd debconf-english mopd debsums
+     php4-snmp libapache-sessionx-perl zephyr-server atftpd console-log
+     setserial prelude-nids mono-xsp multi-gnome-terminal
+     zope-cmfcalendar libgempc410 webmin cgiemail inn2 wamerican-small
+     riece libsafe spip fiaif atlas2-base geneweb websvn rio500
+     clamav-data zope-tinytable php4-gd2 cdrecord etherconf squishdot
+     libmail-bulkmail-perl gtk2-engines-spherecrystal gnarwl ipchains
+     ckermit dictionaries-common tetex-base shaper cdtool bottlerocket
+     echolot mailscanner am-utils facturalux htdig libglide2 libglide3
+     zope-dtmlcalendar trustees php4-pgsql pdbv apt-build noflushd
+     autoinstall-i386 libpam-ldap raidtools man2html bidentd
+     zope-kinterbasdbda snort-rules-default xserver-xfree86-dbg
+     libvpopmail-mysql horde2 freeswan jsboard moobot bochs ifaroese
+     zope-cmftopic pks libgempc430 lprng myphpmoney ddclient libnss-ldap
+     mgetty-fax moon-buggy msttcorefonts sdic-gene95 zope-textindexng2
+     cfalrtl teapop-pgsql zope-znavigator xvmount zope-externaleditor
+     adduser initz wbulgarian firebird-c32-server mailreader
+     debaux-debconf drbd udftools wmweather cacti chastity-list lilo
+     x86info tasksel mirrormagic gforge-web-apache wipl-client-java
+     viewcvs pilot-link mzscheme ftpd-ssl bacula-director-common
+     configure-debian mono-apache-server nautilus-media blootbot
+     liboggflac1 udev efax ircd-hybrid acct dhis-client
+     gforge-theme-starterpack acidlab middleman icatalan mdadm libmyodbc
+     zope-cookiecrumbler atlas2-3dnow mga-vid-common wnorwegian pconsole
+     brltty ipmasq ca-certificates debconf-i18n gforge-common
+     zope-callprofiler python2.2-popy gforge-mta-exim moodle gs-common
+     manpages-es amanda-common bacula-common esmtp fetchmail spip-eva
+     autoinstall lyx ddt-server vdr-plugin-bitstreamout wfinnish
+     lam-runtime eagle-usb-utils whereami idutch jffnms anon-proxy
+     argus-server john rancid-core turba tvtime gclcvs im
+     console-cyrillic wipl-daemon lcdproc tcpd ntp daemontools-installer
+     irqbalance terminatorx isdnvboxserver clamav-freshclam zope-xron
+     boust php4-domxml cvs delo mhc-utils toshset t-prot traffic-vis
+     nethack-common cdd-dev jazip slrnpull bacula-fd phppgadmin
+     cvs-autoreleasedeb proftpd-pgsql clamav-daemon opendb elinks
+     gforge-shell-ldap shfs-utils openafs-client durep
+     zope-lockablefolder prc-tools-utils colormake oprofile-source
+     nagios-text nut atlas3-v9 wngerman libhtml-mason-perl-examples
+     zope-formulator php4-rrdtool xtel acl-pro-installer phpqladmin
+     zope-cmfforum atlas2-sse uptimed flow-tools lxdoom-svga
+     zope-cmfpgforum dbmail-mysql samba-common dvipdfmx icecast-server
+     igaelic libvpopmail-lmysql ntp-refclock laptop-net igalician-minimos
+     atlas3-ev5 xfs-xtt cxx pcmcia-modules-2.4.26-1-k7-smp mueller7-dict
+     dhcp3-server libapache-mod-acct-pgsql kpilot firebird-c64-server
+     aegis wine pcmcia-modules-2.4.26-1-386 snort-pgsql dvi2ps
+     ptex-jisfonts xplanet witalian sdic-edict common-lisp-controller
+     ibulgarian wcanadian-large preview-latex nfs-kernel-server
+     uprecords-cgi nagios-pgsql zope2.6-verbosesecurity post-faq kbd
+     xfstt squidguard kinput2-canna-wnn libsane wirish apache-ssl lirc
+     mydns-mysql php4-ldap pcd2html lire mtink fwanalog iswedish zsh dwww
+     zope-cmfplone diskless-image-simple fbset linesrv logtool
+     crossfire-server diogenes bacula-console swish-e razzle nttcp
+     inorwegian kinput2-wnn wcanadian-small aptconf slbackup lisa
+     mailfilter smarty dbengine logcheck-database discover1 ax25-apps
+     interchange-cat-foundation tgif circuslinux xtell analog systrace
+     wwwoffle sysstat nn php4-sybase netbase dhcp3-common couriergraph
+     webalizer wbritish pawserv zope-loginmanager libssl0.9.7 avrprog
+     zephyr-clients ipolish powertweakd iczech kdm penggy krb5-kdc
+     synce-serial wbritish-large nagat sendpage-server samhain
+     fireflier-server smsclient roxen3 aspell-no zope-epoz libslp1
+     spamprobe console-data gpm electricsheep wmanx aeromail gpr tpctl
+     exim4-config oftpd isync kronolith fvwm-shell debconf
+     zope-rdfgrabber libasedrive-usb slay epiphany-browser vtun wflogs
+     xcdroast gidentd php4-mcal shfs-source libtowitoko2 x-ttcidfont-conf
+     proftpd-common linpopup tin quagga oops phpsysinfo auctex cupsys
+     ilithuanian ihungarian libct1 spong-client em8300 wbritish-small
+     irussian mailgraph gforge-lists-mailman dhcp3-relay xbuffy php4-xslt
+     shorewall zope-cmfworkflow backuppc yiff-server portsentry masqmail
+     vdr mrtg conserver-server mnogosearch-common
+     kernel-patch-grsecurity2 lg-base zope-sqlrelayda dfsbuild
+     bacula-console-gnome wswiss zope-exuserfolder xserver-common cricket
+     knews wfaroese swat cwcp sendpage-common mp3info
+     w3c-markup-validator mysql-server surfraw apt-listchanges rssh
+     user-es popfile faqomatic hddtemp joystick zope-devguide-example
+     zope-verbosesecurity xaw3dg webmin-ldap-user-simple namazu2 mtop
+     vdr-daemon zope2.7 sbcl zope-docfindereverywhere mediamate totd
+     mailcrypt blosxom gforge-ftp-proftpd snort-common printbill
+     cacti-cactid getmail clamav-getfiles localepurge uif gwhois
+     zope-replacesupport chdrv mueller7accent-dict ibam diald
+     libphp-adodb zope x-symbol dnet-common harden-clients wcatalan
+     nbd-client cmap-adobe-gb1 galeon cpuburn dpkg-iasearch miscfiles
+     cyphesis-cpp nullmailer atlas3-base sing isdnutils-base moviemate
+     atlas2-sse2 cupsys-bsd postgresql-client pileup iportuguese sn
+     efingerd debhelper libsctp1 xmail cmap-adobe-japan1 hearse trn4
+     album gforge-dns-bind9 ettercap lw-pro-installer wdm aolserver
+     lyskom-elisp-client bindgraph bugzilla libsensors3 console-tools
+     iogerman atlas3-altivec phpgroupware xcwcp quota hwtools ssl-cert
+     leafnode wgaelic moon-buggy-esd lapack3 gforge-mta-postfix uw-imapd
+     remembrance-agent libpango1.0-common ccc cce rlinetd php4-pecl-ps
+     samba epos krb5-config wamerican nap wipl-client-inetd spong-www
+     gallery alsa-base lg-issue09 libgcr410 nas cmap-adobe-cns1 oprofile
+     dput atlas3-sse php4-mysql imapproxy pcmcia-modules-2.4.26-1-686
+     fortunes-fr hylafax-server base-config dbishell gradm2 gnats-user
+     pcmcia-modules-2.4.26-1-686-smp php4-recode scoop dict-web1913
+     ez-ipupdate amavis-ng zope-backtalk console-common
+     kernel-patch-2.4-grsecurity beep zope-extfile vpopmail-bin
+</code>
+
+<ul>
+<li><a href="http://kitenet.net/~joey/blog/entry/ugh-2004-08-13-19-23">Joey&#8217;s blog entry about the issue</a></li>
+</ul>

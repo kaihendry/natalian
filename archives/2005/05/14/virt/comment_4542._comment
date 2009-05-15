@@ -1,0 +1,22 @@
+
+[[!_comment format=mdwn
+ username="Joose Vettenranta"
+ subject="128.214.191.196"
+ date="2005-05-14 22:56:19"
+ content="""
+<p>Hi,</p>
+
+<p>Virtual domains for postfix is basicly very easy</p>
+
+<p>I have in /etc/postfix/virtual like this:</p>
+
+<p>domain.tld   anything<br />
+<a href="mailto:foo@domain.tld">foo@domain.tld</a>    user-account<br />
+@domain.tld     user-account-for-*@domain.tld style</p>
+
+<p>after taht /usr/sbin/postmap /etc/postfix/virtual and it&#8217;s working and rocking like balls while having sex =)</p>
+
+<p>No changes in main.cf is required.</p>
+
+<p>- Joose</p>
+"""]]

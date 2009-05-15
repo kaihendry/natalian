@@ -1,0 +1,15 @@
+[[!meta title="Firstdirect sucks" ]]
+[[!meta date="2008-04-28 17:18:15" ]]
+<a href="http://www.flickr.com/photos/hendry/1801168092/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2344/1801168092_612f4b34cd_m.jpg" width="240" height="180" alt="First direct sucks" /></a>
+
+<p>I&#8217;ve been <a href="http://natalian.org/archives/tag/banking/">moaning about Internet banking Web applications for awhile now</a>. However this aggressively marketed  <a href="http://firstdirect.com/"><span class="caps">HSBC</span> Firstdirect</a> banking service couldn&#8217;t escape the blog treatment.</p>
+
+<ul>
+<li>It&#8217;s <a href="http://firstdirect.com/textmessagebanking/monilink.shtml?WT.ac=MAT0165">free to view your statements on your mobile until 2007</a>! Isn&#8217;t that amazing? Amazing that viewing your statements is somehow not as free on the &#8216;Mobile Web&#8217;!</li>
+<li><a href="http://www.flickr.com/photos/hendry/1801168092/">Requires Windows, IE, and ActiveX</a>. Seriously <span class="caps">OLD</span> <span class="caps">SKOOL</span>. I wonder if I can still dial up and telnet on their system?</li>
+<li>Their <a href="http://firstdirect.com/demos/ibdemo/">demo of screenshots</a>. No you can&#8217;t demo the actual Web application. Not until you&#8217;re signed up. By which you can get <strong>100GBP</strong> if you don&#8217;t like it&#8230; (that&#8217;s satisfaction guaranteed!) Err, that&#8217;s after you&#8217;ve pumped 9000GBP through their system in 6 months.</li>
+</ul>
+
+<p>Honestly get a clue <span class="caps">HSBC</span>. I <strong>was interested</strong> in getting an <span class="caps">HSBC</span> account, because I heard (unconfirmed) you could do international transfers in their Web banking application. That would save me a ton of hassle, as I currently need to go to my Barclays high street branch to do a transfer to the EU. And pay 20GBP for the privilege of filling forms over and over again.</p>
+
+<p>However that killer &#8220;international transfers&#8221; feature is missing from the &#8216;innovative&#8217; <a href="http://www.flickr.com/photos/hendry/1801168098">firstdirect Web banking feature list</a>. The Internet is global and I want a decent Web banking application!</p>

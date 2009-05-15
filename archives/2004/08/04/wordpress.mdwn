@@ -1,0 +1,13 @@
+[[!meta title="Wordpress" ]]
+[[!meta date="2004-08-04 15:15:11" ]]
+<p>This blog might be going offline for a couple of days.</p>
+
+<p>I going to have a go figuring out how to get <a href="http://bjorn.haxx.se/debian/testing.pl?package=wordpress">Wordpress into the next release of Debian.</a></p>
+
+<p>Web applications as packages are not handled very well right now in Debian <span class="caps">IMO</span> or I least have not figured out the best way to <a href="http://debian.natalian.org/wordpress/">package wordpress.</a></p>
+
+<p>It&#8217;s mainly down to mysql user creation and <span class="caps">PHP</span> code that fouls up with symlinks.</p>
+
+<p>Hmmm, it&#8217;s interesting to track <a href="http://popcon.debian.org/main/web/by_inst">web application popularity.</a></p>
+
+<p>I really think one day there won&#8217;t be Gnome or <span class="caps">KDE</span>, just something like mozilla run from the xsession.</p>

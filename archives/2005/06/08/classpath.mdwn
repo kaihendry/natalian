@@ -1,0 +1,17 @@
+[[!meta title="Classpath" ]]
+[[!meta date="2005-06-08 17:22:21" ]]
+<p>Just to continue my conceited Java blogging.</p>
+
+<p>The thing I didn&#8217;t get with classpath is that you need to name the <span class="caps">JAR</span> file.</p>
+
+<p><span class="caps">WRONG</span></p>
+
+<p>export <span class="caps">CLASSPATH</span>=/u01/app/jboss-4.0.1sp1/client/</p>
+
+<p><span class="caps">RIGHT</span></p>
+
+<p>export <span class="caps">CLASSPATH</span>=/u01/app/jboss-4.0.1sp1/client/activation.jar</p>
+
+<p>I even wrote a Web app to <a href="http://classpath.dabase.com">compare <strong><span class="caps">CRAP</span></strong> ant -verbose classpath output between Linux and Win32.</a></p>
+
+<p>I hate <span class="caps">JAVA</span>. It is so difficult for me to track which <span class="caps">JAR</span> file say example javax.servlet.ServletException comes from.</p>

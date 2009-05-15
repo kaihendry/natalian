@@ -1,0 +1,9 @@
+[[!meta title="PHP XML" ]]
+[[!meta date="2005-07-28 19:23:20" ]]
+<p><a href="http://groups-beta.google.com/group/Google-Maps-API/browse_thread/thread/6c7e63de38c7353d/cc82d854ef15626a#cc82d854ef15626a">I hate <span class="caps">XML</span>.</a></p>
+
+<p>I investigated storing my <span class="caps">GPS</span> co-ords in a really simple <a href="http://maps.natalian.org/data.xml"><span class="caps">XML</span> file</a> with <span class="caps">PHP</span> for my <a href="http://maps.natalian.org/">map application.</a> I did this thinking that I could only interface data with Google Maps in Javascript with <span class="caps">XML</span>. In fact you <strong>can</strong> use <a href="http://groups-beta.google.com/group/Google-Maps-API/msg/cc82d854ef15626a">responseText</a> with XmlHttpRequest.</p>
+
+<p>With <span class="caps">PHP</span>, I couldn&#8217;t get &#8220;get_attribute&#8221; to work on the child nodes.  The <span class="caps">PHP</span> docs are frightening. It took me too long to figure out I had to install the <strong>php4-domxml</strong> debian package just to get started. It is really dumb writing <span class="caps">XML</span> code in PHP4, because everything changes in PHP5. Nightmare.</p>
+
+<p>Unix style flat files rule. I hate it how some applications that use <a href="http://en.wikipedia.org/wiki/Comma-separated_values"><span class="caps">CSV</span></a> are migrating to <span class="caps">XML</span> and other stupid interfaces.</p>

@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="kael"
+ subject="212.27.60.48"
+ date="2007-08-19 16:36:11"
+ content="""
+<p>You could create a Wide-Area Network with Zeroconf thanks to <a href="http://avahi.org/wiki/Avah4users" rel="nofollow">Avahi</a>.</p>
+
+<p>And then run applications over Zeroconf, like the <span class="caps">DAAP</span> <a href="http://www.fireflymediaserver.org/" rel="nofollow">Firefly media server (formerly mt-daapd)</a> to share music and perhaps video with you friends if they use a <span class="caps">DAAP</span> media-player capable, like <a href="http://www.linux.com/articles/53199" rel="nofollow">Banshee, RythmBox, Amarok</a> or just basically with iTunes (since <span class="caps">DAAP</span> is the protocol designed for it).</p>
+
+<p>I hope we&#8217;ll soon be able to easily share our data with our buddies thanks some <span class="caps">XMPP</span>, Jingle and <span class="caps">ICE</span>, in in the same manner that <a href="http://www.deusty.com/software/" rel="nofollow">Mojo</a> does.</p>
+
+<p>Centralized services are definitely not the future. :)</p>
+
+<p>P.S. : Here are some links about <a href="http://del.icio.us/kael/zeroconf" rel="nofollow">Zeroconf</a>, <a href="http://del.icio.us/kael/daap" rel="nofollow"><span class="caps">DAAP</span></a> and <a href="http://del.icio.us/kael/fuse" rel="nofollow">Fuse</a>.</p>
+"""]]

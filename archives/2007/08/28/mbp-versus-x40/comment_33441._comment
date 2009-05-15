@@ -1,0 +1,17 @@
+
+[[!_comment format=mdwn
+ username="Jon"
+ subject="128.240.229.68"
+ date="2007-08-29 09:13:41"
+ content="""
+<p>You can have more than one Device, Screen and ServerLayout sections in your xorg.conf. The first ServerLayout is the default. If you turn off gdm, you can specify which server layout you want as an argument to the &#8220;startx&#8221; command:</p>
+
+<p>startx&#8212;-layout Nvidia<br />
+startx&#8212;-layout Vmware</p>
+
+<p>Just make sure you specify your ServerLayouts with Identifier &#8220;Nvidia&#8221; and &#8220;Vmware&#8221; in this example.</p>
+
+<p>This will probably be a lot faster than repeatedly doing dpkg-reconfigure xserver-xorg.</p>
+
+<p>(I wonder if there&#8217;s a patch for gdm or something which would give you an ncurses prompt to specify ServerLayout on startup. I&#8217;d find that useful for alternative between nv, nvidia and nouveau, let alone multiview layouts)</p>
+"""]]

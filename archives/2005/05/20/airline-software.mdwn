@@ -1,0 +1,5 @@
+[[!meta title="Airline Software" ]]
+[[!meta date="2005-05-20 17:19:14" ]]
+<p>I am working for an Australian company that makes software for Airlines, called <a href="http://soltecsoftware.com.au/">Soltec Software</a>.</p>
+
+<p>I recall starting my degree and learning about the stereotypical case for complex software being Airline software. Here I am, first job armed with a degree doing just that.</p>

@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Snecx"
+ subject="203.106.66.250"
+ date="2004-10-13 10:21:42"
+ content="""
+<p>Nice article that cleared my confusion about the support of media attribute by Nokia&#8217;s phones. I have my stylesheet set to media=&#8220;screen&#8221; but it showed in N3100.</p>
+
+<p>Somehow this made about 40px+ of my page on the left cannot be seen, because the <span class="caps">DIV</span> is set to margin: auto and width: 200px. I cannot even scroll to see the contents because it is just out of the page area.</p>
+
+<p>I&#8217;ve tried to hide the <span class="caps">CSS</span> from Nokia&#8217;s browser but seems like I still can&#8217;t find any good solution. I do not want to use server side language to avoid <span class="caps">CSS</span> from be loaded into Nokia&#8217;s <span class="caps">XHTML</span> browser.</p>
+
+<p>I have semantic coded documents so it has no problem showing up on the mobile browser without <span class="caps">CSS</span>. Now this <span class="caps">CSS</span> thing is spoiling the whole document. :/</p>
+
+<p>I&#8217;ll continue my search to get a good solution for this problem.</p>
+"""]]

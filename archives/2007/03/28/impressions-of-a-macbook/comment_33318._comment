@@ -1,0 +1,15 @@
+
+[[!_comment format=mdwn
+ username="mylostone"
+ subject="192.216.236.65"
+ date="2007-06-18 22:19:08"
+ content="""
+<p>&gt;&gt; When I close the lid, it stops doing what it supposed to do. I <span class="caps">HATE</span> <span class="caps">THAT</span>. If you have power, do not suspend whatever.</p>
+
+<p>&gt; I don’t know about MacBook, but atleast PowerBook used keyboard to cool the computer. So if you close the lid the temperature of the computer rises. And if you close lid, doesn’t that mean that you are not using computer?=)</p>
+
+<p>Two things:<br />
+  1) Some programs puke when the computer suspends (eg. pro-tools), so it is important to be able to set the thing to <span class="caps">NOT</span> suspend either with or without the AC plugged in.</p>
+
+<p>2) I&#8217;d like to be able to login to the machine remotely, or run servers on it. Can the macbook to wake-on-lan?</p>
+"""]]

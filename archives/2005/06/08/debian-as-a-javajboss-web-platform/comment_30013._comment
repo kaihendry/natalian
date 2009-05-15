@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="David Smith"
+ subject="210.172.21.113"
+ date="2006-12-11 02:35:47"
+ content="""
+<p>This is an old post, but it came up in Google and so still seems &#8220;relevant.&#8221;</p>
+
+<p>Just wanted to say that up2date in <span class="caps">RHEL</span> 3 and 4 natively supports yum and apt repositories, just list them in the sources file.</p>
+
+<p>Personally, I use Debian and recommend it to everyone, but if up2date (and smart or whatever some of the other packagers are these days) are used properly, it is passable. Still nowhere near Debian quality nor breadth, but a good enough start.</p>
+"""]]

@@ -1,0 +1,17 @@
+
+[[!_comment format=mdwn
+ username="Erich Schubert"
+ subject="84.154.43.35"
+ date="2005-12-22 12:04:54"
+ content="""
+<p>But aren&#8217;t non-working return paths even worse? &#8220;From&#8221; is often bogus, but if your return-path is not working, you won&#8217;t be receiving error messages and such. Better fix that first.</p>
+
+<p>I agree that there should be a way to subscribe with alternative email adresses, too. Especially do write-only subscriptions, if you are using multiple emails or using web archives to read.</p>
+
+<p>I don&#8217;t like Google Groups. Everything web-based sucks.</p>
+
+<p>The return path is more reliable in my case actually. I hate any list that uses From or Reply-To.<br />
+Because evolution lacks any configuration option to say &#8220;whenever I post to this list, use that from&#8221; (mutt does have such functionality). So I end up posting to some lists with varying From adresses. I hate when my email comes back then&#8230; the &#8220;minit&#8221; mailing list is such an example.</p>
+
+<p>The proper approach is actually to just moderate emails from non-subscribers&#8230; not outright reject the mails.</p>
+"""]]

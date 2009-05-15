@@ -1,0 +1,27 @@
+[[!meta title="WTF is site navigation toolbar?" ]]
+[[!meta date="2007-08-13 15:08:17" ]]
+<p>I love that site navigation toolbar. But <span class="caps">WTF</span> isn&#8217;t it in Firefox? Mozilla has it in View->Show/Hide->Site Navigation Bar->Always on. When it&#8217;s on it looks like (I&#8217;ve highlighted it btw):</p>
+
+<a href="http://pictures.natalian.org/screenies/2004/jul/19/00:03:21/">
+<img src="http://pictures.natalian.org/screenies/2004/jul/19/00:03:21/279x206" alt="Site navigation bar highlighted" />
+</a>
+
+<p>I find it extremely useful for the python docs and I planned to use it in my <a href="http://pictures.natalian.org/2004/jul/kodak/18">picture gallery</a> software instead of putting all this nonsense forward and back links everywhere inline. I wish <a href="http://creativecommons.org/">Creative commons</a> used it instead of stupid annoying hyperlink to a button gif thing. It should be a link rel=&#8220;copyright&#8221; <span class="caps">IMHO</span>.</p>
+
+<p>I decide to risk my sanity and search around in Bugzilla for some clues. <a href="http://texturizer.net/firefox/bugs.html">Firefox guide for reporting bugs suggests you check each component!</a> How insane.</p>
+
+<p>I see it is somehow related to frames. /me has shivers run up his spine.</p>
+
+<p>There are some <a href="http://www.hixie.ch/tests/evil/mixed/link2.html">evil tests</a> for it&#8230;</p>
+
+<p>It might be called the <a href="http://bugzilla.mozilla.org/show_bug.cgi?id=135619">Page bar&#8230;</a></p>
+
+<p><a href="http://bugzilla.mozilla.org/buglist.cgi?bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED&amp;field0-0-0=product&amp;type0-0-0=substring&amp;value0-0-0=site&amp;field0-0-1=component&amp;type0-0-1=substring&amp;value0-0-1=site&amp;field0-0-2=short_desc&amp;type0-0-2=substring&amp;value0-0-2=site&amp;field0-0-3=status_whiteboard&amp;type0-0-3=substring&amp;value0-0-3=site&amp;field1-0-0=product&amp;type1-0-0=substring&amp;value1-0-0=navigation&amp;field1-0-1=component&amp;type1-0-1=substring&amp;value1-0-1=navigation&amp;field1-0-2=short_desc&amp;type1-0-2=substring&amp;value1-0-2=navigation&amp;field1-0-3=status_whiteboard&amp;type1-0-3=substring&amp;value1-0-3=navigation&amp;field2-0-0=product&amp;type2-0-0=substring&amp;value2-0-0=bar&amp;field2-0-1=component&amp;type2-0-1=substring&amp;value2-0-1=bar&amp;field2-0-2=short_desc&amp;type2-0-2=substring&amp;value2-0-2=bar&amp;field2-0-3=status_whiteboard&amp;type2-0-3=substring&amp;value2-0-3=bar">Argghh! Nothing here makes sense!</a></p>
+
+<p><a href="http://www.xiven.com/">Xiven</a> tells me it&#8217;s bloat on <span class="caps">IRC</span> and hence it&#8217;s not in Firefox, and it&#8217;s now an <a href="http://texturizer.net/firefox/extensions/">extension,</a> Super.</p>
+
+<p><a href="http://update.mozilla.org/extensions/?application=firefox"><span class="caps">WTF</span> are you site navigation bar??</a><br />
+<span class="caps">ARGH</span>!!! <span class="caps">WHY</span> <span class="caps">CAN</span>&#8216;T I <span class="caps">SEARCH</span>? I don&#8217;t browse damn you.</p>
+
+<p>Hell with this. I am going back to Mozilla. Firefox focus problem in Ion were <a href="http://marc.theaimsgroup.com/?l=ion&amp;m=108992346302060&amp;w=2">driving me nuts.</a><br />
+And there is a blinking cursor when I&#8217;m scrolling that annoys me. It certainly isn&#8217;t smooth. And it annoys me how it loses focus when I am viewing the source&#8230; Damn my debian desktop is going down the pan&#8230;</p>

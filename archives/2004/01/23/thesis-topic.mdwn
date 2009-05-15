@@ -1,0 +1,19 @@
+[[!meta title="Thesis topic" ]]
+[[!meta date="2004-01-26 19:52:54" ]]
+<p>I am pretty sure I am going to write my MSc thesis on how W3C technologies fit in with mobile (phone) devices. Mobile <span class="caps">WWW</span> Accessibility is the working title.</p>
+
+<p>I have tried to focus <em>accessibility</em> down to the mobile field, but I am not sure if it&#8217;s focused down enough as there is a lot of issues I imagine I will not have time to address.</p>
+
+<p>As usual, emperical research(quantitive data) with this topic and web related topics is going to be difficult, if not impossible. Therefore the final paper will probably look like a review paper, which has been hard for me to accept.</p>
+
+<p>I imagine the crux of my thesis will be weighing up how the User Interface will work. Evaluating key technologies like style sheets, Xforms. Comparing them to <span class="caps">UIML</span> and other similar technologies. ...I am trying to make sense of it all really.  According to a little book titled <strong>How to write Scientific and Technical Papers</strong>, guideline seven for choosing a research problem is:</p>
+
+<blockquote>
+The problem should usually test some significant proposition about which there is difference in opinion, or one that has secured acceptance upon logically insufficent grounds.
+</blockquote>
+
+<p>The difference in my mind is how W3C seems to now just promote device independance via <span class="caps">XHTML</span> and <span class="caps">CSS</span>, but not address the problem like say <span class="caps">UIML</span> tries to.  There is this task based design of mobiles vs x based design of commonly found desktop webpages&#8230;</p>
+
+<strong>Can you replace medium, with presentation device ? What are the consequences ?</strong>
+
+<p>This whole web thing in case you have not heard, is big. Companies want to shift their legacy systems to the Web service platform. For most people, the Web is the Internet. And then we have these mobile devices, which Nokia are selling 6 a second of. (Should try confirm this statistic) Building a bridge between these two is well, important.</p>

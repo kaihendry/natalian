@@ -1,0 +1,21 @@
+[[!meta title="On Subversion" ]]
+[[!meta date="2004-04-11 19:50:14" ]]
+<p>At last my <a href="http://svn.natalian.org/">viewable online repositry is working.</a></p>
+
+<a href="http://mailman.lyra.org/pipermail/viewcvs/2004q1/002469.html">This bug was bugging for all of this year so far.</a>
+
+<p>It was not until I tried WebSVN and <a href="http://websvn.tigris.org/servlets/ReadMsg?list=dev&amp;msgNo=139">through their helpful mailing list</a> (Thanks Lübbe!) I discovered it was an ugly permission problem. I recorded the <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.073.htp">solution in my tips and tricks section.</a></p>
+
+<p>ViewCVS seems to do a better job of handling all the revisions. So I am using it instead of WebSVN.</p>
+
+<p>Permission problems really suck. I have been using a <span class="caps">UNIX</span> type environment for quite so time, and this caught me. It&#8217;s amazing to think how much time and energy has been wasted with permissions problems. Especially the sort where you have re-login back in again.</p>
+
+<p>Argh!</p>
+
+<p>I think a lot of the blame lies in the application. For example Subversion was asking me to recover the repo everytime it (svnserve or something) stumbled on a log with incorrect permissions. It really should have been able to produce a useful error message to indicate a permissions related problem.</p>
+
+<p>After all this pain, I still recommend using Subversion over <span class="caps">CVS</span> for source control.</p>
+
+<p>I am using Subversion for maintaining a distributed backup of my home directory with a <a href="http://svn.natalian.org/projects/svn/">few simple scripts</a> timed to run updates via a cron job on the 3 or so machines I regularly use.</p>
+
+<p>I maintain another &#8220;private&#8221; repositry for storing things like personal texed letters, private addresses and passwords that you won&#8217;t have access to. :)</p>

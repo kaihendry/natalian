@@ -1,0 +1,17 @@
+[[!meta title="Accesskey" ]]
+[[!meta date="2004-07-23 15:07:17" ]]
+<a href="http://natalian.org/archives/2004/06/22/ua-font/">Continuing my series of user agent b0rk ups</a>, let me address the accesskey attribute of the famous anchor element.
+
+<a href="http://www.w3.org/TR/xhtml-modularization/abstract_modules.html#s_hypertextmodule">Accesskey allows you to bind a character</a> to a keyboard shortcut. Cool huh? <a href="http://diveintoaccessibility.org/day_15_defining_keyboard_shortcuts.html">Now I can make my site all accessible!</a>
+
+<p>So lets try the letter <strong>F</strong>.</p>
+
+<p>Oops. It doesn&#8217;t work. Alt+F brings pops up Mozilla&#8217;s File menu here.</p>
+
+<p>Hilariously in mobiles with <a href="http://www.wapforum.org/tech/documents/WAP-239-WCSS-20011026-a.pdf"><span class="caps">WCSS</span></a> you can bind keys of the mobile like the <strong>Mail access key</strong> or the <strong>Volume Control key</strong> or the <strong>Calendar key</strong>. In fact any key (device dependent of course). You don&#8217;t even need the <span class="caps">ALT</span> prefix and you would be assured your web page will override whatever key it was bound to.</p>
+
+<p>So you&#8217;re on a web page with all the keys bound to the same page. Where are you going to go?!</p>
+
+<p>It&#8217;s like <em>take the battery out to fix the problem</em> mentality here. :)</p>
+
+<p>Your user agent, yes your browser should be clever enough to assign you shortcuts which are useful for your browsing needs. Web authors shouldn&#8217;t.</p>

@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="222.106.128.34"
+ date="2006-04-02 22:41:30"
+ content="""
+<p>Damn Emacs users ! ;)</p>
+
+<p><span class="caps">CTRL</span>+C/X/V are paradigms that Windows users know and they are pretty much the defacto standard.</p>
+
+<p>When I try copy text from a link in firefox, Firefox seems to think that I want to <strong>drag</strong> the link.</p>
+
+<p>Gnome use <span class="caps">SHIFT</span>+CTRL+V and <span class="caps">KDE</span> Shift+Insert. Oh dear!</p>
+
+<p>Seo: Don&#8217;t forget to go into Insert mode or the clipboard can drive vim to just about anything whilst pasting&#8230; ;)</p>
+"""]]

@@ -1,0 +1,17 @@
+[[!meta title="Mobile business ideas" ]]
+[[!meta date="2007-07-02 14:35:18" ]]
+<a href="http://www.flickr.com/photos/hendry/620690128/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1345/620690128_c76710f4a1_m.jpg" width="180" height="240" alt="Opera Mini 4 Beta" /></a>
+
+<p>In the spirit of <a href="http://openbusiness.cc/">open business</a>, I&#8217;ll entertain you with a couple of business ideas I&#8217;ve had of late.</p>
+
+<ul>
+<li>Mister Tea &#8211; a tea stall/shop that makes English tea properly. I had to visit <a href="http://natalian.org/archives/2007/05/09/east-london-wifi/">cafes around East London</a> for Internet to find the way most places serve English tea is deplorable. First they think you&#8217;re an idiot for ordering tea (instead of a trendy cappuccino), then they charge you 1.50GBP for some hot water and give you a choice from some stupid stale organic tea bag collection of brands you&#8217;ve never heard of. I am looking to setup &#8220;Mister Tea&#8221; from a tea stall around Liverpool Street Station with perhaps a <a href="http://en.wikipedia.org/wiki/Samovar">Vicrtorian Tea Urn</a> if I can find one.</li>
+</ul>
+
+<ul>
+<li>On site Bicycle repair &#8211; for those that have had to repair a bicycle tire puncture, you&#8217;ll know that it is not easy! I propose a business that acts like the AA or <span class="caps">RAC</span> for cyclists around a populated area like East London. I think female cyclists would especially enjoy this service. I should just advertise this service with my mobile number in some magazine and see how it goes.</li>
+</ul>
+
+<ul>
+<li>The &#8216;Mobile Web&#8217; NoAds output and leveraging voice input &#8211; Since the <a href="http://www.torgo.com/blog/2007/06/the-iphone-my-take.html">iPhone will hopefully concrete the Web platform on mobiles</a>, I was thinking of a suitable Web application without an (annoying) ad supported revenue model. Some sort of syndicate where one pays 5GBP a month for a set of managed Web applications that accomplish important use cases very well on mobile UAs. Another angle to this is tying this into voice calls. For example, the customer wants to change the weather widget to Paris and get another calendar feed into his schedule widget. Ring customer services and they&#8217;ll sort out the customer&#8217;s configuration, so the customer does not have to input any text on his/her mobile device.</li>
+</ul>

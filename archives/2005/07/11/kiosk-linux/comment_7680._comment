@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Joose"
+ subject="128.214.191.196"
+ date="2005-07-11 17:16:10"
+ content="""
+<p>Unfortunally <span class="caps">LDAP</span> is the only way to do a nice distributed authentication framework. Like I use <span class="caps">LDAP</span> for authentication and then I have <span class="caps">PAM</span> set up to authenticate from that <span class="caps">LDAP</span>-server.</p>
+
+<p>Basicly, it&#8217;s not authentication issue, it&#8217;s more mozilla&#8217;s &#8220;not yet there&#8221; feature that it can&#8217;t load (or can it?) profiles from somewhere else. Would <span class="caps">NFS</span> or similar work?</p>
+
+<p>- Joose</p>
+"""]]

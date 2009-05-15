@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Andres Salomon"
+ subject="66.150.84.1"
+ date="2005-08-20 02:52:18"
+ content="""
+<p>I&#8217;ll keep some wordpress sarge backports online:</p>
+
+<p>deb <a href="http://people.debian.org/~dilinger/backports/wordpress">http://people.debian.org/~dilinger/backports/wordpress</a> ./</p>
+"""]]

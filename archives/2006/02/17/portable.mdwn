@@ -1,0 +1,19 @@
+[[!meta title="Portable" ]]
+[[!meta date="2009-04-28 22:46:16" ]]
+<a href="http://www.flickr.com/photos/hendry/99532284/" title="Photo Sharing"><img src="http://static.flickr.com/25/99532284_3778d31a40_m.jpg" width="240" height="159" alt="Trees near the beach" /></a>
+
+<p>I exclaimed &#8220;Holy Crap&#8221; when I saw the news that <a href="http://exploding-planet.com/weblog/2006/02/15/Opera_for_Nintendo_DS">Opera has been ported to the Nintendo DS</a> platform.</p>
+
+<p>As a proud Nintendo owner, that&#8217;s interesting news. Though how many open Wifi access points are there? Very very <strong>few</strong>. I have super fast Internet at home and work, so where would I use it? On the train? Has anyone known Wifi to work on a train?</p>
+
+<p>Be cool if they also announced something like <a href="http://ds.advancedmn.com/article.php?artid=3341">Vodafone&#8217;s mobile connect</a> so that it would work on trains too. Btw what technology does that expensive Vodafone thing use? <span class="caps">CDMA</span>? What-what?</p>
+
+<p>There was also an <a href="http://ds.advancedmn.com/article.php?artid=3341">announcement of a TV tuner add on</a> for the DS. That made me laugh, as there has been quite a <a href="http://www.russellbeattie.com/notebook/1008754.html">bit about people watching TV from mobiles.</a> This won&#8217;t be the clip-on-demand service of 3G, but it will be a &#8220;damn sight&#8221; cheaper! Anyway, <strong>I hate TV</strong> besides.</p>
+
+<p><strong>Back to Opera.</strong> This is a major sales/marketing coup for them. I am actually surprised Nintendo did this, considering the Japanese player <a href="http://www.access.co.jp/english/">Access and their NetFront browser.</a> I haven&#8217;t played with NetFront&#8217;s browser, so I can&#8217;t compare it with Opera&#8217;s. Though I am sure Opera&#8217;s is probably better. ;)</p>
+
+<a href="http://www.flickr.com/photos/hendry/99532267/" title="Photo Sharing"><img src="http://static.flickr.com/43/99532267_980f2a77c4_m.jpg" width="240" height="159" alt="Dinner" /></a>
+
+<p>I imagine Opera is absolutely ripe for being bought up now. Access is about 100 times the size of Opera.</p>
+
+<p>Onto Free software. I wonder why <a href="http://www.mozilla.org/projects/minimo/">minimo</a> hasn&#8217;t been doing well. Well, maybe it&#8217;s my imagination but firefox feels quite heavy to me lately. So shrinking that product would be hell. The mobile market is blowing up and I really don&#8217;t think they are into Free software besides, sadly.</p>

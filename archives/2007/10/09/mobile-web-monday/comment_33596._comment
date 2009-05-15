@@ -1,0 +1,37 @@
+
+[[!_comment format=mdwn
+ username="Jo Rabin"
+ subject="86.141.226.90"
+ date="2007-10-15 08:43:43"
+ content="""
+<p>As the chair/MC for the evening, I can only agree that the discussion was too short, <br />
+unfortunately. If there was sufficient support I&#8217;d be happy to consider an event <br />
+that featured mainly panel debate.</p>
+
+<p>Fwiw, afaik the debate is not about whether modern phones have modern capable browsers.<br />
+It&#8217;s about there being a lot of devices that are technically not up to snuff, and it<br />
+is also about the small screen size and lack of pointing device and the user interests<br />
+typically but not always being different to when a desktop site is accessed.</p>
+
+<p>Your point seems to be that content authors should ignore the contextual challenges of <br />
+mobile and create desktop centric sites willy-nilly. I don&#8217;t agree with that.</p>
+
+<p>Transcoding doesn&#8217;t address the contextual challenges of mobile &#8211; i.e. that users<br />
+may be interested in different things while mobile. It may address some of the issues<br />
+about broken markup causing misoperation of devices and of the raw Web experience<br />
+being off-putting to mobile users who haven&#8217;t got &#8220;advanced&#8221; devices yet.</p>
+
+<p>I would like to make adaptation &#8220;safe&#8221; &#8211; in that it doesn&#8217;t screw up carefully prepared <br />
+representations, I&#8217;d like users to have the choice of viewing the desktop presentation<br />
+if they feel their browser is capable of working properly for them. I would like content <br />
+providers to be able to understand what it is doing &#8211; which requires documentation from <br />
+those who deploy it as to a) when it is going to be inserted and b) what it is going to <br />
+do. Above all I&#8217;d like the user to have a choice and for them to receive a usable<br />
+service.</p>
+
+<p>As I say I&#8217;d be more than happy to organise a follow up session if there was support <br />
+and if it stood a chance of being a &#8220;reasoned exchange of views&#8221; that takes the discussion<br />
+forward.</p>
+
+<p>Jo</p>
+"""]]

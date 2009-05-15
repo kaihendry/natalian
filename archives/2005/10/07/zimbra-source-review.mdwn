@@ -1,0 +1,19 @@
+[[!meta title="Zimbra source review" ]]
+[[!meta date="2005-10-07 11:44:50" ]]
+<p><strong>Quick</strong> impressions on the 150 meg gzipped tarball of <a href="http://downloads.zimbra.com/3.0_M1/zcs-3.0.M1_21-src.tgz">Zimbra&#8217;s source</a> (Warning: I&#8217;m biased against <a href="http://natalian.org/archives/category/java/"><span class="caps">JAVA</span></a> !):</p>
+
+<ul>
+<li>FS, more stupid &#8220;Open source licenses&#8221; from <a href="http://www.zimbra.com/license/">Zimbra.</a> I can&#8217;t be bothered to figure out what&#8217;s different from the <span class="caps">GPL</span>&#8230; :/</li>
+<li>Uses proprietary Java with Tomcat. Whoa. I&#8217;m surprised. I thought this is &#8220;Web 2.0&#8221; with <a href="http://en.wikipedia.org/wiki/REST"><span class="caps">REST</span></a> and well&#8230; no ugly <span class="caps">JAVA</span></li>
+<li>How does a project keep track of all those .JARs? And keep them updated. </li>
+<li>Build is nice and clean (less than a minute to compile the ZimbraServer&#8217;s 617 source files). Although reading an Ant build.xml is a nightmare.</li>
+<li>In the ZimbraServer/src directory there is Perl and a tiny bit of <span class="caps">PHP</span>. I&#8217;ve never seen that before. I&#8217;m very interested in migrating some functionality from a product at work to something like <span class="caps">PHP</span>. I even see C source code: ./ZimbraNative/src/native/IO.c</li>
+<li>find ./Ajax/WebRoot/js/ -name <strong>.js | xargs cat | wc -l is errr *28146</strong> ! Subtract about 2500 lines of the license header blah&#8230;</li>
+<li>Javascript scares me.</li>
+<li>Quite a bit of Thirdparty stuff in the release: amavisd,  clamav,  cyrus-sasl,  jakarta-tomcat,  java,  mrtg,  mysql,  openldap,  Perl,  PostFix,  rrdtool,  sleepycat,  snmp. That makes 132M of the 150M package! Should depend on packages, Debian style. Oh well, the IT has a lot to learn still about software package administration.</li>
+<li>Developed in Eclipse, judging by the unwieldy .classpath files</li>
+<li><strong>MailFiltering.doc</strong> ?? Urgh! No Word thanks. *.txt is nice though. Keep that up.</li>
+<li>Nice to see some <strong>Unit testing</strong> in ZimbraServer/src/java/com/zimbra/qa/unittest Though one has to wonder how they test all that Ajax javascript code.</li>
+<li>They&#8217;re using <span class="caps">SOAP</span>. Sigh.</li>
+<li>Anyway for a Java project the code looks <strong>very</strong> good. I&#8217;m learning from this.</li>
+</ul>

@@ -1,0 +1,3 @@
+[[!meta title="Patent Matrix" ]]
+[[!meta date="2005-06-03 14:47:48" ]]
+<p><a href="http://www.sun.com/legal/patents/">Sun&#8217;s patents.</a></p>

@@ -1,0 +1,24 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="90.152.10.135"
+ date="2008-09-18 10:21:06"
+ content="""
+<p>Yes the issue is complicated, though I wanted an idiotic &#8220;tech crunch&#8221; style post to get the idea across. Of course the <b>Web is fragmented</b>, though it&#8217;s far from unusable and it has a healthy upgrade path with HTML5.</p>
+
+<p>Sorry, I wish your post was shorter and easier to reply to. Addressing your main points:</p>
+
+<p>1) Device APIs for <a href="http://code.google.com/p/gears/wiki/CameraAPI" rel="nofollow">cameras</a> are coming to the Web. The approach at <a href="http://wiki.webvm.net/" rel="nofollow">work with WebVM</a> is to expose the <a href="http://jcp.org/en/jsr/detail?id=135" rel="nofollow">standards defined by the Java community process</a>.</p>
+
+<p>2) True, though they shouldn&#8217;t make Web applications unusable as I tried to point out. Hopefully as you mention, firmware <strong>upgrades</strong> will come to mobiles (as they do with Desktop and consoles nowadays). Android I&#8217;m told gets this right. Nokia seems like are <a href="http://europe.nokia.com/softwareupdate" rel="nofollow">slowly moving in the right direction too</a>.</p>
+
+<p>3) Android will ship Gears. Our customers will ship WebVM (like they we do with <a href="http://www.aplixcorp.com/en/products/jb_series/jblend.html#3" rel="nofollow">JBlend</a>). Apple/Webkit is already implementing some of the technology <em>proven</em> by Gears like Web workers.</p>
+
+<p>I don&#8217;t like <span class="caps">WURFL</span> and work arounds. Just write a simple Web application. Google.com probably works on any Web browser on any mobile device without fragmented &#8220;device dependent&#8221; engineering.</p>
+
+<p>Yes, Javascript is broken on a <strong>lot</strong> of mobiles and I&#8217;m <a href="http://lists.w3.org/Archives/Public/public-mwts/2008Sep/0003.html" rel="nofollow">working to improve the situation for the <strong>future</strong></a>.</p>
+
+<p>I know many like you who are frustrated and have to deal with stark realities of today. I&#8217;m working on developing device APIs and improving the Web on mobiles for the future. A future where basically you can not only view the &#8220;Desktop Web&#8221; with ease from a mobile (like the Iphone can currently), though also get the benefits of exciting new possibilities with device APIs like <a href="http://dev.w3.org/geo/api/spec-source.html" rel="nofollow">Geolocation</a>.</p>
+
+<p>Catch me sometime at MoMo and I&#8217;ll be happy to talk further. Now, back to work&#8230;</p>
+"""]]

@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-10-24 12:21:39"
+ content="""
+<p>Interesting : <a href="http://bugs.php.net/bug.php?id=31084">http://bugs.php.net/bug.php?id=31084</a></p>
+
+<p>Though this diff is not to be found in Sarge&#8217;s 4:4.3.10&#8211;15.</p>
+"""]]

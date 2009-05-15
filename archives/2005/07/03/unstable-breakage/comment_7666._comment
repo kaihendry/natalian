@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Wouter Verhelst"
+ subject="130.233.5.250"
+ date="2005-07-04 00:17:39"
+ content="""
+<p>You can override the used frontend on a per-run basis, like so:</p>
+
+<p>dpkg-reconfigure&#8212;frontend=readline debconf</p>
+"""]]

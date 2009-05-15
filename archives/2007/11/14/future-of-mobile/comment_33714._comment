@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="91.84.62.62"
+ date="2007-11-18 00:05:40"
+ content="""
+<p>I have not made a mobile specific site for a paying customer.</p>
+
+<p>Unless you consider my <a href="http://hendry.iki.fi/msc.pdf" rel="nofollow">research work</a> a paying customer. ;)</p>
+
+<p>I can understand how device dependent engineering has been the only choice.</p>
+
+<p>I am looking to a better future. A future where developers can easily address presentation requirements of a mobile with <span class="caps">CSS</span>, not many several different fragmented bits of <span class="caps">HTML</span>.</p>
+"""]]

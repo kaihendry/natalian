@@ -1,0 +1,38 @@
+[[!meta title="Fixing trac vandalism" ]]
+[[!meta date="2006-04-18 16:08:33" ]]
+<a href="http://www.flickr.com/photos/hendry/128854214/" title="Photo Sharing"><img src="http://static.flickr.com/51/128854214_0cda098731_m.jpg" width="240" height="180" alt="IMG_4151.JPG" /></a>
+
+<p><a href="http://www.edgewall.com/trac/">Trac</a> is especially prone to wiki vandalism. Worse thing, it is isn&#8217;t obvious how to fix the problem.</p>
+
+<p>Attacks are often embedded in hidden html:</p>
+
+<pre>
+	1 	 {{{   
+  	2 	  #!html  
+  	3 	  
+  	4 	 <div id="searchable"> <div id="googlya" style="overflow: auto; height: 3px;"> 
+</pre>
+
+<p>You need to have access to the <strong>trac-admin</strong> <span class="caps">CLI</span>.</p>
+
+<pre>
+trac-admin /home/hendry/trac permission list                                                                     
+trac-admin /home/hendry/trac permission remove anonymous  WIKI_CREATE                                            
+trac-admin /home/hendry/trac permission remove anonymous  WIKI_MODIFY                                            
+trac-admin /home/hendry/trac permission remove anonymous  WIKI_VIEW                                              
+trac-admin /home/hendry/trac permission remove anonymous  TICKET_CREATE                                          
+trac-admin /home/hendry/trac permission remove anonymous  TICKET_MODIFY                                          
+trac-admin /home/hendry/trac permission help                                                                     
+trac-admin /home/hendry/trac permission add anonymous  WIKI_VIEW                                                 
+trac-admin /home/hendry/trac permission list                                                                     
+trac-admin /home/hendry/trac permission add hendry WIKI_ADMIN
+</pre>
+
+<p>Trac defaults of WIKI_CREATE and WIKI_MODIFY for anonymous is just ripe for abuse. Notice the user <strong>hendry</strong> has to be created with <strong>htpasswd</strong>. That&#8217;s how users are managed with trac. Seems like a good idea at first, but it seems all too often a point of confusion. See my <a href="http://static.natalian.org/2006-04-16/trac">/etc/apache2/sites-enabled/001-trac</a> for more clues.</p>
+
+<p>Once I set myself up as WIKI_ADMIN I could only then &#8220;Delete this version&#8221; of the vandalised pages and roll/revert the page back to the original. This is a very frustrating procedure if the site has been vandalised numerous times! Use the timeline to delete each revision containing spam.</p>
+
+<p>Use <span class="caps">RSS</span> to track attacks. Here is an example of a feed <span class="caps">URL</span>:<br />
+<pre><br />
+<a href="http://webpy.org/track/timeline?daysback=90&amp;max=50&amp;wiki=on&amp;ticket=on&amp;changeset=on&amp;milestone=on&amp;format=rss">http://webpy.org/track/timeline?daysback=90&amp;max=50&amp;wiki=on&amp;ticket=on&amp;changeset=on&amp;milestone=on&amp;format=rss</a><br />
+</pre></p>

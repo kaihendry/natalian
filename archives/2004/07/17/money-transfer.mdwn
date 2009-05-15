@@ -1,0 +1,87 @@
+[[!meta title="International Money Transfer" ]]
+[[!meta date="2007-10-18 19:28:25" ]]
+<p>Visa:</p>
+
+<ol>
+<li>Hidden <span class="caps">ATM</span> charges</li>
+<li>No telling what exchange rate will be applied with international transfers</li>
+<li>Piss poor security</li>
+<li>Very high availability</li>
+<li>Fragile plastic cards</li>
+<li>The &#8220;credit&#8221; bit</li>
+<li>Cryptic bills</li>
+<li>Fast</li>
+</ol>
+
+<p>I have two visa cards. One Visa Credit card (although there is no indication), one Visa electron and they both scare the shit out of me.</p>
+
+<p>Both cards have a 3500EUR limit. Haha great. That could bankrupt me several times over in criminal hands ! ;)</p>
+
+<p>Security? Laughable. Signature? Pitifully insecure.</p>
+
+<p>Until I report them stolen, the money lost is the price I have to pay.  Reporting them lost or stolen is fucking difficult. It took me an hour visit to the bank here in Finland to figure out the procedure. It will be extremely difficult calling Finland if I am travelling about in Mongolia.</p>
+
+<p>It seems to be me they are trying to find the cure, rather than preventing this madness. Having a <span class="caps">PIN</span> number to confirm a transaction would at least be mildly sensible.</p>
+
+<p>Right now it takes someone less than a minute to copy both my cards.</p>
+
+<p>Credit cards are like carrying around your account number. Except once anyone has your account number they have access to your cash. Then it is race against time to report them stolen and then you have no access to your own money until they are replaced. Super.</p>
+
+<p>From what I have heard they employ excellent transaction analysis to tell to spot purchases say in South America when I am actually in Finland say. How clever&#8230;</p>
+
+<p>Then you are told to look carefully at your transactions. The transactions items are cryptic.  For example there was one labelled simply <span class="caps">DUBLIN</span> in my recent visa bill. <span class="caps">WTF</span>. <strong><span class="caps">DUBLIN</span>?!</strong> I have not visited Ireland yet! Why the hell have I been charged more than a 100EUROs? It took me a couple of minutes to realise I bought plane tickets with <a href="http://www.ryanair.co.uk/">Ryanair</a> weeks ago.</p>
+
+<p>When you ever notice a dodgy transaction, it will probably be too late.  For example I bought a computer from Scan (aka <span class="caps">SCAM</span>) computers. The delivery was late late late. I had to leave England back to Finland and at the last minute the delivery came. I refused it. Did you ever think I get money back? No siree.  I did not get the money back and they re-delivered over and over again, and finally my parents just gave in and accepted it, especially since Scan were not going to refund the money or Visa was going to step in.  What consumer protection?</p>
+
+<p>And to think of the millions in debt who pay for such a service&#8230;</p>
+
+<p>Banker&#8217;s draft (SWIFT):</p>
+
+<ol>
+<li><span class="caps">SLOW</span></li>
+<li>High security</li>
+<li>You need an account at the bank typically</li>
+<li>Subject to mysterious exchange rates</li>
+</ol>
+
+<p>What are the alternatives? I have never been fond of credit cards and when I moved to Finland I expected to open a bank account and transfer some money over from England. As you can&#8217;t open a bank account very easily without a social security number in Finland etc. etc., in took much more than a week to get my account number. Then it took more than a week for a bankers draft cheque transfer from England to my new account. I was absolutely penniless for more than a week. I had to borrow from my neighbours in a big way&#8230; :/</p>
+
+<p>In several cases I had to result to using my English Visa card to transfer money to my Finnish account because it happened almost immediately.</p>
+
+<p>Western Union:</p>
+
+<ol>
+<li>up to 10% charge</li>
+<li>You need to find a branch</li>
+<li>Slower than <span class="caps">VISA</span></li>
+<li>High security</li>
+<li>Probably need ID</li>
+</ol>
+
+<p>Remember that Urban myth? If you really want to make money you would just syphon off a rounding error from each transaction.  Well what <a href="http://www.westernunion.com/index_consumer.asp?country=US">Western Union?</a> They charge around 10% for a money transfer !</p>
+
+<p>Traveller&#8217;s Cheques:</p>
+
+<ol>
+<li>You need to find an open bank that accepts or replaces them</li>
+<li>Charges</li>
+<li>High security</li>
+<li>Probably need ID</li>
+</ol>
+
+<p>Next is traveller&#8217;s cheques by American Express. This seems to be the most secure, as they seem to do the most cheques at a bank. Providing you can get to a bank in opening times. And providing you can prove your identity and supply all the codes of your cheques. The charges are less, but are significant all the same.</p>
+
+<p>Cash:</p>
+
+<ol>
+<li>Subject to exchange rates and hawks</li>
+<li>Low security</li>
+<li>Convenient</li>
+<li>Hot</li>
+</ol>
+
+<p>Cash is subject to exchange fees and its neat little feature of being pretty much untraceable and therefore unrecoverable. Sigh&#8230;</p>
+
+<p>Damn this is getting too long off the top of my cold infected head. Well I hope I have at least kicked up some dust. There seems to an awful trade off between convenience and security.</p>
+
+<p>I think the current situation is OK if you are rich and you could afford to lose some money. You probably also enjoy how people paid you outright with credit. And if you&#8217;re Mastercard, Visa or Diner&#8217;s Club you must be really laughing.</p>

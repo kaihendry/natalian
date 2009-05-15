@@ -1,0 +1,20 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-10-24 15:52:05"
+ content="""
+<p>You need the <span class="caps">SDK</span>.</p>
+
+<p><a href="http://download.oracle.com/otn/linux/instantclient/instantclient-sdk-linux32&#8211;10.2.0.1&#8211;20050713.zip">http://download.oracle.com/otn/linux/instantclient/instantclient-sdk-linux32&#8211;10.2.0.1&#8211;20050713.zip</a></p>
+
+<p>You need php4_4.4.0&#8211;4 from unstable and build it on sarge (backport).</p>
+
+<p>You need a line like :</p>
+
+<p>&#8212;with-oci8-instant-client=/home/hendry/oracle/instantclient_10_2 \</p>
+
+<p>And if you&#8217;re really lucky. You&#8217;ll eventually see:</p>
+
+<p><a href="http://www.flickr.com/photos/hendry/55483761/">http://www.flickr.com/photos/hendry/55483761/</a></p>
+"""]]

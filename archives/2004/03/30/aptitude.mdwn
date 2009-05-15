@@ -1,0 +1,10 @@
+[[!meta title="Aptitude" ]]
+[[!meta date="2004-03-30 12:11:51" ]]
+<p>Aptitude in unstable used to work for me. Now I seem to have to press shift+u for it to start upgrading packages. Anyway, I am back to:<br />
+<pre><br />
+hendry@bilbo:~$ sudo apt-get update &amp;&amp; sudo apt-get -u dist-upgrade<br />
+</pre></p>
+
+<p><span class="caps">UPDATE</span>: You need to goto into the menu, Options->Misc and select &#8220;Automatically upgrade installed packages&#8221;.</p>
+
+<p>I don&#8217;t understand why that option changed, and it&#8217;s bad kudos all the same on such a fine tool :/</p>

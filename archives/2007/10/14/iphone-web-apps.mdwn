@@ -1,0 +1,20 @@
+[[!meta title="iPhone Web apps" ]]
+[[!meta date="2008-04-08 12:43:08" ]]
+<a href="http://www.flickr.com/photos/hendry/1578840387/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2061/1578840387_cd028306b5_o.png" width="320" height="480" alt="Letter.dabase.com" /></a>
+
+<p>I&#8217;ve noticed that <a href="http://www.apple.com/webapps/">Apple itself seems to be promoting Web applications</a> with a little directory.</p>
+
+<p>I&#8217;ve mentioned <a href="http://natalian.org/archives/2007/10/03/fowa/">before</a>, that I think Apple &#8220;locking&#8221; users into a decent open Web application platform is quite good.</p>
+
+<p>After all the version (<a href="http://wiki.webvm.net/webkit/">Webkit UA string collection</a>) of Safari on my <a href="http://natalian.org/archives/2007/10/07/ipod-touch/">ipod touch</a> is the <strong>same</strong> as the one on my Macbook Pro. So the myth that the &#8216;mobile browser will always be years behind the desktop&#8217; has exploded.</p>
+
+<p>However I have concerns:<br />
+* &#8220;Ipod touch&#8221; is not an iPhone. So the &#8216;iphone.&#8217; prefix to sites strikes me as a bit silly for my &#8216;iPod touch&#8217;<br />
+* I want to see instead examples of sites that work well in iPhone without &#8220;templating&#8221;. They do <a href="http://letterly.com/">exist</a>!<br />
+* At least iPhone Web developers don&#8217;t seem to UA/browser sniff, <a href="http://natalian.org/archives/2007/10/09/mobile-web-monday/">mobile Web</a>/<a href="http://en.wikipedia.org/wiki/Wurfl"><span class="caps">WURFL</span></a> style. So desktop users can now view these &#8220;mobile&#8221; Web apps, without some braindead <span class="caps">XHTML</span> format error.</p>
+
+<p>Sidenote: Do <strong>not</strong> use <a href="http://www.hixie.ch/advocacy/xhtml"><span class="caps">XHTML</span></a></p>
+
+<p>Update: I submitted my <a href="https://adcweb.apple.com/iphone/index.php">Web application to Apple</a>. However Apple wanted a screenshot of the Web application, running on an iPhone. Er&#8230; how the hell do you that? <a href="http://groups.google.com/group/iphonewebdev/browse_thread/thread/053b242d7b0f44c9/#">I started a thread on the iphone dev list</a> and a Jake got back to me (with the screenshot): &#8220;I use snap, part of Erica&#8217;s utilities on my jailbreaked iPhone.&#8221;</p>
+
+<p>So we had to crack the Apple device, to submit the application to Apple. Hmmm !</p>

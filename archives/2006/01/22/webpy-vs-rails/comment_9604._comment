@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="rick"
+ subject="67.11.173.82"
+ date="2006-01-23 02:01:40"
+ content="""
+<p>Take a look at Camping.  It&#8217;s a microframework in Ruby, written sort of as a &#8220;Rails-lite&#8221;</p>
+
+<p><a href="http://code.whytheluckystiff.net/camping/">http://code.whytheluckystiff.net/camping/</a></p>
+
+<p>Check out the Ruby breakpoint library for debugging in Ruby/Rails apps: <a href="http://wiki.rubyonrails.com/rails/pages/HowtoDebugWithBreakpoint">http://wiki.rubyonrails.com/rails/pages/HowtoDebugWithBreakpoint</a></p>
+"""]]

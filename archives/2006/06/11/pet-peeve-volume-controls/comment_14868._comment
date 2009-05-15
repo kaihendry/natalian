@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="125.131.161.40"
+ date="2006-06-12 10:47:05"
+ content="""
+<p>Ok, to put this in layman&#8217;s terms: If my master volume control is up and on, I expect sound playback on an application.</p>
+
+<p>Its not so much applications change the master volume. It&#8217;s the way each individual volume control on an application undermines the master volume control.</p>
+
+<p>I know what next you&#8217;re going to say, but then you can&#8217;t mix two audio streams or something. I don&#8217;t care about mixing at this point.</p>
+
+<p>Also a better implementation of the master volume control applet should be able to control each individual application&#8217;s sound. And perhaps indicate indicate if a particular program&#8217;s volume is muted from the centralised &#8220;master volume&#8221; control panel.</p>
+
+<p>Not even Windows gets this right.</p>
+"""]]

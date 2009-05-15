@@ -1,0 +1,27 @@
+[[!meta title="Public availability status" ]]
+[[!meta date="2006-10-09 21:37:21" ]]
+<a href="http://www.flickr.com/photos/hendry/261074980/" title="Photo Sharing"><img src="http://static.flickr.com/100/261074980_63215e8c50_m.jpg" width="240" height="160" alt="Squash" /></a>
+
+<p>No one is perfect.</p>
+
+<p>Web services go down or go awry. Though what I really loathe is when administrators don&#8217;t share that information. Two services I use often are on that shitlist. Flickr and Google. Let me share my experience with Google:</p>
+
+<ol>
+<li>I notice <a href="http://natalian.org/archives/2006/09/27/gmail-spam-filter/">something does not work like it was before</a></li>
+<li>Go through their help system</li>
+<li>Perhaps try a search and fail to find what I need</li>
+<li>Look at forums</li>
+<li>Ponder about posting to the forum, decide against it</li>
+<li>Send a mail/feedback (which can be really hard to find)</li>
+<li>Get an impersonal blanket response</li>
+<li>Later, get a email from Google whether the response was helpful or not&#8230; grrr</li>
+<li>End up just waiting and retrying again later at some random time</li>
+</ol>
+
+<p>Kudos to Flickr in sense I&#8217;ve actually got to speak to a human in this regard. Though all that person did was say sorry and try again later. What Google and Flickr both need sorely is a public status page reporting outages.</p>
+
+<p>Dreamhost do it right with <a href="http://status.dreamhost.com/">DreamHost status</a>.</p>
+
+<p>Except when <a href="http://www.dreamhost.com/r.cgi?104617">Dreamhost</a> posts about machines that I don&#8217;t use. It could be a lot better, though if I was using some powerful <span class="caps">RSS</span> aggregator I could perhaps filter it.</p>
+
+<p>I know it might look bad to maintain &#8220;public availability status&#8221; and it could reflect badly on your stock price in the short term. I urge you to think long term and build trust with your customers. Dreamhost went through a rough patch recently and I stuck with them because they seemingly tried their best to make their problems they were experiencing <strong>public</strong>.</p>

@@ -1,0 +1,21 @@
+[[!meta title="UK Internet speeds versus Romania" ]]
+[[!meta date="2008-08-30 13:09:23" ]]
+<p>Just returned from <a href="http://flickr.com/photos/hendry/sets/72157606938371966/">Romania</a>.</p>
+
+<img src="http://www.speedtest.net/result/313457659.png" />
+
+<p>In <a href="http://en.wikipedia.org/wiki/Bucharest">Bucharest</a> 10mbit symmetrical connections!</p>
+
+<p>What about Virgin Media? The <a href="http://webconverger.org/blog/entry/UK_fibre_optic/">UK fibre optic</a> <a href="http://allyours.virginmedia.com/html/internet/mother.html">mother of all broadband</a>?</p>
+
+<img src="http://www.speedtest.net/result/313459023.png" />
+
+<p>Almost 20 mbit down, but not hardly half a mbit up? Since when is fibre optic asymmetrical?!</p>
+
+<p>Finally, what&#8217;s the speed in the <a href="http://www.regus.com/locations/GB/Guildford/GuildfordCathedralHill.htm">Regus serviced office from where I work</a>?</p>
+
+<img src="http://www.speedtest.net/result/313920880.png" />
+
+<p>Embarrassing! :(</p>
+
+<p>Checkout the <a href="http://www.speedtest.net/global.php?continent=3">European internet speed statistics</a>. Can&#8217;t find UK in the top EU countries by download speed, can you?</p>

@@ -1,0 +1,21 @@
+[[!meta title="RSS Reading" ]]
+[[!meta date="2005-10-12 10:45:45" ]]
+<p>A couple of days ago I exported my <span class="caps">OPML</span> <span class="caps">RSS</span> subscriptions from <a href="http://www.bloglines.com">Bloglines</a> and imported them into <a href="http://www.google.com/reader/">Google&#8217;s Reader.</a></p>
+
+<p>I like Bloglines except:<br />
+* sometimes how text is resized in the frame and I have to scroll horizontally<br />
+* it doesn&#8217;t update the feeds as fast as I would like them too in some odd cases<br />
+* <a href="http://www.russellbeattie.com/notebook/1008639.html">Russell gave them a bashing</a></p>
+
+<p>Though after using Google&#8217;s &#8220;Reader&#8221;:<br />
+* The UI sucks<br />
+* It&#8217;s slow<br />
+* I don&#8217;t get that broad overview that Bloglines seems to provide in their left frame<br />
+* It seems to have all the <span class="caps">RSS</span> feeds in one column. I don&#8217;t read some feeds very often and I prefer it they we&#8217;re seperated like Bloglines instead of <strong>cluttering</strong> up everything.<br />
+* Ok, I DO like their keyboard shortcuts.</p>
+
+<p>Recently I invited a friend to Gmail and she got a googlemail.com address which is too long. Argh. Google, come on. :)</p>
+
+<p>I&#8217;m using Gmail for spam filtering, and <a href="http://groups.google.com.au">Groups</a> pretty often. It&#8217;s nice when they have a new service I don&#8217;t have to create another account and I can just use my Gmail account. That&#8217;s a major advantage alone in this Internet game.</p>
+
+<p>Conclusion: I am using <strong>Bloglines</strong> for <span class="caps">RSS</span> reading for now.</p>

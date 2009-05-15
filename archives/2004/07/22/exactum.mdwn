@@ -1,0 +1,27 @@
+[[!meta title="Exactum" ]]
+[[!meta date="2004-07-22 16:40:57" ]]
+<p><a href="http://www.cs.helsinki.fi/Exactum-kamera/">Exactum</a> is the new home of the <a href="http://www.cs.helsinki.fi/">Computer Science department</a> of <a href="http://www.helsinki.fi/">Helsinki University.</a></p>
+
+<p>I visited the <a href="http://www.cs.helsinki.fi/contact/kartta.html">old department</a> in Teollisuuskatu 23 (Vallila) for last time last Monday to pack up my office. It is quite sad to leave this building as it has been home to me for more than three years. I have made several good friends, have had plenty of opportunity bestowed on me and a good education in that building. It is also the place incidentally where Linus Torvalds was working when he first came up with that <a href="http://www.cs.helsinki.fi/linux/">Linux project.</a></p>
+
+<p>Sentimental value aside, I have looked about today at the new building. I have tried to be optimistic about this place, despite <a href="http://db.cs.helsinki.fi/~hendry/log/pyblosxom.cgi/bad/aleksandria.html">my history of criticism of this style of architecture.</a></p>
+
+<p>But it is hard. Here&#8217;s why.</p>
+
+<p>Instead of 5+ elevators of the previous building and effectively one staircase, Exactum has one elevator (ok another one on the other side of the building for deliveries) and about 5+ stair cases. A stair case on every side of the building, and one in the middle. Perhaps I am being lazy&#8230;</p>
+
+<p>But the main flagship staircase is designed in such as way that it makes it quite difficult for two people coming from opposite directions to pass. If you are walking on the inside of this stair case, you&#8217;ve basically have to hold on the rail like a fire department&#8217;s greasy pole as there is <a href="http://pictures.natalian.org/kodak/2004/jul/22/06:54:35/">no space to put your feet.</a></p>
+
+<p>We are sharing the building with the Maths and Statistics department now. There is no clear boundary. If you look at the map they use the <a href="http://pictures.natalian.org/kodak/2004/jul/22/06:54:01/"><span class="caps">SAME</span></a> <a href="http://pictures.natalian.org/kodak/2004/jul/22/06:53:55/"><span class="caps">COLOUR</span></a> code for both departments.  Even the <a href="http://pictures.natalian.org/kodak/2004/jul/22/06:54:58/">seismology dept on the top floor have the same colour code.</a> <span class="caps">WTF</span>!</p>
+
+<p>The design of the building leads to a couple of <a href="http://pictures.natalian.org/kodak/2004/jul/22/09:05:02/">dead ends.</a> In Vallila you could find an excuse to walk past every office, due to it&#8217;s circular design. Here you feel a little guilty walking for the administration corridor because at the end of it is a cul-de-sac with the head of department. You have turn 180 degrees and walk out the same way you came in.</p>
+
+<p>The next element I found a little weird was the <a href="http://pictures.natalian.org/kodak/2004/jul/22/06:55:26/">dead space around</a> <a href="http://pictures.natalian.org/kodak/2004/jul/22/06:55:50/">the only elevator.</a>  How is that supposed to be used or cleaned?</p>
+
+<p><a href="http://pictures.natalian.org/kodak/2004/jul/22/04:53:36/">The</a> <a href="http://pictures.natalian.org/kodak/2004/jul/22/04:55:15/">grids.</a> I know grid computing is all the rage but do we have to have <a href="http://pictures.natalian.org/kodak/2004/jul/22/06:59:02/">metal grids lining the windows?</a> <a href="http://pictures.natalian.org/kodak/2004/jul/22/06:57:48/">They obstruct the view.</a> <a href="http://pictures.natalian.org/kodak/2004/jul/22/09:18:13/">It makes you feel like you are behind prison bars.</a>  And once again, how the hell are they and the windows they obstruct supposed to be cleaned?!!!</p>
+
+<p>Here is another example of where the east view is obstructed by <a href="http://pictures.natalian.org/kodak/2004/jul/22/09:18:09/">some</a> <a href="http://pictures.natalian.org/kodak/2004/jul/22/05:00:39/">coloured</a> <a href="http://pictures.natalian.org/kodak/2004/jul/22/05:00:55/">glass.</a></p>
+
+<p>Another element I am not so pleased about is that the CS department is effectively in a campus enviroment with thousands of more students. Chemists, Physics students, Maths students, Statisticians, Seismologists, you name it. They&#8217;re here on a campus outside town in Kumpula. There is no hint of Helsinki here. There is no Sonera or other commercial sites nearby. It&#8217;s just campus life. It reminds me of <a href="http://www.bath.ac.uk/">Bath University</a> now. I didn&#8217;t like the <a href="http://www.bath.ac.uk/">Bath University campus</a> and I am not overwhelmed by this one.</p>
+
+<p>Argh! And there is a <a href="http://pictures.natalian.org/kodak/2004/jul/22/09:24:57/">perilous dirt path</a> leading up to the Kumpula from a road busier than Teollisuuskatu. Ok, ok&#8230; I&#8217;ll stop here.</p>

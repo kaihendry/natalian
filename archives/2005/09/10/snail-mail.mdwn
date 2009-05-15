@@ -1,0 +1,5 @@
+[[!meta title="Snail Mail" ]]
+[[!meta date="2005-09-10 21:48:27" ]]
+<p><a href="http://letter.dabase.com">Write a letter,</a> using my Web application which generates a <span class="caps">PDF</span> for you to print.</p>
+
+<p>Don&#8217;t forget to sign it with a pen and send it off in the mail.</p>

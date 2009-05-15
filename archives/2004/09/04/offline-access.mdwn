@@ -1,0 +1,11 @@
+[[!meta title="Offline access" ]]
+[[!meta date="2004-09-05 17:03:20" ]]
+<p>As my connection to the Internet is through a 56k modem on a very poor line which is unstable and slow. My <span class="caps">ISP</span> cutting me off unpredictably is also quite a nuisance. However this reminds me of a network simulation at school. These networking conditions compare to <span class="caps">GPRS</span> connections.</p>
+
+<p>The big difference now is that I don&#8217;t have a small device, but I have instead a great big desktop PC with WinXP. Plenty of power for software to ease the pain, one would think.</p>
+
+<p>But offline access at least in Windows is shoddy. It can&#8217;t transparently reconnect. OE seems OK for handling offline conditions, but not say Thunderbird. A lot of applications of course have not begun to think about what happens if the network connection breaks.</p>
+
+<p>What does work is the simple request/response model of Web applications.  <a href="http://groups-beta.google.com/">Google groups</a> works so much better then OE&#8217;s or Thunderbird&#8217;s news group implementation.</p>
+
+<p>Summary: Web applications exhibit an advantage over &#8220;rich clients&#8221; for offline access.</p>

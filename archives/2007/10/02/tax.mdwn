@@ -1,0 +1,30 @@
+[[!meta title="Tax" ]]
+[[!meta date="2007-10-03 10:01:50" ]]
+<p>The money you spend on purchases whilst holidaying in the <span class="caps">USA</span>, cannot be redeemed. Whilst in almost any other country this is possible.</p>
+
+<p>Some companies like Macys basically give you a 11% discount if you can prove to them you&#8217;re a traveller. E.g. Hotel card. Sales tax in California is 8%. Good deal. Purchases bought from the Internet and delivered to your hotel are also often sales tax free. So if you&#8217;re staying for few a days, its probably a worthwhile method of buying a camera.</p>
+
+<p>Back in the UK I&#8217;ve been trying to better understand tax. I&#8217;ve been advised for a startup company <strong>contract out</strong> your employees and you don&#8217;t have to worry about their taxes. That saves a lot of pain. Before continuing, if you are thinking of running a business, get an accountant who will act as an agent for your business. If you are crazy, try and figure it out yourself, like what I&#8217;ve been doing.</p>
+
+<a href="http://www.flickr.com/photos/hendry/1472267937/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1229/1472267937_684fef02fe_o.gif" width="727" height="201" alt="vatreg_process_diagram" /></a>
+
+<p>Now I&#8217;ve been trying to get a <span class="caps">VAT</span> number for <a href="http://webconverger.com/">Webconverger</a>. Webconverger is incidentally now a Limited Company, however that doesn&#8217;t give you a <span class="caps">VAT</span> number. You still need to apply for one.</p>
+
+<p>Why do you want a <span class="caps">VAT</span> number? It seems to make lives of European clients less painful. These events have taken place over many weeks.</p>
+
+<ol>
+<li>Spend an hour or two familiarizing yourself with the <a href="http://www.hmrc.gov.uk/">UK&#8217;s tax site</a></li>
+<li>Find a number of a contact centre.</li>
+<li>Manage to get through. Though inform you they can&#8217;t give advice. Finally they said I probably just need a <span class="caps">TAX</span> registration form</li>
+<li>Get post with a fat booklet that seems to be the same material on the website and note saying they are <strong>out of stock</strong> of the <span class="caps">VAT</span> registration form</li>
+<li>Week later, registration form comes through.</li>
+<li>Form says you can register online. News to me.</li>
+<li>Find &#8220;e-services&#8221; under &#8220;do it online&#8221; which seems applicable to Webconverger.</li>
+<li>Find out later that the form is not for UK businesses, &#8220;VAT on e-Services Special Scheme is only intended for businesses based outside the EU supplying electronic services to private individuals within the EU.&#8221;</li>
+<li>Try find the right form on the Website. After a couple of hours&#8230; I think I found the <a href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&amp;_pageLabel=pageVAT_ShowContent&amp;id=HMCE_PROD_011666&amp;propertyType=document"><span class="caps">VAT</span> registration form</a></li>
+<li>Register. Get told that they need to send a <span class="caps">PIN</span> to you by post. Later an confirmation email (thoroughly confused) arrives and it looks like I can eVAT register. I&#8217;m hopeful.</li>
+<li>Fill in the form to point where it seems that I need a business bank account. I hate business bank accounts because they seem to charge like crazy, unlike personal accounts.</li>
+<li>Eventually call up friend&#8217;s <a href="http://www.gallaghers.co.uk/">accountant</a>. Accountant tell me <strong>not to <span class="caps">VAT</span> register unless the business turnover is greater than 60k</strong></li>
+</ol>
+
+<p>Not sure how clients report that weren&#8217;t charged <span class="caps">VAT</span>, though nevermind.</p>

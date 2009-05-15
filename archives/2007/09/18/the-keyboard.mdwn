@@ -1,0 +1,9 @@
+[[!meta title="The keyboard" ]]
+[[!meta date="2007-10-09 19:57:05" ]]
+<a href="http://www.flickr.com/photos/hendry/1403650266/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1126/1403650266_650d509e32_m.jpg" width="240" height="180" alt="NC4400 versus X40" /></a>
+
+<p>I was thinking of getting an <a href="http://flickr.com/photos/hendry/556685163/">nc2400 after seeing one at debconf7</a>. However lately I&#8217;ve been studying my house mate&#8217;s nc4400, which I think is roughly the same as the nc2400, except no CD/DVD drive and sadly a trackpad. Correct me if I&#8217;m wrong.</p>
+
+<p>It&#8217;s the little things I like about the X40. The <span class="caps">PGUP</span>/PGDOWN buttons above and below each other. The <a href="http://flickr.com/photos/hendry/1402762137/">escape key which isn&#8217;t tiny</a>.</p>
+
+<p>I hate the thought that I am to upgrade to an X60 because of the keyboard. I can&#8217;t stand the fact that they&#8217;ve changed their <span class="caps">PSU</span> standard <a href="http://flickr.com/photos/hendry/475395821/">(like Nokia did I guess)</a> and, omg have you seen the <a href="http://lenovoblogs.com/">uninspiring Lenovo blogs?</a>. :/</p>

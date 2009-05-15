@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="A.Styrman"
+ subject="128.214.205.4"
+ date="2004-07-26 09:42:17"
+ content="""
+<p>OK, you got me convinced. I will suggest to use the browser settings in the next group meeting, and put an extra default-option to WebOodi settings: &#8220;Use the browser language&#8221;.</p>
+
+<p>But still, I changed the language from WebOodi settings, logged in and out, and the language was correct, as in the settings. If you go to the university&#8217;s main page, choose language A, follow the links, and WebOodi is in language A. Naturally, if you have defined some other language in WebOodi, the language will be that after the login.</p>
+"""]]

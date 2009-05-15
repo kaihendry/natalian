@@ -1,0 +1,15 @@
+[[!meta title="Nokia 2610" ]]
+[[!meta date="2007-01-13 09:58:33" ]]
+<a href="http://www.flickr.com/photos/hendry/340714548/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/135/340714548_9823a1d5d7_m.jpg" width="240" height="180" alt="Nokia 2610" /></a>
+
+<p>I hate this phone.</p>
+
+<p>The middle button feels (and looks) like a joystick. It isn&#8217;t! It is just a wobbly button. In fact most of the buttons feel wobbly.</p>
+
+<p>Also can you notice how their <span class="caps">SMS</span> functionality has chaged? Usually you can just quickly start writing a message. Now you have to first specify who you want to send it to. That initial <span class="caps">SMS</span> interface from Nokia&#8217;s, say from the Nokia 3210 era is what set it apart from the competition. Now Nokia has fucked it up. :(</p>
+
+<p>It is terribly unresponsive. It takes like a second to do anything between input presses. <span class="caps">WTF</span>!</p>
+
+<p>This phone can&#8217;t be unlocked. I would not have bought this for 50EUR is I knew I couldn&#8217;t unlock the fucker from T-Mobile.</p>
+
+<p>Btw I hate <a href="http://www.t-mobile.com/">T-mobile</a>. Their <span class="caps">GPRS</span> service in Germany costs a fortune. So if you click menu, then t-online, then you have automatically downloaded about 10k of useless data and cost yourself at least 1EUR. I&#8217;ve done this accidentally twice by simple pressing that big black button twice in succession whilst the phone is unlocked.</p>

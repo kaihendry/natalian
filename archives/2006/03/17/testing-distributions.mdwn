@@ -1,0 +1,28 @@
+[[!meta title="Testing distributions" ]]
+[[!meta date="2006-03-18 23:04:17" ]]
+<a href="http://www.flickr.com/photos/hendry/112646935/" title="Photo Sharing"><img src="http://static.flickr.com/40/112646935_1caba1c5d2_m.jpg" width="240" height="159" alt="My home/office setup" /></a>
+
+<p>Lately I&#8217;ve been testing a few distributions. A few comments.</p>
+
+<p>Redhat (or CentOS) make it real easy to re-compile their sources, so you can basically create your own Enterprise distribution with your own company&#8217;s branding very easily.</p>
+
+<p>Redhat Nahant EL4 &#8220;nahant&#8221; type distributions must have quite a high percentage of the server market. I see it time and time again. I find it quite an &#8220;average&#8221; platform, though I also find it difficult to argue why Debian is all that much better. One policy that interests me is that EL4 updates out the box. Is it a good thing for a box to update itself? I guess so, though with Debian that&#8217;s not as usual I find.</p>
+
+<p>I hate how all the distributions I&#8217;ve tried use screensavers that hog resources. Whatever happened to the screen just blanking ffs? Making the screen actually power down gets bonus points. Extra bonus points: do not power down while I am watching a movie.</p>
+
+<p><a href="http://www.xandros.com/">Xandros</a> is quite an interesting distribution. Debian based. It has this <span class="caps">LDAP</span> centric xDMS (desktop management system) for aiding deployment. It also had <a href="http://www.codeweavers.com/products/">crossover linux</a> (for photoshop and M$ office)  by default, also video works out the box and CD burning. I has quite a bit of spit and polish. It&#8217;s a pity they don&#8217;t seem to work as closely with Debian as Ubuntu seem to.</p>
+
+<p>I&#8217;ve got my <a href="http://jutta.prazefarm.co.uk">sister</a> using Ubuntu dapper and she is bitching that she can&#8217;t play multimedia files. I found this awful <a href="http://ubuntuforums.org/showthread.php?t=138889">post on the ubuntu forums</a> where it suggests installed j2re. FS, no. I&#8217;ve managed to download the win32 codecs and get that going for her over ssh, but I&#8217;ve no idea how get mp3 playback working still on her (sic) &#8220;desktop&#8221;. My sister is also struggling with copy and paste in Gnome (compared to win32). I feel her pain in ion3 and Firefox&#8217;s textarea.</p>
+
+<p>Ubuntu&#8217;s launchpad is painful. I remember some dude raved about it on -devel. <span class="caps">WTF</span>. I won&#8217;t rant about that. In Ubuntu I am still trying to understand the way the disb is formed and a release is made. The scripts are quite odd. <a href="https://wiki.ubuntu.com/SeedManagement">Seed</a> and <a href="https://wiki.ubuntu.com/Germinate">Germinate</a> ? I am getting confused with <a href="http://wiki.debian.org/DebianInstaller/Preseed">preseed.</a><br />
+I also don&#8217;t like the <a href="http://moinmoin.wikiwikiweb.de/">MoinMoin Wiki</a> (same tech behind <a href="http://wiki.debian.org/">Debian&#8217;s Wiki</a> ). Compared to <a href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a>, information doesn&#8217;t look as nice, editing isn&#8217;t as easy and the searching sucks.</p>
+
+<p>Someone has got to write some nice Web interface to these <a href="http://people.ubuntu.com/~scott/patches/">Ubuntu patches.</a> They&#8217;re a nightmare for my brain to parse.</p>
+
+<p>When I was installing and re-installing different distributions, it would have been nice if the /home directory was left alone. I managed to save it once with the debian-installer, but the other installers were into blanking the drive. I also played about with <span class="caps">LVM</span> in the debian installer and somehow caused a strange error. I&#8217;m not confident about using <span class="caps">LVM</span>.</p>
+
+<p>I would like to test disbs without burning ISOs and nuking the HD. I remember <span class="caps">QEMU</span> being really slow and <span class="caps">VMWARE</span> being non-free and only working properly on Windows. I don&#8217;t think you can boot an <span class="caps">ISO</span> with Xen. Any tips people?</p>
+
+<p>Update: See comments. Or <a href="http://www.vmware.com/download/player/">VM Player</a> with <a href="http://static.natalian.org/2006-03-19/">Ubuntu samples</a> are OK for testing.</p>
+
+<p>Update: Argh, <a href="http://www.vmware.com/community/thread.jspa?threadID=36609&amp;tstart=0">I&#8217;ve got issues with vmplayer&#8230;</a></p>

@@ -1,0 +1,16 @@
+[[!meta title="Wordpress 1.2.2 and Mad Greetz" ]]
+[[!meta date="2005-01-12 03:31:25" ]]
+<p><a href="http://debian.natalian.org/wordpress/">Debian package of Wordpress 1.2.2</a> is available.</p>
+
+<p>I have tested the package now myself on my own <a href="http://natalian.org/">blog.</a><br />
+My striking &#8220;blue gold&#8221; design will return! ;)</p>
+
+<p>Tomorrow I will be off to the <a href="http://natalian.org/archives/2004/12/13/andaman-islands/">Andaman Islands.</a> So I&#8217;ll be out of contact by email. Come new year you could try send a text message to +919888159639.</p>
+
+<p>On the subject of contact and my <a href="http://trip.natalian.org">trip</a> I have decided to abandon the only two &#8220;working&#8221; Web publishing (CMS) paradigms, the <a href="http://moinmoin.wikiwikiweb.de/">Wiki</a> and the <a href="http://wordpress.org">Blog</a> and shoot for ye old <a href="http://liw.iki.fi/liw/eoc/">mailing list.</a></p>
+
+<p>Trouble is the textarea editing does not have vim or aspell when I access my machine from stupid Internet cafes abroad. I know I could &#8220;mail&#8221; wordpress, but I have not got around to setting it up. Anyway, I am not convinced the style is transferrable right now. Don&#8217;t have time to explain.</p>
+
+<p>So if you want to be on my super kiff travelogue mailing list, <a href="http://www.cs.helsinki.fi/u/hendry/">get in touch.</a> I&#8217;ll put archives up later.</p>
+
+<p>Here is to a happy and prosperous new year!</p>

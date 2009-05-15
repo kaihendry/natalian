@@ -1,0 +1,19 @@
+[[!meta title="Come down from the clouds" ]]
+[[!meta date="2008-11-06 21:51:11" ]]
+<a href="http://www.flickr.com/photos/hendry/2982819334/" title="Disabled - don't know why by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3153/2982819334_618c9fdbba_o.png" width="673" height="387" alt="Disabled - don't know why" /></a>
+
+<p>So <a href="http://news.bbc.co.uk/1/hi/technology/7693993.stm">computing is going into the cloud</a>. Fantastic. Think of the new possibilities!</p>
+
+<p>What they don&#8217;t tell you is that these centralised services will <strong>own you</strong>.</p>
+
+<p>Ask yourself do you have all your data? Sure you have your images on your trusty external <span class="caps">USB</span> hard drive, but do you have all that precious metadata? Those comments and tags you painstakingly added on the <a href="http://flickr.com/">Flickr</a> interface? No, you don&#8217;t do you?</p>
+
+<p>You fool.</p>
+
+<p>What happens if you inadvertently violate their ever increasingly convoluted &amp; discriminatory <a href="http://en.wikipedia.org/wiki/Terms_of_service">Terms and Conditions?</a></p>
+
+<p>And what if your account is <strong>disabled</strong>? Oh it won&#8217;t happen to you. What happens if you decide to share some of your images on your <a href="http://webconverger.org/blog">company blog</a>? Oh <span class="caps">CRAP</span>! You&#8217;ve violated the <a href="http://www.flickr.com/guidelines.gne">don’t use Flickr for commercial purposes</a> rule. Oops, sorry&#8230; you lose.</p>
+
+<p>The Internet, mail &amp; Web were designed to be distributed. Now we see huge concentrations of power in the &#8220;cloud&#8221;; YouTube, Facebook, Amazon, Google, Vimeo, Flickr, Microsoft&#8230; yes you&#8217;re all on my shitlist.</p>
+
+<p>Do it yourself, go grassroots and <a href="http://homepages.cwi.nl/~steven/vandf/2008.03-website.html">get a Website</a>.</p>

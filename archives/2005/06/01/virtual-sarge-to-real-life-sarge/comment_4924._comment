@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-06-01 16:54:10"
+ content="""
+<p>If I am going to rsync it, I might as well boot the &#8220;real&#8221; machine with a Live-CD and rsync via the Gigabit ethernet.</p>
+
+<p>Though I am not sure how to partition the hard drive on the real machine.</p>
+
+<p>Hmmm, a sense a feature request for the debian-installer.</p>
+"""]]

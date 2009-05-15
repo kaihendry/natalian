@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Henri Sivonen"
+ subject="217.140.251.133"
+ date="2004-07-27 19:20:09"
+ content="""
+<p>Clarification: Google does not index application/xhtml+xml. Mozilla and Safari don&#8217;t support incremental display of application/xhtml+xml. This is a shortcoming of these user agents and not inherent to <span class="caps">XHTML</span>.</p>
+
+<a href="http://lists.w3.org/Archives/Public/www-style/2004Jul/0213.html">www-style post on the issue</a>
+"""]]

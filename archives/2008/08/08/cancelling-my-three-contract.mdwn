@@ -1,0 +1,25 @@
+[[!meta title="Cancelling my Three contract" ]]
+[[!meta date="2008-10-10 15:41:24" ]]
+<a href="http://www.flickr.com/photos/hendry/2502307318/" title="3 Fair usage by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3284/2502307318_0294d861d1_m.jpg" width="180" height="240" alt="3 Fair usage" /></a>
+
+<p>So <a href="http://natalian.org/archives/2007/05/15/nokia-e65-from-3/">18 months of my Three contract</a> is almost up. In order to cancel, I must call exactly 1 month before the contract expires(10/11/2008), else it automatically renews(!). Reasons why:</p>
+
+<ul>
+<li>The <a href="http://en.wikipedia.org/wiki/3_(telecommunications)">3</A> Loyalty team just called me, to extend my contract with a tantalising &#8220;upgrade offer&#8221;. No thanks, I don&#8217;t want the new phone you&#8217;re offering.</li>
+<li>The aforementioned cancellation policy is ridiculous. What happens if I need to be out of the country on the 10th of October? A <strong>one day</strong> window for a customer to cancel an 18 month contract without incurring fees should be against the law.</li>
+<li>If I kept my old phone, I could get my &#8220;all you can eat&#8221; plan down from 35GBP to 28GBP a month&#8230;</li>
+<li>I would have to sign up for at least another <strike>18</strike> 12 months. <strong>No</strong> I want a rolling contract.</li>
+<li>I could not get my phone unlocked. My phone <strong>must be unlocked</strong> as I am not going to use my (UK) 3 <span class="caps">SIM</span> in foreign countries like Israel.</li>
+<li>Three&#8217;s customer service is abysmal. The loyalty team who just rang me is based in the UK. I wonder why&#8230;</li>
+</ul>
+
+<p>So on the 10th of October I must ring up and ensure I get the:</p>
+
+<ul>
+<li><span class="caps">PAC</span> code so I can keep my number</li>
+<li>Ask them to unlock my E65 so I can use it on other networks</li>
+</ul>
+
+<p>So far the most attractive offer for a &#8216;SIM only&#8217; rolling contract (one month cancellation) is from Vodafone. Some minutes&amp;texts with 1G fair usage data for 22.50GBP a month. I must double check that. Anyway there is still a bit of time between now and November. I hope my Nokia E65 will last that long. I want to ideally buy an unlocked <a href="http://en.wikipedia.org/wiki/Android_(mobile_device_platform)">Android phone</a> and failing that&#8230; an <a href="http://en.wikipedia.org/wiki/Iphone_3g">Iphone 3G</a>. Nooo&#8230; I&#8217;d rather keep using my Symbian Nokia E65 out of principle!</p>
+
+<p>I could get an <span class="caps">EEEPC</span> &amp; a <a href="http://en.wikipedia.org/wiki/HSPDA"><span class="caps">HSPDA</span></a> <a href="http://www.reghardware.co.uk/2007/11/09/vodafone_spins_pebble/">dongle</a> and use that. It&#8217;s basically that open platform everyone wants, except Skype (can it do <span class="caps">SMS</span>?) is proprietary &amp; it doesn&#8217;t fit in your pocket. =)</p>

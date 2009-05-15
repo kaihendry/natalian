@@ -1,0 +1,22 @@
+
+[[!_comment format=mdwn
+ username="Tom Pike"
+ subject="213.236.208.22"
+ date="2008-04-14 13:09:56"
+ content="""
+<p>&#8220;Autocompletion with “AwesomeBar” (I think it’s called) sucks for me. How do I turn it off or make it act like it did in FF2?&#8221;</p>
+
+<p>See <a href="http://forums.mozillazine.org/viewtopic.php?t=640174">http://forums.mozillazine.org/viewtopic.php?t=640174</a> for related discussion</p>
+
+<p>&#8220;Image zoom caught me off guard.&#8221;</p>
+
+<p>Perhaps, but it brings it in line with every other browser now.</p>
+
+<p>&#8220;The bookmarks stuff seems like a disaster. I want it all removed. I prefer simple bookmarklets and del.icio.us.&#8221;</p>
+
+<p>The bookmarks and history backend improvements were much needed.  The original storage method for history was a hideous monstrosity known as Mork, with one developer describing it as &#8221;...the single most braindamaged file format that I have ever seen in my nineteen year career.&#8221; [1].  The SQLite implementation that they are using now is much nicer.  It doesn&#8217;t use any extra resources (or at the very least the difference is negligible), so if you don&#8217;t use bookmarks, just ignore it.  Calling for it to be removed is just ignorant.</p>
+
+<p>As for the UI changes, if you&#8217;re not using bookmarks you shouldn&#8217;t care, and if you are it&#8217;s much nicer.</p>
+
+<p>[1] <a href="http://en.wikipedia.org/wiki/Mork_">http://en.wikipedia.org/wiki/Mork_</a>(file_format)</p>
+"""]]

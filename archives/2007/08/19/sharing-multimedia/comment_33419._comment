@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="beza1e1"
+ subject="85.180.72.117"
+ date="2007-08-20 06:47:53"
+ content="""
+<p>I though and search about this, too. Nothing good out there. It&#8217;s a hard problem.</p>
+
+<p>The problem is redundancy, since you want to handle the (dis)appearance of machines. The best i found was the Glacier system they use at ePost [1]. It can do &#8220;99.9999% data survival even under a 60% correlated failure&#8221;, which means it should be able to provide all files, if you shut down one of your three machines.</p>
+
+<p>[1] <a href="http://www.epostmail.org/technical.html">http://www.epostmail.org/technical.html</a></p>
+"""]]

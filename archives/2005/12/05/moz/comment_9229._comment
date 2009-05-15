@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Satanic Mechanic"
+ subject="62.179.46.113"
+ date="2005-12-06 10:23:23"
+ content="""
+<p>You can save your open tabs into a bookmark folder.</p>
+
+<p>The update system for the browser is turned off in the Debian version of Firefox. If you would like to see something really scary, though, take a look at the <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=295720">bug #295720</a>.</p>
+"""]]

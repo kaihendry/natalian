@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Alex"
+ subject="83.67.74.208"
+ date="2006-05-16 19:58:12"
+ content="""
+<p>I think <span class="caps">ODF</span> is probably still your best bet.</p>
+
+<p>I&#8217;ve just translated ~400 pages of almost-HTML (mostly <span class="caps">XHTML</span>, but with some custom tags for good reasons) into <span class="caps">ODF</span> using a simple <span class="caps">XSL</span> I wrote myself. From there, I then have OpenOffice.org macros to convert it into <span class="caps">PDF</span> and other formats.</p>
+
+<p>The <em>really</em> nice thing about <span class="caps">ODF</span> is that you can create a template in OpenOffice.org and setup your styles and page layouts, and then drop in some new content of your own. The separation between presentation and content is pretty good in <span class="caps">ODF</span>, and means you can have a really nice simple transform for the content, but still get a good-looking document.</p>
+
+<p>On the subject of reST, I thought there was a reST-&gt;TeX or something system you could use, but I might have imagined it.</p>
+
+<p>I&#8217;m giving a talk on <span class="caps">ODF</span> at West Yorkshire <span class="caps">LUG</span> next month, and these issues are going to be on the agenda &#8211; I&#8217;m going to be publishing a &#8216;cookbook&#8217; of <span class="caps">ODF</span> recipes, some of which might interest you if the above sounds along the lines of what you want.</p>
+"""]]

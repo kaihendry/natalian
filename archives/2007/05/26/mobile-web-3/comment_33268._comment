@@ -1,0 +1,18 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="91.84.62.62"
+ date="2007-05-29 13:43:48"
+ content="""
+<p>1) Sean, I stand corrected. Though I thought Google didn&#8217;t index application/xhtml+xml for some time (ago).</p>
+
+<p>2) I think I&#8217;ve used google.com/m. Though I forgot the address. I find google.com easier to remember. I don&#8217;t want to remember the mobile versions of Gmail, Google Maps (or any site for that matter) et al. I just want to use the <strong>same <span class="caps">URL</span> scheme</strong> on any device.</p>
+
+<p><span class="caps">XHTML</span> is nonsense anyway, as I know from conducting several tests that the mobile <span class="caps">XHTML</span> browsers don&#8217;t parse <span class="caps">XHTML</span> correctly, in the sense should stop processing when they encounter an error. It&#8217;s a bad joke.</p>
+
+<p>You really shouldn&#8217;t promote its use!</p>
+
+<p>3) Well I don&#8217;t think desktop browsers support <span class="caps">WAP</span>. Also for example <span class="caps">BBC</span>&#8216;s <a href="http://bbc.co.uk/mobile">http://bbc.co.uk/mobile</a>. How do I browse that <span class="caps">XHTML</span> site in Firefox? Can&#8217;t you see device dependence causes pain &amp; suffering!</p>
+
+<p>4) Natalian.org has been working universally well on any device for several years now. ;)</p>
+"""]]

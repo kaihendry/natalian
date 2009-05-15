@@ -1,0 +1,18 @@
+[[!meta title="Pet peeve: Volume controls" ]]
+[[!meta date="2006-06-12 10:47:05" ]]
+<p>This annoying problem occurs on Win32 and Linux based platforms.</p>
+
+<p>Problem: <span class="caps">WTF</span> is my sound?</p>
+
+<p>Cause: Some stupid program or device has a volume control which gets inadvertently adjusted affecting playback.</p>
+
+<p>Solution: Don&#8217;t fuck with the master volume control.</p>
+
+<p>Do not put volume control functionality in your program. I beg of you. Current suspects are:</p>
+
+<ul>
+<li>Google video</li>
+<li>Rhythmbox</li>
+<li>Skype</li>
+<li><span class="caps">BBC</span>&#8216;S embedded realplayer applet</li>
+</ul>

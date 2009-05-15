@@ -1,0 +1,45 @@
+[[!meta title="Office document compatibility" ]]
+[[!meta date="2007-03-08 02:02:09" ]]
+<p>Document compatibility between Microsoft and opensource formats is probably going to get <strong>worse</strong> before it gets better.</p>
+
+<p>Right now we have quite decent compatibility between Openoffice and MS Word with the 97&#8211;2003 .doc format. Not perfect by a long shot. Especially for <span class="caps">CJK</span> documents in my tests, but usable.</p>
+
+<p>So here is why it&#8217;s going to get worse. Microsoft is pushing its new .docx <span class="caps">XML</span> standard which of course isn&#8217;t compatible or rather importable with OpenOffice (or anything else for that matter).</p>
+
+<p>In my tests if you open .docx as &#8220;Word <span class="caps">XML</span>&#8221; in OpenOffice, expect a crash. Oh, but the new <a href="http://static.natalian.org/2006-05-28/Ecma%20TC45%20OOXML%20Standard%20-%20Draft%201.3.pdf">.docx <span class="caps">XML</span> standard is actually a standard proposed to <span class="caps">ECMA</span></a> one might exclaim. Now one can look up the spec, instead of reverse engineering the proprietary Word 97&#8211;2003 .doc format. Er, no.</p>
+
+<p>The Microsoft proprietary specification, expertly called &#8220;Office Open <span class="caps">XML</span>&#8221; to confuse everyone is a 4081 page Word centric document from hell. Still I&#8217;ll be surprised if this red hot spec is complete and stable by the time Office 2007 actually ships. Still Microsoft have the money and contacts to push this standard as if it was actually a reasonable implementable specification reference. Ouch.</p>
+
+<p>Microsoft&#8217;s &#8220;Office Open <span class="caps">XML</span>&#8221; spec was also of course designed to completely derail the true &#8220;opensource&#8221; format standard proposal called <a href="http://en.wikipedia.org/wiki/OpenDocument"><span class="caps">ODF</span></a>. <span class="caps">ODF</span> or otherwise known as the <a href="http://static.natalian.org/2006-06-30/OpenDocument-v1.0-os.pdf">OpenDocument Format</a> is currently implemented in OpenOffice as &#8220;Opendocument Text&#8221; .odt. I don&#8217;t have much experience with <span class="caps">ODT</span> or <span class="caps">ODF</span> except that in seems to incorporate every <span class="caps">XML</span> technology under the sun. So expect your Office application to be like a Web browser, except more complex. How on earth it maps onto A4 postscript or <span class="caps">PDF</span> is anyone&#8217;s guess.</p>
+
+<p><span class="caps">ODF</span> is now implemented by a <a href="http://www.spreadopendocument.org/use.html">couple of programs</a>. &#8220;Office Open <span class="caps">XML</span>&#8221; is only implemented in the <a href="http://blogs.zdnet.com/BTL/?p=3274">repeatedly delayed Office 2007</a> installment. Here is a <a href="http://en.wikipedia.org/wiki/Comparison_of_OpenDocument_with_Microsoft_XML_formats">comparison article on Wikipedia.</a></p>
+
+<p>Anyway, if you are wondering what a &#8220;Hello World&#8221; in each &#8220;Office&#8221; format looks like, then I have a treat for you:</p>
+
+<p># <a href="http://static.natalian.org/2006-06-30/helloworld.odt">Hello World <span class="caps">ODT</span> file</a><br />
+ # <a href="http://static.natalian.org/2006-06-30/helloworld-convertedfromDOC.odt"><span class="caps">ODT</span> converted from Hello World Word doc</a><br />
+ # <a href="http://static.natalian.org/2006-06-30/odt/">Extracted <span class="caps">ODT</span></a><br />
+ # <a href="http://static.natalian.org/2006-06-29/helloworld.doc">MS Word 97&#8211;2003 Hello World</a><br />
+ # <a href="http://static.natalian.org/2006-06-29/helloworld.docx">Microsoft&#8217;s Office Open .docx</a><br />
+ # <a href="http://static.natalian.org/2006-06-29/docx/">Extracted <span class="caps">DOCX</span></a><br />
+ # <a href="http://static.natalian.org/2006-06-29/helloworld.pdf">Hello World <span class="caps">PDF</span> converted from docx from Office2007beta2</a><br />
+ # <a href="http://static.natalian.org/2006-06-30/helloworld.pdf">Hello World <span class="caps">PDF</span> from Openoffice2</a><br />
+ # <a href="http://static.natalian.org/2006-06-29/helloworld.xps">Microsoft&#8217;s <span class="caps">XML</span> Paper Specification(XPS) Hello World</a><br />
+ # <a href="http://static.natalian.org/2006-06-29/xps/">Extracted <span class="caps">XPS</span></a><br />
+ # <a href="http://static.natalian.org/2006-06-29/Ne00">Print to file <span class="caps">TIFF</span> by Office2007</a></p>
+
+<p>Scary things to think of:<br />
+ # The sheer complexity of these new <span class="caps">XML</span> formats<br />
+ # What about the millions of existing Word 97&#8211;2003 documents out there and their 3rd party tools?<br />
+ # Might implementors create <span class="caps">XML</span> filters for existing Word doc tools?<br />
+ # Will &#8220;commercial&#8221; implementers write their own Opendocument engine from scratch?<br />
+ # How many people will convert (upgrade) their Word documents to .docx?<br />
+ # Will there be a plugin for Office 2007 to publish to <strong>odt</strong>?<br />
+ # Will OpenOffice implement import from .docx? Should they?<br />
+ # Will Microsoft be forced to implement <strong>odt</strong>?<br />
+ # What happens if the industry is bribed towards .docx ?<br />
+ # Longterm: What will the fall out be? Two &#8220;new&#8221; standards vying here. Will either complex standard work out?<br />
+ # What about Excel? Excel is actually supposingly mapped out a little on Microsoft&#8217;s &#8220;Office Open&#8221; spec, whilst there is nothing for spreadsheets on <span class="caps">ODF</span>.<br />
+ # Will Office formats map or become part of the <span class="caps">HTML</span> Web?</p>
+
+<p>Personally, I think the new Office format should be <a href="http://docutils.sourceforge.net/rst.html">reStructuredText.</a> ;)</p>

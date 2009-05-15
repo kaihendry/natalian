@@ -1,0 +1,33 @@
+[[!meta title="Working on a file on two machines" ]]
+[[!meta date="2005-03-04 09:09:55" ]]
+<p>I have been working on an <span class="caps">IEEE</span>  <a href="http://www.mbusiness2005.org/">Mobile Business</a> <a href="http://www.cs.helsinki.fi/u/hendry/work/thesis/conf/bare_conf.pdf">conference submission</a> here in Bali.</p>
+
+<p>I am doing this instead of surfing because:</p>
+
+<ul>
+<li>I am in Asia, actually quite close to Australia</li>
+<li>I do hope that people who read this will have a better understanding of how mobile publishing should work</li>
+<li>If this gets accepted, my chances and ambitions for persuing a <strong>Phd</strong> should be better</li>
+</ul>
+
+<p>Although it was hell working on it from such an unstable Internet connection and also not having the right latex environment. In the end I was editing like:<br />
+<pre><br />
+hendry@ubuntu:~/conf $ cat edit <br />
+vim scp://melkinpaasi.cs.helsinki.fi//fs-3/4/hendry/public_html/work/thesis/conf/bare_conf.tex<br />
+</pre></p>
+
+<p>I wish working on a file, wouldn&#8217;t involve this scp:// method. In one case, the save failed (internet connection dropped) when I :wq! and my changes were lost. I hoped to <strong>rsync</strong> the file up manually, but I also tend to edit the file on melkinpaasi too (spell check and make). Rsync does not sync the file with newer version like you expect it to. :( I wrote to <a href="http://groups-beta.google.com/group/comp.unix.questions/browse_frm/thread/f49ee79965ffa9b2/9890987762c30df3#9890987762c30df3">comp.unix.questions about this and the result was to write a simple script.</a></p>
+
+<p><em>I always thought rsync was more clever than that.</em></p>
+
+<p>I read my work over like so:</p>
+
+<pre>
+hendry@ubuntu:~/conf $ cat read 
+scp melkinpaasi.cs.helsinki.fi:/fs-3/4/hendry/public_html/work/thesis/conf/*.pdf .
+xpdf bare_conf.pdf &amp;
+</pre>
+
+<p>This iteration would take about 3 minutes. I get easily distracted in that time. :(</p>
+
+<p>Really I am making a case for an <strong>universal</strong> application, you need to use the universal de facto Web standards such as <span class="caps">HTML</span> and <span class="caps">CSS</span> in order to deploy this applications to widest possible audience on the &#8220;universal&#8221; mobile device. Mobile device UAs suck right now, but they will get better. Device dependent proxies for the existing UAs already deployed by their millions (series 40) could help the UA to workaround some of its many bugs.</p>

@@ -1,0 +1,9 @@
+[[!meta title="Apache1.3 to Apache2 upgrade" ]]
+[[!meta date="2005-10-21 08:45:06" ]]
+<img src="http://pictures.natalian.org/kodak/2004/nov/18/11:07:06/500x333" alt="Getting TOE-ed along" />
+
+<p>Went through a tricky upgrade from Apache 1.3 to Apache2 on <a href="http://lists.debian.org/debian-apache/2005/10/msg00054.html">debian-apache.</a></p>
+
+<p>Somehow the init.d script went missing and all hell broke loose. ;)</p>
+
+<p>Thanks to Adam Conrad for helping me out.</p>

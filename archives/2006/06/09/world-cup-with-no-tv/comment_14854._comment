@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="222.106.128.78"
+ date="2006-06-12 00:43:25"
+ content="""
+<p>I am trying to work out how the hell to get 5live in Seoul.</p>
+
+<p>I\&#8216;ve only just discovered I don\&#8216;t have to use the rediculously shit realplayer client. I can use mplayer <span class="caps">CLI</span>! Yahoooo! Except I need to find an open UK proxy now. Help.</p>
+
+<p><a href="http://dave.org.uk/streams/">http://dave.org.uk/streams/</a></p>
+
+<p>sam$ mplayer http_proxy://${OPEN_UK_PROXY}/rtsp://rmlivev8.bbc.net.uk/farm/*/ev7/live24/radio5/live/r5_tl_int_g2.ra</p>
+"""]]

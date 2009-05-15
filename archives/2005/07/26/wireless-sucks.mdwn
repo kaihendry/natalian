@@ -1,0 +1,21 @@
+[[!meta title="Wireless sucks" ]]
+[[!meta date="2005-08-11 14:20:26" ]]
+<p>I have moved in to a <a href="http://www.friendlygroup.com.au/greenhouse_home.asp">hostel</a> in central Melbourne and once again I am without Internet.</p>
+
+<p>The <a href="http://www.slv.vic.gov.au/">state library&#8217;s</a> wireless Internet access is an insane <a href="http://natalian.org/archives/2005/06/27/australia/">13AUD an hour.</a></p>
+
+<p>I wrote to them about it and received a reply. They said they&#8217;ve installed their own access point to access their databases, but not the Internet. Their databases are actually quite cool. I was thinking of dumping contents such as all the <span class="caps">ISO</span> standards to my laptop&#8217;s hard drive and uploading it to some site in Kazakhstan. ;)</p>
+
+<p>Pity I couldn&#8217;t get my <span class="caps">IBM</span> T30 to connect to any access points whatsoever in the library. It doesn&#8217;t work. I am not sure if it&#8217;s my configuration or theirs. Argh! :(</p>
+
+<p>This morning I actually managed to build my own <a href="http://www.kismetwireless.net/">Kismet</a> <a href="http://hendry.iki.fi/debian/unstable/">packages</a> and got it working with my laptop.</p>
+
+<p><strong>A miracle.</strong> Kismet works better than wavemon which doesn&#8217;t seem to work nearly as well with my Thinkpad&#8217;s cisco wavelan card as it did with the orinoco. The program has that bluebeep feel. Who remembers <strong>bluebeep</strong>? ;)</p>
+
+<p>I detected quite a few access points, but once again I can&#8217;t seem to connect to any of them via a &#8220;dhclient eth1&#8221;. I can capture packets, break <span class="caps">WEP</span> and do a DoS, but I can&#8217;t figure out how to nicely join a network. :/</p>
+
+<p>I want free Wireless Internet dammit. When I try the forums, <a href="http://melbourne.wireless.org.au/">mailing lists</a> and irc channels people accuse me of aiming to &#8220;steal the Internet&#8221;. Oh <span class="caps">FFS</span>. The Internet should be free assholes.</p>
+
+<p>In other news I managed to get <a href="http://thinkwiki.org/wiki/How_to_make_use_of_Dynamic_Frequency_Scaling">Dynamic Frequency Scaling</a> working on my T30! Joy! Maybe I&#8217;ll get 30 minutes extra from my battery. The battery for my T30 is new and lasts about 2 hours on a full charge.</p>
+
+<p>Wireless sucks.</p>

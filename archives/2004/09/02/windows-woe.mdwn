@@ -1,0 +1,44 @@
+[[!meta title="Windows woe" ]]
+[[!meta date="2004-09-03 14:44:37" ]]
+<a href="http://pictures.natalian.org/screenies/2004/sep/2/10:32:42/">
+<img src="http://pictures.natalian.org/screenies/2004/sep/2/10:32:42/640x512" />
+</a>
+
+<p>So the <a href="http://leenooks.com/21"><span class="caps">USB</span> modem attached to my parent&#8217;s computer is not compatible with Linux.</a></p>
+
+<p>SO <a href="http://natalian.org/archives/2004/08/22/xp/">I&#8217;m stuck with XP.</a></p>
+
+<p>What I hate about XP:</p>
+
+<ul>
+<li>The console is a joke (no resize, autocompletion)</li>
+<li>The pwd, <span class="caps">WHAT</span> <span class="caps">THS</span> <span class="caps">HELL</span>? C:Documents and SettingsMr Hendry.PRAZE-XE93FLBWBMy Documents</li>
+</ul>
+
+<ul>
+<li>It just pauses sometimes. I can move the mouse, but the keyboard does not work. <span class="caps">WTF</span>?</li>
+<li>I think the firewall blocks my pings from the console</li>
+<li>I really need a spell checker like aspell</li>
+<li>Firefox can&#8217;t resume downloads, same goes for pscp. I long for wget and rsync.</li>
+<li><span class="caps">WTF</span> is that crap in the startup. Open office, 16M!</li>
+<li>Why can&#8217;t putty tell I am connecting to a Unicoded machine?</li>
+<li>Start menu in XP. <span class="caps">WTF</span>?</li>
+<li>The search in XP with stupid dog that reads a book. <span class="caps">OMG</span> What a fuck up.</li>
+<li>The dialup I am on is unreliable. It could do a better job of transparently reconnecting <span class="caps">IMO</span>. Better job of telling how many times I have disconnected etc.</li>
+<li>SP2&#8217;s : &#8220;Your machine is insecure because you aren&#8217;t running a virus&#8230;. blah, blah&#8230; &#8221;</li>
+<li>Cluttered desktop with icons.</li>
+<li>Please reboot for these changes to take affect. Sigh</li>
+<li>SP2&#8217;s : The unexpected UI stuff where it sort of hides a file download in IE</li>
+<li>I don&#8217;t like the font as much as I imagined I would</li>
+</ul>
+
+<p>What I like about XP:<br />
+* Image viewer. When I rotate a picture it does <span class="caps">NOT</span> seem to destroy the <span class="caps">EXIF</span> (unlike feh)<br />
+* I like the File explorer.<br />
+* Right click context sensitive menu is nice when it works. &#8220;Edit&#8221; brings up notepad which I want to change to gvim.<br />
+* Offline stuff of Outlook works better than Thunderbird. OE is easier to use than Thunderbird.<br />
+* When I insert my compact flash card and it opens a window with the pictures previewed nicely.</p>
+
+<p>I wish I somehow downloaded cygwin. Or had a closer look at colinux.</p>
+
+<p>I wish I had my thinkpad running Debian Unstable with a super fast Internet connection so I could sit outside on the patio in the shade looking onto the garden.</p>

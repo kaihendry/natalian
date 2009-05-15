@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="222.106.128.78"
+ date="2006-05-27 08:21:01"
+ content="""
+<p>Since sooner or later a DD&#8217;s secret key will be compromised. Would blaming that DD be fair?</p>
+
+<p>What I mean by anyone being able to upload is the same way (almost) anyone is allowed to contribute on Wikipedia. People can build up a &#8220;reputation&#8221; with the Wiki ID they&#8217;ve created. I guess they could continue using (untrusted) <span class="caps">GPG</span> to associate their uploads with their Wiki ID/account. But that&#8217;s not important.</p>
+
+<p>What&#8217;s important is that contributions are checked much in the same way Wikipedia&#8217;s are. Diffed against the previous upload. Searched. Checked again. And then it goes off for a build.</p>
+"""]]

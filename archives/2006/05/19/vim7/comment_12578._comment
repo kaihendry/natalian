@@ -1,0 +1,13 @@
+
+[[!_comment format=mdwn
+ username="Sean Neakums"
+ subject="202.63.39.120"
+ date="2006-05-19 19:09:01"
+ content="""
+<p>I did something like</p>
+
+<p>:highlight clear SpellBad<br />
+:highlight SpellBad term=underline cterm=underline ctermfg=red</p>
+
+<p>and similarly for the SpellCap etc.</p>
+"""]]

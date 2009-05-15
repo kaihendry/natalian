@@ -1,0 +1,30 @@
+[[!meta title="Navigation" ]]
+[[!meta date="2004-06-21 07:38:00" ]]
+<p>I now have a <a href="http://www.forum.nokia.com/main/0,6566,015_003,00.html">Nokia 3100</a>. There is a bit of story to that, which I will elaborate on, in another post.</p>
+
+<p>After reading through several papers such as <a href="http://www.nokia.com/nokia/0,,53715,00.html">Virpi Roto</a>&#8216;s work about Navigation, I must post about navigating web pages.</p>
+
+<p>Now seeing <a href="http://www.google.com/">Google&#8217;s new user interface</a> and noticing <a href="http://dmoz.org/">dmoz&#8217;s</a> <a href="http://www.google.com/dirhp">directory</a> not listed directly there, it only encourages me to blurt out that everyone simply searches. They do not browse through a zillion categories, especially on the stiff mobile keypad.</p>
+
+<p>For me navigation (tried to get order here) is:</p>
+
+<ol>
+<li>Google</li>
+<li>User agent's back and forward buttons</li>
+<li>Good URI design and hackability</li>
+<li>User agent's PGDN and PGUP</li>
+<li>User agent's Bookmarks</li>
+<li>User agent's Type ahead find</li>
+<li>rss2email's Syndication methods (site feeds, blogs, rss, atom)</li>
+<li>User agent's site navigation toolbar using link elements</li>
+</ol>
+
+<p>And these should work just fine on a mobile device too, except perhaps Type Ahead Find ;). Well designed sites make use of access keys which I would probably make use of on a mobile, but wouldn&#8217;t bother with on a desktop. Anyway, I hope you can see the stress on the User Agent(UA) for navigation, also known as the <span class="caps">XHTML</span> browser.</p>
+
+<p>UAs are the root of all evil, creating a plethora of bad web pages.</p>
+
+<p>The <span class="caps">XHTML</span> browser on my Nokia does not bind back and forward to the logical left and right cursors. Back/Forward broken on  the user agent level&#8230; a new low.</p>
+
+<p>As for knowing where you are, show the <span class="caps">URI</span>. This is what my Nokia does very badly. Show me the <span class="caps">URI</span>! <a href="http://natalian.org/archives/2004/02/12/marquee-mobile/">Marquee</a> it if you have to !</p>
+
+<a href="http://lists.w3.org/Archives/Public/uri/2004Mar/0072.html">It's my belief atm that a good web service should be designed around excellent URIs.</a>

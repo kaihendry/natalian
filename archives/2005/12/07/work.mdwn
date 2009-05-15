@@ -1,0 +1,45 @@
+[[!meta title="IT recruitment & contracting" ]]
+[[!meta date="2005-12-07 11:28:55" ]]
+<p>I have a lot to say about IT recruitment practices. Friends and I have been &#8220;temping&#8221; whilst  travelling so I like to think I have good understanding of how the market works.</p>
+
+<p>The recruiters:</p>
+
+<ul>
+<li>They generally do not know anything about computers</li>
+<li>You&#8217;re really lucky if you manage to avoid these people</li>
+<li>You are worth at <a href="http://www.flatraterecruitment.com.au/">least 5000 <span class="caps">AUD</span> to them</a></li>
+<li>They only care about certain keywords and <strong>years of experience</strong> in a particular industry. Make sure your CV reflects that to catch their eye.</li>
+<li>They sometimes forward you a copy of what their client wants in order for you to manipulate your CV to look better. Man-in-the-middle.</li>
+<li>If they&#8217;re nice they&#8217;ll put your CV into their format and take care of this for you. Not so nice, you&#8217;ll have to do it.</li>
+<li>They might get you to sign a hair-brained <acronym title="Non-disclosure Agreement"><span class="caps">NDA</span></acronym> for the client and then ask exactly what you do during a contract to violate it&#8217;s terms</li>
+<li>You&#8217;ll get paid via these people weekly via an awful timesheet/fax system</li>
+<li>Usually based out of Collins Street in Melbourne</li>
+<li>They won&#8217;t tell you their commission</li>
+<li>They don&#8217;t give a flying fuck about you</li>
+<li>If they sponsor you which they probably will do, you&#8217;ll have to work for them for the next 2 years and no one else. <strong>Sponsorship invalidates your working holiday visa.</strong> Great deal, eh? This will probably screw up any hopes of a pay rise.</li>
+<li>You&#8217;ll need to call them voice instead of emailing them to achieve anything</li>
+</ul>
+
+<p>The company:</p>
+
+<ul>
+<li>Usually clueless</li>
+<li>Too clueless to even put an advertisement on a Website such as <a href="http://www.seek.com.au/">seek</a> or Monster. Though those sites are <strong>rubbish</strong>. That&#8217;s why they need the human touch of <strong>recruiters</strong>.</li>
+<li>Usually large</li>
+<li>Usually have a late/overbudget/<a href="http://www.zdnet.com.au/jobs/resources/soa/Salvage_a_derailed_project_Part_1/0,2000056675,39224711,00.htm?feed=rss">derailed</a> project to work on</li>
+<li>Usually far from <a href="http://natalian.org/archives/2005/08/01/ideal-working-conditions/">ideal working conditions</a> with staff sporting low morale</li>
+<li>Probably high staff turnover in your section</li>
+<li>They don&#8217;t pay in cash. They want company invoices. You should earnestly follow them up on payment if you doing a job directly with them.</li>
+<li>Usually pay by the hour. In Melbourne at least 40AUD an hour. Triple the rate that for some short &#8220;on call&#8221; job.</li>
+<li>Want you to fill in a timesheet. They will probably scrutinize your hours or make you feel guilty for not working exact hours.</li>
+<li>Usually has some clueless manager/supervisor to bother you</li>
+<li>Loaded on painful bullshit speak &#8211; e-commerce, enterprise, portals, firewalls, security</li>
+<li>Really bad communication</li>
+<li>Will have some demented view on security</li>
+<li>Wants you to document stuff in Word or something stupid</li>
+<li>Usually they want you to use Java (if not M$!). Introduction of new (free) technologies with probably scare them</li>
+<li>Other employees aren&#8217;t as friendly as you would like as they know you&#8217;ll temping for something/someone</li>
+<li>If they want to sponsor you, they will have to pay out the recruiter</li>
+</ul>
+
+<p>My advice is to be calm and not afraid to ask for more money and be up front about it. Because ultimately this torture is all about the money.</p>

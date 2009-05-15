@@ -1,0 +1,15 @@
+[[!meta title="Leaving Australia" ]]
+[[!meta date="2006-07-05 19:21:39" ]]
+<p>One of the reasons I left Melbourne is that a job offer with <a href="http://www.sgi.com/"><span class="caps">SGI</span></a> fell through. I knew the company was in dire straights, but this <a href="http://slashdot.org/articles/06/02/09/2311219.shtml">story on slashdot confirms it.</a></p>
+
+<p>They wanted me to work on the interface (a Web application) for their <span class="caps">NFS</span> <a href="http://www.netapp.com/">NetAppliance</a> products.</p>
+
+<p>Another small issue with my employment is that I had to be sponsored <strong>again</strong>, which can be a lengthy and expensive process for me to switch companies. Previously I had a working holiday visa that allowed me to work anywhere basically for up to 3 months. An <a href="http://greythorn.com.au/">evil recruitment agency Greythorn</a> offered to sponsor me early in my stay in Australia and I accepted, without realising I would be <strong>invalidating</strong> my Working Holiday visa. I think I would have chosen to switch to another IT contract, rather than be sponsored <strong>if I knew the consequences</strong>.</p>
+
+<p>So switching companies (to <span class="caps">SGI</span> or whatever) had to begin with a tiresome (for me and my future employer) sponsorship process. Big evil Greythorn actually went through a 3rd party to do this. I can&#8217;t recall the name of the 3rd party company. I had to pay for a chest X-ray and get a certificate of private medical insurance. Even though I do have a reciprocal medicare card because I am a British citizen. <strong>Sigh</strong>.</p>
+
+<p>Sponsorship with one of these specialised 3rd party companies who knows what they are doing takes about 2&#8211;3 weeks at a minimum. Though as mentioned you have to find time for the X-ray and filling in some forms.</p>
+
+<p>I was sick of being tied to my first sponsorship <strong>for two years</strong> and as it was so difficult to switch companies, I thought &#8220;bugger it&#8221; and hence I left Australia and I am now in Korea.</p>
+
+<p>I stayed in Australia for about 9 months and if I did stay an <strong>additional 15 months</strong> I would have been able to apply for residency in Australia and been able to pick and choose my job. <strong>Sponsorships are often abusive</strong> as my employer knew once they sponsored me that they had me by the balls. There is no incentive for them to give me a raise or improve conditions as they know I can&#8217;t switch jobs easily.</p>

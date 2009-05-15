@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Ross"
+ subject="84.12.135.175"
+ date="2006-04-02 23:18:00"
+ content="""
+<p>Highlight then middle click is rapid fire copy and paste, and generally a power-user trick.  C-x C-c and C-v are de facto standards (thanks to Windows and large amounts of Unix software using them): all of <span class="caps">GNOME</span> and <span class="caps">KDE</span> I believe uses the the C-xcv shortcuts.</p>
+
+<p>The only problem is that Firefox breaks middle-click paste&#8230;</p>
+"""]]

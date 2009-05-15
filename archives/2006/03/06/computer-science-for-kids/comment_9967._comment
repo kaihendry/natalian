@@ -1,0 +1,27 @@
+
+[[!_comment format=mdwn
+ username="Benjamin"
+ subject="131.254.50.53"
+ date="2006-03-06 23:55:25"
+ content="""
+<p>&gt; Do you think it is worthwhile to teach programming (Computer Science) to a child?</p>
+
+<p>Oh, yes, I really do. In fact, I taught a bit of computer science twice in school. First time, I taught 7 year-old kids, second time I taught 10-year old kids.</p>
+
+<p>In both cases, I did seven lessons, about one hour each. Outline was as follows:<br />
+1. Opening a computer and naming parts.<br />
+2. Representing numbers in binary.<br />
+3. Representing text in binary.<br />
+4. Simulating a computer (using flashlights to simulate the wires, and communicating in binary).<br />
+5. Introduction to programming, part 1: describing a drawing (using free speech).<br />
+6. Introduction to programming, part 2: describing a drawing (using a grid and a limited set of words).<br />
+7. Simple Logo programming.</p>
+
+<p>Lessons 2, 3 and 5 were highly inspired by &#8220;Computer Science Unplugged&#8221; (see <a href="http://unplugged.canterbury.ac.nz/">http://unplugged.canterbury.ac.nz/</a>). For lesson 7, I used KTurtle as a programming environment (see <a href="http://edu.kde.org/kturtle/">http://edu.kde.org/kturtle/</a>).</p>
+
+<p>For what I know, kids enjoyed those lessons. With more time, I would have continued on Logo programming, since the language is easy enough and the KTurtle environment is well-suited to kids, in that it provides a quick visual feedback to kids without the need for black magic incantation such as &#8220;int main(int argc, char **argv) {...}&#8221;.</p>
+
+<p>&gt; How can we get kids more excited / creative about computer science?</p>
+
+<p>I would recommend you to read &#8220;Computer Science Unplugged&#8221;, which I already mentionned above. I found it a highly valuable reading when I was preparing my lessons for kids. The authors have a nice idea of what can be and what should be taught to children, and how it should be presented. Moreover, they really talk about Computer Science, not only computer stuff.</p>
+"""]]

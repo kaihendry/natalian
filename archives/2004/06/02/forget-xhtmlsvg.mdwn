@@ -1,0 +1,8 @@
+[[!meta title="Forget XHTML+SVG" ]]
+[[!meta date="2004-06-02 15:23:04" ]]
+<a href="http://ln.hixie.ch/?start=1086158925&amp;count=1">
+<blockquote>
+Another point that came out of the discussions is that, in case there was any doubt, Internet Explorer in Longhorn will not support XHTML or SVG. (Microsoft suggested they would need some significantly more comprehensive test suites before they started working on standards compliance again.)
+</blockquote></a>
+
+<p>/me shocked</p>

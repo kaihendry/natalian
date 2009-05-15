@@ -1,0 +1,19 @@
+[[!meta title="Recommended Hosts" ]]
+[[!meta date="2005-10-13 14:50:34" ]]
+<p>Since the end of last month my Finnish accounts at the <a href="http://www.tkk.fi/"><span class="caps">HUT</span></a> and <a href="http://www.helsinki.fi/">Helsinki University</a> and their <a href="http://www.cs.helsinki.fi/">Computer Science department</a> have expired.</p>
+
+<p>For the meantime the files on those accounts will be still there, though my mail won&#8217;t be redirected. So <a href="http://iki.fi/hendry">contact me</a> via my iki.fi account. <a href="http://iki.fi">iki.fi</a> supply a great service. Lifetime redirection, so I doubt my email will ever change.</p>
+
+<p>Anyway, my shell accounts in Finland were about 1000 times better than they were in my previous University <a href="http://www.bath.ac.uk/">Bath.</a> I remember in Bath getting a 20megabyte quota on a stupid Sun machine. <span class="caps">OMFG</span>&#8230;</p>
+
+<p>Initially in Helsinki my quota was a soft 2G limit. By the end when I worked for the department it got quite rediculous. :)</p>
+
+<p>It wasn&#8217;t just the space, the Internet speeds in Finland are stupidly <strong>fast</strong>. As I left the department they had Cat-6ed Gigabit ethernet and it could well be called Gigabit Internet. There wasn&#8217;t any pay-as-you-go limits with Finland either. I remember in Bath the IT staff begging us not to cause traffic. In <a href="http://natalian.org/archives/2005/09/17/on-internet-access/">Australia though, we&#8217;re in the dark ages with people having to pay for inbound data.</a> Argh!! :(</p>
+
+<p>The <a href="http://natalian.org/archives/2004/08/27/cs-setup-notes/">CS environment</a> wasn&#8217;t Debian. It was a RedHat hybrid called <acronym title="Computer Science Linux"><span class="caps">CSL</span></acronym>. <a href="http://www.cs.helsinki.fi/u/jjaakkol/">Jani Jaakola</a> was behind this and I must say he is easily the best Systems Administrator I&#8217;ve encountered. I had a stable desktop, that was far more bleeding edge than Debian stable at the time. Jani by himself did what Helsinki IT and Helsinki University of Technology(HUT) departments couldn&#8217;t. A decent linux desktop.</p>
+
+<p>Another honourable mention is <a href="http://www.cs.helsinki.fi/u/pnikland/">Pekka Niklander.</a> Pekka is the best at what he does. I would regularly visit his office for help as well as a chat. He would be the one who answered my numerous emails to support. I have a lot to thank him for. It is such a pleasure not to worry too much about hardware and the environment and get down to research. Thanks again Pekka.</p>
+
+<p>Damn, I am getting all emotional.</p>
+
+<p>Today I am using Californian based <a href="http://dreamhost.com">Dreamhost</a> for about 80% of my hosting requirements. I was recommended to them by <a href="http://ln.hixie.ch/">Hixie</a> and I thank him for it. I rely on <a href="http://www.kitten-x.com/">Jamie&#8217;s</a> London based <span class="caps">DSL</span>-hosted <a href="http://www.kitten-x.com/pics/itx/mini-itx.htm">AmPC</a> running <strong>unstable</strong> for some things still. At Dreamhost they&#8217;ve recently upgraded to <strong>Debian sarge</strong>, which is nowadays pretty current. They also do <a href="https://panel.dreamhost.com/kbase/index.cgi?area=2585&amp;keyword=backup">hourly, weekly and monthly</a> backups which is super sweet and is on par with <a href="http://natalian.org/archives/2004/08/27/cs-setup-notes/">Helsinki&#8217;s setup.</a> My online digital life comes to about 7G of 16G that my Dreamhost plan offers. 7G basically includes all my <a href="http://trac.natalian.org/browser/">projects,</a> mail and <a href="http://pictures.natalian.org/">pictures.</a> So I am fine for space and I never even get close to my 210G monthly bandwidth limit.</p>

@@ -1,0 +1,41 @@
+[[!meta title="Oracle insight" ]]
+[[!meta date="2005-08-05 10:12:01" ]]
+<pre>
+PLEASE DO NOT REPLY TO THIS E-MAIL.  This e-mail address is not monitored.
+
+<p>This e-mail contains priority desupport information and is being sent to MetaLink users as a service from Obsolescence (desupport services).</p>
+
+<p>The following new desupport advisories &amp; notices have been approved and published for your information:<br />
+ &#8211; Oracle Workflow Cartridge 2.6.x on Application Server and Collaboration Suite<br />
+ &#8211; Specific Database Platforms for E-Business Suites <span class="caps">ALL</span> (Releases)<br />
+ &#8211; Oracle Quality Online (E-Business Suite) All<br />
+ &#8211; Oracle Install Base Intelligence (XNI) (E-Business Suite) All<br />
+ &#8211; Oracle E-Business Suite 11.0.3<br />
+ &#8211; Oracle E-Business Suite 11.5.1 through 11.5.6</p>
+
+<p>The following desupport advisories &amp; notices have been updated and published for your information:<br />
+ &#8211; Oracle Application Server 10g &#8211; 9.0.4<br />
+ &#8211; Oracle&#8217;s Platform Strategy Advisory<br />
+ &#8211; 3rd Party Advisorie for HP Tru64 <span class="caps">UNIX</span> 5.1b</p>
+
+<p>Please review MetaLink Doc ID: 329772.1 for further details on the above.<br />
+MetaLink Location:<br />
+<a href="http://metalink.oracle.com/metalink/plsql/showdoc?db=NOT&amp;id=329772.1">http://metalink.oracle.com/metalink/plsql/showdoc?db=NOT&amp;id=329772.1</a></p>
+
+<p>All desupport advisories and notices are available in Certify (via MetaLink) by following this path:<br />
+&#8220;Certify &amp; Availability&#8221;>"1. View Certifications by Product">&#8220;Desupport Notices&#8221;.</p>
+
+<p>Thank you!<br />
+Obsolescence Administrator<br />
+</pre></p>
+
+<ul>
+<li><span class="caps">PLEASE</span> DO <span class="caps">NOT</span> <span class="caps">REPLY</span> TO <span class="caps">THIS</span> E-MAIL* is absolutely unforgivably idiotic.</li>
+<li>Is <a href="http://www.answers.com/desupport">desupport</a> in the English dictionary? I don&#8217;t think so.</li>
+<li><strong>Advisorie</strong> is spelt Advisory</li>
+<li>URLs you idiots, not *path*s.</li>
+</ul>
+
+<p>I am so infuriated with Oracle and their 10g product. It is such an ugly bitch to maintain. I have to create new databases every now and then for deployment. That alone takes about 3 hours. Then I have to patch it up with the zillions of advisories which takes about 2 days. Their patching system in their Enterprise Console (Web application) generally fails.</p>
+
+<p>What a waste of time and money.</p>

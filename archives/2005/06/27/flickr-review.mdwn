@@ -1,0 +1,15 @@
+[[!meta title="Flickr review" ]]
+[[!meta date="2005-06-27 19:04:08" ]]
+<p>Just playing around with <a href="http://www.flickr.com">Flickr</a> and a <a href="http://www.flickr.com/photos/16105436@N00/">few pictures</a> from my ancient Kodak.</p>
+
+<p>Upload tool win32 was nice, but where is the <strong>download tool</strong>? It seems like a pain to download the original image. I don&#8217;t want to be in a trap. No tie ins!</p>
+
+<p>The interface rocks. But I don&#8217;t like the URLs very much. They&#8217;re crufty.</p>
+
+<p>I want the <a href="http://www.flickr.com/photo_exif.gne?id=21777534"><span class="caps">EXIF</span> information</a> more tightly integrated. Like my <a href="http://trac.natalian.org/browser/projects/pictures2.0/">Web app.</a></p>
+
+<p>Ok a lot of pictures don&#8217;t have <span class="caps">EXIF</span> information or worse, it&#8217;s corrupt or just wrong (data/time misconfigured on a camera). Though a simple tool could help you set/fix the time, with the help of the file modification time.</p>
+
+<p>I like the idea of tagging. But I prefer more general tagging of a <span class="caps">URL</span> (of the picture), like del.icio.us does it.</p>
+
+<p>Slideshow currently in my <a href="http://pictures.natalian.org">pictures</a> sucks. I must write a general app to do a slideshow with a list of URLs.</p>

@@ -1,0 +1,37 @@
+[[!meta title="Patents" ]]
+[[!meta date="2004-07-24 13:21:03" ]]
+<p>This <a href="http://www.iki.fi/q-funk/cgi-bin/blosxom.cgi/2004/07/15#2004-07-13_RMS_in_Estonia">morning I listened to <span class="caps">RMS</span> and <span class="caps">FFII</span>.</a></p>
+
+<p>Patents are a bit more serious than I thought.</p>
+
+<ul>
+<li>You can&#8217;t get around them with clean room implementations.</li>
+<li>They can be granted years after you have implemented them, so prior work clause goes out the window.</li>
+<li>Finding about patents, i.e. <strong>what you can&#8217;t do</strong> is impossible. In fact you can sued for this alone as it&#8217;s all hush hush.</li>
+</ul>
+
+<p>It boils my blood than the <span class="caps">EPO</span> has already filed something like 30000 of these illegally. The <a href="http://epo.org"><span class="caps">EPO</span></a> treats patent applicants as their customers, not the public.</p>
+
+<p><span class="caps">PNG</span> is actually pronounced &#8220;ping&#8221;. <span class="caps">RMS</span> called <span class="caps">PNG</span> is Not <span class="caps">GIF</span>. Urm, makes sense. Pity IE has never got around to implementing the transparency features.</p>
+
+<p>MPEG2 has something around 30 patents associated with it. <span class="caps">JPEG</span> can&#8217;t improve on the standard due to the patent minefield. :/</p>
+
+<p>And as <span class="caps">RMS</span> dramatically points out: Software patents can explode again and again unlike land mines.</p>
+
+<p>Solution wise, reducing patents is not the answer. One patent is still a risk. He hoped that <span class="caps">USA</span> would find themselves at a competitive disadvantage with Europe <strong>IF</strong> Europe does not adopt the same harmful software patent laws.</p>
+
+<p>My cousin works for a very big pharmaceutical company and I often find myself in arguments with her. <span class="caps">RMS</span> did talk about how patents worked with these companies. Patents make a lot more sense here as they can patent matter constructs. They are easier to read and they take a lot of money to make these constructs and get them approved. It&#8217;s close to what patents are supposed to do, but nowadays a drug firm can invent a new drug and find it patented. Hmmm, I wish some of these bits were clarified.</p>
+
+<p>That&#8217;s pharmaceuticals, <strong>programming is different</strong>:<br />
+* idealised maths (things can be expressed differently)<br />
+* easier<br />
+* million parts is not unusual<br />
+* many more ideas</p>
+
+<p><a href="http://researchoninnovation.org/">Patents retard progress.</a></p>
+
+<p>One thought I was having after the talk was Web Applications. Patents encourage you to keep your source closed, as you do not want to expose your source code and leave yourself open to litigation. You could get around patents <span class="caps">PERHAPS</span> if you placed your web application outside a country that supported software patents. But that&#8217;s complicated and will ultimately give your customers a slower response.</p>
+
+<p>It seems as though nowadays you have to ask how many programmers <strong>and lawyers</strong> you need to program something. I am wondering how to spread this message about how bad patents are for my industry. It be would great to see some sort of <span class="caps">PATENT</span> <span class="caps">BUSINESS</span> <span class="caps">COUNT</span> for the states as that is easy to show someone. Easier than explaining the absurdity of software patents. But then again many companies might somehow avoid litigation with a settlement which you do not hear about. Or take on a couple of parasitic licenses that you do not hear about&#8230;</p>
+
+<p>I need to write shorter blogs. Sorry. Finally I found your <a href="http://webshop.ffii.org/">webshop is patented</a> quite a good piece of material to show people.</p>

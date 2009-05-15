@@ -1,0 +1,15 @@
+[[!meta title="Oracle rant" ]]
+[[!meta date="2005-06-20 12:15:55" ]]
+<p>What a hunk of crap. <a href="http://www.mysql.com/">Mysql</a> can <a href="http://wikipedia.org/">scale.</a></p>
+
+<p>You have to install the Oracle software <a href="https://www.redhat.com/archives/nahant-list/2005-June/msg00247.html">10g in my case</a> via a <span class="caps">JAVA</span> <span class="caps">GUI</span> in X.</p>
+
+<p>Now if you are a remotely serious company you will have a dedicated host in a proper facility.</p>
+
+<p><strong>Where bandwidth costs.</strong></p>
+
+<p><a href="http://linuxfinances.info/info/xbloat.html">X has a god awful server client design <span class="caps">IMO</span>.</a> <a href="http://catalog.com/hopkins/unix-haters/x-windows/disaster.html">It&#8217;s complicated and the network protocol <span class="caps">EATS</span> Gigabytes of bandwidth.</a></p>
+
+<p>The Oracle installation takes <span class="caps">HOURS</span>. Despite the hype with the &#8220;Red Hat and Oracle partnership&#8221; their installer does nothing to integrate with Red Hat or the <span class="caps">FHS</span> for that matter.</p>
+
+<p>It&#8217;s 2.2 Gig once it is installed. I&#8217;ll be probably installing it from a scp-ed over tar of the CD via <span class="caps">VNC</span>.</p>

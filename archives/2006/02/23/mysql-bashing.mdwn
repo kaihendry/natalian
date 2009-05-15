@@ -1,0 +1,18 @@
+[[!meta title="Mysql bashing" ]]
+[[!meta date="2006-02-27 19:15:01" ]]
+<a href="http://www.flickr.com/photos/hendry/102462439/" title="Photo Sharing"><img src="http://static.flickr.com/40/102462439_72266dc573_m.jpg" width="180" height="240" alt="Pouring soju" /></a>
+
+<p>I wrote a couple of bash scripts to insert and update information into a mysql database.</p>
+
+<ol>
+<li><a href="http://trac.natalian.org/browser/projects/imagetrack">Imagetrack</a></li>
+<li><a href="http://trac.natalian.org/browser/projects/pyblosxom2wordpress">pyblosxom2wordpress</a></li>
+</ol>
+
+<p>They are both disappointingly slow interfacing with the <strong>mysql client</strong>. Though with the help of imagetrack, I&#8217;ve managed to collate information of about 20000 images of mine on different machines in an hour. I hope to do some analysis with this information. Like figure out which images are corrupted or have had their <span class="caps">EXIF</span> mashed or their time wrong.</p>
+
+<p>pyblosxom2wordpress is a script to insert <a href="http://db.cs.helsinki.fi/~hendry/log/">old blog</a> entries from my <a href="http://pyblosxom.sourceforge.net/">previous blogging system pybloxsom.</a> This has been on my <span class="caps">TODO</span> for a long time.</p>
+
+<p>Finally I got around to doing it. Most of the old blog entries are quite embarrassing. Oh well, they&#8217;re are all here now. One could use the script to continue writing their blog in a blosxom fashion and periodically run my script to insert the new entries.</p>
+
+<p>Whilst examining the Wordpress MySQL <span class="caps">DDL</span>, I found it could do with some better restraints. Perhaps they kept it loose for other DBMSes.</p>

@@ -1,0 +1,22 @@
+[[!meta title="PIMples" ]]
+[[!meta date="2007-07-30 22:59:01" ]]
+<p>When I studied at <a href="http://www.bath.ac.uk/">Bath University</a>, the computer science software project was to implement a <a href="http://en.wikipedia.org/wiki/Personal_information_manager"><span class="caps">PIM</span></a> suite. I laughed and joked as I thought to myself, this would be easy. There are hundreds of examples of addressbooks and calendars. Simple stuff, I thought. I wrote a <span class="caps">PIM</span> suite with the help of Microsoft VB and it sucked. It basically did what is supposed to do, but it was &#8220;throw away&#8221; software. I learnt a lot.</p>
+
+<p>Couple of years ago I advised it was a <strong>bad idea</strong> to re-implement (or port) <span class="caps">PIM</span> applications for a certain mobile device linux platform, while <a href="http://hendry.iki.fi/cv">I was working</a> for a Japanese company.</p>
+
+<p>I suggested then, we should focus on the <strong>mobile Web browser</strong>, and let other people implement <span class="caps">PIM</span> applications as Web applications. I envisioned the mobile interface would look something like:</p>
+
+<a href="http://www.flickr.com/photos/hendry/845129157/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1188/845129157_824320ad82_m.jpg" width="240" height="180" alt="The Web" /></a>
+
+<p>One year ago I suggested the same to the <a href="http://openmoko.org/">Openmoko project</a>. They still went ahead and implemented their own <span class="caps">PIM</span> applications for their platform.</p>
+
+<p>And now judging by the <a href="http://www.gnome.org/mobile/">Gnome mobile</a> project, <a href="https://wiki.ubuntu.com/MobileAndEmbedded">Ubuntu</a> will effectively do the same. I find this so odd and frustrating, especially since the <a href="http://web.glandium.org/blog/?p=149">Guadec &#8216;07 keynote</a> was all about how their making their &#8220;desktop&#8221; more Web integrated. Just use a browser!</p>
+
+<p>Looking at:</p>
+
+<a href="http://www.flickr.com/photos/hendry/955576387/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1090/955576387_3e346569fb_o.png" width="550" height="400" alt="Gnome Mobile Platform" /></a>
+
+<p>It seems like they are encouraging developers to use C, C++ and Python. <strong>No</strong>, you should be encourage developers to write Web applications, like the <a href="http://natalian.org/archives/2007/07/11/iphone/">iphone</a>. <br />
+At the bottom of <a href="http://www.gnome.org/mobile/"><a href="http://www.gnome.org/mobile/">http://www.gnome.org/mobile/</a></a> there is hope&#8230; under <strong>Technologies for Consideration</strong> they list a <a href="http://browser.garage.maemo.org/">gecko mobile build</a> and <a href="http://webkit.org/">webkit</a> which was well implemented on the <a href="http://en.wikipedia.org/wiki/Web_Browser_for_S60">S60 as the &#8216;Web&#8217; browser</a>.</p>
+
+<p>3rd party Web application <span class="caps">PIM</span> services won&#8217;t suffer too much from the constraints of the mobile device. I am hoping the days of using buggy, limited mobile PIMs that tend to lock up your data are numbered for users. And mobile platform developers can just concentrate on providing a great Web experience instead of wasting time developing, maintaining and supporting a &#8220;broken by design&#8221; <span class="caps">PIM</span> suite.</p>

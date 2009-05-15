@@ -1,0 +1,16 @@
+[[!meta title="Mobile hardware cost breakdown" ]]
+[[!meta date="2008-03-12 10:10:00" ]]
+<p>I just cleaned my desk from MWC2008 stuff and I noticed some notes I took down whilst speaking with an interesting French <a href="http://www.open-plug.com/">Openplug engineer</a>.</p>
+
+<p>He told me, in order of expense:</p>
+
+<p>1. Screen<br />
+2. <span class="caps">CPU</span><br />
+3. Memory<br />
+* <a href="http://en.wikipedia.org/wiki/Random_access_memory"><span class="caps">RAM</span></a><br />
+* <a href="http://en.wikipedia.org/wiki/NAND_flash#NOR_memories">NORflash</a><br />
+* <a href="http://en.wikipedia.org/wiki/NAND_flash#NOR_memories/"><span class="caps">NAND</span><a></p>
+
+<p>I&#8217;m not sure what are the prices for each. Any ideas?</p>
+
+<p>You might interested in my earlier <a href="http://natalian.org/archives/2008/01/14/media-prices-per-gigabyte/">media price survery</a> too. :)</p>

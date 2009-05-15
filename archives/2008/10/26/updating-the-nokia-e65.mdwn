@@ -1,0 +1,25 @@
+[[!meta title="Updating the Nokia E65" ]]
+[[!meta date="2008-10-27 12:51:26" ]]
+<a href="http://www.flickr.com/photos/hendry/2975024881/" title="Nokia update tool by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3067/2975024881_7725541ba1_m.jpg" width="240" height="138" alt="Nokia update tool" /></a>
+
+<p>My <a href="http://stats.getjar.com/device/Nokia/E65">Nokia E65</a> is at the <a href="http://natalian.org/archives/2007/05/15/nokia-e65-from-3/">end of its 18 month contract</a>, so I <a href="http://www.three.co.uk/unlock">unlocked my mobile from <span class="caps">HTG</span> Three</a> for 15GBP.</p>
+
+<p>Since unlocking I thought I should boot Win32 in VMware and give <a href="http://natalian.org/archives/2008/04/02/threes-unfair-lockup/">firmware upgrading the E65 another try&#8230;</a></p>
+
+<p>I found this <a href="http://symbianv3.com/nokia-e65-firmware-update-v206336501/">firmware update page</a> a good start. I downloaded <a href="http://europe.nokia.com/softwareupdate">the Nokia updater</a> and then found that <a href="http://flickr.com/photos/hendry/2975880132/in/set-72157608395606819/">I was up-to-date on the 1.x firmware</a>. Ummm, <strong>no</strong> there is 3.x firmware available. What I needed to do now was change the product code to <strong>0536850</strong> from the <a href="http://en.wikipedia.org/wiki/3_(telecommunications)">Three specific</a> product code 0545395.</p>
+
+<p>This free <a href="http://flickr.com/photos/hendry/2975880336/in/set-72157608395606819/">Nemesis</a> tool <a href="http://www.b-phreaks.co.uk/index.php?main_page=page_2">download</a> allowed me to overwrite the product code. Though it was a dodgy process. The cable seems a little flaky and the phone kept on asking about a &#8220;PC Suite connection&#8221;.</p>
+
+<p>However this time I was prompted to install the 3.x firmware! Oh yes. First I backed up my contacts with <a href="http://zyb.com/">Zyb</a> and then away I went. I almost had a nervous breakdown when the phone <strong>lost</strong> connection and on a restart the flash looked <a href="http://en.wikipedia.org/wiki/Bricked">bricked</a>. It was extremely &#8216;touch and go&#8217; and then again by some miracle a PC Suite dialog re-appeared and the update completed. Hallelujah.</p>
+
+<a href="http://www.flickr.com/photos/hendry/2975052039/" title="Upgrade success! by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3055/2975052039_293b9b4294_m.jpg" width="180" height="240" alt="Upgrade success!" /></a>
+
+<p>So the phone is now a clean slate. I synchronized with Zyb again (by logging in and getting them to send me an <span class="caps">SMS</span> with my settings) to get all my contacts back. I lost some poor quality pictures, oh well. I fiddled around getting the soft keys setup how I like them (New msg. &amp; Web) and installed <a href="http://m.google.co.uk/">Google maps</a>. Now I&#8217;m all set.</p>
+
+<p>Only took a couple of hours of trauma. Not convinced yet if the phone software is really any better. The <a href="http://opensource.nokia.com/projects/S60browser/">S60 browser</a> <a href="http://flickr.com/photos/hendry/2975052055/">looks the same</a>. Nokia drops in some <a href="http://www.nokiaforbusiness.mobi">very sad &#8220;nokiaforbusiness&#8221; dotMobi site</a>. No clue.</p>
+
+<p>So now I plan to go <strike><span class="caps">PAYG</span></strike><span class="caps">PAYT</span> with <a href="http://flickr.com/photos/hendry/2975907500/">Vodafone</a> until <a href="http://www.t-mobile.co.uk/g1-with-google-phone/buy/">T-mobile fumbles out the release of the Gphone</a>. Since I <a href="http://laforge.gnumonks.org/weblog/2008/10/23/#20081023-android">can&#8217;t write native applications in Android</a> I might not rush to buy it. <a href="http://ln.hixie.ch/?start=1222833033&amp;count=1">Hixie</a> survives with just his <a href="http://flickr.com/photos/hendry/2398552896/">Ipod touch</a>. I should be able to do the same with mine and the E65, though 3G data is still unaffordable unless on some monthly subscription plan in the UK. Sigh&#8230; Update: Just discovered my <a href="http://en.wikipedia.org/wiki/Nokia_E65">Nokia E65</a> is not a <a href="http://en.wikipedia.org/wiki/HSPDA"><span class="caps">HSPDA</span></a> device&#8230; doh&#8230;</p>
+
+<p>I wish I could buy mobile devices outright at a reasonable price and get <a href="http://en.wikipedia.org/wiki/HSPDA">3G data</a> on pre-paid at a reasonable price too. I&#8217;m really tired of long &#8216;strings attached&#8217; contracts &amp; software environments&#8230; want to be free to innovate.</p>
+
+<p>Let&#8217;s be honest. The lowest common denominator mobile text platform between my friends and I is still <span class="caps">SMS</span>. And it&#8217;s likely to stay that way considering <span class="caps">SMS</span> is how operators love to make money and the expense of smartphone devices.</p>

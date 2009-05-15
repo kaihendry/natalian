@@ -1,0 +1,19 @@
+[[!meta title="So close yet so far" ]]
+[[!meta date="2007-01-25 23:01:33" ]]
+<a href="http://www.flickr.com/photos/hendry/147420005/" title="Photo Sharing"><img src="http://static.flickr.com/51/147420005_fb47ae8b08_m.jpg" width="240" height="180" alt="Cubicle hell" /></a>
+
+<p>So I need to write a report.</p>
+
+<p>I can&#8217;t write it in <span class="caps">HTML</span> because it will print badly from a browser. And editing <span class="caps">HTML</span> can be a pain. There is <a href="http://www.princexml.com/samples/">princexml</a> but that costs a couple of hundred dollars.</p>
+
+<p>I don&#8217;t want to edit in <span class="caps">ODF</span> because then I would have to use a hunk-of-crap <span class="caps">WYSIWYG</span> editor like Openoffice. <strong>Hell no</strong>. Also I have no experience of how <span class="caps">ODF</span> maps to the Web. Pretty badly I&#8217;ll assume.</p>
+
+<p>There is stuff like textile, markdown and reStructuredText, but what&#8217;s the point? They only seem to generate good <span class="caps">HTML</span>. So we are still left with the <strong>printing beautifully to A4 problem</strong>.</p>
+
+<p>Ok there is good old &#8220;tex&#8221;. But really I don&#8217;t want to go back there! Do I really have to use latex? It&#8217;s just so <a href="http://modeemi.cs.tut.fi/~tuomov/b/archives/2006/04/14/T18_33_42/">heavy and you can&#8217;t publish to <span class="caps">HTML</span> easily.</a> Argh!</p>
+
+<p>Docbook. Hell no. It&#8217;s a dark art to control how the formats finally look. Trust me, <a href="http://hendry.iki.fi/cv/">I have experience.</a></p>
+
+<p>I had this thought that there must be some good mediawiki/wikipedia article printer tool. Maybe I can write this in <a href="http://www.mediawiki.org/wiki/MediaWiki">mediawiki</a> with the help of mozex and vim. <strong>Oh no</strong>. The Debian package is still b0rked on 1.4. Argh&#8230;</p>
+
+<p>I just wish there was a better mapping between the <a href="http://whatwg.org/">web</a> and office formats like <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">odf.</a></p>

@@ -1,0 +1,7 @@
+[[!meta title="Bloat" ]]
+[[!meta date="2005-09-22 16:25:21" ]]
+<p>So I am trying to making a Windows Icon for this swing client at work. I doubt they are the same as the .ICO favicon so I thought I just download the old favourite. Paint Shop Pro.</p>
+
+<p>But:</p>
+
+<p><a href="http://www.corel.com/servlet/Satellite?pagename=Corel3/Trials/DownloadContainer&amp;cid=1047025490241&amp;pid=1047025487586&amp;nl=1&amp;trkid=cnetpspfree">Paint shop Pro is more than a 100 <span class="caps">MEGS</span>!?</a></p>

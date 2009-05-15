@@ -1,0 +1,17 @@
+[[!meta title="Video delivery sucks" ]]
+[[!meta date="2006-10-01 06:27:20" ]]
+<p>So I am in Argentina and this French girl in our hostel has this <strong>huge</strong> Dell Inspiron 9400 for us to watch a <span class="caps">DVD</span> on.</p>
+
+<p>Excitedly we go and get a <span class="caps">DVD</span> from a local rental, but unfortunately the <span class="caps">DVD</span> won&#8217;t play. Region locking.</p>
+
+<p>Now how does one fix this? Everything is in French on her Windows machine and I haven&#8217;t got a clue what region Argentina is supposed to be in or what region France (I assume is) in.</p>
+
+<p>My faithful X40 doesn&#8217;t even have a CD drive. I hate DVDs and CDs in general because the media is so incredibly prone to failure.</p>
+
+<p>I want the movie as an 700mb <span class="caps">AVI</span> file, though people here tend to have DVDs.</p>
+
+<p>I guess one of the reasons why is because DVDs are very good for subtitles and optional language audio tracks. <span class="caps">DVD</span> rips should keep the original audio, though some rips can screw up the subtitles. I still have not figured out how to rip subtitles from the foreign titles I&#8217;ve come across in Debian.</p>
+
+<p>I&#8217;ve been using Youtube and Google video for awhile, though here in Argentina my <span class="caps">WIFI</span> connection seems too unstable for pleasant playback. Plus the resolution is still far from 1024&#215;768 which it really needs to be closer to. Though I imagine this being the best way to deliver video for greedy Hollywood without resorting to digital restriction management. Though in order for this method to really work, the Internet has to get a lot faster!!</p>
+
+<p>I still don&#8217;t know of an easier way to download movies, than say <a href="http://mininova.org/">mininova</a>. I&#8217;m not enthralled by mininova&#8217;s selection or quality for that matter. Those assholes who put passwords on rar files should be shot. I wouldn&#8217;t mind paying say the same price to rent a movie to download and watch it in my computer. You&#8217;ll have to trust me that I usually delete the movies after I watch them.</p>

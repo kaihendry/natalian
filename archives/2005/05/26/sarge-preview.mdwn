@@ -1,0 +1,17 @@
+[[!meta title="Sarge preview" ]]
+[[!meta date="2005-05-26 09:40:26" ]]
+<p>Yesterday I gave sarge a whirl from the 8 meg <a href="http://ftp.debian.org/debian/dists/testing/main/installer-i386/rc3/images/netboot/mini.iso">mini.iso</a> and VMWare.</p>
+
+<p>Couple of things that disagreed with me about the install:</p>
+
+<p>* <a href="http://hendry.iki.fi/media/2005/5/libc-what.jpg">Strange message regarding libc and maildirs.</a><br />
+ * Oh darn, <a href="http://hendry.iki.fi/media/2005/5/damnno-vid-detection.jpg">no Video detection.</a> That is going to thwart some newbies.<br />
+ * And, grr, <a href="http://hendry.iki.fi/media/2005/5/no-firefox.jpg">No firefox.</a></p>
+
+<p>The Ubuntu feature of setting up a sudo user by default was quite nice. I wish sarge incorporated that too. I didn&#8217;t recall being able to choose <strong>unstable</strong> for the sources.list. Hmmm&#8230;</p>
+
+<p>Otherwise looking good. I&#8217;ll have to investigate that <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=268192">libc-client thing, it is a RC bug imo.</a></p>
+
+<p><strong>Update</strong>: Oops, not going to happen due to <a href="http://release.debian.org/sarge_rc_policy.txt">sarge RC policy.</a></p>
+
+<p>Also: I also don&#8217;t like how the <strong>xterm</strong> package is not installed by default and how I had to generate a UTF8 locale for uxterm manually.</p>

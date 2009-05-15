@@ -1,0 +1,19 @@
+[[!meta title="World cup with no TV" ]]
+[[!meta date="2006-07-06 06:04:41" ]]
+<p>I&#8217;m quite excited about watching the Football World cup on the eve of its <a href="http://fifaworldcup.yahoo.com/06/en/w/schedule.html">schedule</a> kicking off.</p>
+
+<p>Though I am a little worried how I am going to watch it, as I don&#8217;t have a TV. *I hate TV*s and I don&#8217;t want one and I&#8217;ve successfully lived without one for almost 5 years.</p>
+
+<p>Admittedly when I see a TV at a friend&#8217;s place I am glued to it like a young child in awe. Well, that&#8217;s the problem. I don&#8217;t want to waste time with it.</p>
+
+<p>Admittedly I was looking around my building&#8217;s recycling depot in case someone recently upgraded their TV and threw out their old one. No such luck.</p>
+
+<p>I also had a look at <a href="http://linuxtv.org/wiki/index.php/First_steps_with_a_budget_DVB_card"><span class="caps">DVB</span></a> since it is used widely in Seoul. Though the <span class="caps">USB</span> device for my X40 costs 70USD and I wasn&#8217;t sure I could get it working under Linux.</p>
+
+<p>So my idea is to watch the world cup with the help of a <strong>bit torrent</strong> site like <a href="http://mininova.org/">mininova.org.</a> I prefer watching video this way as I can watch it at 3x speed and quickly watch the highlights. Though I will dearly miss <a href="http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/default.stm"><span class="caps">BBC</span>&#8216;s coverage</a>.  Esp. the commentary. Pity their Real/Windows media service sucks so much. And its only available in the UK. Daft.</p>
+
+<p>I also will be endeavouring to go out to watch the games. Probably somewhere in Itaewon with the rest of the expats. Though this will be difficult in the early hours of the morning. And I am not a fan of &#8220;live&#8221; games either. I don&#8217;t like hearing yobs spouting obscenities and smoke in my presence during a game.</p>
+
+<p>Oh well, wish me luck and er&#8230; England!</p>
+
+<p>Update: I&#8217;ve rebroadcasting <a href="http://natalian.org/archives/2006/06/15/bbc-radio-5-live/">Radio5</a> for people wanting to catch the World cup on the Radio who aren&#8217;t in the UK.</p>

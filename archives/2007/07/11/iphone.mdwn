@@ -1,0 +1,24 @@
+[[!meta title="Iphone" ]]
+[[!meta date="2007-10-07 22:09:16" ]]
+<a href="http://www.flickr.com/photos/hendry/764055728/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1272/764055728_d3b5975e30_m.jpg" width="180" height="240" alt="Ruth with an Iphone" /></a>
+
+<p>Last night I read the <a href="http://developer.apple.com/iphone/designingcontent.html">Iphone developer guide</a>. I noticed that:</p>
+
+<ul>
+<li>Iphone doesn&#8217;t allow uploads :( so how do people share pictures and stuff?</li>
+<li>No flash or Java. Good.</li>
+<li>Does video with its own formats and size (bad), with good things like byte-range requests. Now if there was support for &#8220;byte-range requests for bitmap images&#8221; like <a href="http://en.wikipedia.org/wiki/Jpeg2000">Jpeg2000</a>&#8230;</li>
+<li>Does support <span class="caps">PDF</span>. <em>sigh</em></li>
+<li>The <a href="http://www.whatwg.org/"><span class="caps">WHATWG</span></a> is highlighted :)</li>
+<li><a href="http://www.w3.org/TR/css3-mediaqueries/"><span class="caps">CSS</span> media queries</a> seem to work with this, e.g. media=&#8220;only screen and (max-device-width: 480px)&#8221;</li>
+<li>tel:1&#8211;408-555&#8211;5555 is how you mark up a telephone number &#8211; see my <a href="http://hendry.iki.fi/">homepage for a tel with hCard example</a></li>
+<li>It does support .mobi and <span class="caps">XHTML</span> mobile profile if you&#8217;re stupid enough to use limited and device dependent markup.</li>
+</ul>
+
+<p>In other news I am trying to highlight the <a href="http://en.wikipedia.org/wiki/.mobi#Disadvantages_of_.mobi">disadvantages of .mobi</a> on Wikipedia, though some vandal is making it very hard to get the facts out.</p>
+
+<p>I like <a href="http://www.torgo.com/blog/2007/07/the-iphone-dotmobi-and-the-future-of-the-mobile-web.html">others</a> think the Iphone will help push the Web out to a mobile platform with their Safari browser on Iphone doing a decent implementation of Web standards. Good riddance mobile specific crap! <strong>One Web for all devices!</strong></p>
+
+<p>Update:<br />
+* <span class="caps">OMG</span> <a href="http://www.russellbeattie.com/blog/i-dot-thoughts">Russell Beattie is back!</a> <br />
+* <a href="http://directorblue.blogspot.com/2007/07/whats-hidden-in-iphones-fine-print.html">The wireless network will probably let the product down a bit</a> &#8211; like <a href="http://en.wikipedia.org/wiki/3_%28telecommunications%29">3 has let me down</a></p>

@@ -1,0 +1,13 @@
+[[!meta title="Hi" ]]
+[[!meta date="2004-01-15 00:53:54" ]]
+<p>My name is Kai, and I am a Natalian.</p>
+
+<a href="http://db.cs.helsinki.fi/~hendry/log/">Kai's old blog</a> is here. 
+
+<p><span class="caps">TODO</span></p>
+
+<ol>
+        <li>I will be migrating my posts over.</li>
+	<li>I will be sorting out my picture collection.</li>
+	<li>I will modify this default template and slip in my <em>marist</em> style sheet.</li>
+</ol>

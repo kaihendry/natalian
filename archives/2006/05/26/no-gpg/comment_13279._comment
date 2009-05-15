@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Joe Buck"
+ subject="71.131.58.46"
+ date="2006-05-26 15:50:27"
+ content="""
+<p>How do you propose to authenticate uploads?  By giving people a password on the upload machine, so that anyone who cracks it can load malware on all Debian users&#8217; machines and not be traced?</p>
+
+<p>If you don&#8217;t like <span class="caps">GPG</span>, propose a realistic alternative.  If you think that the web of trust is daft, please explain why; I suspect that you don&#8217;t understand it.</p>
+"""]]

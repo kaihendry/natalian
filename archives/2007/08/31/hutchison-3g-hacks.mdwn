@@ -1,0 +1,21 @@
+[[!meta title="Hutchison 3G hacks" ]]
+[[!meta date="2007-09-02 12:34:40" ]]
+<a href="http://www.flickr.com/photos/hendry/1277489967/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1012/1277489967_e740dc57da_m.jpg" width="240" height="180" alt="My phone bill" /></a>
+
+<p>I have a couple of tips for <a href="http://natalian.org/archives/2007/05/15/nokia-e65-from-3/">Hutchison Three X-series users</a> to share.</p>
+
+<p>Call customer services on 333 and ask that they:<br />
+* Disable voice mail &#8211; it costs and it&#8217;s useless (and annoying) by my standards<br />
+* Disable directory enquiries and any other &#8220;premium number&#8221;</p>
+
+<p>Premium numbers include 0845 (lo-call numbers!). I accidentally called their directory enquiries number and was charged <a href="http://flickr.com/photos/hendry/1277486993/">1.915 <span class="caps">GBP</span> ex-VAT</a>!</p>
+
+<p>I did try Three&#8217;s customer services about this miss-dial issue and they were very unhelpful. :(</p>
+
+<p>So what do you do when you want to call an 0845 number, once you&#8217;ve disabled them? I recommend activating <a href="http://www.truphone.com/">Truphone</a> on your handset for such calls.</p>
+
+<p>Since I now have a <a href="http://natalian.org/archives/2007/08/28/mbp-versus-x40/">Macbook</a> I hoped to use my Nokia E65 as a modem</a> and take advantage of my unlimited internet plan as <a href="http://flickr.com/photos/hendry/871604165/">I currently hardly use it</a>. To my disappointment, I discovered it doesn&#8217;t work unless you buy an <a href="http://www.smstextnews.com/2007/08/3_launch_10month_mobile_broadband.html">10GBP a month upgrade</a>.</p>
+
+<p>I think this is ridiculous as I assumed I could use my E65 as a modem with a laptop when I first purchased it. 10GBP extra a month to some might sound worth it, but I already have broadband at home and work. I am not switching to high latency 25kB/sec (optimal) 3G wireless!! Who would?!</p>
+
+<p>And where would I be using 3G data with my laptop? On infrequent train journeys in the UK where 3G connections can be described as patchy at best.</p>

@@ -1,0 +1,17 @@
+[[!meta title="CONSENSUS" ]]
+[[!meta date="2004-05-25 09:32:00" ]]
+<p>I learnt if you want free access to UAProfiles of mobile specifications, I need to go for <a href="http://lists.w3.org/Archives/Public/www-di/2004May/0007.html">comprehensive commercial implementations</a>. UAProfiles is such a joke. No ordinary person is going to out their way to adapt content to the myriad of (almost) unparsable UAProfiles. The whole <a href="http://ln.hixie.ch/?start=1085056751&amp;count=1">profile thang indicates a poor technology</a>.</p>
+
+<p>Now an <a href="http://lists.w3.org/Archives/Public/www-di/2004May/0004.html">announcement</a> about <a href="http://www-124.ibm.com/developerworks/oss/consensus/index.html"><span class="caps">CONSENSUS</span></a> on <a href="http://lists.w3.org/Archives/Public/www-di/">w3-di list</a>, tells of <span class="caps">RIML</span> and the <a href="http://www.consensus-online.org/"><span class="caps">CONSENSUS</span> consortium.</a> I am always <span class="caps">SUPER</span> wary of new <span class="caps">XML</span> based languages, and even more so of a consortium doing web related specifications which is not W3C.</p>
+
+<p>Hmmm, there seems to be a <a href="http://www.google.com/custom?q=RIML&amp;sa=Go&amp;cof=T%3Ablack%3BLW%3A72%3BALC%3A%23ff3300%3BL%3Ahttp%3A%2F%2Fwww.w3.org%2FIcons%2Fw3c_home%3BLC%3A%23000099%3BLH%3A48%3BBGC%3Awhite%3BAH%3Aleft%3BVLC%3A%23660066%3BGL%3A0%3BAWFID%3A0b9847e42caf283e%3B&amp;sitesearch=www.w3.org&amp;domains=www.w3.org">position paper indicating it is from those playas Nokia, <span class="caps">SAP</span> and <span class="caps">IBM</span> (amongst others).</a></p>
+
+<p>Ok so looking at <span class="caps">RIML</span>&#8230; it seems to implement some webstandards and UAProfiles in Java with an opensource (IBM) license. From what I can quickly see it uses UAProfiles to group various mobile devices into DeviceClasses and then serves hard coded content to them.</p>
+
+<a href="http://www-124.ibm.com/developerworks/oss/cvs/consensus/~checkout~/TestApplications/mPirreDemo/mPirrePicture.riml?rev=1.1.1.1&amp;content-type=text/plain">
+What's adaptive about this picture code?</a> You still have to define resolutions by hand.
+
+<a href="http://www-124.ibm.com/developerworks/oss/cvs/consensus/~checkout~/TestApplications/mPirreDemo/mPirreRMultiple.riml?rev=1.1.1.1&amp;content-type=text/plain">
+What's clever about mixing content and adaption definitions WITH tables?</a> (They really should have used a definition list IMO, as it tends to flow text better. Tables really suck for device independence.)
+
+<p>Alas, no surprises. I would like to demo their services, or at least see some screenies. To me, it&#8217;s unimpressive. Don&#8217;t get me wrong, this isn&#8217;t a dig at the implementation. I am more dissapointed that people actually bothered to implement UAProfiles. The real problem is the User Agents. There is no way you can expect people using UAProfile adaption engines to categorize and serve content to quirky heterogeneous mobile phones UAs. If there was a central repositry where people can pull out info to deal with broken UAs then fine. That&#8217;s a workable hack. But if you expect everyone to do it, then you are <span class="caps">BONKERS</span>. It&#8217;s never going to work.</p>

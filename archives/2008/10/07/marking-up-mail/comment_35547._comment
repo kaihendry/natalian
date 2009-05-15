@@ -1,0 +1,15 @@
+
+[[!_comment format=mdwn
+ username="Baz"
+ subject="62.254.185.130"
+ date="2008-10-10 16:00:08"
+ content="""
+<p>There&#8217;s also mod_mbox from apache:<br />
+<a href="http://httpd.apache.org/mod_mbox/">http://httpd.apache.org/mod_mbox/</a></p>
+
+<p>&#8230;which sucks (there&#8217;s no search, no way to link to a thread rather than a message, browsing from message view to its thread loses context, etc). For a while some of the projects there used eyebrowse:</p>
+
+<p><a href="http://eyebrowse.tigris.org/">http://eyebrowse.tigris.org/</a></p>
+
+<p>&#8230;which sucks harder &#8211; mails kept going missing from its index before apache abandoned it.</p>
+"""]]

@@ -1,0 +1,7 @@
+[[!meta title="Wordpress 2.0.2" ]]
+[[!meta date="2006-03-14 12:30:44" ]]
+<p>Yes, I&#8217;m well aware of the <a href="http://wordpress.org/development/2006/03/security-202/">2.0.2 release of wordpress.</a></p>
+
+<p>Packages are <a href="http://hendry.iki.fi/debian/">ready</a> and I am waiting on my usual sponsor Fabio Tranchitella to upload them to unstable.</p>
+
+<p>I wonder when I&#8217;ll get an <a href="https://nm.debian.org/nmstatus.php?email=hendry%40iki.fi">AM.</a> More than 2 years now in the process.</p>

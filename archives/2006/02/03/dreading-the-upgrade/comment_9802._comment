@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Russ"
+ subject="20.137.146.50"
+ date="2006-02-04 04:32:22"
+ content="""
+<p>Get the ubuntu live cd, and an external <span class="caps">USB</span> enclosure. Boot up ubuntu, cat the one drive to the other, install gparted, and pointy clickly resize the partitions on the new drive.</p>
+"""]]

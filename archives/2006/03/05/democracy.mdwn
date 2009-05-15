@@ -1,0 +1,23 @@
+[[!meta title="Democracy" ]]
+[[!meta date="2006-03-05 14:30:51" ]]
+<a href="http://www.flickr.com/photos/hendry/107863684/" title="Photo Sharing"><img src="http://static.flickr.com/45/107863684_83a8681f52_m.jpg" width="240" height="180" alt="Eggs and Bacon" /></a>
+
+<p>I&#8217;ve been installing a couple of machines with operating systems and a common question is where you are for the locale settings. When it says:</p>
+
+<ul>
+<li>North Korea</li>
+<li>South Korea</li>
+</ul>
+
+<p>That&#8217;s easy. I&#8217;m in South Korea. Though Seoul is actually in the middle of the country.</p>
+
+<p>When it says:</p>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Republic_of_Korea">Republic of Korea</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Korea_%28Democratic_Republic_of%29">Democratic Republic of Korea</a></li>
+</ul>
+
+<p>That&#8217;s not so easy. Without being too pedantic, I currently live in RoK, that is just the Republic of Korea.</p>
+
+<p>I&#8217;ve found out where the geeks live here in Korea (South, not North). Over at the <a href="http://www.kldp.org/" title="KLDP">Korean Linux Documentation Project</a></p>

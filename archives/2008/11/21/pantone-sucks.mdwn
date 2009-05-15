@@ -1,0 +1,19 @@
+[[!meta title="Pantone sucks" ]]
+[[!meta date="2008-11-27 15:58:11" ]]
+<a href="http://www.flickr.com/photos/hendry/3048712764/" title="Pantone by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3030/3048712764_d6af46be87_o.png" width="494" height="550" alt="Pantone" /></a>
+
+<p>Couldn&#8217;t help but notice the London design fan boys &amp; girls with <a href="http://en.wikipedia.org/wiki/Pantone">Pantone</a>. Must be the excellent universal system for addressing colours I thought.</p>
+
+<p>So I was reading the &#8220;brand identity&#8221; guide of my employers <a href="http://aplix.co.jp">Aplix Japan</a> and we use Pantone 293 for our logo. Cool, I thought. I&#8217;ll go to the <a href="http://pantone.com/">Pantone Website</a> and look up the corresponding Web colour.</p>
+
+<p>Then the farce begins with a <a href="http://www.flickr.com/photos/hendry/3048712764/">barely usable dialog</a> asking me whether the colour standard is European or North American.</p>
+
+<p>Umm&#8230; Japanese?</p>
+
+<p>Product type? Erm&#8230; Web? Enter colour, ok <strong>293</strong> and submit&#8230; Hmm is it colour 293 C or 293 H C or 293 M or 293 PC or 293 U or <span class="caps">WHAT</span> <span class="caps">THE</span> <span class="caps">FUCK</span>? <a href="http://www.pantone.com/pages/pantone/Pantone.aspx?pg=20051&amp;ca=1">Please explain how this works!</a></p>
+
+<p>Ok&#8230; start again. Google for &#8220;pantone to web color&#8221; and <a href="http://www.pantone.com/Pages/Pantone/pantone.aspx?pg=20199&amp;ca=10">Pantone ColorWeb</a> presents itself as 30USD service to seemingly get what I need.</p>
+
+<p>I&#8217;m sorry this is just ridiculous. There must be a better way that this patented bullshit.</p>
+
+<p>One day I&#8217;ll meet a designer with some sense who doesn&#8217;t buy into this proprietary Adobe &amp; Pantone world. I hope. :)</p>

@@ -1,0 +1,9 @@
+
+[[!_comment format=mdwn
+ username="Sven Hoexter"
+ subject="84.44.145.76"
+ date="2005-06-08 20:15:34"
+ content="""
+<p>Should be easy to recompile <a href="http://fedoraproject.org/extras/3/i386/repodata/repoview/apt-0&#8211;0.5.15cnc7&#8211;1.html">http://fedoraproject.org/extras/3/i386/repodata/repoview/apt-0&#8211;0.5.15cnc7&#8211;1.html</a><br />
+this one. Donno exactly where you can find the src.rpm but the dependency tweaking and recompile is nothing hard to accomplish. Maybe you would like to take also a look at smartpm.org cause apt-rpm development has stopped and Gustavo is now working on smartpm. If you need help ask google or aehm maybe write me mail ;)</p>
+"""]]

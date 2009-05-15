@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Jeff Schiller"
+ subject="24.13.69.212"
+ date="2006-06-28 01:34:50"
+ content="""
+<p>&gt; 4. What is the status of <span class="caps">SVG</span>? Why does it look different to Firefox rendering?<br />
+<span class="caps">SVG</span> Status: <a href="http://opera.com/docs/specs/opera9/svg/">http://opera.com/docs/specs/opera9/svg/</a>  How does it look different than Firefox?</p>
+
+<p>&gt; 5. Does it support <span class="caps">SVG</span>-T?<br />
+Opera 8.x supported <span class="caps">SVG</span>-T.  Opera 9 adds supports for <span class="caps">SVG</span>-B (and some of <span class="caps">SVG</span>-Full 1.1)</p>
+"""]]

@@ -1,0 +1,9 @@
+[[!meta title="On topic" ]]
+[[!meta date="2005-03-06 05:43:55" ]]
+<p>Dear <a href="http://planet.debian.org/">Planet Debian</a> bloggers,</p>
+
+<p>Please create a <strong>debian</strong> category and arrange your blog to syndicate to Planet Debian for that particular <em>debian related</em> category, like so:</p>
+
+<p><a href="http://natalian.org/archives/category/debian/atom"><a href="http://natalian.org/archives/category/debian/atom">http://natalian.org/archives/category/debian/atom</a></a></p>
+
+<p>Best wishes,</p>

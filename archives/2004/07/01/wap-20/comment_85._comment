@@ -1,0 +1,13 @@
+
+[[!_comment format=mdwn
+ username="Kai"
+ subject="128.214.48.17"
+ date="2004-07-02 16:35:40"
+ content="""
+<p><span class="caps">AHA</span>!!! Bottom of :<br />
+<a href="http://developer.openwave.com/dvl/support/documentation/guides_and_references/xhtml-mp_style_guide/chapter1.htm#pgfId-998361">http://developer.openwave.com/dvl/support/documentation/guides_and_references/xhtml-mp_style_guide/chapter1.htm#pgfId-998361</a></p>
+
+<p>As far as you are concerned, <span class="caps">WML</span> 2.0 does not exist and has never existed. We only mention it here for background information.</p>
+
+<p><span class="caps">WML</span> 2.0 was an attempt at merging <span class="caps">WML</span> and <span class="caps">XHTML</span> Basic before the <span class="caps">WAP</span> 2.0 spec was finalized. It was eventually discarded. Telephone manufacturers can support it silently inside their browsers as a possible way to transition to <span class="caps">XHTML</span> MP through automatic translation, but the <span class="caps">WAP</span> Forum clearly states that such a mark-up is not meant for developers. If you come across the term, be aware that <span class="caps">WML</span> 2.0 is not something you as a developer need to care about.</p>
+"""]]

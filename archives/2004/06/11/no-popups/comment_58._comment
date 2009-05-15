@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Tom Pike"
+ subject="217.159.17.26"
+ date="2004-06-12 18:05:50"
+ content="""
+<p>Of course you&#8217;re neglecting to mention the subtle difference that a 404 page is sent by the server.  The server defines what it says.  The exception to this is IE, which if it believes your 404 page is too small, replaces it with one of its own.  So basically it&#8217;s up to the website author to make his 404 page useful, eg. by putting a search form on it and a link to send feedback about the problem.</p>
+
+<p>As for Mozilla&#8217;s crappy domain doesn&#8217;t exist alert box, I strongly agree that it is a major problem.  There is <a href="http://www.pikey.me.uk/mozilla/?extension=sfu">an extension</a> for Mozilla Firefox that, combined with setting browser.xul.error_pages.enabled to true in about:config actually makes the thing behave about as you would expect.</p>
+"""]]

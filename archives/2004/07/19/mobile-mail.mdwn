@@ -1,0 +1,11 @@
+[[!meta title="Mobile mail" ]]
+[[!meta date="2004-07-19 11:51:30" ]]
+<p>My sister in Japan is using <a href="http://www.vodafone.jp/scripts/english/top.jsp">Vodafone</a> that features <strong><span class="caps">EMAIL</span></strong> instead of text messages.</p>
+
+<p>I have been using it for more than a month and it works! I have never been in such good contact with my sister.</p>
+
+<p>She can attach little pictures of what she&#8217;s upto to the email she sends too. Great. No stupid <span class="caps">MMS</span> follow this link shit&#8230;</p>
+
+<pre>
+echo "see you in Japan :)" | mail jutta
+</pre>

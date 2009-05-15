@@ -1,0 +1,45 @@
+[[!meta title="Stumbling to Freedom" ]]
+[[!meta date="2006-08-08 17:54:54" ]]
+<p>I&#8217;m home in the UK temporarily and I am having to deal with the painful realities of home computing.</p>
+
+<p>I have myself (partly) to blame. I&#8217;ve bought some crap hardware, but haven&#8217;t we all?</p>
+
+<p>Though I don&#8217;t know what possessed me to purchase a CIT200 Linksys Skype phone for my parents. Well I know why. So my parents could communicate cheaply. Unfortunately the <span class="caps">USB</span> device is dependent on Win32 drivers. So moving them over to Ubuntu dapper, not possible. Also Skype is proprietary <span class="caps">FOOL</span>. Argh&#8230;</p>
+
+<p>One step at a time you might say. They&#8217;re not quite used to OpenOffice yet. They&#8217;ve been using the pre-bundled Microsoft Works 7 (.wps files), which aren&#8217;t compatible with OpenOffice. Oh no. In fact wps files aren&#8217;t compatible with new versions of Microsoft Office.</p>
+
+<p>Oh, <span class="caps">WTF</span>?</p>
+
+<p>Thanks to a <a href="http://userful.com/support/ms-works">online resource</a> I installed a plugin for Works7 to export wps files into Word compatible <span class="caps">RTF</span> files. Those files I can import into OpenOffice.</p>
+
+<p>That&#8217;s painful. My mother has made quite a few documents that each have to be manually updated to doc and then opendocument text (odt). That&#8217;s <strong>painful</strong>.</p>
+
+<a href="http://www.flickr.com/photos/hendry/205758038/" title="Photo Sharing"><img src="http://static.flickr.com/58/205758038_654fd3b5a8_m.jpg" width="240" height="192" alt="OOvsWorks7" /></a>
+
+<p>A simple letterhead of my parent&#8217;s business shows the import is <strong>leaky</strong>. God knows how to extend that border line to the right. Or correct the font. I frustratingly tried to edit and format the letterhead and it couldn&#8217;t get it to align nicely to right. What a pain.</p>
+
+<p>Our good neighbour Morley has been more keen to use Linux. He is a complete novice and I helped order the parts from <a href="http://www.dabs.com/">dabs.com</a> with him <strong>two years</strong> ago. He never got it working and since recently returning to <a href="http://prazefarm.co.uk/">Praze Farm</a> I had a look at his machine.</p>
+
+<p>A local computer store said his Radeon 7000 works. It doesn&#8217;t. He did manage to procure an old Matrox <span class="caps">PCI</span> <span class="caps">MGA</span> which does work. He got as so far as to install Fedora, but never managed to get the dialup modem working. I noticed he was trying to get a Winmodem working. <em>sigh</em></p>
+
+<p>He says he is familiar with Fedora since he had some Linux Format magazine guide. Of course I want him to use Debian, or Debian based like Ubuntu Dapper. Now I have to convince to, re-install. Pain. I am also trying to convince him to get broadband now.</p>
+
+<p>Years ago I bought my parents a mini-itx (when they were all the rage) based machine from scam, sorry <a href="http://scan.co.uk/">scan.co.uk</a> who built a very noisy machine. Recently I just turned off the fan and took the side case panels off. Seems to be OK. I want to &#8220;upgrade&#8221; the machine as the <span class="caps">USB</span> ports are dodgy, the network card hates <span class="caps">DHCP</span> and the sound card doesn&#8217;t work. I did hunt around for a machine, but the Mac mini might be again too painful for my parents and it doesn&#8217;t have a mic jack for Skype. <span class="caps">WTF</span>.</p>
+
+<p>I looked around dabs and I can&#8217;t believe they sell machines with 256mbs of <span class="caps">RAM</span>. Also they don&#8217;t reveal how loud they are which is super important to me. And they&#8217;re not cheap. I am missing Korean prices. And does the hardware work with Dapper? Hmph. Lets face it, <a href="https://wiki.ubuntu.com/HardwareSupport">hardware support</a> pages don&#8217;t help. You&#8217;d be hard pressed to source the <a href="https://wiki.ubuntu.com/HardwareSupportMachinesDesktops">tested machines</a>. I ran a great Ubuntu desktop machine on a high end Thinkcentre in Korea. I want that back. It was also quiet. I also loathe, hate and break out into angry fits about having to buy Microsoft Windows whilst buying a computer.</p>
+
+<p>I am thinking back to my adventures with computing at home. It really just hasn&#8217;t worked out for poor Linux. The biggest breakthrough is having broadband with a <a href="http://www.dabs.com/productview.aspx?Quicklinx=3QYJ">Linksys WAG354G-UK</a>. I am greatly indebted to a <a href="http://www.dcglug.org.uk/">local LUGer Neil Stone</a> for helping my parents set this up. They would <strong>not have managed the broadband setup</strong> without him. We have a peculiar problem with our phone line and if some phones are plugged in the modem could never reliably maintain a connection. We&#8217;ve unplugged all our phones and broaband does work, except we have terrible landline quality issues. Argh, another reason why my parents like Skype a lot.</p>
+
+<p>So I can share the Internet reasonably from my lovely Thinkpad X40 wireless. Though only in one room. The walls are <a href="http://www.flickr.com/photos/hendry/204598842/">so thick</a> in praze farm, the signal doesn&#8217;t go into my bedroom or the kitchen. I noticed the WAG354G has an aerial port, but I couldn&#8217;t find an aerial that claims to support it. I contacted Linksys and they said the product isn&#8217;t on the market and suggest purchasing instead the WRE54G v2. I can&#8217;t find that device on dabs. Anyway we have several rooms in this house. I am not going to buy a wireless repeater for each room! So wireless and big old thick walled houses is pain.</p>
+
+<p>Hopefully in the future I&#8217;ll get my WRT54G that I send via sea from Korea and install that upstairs where the walls are thankfully just partitions and see how that goes.</p>
+
+<p>Another important problem I have been keeping myself busy with are backups or &#8220;digital preservation&#8221;. My strategy is to copy everything precious and organise them on an external 80G <span class="caps">USB</span> hard drive which already has fallen off the desk a couple of times. I&#8217;ve ripped down DVDs of home videos to <span class="caps">VOB</span>, but since neither of our machines at home are particularly powerful, I can&#8217;t convert them to <a href="http://www.theora.org/">theora</a>!</p>
+
+<p>I have many digital images that I need to track in some database. I need to write a program to do that. I&#8217;ve been too lazy to do so. We keep a lot of printed photographs in our cupboards. It&#8217;s remarkable how they&#8217;ve preserved, although my mother chucked out all the negatives as she claimed they were all &#8220;stuck together&#8221; and useless. Damn, I don&#8217;t think I will <a href="http://www.dcglug.org.uk/archive/2006/08/msg00031.html">digitising photographs</a> anytime soon.</p>
+
+<p>There are two main problems I think with my parents and computing. <strong>Hardware</strong> and <strong>know how</strong>. My mother claims she would attend computer courses, but there aren&#8217;t any ones with Ubuntu and say OpenOffice and Firefox (Gmail)!</p>
+
+<p>The most pressing problem is that it is hard to buy compatible hardware without falling for some <strong>Microsoft trap</strong>. At least I have my parent&#8217;s using Gmail and now we have broadband so I can access . They seem happy with that, though I&#8217;m not. There really needs to be Free software comparable to Gmail.</p>
+
+<p>We&#8217;re at least no closer any to &#8220;free computing&#8221; after all these years. :/</p>

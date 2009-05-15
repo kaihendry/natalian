@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Chris Cunningham"
+ subject="62.56.36.129"
+ date="2005-12-05 23:27:47"
+ content="""
+<p>It only undermines Debian&#8217;s packaging system in the same way that allowing people to untar binaries and install them that way undermines Debian&#8217;s packagain system. A lot of work in the 1.5 cycle actually went into making it possible for extensions to be installed easily using scripts, which means that theoretically people could start packaging extensions for inclusion into Debian&#8217;s repositories.</p>
+
+<p>Warnings are difficult. Disabling extensions entirely was unacceptable to the project leadership. There are only so many choices one can make.</p>
+
+<p>- Chris</p>
+"""]]

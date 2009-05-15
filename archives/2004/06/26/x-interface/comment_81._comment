@@ -1,0 +1,20 @@
+
+[[!_comment format=mdwn
+ username="Christian Arthaber"
+ subject="131.130.1.135"
+ date="2004-06-28 02:23:02"
+ content="""
+<p>Screen has an active mailing list:<br />
+<a href="http://savannah.gnu.org/mail/?group=screen">http://savannah.gnu.org/mail/?group=screen</a></p>
+
+<p>To the problem &#8220;screen integrating in ion&#8221;: screen is intended to work, even if you have no X at all.. At last you can get it to interact: like a keybinding that launches a xterminal with screen -x in it.</p>
+
+<p>To the interprocess communication: launch one screen inside another one: I&#8217;d suggest to change the command sequence, though ;)</p>
+
+<p>What do you mean by &#8220;the terms aren&#8217;t easy to distinguish?&#8221; If you start mutt with screen -t mutt mutt you get a screen window with the name mutt. And there always is the possibility to rename windows: ^a-A (Captial A).</p>
+
+<p>Btw: whats wrong with copy and paste? :)</p>
+
+<p>Have a nice day,<br />
+Christian</p>
+"""]]

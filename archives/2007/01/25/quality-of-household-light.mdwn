@@ -1,0 +1,25 @@
+[[!meta title="Quality of household light" ]]
+[[!meta date="2007-09-26 21:26:29" ]]
+<p>So we&#8217;re at <a href="http://natalian.org/archives/2007/01/22/eco-war/">war</a>, remember? So I&#8217;m trying to educate myself with the science of light bulbs.</p>
+
+<p>I like lights to be on and I like them high quality so I can clearly see. Though in order to be environmentally friendly one seems to have to sit in poor light. Eco-friendly bulbs seem to give off inadequate light (luminosity), poor quality light (a narrow frequency range) and some of them annoyingly turn <span class="caps">OFF</span> (and on like a disco) when it thinks there is sufficient light.</p>
+
+<p>First let me tell you about why I think halogen bulbs suck. Compare this halogen bulb:</p>
+
+<a href="http://www.flickr.com/photos/hendry/368943703/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/126/368943703_8e2c3bb192_m.jpg" width="240" height="180" alt="Spot light" /></a>
+
+<p>With this normal conventional &#8220;incandescent filament&#8221; bulb:</p>
+
+<a href="http://www.flickr.com/photos/hendry/368943685/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/103/368943685_f0986eee65_m.jpg" width="240" height="180" alt="Reflector light" /></a>
+
+<p>I prefer the conventional reflector bulb, which costs just 1 <span class="caps">GBP</span> and the halogen is 5 <span class="caps">GBP</span>.</p>
+
+<a href="http://www.flickr.com/photos/hendry/368943702/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/81/368943702_afbe081dbb_m.jpg" width="240" height="180" alt="Spot versus Reflector" /></a>
+
+<p>My father says the conventional bulbs last just as long as the halogen ones, despite the advertisements that the halogens last longer. I don&#8217;t quite believe my father, though lets assume that halogen bulbs last three times longer than conventional bulbs. They&#8217;re also 5 times more expensive!</p>
+
+<p>About energy efficiency. The conventional bulb is 60W and the halogen 50W. Does that mean the conventional bulb consumes 10W more energy? I am not sure, as I am reading about <a href="http://en.wikipedia.org/wiki/Incandescent_light_bulb#The_halogen_lamp">halogen lamps</a> to discover they&#8217;re very inefficient. And what is 10W with the superior quality of light of a conventional bulb?</p>
+
+<p>The <a href="http://en.wikipedia.org/wiki/Compact_fluorescent_light_bulb">Compact fluorescent lamp</a> is supposed to be most efficient, but it is well known they give a <strong>poor quality of light</strong>. My mother sometimes <a href="http://prazefarm.co.uk/curtains/">makes classy lamps</a> and she says Compact fluorescent lamp&#8217;s bulky design and the light they give off is <strong>not good</strong>. I assumed <a href="http://en.wikipedia.org/wiki/LED"><span class="caps">LED</span> lights</a> were better because of their durability and long battery life. According to Wikipedia <span class="caps">LED</span> bulbs produce more light per Watt, though if they get too hot, they&#8217;re life span quickly goes down <strong>so</strong> they get expensive when they start to produce more lumens (light intensity).</p>
+
+<p>In conclusion I prefer conventional bulb&#8217;s quality of light compared to the &#8216;efficient&#8217; Compact fluorescent lamp and I hope to replace expired halogen bulbs in the house with conventional bulbs. Also light bulbs are <strong>really complicated</strong> and I think we&#8217;re losing this war.</p>

@@ -1,0 +1,37 @@
+[[!meta title="Paris city bike rental" ]]
+[[!meta date="2008-07-20 21:38:46" ]]
+<a href="http://flickr.com/photos/jamiekitson/2678442168/in/photostream/">
+<img src="http://farm4.static.flickr.com/3233/2678442168_9a749d9ac5_m_d.jpg" />
+</a>
+
+<p>Last weekend I visited <a href="http://wikitravel.org/en/Paris">Paris</a> and I discovered <a href="http://en.wikipedia.org/wiki/Velib">Velib, a city wide <a href="http://en.wikipedia.org/wiki/Category:Community_bicycle_programs">bicycle scheme</a>. I thought this city planned access to bicycles is a <strong>fantastic</strong> way to tour Paris.</p>
+
+<p>I first saw something like this in Helsinki. But I don&#8217;t think it was a grand success as many of the bikes were vandalised or stolen by drunken swedes on the Viking line. Honest. :)</p>
+
+<p>I also came across a <a href="http://en.wikipedia.org/wiki/Bicing">cycling scheme in Barcelona called Bicing</a>. Unfortunately I couldn&#8217;t figure it out how to rent a bike.</p>
+
+<p>Which leads me back to Velib. It was quite complicated to work out as a tourist to get a short term one day hire with a 150EUR deposit. Their system works, but it was fairly convoluted.</p>
+
+<p>Informed by my <a href="http://www.ctc.org.uk/"><span class="caps">CTC</span></a> newsletter, Velib celebrated its first birthday on 15th July. A <a href="http://ecoplan.org/library/hbdv.pdf">lengthy <span class="caps">PDF</span> document is linked by <span class="caps">CTC</span> exploring the myths of Velib</a>. I made a <a href="http://static.natalian.org/2008-07-20/velib.pdf">copy of the Velib <span class="caps">PDF</span></a> too.</p>
+
+<p>Now for my comments. The bike design is excellent.</p>
+
+<a href="http://www.flickr.com/photos/hendry/2674041323/" title="Bell crank gear change by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3099/2674041323_5248e9023a_m.jpg" width="240" height="180" alt="Bell crank gear change" /></a>
+
+<p>Velib bicycles use a Revo-shift Lever and Bell Crank (SL-3S35-E) from Shimano. A hub gear solution that&#8217;s very reliable and easy to maintain. I chose this very configuration with my <a href="http://natalian.org/archives/tag/products/">Helkama bicycle</a>.</p>
+
+<p>Interestingly on the bell crank, they fixed a steel frame around the part:<br />
+<a href="http://flickr.com/photos/jamiekitson/2678442362/"><br />
+<img alt="bell crank" src="http://farm4.static.flickr.com/3011/2678442362_7405d3e803_m_d.jpg" /><br />
+</a></p>
+
+<p>This is a very good idea as I damaged my &#8220;bell crank&#8221; whilst wrenching it out of a bike holder on a train to Guildford. The bell crank once damaged kept falling off and I had to get the boys at <a href="http://www.halfords.com">Halfords</a> (their 15GBP a year bike care plan is amazing good value) to retap the bolt to fix it.</p>
+
+<ul>
+<li>The free tourist maps from the metro do not show Velib locations which is a sin.</li>
+<li>Sometimes stations are full or closed and it would be good if there was some system where you could see on a map the inventories of nearby Velib stations</li>
+<li>It&#8217;s easier to cycle in Paris than in London</li>
+<li>I met a local who says it isn&#8217;t good for him as there are often not enough bikes, so he bought his own bike. That&#8217;s fair. I think Velib should be a &#8220;backup solution&#8221; for most Parisians. Good for strikes. ;)</li>
+</ul>
+
+<p>Anyway, well done to the French. Velib is definitely the best example of a successful alternative city transport scheme.</p>

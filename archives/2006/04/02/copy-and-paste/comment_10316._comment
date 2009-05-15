@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="MJ Ray"
+ subject="213.55.30.50"
+ date="2006-04-02 22:03:25"
+ content="""
+<p>I don&#8217;t get it. Of your bullets, the first is opinion, so fair enough, but the others seem odd: isn&#8217;t the raising click a non-selecting click on most desktops (are <span class="caps">KDE</span> and Gnome really that broken?); I can select text in a link on that page easily in a Firefox-based browser; vim&#8217;s problems are vim&#8217;s problems, not X&#8217;s; and Shift and Insert are at most 10cm apart on my keyboards, even if I&#8217;ve no idea what that shortcut does.</p>
+
+<p>^C for copy is understandable, but V as paste and X as cut? In what language does paste begin with a V? The Emacsy scissors-like K and the paste-knife-like Y are more pictorial and language-independent, but broken in many Firefox installations today.</p>
+"""]]

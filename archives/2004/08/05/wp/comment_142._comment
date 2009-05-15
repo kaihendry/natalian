@@ -1,0 +1,11 @@
+
+[[!_comment format=mdwn
+ username="Tim Nowaczyk"
+ subject="63.85.175.193"
+ date="2004-08-13 23:05:01"
+ content="""
+<p>Thanks for the package.  I&#8217;ve got it up and running and I&#8217;m just starting to customize things.  I have a few comments about the package though.  Many debian packages have pre-install scripts that ask the user for the database name, user, and password, then puts the values into the config file and creates the database with the correct values.  It should then prompt the user to visit &#8220;<a href="http://www.example.com/blog/wp-admin/install.php&#8221">http://www.example.com/blog/wp-admin/install.php&#8221</a>;.  Also, the &#8220;wp-config.php&#8221; could be placed in &#8221;/etc/&#8221; with a symlink to it from &#8221;/usr/share/wordpress/wp-config.php&#8221;.  In wp-config, <span class="caps">ABSPATH</span> should be redefined as<br />
+define(&#8216;ABSPATH&#8217;, &#8217;/usr/share/wordpress/&#8217;);</p>
+
+<p>Keep up the good work!</p>
+"""]]

@@ -1,0 +1,9 @@
+
+[[!_comment format=mdwn
+ username="Philippe Marzouk"
+ subject="213.41.242.149"
+ date="2007-05-01 17:37:34"
+ content="""
+<p>You can convert yourself the file to kml with gpsbabel:<br />
+psbabel -i gpx -f tracklog.gpx -o kml -F tracklog.kml</p>
+"""]]

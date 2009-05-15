@@ -1,0 +1,28 @@
+[[!meta title="Mobility" ]]
+[[!meta date="2004-02-19 00:20:27" ]]
+<p>On that Nokia theme, I tried to <a href="http://www.itconversations.com/detail.php?id=68">listen to Nokia&#8217;s <acronym title="Chief Technology Officer"><span class="caps">CTO</span></acronym> Pertti Korhonen giving a speech</a> at <a href="http://conferences.oreillynet.com/etech/">O&#8217;reilly emerging technology conference</a>.</p>
+
+<p>It was classic stuff. He really should of just taken 5 minutes to say what he needed to, without wasting away my life with his drone. <a href="http://www.ntk.net/2004/02/13/"><acronym title="Need to know"><span class="caps">NTK</span></acronym> fealt my pain too.</a> With mpg123, the playback was too fast for some reason. Xmms plays it properly. Anyway, I advise you if you do want to listen to it, get alsaplayer and put it at 150% speed.</p>
+
+<p>Symbian is not linux says Pertti.<br />
+I liked the way Pertti dodged around the <em>Will there be any Nokia development tools on a developer&#8217;s platform?</em></p>
+
+<p>He was trying to get the development community to develop stuff for their proprietary Symbian series 60 platform. I don&#8217;t see how you going to <em>excite</em> developers when you need like a expensive platinum partnership to get any decent documentation. I also I really hate when people pimp open standards, when they control the standards. I mean, how open is that? The whole notion of <em>open standards</em> is abused. The only thing we know about their standards is that we can now read them, and even that is not easy.</p>
+
+<p>100 million series 60 devices will ship this year.</p>
+
+<p>Screw innovation.</p>
+
+<ol>
+	<li>I want to feel in control of hardware and software.</li>
+	<li>It must be fast.</li>
+	<li>I want a decent <acronym title="Mail User Agent">MUA</acronym> on my phone, which works.</li>
+	<li>The device should not cost 400EUR (I lose things like my hat, gloves and even my glasses in the last three weeks)</li>
+	<li>I must be able to easily upgrade it</li>
+	<li>OPTIONAL: Carry a gpg key</li>
+	<li>I want a decent service provider who does not want to rape me with stupid services, or use any sort of walled garden bullshit</li>
+        <li>I want to know how much a voice call cost!!!</li>
+        <li>I want unlimited access to the Internet, for less than 50EUR a month</li>
+        <li>I want a more intelligent billing service, so I do not get stupid snail mails every whatever month through my door</li>
+        <li>I want all my information stored on my (centralized) host, so I can archive SMSes for e.g. and easily switch devices</li>
+</ol>

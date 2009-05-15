@@ -1,0 +1,17 @@
+[[!meta title="/media/cdrom" ]]
+[[!meta date="2006-02-21 02:22:46" ]]
+<a href="http://www.flickr.com/photos/hendry/99532630/" title="Photo Sharing"><img src="http://static.flickr.com/24/99532630_b8b744d007_m.jpg" width="240" height="159" alt="God pokes at camera" /></a>
+
+<p>A little <strong>caveat</strong>. Find doesn&#8217;t seem to like symlinks. Since <tt>/media/cdrom</tt> is a symlink to <tt>/media/cdrom0</tt>, using <tt>/media/cdrom0</tt> with find will work. I spent far too much time figuring this out.<br />
+<pre><br />
+frodo$ cd /media/cdrom<br />
+frodo$ find `pwd` -iname &#8217;*.jpg&#8217;<br />
+# hmmm, there are images here.<br />
+frodo$ find . -iname &#8217;*.jpg&#8217; # this works&#8230;<br />
+./common/0.jpg<br />
+./common/clip_art/e_mail/75/ec1.jpg<br />
+./common/clip_art/e_mail/75/ec2.jpg<br />
+...<br />
+</pre></p>
+
+<p>Another reason to <strong>sigh</strong> about this <a href="http://www.pathname.com/fhs/"><span class="caps">FHS</span></a> /media schema.</p>

@@ -1,0 +1,9 @@
+[[!meta title="Interactive video recipes" ]]
+[[!meta date="2009-04-26 10:20:45" ]]
+<p>Fantastic find for foodies!</p>
+
+<p><span class="caps">BBC</span> have videos in a playable Youtube-y format. So I can actually watch them, unlike their usual real player crap (is this the end of Realplayer? please let it be so&#8230;).</p>
+
+<p>Check out their <a href="http://www.bbc.co.uk/food/get_cooking/main/index.shtml"><span class="caps">BBC</span> food</a> Flash application. I wish it wasn&#8217;t completely Flash, nonetheless&#8230;</p>
+
+<p>This certainly beats my usual <a href="http://astray.com/recipes/">recipe resource</a>. :)</p>

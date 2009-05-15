@@ -1,0 +1,28 @@
+[[!meta title="Web kiosk competition" ]]
+[[!meta date="2007-04-18 15:34:03" ]]
+<a href="http://www.flickr.com/photos/hendry/463364534/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/195/463364534_f52708dcfa_m.jpg" width="240" height="180" alt="rpath's kiosk 0.4 (installable)" /></a>
+
+<p>I received some Webconverger feedback today, saying this guy tried:</p>
+
+<ul>
+<li><a href="http://sourceforge.net/project/showfiles.php?group_id=123098&amp;package_id=146542">Boothcd</a></li>
+<li><a href="http://livekiosk.com/">EZwebPC</a></li>
+<li><a href="http://thinstation.sourceforge.net">Thinstation</a></li>
+<li><a href="http://www.kioskcd.com/">KioskCD</a></li>
+</ul>
+
+<p>Though he found <a href="http://webconverger.com/">Webconverger</a> &#8220;what he was looking for&#8221;. Relief. :) Though I was initially surprised at how much competition there is in this space! Sadly BoothCD and KioskCD seem very out of date. Thinstation seems to be targeting a different audience altogether and I haven&#8217;t given it a try.</p>
+
+<p>There is also a <a href="http://www.osweekly.com/index.php?option=com_content&amp;task=view&amp;id=2500&amp;Itemid=449">review of Kiosk distributions that Webconverger unfortunately escaped from</a>. There the winner was <a href="http://www.livekiosk.com/">LiveKiosk</a> aka <a href="http://webconverger.com/about/">EzWebPC, which features in the Webconverger comparison matrix</a>.</p>
+
+<p>I think EzWebPC has come from <a href="http://www.morphix.org/index.php?option=com_content&amp;task=view&amp;id=80&amp;Itemid=59">Morphix  LiveKiosk</a>, which came from <a href="http://www.kiberpipa.org/~gandalf/blog/?p=75">Jure</a>&#8216;s work on <a href="http://www.livecd.net/">LiveCD</a>. Anyway I did mail Livekiosk/EzWebPC asking them for the source and they didn&#8217;t reply. Hence I started Webconverger. I knew I could make something better out of <a href="http://debian-live.alioth.debian.org/">Debian Live</a> and 2 months down the road&#8230; Webconverger <strong>is</strong> much better.</p>
+
+<p>A highly requested feature for Webconverger is a hard drive install option and I was shocked to see another new kiosk project called <a href="http://www.rpath.org/rbuilder/project/kiosk/release?id=5177">Kiosk appliance</a> (screen shot above) with such a feature. Oh damn! :) Though I did test &#8220;Kiosk appliance&#8221; out and though it seems to install to a hard drive via a RH thing&#8230; the distribution is <strong>very immature</strong> and it actually didn&#8217;t manage to connect to the internet for me. I think it might be because of the Tor stuff. I am not sure. <a href="http://webconverger.com/">Webconverger</a> <strong>will</strong> have a much better hard drive install than that. :)</p>
+
+<a href="http://www.flickr.com/photos/hendry/463396815/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/209/463396815_c5ccbc2e6f_m.jpg" width="240" height="180" alt="2.0.10 trials cups" /></a>
+
+<p>Today the 2.0.10 &#8221;<a href="http://webconverger.infogami.com/Printing">print support</a> + bug fixes&#8221; <a href="http://download.webconverger.com/">download of Webconverger</a> is out. See <a href="http://webconverger.org/">webconverger.org</a> for the <a href="http://svn.webconverger.org/webconverger.org/Changelog">changelog</a>, <a href="http://webconverger.infogami.com/">wiki</a> and more.</p>
+
+<ul>
+<li>May update: <a href="http://cl33n.com/">cl33n</a> is another <a href="http://natalian.org/archives/2007/05/23/web-operating-systems/">Web operating system</a></li>
+</ul>

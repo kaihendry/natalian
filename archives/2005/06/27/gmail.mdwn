@@ -1,0 +1,19 @@
+[[!meta title="Gmail" ]]
+[[!meta date="2005-06-27 09:29:54" ]]
+<p>I noticed that Gmail has some updated <a href="http://gmail.google.com/gmail/help/intl/en_GB/program_policies.html">program policies.</a></p>
+
+<p>One of them forbids you to reformat the page. Others are pretty acceptable to me.</p>
+
+<p>Russell Coker has also been complaining that <a href="http://www.rfc-ignorant.org/tools/lookup.php?domain=zproxy.gmail.com">Gmail are <span class="caps">RFC</span> ignorant.</a></p>
+
+<p>I started re-directing my mail @natalian.org via Google. Argh. Problems.</p>
+
+<p>For some reason this machine&#8217;s <span class="caps">ISP</span> <a href="http://www.bulldogbroadband.com/">Bulldog</a> scans outgoing mail. Of course 99% of my email is <span class="caps">SPAM</span> so it refuses to relay mail to Gmail and some ugly Mail delivery loops occur.</p>
+
+<p>I have been using a email catchall. I like catchalls, though <span class="caps">SPAM</span> does too. So I might abandon some accounts. If you have problems reaching me you should first search for my full name or contact the postmaster. Though that takes quite a tech-savvy person to do that.</p>
+
+<p>Gmail&#8217;s <span class="caps">SPAM</span> filtering seems the best. Though I do get some false classification. So I still not quite comfortable not read my <span class="caps">SPAM</span> headers for awhile.</p>
+
+<p>I don&#8217;t like the idea of relaying mail though Gmail very much. It is a terrible hack and waste of bandwidth. I will change it in time. Though I do really like their Web interface.</p>
+
+<p>The days where I just used Spam Assassin and threw mails into a <span class="caps">SPAM</span> folder are long over. I&#8217;m done with sending me own mail with my own smtp directly to other hosts too. Email hosting is very difficult and I&#8217;m going to outsource as I really don&#8217;t have the time.</p>

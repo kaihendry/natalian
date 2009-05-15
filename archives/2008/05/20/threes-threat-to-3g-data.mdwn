@@ -1,0 +1,15 @@
+[[!meta title="Three's threat to 3G data" ]]
+[[!meta date="2008-08-05 16:58:17" ]]
+<a href="http://www.flickr.com/photos/hendry/2502307318/" title="3 Fair usage by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3284/2502307318_0294d861d1.jpg" width="375" height="500" alt="3 Fair usage" /></a>
+
+<p>EH? I only use <a href="http://flickr.com/photos/hendry/871604165/">20 megs or so a month judging by my previous bills</a>. Lets see their Website:</p>
+
+<a href="http://www.flickr.com/photos/hendry/2507507827/" title="Three data usage by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2420/2507507827_080d3c35a8.jpg" width="500" height="227" alt="Three data usage" /></a>
+
+<p>No information there.  <a href="http://www.three.co.uk/xseries/fair_use_policy.omp">Three&#8217;s fair usage policy</> says I am entitled to 1G of traffic</a>. I am quite confident I am nowhere near that mark.</p>
+
+<p>I&#8217;ve contacted <a href="http://en.wikipedia.org/wiki/3_%28telecommunications%29">Three</a> via the Website form and later they called me from India and I ended the call with <strong>email me</strong> (you want proof). They&#8217;ve followed up with two further calls. Still no email. Very poor customer service from Three as usual.</p>
+
+<p>I heard a frightening story on <a href="http://www.bbc.co.uk/radio4/">Radio4</a> this morning about someone who downloaded the Apprentice via a mobile 3G connection and  I was charged 4k <span class="caps">GBP</span>. These 3G data services are run by cow boys.</p>
+
+<p><strong><span class="caps">UPDATE</span></strong>: One week after I contacted Three I get a confusing <a href="http://static.natalian.org/2008-05-25/response_from_three.txt">response</a>.</p>

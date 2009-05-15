@@ -1,0 +1,17 @@
+[[!meta title="When evolution fails" ]]
+[[!meta date="2004-06-10 15:01:15" ]]
+<p>I am reading an excellent post by Brendan on the <a href="http://weblogs.mozillazine.org/roadmap/archives/005632.html">non-world non-wide non-web</a>. With <a href="http://whatwg.org/"><span class="caps">WHAT</span> WG</a> launching, people crying W3C foul and <a href="http://www.w3.org/People/Berners-Lee/"><span class="caps">TBL</span></a> actually in Finland this week for his <a href="http://www.technologyawards.org/">1 million <span class="caps">EURO</span> prize</a>&#8230; it&#8217;s all getting quite interesting to say the least !</p>
+
+<p>While reading the comments of Brendan&#8217;s post I read a comment by Robin Berjon which struck a chord:</p>
+
+<blockquote>
+To me the "small, incremental improvements to the ugly web" approach will make FireFox/Safari/etc be to IE6 what XHTML 1.x is to HTML. Neat increment, mostly a flop. Please don't take this as an attack (heck, I use your stuff day-in, day-out) but I would really like to see where you see a path to success in that strategy, because hard as I honestly try I don't.
+</blockquote>
+
+<p>When better things come along, <strong>evolved</strong> products and people don&#8217;t switch to it. Then evolution fails.</p>
+
+<p>The average person does not want to change unless it &#8220;is an order of magnitude better (in whichever direction).&#8221;</p>
+
+<p>In the natural world things get killed off don&#8217;t they? ;)</p>
+
+<p>Well things are never simple. But if you like me have been at this web thing for awhile, can you confidently say all your pages are <strong>valid <span class="caps">XHTML</span></strong>? Damn, I am sure as hell can&#8217;t. :/</p>

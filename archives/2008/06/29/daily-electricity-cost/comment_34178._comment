@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Adamski"
+ subject="81.154.60.139"
+ date="2008-08-05 16:51:07"
+ content="""
+<p>Your electricity company seemed to think that the standard rate units would make up 14.5% of your annual consumption. This gives an annual average unit (1 unit = 1 kilowatt hour) cost of 10.11 pence (based on unit costs from April 1). Your 50W spotlight uses 1.2 kilowatt hours (kWh) in a day. 1.2&#215;10.11 gives a daily running cost of 12.13 pence (apparently cheaper than your tariff now but we will come back to that).</p>
+
+<p>Without actual readings to base the bills on by changing to variable direct debits your energy spend will only be as accurate as the estimated readings the bills are based on.</p>
+
+<p>The tariff you were on split the electricity you used into standard and discounted units. The first 900 units per annum are charged at the standard rate and all subsequent units are charged at the discounted rate. On each bill these will units will be split pro rata. This can be a good tariff for customers with high energy demands who consume the majority of their electricity during the day. People who use a lot of electricity overnight (ie, heating) would probably be better off with a two rate (day/night) meter where they could exploit the cheaper off-peak units.</p>
+
+<p>Judging from your calculation of daily spotlight running costs of 14.54 pence it seems that the fixed unit price you are now on is approximately 12.12p. This is more than the average unit price of your previous tariff of 10.11p/kWh (calculated using your supplier&#8217;s estimation of your annual consumption as approximately 6200 kWh). What is interesting is that the average unit price of your old tariff is equal to your new unit price when your annual consumption is around 1500 kWh. This means that if your annual consumption is less than 1500 kWh your new tariff saves you money but the more you go over 1500 the more this tariff will cost you.</p>
+
+<p>I wait with bated breath for your first actual meter reading ;)</p>
+"""]]

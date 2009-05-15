@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="222.106.128.78"
+ date="2006-06-14 10:48:08"
+ content="""
+<p>Actually I think <span class="caps">BBC</span> is smart enough to change to right version based on IP.</p>
+
+<p>I tested the CCproxy and Win32 Realplayer last night and <strong>it works</strong>!</p>
+
+<p>Now the problem I still face is getting Linux realplayer working properly.</p>
+
+<p>I think I might try setup <a href="http://icecast.org/">http://icecast.org/</a> and get it re-encode the Realplayer stream into some sensible format like <span class="caps">OGG</span>.</p>
+"""]]

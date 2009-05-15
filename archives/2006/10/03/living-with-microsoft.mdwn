@@ -1,0 +1,15 @@
+[[!meta title="Living with Microsoft" ]]
+[[!meta date="2006-10-03 05:10:01" ]]
+<a href="http://www.flickr.com/photos/hendry/258842190/" title="Photo Sharing"><img src="http://static.flickr.com/98/258842190_c36776aec4_m.jpg" width="240" height="180" alt="When it rains, it pours" /></a>
+
+<p>Vista is set to <a href="http://news.bbc.co.uk/2/hi/technology/5399534.stm">squeeze out security firms from their operating system</a>.</p>
+
+<p>Microsoft squeezing and usually killing businesses has happened countless times, but it&#8217;s always sadly humorous. People start to realise how powerful Microsoft are and how their business model is so precariously hinged on Microsoft&#8217;s monopoly.</p>
+
+<p>The Windows security market is worth a fortune currently. A market born from design errors and various exploitable bugs in Microsoft software.</p>
+
+<p>Though this market&#8217;s growth will probably decline with Vista. When I was working a few months ago, I heard of a lot of money from Taiwan from a very successful security company I won&#8217;t name, scrambling to get into other IT markets. It will be very difficult for those guys to get into Web applications.</p>
+
+<a href="http://twmcat.blogspot.com/">Jamie</a>, old buddy old pal, chose Delphi. That suite for making "rich" Win32 applications under Windows, which is similarly no more. He'll hopefully get into Web applications using something other that .NET, though I can't help but feel vindicated with my technology choices in the past years.
+
+<p>Is fighting Microsoft rather than supporting it harder or easier? For me it has been easier and personally rewarding to fight Microsoft. I say that, but I might be having to take on a consultancy job with a major Microsoft partner in Brazil. The things people do for money.</p>

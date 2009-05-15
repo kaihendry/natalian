@@ -1,0 +1,7 @@
+[[!meta title="Aftermath" ]]
+[[!meta date="2004-06-16 11:54:37" ]]
+<p>Yesterday I attended the <a href="http://www.w3.org/News/2004#item93">Web inventor awards</a> in Finlandia, after an exam. Once again a formal stiff affair. I relieved myself of the tension (music/food was <span class="caps">WEIRD</span>) by helping myself to a few champagne glasses. When it comes to my turn I hope people won&#8217;t be wearing ties and perhaps some young women to look at. ;)</p>
+
+<p>Today there is a seminar in Dipoli (Espoo) but I didn&#8217;t go (3.40 <span class="caps">EUR</span> one way and a lot of time). I feel uncomfortable asking questions with that audience. My questions aren&#8217;t the &#8220;What inspired you sir to create the web?&#8221; type. My style would be a little more agressive (and specific) and don&#8217;t want to ruin the moment for anybody. Besides my thoughts like &#8220;Is <span class="caps">XHTML</span> dead?&#8221; and &#8220;Why does <span class="caps">RDF</span> suck so much?&#8221; were well answered by the guys on #buncs.</p>
+
+<p>I have a lot to think about and revise in my mobile web thesis now. You&#8217;ll have to read my thesis when it is  finished and give me comments. :)</p>

@@ -1,0 +1,23 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="221.143.162.18"
+ date="2006-03-05 11:04:07"
+ content="""
+<p>Your <a href="http://joose.iki.fi/hendry/hello.svg">http://joose.iki.fi/hendry/hello.svg</a> is a good example.</p>
+
+<p>In this page <a href="http://dabase.com/svg/text.html">http://dabase.com/svg/text.html</a> it renders quite differently than yours:<br />
+<a href="http://joose.iki.fi/hendry/joose.xml">http://joose.iki.fi/hendry/joose.xml</a></p>
+
+<p>As, I guess I failed to specify the width and height in the embed tag. Though that is quite worrying that not specifying the width and height causes a different rendering of the actual <strong>meaning</strong> of the svg. In yours it looks like a circle. In mine, it looks like a circle with an intersection at the top and bottom.</p>
+
+<p>Though why does Ian use object and you use embed? Whatever Ian does, is usually right. :)</p>
+
+<p>In case it isn&#8217;t obvious this post is about Firefox 1.5 and <span class="caps">SVG</span>. You know, the browser with about 10% of the market, as oppossed to safari&#8217;s 0.5%. :P</p>
+
+<p>I also wonder does it matter than your html is text/xml as oppossed to just text/html ?</p>
+
+<p>Thanks again for your input Joose and sorry it took me sometime to reply&#8230;</p>
+
+<p>Note: Damn, angular brackets in comments doesn&#8217;t work very well.</p>
+"""]]

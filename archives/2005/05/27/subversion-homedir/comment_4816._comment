@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Eduard Bloch"
+ subject="131.246.191.183"
+ date="2005-05-27 18:11:27"
+ content="""
+<p>Well, Subversion since 1.1-rcSomething should be able to handle symlinks. The only thing I miss sometimes are a) hardlinks, b) ownership and permissions. And it should have a feature to run a custom merge programm for special formats, eg. for merging Debian changelogs (I have not seen a good Debian changelog merging tool yet but it should be not hard to write one)...</p>
+"""]]

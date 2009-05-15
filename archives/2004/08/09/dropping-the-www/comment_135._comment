@@ -1,0 +1,25 @@
+
+[[!_comment format=mdwn
+ username="Kai Hendry"
+ subject="128.214.48.37"
+ date="2004-08-09 15:30:25"
+ content="""
+<p>My friend Jamie via <span class="caps">ICQ</span> suggested something quite clever:</p>
+
+<pre>
+15:21 <@hendry> jamiekitso: so www. would be a website? and kitten-x.com, a website ? :)
+15:22 <+jamiekitso> hendry: it's also useful to be able to access your root web dir with your domain name
+15:22 <+jamiekitso> hendry: so www has a subdir
+15:23 <+jamiekitso> hendry: I guess you can probably do both
+15:26 <@hendry> jamiekitso: that's a good idea
+</pre>
+
+<p>So that means if someone visited <strong>example.com</strong>, all the applications would be listed:</p>
+
+<ul>
+<li>www</li>
+<li>smtp</li>
+<li>blog</li>
+<li>etc.</li>
+</ul>
+"""]]

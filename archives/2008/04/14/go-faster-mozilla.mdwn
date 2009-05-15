@@ -1,0 +1,22 @@
+[[!meta title="Go faster Mozilla" ]]
+[[!meta date="2008-04-16 12:33:50" ]]
+<a href="http://www.flickr.com/photos/hendry/2413497636/" title="Fennec VERSUS FF3b5 by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3014/2413497636_b84b8dc2b8.jpg" width="500" height="375" alt="Fennec VERSUS FF3b5" /></a>
+
+<p>I&#8217;ve been using Firefox 3 (beta5) pre-release lately, because it&#8217;s <strong>faster</strong> than Firefox 2.</p>
+
+<ul>
+<li>FF3 doesn&#8217;t seem work on <a href="http://www.sina.com.cn/">China&#8217;s biggest portal</a>. If the desktop browser can&#8217;t grok this, what chance does Firefox Mobile (think developing markets)?</li>
+<li>Autocompletion with &#8220;AwesomeBar&#8221; (I think it&#8217;s called) sucks for me. How do I turn it off or make it act like it did in FF2?</li>
+<li>Image zoom caught me off guard. [View -> Zoom -> Zoom Text Only] to disable. I look to a future of <a href="http://natalian.org/archives/2005/01/21/images/">scalable images</a>.</li>
+<li>The bookmarks stuff seems like a disaster. I want it all <strong>removed</strong>. I prefer simple bookmarklets and <a href="http://del.icio.us/hendry">del.icio.us</a>.</li>
+<li>I need to update my <a href="http://webconverger.org/kiosk/">extension</a> for <a href="http://webconverger.com/">Webconverger</a></li>
+<li>No <a href="http://www.double.co.nz/video_test/"><span class="caps">OGG</span> video support</a> :(</li>
+</ul>
+
+<p>Generally I don&#8217;t like their &#8220;session management&#8221; (browser.sessionstore.resume_from_crash <strong>false</strong>). It would be good if I could simply &#8216;lock&#8217; certain tabs like <a href="https://gmail.com/">Gmail</a>, which really must be my first tab. I also want it locked so I can&#8217;t accidentally navigate away from it which I have done far too many times now.</p>
+
+<p>I am most impressed by the improved &#8220;feel&#8221; or responsiveness of FF3. I really hope Mozilla can concentrate on re-factoring their code to squeeze it into their &#8216;fennec&#8217; <a href="http://wiki.mozilla.org/Mobile">mobile browser</a>. Update: <a href="http://natalian.org/archives/2008/04/14/go-faster-mozilla/#comment-33944">Blassey kindley informs me Fennec and FF3 are the same rendering engine</a>.</p>
+
+<p>Mozilla&#8217;s mobile codename &#8216;Fennec&#8217; is outperforming <a href="http://browser.garage.maemo.org/">microb</a> significantly already. That&#8217;s great though after reading <a href="http://arstechnica.com/news.ars/post/20080409-first-look-mozilla-fennec-targets-handheld-browser-market.html">a first look</a> I am little bit disappointed to see talk of <a href="http://starkravingfinkle.org/blog/2008/04/have-xulrunner-will-travel-its-mobile-baby/"><span class="caps">XUL</span></a>. I&#8217;ve created extensions and I think <span class="caps">XUL</span> is crap. I much prefer working within the Web paradigms of JavaScript and <span class="caps">CSS</span>. Addon support is fantastic though then again, my experience of extensions/addons/whatever-they-are-now-called is that they can make Firefox <strong>slow</strong>. Which is bad bad <strong>bad</strong>.</p>
+
+<p>Actually, when I think about it, an addon could be called a <a href="http://natalian.org/archives/2008/04/11/are-widgets-popular/">widget</a>.</p>

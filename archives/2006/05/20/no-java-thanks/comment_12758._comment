@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Simon"
+ subject="84.45.158.52"
+ date="2006-05-20 19:32:17"
+ content="""
+<p>Kai, your Java biases aside, I had a look at this earlier this week, and as the guy in the webkit forum says, it looks like if you want to use an <span class="caps">IDE</span> and Java to write your Javascript, Echo2 is the system of choice. These big organisations can do a lot of harm to good projects by inadvertently and clumsily treading on their territory without proper research.</p>
+
+<p>On the downside, I&#8217;m skeptical of anything Google use to write Javascript because so many of their applications are basically IE only, where as a lot of the other libraries and tools make a big thing of compatibility.</p>
+"""]]

@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="lemon"
+ subject="82.144.60.99"
+ date="2007-07-03 13:08:25"
+ content="""
+<p>Mine handles rtorrent happily (while also doing many other things at the same time). The only shortcoming I find is network file access which is very slow (specially via samba but via nfs too).</p>
+"""]]

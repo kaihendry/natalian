@@ -1,0 +1,31 @@
+
+[[!_comment format=mdwn
+ username="Craig Ringer"
+ subject="202.72.144.62"
+ date="2005-12-09 19:45:36"
+ content="""
+<p>I must agree with <span class="caps">HTML</span> in email, because it&#8217;s not actually necessary to convey a message. <span class="caps">HTML</span> is fluff. Pictures in-line, borders, colours, text styles, etc. I do actually occasionally find it useful (though only as multipart/alternative) but think it&#8217;s very silly to use where it&#8217;s not necessary. <span class="caps">HTML</span> support is complex for MUAs to properly implement, and generally unnecessary.</p>
+
+<p>While to an extent the same is true of Unicode in email (be it <span class="caps">UCS</span>-2/UTF-16 or <span class="caps">UTF</span>-8) in that a user can use an older 8-bit locale like the <span class="caps">ISO</span>-8859 locales (&#8220;latin-n / iso-8859-n&#8221;) , I don&#8217;t think it&#8217;s the same thing as <span class="caps">HTML</span> at all. Not that you said that, re-reading your post.</p>
+
+<p>Unicode should not be difficult for most MUAs. MUAs must already handle incoming text in varying encodings. There is no such thing as &#8220;just text&#8221; ; a byte stream isn&#8217;t text without an associated encoding. Most <span class="caps">MIME</span> email these days should have character encoding info, so one can&#8217;t really claim there&#8217;s no way to know what the input charset is. It&#8217;s not safe to assume that incoming messages use the same text encoding as you &#8211; for example, an <span class="caps">MUA</span> running on a machine with a default <span class="caps">UTF</span>-8 charset must convert incoming latin-1 text to <span class="caps">UTF</span>-8; an <span class="caps">MUA</span> on a latin-1 system must do the reverse for incoming <span class="caps">UTF</span>-8 text. To an English speaker who only uses the 7-bit <span class="caps">ASCII</span> subset that&#8217;s not even noticeable, but it&#8217;s a major pain for the rest of the world (and for those of us who like typographically civilized email :-P ).</p>
+
+<p>Unless you&#8217;re prepared to flatly require that all incoming text only use 7-bit <span class="caps">ASCII</span>, you need to be aware of encodings. Even if you are, <span class="caps">SHIFT</span>-JIS and some other unusual encodings that don&#8217;t retain the 7 bit <span class="caps">ASCII</span> subset will still stab you in the back.</p>
+
+<p>Given this, the most likely issue with unicode support is in MUAs that assume a 1:1 correspondance between bytes and characters, which will find themselves getting very confused doing things like wrapping or taking substrings. This is annoying, to be sure, but fixable. If nothing else, these MUAs can use their existing encoding conversion facilities to convert incoming unicode text to an encoding they <span class="caps">CAN</span> deal with, such as latin-1, and substitute characters that don&#8217;t have codepoints in that locale with an error indicator ( &#8221;?&#8221; is common, if confusing ). MUAs that can&#8217;t do at least this have bigger problems than unicode to worry about.</p>
+
+<p>Consequently, I think that for <span class="caps">MIME</span> email, it&#8217;s stupid to insist that your preferred character set (be it 7-bit <span class="caps">ASCII</span> or otherwise) should be the one everybody uses. It&#8217;s really an <span class="caps">MUA</span>&#8216;s job, for proper <span class="caps">MIME</span> support, to take care of this issue, and to my mind failure to do so is a major bug.</p>
+
+<p>For non-MIME mail, the issue is rather messier, but the obvious answer is &#8220;use <span class="caps">MIME</span>&#8221;. Which, like <span class="caps">HTML</span>, isn&#8217;t actually technically necessary ( plain RFC822 <span class="caps">ASCII</span> bodies with uuencoded attachments are good enough for everybody, right?) but rather handy. Hmm. Maybe <span class="caps">HTML</span> isn&#8217;t so bad after all ;-)</p>
+
+<p>When it comes to man pages, it&#8217;s a bit more confusing. As far as I know there&#8217;s no way to reliably determine what text encoding a man page is in, since (unlike <span class="caps">MIME</span>) man pages don&#8217;t have anything so useful as a header or macro to declare the encoding of the text. The right fix is probably to add support in nroff for a macro like .CHARSET, solving the problem once and for all. Without that, the only way to go is to assume an encoding (either taking it from the system locale, or from some external specifier of the input&#8217;s file encoding). If you can&#8217;t always reliably get the encoding of a file, you have to best guess it &#8211; and <span class="caps">ASCII</span>-only text has the best chance of surviving that best guess.</p>
+
+<p>So yeah, I&#8217;d say for now it&#8217;s necessary to work around the immediate problem by reducing man pages to 7-bit <span class="caps">ASCII</span> where possible. That&#8217;s very far from a &#8220;fix&#8221; though &#8211; it&#8217;s a workaround, and an ugly one. The real solution is to fix man pages so that they specify their encoding and the tools that process them are aware of text encodings. Translators would love whoever did this forever, and I expect it&#8217;d make people who generate man pages from other formats pretty darn happy too. There&#8217;s less and less reason to ensure tools that don&#8217;t understand text encodings these days, and they&#8217;re becoming more and more of a problem.</p>
+
+<p>I should note that I&#8217;m an Australian myself; the furthest out of US-ASCII I get on a day to day basis are symols like ®©° and the Czech, German and French names of people I work with over the &#8216;net. However, it&#8217;s really embarrassing to have to write Vanek because some broken mail client can&#8217;t cope with Vaněk. Even in English we now mangle the language (or borrowed words, at least) to work around the stupidity of old programs and protocols &#8211; when did you last write café as café not cafe, correctly spell résumé, or write dæmon?</p>
+
+<p>In the short run, sure, edit out those section symbols. In the longer run, that&#8217;s just not an OK &#8220;fix&#8221; anymore in my view &#8211; not for English speakers, and certainly not for anybody else.</p>
+
+<p>&#8212;<br />
+Craig Ringer</p>
+"""]]

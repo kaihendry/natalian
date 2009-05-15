@@ -1,0 +1,5 @@
+[[!meta title="Mobile Web vs Desktop Web" ]]
+[[!meta date="2005-06-01 10:11:55" ]]
+<p>The <a href="http://lists.w3.org/Archives/Public/public-bpwg/2005May/0012.html">usual troll now on the W3 mailing lists.</a></p>
+
+<p>Take a look at my <a href="http://lists.w3.org/Archives/Public/public-bpwg/2005May/0014.html">rebuke.</a></p>

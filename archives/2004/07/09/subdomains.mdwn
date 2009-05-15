@@ -1,0 +1,37 @@
+[[!meta title="Subdomains" ]]
+[[!meta date="2004-07-10 00:06:40" ]]
+<p>Maybe it&#8217;s a fad, but I like subdomains in <a href="http://www.w3.org/Addressing/">URLs</a>. My <a href="http://packages.qa.debian.org/m/maradns.html">debian package maradns</a> <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.083.htp">allows you to have subdomains on your server quite easily.</a></p>
+
+<p>One of the good things about this, is that you can utilize Google&#8217;s <strong>site:</strong> command better.</p>
+
+<p>However I think there must be some down sides. For example if I wanted to <a href="http://matthew.infodancer.org/weblog/entry/103.jsp">boycott <span class="caps">MSN</span> search</a> and add:</p>
+
+<pre>
+echo -e "User-agent: msnbotnDisallow: /" >> robots.txt
+</pre>
+
+<a href="http://mosquito.wordpress.org/bug_view_page.php?bug_id=0000059">Wordpress seems to eat my backslashes. :(</a>
+
+<p>I would need to do it all my websites:<br />
+<pre><br />
+hendry@bilbo:/web$ for i in `ls`; do echo $i; done<br />
+aat.dabase.com<br />
+dabase.com<br />
+daidalos.pannuhuone.org<br />
+debian.natalian.org<br />
+fortune.dabase.com<br />
+media.dabase.com<br />
+mprobots.dabase.com<br />
+natalian.org<br />
+pictures.natalian.org<br />
+prazefarm.co.uk<br />
+r.dabase.com<br />
+robots.dabase.com<br />
+rossetti.org.uk<br />
+rwiki.dabase.com<br />
+svn.natalian.org<br />
+tips.natalian.org<br />
+wiki.dabase.com<br />
+</pre></p>
+
+<p>Ok, it doesn&#8217;t seem that hard after all&#8230; :)</p>

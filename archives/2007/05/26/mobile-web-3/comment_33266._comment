@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="91.84.62.62"
+ date="2007-05-29 11:18:23"
+ content="""
+<p>When I mean Google doesn&#8217;t support <span class="caps">XHTML</span>. I mean for example one of my test sites <a href="http://www.google.com/search?q=dabase.com" rel="nofollow">dabase.com</a>, which is <strong>correctly served</strong> as <span class="caps">XHTML</span>. It does actually show up now at last on Google search results, however as File Format: Unrecognized.</p>
+
+<p>The mobile revolution starts when people realise we need to support the mobile Web as <strong>device independent <span class="caps">HTML</span></strong>, a Universal Web. Forget Web page developers targeting screen sizes, forget &#8220;contexts&#8221;. Then I see vendors seriously getting down to shipping a serious <span class="caps">HTML</span> browser.</p>
+
+<p>Fragmenting efforts into <span class="caps">WAP</span>, &#8220;mobile web&#8221; (by which you mean Web designed for mobiles) or mobile &#8220;context&#8221; <strong>slows</strong> us down.</p>
+
+<p>For example I know three.co.uk didn&#8217;t go with the Nokia Webkit based Web browser by default, because they fealt they had to support <span class="caps">WAP</span>. Hence what <span class="caps">CRAPPY</span> <span class="caps">BACKWARDS</span> <span class="caps">DEFAULT</span>&amp;SUPPORTED <span class="caps">BROWSER</span> is on their 3G phones? The Nokia &#8220;Services&#8221; browser. Do you understand now why I have no time for <span class="caps">WAP</span> and <span class="caps">XHTML</span>?</p>
+
+<p>The more you advertise for special mobile treatment, the more bullshit like this will happen.</p>
+"""]]

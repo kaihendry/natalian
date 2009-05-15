@@ -1,0 +1,61 @@
+[[!meta title="Oracle10g" ]]
+[[!meta date="2005-07-08 03:31:07" ]]
+<p>Continuing from my previous <a href="http://natalian.org/archives/2005/07/01/week-2-at-the-oracle-university/">Oracle posts.</a></p>
+
+<p>Week 3 of Oracle and this week I have had a lot of breakthroughs. Most important discoveries were <strong>emconsole</strong> and <strong>dbca</strong>.</p>
+
+<p>There are so many weird things going on in Oracle. I could rant all month, but I&#8217;ll try make this short. All I can say is that Oracle are on a sweet ride. They get great money from their corporate customers, though their product is so infuriating to use!</p>
+
+<p>For example, <a href="http://www.oracle.com/technology/software/products/database/oracle10g/htdocs/10201linuxsoft.html">release 2 of 10g is 100 upon 100 of megs of odd packages</a> that you sometimes feel like asking your boss to buy the damn CD.</p>
+
+<p>The <a href="http://www-us.flickr.com/photos/16105436@N00/24155788/in/photostream/">Oracle bug database, metalink.</a> What a joke. I still have not figured out how to report bugs. I don&#8217;t think I&#8217;ll bother.</p>
+
+<p>Oracle <strong>Documentation</strong> on the &#8220;oracle database documentation library&#8221; <span class="caps">SUCKS</span>. It&#8217;s so boring to read. The Windows centric <a href="http://download.oracle.com/docs/html/B10742_02/toc.htm">2 day <span class="caps">DBA</span></a> might point you in the right direction.</p>
+
+<p>Make sure ORACLE_SID points to your DB name!<br />
+<code><br />
+emctl start dbconsole<br />
+</code><br />
+Probably want to setup the listener by hand:<br />
+<code><br />
+lsnrctl status<br />
+lsnrctl start<br />
+</code></p>
+
+<p>About the Enterprise Manager for Oracle 10g console. It&#8217;s actually a &#8220;self hosted&#8221; J2EE (urgh) Web application. It&#8217;s a beast and it&#8217;s <a href="http://static.dabase.com/2005/jul/recovery.html">buggy.</a> Though it seems better than the other tools in the 10 million CD suite. My friend&#8217;s &#8220;Oracle <span class="caps">DBA</span> Guy&#8221; says it is the bomb. What the hell did Oracle DBAs work with before? ;)</p>
+
+<p>Yes, I have seen that <span class="caps">SQL</span> <span class="caps">SCRIPTS</span> used to maintain Oracle in an <span class="caps">OLD</span> <span class="caps">SKOOL</span> way. Christ, what crap.</p>
+
+<p>Tour my <a href="http://www-us.flickr.com/photos/16105436@N00/tags/oracle/">screenshots of Oracle 10g.</a>:<br />
+* <a href="http://www-us.flickr.com/photos/16105436@N00/24197072/">Stupid <span class="caps">SYSDBA</span> login</a><br />
+* <a href="http://www-us.flickr.com/photos/16105436@N00/24188645/in/photostream/">The console</a><br />
+* <a href="http://www-us.flickr.com/photos/16105436@N00/24188897/in/photostream/">Bottom of the console</a><br />
+* <a href="http://www-us.flickr.com/photos/16105436@N00/24189195/in/photostream/">Performance graphing</a> <a href="http://www-us.flickr.com/photos/16105436@N00/24190212/in/photostream/">with <span class="caps">SVG</span>!</a><br />
+* <a href="http://www-us.flickr.com/photos/16105436@N00/24189455/in/photostream/">Admin tab</a><br />
+* <a href="http://www-us.flickr.com/photos/16105436@N00/24189624/in/photostream/">Maintain tab</a><br />
+* <a href="http://www-us.flickr.com/photos/16105436@N00/24190806/in/photostream/">Patching feature. <span class="caps">COOL</span>. Pity it doesn&#8217;t work very well.</a></p>
+
+<p>For administrators or &#8220;deployment managers&#8221; (someone corporates hire when their project is running late to help actually deliver and take the blame) like me, you can do everything there except setup a database. That&#8217;s where <strong>dbca</strong> comes in.</p>
+
+<p>Creating a database in Oracle is tricky. I was presented with a whole bunch of scripts to setup a client&#8217;s database. Unfortunately those scripts were dependent on version 9 of Oracle and they were not porting well over to 10g.</p>
+
+<p>In frustration I did create a user and a tablespace in the default orcl database. That&#8217;s the wrong way. Use <strong>dbca</strong>, ok?<br />
+Dbca is a Java <span class="caps">GUI</span> app that sets up a default database which is amazingly close to my client&#8217;s own DB creation scripts. Yay. It does create an <a href="http://static.dabase.com/2005/jul/rinco.html"><span class="caps">HTML</span> file of the specs</a> when you&#8217;re done. I don&#8217;t see how one can use that as a template for future databases. It&#8217;s unparsable <span class="caps">FFS</span>.</p>
+
+<p>Hmm, what other tips can I share. Starting it up is hell. If your database is called &#8220;rinco&#8221; make sure then environment variable ORACLE_SID is equal to that.</p>
+
+<p>Something else mildly interesting. The way you log in. You need to use the /nolog feature and the connect as a sys <span class="caps">DBA</span>. Argh:<br />
+<code><br />
+[oracle@server ~]$ export ORACLE_SID=orcl<br />
+[oracle@server ~]$ sqlplus /nolog</p>
+
+<p><span class="caps">SQL</span>*Plus: Release 10.1.0.3.0 &#8211; Production on Tue Jul 5 16:37:31 2005</p>
+
+<p>Copyright&#169; 1982, 2004, Oracle.  All rights reserved.</p>
+
+<p><span class="caps">SQL</span>> connect / as sysdba<br />
+Connected.<br />
+<span class="caps">SQL</span>> startup<br />
+</code></p>
+
+<p>Lastly: <a href="http://www.oracle.com/technology/community/opinion">Oracle Blogs</a></p>

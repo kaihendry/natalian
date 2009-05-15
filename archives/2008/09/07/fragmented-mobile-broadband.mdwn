@@ -1,0 +1,19 @@
+[[!meta title="Fragmented mobile broadband" ]]
+[[!meta date="2008-10-07 21:10:26" ]]
+<a href="http://www.flickr.com/photos/hendry/2795961688/" title="Vodafone dongle by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3076/2795961688_122b2bc666_m.jpg" width="240" height="180" alt="Vodafone dongle" /></a>
+
+<p>So mobile operators are becoming <a href="http://online.vodafone.co.uk/dispatch/Portal/appmanager/vodafone/wrp?_nfpb=true&amp;_pageLabel=template06&amp;pageID=VA_0005">broadband providers</a>.</p>
+
+<p>But operators/carriers don&#8217;t want to be ISPs! :)</p>
+
+<p>For example all the mobile operators in the UK <span class="caps">AFAIK</span> use different business models for <a href="http://en.wikipedia.org/wiki/HSPDA"><span class="caps">HSPDA</span> data</a>, discriminating on device.</p>
+
+<p>If you use your <span class="caps">SIM</span> card on your laptop (via a <span class="caps">USB</span> dongle) you pay one price. If you use your <span class="caps">SIM</span> card on your phone for data access, you pay a cheaper price. Operators assume that you&#8217;ll use far less data from your phone. Which is true today.</p>
+
+<p>Sidenote: Many operators have sold &#8220;unlimited&#8221; Internet, to then come along and say, no &#8220;you have 1G of data&#8221;. Sorry, 1G of &#8220;fair usage&#8221; is <strong>not unlimited</strong>.</p>
+
+<p>You <em>could</em> dial in via a <a href="http://flickr.com/photos/hendry/2278783255/">bluetooth 3G phone</a> from your laptop and operators will get pissed and <a href="http://natalian.org/archives/2008/05/20/threes-threat-to-3g-data/">send stupid threats</a> and you won&#8217;t like your mobile&#8217;s <strong>battery</strong> life.</p>
+
+<p>I don&#8217;t think you can simply remove the <span class="caps">SIM</span> card from your mobile and put it into a Huawei E272 dongle. People keep telling me this is not possible, but I can&#8217;t confirm this. I assume that operators probably blacklist devices like <span class="caps">USB</span> dongles, to enforce their fragmented (24/18/12 month contact etc.) &#8220;plans&#8221; on mobile broadband.</p>
+
+<p>So Vodafone wants to sell me one <span class="caps">SIM</span> card for data and one for voice. Stupid and fragmented.</p>

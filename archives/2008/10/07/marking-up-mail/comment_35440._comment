@@ -1,0 +1,13 @@
+
+[[!_comment format=mdwn
+ username="David Bremner"
+ subject="142.166.200.54"
+ date="2008-10-08 01:01:25"
+ content="""
+<p>Since you apparently use <br />
+ikiwiki, you might be interested in the mailbox plugin that I wrote</p>
+
+<p><a href="http://pivot.cs.unb.ca/git/?p=ikimailbox.git;a=summary">http://pivot.cs.unb.ca/git/?p=ikimailbox.git;a=summary</a></p>
+
+<p>I&#8217;ll be the first to admit that it is immature.  But it is small (1.1 millimhonarc) and deals with threading. It could be somewhere to start.</p>
+"""]]

@@ -1,0 +1,17 @@
+[[!meta title="Indexing video" ]]
+[[!meta date="2006-12-05 21:54:16" ]]
+<a href="http://flickr.com/photos/jamiekitson/313054009/">
+<img src="http://static.flickr.com/121/313054009_647811c69a_m.jpg" alt="sunset" />
+</a>
+
+<p><span class="caps">AFAIK</span> Google does not index my <a href="http://video.natalian.org/">videos on the web</a>.</p>
+
+<p>It instead expects me to upload the videos to their site. I expect Google to crawl the Web for my videos. Admittedly <a href="http://video.natalian.org/">my videos</a> lack some metadata (a title), though I&#8217;ll be happy to add metadata if they publish how they would like me to do that.</p>
+
+<p>I&#8217;m very concerned precious data is ending up in concentrated proprietary places such as myspace, youtube etc. and people are less inclined to host their own content, their own webspace. This surely moves a lot of content from the potentially thousands of web sites out there, to just a few.</p>
+
+<p>I think this is a failure of open interfaces and technologies, compounded with the greed of the bigger players. Google for example really should index video. I <a href="http://groups.google.com/group/google-video-past/browse_thread/thread/82ad5a7f07cd0c3a/72a39a7b642e13fc?lnk=gst&amp;q=hendry&amp;rnum=2#72a39a7b642e13fc">raised this issue of indexing video</a> sometime ago on their forums.</p>
+
+<p>In the end, I think it undermines Google&#8217;s core product, the search engine. If there is less and less for its web robots to crawl and say myspace hosting most home pages. Then what good is Google&#8217;s search engine? Instead users can and will be forced to go to myspace, a single proprietary source. That&#8217;s not what the Web is about for me. The Web should be and remain a distributed source of information.</p>
+
+<p>Perhaps you can argue it is now easier than ever to compete with <a href="http://www.google.com/">Google search</a>. Just write an engine to especially crawl wikipedia, myspace, youtube etc. where most data is. Hah!</p>

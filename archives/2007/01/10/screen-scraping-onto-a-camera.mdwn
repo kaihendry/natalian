@@ -1,0 +1,19 @@
+[[!meta title="Screen scraping onto a camera" ]]
+[[!meta date="2007-01-10 17:44:19" ]]
+<a href="http://www.flickr.com/photos/hendry/352910711/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/141/352910711_508689a831_m.jpg" width="240" height="180" alt="Google maps on a camera" /></a>
+
+<p>Wouldn&#8217;t it be cool if I could:</p>
+
+<ol>
+<li>take a rendered Web page</li>
+<li>convert it to <span class="caps">JPEG</span></li>
+<li>upload it to my digital camera (wirelessly)</li>
+</ol>
+
+<p>So I could view the page on my digital camera, which is usually very apt for viewing images&#8230; compared to my <a href="http://natalian.org/archives/2007/01/13/nokia-2610/">crap mobile phone</a>.</p>
+
+<p>Or it would be great to have a fecking usable web browser in a mobile phone that doesn&#8217;t cost a fortune.</p>
+
+<p>Instead as you can see from the screenshot. I just took a picture of my X40&#8217;s screen. :)</p>
+
+<p>To conclude ideally the Canon&#8217;s transfer interface needs improving. Sometimes when I manipulate a <span class="caps">JPEG</span> and put the SD card back into the camera, Canon seems to think the <span class="caps">JPEG</span> is now incompatible.</p>

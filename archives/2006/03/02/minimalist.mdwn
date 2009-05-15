@@ -1,0 +1,5 @@
+[[!meta title="minimalist" ]]
+[[!meta date="2006-03-02 00:25:04" ]]
+<a href="http://surink.com/">s<acronym title="Uniform Resource Identifier">URI</acronym>nk</a> is another URL shortening tool. Try it.
+
+<p>I hope you&#8217;ve spotted the new <a href="http://natalian.org/archives/">archives</a> and <a href="http://natalian.org/links/">links</a> pages. I&#8217;ve designed this blog to be mobile device friendly.</p>

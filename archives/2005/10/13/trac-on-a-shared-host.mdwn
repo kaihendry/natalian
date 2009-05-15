@@ -1,0 +1,17 @@
+[[!meta title="Trac on a shared host" ]]
+[[!meta date="2006-12-28 16:33:30" ]]
+<p>I&#8217;ve moved my Subversion repositry over to Dreamhost. As that is a shared host I needed to setup <a href="http://www.edgewall.com/trac">Trac</a> via <strong>htaccess</strong>.</p>
+
+<p>I wrote about this in the <a href="http://wiki.dreamhost.com/index.php/Trac#Get_DH_to_install_Trac_on_your_shared_host">Dreamhost Wiki</a> though I still have <a href="http://lists.edgewall.com/archive/trac/2005-October/005073.html">a problem.</a></p>
+
+<p>Now I need to get rid of the stupid <strong>index.cgi</strong> crufting my <span class="caps">URL</span>!</p>
+
+<p><a href="http://trac2.natalian.org/index.cgi/browser/projects/">http://trac2.natalian.org/index.cgi/browser/projects/</a> on Dreamhost</p>
+
+<p>Should be same <span class="caps">URI</span> structure as my previous host:</p>
+
+<p><a href="http://trac.natalian.org/browser/projects/"><a href="http://trac.natalian.org/browser/projects/">http://trac.natalian.org/browser/projects/</a></a></p>
+
+<p>I guess I need to do this with RewriteRules from <strong>htaccess</strong>, but I have never had much luck with them. They&#8217;re voodoo. Black magic. I need help.</p>
+
+<p>There should be some <strong>resource</strong> or <a href="http://groups.google.com/groups?q=rewriterule">group</a> dedicated to solving RewriteRule problems like mine. To de-cruft URLs and maintain a pleasant <span class="caps">URL</span> structure.</p>

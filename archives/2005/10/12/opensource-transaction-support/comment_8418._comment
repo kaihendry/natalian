@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-10-13 14:10:51"
+ content="""
+<p>Thank you for your comments Joose.</p>
+
+<p>In future I will try Postgres again and try shake off my previous experiences.</p>
+
+<p>The problems I&#8217;ve had with &#8220;REAL <span class="caps">SQL</span> <span class="caps">SERVERS</span>&#8221; is generally from a <span class="caps">DBA</span> <span class="caps">POV</span>. Oracle is a <span class="caps">NIGHTMARE</span> to administrate. I&#8217;ve had similar though far less brain damaging experiences with PostgresSQL, though that was years ago now.</p>
+
+<p>Despite your valid complaints, I&#8217;m still a mysql fanboy. ;)</p>
+"""]]

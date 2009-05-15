@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Java Donkey"
+ subject="165.200.85.60"
+ date="2007-04-27 14:11:41"
+ content="""
+<p>I have also had real success during development with <span class="caps">JBOSS</span> hot deploy.  Simply touch application.xml and <span class="caps">JBOSS</span> does a redeploy of the .ear.  I would not recommend it for a production environment though.</p>
+"""]]

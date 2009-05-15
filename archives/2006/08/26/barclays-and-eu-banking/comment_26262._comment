@@ -1,0 +1,17 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="201.250.8.93"
+ date="2006-09-22 07:56:03"
+ content="""
+<p><span class="caps">SAMPO</span> do charge 4,50EUR for a EU transfer. Their system for transferring the money is a bit weird.</p>
+
+<p>I don&#8217;t see why they can&#8217;t make it the same style as a normal Finnish transfer. Instead there is an extra confirm stage. Odd.</p>
+
+<p>Initially they say they require:</p>
+
+<p>* the beneficiary´s account number in the <a href="http://en.wikipedia.org/wiki/IBAN" rel="nofollow"><span class="caps">IBAN</span></a> form (International Bank Account Number)<br />
+ * the <span class="caps">BIC</span>/SWIFT code of the beneficiary´s bank</p>
+
+<p>They <span class="caps">ALSO</span> require the address of the receiver. Grrr.</p>
+"""]]

@@ -1,0 +1,15 @@
+[[!meta title="Secure banking is not with fingerprinting" ]]
+[[!meta date="2005-09-19 12:22:41" ]]
+<p>In Melbourne newspapers covered a crackdown on Online Banking fraud with announcements of <a href="http://theage.com.au/articles/2005/09/16/1126750114041.html">Fingerprinting technology.</a></p>
+
+<p>Umm, haven&#8217;t you Australian security experts heard of <a href="http://en.wikipedia.org/wiki/One-time_password">One Time Passwords?!</a></p>
+
+<p><a href="http://www.sampo.fi/">Sampo</a> my bank in Finland sends me a plastic credit card with lots of number pairs. When I shift money it asks for a number which I match up with the other pair on the card and submit it. It&#8217;s different every time. Once I&#8217;ve exhausted all the options, Sampo sends me another plastic card with new numbers. Unless someone has my account details, password and the plastic card then you can&#8217;t shift my money around.</p>
+
+<p>Sampo is smart.</p>
+
+<p>My <a href="http://www.anz.com/"><span class="caps">ANZ</span></a> Internet Banking account in Australia on the other hand is daft. Javascript popup window so it is difficult to know whether your connection is even secure. After logging in with my account details and password I can shift money even to overseas accounts. Which is a security nightmare. Some Web browsers (UAs) are able to cache my password, so anyone using my computer could shift my money around. One time passwords would prevent this, as someone would require the new matching number.</p>
+
+<p><span class="caps">ANZ</span>, get a <span class="caps">CLUE</span>!</p>
+
+<p>I imagine Finger Printing technology not only to be costly and stupid, but I heard from a Japanese security professional that elderly people do not have enough moisture in their fingers to use such devices.</p>

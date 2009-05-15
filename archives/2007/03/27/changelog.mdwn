@@ -1,0 +1,11 @@
+[[!meta title="Changelog" ]]
+[[!meta date="2007-03-27 22:09:08" ]]
+<a href="http://www.flickr.com/photos/hendry/433359148/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/150/433359148_cc19276fc5_m.jpg" width="180" height="240" alt="Millpool path" /></a>
+
+<ul>
+<li>My &#8220;travel&#8221; talk suggestion is accepted for <a href="https://debconf7.debconf.org/wiki/DebianDay">Debian Day</a> at <a href="https://debconf7.debconf.org/wiki/Main_Page">Debconf7</a>. See you there!</li>
+<li>How many DDs eat 150 emails for breakfast? <a href="http://lists.w3.org/Archives/Public/public-html/2007JanMar/0503.html">Some people</a> on this <a href="http://natalian.org/archives/2007/03/23/invasion-of-the-invited-experts/"><span class="caps">HTML</span> WG</a> are hilarious.</li>
+<li><a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=413926">Wordpress should be in etch</a>. Thanks for everyone&#8217;s input on this.</li>
+<li>The <a href="http://live.debian.net/">Debian live</a> based <a href="http://webconverger.com/">Webconverger</a> &#8220;browser live system&#8221; is <span class="caps">BETA</span>! See <a href="http://webconverger.com/about/">about Webconverger</a> for more information.</li>
+<li>My <a href="http://prazefarm.co.uk/">Cornwall house</a> sitting days are over and now I need to find a (hopefully debian) contract (<a href="http://hendry.iki.fi/cv/">my CV</a>) so I can one day afford more <a href="http://maps.natalian.org/">travel adventures</a>.</li>
+</ul>

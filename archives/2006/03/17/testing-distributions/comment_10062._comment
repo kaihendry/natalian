@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="222.106.128.34"
+ date="2006-03-18 23:04:17"
+ content="""
+<a href="http://www.vmware.com/download/player/">VM player is free-as-in-beer.</a>
+
+<p>VM Workstation requires a painful registration process for the key. You need Workstation to create the .vmx configuration file. Well, actually you don&#8217;t. I&#8217;ve created example .vmx for an <span class="caps">IDE</span> and <span class="caps">SCSI</span> setup, here:</p>
+
+<p><a href="http://static.natalian.org/2006&#8211;03-19/">http://static.natalian.org/2006&#8211;03-19/</a></p>
+
+<p>This guy&#8217;s page was a real help: <a href="http://johnbokma.com/mexit/2005/11/07/vmware-player-ubuntu-installation.html">http://johnbokma.com/mexit/2005/11/07/vmware-player-ubuntu-installation.html</a></p>
+"""]]

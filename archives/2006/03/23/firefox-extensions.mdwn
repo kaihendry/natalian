@@ -1,0 +1,10 @@
+[[!meta title="Firefox extensions" ]]
+[[!meta date="2006-03-23 20:37:15" ]]
+<ul>
+<li><a href="http://toolbar.google.com/firefox/index.html">Google toolbar</a></li>
+<li><a href="http://www.gatsby.ucl.ac.uk/~iam23/code/mozex/">Mozex</a> with `/usr/bin/uxterm -e vim %t`</li>
+<li><a href="https://addons.mozilla.org/extensions/moreinfo.php?id=436">Screensaver</a> Stupid name for a extension that saves the session so all my tabs are the same when I reboot</li>
+<li><a href="https://addons.mozilla.org/extensions/moreinfo.php?id=60&amp;application=firefox">Web developer</a> Another awful named extension to make searching for this sucker near impossible</li>
+</ul>
+
+<p>Yes, now <a href="http://getfirefox.com/">Firefox</a> takes just minutes to load&#8230; <strong>sigh</strong></p>

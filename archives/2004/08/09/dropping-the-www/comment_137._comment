@@ -1,0 +1,38 @@
+
+[[!_comment format=mdwn
+ username="Kai Hendry (Actually really Xiven)"
+ subject="128.214.48.37"
+ date="2004-08-12 13:24:40"
+ content="""
+<code>
+0:03 <@Xiven> xiven.com gets redirected to www.xiven.com
+20:20 <@draq> Xiven: explain yourself
+20:20 <@Xiven> allowing both breaks history
+20:21 <@Xiven> a page appears not visited when actually you have, just with a different url
+20:21 <@Xiven> so i made a choice
+20:21 <@Xiven> i chose to redirect xiven.com -> www.xiven.com
+20:21 <@Xiven> i was leaning towards the other way
+20:22 <@Xiven> but decided against it
+20:22 <@draq> hmm
+20:22 <@draq> Ok, I should have raised the history point
+20:22 <@Xiven> also cookies
+20:22 <@draq> but why not the other way? I.e. just xiven.com ?
+20:22 <@draq> or blog.xiven.com
+20:23 <@Xiven> i'm not using different subdomains for part of my site.  that's crazy (try getting digest auth to persist across subdomains)
+20:24 <@draq> ok, I have to go. But I would like this discussion to continue. Esp. in light of Web apps
+</code>
+<p>The next day:</p>
+<code>
+21:59 <@Xiven> option 1 is fine
+21:59 <@Xiven> cookies can be specified as .yourdomain.org to cover the entire domain
+21:59 <@draq> ok
+22:01 <@Xiven> like i said before, http auth would be a problem if you wanted it to cover the entire domain
+22:01 <@Xiven> but if you aren't planning to do that, there is no problem
+22:01 <@draq> why doesn't it persist across sub domains?
+22:01 <@draq> the spec? or the implementation?
+22:10 <@Xiven> not sure
+22:20 <@Xiven> yeah, spec
+22:22 <@Xiven> though there appears to be a way to give a list of domains
+22:26 <@Xiven> RFC 2617 3.2.1 "domain" paragraph
+</code>
+"""]]

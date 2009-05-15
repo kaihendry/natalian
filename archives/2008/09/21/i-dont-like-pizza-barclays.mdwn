@@ -1,0 +1,36 @@
+[[!meta title="I don't like Pizza Barclays" ]]
+[[!meta date="2008-09-21 16:35:58" ]]
+<a href="http://www.flickr.com/photos/hendry/2796830820/" title="Fraud operations department by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3248/2796830820_6048d80cb3_m.jpg" width="240" height="180" alt="Fraud operations department" /></a>
+
+<p>Finally logged into Barclays Internet banking service once I&#8217;ve found my membership number. The fact that you need a membership number (&amp;Surname) is very stupid Barclays.</p>
+
+<p>So I found several transactions I didn&#8217;t recognise.</p>
+
+<p>For example a &#8220;CRISPIN <span class="caps">BENDING</span> LE&#8221; from 9/9 (Tuesday) is something I have no clue about.</p>
+
+<p>But later transactions from <span class="caps">DOMINO</span>&#8216;S <span class="caps">PIZZA</span> (24.27GBP) and <span class="caps">PERFECT</span> <span class="caps">PIZZA</span> (18.88GBP) alarm me. Why? I don&#8217;t like pizza!</p>
+
+<p>So did I mention Barclays Online Banking statement view is crap? It doesn&#8217;t tell me the:<br />
+* Details of the company (company number? cashier name?)<br />
+* Details of the business transaction (what I bought)<br />
+* <strong>Where</strong> the transaction happened<br />
+* <strong>When exactly</strong> the transaction happened<br />
+* If I used <a href="http://en.wikipedia.org/wiki/Chip_and_PIN">Chip&amp;Pin</a> or the order was made over the Internet/Phone without Chip&amp;Pin aka &#8220;cardholder not present&#8221; <br />
+* A way to flag a suspicious transaction online</p>
+
+<p>Emailing Barclays is weird. They want all your details filled out in a form. Ummm, I&#8217;m logged in and identified, why do I have to do this? In the past, I&#8217;ve sent about three emails / online feedback/complain forms to Barclays and received one very odd reply. I don&#8217;t see why Barclays doesn&#8217;t do some sort of &#8220;secure mail&#8221; service like I&#8217;ve seen several other banks do.</p>
+
+<p>Anyway, I have to call them up on 08457555555. I have a couple of tricks:<br />
+* Don&#8217;t call on my mobile because it&#8217;s costs a small fortune<br />
+* I use Skype which is cheaper<br />
+* I key in &#8217;**&#8217; once authenticated on their telephone system to get to an operator <span class="caps">ASAP</span>.</p>
+
+<p>Now I ask for more information about the transactions. After being on a hold for a few minutes I get extra information about these suspect pizza transactions. First place was a very excellent leather belt I bought at Camden Lock on the 6/9 (<strong>not</strong> 9/9) and the pizza places was one place I&#8217;ve never heard of and another in Leatherhead (never been to).</p>
+
+<p>The operator then says he&#8217;ll cancel my card and send out a new one in 7&#8211;10 working days. Thank god I have a second current account for such situations. This card I have is only two weeks old and again incredulously the first transaction happened probably before I even received the new card.</p>
+
+<p>The Barclays operative will also send out some <em>fraud forms</em> to fill in and I should get the money back within two weeks after returning the forms. What a crap process. I am getting a little tired of this. Can I have a <a href="http://natalian.org/archives/2008/04/27/chip-pin-rant/">Visa Chip&amp;Pin card without those ridiculously insecure numbers imprinted on the card</a>? <strong>Please</strong>? And generate one off (OTP) Visa numbers for Internet transactions?</p>
+
+<p>17 minutes into the call, I got cut off as I only had 1.50GBP of credit on Skype. I hoped Barclays would call me on my mobile phone they have on record, though I think everything was done. Be good if Barclays was pro-active and had the slightest clue about security.</p>
+
+<p>The operator mid-way in the call had the cheek to ask me if I had any cardholder insurance!? No Barclays this very much <strong>your fuck up</strong>. You and your partners <a href="http://en.wikipedia.org/wiki/Visa_Inc."><span class="caps">VISA</span></a> charge almost 2% for every card transaction so work-it-out you incompetent fools.</p>

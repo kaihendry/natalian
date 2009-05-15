@@ -1,0 +1,9 @@
+[[!meta title="Rewrite" ]]
+[[!meta date="2004-01-21 17:20:12" ]]
+<p>I am struggling with mod_rewrite. Visitors from my old blog, apologies for the 404s.</p>
+
+<p>My old blog <span class="caps">RSS</span> <span class="caps">URI</span> with <pre>pyblosxom?flav=rss</pre> can not be matched by mod_rewrite!</p>
+
+<p>There are <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=204508">some</a> <a href="http://nagoya.apache.org/bugzilla/show_bug.cgi?id=24155">bugs</a> reported about it.</p>
+
+<p>A really cool thing about a blog, is that you do not have to maintain a Mozilla bookmarks file in Subversion. You find something interesting you want to recall, blog it in context. Search for it when required.</p>

@@ -1,0 +1,11 @@
+[[!meta title="Red Hat Enterprise Administration porn" ]]
+[[!meta date="2005-06-29 12:42:25" ]]
+<p><a href="http://natalian.org/archives/2005/06/27/flickr-review/">More Flickr fun.</a> Omg the <a href="http://www.flickr.com/photos/organize">organize</a> feature with the timeline is stunning. The win32 upload tool was always crashing while I was trying to upload these files. Instead I ended up doing it with a Web form, which wasn&#8217;t so bad.</p>
+
+<p>I just setup a &#8220;set&#8221; of some <a href="http://www.flickr.com/photos/16105436@N00/sets/515637/">screen shots I took of an install I did of Red Hat Enterprise &#8216;Nahant&#8217;.</a></p>
+
+<p>I probably shouldn&#8217;t have used the <strong>description</strong> field for my <strong>comments</strong>.</p>
+
+<p>I hope this gives you an idea of how Red Hat currently thinks you should administrate your machine. I really think they should support a Web application like <a href="http://www.webmin.com/">Webmin</a> to do that instead.</p>
+
+<p>Funny enough one of the experienced Red Hat administrators at work always installs Webmin for system administration.</p>

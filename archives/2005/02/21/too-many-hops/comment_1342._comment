@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="toni"
+ subject="202.169.226.6"
+ date="2005-02-22 16:47:54"
+ content="""
+<p>Too much indonesian sun? Lol.</p>
+
+<p>Gee, I don&#8217;t know that you&#8217;re in indonesia .. have you try going to Yogyakarta? It&#8217;s pretty nice. A nice city with traditional culture live side by side with the modern culture. I live there rite now infact (taking college, and working)</p>
+
+<p>Bout that svn thing, you can and should really do what the svn said to you. You can do database recovery with <code>svnadmin recover</code>. Been there several times and luckily it was worked for me (I looked on google, there are people having bad experience with that recover thing).</p>
+
+<p>And about Ubuntu, I have pretty bad time with it. It choked my box (ol&#8217; <span class="caps">PIII</span>, 128MB) twice in the first run, unable to boot ..  Third attempt was succesful, but Ubuntu LiveCD sucks out my box memory. Seeing it doesn&#8217;t much app as what I&#8217;ve been expected, I rebooted to Knoppix rite away :D.</p>
+
+<p>Sorry to bother you with silly comments. Too much indonesian sun? :p</p>
+"""]]

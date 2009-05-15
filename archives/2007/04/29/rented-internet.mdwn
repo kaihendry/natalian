@@ -1,0 +1,26 @@
+[[!meta title="Rented Internet" ]]
+[[!meta date="2007-05-02 07:47:08" ]]
+<p>Whilst looking at several rooms via the <a href="http://www.gumtree.com/">Gum tree</a>, I observed Internet access at rented accommodations is a requirement like hot water and electricity.</p>
+
+<p>This Internet thing is pretty big!</p>
+
+<p>Now the problem I have is that in my chosen rented accommodation we have a D-link <span class="caps">DSL</span>-G604T where the previous lodger failed to record the admin password.</p>
+
+<p>I could reset the D-link, though I don&#8217;t know the username/password for the <span class="caps">ISP</span>. In fact, I don&#8217;t even know <span class="caps">WTF</span> is the <span class="caps">ISP</span> or who actually maintains the fixed line.</p>
+
+<p>One of my housemates told me that he recalls that the guy who set the Internet up said it would cut out on the 4th of May. Oh dear.</p>
+
+<p>Now I&#8217;ve discovered that the Wireless router is setup as an <strong>open wlan</strong> where several people use it around here. It&#8217;s slow and it&#8217;s sometimes down altogether&#8230; very frustrating. The <span class="caps">ISP</span> judging by the IPs is ntl which is now part of Virgin. As for the telephone number. I found a phone and called my mobile.</p>
+
+<p>The D-link hardware sucks. For some reason it doesn&#8217;t cache <span class="caps">DNS</span> right, so resolving <span class="caps">DNS</span> to it is a bad idea. It took me ages to find out the Virgin <span class="caps">DNS</span> server addresses. I am not even sure, they&#8217;re the right ones, though thankfully my <span class="caps">DNS</span> queries are now being resolved!</p>
+
+<p>As you can imagine I think in the next couple of days I am going to:</p>
+
+<ol>
+<li>Switch hardware</li>
+<li>Switch ISPs</li>
+</ol>
+
+<p>Not easy. To avoid setup fees, you have to get a 12month contract. It could be worse, in Australia you have no option, you must get a minimum 12 month contract, which is really an impossible contract for a geeky backpacker to fulfil.</p>
+
+<p><strong>Update:</strong> Despite the former house mate claiming that the Virgin contract ends on 4th of May, Virgin have put a cease on my new line until the 14th of May. Only until then Eclipse can try get my Internet working. <strong>No internet for two weeks. Thanks Virgin.</strong></p>

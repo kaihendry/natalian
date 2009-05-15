@@ -1,0 +1,8 @@
+[[!meta title="Countries visited" ]]
+[[!meta date="2005-07-17 19:57:34" ]]
+<p>Played around with <a href="http://www.google.com/apis/maps/">Google Maps <span class="caps">API</span></a> today and created my <a href="http://maps.natalian.org/">own site where I will mark my current location</a> and hopefully other places I&#8217;ve visited.</p>
+
+<p>I want to see it like World 66&#8217;s countries visited overview:<br />
+<img src="http://www.world66.com/myworld66/visitedCountries/worldmap?visited=BWLSMUMZZASZZWATBEDKEEFIFRDEITLVLTNLNOPLPTRUESSECHUKINIDJPKZLAPKSGLKTHVNAU" /></p>
+
+<p>I&#8217;ve written down <span class="caps">GPS</span> co-ords from my Etrex in the past. Hopefully I&#8217;ll put this all together. :)</p>

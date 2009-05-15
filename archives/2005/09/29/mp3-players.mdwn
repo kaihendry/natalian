@@ -1,0 +1,22 @@
+[[!meta title="MP3 Players" ]]
+[[!meta date="2005-09-30 05:00:50" ]]
+<p>So last night I&#8217;ve been paid and now I am in a spending mood.</p>
+
+<p>I am having trouble deciding what MP3 player to get. I want it:</p>
+
+<ul>
+<li>small</li>
+<li>be able to store <span class="caps">GPG</span> key etc on it</li>
+<li>able to access it from my Debian system easily</li>
+</ul>
+
+<p>I went to &#8220;JB Hifi&#8221; in Melbourne and:</p>
+
+<ul>
+<li>Sadly didn&#8217;t see the <a href="http://liw.iki.fi/liw/log/2005-09.html#20050924b">Yepp</a></li>
+<li><a href="http://www.iriver.com.au/iriver/index.cfm?pageID=2&amp;sID=2&amp;prodID=8&amp;">Iriver H10</a> 6G is 396AUD and the 5G is 357AUD. It&#8217;s about the same size as the Ipod mini. Still I think it might be too big&#8230; I do like the FM radio feature though.</li>
+<li><a href="http://www.iriver.com.au/iriver/index.cfm?pageID=2&amp;sID=1&amp;prodID=6&amp;">Iriver T20</a> has a <span class="caps">USB</span> tooth! 1G is 242AUD. That <span class="caps">USB</span> tooth means I can just plug it in without additional cables into the back of my Thinkpad, straight into a <span class="caps">USB</span> port.</li>
+<li><span class="caps">OMG</span>. The <a href="http://www.apple.com/ipodnano/">Ipod Nano.</a> Drool. Although it seems to have <a href="http://slashdot.org/article.pl?sid=05/09/25/1315224">problems</a> with the <a href="http://news.bbc.co.uk/2/hi/technology/4286294.stm">screen.</a> Though could it be just a bad batch? They even have black ones. They&#8217;re priced at 299AUD for 2G and 4G are 359AUD. I think I like this the most, but can I access it easily from my Debian system <span class="caps">CLI</span>? Someone looks like they&#8217;ve got <a href="http://www.tuaw.com/2005/09/19/carry-a-bootable-os-on-your-ipod-nano/">slackware</a> on it.</li>
+</ul>
+
+<p>I also found out that the <a href="http://www.russellbeattie.com/notebook/1008636.html">GB Micro</a> will only be in stores on the 7th of November in Australia. That seems to have an add-on which can play music and videos. Argghhh! But I am not fond of these SD flash memory sticks and waiting&#8230;</p>

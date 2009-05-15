@@ -1,0 +1,11 @@
+[[!meta title="Word Word Web" ]]
+[[!meta date="2005-10-05 10:11:02" ]]
+<p>I discovered an <a href="http://slashdot.org/article.pl?sid=05/09/29/000223&amp;from=rss"><span class="caps">AJAX</span> Word proccessor from Slashdot</a> called <a href="http://www.writely.com">Writely.</a></p>
+
+<p>I&#8217;ve been waiting around for a Web application to upload and edit/print Word files for sometime. Though this is a dissapointing implementation. Understandable when Microsoft are keen to break standards and interoperablity as much as possible to hang on to their monopoly over Office tools.</p>
+
+<p>Word uploads in Writely are converted to <span class="caps">HTML</span>. Oh sweet baby jesus. The one page Word document with an image became four pages. :(</p>
+
+<p>Not good.</p>
+
+<p>Sidenote: I actually use <a href="http://www.openoffice.org/">Openoffice</a> over Word on the desktop and I am quite happy with it. I wish the great work at Openoffice could help with editing Word documents over the Web.</p>

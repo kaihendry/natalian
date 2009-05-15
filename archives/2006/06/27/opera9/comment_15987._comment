@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="222.106.128.198"
+ date="2006-06-28 02:44:47"
+ content="""
+<a href="http://www.flickr.com/photos/hendry/172459652/" title="Photo Sharing" rel="nofollow"><img src="http://static.flickr.com/51/172459652_cacea550e9_m.jpg" width="240" height="180" alt="Firefox 1.5.0.4 rendering an SVG" /></a>
+
+<a href="http://www.flickr.com/photos/hendry/172459644/" title="Photo Sharing" rel="nofollow"><img src="http://static.flickr.com/44/172459644_672f796704_m.jpg" width="240" height="180" alt="Opera9 rendering the same SVG" /></a>
+
+<p>FF only scales text. Opera scales <span class="caps">SVG</span> properly. Thanks for the link Jeff.</p>
+
+<p><a href="http://opera.com/docs/specs/opera9/">http://opera.com/docs/specs/opera9/</a></p>
+"""]]

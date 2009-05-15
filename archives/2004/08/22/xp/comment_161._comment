@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="tapeworm"
+ subject="62.211.183.70"
+ date="2004-08-22 21:56:43"
+ content="""
+<p>if i remember correctly putting cygwin on a cd is easy, install it on a test machine and it will put the packages somewhere on the hard disk, than burn the packages as they are, or better the entire directory, you should be able to reinstall them on another machine without downloading by just using the gui</p>
+
+<p>to use a full debian on top of windows you could also investigate colinux, a sort of user mode linux for windows (and also linux)</p>
+"""]]

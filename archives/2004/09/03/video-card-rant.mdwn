@@ -1,0 +1,49 @@
+[[!meta title="Boring Video card rant" ]]
+[[!meta date="2004-09-03 23:05:12" ]]
+<p>Unfortunately a friend of my father&#8217;s wants to build his computer from components. A little project. This was probably the best way 3 or so years ago, but now I highly recommend you do not build your own computer.</p>
+
+<p>It&#8217;s not worth the time or money.</p>
+
+<p>So I sat on dabs.com and ordered some bits on his behalf. I think the budget was 200UKP but we inadvertedly blew that.</p>
+
+<p>Product : Internet Keyboard PS/2<br />
+Price inc <span class="caps">VAT</span> : £12.99</p>
+
+<p>Product : Athlon XP 2600+ 512Kb SoA<br />
+Price inc <span class="caps">VAT</span> : £58.98</p>
+
+<p>Product : Barracuda 7200.7 80GB SATA150<br />
+Price inc <span class="caps">VAT</span> : £46.98</p>
+
+<p>Product : 512MB 184DIMM PC3200 NP CL3<br />
+Price inc <span class="caps">VAT</span> : £54.99</p>
+
+<p>Product : Silent Boost for XP upto 3400+<br />
+Price inc <span class="caps">VAT</span> : £15.99</p>
+
+<p>(Tried to get a silent one. Sigh&#8230; 16UKP!)</p>
+
+<p>Product : 16xDVD 48xCD Int <span class="caps">IDE</span> <span class="caps">OEM</span><br />
+Price inc <span class="caps">VAT</span> : £15.99</p>
+
+<p>Product : SoA KT600+ <span class="caps">ATX</span> A R L 2DDR<br />
+Price inc <span class="caps">VAT</span> : £40.99</p>
+
+<p>I heard bad things about the Nforce2&#8217;s <span class="caps">NIC</span>, so I opted for <span class="caps">VIA</span>. But then after we made the order I realized I have forgotten about the Video card. Well I hate bundled boards. Argh, the AC97. Poor creative.</p>
+
+<p>I noticed the mb has an <span class="caps">AGP</span> 8x slot for the card. So logically I should find a 8x <span class="caps">AGP</span> card. Oh what do we have?</p>
+
+<ul>
+<li>Nvidia</li>
+<li><span class="caps">ATI</span></li>
+</ul>
+
+<p>With binary drivers. I never had much success with <a href="http://linux.slashdot.org/linux/04/09/03/1313221.shtml?tid=152&amp;tid=106"><span class="caps">ATI</span> drivers</a> so I think I will choose a <a href="http://dabs.com/uk/Search2/Product+Details.htm?quicklinx=2GM9&amp;searchphrase=FX%205200">GeForceFX 5200.</a></p>
+
+<p><a href="http://lists.debian.org/debian-user/2004/03/msg12794.html">It should work judging by this Debian users post.</a></p>
+
+<p>This box will cost 300UKP in total, at least.</p>
+
+<p>It would be cool to play Doom3, but I do not think there are Linux binaries out yet.  Sigh&#8230;</p>
+
+<p>I used to play 3D games. And this will hopefully be the last computer I ever assemble.</p>

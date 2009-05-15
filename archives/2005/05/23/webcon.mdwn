@@ -1,0 +1,11 @@
+[[!meta title="Webcon" ]]
+[[!meta date="2005-05-23 16:56:39" ]]
+<p>There seems to be a lot of interest to do work on the Web, but I find it difficult to see how all this activity translates into <a href="http://www.whatwg.org/">Web specifications.</a></p>
+
+<p>Here are just some events in the next month or two:</p>
+
+<p>* <a href="http://www.mbusiness2005.org/">Mobile Business 2005</a> Ok, sounds .biz, but it is <a href="http://lists.w3.org/Archives/Public/www-di/2004Nov/0000">academic.</a><br />
+ * <a href="http://www.hds.utc.fr/WI05/">Web Intelligence</a> <span class="caps">ACM</span> and <span class="caps">IEEE</span> at it in Europe.<br />
+ * <a href="http://www.myclipboard.net/icwe05/">Device Independent Web Engineering</a> by the International Conference on Web Engineering. I am not too sure <strong>who these guys are.</strong><br />
+ * <a href="http://www.xtech-conference.org/">Xtech &#8211; <span class="caps">XML</span> and Beyond</a> by the Ex-XML guys, which <a href="http://ln.hixie.ch/">Ian</a> is going to.<br />
+ * And of course W3.org&#8217;s little private meetings between sponsors, er&#8230; members.</p>

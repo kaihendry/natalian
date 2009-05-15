@@ -1,0 +1,18 @@
+
+[[!_comment format=mdwn
+ username="Simon"
+ subject="84.45.158.52"
+ date="2006-04-05 03:14:23"
+ content="""
+<p>Middle mouse button paste is brilliant, whenever I return to systems without it, I am loathed to use such awkward cut and paste key sequences. &#8220;Clicking left and right together&#8221; indicated you bought the wrong hardware for running <span class="caps">GNU</span>/Linux, fortunately mice are cheap.</p>
+
+<p>The &#8220;defacto&#8221; standards aren&#8217;t necessarily right&#8212;do you want &#8220;compose+a+`&#8221; for a-acute, or would you prefer to type in the hex code as every MS Windows user has committed them to memory. Think of the kids who don&#8217;t have to learn these broken habit.</p>
+
+<p>Highlighting text with the mouse should be enough to indicate to the system you want to do something with it. Copy to a buffer is a reasonably default action. Any interface that ignores your highlight till you explicitly tell it to do something is just being plain unhelpful.</p>
+
+<p>Sure the X default behaviour is a tad naff, but apps like Klipper can match with regex, and perform appropriate action (highlight <span class="caps">URL</span> get offered a choice(!) of installed browsers), whilst retaining a history in case you highlighted something else later and wanted the earlier one. An ordinary users can use Klipper without knowing about regex, as it isn&#8217;t &#8220;in your face power&#8221;, just &#8220;in your face ease of use and functionality&#8221;, even mediocre users like me could add &#8220;validate <span class="caps">URL</span>&#8221; without understanding how the &#8220;regex&#8221; matched the <span class="caps">URL</span>, just by adding an action.</p>
+
+<p>My main complaint with <span class="caps">GNOME</span> is it doesn&#8217;t do this the <span class="caps">KDE</span> way (who mentioned lack of graphical menu editors). Klipper and <span class="caps">KDE</span> are just so right in doing it this way, and I can only conclude the rest of you haven&#8217;t used a correctly configured <span class="caps">KDE</span> desktop. <span class="caps">KDE</span> with Klipper had this right in version 1.mumble  if I remember rightly, certainly worked grand in version 2, that and spell checking text boxes everywhere, are the functions I loved in <span class="caps">KDE</span> and miss since trying to master <span class="caps">GNOME</span>.</p>
+
+<p>Middle mouse button paste works fine in Firefox&#8212;no idea what Kai is wittering on about there&#8212;what did I miss? The only thing that breaks this is that damned Technocrat.net rich text editor <span class="caps">AFAIK</span>.</p>
+"""]]

@@ -1,0 +1,30 @@
+
+[[!_comment format=mdwn
+ username="Henrique M. Holschuh"
+ subject="200.218.160.138"
+ date="2006-06-24 04:00:04"
+ content="""
+<p>Yes, it would be fair to blame the DD if he did not protect the key properly.  If you cannot protect your secret key properly or are unwilling to deal with the consequences of a failure, stick to being sponsored and don&#8217;t become a DD.</p>
+
+<p>In fact, if someone steals a key from a DD, <b>and he doesn&#8217;t notice it and revoke the key before it is missused</b>, I fully expect him to bear the full consequences of it: clean up after the entire mess made with the key at personal cost, helping audit all changes done with the key (so that we can find which were rogue, which were made by him), bearing the brunt of the complains about any damage done with they key in the public, etc.</p>
+
+<p>Note that secret keys of DDs <strong>have</strong> been reported by their owners to have been &#8220;stolen&#8221; in the past.  Somone else <em>potentially</em> gained access to the keys, even if only for a short time window, and only the passphrase hold them back from using the keys they might have copied.  It doesn&#8217;t matter if someone actually got to the keys or not, if there was a <strong>chance</strong> they might have, you revoke the key.</p>
+
+<p>This means your key passphase better be <strong>very</strong> good, and <strong>very</strong> strong: it is all which holds an attacker at bay if he got access to the key&#8230; and thus it means you have to be very paranoid where you type it, and how strong it is against dictionary and brute-force attacks.  If it bothers you to have long passphrases with gibberish on them, either get a smartcard that does the gpg crypto inside itself, or don&#8217;t become a DD.</p>
+
+<p>Heck, I wish someone would donate 1100 such smartcards and readers to Debian (or make them cheap enough to get), so that we could make using them a requirement for DDs.</p>
+
+<p>Keys being stolen are expected (as a rare event), and unless the DD made a gross error in handling the issue (like not noticing that the key could have been compromised soon enough, not revoking the key <strong>immediately</strong> by uploading the revoked key to Debian&#8217;s and public keyservers, and not notifying Debian <span class="caps">ASAP</span> about the compromise), there is no expected consequence other than the fact that he has to go through the key replacement procedure (which can take some time), and help verify whether the key was used outside of his control.</p>
+
+<p>So far, no stolen gpg key has ever been used to access Debian services like uploading or voting [that we know of].</p>
+
+<p>The issue here is that you show a surprisingly naive attitude about the whole deal.  I sure hope you are not going through NM&#8230;</p>
+
+<p>A key (when properly handled) is much more secure than a simple passphrase (even when the passphrase is also properly handed).  This is the very basic security concept of requiring &#8220;something you know&#8221; and &#8220;something you have&#8221;, against just requiring &#8220;something you know&#8221;.</p>
+
+<p>The whole Wiki idea is either moot (you would use passphrase-protected keys to auth to the wiki, at which point you have exactly what Debian has right now, with a different interface), or just plain stupid from a security standpoint.</p>
+
+<p>Digital signatures last after the upload.  A simple login in some wiki, doesn&#8217;t.  And digital signatures are extremely more difficult to tamper with than a server log, and much easier to distribute (which <span class="caps">BTW</span>, Debian does.  We send all of them to mailing-lists that a number of people around the world read and archive).  They could be very helpful when tracking down compromises.</p>
+
+<p>And the acceptable time-window for a compromised package in Debian is very close to zero.  I doubt very much so it is the same for a bogus Wikipedia page.</p>
+"""]]

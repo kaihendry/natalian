@@ -1,0 +1,21 @@
+[[!meta title="Digital Signage that does not crash" ]]
+[[!meta date="2007-08-06 19:26:26" ]]
+<p>How many times have we seen something like:</p>
+
+<a href="http://www.flickr.com/photos/hendry/1028035206/" title="Digital signage crash"><img src="http://farm2.static.flickr.com/1259/1028035206_d6188967cd.jpg" width="500" height="375" alt="Digital signage done wrong" /></a>
+
+<p>Far too many times! I believe Windows isn&#8217;t stable enough for <a href="http://en.wikipedia.org/wiki/Digital_Signage">Digital Signage</a>.</p>
+
+<p>Enter the <a href="http://webconverger.org/kiosk/">Webcfullscreen mode</a> option:</p>
+
+<a href="http://www.flickr.com/photos/hendry/1005612714/" title="Webconverger providing Digital Signage slideshow"><img src="http://farm2.static.flickr.com/1189/1005612714_9cc94953d4.jpg" width="500" height="375" alt="Webconverger Fullscreen" /></a>
+
+<p>Ok, this photo slideshow example is done with <a href="http://webconverger.org/adobe/">Adobe Flash</a>, however I think Flash is a suitable option and it can perhaps behave better if the connection goes down temporarily (the offline problem). Could try complex betaware like <a href="http://code.google.com/apis/gears/">Google gears</a>&#8230;</p>
+
+<p>Or customers might want a proxy <a href="http://webconverger.org/features/">feature</a> (<a href="http://www.squid-cache.org/">squid</a>), which can be <a href="http://webconverger.com/buy/">customised</a>, so that if the Internet drops, the Digital sign could still work.</p>
+
+<p>Another avenue is to host user&#8217;s Web pages on a local Web server. I am not keen on this as <a href="http://webconverger.org/design/">local data would be against Webc&#8217;s design</a>.</p>
+
+<p>If any of you have your own Digital Signage &#8216;solutions&#8217; you would like to share, please do. <a href="http://webconverger.org/develop">Webconverger is a Free software project based on Debian.</a></p>
+
+<p>In other news <a href="http://webconverger.com/">Webconverger</a> has an entry over at <a href="http://distrowatch.com/table.php?distribution=webconverger">distrowatch</a>. Excellent news and thanks for all your support.</p>

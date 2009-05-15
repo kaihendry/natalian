@@ -1,0 +1,27 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-10-07 10:04:41"
+ content="""
+<p>I just wrote an email to dict.org</p>
+
+<blockquote>
+http://www.dict.org/bin/Dict has an awful interface.
+
+<p>For example when I search for &#8220;SOA&#8221;, <span class="caps">SOA</span> is not in the <span class="caps">URL</span>.</p>
+
+<p>Your form should use <span class="caps">GET</span>:</p>
+
+<p><a href="http://www.dict.org/bin/Dict?Form=Dict1&amp;Query=SOA&amp;Strategy=">http://www.dict.org/bin/Dict?Form=Dict1&amp;Query=SOA&amp;Strategy=</a><strong>&amp;Database=</strong>&amp;submit=Submit+query</p>
+
+<p><a href="http://cgi.snafu.de/ohei/user-cgi-bin/veramain-e.cgi">http://cgi.snafu.de/ohei/user-cgi-bin/veramain-e.cgi</a></p>
+
+<p>Has the same terrible usability issue. I&#8217;ve already tried emailing. No<br />
+response.</p>
+
+<p>Btw <span class="caps">VERA</span> via their crappy Web interface has a definition of <span class="caps">SOA</span> -&gt;<br />
+&#8220;Service Orientated Architecture&#8221; that I was looking for, that your<br />
+dict.org doesn&#8217;t&#8230;<br />
+</blockquote></p>
+"""]]

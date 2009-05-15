@@ -1,0 +1,9 @@
+[[!meta title="Microbrowser blues" ]]
+[[!meta date="2004-04-28 17:27:38" ]]
+<p>On my Nokia 3100 secure http (HTTPS ) does not work.</p>
+
+<p>I get a NO <span class="caps">GATEWAY</span> <span class="caps">REPLY</span> from my mobile. I went through a million menus to find, Connection Security. I turned that on and got a <span class="caps">SECURE</span> <span class="caps">CONNECTION</span> <span class="caps">NOT</span> <span class="caps">AVAILABLE</span> after the Creating <span class="caps">GPRS</span> connection dialogue.</p>
+
+<p><span class="caps">GRRRRR</span>!</p>
+
+<p>(In other news I will be in Poland for a week, so if I am not posting again after that time I&#8217;m probably dead)</p>

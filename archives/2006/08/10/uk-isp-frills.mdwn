@@ -1,0 +1,9 @@
+[[!meta title="UK ISP frills" ]]
+[[!meta date="2006-08-10 07:41:58" ]]
+<p>Why don&#8217;t ISPs consider just supplying <strong>Internet</strong>? Why do they feel compelled to provide email and Web space, and do a spectacularly crap job at it?</p>
+
+<p>Consider <a href="http://www.plus.net/">Plus.net</a> my parent&#8217;s <span class="caps">ISP</span>. Rave reviews a few months back and now they&#8217;re a laughing stock for loosing all customer email in a backup blunder. Reading their <a href="http://usertools.plus.net/status/status.xml">status feed</a> makes me cringe.</p>
+
+<p>Web hosting is hard. Most people use hotmail or gmail, no need for email provision by plus.net. The same goes for every other <span class="caps">ISP</span> I&#8217;ve seen in Britain.</p>
+
+<p>Just provide <strong>reliable</strong>, cheap Internet access. Please.</p>

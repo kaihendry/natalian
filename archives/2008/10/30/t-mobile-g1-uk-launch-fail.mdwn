@@ -1,0 +1,54 @@
+[[!meta title="T-mobile G1 UK launch FAIL" ]]
+[[!meta date="2008-10-31 11:53:27" ]]
+<ul>
+<li>Though I signed up and pre-registered T-mobile&#8217;s newsletter did not provide any information how to purchase the G1</li>
+<li>I called up my local T-mobile branch in Woking and they said they&#8217;ll only get the device in late in November</li>
+<li>I surprisingly found out <strong>today</strong> you could buy a <a href="http://www.mobileindustryreview.com/2008/10/so_i_just_bought_a_t-mobile_g1.html">G1 from SMStextNews</a>.</li>
+<li>I call the Oxford circus store, but I can&#8217;t get through. I even call T-mobile customer services, who can&#8217;t tell what their stock levels are and they can&#8217;t reach the store either. Arf.</li>
+<li>So in London I rushed to the Oxford street store to see if I could purchase a G1.</li>
+<li>T-mobile store had about 20 staff. Pity most of them could only demonstrate the phone and they couldn&#8217;t actually sell the device. Retarded.</li>
+<li>After asking for a black G1, the manager says she has to check in the back room. <span class="caps">WTF</span>? You&#8217;re almost out? I don&#8217;t believe this. Anyway I have a meeting over at <a href="http://www.omtp.org/"><span class="caps">OMTP</span></a> and I&#8217;ll come back in a couple of hours after reserving one.</li>
+<li>I return to Oxford street and entered the wrong store at 393 Oxford street, they say don&#8217;t worry I can buy the phone here.</li>
+<li>I go through a tiresome credit check where they ask too much information. Feck, I could afford to buy it outright!</li>
+<li>So I&#8217;ve signed up for 40GBP for 18months. Deep breath.</li>
+<li>Shop assistant can&#8217;t figure out how to open the battery cover. Four staff are taking turns trying to open it.</li>
+</ul>
+
+<a href="http://www.flickr.com/photos/hendry/2988063714/" title="Tring to open the battery cover by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3197/2988063714_2b63b1bf2b_m.jpg" width="240" height="180" alt="Tring to open the battery cover" /></a>
+
+<ul>
+<li>Eventually back cover flies off. I am thinking its damaged. No visible damage though. Phew.</li>
+<li><span class="caps">SIM</span> card in, firing up&#8230; takes a bit of time&#8230; sign in and <strong>can&#8217;t connect</strong>! <strong>There is a problem communicating with the Google servers</strong> !!</li>
+</ul>
+
+<a href="http://www.flickr.com/photos/hendry/2988063776/" title="Trying to sign in by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3040/2988063776_130099eefd_m.jpg" width="240" height="180" alt="Trying to sign in" /></a>
+
+<ul>
+<li>Shop assistant says I need to wait up to 24hours until my phone is registered on the Web. Eh? I want to use the phone now!</li>
+<li>I ask the assistant if they can disable voicebox/answering service. He says he can&#8217;t do that. I need to call customer services myself. Argh, crap service.</li>
+<li>I ask how many phones were sold. This is 6pm btw. 5 in this store and about <strong>40</strong> in the Oxford circus launch store. <span class="caps">GULP</span>. No fucking way. What a disaster&#8230;</li>
+<li>I notice <a href="http://www.thelondonpaper.com/">the London paper</a> <a href="http://flickr.com/photos/hendry/2987208019/">running a T-mobile advertisement for phones under 50GBP a month. No mention of the Android G1.</a> What?</li>
+<li>No one seems to know the G1 launched today. Nothing in <a href="http://news.bbc.co.uk/1/hi/technology/default.stm"><span class="caps">BBC</span> news</a> about the launch. Even the geeks at the <a href="http://www.ubuntu.com/">Ubuntu</a> Intrepid launch party didn&#8217;t know it came out today. Honestly, what a PR <span class="caps">FAIL</span>.</li>
+</ul>
+
+<p>I&#8217;m bitterly disappointed. :(</p>
+
+<p>Next day:</p>
+
+<ul>
+<li>Rang T-mobile customer services about not being to join the network who told me they can&#8217;t flag a problem until 18:05. 24hrs after I purchased it.</li>
+<li>The <span class="caps">SIM</span> works in my Nokia E65 (I can make calls), but I can&#8217;t connect to the Internet. Urgh&#8230;</li>
+<li>Why can&#8217;t I sign-in with <span class="caps">WIFI</span>? Android <span class="caps">APN</span> settings are very scary&#8230;</li>
+<li>Why do have to sign in to Google at all? Iphone doesn&#8217;t force me to sign into Itunes does it?</li>
+<li>Looking at the crap in the package, it tells I need to install the memory card. Can&#8217;t find it&#8230; Discover it&#8217;s already installed in the device.</li>
+<li>Wtf is the CD for? I don&#8217;t have a CD <span class="caps">ROM</span> drive in my X61 in any case</li>
+<li><a href="http://mobile-phones-reviews.zuiwahe.com/2008/10/t-mobile-google-g1-sells-in-uk-as.html">Scary story</a> about prices being already slashed in the US. I want to run away screaming.</li>
+<li>The headphones suck</li>
+<li>Eh? You can get the G1 on a <a href="http://mobilephonedevelopment.com/archives/701">25GBP tariff?</a></li>
+</ul>
+
+<p><span class="caps">OMG</span> it&#8217;s 10:30am and a 3G icon has appeared. I&#8217;m signed in! The wait is over. I&#8217;m enjoying this little sucker now.</p>
+
+<p>Update: <a href="http://www.mobileuserexperience.com/?p=588">Marek Pawlowski also describes the real G1 experience</a> as a massive <span class="caps">FAIL</span>.</p>
+
+<p>Last Update: I&#8217;m taking more notes down at <a href="http://dabase.com/g1/">Life with a T-mobile G1 in the UK</a>.</p>

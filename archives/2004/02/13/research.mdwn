@@ -1,0 +1,9 @@
+[[!meta title="Research" ]]
+[[!meta date="2004-02-13 17:21:14" ]]
+<p>Besides infotaining myself with Nokia developer docs, I am currently employed to take care of the web medium for the research project I am involved in, called <a href="http://www.cs.helsinki.fi/group/nodes/"><acronym title="Research on Distributed and Networked Systems and Applications"><span class="caps">NODES</span></acronym></a>.</p>
+
+<p>Today I have got the go ahead to roll out a standards compliant version of the older homepage. All those research groups listed will be migrated to an accessible <span class="caps">XHTML</span> format, over the next week.</p>
+
+<p>A <a href="http://www.cs.helsinki.fi/u/hendry/work/nodes/template/latex/report.pdf">report of the research web changes</a> accompanies the approval, in true Finnish bureaucratic fashion.</p>
+
+<p>I am pretty smug, as this template is absolutely lightyears ahead of <a href="http://hy.logodomain.com/">Logodomain&#8217;s</a> <a href="http://www.helsinki.fi/yliopisto/">current templates</a> it designed for the University of Helsinki at great expense.</p>

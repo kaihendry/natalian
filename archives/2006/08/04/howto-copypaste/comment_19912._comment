@@ -1,0 +1,18 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="87.113.25.133"
+ date="2006-08-05 19:52:33"
+ content="""
+<p>Ok, firstly I refuse to use bloatware such as Gnome or <span class="caps">KDE</span>.</p>
+
+<p>Sam, are you suggesting gnome-terminal is a better terminal? I find it really buggy. Thanks very much for the links!</p>
+
+<p>Chris your suggestion of special keyboard keys for this problem is kinda &#8220;out there&#8221;.</p>
+
+<p>nion, wmiipsel is great, though that seems to be for <span class="caps">PRIMARY</span>, not <span class="caps">CLIPBOARD</span></p>
+
+<p>autocutsel program looks interesting, but I gather it needs to be run constantly in the background. That&#8217;s too phat for me.</p>
+
+<p>I&#8217;ve updated my <a href="http://svn.natalian.org/home/.Xresources" rel="nofollow" rel="nofollow">Xresources</a> and I can now paste with Shift+Middleclick in Uxterm. Major improvement !!!  :)</p>
+"""]]

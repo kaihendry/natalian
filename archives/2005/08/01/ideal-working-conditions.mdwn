@@ -1,0 +1,31 @@
+[[!meta title="Ideal working conditions" ]]
+[[!meta date="2005-08-01 13:28:25" ]]
+<a href="http://www.flickr.com/photos/hendry/362655287/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/124/362655287_489984ff22_m.jpg" width="240" height="180" alt="Home office" /></a>
+
+<ol>
+<li>Internet has to be fast and reliable</li>
+<li><span class="caps">IBM</span> keyboard</li>
+<li>Optical mouse</li>
+<li>A decent chair</li>
+<li>A decent large <span class="caps">LCD</span> screen</li>
+<li>A large Oak desk (ok, a tall order!)</li>
+<li>Good pens and a good spiral notepad</li>
+<li>My own office space (least likely to be fulfilled)</li>
+<li>Where no one can disturb me (no looking over one&#8217;s shoulder bullshit)</li>
+<li>A decent fast printer</li>
+<li>Where I can use the toilet in absolute privacy</li>
+<li>Where I can have a window to the world, preferably a natural landscape</li>
+<li>Where I don&#8217;t have to hear sirens, traffic or drone of noisy machines (i.e. <span class="caps">QUIET</span>)</li>
+<li>Where someone makes me tea when I wish :)</li>
+<li>Where I can smell things other than the normal office smells (flowers)</li>
+<li>Where I don&#8217;t have to wear shoes</li>
+<li>Where you don&#8217;t have to wear ID</li>
+<li>Where cleaners clean when you are not in the office</li>
+<li>40 hour weeks and very flexible (no timesheets!)</li>
+<li>A place to lock up a bike</li>
+<li>Allows employees to connect up personal gadgets like laptops/mobiles to the network</li>
+<li>Where your employer isn&#8217;t paranoid about you stealing intellectual property</li>
+<li>Where people don&#8217;t frown on <span class="caps">IRC</span></li>
+</ol>
+
+<p>Update: I&#8217;m starting to think the &#8216;home environment&#8217; is best for hardcore programming productivity. Though I sometimes miss having people physically around to discuss problems with.</p>

@@ -1,0 +1,14 @@
+[[!meta title="Nokia's vision" ]]
+[[!meta date="2004-07-05 23:11:54" ]]
+<p>Who was the &#8220;wrong person&#8221; mentioned in the <a href="http://www.littlespringsdesign.com/design/xhtmlinfo.html">politics</a> bit btw? ;)</p>
+
+<p>Nokia has always had a vision that the internet on phones should be <br />
+exactly like the internet on the computer.  Openwave (Phone.com/Unwired<br />
+Planet) had the vision that the phone-based internet should be different,<br />
+with different features.  Unfortunately some Openwave standards-only (no<br />
+real notion of user experience) said that it was okay for that stuff to<br />
+be optional&#8230; and of course this is what Nokia really wanted to hear.<br />
+By the time that the usability and developer folks got back into the<br />
+discussion, the decision was final &#8211; thus spelling the end of &#8220;WML 2&#8221;.<br />
+It&#8217;s now just <span class="caps">XHTML</span> Basic/MP delivered via <span class="caps">WAP</span>.  With push messaging and<br />
+other <span class="caps">WAP</span> stuff.</p>

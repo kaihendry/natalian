@@ -1,0 +1,22 @@
+[[!meta title="Spam" ]]
+[[!meta date="2004-07-15 18:30:00" ]]
+<p>I keep getting spam with quite good From: addresses and subjects with a body like this:</p>
+
+<blockquote>
+dsugqptwk? lrjcyxx ljsxl ckccdmvn eiuhmb                                                                                                                                      
+gfcfkilq. mxlqpyvg uwiqes rfgghj edrgkv zxnczgofx                                                                                                                             
+hsygumo xigrnst kjlvjjpv cvpvh xucgdmit sujvx                                                                                                                                 
+kvcqj ffxphuhq - hpeugzmjq qlbdal                                                                                                                                             
+ddgtgll mgkiuie jkfyqpdb ywrdgf uvyjmj, glyislmv                                                                                                                              
+bonvectip smzidvojt xundgg, kpxrl                                                                                                                                             
+kdscgov, hyotpdg kbopngu rbqgt                                                                                                                                                
+sjmjcwiq acwre gxoyxybb igwmel ayogrboey                                                                                                                                      
+tnwwf. kclbfzonv Ymnbyobmwn oaadn                                                                                                                                             
+bmoea Weihlw Qjucagi ffmrbs                                                                                                                                                   
+ontckysm jgavu tmfya - ovmruz? Rykvhfvba nvqhhqqg                                                                                                                             
+oafes bgczn ubbfjhuny dnvimqj
+</blockquote>
+
+<p>They seem to elude bogofilter (at school) and spamassasin (on my server). I guess they are designed to mess up wordlists.</p>
+
+<p>Considering the amount of &#8220;stop spam&#8221; posts on Debian devel, and the demand to get rid of spam, shouldn&#8217;t there be a policy, workgroup or mailing list for dealing with this particular problem? <strong>I don&#8217;t know where to go</strong> for debian-specific information to resolve this. After all there is debian-firewall and debian-isp mailing lists. Perhaps a list debian-mail for mail specific issues.</p>

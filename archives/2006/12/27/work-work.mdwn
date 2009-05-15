@@ -1,0 +1,7 @@
+[[!meta title="Work work" ]]
+[[!meta date="2007-01-04 15:28:51" ]]
+<p>Since returning from my <a href="http://maps.natalian.org">travels</a>, I need to earn some money.</p>
+
+<p>My supportive parents blast me about how I should get into &#8220;Windows&#8221;. An operating system I have shunned for years. Looking at <a href="http://jobstats.co.uk/jobstats.d/SKILL.html">jobstats</a>, not only is <span class="caps">UNIX</span> a skill in higher demand than Microsoft, it also pays more.</p>
+
+<p>Good times. :)</p>

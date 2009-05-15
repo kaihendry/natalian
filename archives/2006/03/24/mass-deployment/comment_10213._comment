@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Jason CLinton"
+ subject="24.208.124.242"
+ date="2006-03-24 14:55:47"
+ content="""
+<p>The Debian Live project is working on a framework for making generic environments which can be booted from either network, <span class="caps">CDROM</span> or <span class="caps">USB</span>. The idea is to allow a &#8220;Live&#8221; environment to not be limited to CD only. So far it&#8217;s coming along very well. My own company, Safedesk Solutions, is using/is going to be using this technology in conjunction with other technologies to allow us to deliver desktops. If a hard drive is present, it&#8217;s use for either a) swap, or b) a scratch space for running virutalization stuff (Like other OS&#8217;s inside a VM). I can&#8217;t really go too much in to the virtualization stuff because it&#8217;s kinda up-and-coming.</p>
+"""]]

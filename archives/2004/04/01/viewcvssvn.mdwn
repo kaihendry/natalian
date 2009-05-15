@@ -1,0 +1,21 @@
+[[!meta title="ViewCVS+SVN" ]]
+[[!meta date="2004-04-01 22:20:35" ]]
+<a href="http://svn.natalian.org">Try my repo</a>
+
+<p>Right now I have to :</p>
+
+<pre>
+hendry@bilbo:~$ svnadmin recover repo/
+Please wait; recovering the repository may take some time...
+
+<p>Recovery completed.<br />
+The latest repos revision is 534.<br />
+hendry@bilbo:~$ chmod -R 777 repo/<br />
+</pre></p>
+
+<p>Every so often. I blamed it on web crawlers, and now put in an robots exclusion directive.</p>
+
+<p>Please work&#8230;</p>
+
+<p>Update: Just tried it the next morning and once again it needed to be recovered. <span class="caps">WTF</span> is going on&#8230;<br />
+Just tried WebSVN. Looks good, but I want to forbid access to certain private modules.</p>

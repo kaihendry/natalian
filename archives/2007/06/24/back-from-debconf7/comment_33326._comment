@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="pachi"
+ subject="84.76.46.237"
+ date="2007-06-25 09:07:34"
+ content="""
+<p>I&#8217;d advice you to try mercurial too. It&#8217;s as fast as git and has a saner UI. It&#8217;s being used by Xen, Sun and a good bunch of <span class="caps">FLOSS</span> projects around.</p>
+"""]]

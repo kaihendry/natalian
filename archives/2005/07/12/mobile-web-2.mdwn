@@ -1,0 +1,19 @@
+[[!meta title="mobile Web" ]]
+[[!meta date="2005-07-12 16:44:20" ]]
+<p>Last month I made a <a href="http://lists.w3.org/Archives/Public/public-bpwg/2005Jun/thread.html">few posts at the W3C</a> defending the <a href="http://www.russellbeattie.com/notebook/1008430.html">The Magical Mobile Web Browser.</a></p>
+
+<p>I asked in the end for some sort of W3C sanctioned <strong>certification scheme</strong> for Web browsers. W3C has the corporate contacts, I just wish they would use them. I don&#8217;t think so with <a href="http://www.google.com.au/search?hs=2yk&amp;hl=en&amp;client=firefox-a&amp;rls=org.mozilla%3Aen-GB%3Aofficial&amp;q=Daniel+Appelquist&amp;btnG=Search&amp;meta"><span class="caps">XML</span> loving expert</a> from Vodafone <a href="http://lists.w3.org/Archives/Public/public-bpwg/2005Jun/0007.html">leading</a> an <a href="http://natalian.org/archives/2005/05/11/w3c-fun-run/">ill concieved work group.</a> :(</p>
+
+<p><a href="http://opera.com/products/mobile/">Opera&#8217;s mobile browser</a> seems the best hope of getting things ship shape with mobiles. Though, funny enough my ex-flatmate <a href="http://www.cs.helsinki.fi/u/popescu">Andrei Popescu</a> is working on porting <a href="http://gtk-webcore.sourceforge.net/"><span class="caps">KHTML</span> to Symbian.</a></p>
+
+<p>In other news I&#8217;ve been asked to make a pitch on creating a payment system that will work on a mobile. In order to make a payment, Credit Card payment gateways require:<br />
+* Full name or Account name<br />
+* Card number (49xx xxxx xxxx xxxx) Isn&#8217;t there some checksum for Visa/Mastercards?<br />
+* Expiry date mm/yy (could be checked)<br />
+* Check code on the reverse of the card. 3 to 4 digits.</p>
+
+<p>I could write this to work on most mobiles, though there must be some existing implementations. Aren&#8217;t there? :)</p>
+
+<p>Though I wonder how many mobiles support <span class="caps">HTTPS</span>/SSL?</p>
+
+<p>If you have a mobile, please try out the <a href="https://server.soltecsoftware.com.au/ssl/"><span class="caps">HTTPS</span></a> and <a href="http://server.soltecsoftware.com.au/digest/"><span class="caps">DIGEST</span> test</a> (user:d, pass:p) on <a href="http://dabase.com">dabase.com</a></p>

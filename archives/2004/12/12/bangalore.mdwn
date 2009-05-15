@@ -1,0 +1,50 @@
+[[!meta title="Bangalore" ]]
+[[!meta date="2009-04-28 08:50:26" ]]
+<p>On the 9th of December I met with Debian developer Ganesan Rajagopal and <a href="http://nm.debian.org/nmstatus.php?email=hendry%40cs.helsinki.fi">aspiring DD</a> Chirag Kantharia in a <a href="http://en.wikipedia.org/wiki/Bangalore">Bangalore</a> cafe. Later we went to the &#8220;Coffee House&#8221; on M.G. Road, I recommend that place for a coffee and a Masala Dosa.</p>
+
+<p>Months ago I was quite excited about the idea of a place-to-be silicon valley on my <a href="http://trip.natalian.org/">Eastern trip itinerary.</a> After meeting some geeks in Islamabad I was not very optimistic. People were not familiar with Unix or any Web specs. All they seemed to &#8220;know&#8221; were their ripped-off high level tools like whatever crap <a href="http://www.joelonsoftware.com/articles/APIWar.html">M$ shoots out.</a></p>
+
+<p>Of course I should not generalise, esp. after meeting Ganesan and Chirag and hearing that India is (unlike Pakistan) teaching about Linux at schools in India and even <a href="http://en.wikipedia.org/wiki/Avul_Pakir_Jainulabdeen_Abdul_Kalam">India&#8217;s rocket scientist President</a> knows about it. :)</p>
+
+<p>The main problem why there are only what&#8230; 3 Debian people in enormous <a href="http://en.wikipedia.org/wiki/India">India</a> is because you need time to become a Unix pundit and a good network connection at home. Debian simply isn&#8217;t fun otherwise. I heard that Red Hat or Fedora has gained a lot of mind share by being distributed by a popular computer magazine.</p>
+
+<p>So what is the makeup of the IT businesses here in Bangalore I asked Ganesan.<br />
+They are four categories, roughly ordered by amounts of people they employ:</p>
+
+<ol>
+<li><acronym title="Business Process Outsourcing"><span class="caps">BPO</span></acronym> companies that do services like payroll, call centres, stock research and transcriptions (e.g. medical notes from a dictation device)</li>
+<li>Huge software service companies like Infosys, <span class="caps">WIPRO</span>, Satyam and <span class="caps">TCS</span></li>
+<li>Product development setups by foreign companies like Microsoft or Google</li>
+<li>India&#8217;s own private and public companies like Iflex and Talisman</li>
+</ol>
+
+<p>My travelling companion applied and is being interviewed for a job in Bangalore with Aditi. I applied for a job with <a href="http://www.google.com/jobs/sw-bangalore.html">Google for a System Administrator, Intermediate Level job.</a> Of course I was confident knowing I am a computer demi-god, but sadly I got the automated do-not-reply-to-this-email rejection email from Google saying my skills do not strongly match the position. Oh pleasie. :/</p>
+
+<p>Ok, less personal crap. Let me try write down some more tit bits from what I learnt.</p>
+
+<p>People view call centre jobs as respectable jobs. Although telesales is well&#8230; <span class="caps">SPAM</span>. Particularly painful when you have to pay for incoming calls!</p>
+
+<p>Infrastructure in Bangalore is dissapointing. Traffic is a nightmare. You really need to live close to your work. The IT developments are just office buildings. Not usually entirely funded by government. I was told of substantial Singapore investment. They do not even provide <span class="caps">UPS</span> and Internet. These things typically need to be handled by each individual company there.</p>
+
+<p>My peers seem to earn less than 1000 <span class="caps">EUR</span> (after tax) a month here. And that&#8217;s for the <strong>better</strong> jobs.</p>
+
+<p>I met on the 10th of December two German employees of Siemens working in Bangalore at the very expensive F-bar (Spin club recommended instead).</p>
+
+<p>Some interesting things:</p>
+
+<ul>
+<li>Education level is supposingly western level but it is not.</li>
+<li>People need a <strong>lot more</strong> management here.</li>
+<li>There are no &#8220;superheroes&#8221; here. No outstanding talent.</li>
+<li>On average employees are much younger here and as a result far less experienced than European counterparts.</li>
+<li>People are more &#8220;humble&#8221; and as a result are very slow or reluctant to tell project managers about problems.</li>
+<li>People work really long hours here. (What ever happened to the XP 40 hour week?)</li>
+</ul>
+
+<p>I asked what the two Germans were earning. They said they were getting the same in Germany plus benefits like accomodation, a maid, a driver and car and more. I asked if they would work (like my friend and I are prepared to) for 1k <span class="caps">EUR</span> a month and they said no.</p>
+
+<p>I&#8217;ll probably come back and edit this, as I am typing this up in a sweltering Internet cafe in <a href="http://en.wikipedia.org/wiki/Chennai">Madras.</a></p>
+
+<p>To conclude, from what I have seen, I don&#8217;t think I would personally invest in Indian IT unlike my parents did with textiles. My gut feeling right now is the jobs done here are the ugly <strong>inefficient</strong> &#8220;big company&#8221; jobs. I hate to sound <a href="http://dictionary.reference.com/search?q=pretentious">pretentious</a> about my expertise, but from what little (two days!) I have seen I think that the India IT industry is really far behind the cutting and creative edge I was looking for.</p>
+
+<p>Reader if your home enviroment is cool, clean, quiet, using a stable machine, using Debian, <span class="caps">IBM</span> keyboard and a good fast stable Internet connection, you have the advantage. ;)</p>

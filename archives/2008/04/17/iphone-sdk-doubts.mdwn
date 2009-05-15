@@ -1,0 +1,31 @@
+[[!meta title="Iphone SDK doubts" ]]
+[[!meta date="2008-04-17 13:21:00" ]]
+<p><span class="caps">OMG</span>, the Iphone <span class="caps">SDK</span> has been with us a couple of months. Aren&#8217;t you blown away by those killer applications?</p>
+
+<a href="http://www.flickr.com/photos/hendry/2418794676/" title="Mozilla/5.0 (iPhone Simulator; U; iPhone OS 2_0 like Mac OS X; en-us) AppleWebKit/525.17 (KHTML, like Gecko) Version/3.1 Mobile/5A240d Safari/5525.7 by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3122/2418794676_fc6a870982_m.jpg" width="129" height="240" alt="Mozilla/5.0 (iPhone Simulator; U; iPhone OS 2_0 like Mac OS X; en-us) AppleWebKit/525.17 (KHTML, like Gecko) Version/3.1 Mobile/5A240d Safari/5525.7" /></a>
+
+<p>Yeah, what killer applications! Update: A friend kindly informed me no iphone applications will be on general release until version 2.0 of the Iphone is released. Currently we&#8217;re on 1.4. So that&#8217;s why. :)</p>
+
+<p>The most amazing thing I&#8217;ve seen is <a href="http://www.bbc.co.uk/iplayer/">video playback with iplayer</a> which is&#8230; a <strong>Web</strong> application.</p>
+
+<p>I see a number of problems with Iphone&#8217;s developer environment:</p>
+
+<ul>
+<li>There isn&#8217;t a <strong>community</strong> (there is a &#8220;hacker&#8221; community I give you that)</li>
+<li>You want to <strong>unlock</strong> your device and also work with Apple&#8217;s <span class="caps">SDK</span>? Er&#8230; good luck</li>
+<li>Xcode <strong><span class="caps">IDE</span></strong> development stack <span class="caps">IMO</span> is very beta and unstable. for e.g. I can&#8217;t seem to &#8220;provision&#8221; my Ipod touch. w.t.f.</li>
+<li><span class="caps">WHO</span> the <span class="caps">HELL</span> is going to <strong>learn Objective C</strong>?</li>
+<li>You can&#8217;t <strong>ssh</strong> to the device unless you unlock it. Bleh.</li>
+<li>There <strong>no C/POSIX</strong> support <span class="caps">AFAIK</span>. If there is, please show me some sample code.</li>
+<li>If you build an application you basically have to <strong>distribute it via Apple Itunes</strong> right? That&#8217;s incredibly limited.</li>
+<li>Bad packaging</li>
+<li>Developers need to be Mac users right? Those MacBooks are expensive.</li>
+<li>Developing for Safari is so much easier. A <a href="http://vjarmy.com/archives/2008/01/howto_iphone_webclip_icons.php">webclip</a> (&#8220;native&#8221; menu item for Web app) is painless for example and it&#8217;ll work on unlocked or locked Iphones!</li>
+<li>You need an Apple Developer Community(ADC) login. <span class="caps">PITA</span>.</li>
+</ul>
+
+<p>Ok, you could painfully install a proper <a href="http://www.onlamp.com/pub/a/onlamp/2008/03/25/the-apple-sdk-apis-apple-didnt-want-you-to-know-about.html"><span class="caps">GNU</span> toolchain</a>. But seriously. It&#8217;s so much easier on other devices like <a href="http://en.wikipedia.org/wiki/Maemo">maemo</a>, I just can&#8217;t be bothered. If then, I amazingly write an innovative native C application I (assume I) can only deliver it with <a href="http://iphone.nullriver.com/beta/">Installer.app</a> on an unlocked Iphone. That&#8217;s so not great.</p>
+
+<p>I really don&#8217;t see the &#8220;native&#8221; Apple Iphone platform working for 3rd party developers. The Web application platform, <strong>yes</strong>, though not this&#8230;</p>
+
+<p>I&#8217;m left wondering why Apple don&#8217;t instead expose <a href="http://www.openajax.org/member/wiki/Mobile_Device_APIs">device APIs</a>.</p>

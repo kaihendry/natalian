@@ -1,0 +1,11 @@
+[[!meta title="Downgrading" ]]
+[[!meta date="2004-08-13 00:15:42" ]]
+<p>I&#8217;ve had to start using a Win98 machine at home which does not support Unicode.</p>
+
+<p>Oh joy.</p>
+
+<p>After suffering from really painful problems via putty like unpredictable refresh problems in mutt/irssi and not knowing <span class="caps">WTF</span> you are in your editor vim after accidently using say ö, ä or å I decided to try downgrade on my server back to latin-1 (sudo dpkg-reconfigure locales).</p>
+
+<p>Now my <a href="http://svn.natalian.org/home/.vimrc">&#8220;unicoded&#8221; vim configuration</a> still does not seem to understand ö, ä etc. but the results are lot more predictable. I don&#8217;t think I will touch my vimrc for now.</p>
+
+<p>Unicode is pain. :/</p>

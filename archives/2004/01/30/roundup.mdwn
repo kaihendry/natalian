@@ -1,0 +1,11 @@
+[[!meta title="Roundup" ]]
+[[!meta date="2004-01-30 13:39:03" ]]
+<p>On Fridays I will try write up bemusing things of the last week:</p>
+
+<p>Isn&#8217;t this a <a href="http://dclug.org.uk/archive/2004/01/msg00300.html">funny message to see on a <abbr title="Linux User Group"><span class="caps">LUG</span></abbr> mailing list</a>?</p>
+
+<p>I am happy to hear that the <a href="http://www.theregister.co.uk/content/64/35040.html">python interpreter might hit new Nokia phones.</a> I might just upgrade from my Nokia 3330.</p>
+
+<p>There is a competition to name the new Helsinki University Portal! How 2000. I am calling it cluttered and crap.</p>
+
+<img src="http://www.helsinki.fi/portaalihanke/intranet/etusivu_13012004.jpg" alt="Helsinki University Portal" />

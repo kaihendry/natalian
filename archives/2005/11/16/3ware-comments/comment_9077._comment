@@ -1,0 +1,18 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-11-18 13:15:10"
+ content="""
+<p>Run this /sbin/blockdev&#8212;setra 4096 /dev/sda and have it run at boot time.</p>
+
+<p>And then:</p>
+
+<p>hdparm -tT /dev/sda</p>
+
+<p>/dev/sda:<br />
+ Timing cached reads:   3420 MB in  2.00 seconds = 1708.55 MB/sec<br />
+ Timing buffered disk reads:  570 MB in  3.00 seconds = 189.84 MB/sec</p>
+
+<p>You should get disk reads of about 80MB/s with <span class="caps">RAID</span>-1.</p>
+"""]]

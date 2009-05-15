@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Kai"
+ subject="128.214.48.17"
+ date="2004-06-07 18:05:53"
+ content="""
+<blockquote cite="http://www.w3.org/2000/09/Papers/NTTDoCoMo.html">
+For example, marquee can be added to the value of text-decoration formatting property for extending the presentation because the function of marquee is very popular on the i-mode device in Japan but not included in CSS2.
+</blockquote>
+"""]]

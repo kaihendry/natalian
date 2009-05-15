@@ -1,0 +1,13 @@
+[[!meta title="Debian Master Class near Exeter" ]]
+[[!meta date="2004-09-21 16:48:38" ]]
+<p>I will be attending a &#8220;Debian Master Class&#8221; near Exeter this <strong>Saturday 25/09/2004</strong>. See the <a href="http://www.dclug.org.uk/archive/2004/09/msg00145.html">details of the event.</a></p>
+
+<p>At the event, we&#8217;ll concentrate on <a href="http://www.dclug.org.uk/archive/2004/09/msg00112.html">Debian installations.</a> I hope my <a href="http://natalian.org/archives/2004/09/16/angaz/">Ubuntu CDs come through in time.</a></p>
+
+<p>I volunteered to give a talk about <a href="http://people.debian.org/~terpstra/message/20040819.095858.8c04d549.en.html">Web application packaging.</a></p>
+
+<p>Tbh I have not got around to making a &#8220;Hello World&#8221; Web application as a Debian package. I have been busy with my thesis and I don&#8217;t have a Debian machine to hack on. <a href="http://blog.andrew.net.au/2004/09/21#gallery_multiple_instances">Multiple instances work,</a> cool. That might save time. I have never done much <span class="caps">PHP</span> programming, but I hope to demonstrate to <span class="caps">PHP</span>-philes how to program their application to fit in better with unix and related stuff like apache and mysql. There are plenty of <a href="http://webapppolicy.alioth.debian.org/wiki/">problems to talk about.</a></p>
+
+<p>I will also talk about the exciting Web improvement work at the <a href="http://whatwg.org/"><span class="caps">WHATWG</span>,</a> the mobile devices/platforms/UAs which I have been studying extensively and glam up that whole <a href="http://www.joelonsoftware.com/articles/APIWar.html">Web <span class="caps">API</span>.</a></p>
+
+<p>I hate slideshows. I am used to <a href="http://www.helsinki.fi/jarj/debating/">giving speeches without slides.</a> However, I have been meaning to try out <a href="http://ln.hixie.ch/?start=1076441294&amp;count=1">Opera&#8217;s slideshow support.</a> Geeky side taking over.</p>

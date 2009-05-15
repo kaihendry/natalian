@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Henri Sivonen"
+ subject="217.140.251.133"
+ date="2004-08-15 11:40:37"
+ content="""
+<blockquote><p>Bad: 5 different type of input, 5 different UAs to cater for. That’s ummm 25 mappings. With combinations it can get really wild.</p></blockquote>
+
+<p>Compilers that compile n languages to m target architectures tend to use an intermediate language.</p>
+"""]]

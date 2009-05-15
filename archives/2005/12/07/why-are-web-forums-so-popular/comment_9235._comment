@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-12-08 10:26:56"
+ content="""
+<p>Even on a Windows machine I get ???????????????? I guess that&#8217;s because I don&#8217;t have a Japanese font or something installed.</p>
+
+<p>The <span class="caps">HTML</span> email implementation quality vary widely. Some MUAs do a text version and an <span class="caps">HTML</span> version. <span class="caps">OMG</span>! Which one does one read? Are they the same?</p>
+
+<p>I find it dissapointing you believe &#8220;HTML-based emails are good thing&#8221;! Most MUAs battle to quote <span class="caps">HTML</span> emails. Grr!</p>
+"""]]

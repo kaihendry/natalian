@@ -1,0 +1,20 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="91.84.53.136"
+ date="2007-06-05 09:55:25"
+ content="""
+<p>I&#8217;ve had some more thoughts. Some people argue that such-and-such service has an open <span class="caps">API</span> for integration. And yes, thanks to <span class="caps">REST</span>/RSS/HTTP and what-not it is actually <em>quite easy</em> to integrate some &#8216;social networking&#8217; features between sites.</p>
+
+<p>Though guys, that is not a standard. And still it doesn&#8217;t make <strong>your data</strong> any better to control.</p>
+
+<p>I failed to mention Jaiku/Twitter and other sites like Plazes. I think these fall under the same category of &#8216;social networking&#8217; sites. Yes, I am concerned about my privacy. Letting someone know where you are is cool, but equally very fecking dangerous.</p>
+
+<p>I remember an old colleague Mika Raento (Jaiku hacker) telling me about this stuff all the time. Now he has his dissertation recently out about that same topic: <a href="http://mikie.iki.fi/dissertation/intro.pdf">http://mikie.iki.fi/dissertation/intro.pdf</a></p>
+
+<p>How appropriate.</p>
+
+<p>I guess this general theme could be expanded to the privacy implications of running Google Apps on your domain. I think I am seeing a mountain of a problem here now.</p>
+
+<p>I think we need to be enabled with <strong>Digital Rights</strong>! However when one searches for &#8216;Digital Rights&#8217; one gets <a href="http://en.wikipedia.org/wiki/Digital_rights_management" rel="nofollow"><span class="caps">DRM</span></a>. <span class="caps">DOH</span>. How confusing&#8230;</p>
+"""]]

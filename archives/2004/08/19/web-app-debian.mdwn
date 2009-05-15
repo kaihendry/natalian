@@ -1,0 +1,5 @@
+[[!meta title="Web App Policy in Debian" ]]
+[[!meta date="2004-08-24 23:09:25" ]]
+<p>My <a href="http://packages.qa.debian.org/w/wordpress.html">wordpress</a> <span class="caps">NMU</span> is now in unstable. Check it out. No debconf questions!</p>
+
+<p>Started a discussion in <a href="http://people.debian.org/~terpstra/message/20040819.095858.8c04d549.html">debian-devel about Web Apps</a>. There is a pleasing amount of interest after just a couple of hours. Wow. Debian is a great project!</p>

@@ -1,0 +1,20 @@
+[[!meta title="No Pay-as-you-go" ]]
+[[!meta date="2007-07-16 09:37:30" ]]
+<a href="http://www.flickr.com/photos/hendry/798514628/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1406/798514628_743de414f2_m.jpg" width="240" height="180" alt="Kai working" /></a>
+
+<p>Time and time again I come across a business model based on Pay as you go (PAYG), which I don&#8217;t like.</p>
+
+<p>I can see it being useful in some industries like mobile, with its low buy in cost and cost visibility. Though that usually comes at a cost. For example mobile calls on <span class="caps">PAYG</span> are more expensive than being on a contract plan. However <span class="caps">PAYG</span> is really convenient as you don&#8217;t have to go through credit checks, direct debits etc. to setup an account. Perfect if you are a teenager.</p>
+
+<p>Admittedly there are some other good features of <span class="caps">PAYG</span> in the mobile industry, like showing roughly how much a mobile phone device actually costs. With mobile contracts in the UK the phone is often bundled into the contract. So &#8220;cost visibility&#8221;, knowing how much you are paying for the mobile device and the calls can be really difficult to know.</p>
+
+<p>Anyway, last week I was chatting to a someone who was offering a <span class="caps">PAYG</span> hosting service framework. For example, he claims with his system is cost just 60-something pence yesterday to run his Website.<br />
+Ok, that might get some managers wet, but I <strong>do not</strong> want to pay extra if I out gun typical limits.</p>
+
+<p>The fact is I am a power user. I smash typical bandwidth limits for breakfast. I upload, I serve, I create. :)</p>
+
+<p><span class="caps">PAYG</span> plans punish me for doing something out the ordinary. Imagine Google on a <span class="caps">PAYG</span> Internet plan?</p>
+
+<p>Hence I love <a href="http://www.dreamhost.com/r.cgi?104617">Dreamhost</a>. As with a typical cheap account I can tranfer huge amounts as typical users don&#8217;t use their accounts as heavily as mine. All for less than 10USD a month.</p>
+
+<p>With T-online&#8217;s Web&amp;Walk and Three&#8217;s unlimited internet plans, this is the trend. People did not want to pay per byte, hence these recent &#8220;ground breaking&#8221; developments of flat rate (contract) plans. So that&#8217;s why I say no to this type of <span class="caps">PAYG</span>.</p>

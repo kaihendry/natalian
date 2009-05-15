@@ -1,0 +1,40 @@
+
+[[!_comment format=mdwn
+ username="Joose"
+ subject="193.94.50.136"
+ date="2005-10-12 14:22:33"
+ content="""
+<p>MySQL has bad quality when more ppl are using it. Some big players who are using mysql, are using modified version of it and cluster of it. Say very db-active site, like finnish irc-gallery (irc-galleria.net) doesn&#8217;t even work with mysql. What I was told, after 2minutes it just goes dead. With postgresql no problems. So, postgresql is faster and more stable than mysql.</p>
+
+<p>How about quality? Mysql has lot&#8217;s of &#8220;own sql&#8221; and ass rapes ansi sql in few places. There is also <a href="http://sql-info.de/mysql/gotchas.html">http://sql-info.de/mysql/gotchas.html</a> that page, which has listed mysql and postgresql bugs. MySQL has very many bugs.</p>
+
+<p>Only thing why mysql is so popular, is because it has had windows port for so long and php comes with mysql support installed by default. There are no any real reason why mysql is even close to postgresql. Postgresql is just better.</p>
+
+<p>If you have used just MySQL, I understand why <span class="caps">REAL</span> <span class="caps">SQL</span>-SERVERS seems difficult, it&#8217;s because they are <span class="caps">SQL</span>-servers and not some  weird sql-lookalike.</p>
+
+<p>Like this:<br />
+<span class="caps">CREATE</span> <span class="caps">TABLE</span> foo {<br />
+ID <span class="caps">INTEGER</span>,<br />
+<span class="caps">PRIMARY</span> KEY(id)<br />
+}<br />
+<span class="caps">INSERT</span> foo(id) VALUES(1);<br />
+<span class="caps">INSERT</span> foo(id) VALUES(2);</p>
+
+<p><span class="caps">SELECT</span> &#8220;id&#8221; <span class="caps">FROM</span> foo;</p>
+
+<p>In MySQL: (outputs wrong data)<br />
+id<br />
+id</p>
+
+<p>In Postgresql: (outputs correct data)<br />
+1<br />
+2</p>
+
+<p>And that license issue with mysql is very valid.</p>
+
+<p>And with postgresql, porting application to say oracle, is easy. With mysql, nope.</p>
+
+<p>So summary: MySQL <span class="caps">SUCKS</span> big time =)</p>
+
+<p>- Joose</p>
+"""]]

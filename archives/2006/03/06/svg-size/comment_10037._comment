@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="219.252.91.94"
+ date="2006-03-15 16:06:08"
+ content="""
+<p>Another very depressing thing I have noticed about <span class="caps">SVG</span> support in Firefox 1.5 is how it <span class="caps">DOES</span> <span class="caps">NOT</span> <span class="caps">SCALE</span>.</p>
+
+<p>Alter the text size with <span class="caps">CTRL</span>-+ or minus and what do you expect? <a href="http://dabase.com/svg/text.html">http://dabase.com/svg/text.html</a></p>
+
+<p>I expected the <span class="caps">SVG</span> graphic to resize along with the text!</p>
+"""]]

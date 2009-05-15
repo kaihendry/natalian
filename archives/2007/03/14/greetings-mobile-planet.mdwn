@@ -1,0 +1,19 @@
+[[!meta title="Greetings Mobile planet" ]]
+[[!meta date="2007-10-10 22:13:00" ]]
+<p>Thanks to Dominique, I have been recently added to the <a href="http://www.w3.org/Mobile/planet">W3 mobile planet</a>. Hello Planet!</p>
+
+<p>Let me introduce myself:</p>
+
+<ul>
+<li>My name is <a href="http://hendry.iki.fi/">Kai Hendry</a></li>
+<li>I have been blogging about mobiles from about 2004. I have created a <a href="http://natalian.org/mobile">special page for you to see the titles of my mobile posts</a>.</li>
+<li>I designed this <a href="http://natalian.org/">blog Natalian to be &#8220;mobile friendly&#8221;</a>.</li>
+<li>I wrote my <a href="http://iki.fi/hendry/msc.pdf">Masters Thesis on Web engineering for mobiles</a>. </li>
+<li>I submitted a 20 page extract to a <a href="http://www.mbusiness2005.org/">mobile business conference in Sydney</a>, for which I was accepted and invited to talk as a &#8220;markup expert&#8221;, though unfortunately I was too broke to go. :)</li>
+<li>I used to contribute to the <a href="http://www.w3.org/2001/di">Device Independence mailing list</a>, back when <a href="http://www.russellbeattie.com/notebook/archives">Russell was blogging</a>. Now I am finding my away around the new W3C site&#8230;</li>
+<li>I <a href="http://maps.natalian.org/">travelled a lot</a> and didn&#8217;t contribute so much to the W3C. I did manage to work with mobiles at Access Japan/Palm.</li>
+<li>I think <span class="caps">HTML</span> is the next big thing for mobiles. :) I am a member of the <a href="http://www.w3.org/2000/09/dbwg/details?group=40318&amp;public=1"><span class="caps">HTML</span> WG</a>, previously I was a dissident in the <a href="http://whatwg.org/"><span class="caps">WHAT</span> WG</a> camp.</li>
+<li>I welcome debate (I could be wrong) as I was a member of the Helsinki University debating club. I can take a hard stance by arguing that <a href="http://natalian.org/archives/2007/03/08/mobi-context/">Mobile context is bogus</a> for one.</li>
+<li>Currently I am quite excited about <a href="http://www.openmoko.com/">OpenMoko</a> and I have in mind pulling together a <a href="http://webconverger.org/design/">Mobile Web operating system</a> using my Debian skills.</li>
+<li>I really want to see the <a href="http://www.w3.org/Consortium/mission">W3C goals realised</a>, the Web on everything. Total Web convergence on all devices!</li>
+</ul>

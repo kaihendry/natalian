@@ -1,0 +1,20 @@
+[[!meta title="Highly mobile" ]]
+[[!meta date="2007-09-21 14:36:48" ]]
+<a href="http://www.flickr.com/photos/hendry/1372674905/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1411/1372674905_55890189ba_m.jpg" width="240" height="180" alt="An antler !" /></a>
+
+<p>In the past couple of weeks I&#8217;ve:</p>
+
+<ul>
+<li>Started a new job at <a href="http://www.aplixcorp.com">Aplix</a> UK in Guildford</li>
+<li>Moved to Woking, Surrey</li>
+<li>Started to ride about 15 miles a day in my commute to work. My ass!</li>
+</ul>
+
+<p>Really interesting projects at work. I helped put together a <a href="http://wiki.webvm.net/pp2007/">position paper</a> for an <a href="http://www.w3.org/2007/06/mobile-ajax/">OpenAJAX/W3C</a> meeting. It was accepted and now I&#8217;m off to San Francisco for the first time for the last week of September! It&#8217;ll be my first time in North America on my <a href="http://maps.natalian.org/">travels</a>.</p>
+
+<p>Btw <a href="http://lists.debian.org/debian-jobs/2007/09/msg00002.html">my employers are hiring!</a></p>
+
+<p>As for Debian work. I am still struggling to a get a <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=437840">stable security update of wordpress</a> in. :/ <br />
+I made an update to <a href="http://packages.qa.debian.org/f/flup.html">flup</a>, which will hopefully be one of the last. Please consider moving your Web application to <a href="http://modwsgi.org">modwsgi</a>.</p>
+
+<p>I was surprised to see <a href="http://webconverger.com">Webconverger</a> in the Linux Format magazine #97, which is great news. There should be big announcements <strike>soon</strike> concerning Webconverger. Busy, busy, busy! :)</p>

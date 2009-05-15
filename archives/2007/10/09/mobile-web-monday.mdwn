@@ -1,0 +1,37 @@
+[[!meta title="Mobile content transcoding considered harmful" ]]
+[[!meta date="2007-11-06 22:44:22" ]]
+<p>Whilst sober, I can begin to type up my thoughts on yesterday&#8217;s <a href="http://mobilemonday.org.uk/2007/09/mobile-monday-london-8th-oct-at-centre.html">Mobile Monday event at Centre point, largely about content adaption</a>. <a href="http://www.flickr.com/photos/lisadevaney/1519474916/">I had a good time. :)</a></p>
+
+<p>I feel quite strongly against content adaption/transcoding. And no you can&#8217;t argue that Opera adapts content. Think of Opera&#8217;s approach as a single &#8220;distributed browser&#8221;. Tight coupling with the browser is great. See my <a href="http://hendry.iki.fi/msc.pdf">thesis</a>. Openwave/Novarra don&#8217;t work with browser vendors like Webkit or Gecko.</p>
+
+<p>I was expecting a debate, though the event seem to be run in such a way that didn&#8217;t foster debate. The relevant presentations from Openwave and Novarra were buffered and it was a long time before we reached the &#8220;panel discussion&#8221;. By that stage I had a few glasses of South African red and the panel was far too biased or rather boring for my liking.</p>
+
+<p>So I fealt like I had to say something for the angry Web developers I&#8217;ve seen on the momo list. Unfortunately this frustration could only be posed as a question. Many of the points or myths that Openwave/Novarra pitched could have done with quick interactive responses. How do you ask a question, when they&#8217;ve got this, this and that and that wrong wrong <strong>wrong</strong>.</p>
+
+<a href="http://www.flickr.com/photos/hendry/1525828101/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2382/1525828101_cac5faa4e0_m.jpg" width="240" height="180" alt="Browsers compared" /></a>
+
+<p>I know for a fact that WiderWeb/Openwave get laughably low traffic, despite their claims of &#8220;opening the Web&#8221;! Novarra says they have 160k users of 70 million Vodafone users. What&#8217;s that? 0.2%??!</p>
+
+<p>Afterwards I engaged fellow Web developers for support and found little(!). Some people were whitelisted now, so they don&#8217;t care. Some people just want flash. Most people want to make money yesterday on the mobile. Others want Apple to open their proprietary mobile platform. Some people were silly enough to get a stupid dotMobi domain to get around the problem or prefix their site with wap. Yes yes&#8230; what about the <strong>Web</strong>? You know, the real one? With <span class="caps">HTML</span>?</p>
+
+<p>The heated issue was that:</p>
+
+<ol>
+<li class="Mobile">Web developers were writing &#8220;Web content&#8221; for particular UA strings. (That&#8217;s bad)</li>
+<li>Man-in-the-middle Novarra rewrites UA strings to a standard Mozilla one</li>
+<li>Web site returns &#8220;full site content&#8221;</li>
+<li>Novarra screws up the content</li>
+<li>User gets that unacceptable &#8220;user experience&#8221; (funny)</li>
+</ol>
+
+<p>So people were up in arms, because their mobile specific &#8220;Web site&#8221; with <a href="http://en.wikipedia.org/wiki/Wurfl"><span class="caps">WURFL</span></a> typically was breaking. So surprisingly I was chuckling to myself, &#8220;those guys get what they deserve for making device dependent Web pages!&#8221;</p>
+
+<p>Ok, bickering aside. The solution I asked of Novarra and Openwave last night was simply to be <strong>accountable</strong>.</p>
+
+<p>That means publically giving out proxy details of their content adaption software so Web developers in-the-know can publically evaluate what they actually do. Randy from Novarra said he&#8217;ll get back to me. Novarra are launching something soon with Yahoo! Ed from Openwave said he&#8217;ll share it with me as long as Novarra do it and that I don&#8217;t publically criticize the service. Hmmmm&#8230;. (!)</p>
+
+<p>Yes, I still don&#8217;t really know what they do inside their &#8220;walled garden&#8221;, so I can&#8217;t get too mad. If they stripped <span class="caps">CSS</span> and images and tidied <span class="caps">HTML</span>, then it&#8217;s probably actually OK. Unfortunately I don&#8217;t think they are smart enough to do just that. :/</p>
+
+<p>We are on the brink of something new with the mobile device. The (mobile) ipod webkit browser is the <strong>same</strong> browser on my MacOSX Macbook Pro. I am tired of &#8220;screen size&#8221; and &#8220;mobile browsers will always be years behind&#8221; myths. Lets push for up to date browsers with excellent standards compliance.</p>
+
+<p>Lets stop blaming Web developers and lets stop coming up with new non-HTML markups. Lets discourage hacks like &#8220;content adaptors&#8221; from hindering the exciting deployment of capable Web browsers such as Webkit on mobile devices.</p>

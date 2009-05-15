@@ -1,0 +1,28 @@
+[[!meta title="Dreading the upgrade" ]]
+[[!meta date="2006-02-05 19:26:42" ]]
+<a href="http://www.flickr.com/photos/hendry/94741747/" title="Photo Sharing"><img src="http://static.flickr.com/15/94741747_d1445e6a16_m.jpg" width="240" height="159" alt="A deer in the sea" /></a>
+
+<p>I hate upgrading hard drives. Every time I&#8217;ve had to migrate data from a dodgy disk something wrong happens.</p>
+
+<p>This weekend I have the challenging task of upgrading my aging Thinkpad&#8217;s 30GB hard drive to a new <a href="http://stores.tomshardware.com/rating_getprodrev.php/product_id=4849602/id_type=M//">Seagate momentus</a>.</p>
+
+<p>My file system currently looks like:</p>
+
+<pre>
+frodo$ df -h
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/hda1             6.5G  5.7G  460M  93% /
+tmpfs                 380M     0  380M   0% /dev/shm
+/dev/hda6              21G   17G  2.3G  89% /home
+tmpfs                  10M   80K   10M   1% /dev
+</pre>
+
+<p>I&#8217;m tired of keeping my root system to 6GB. Though although I try my best to avoid bloat, somehow my system is 6GBs. FS.</p>
+
+<p>My home directory is <strong>cramped</strong>. I hate having to delete movies and episodes because there isn&#8217;t enough space.</p>
+
+<a href="http://www-307.ibm.com/pc/support/site.wss/document.do?lndocid=MIGR-42410">So getting the hard drive in and out my laptop is easy.</a> Though <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq01.136.htp">copying the data</a> probably will have to be through an external usb *one* case. OMG, that will probably take forever... And what tool do I use? *sfdisk*? Ideas anyone?
+
+<p>So once copying 30GB over to my new 100GB+ (have not bought it yet) hard drive, how do I grow it so it takes full use of the space? I guess I should be using <a href="http://www.tldp.org/HOWTO/LVM-HOWTO/"><span class="caps">LVM</span></a>. Though why on earth doesn&#8217;t the Debian Installer use it by default like Red Hat?</p>
+
+<p>I just pray I don&#8217;t end up installing my machine from scratch.</p>

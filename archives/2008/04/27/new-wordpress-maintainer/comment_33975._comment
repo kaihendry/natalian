@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Russell Coker"
+ subject="220.237.159.196"
+ date="2008-04-28 08:33:50"
+ content="""
+<p>Keep at it, I didn&#8217;t get into Debian on my first try either.</p>
+
+<p>As for using a smart-card type device for <span class="caps">GPG</span> keys, I started a discussion on debian-private about that.  I can&#8217;t disclose details apart from the fact that some progress was made towards the goal (in terms of solving technical issues) but no decision was made on what to do or when to do it.  It&#8217;s some progress and I&#8217;m sure we&#8217;ll get there eventually.</p>
+
+<p>Several DDs expressed strong interest in obtaining smart-card type devices due to that discussion so I think that real progress is happening.</p>
+"""]]

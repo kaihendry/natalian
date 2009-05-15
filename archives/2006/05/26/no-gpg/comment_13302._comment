@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="SMcV"
+ subject="217.147.81.17"
+ date="2006-05-27 04:58:51"
+ content="""
+<p>hendry: You seem to be arguing in two opposite directions. On the one hand you worry that if a DD&#8217;s secret key is compromised, the attacker can upload packages. On the other hand you seem to advocate anyone and everyone having equal ability to upload? I&#8217;m confused?</p>
+
+<p><span class="caps">AFAICS</span>, mapping <span class="caps">PGP</span> keys to identities (the purpose of the web of trust, keysigning parties, etc.) isn&#8217;t the most important thing about Debian&#8217;s use of <span class="caps">PGP</span>. The important thing is that the responsibility (and hence credit or blame) for contributions is traceable (at worst, if someone gets into the web of trust using fake ID, it&#8217;s consistently-pseudonymous, like a wiki where all users must register).</p>
+
+<p>If I sign someone&#8217;s key at a <span class="caps">KSP</span>, it means something like &#8220;I believe the holder of key 0&#215;12345678 is in fact Fred J. Foobar&#8221;. This is somewhat important to know for Debian&#8217;s purposes, but not the most important thing. For Debian the most important facts are &#8220;the holder of key 0&#215;12345678 is the DD with login foobar, who got through NM on such-and-such a date and is trusted to upload packages&#8221;, and &#8220;these packages were approved by the holder of key 0&#215;12345678&#8221;.</p>
+
+<p>Since signed packages mean that an attacker can&#8217;t upload packages which appear to be from someone else, it&#8217;s possible to use a contributor&#8217;s reputation and previous behaviour as a guide to whether they are likely to do something harmful or malicious in future (presumably, by the time they become a DD, the answer is &#8220;no&#8221;). If packages weren&#8217;t signed, you&#8217;d have to assume each new package was uploaded by an imposter and there&#8217;d be no (reliable) way to use any sort of reputation.</p>
+
+<p>Also, because a DD (or other free software contributor) builds up a reputation which is tied to their <span class="caps">PGP</span> key, they have an incentive to avoid it getting compromised, and to avoid doing stupid or harmful things in packages they signed. If some malware turns up in the Debian archive with Fred Foobar&#8217;s signature on it, there goes the good reputation he&#8217;s been building up; even if he can exploit flaws in the web of trust (e.g. obtaining some fake ID) to convince people to sign his newly generated key, 0&#215;87654321, under the name Bob Barfoo, he&#8217;ll have to start building a reputation again from scratch (e.g. going through NM again, which I hear takes quite a while :-)</p>
+"""]]

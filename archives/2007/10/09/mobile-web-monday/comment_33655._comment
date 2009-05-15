@@ -1,0 +1,21 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="86.139.75.79"
+ date="2007-11-06 22:44:22"
+ content="""
+<p>Jamie Kitson just pointed out Google&#8217;s content adaption service:</p>
+
+<p><a href="http://www.google.com/gwt/n?u=http%3A%2F%2Fhendry.iki.fi">http://www.google.com/gwt/n?u=http%3A%2F%2Fhendry.iki.fi</a></p>
+
+<p>`tidy -i -wrap100 -o tidy.xhtml google.xhtml` was run to examine their changes:</p>
+
+<p><a href="http://static.natalian.org/2007&#8211;11-06/">http://static.natalian.org/2007&#8211;11-06/</a></p>
+
+<ul>
+<li>Seems to use <span class="caps">XHTML</span>. I think <span class="caps">XHTML</span> <span class="caps">SUCKS</span>!</li>
+<li>They rewrite URLs. Feckers.</li>
+<li>They add inline style information. That usually screws up crappy browsers&#8230;</li>
+<li>They turned my lists into a separate page. Another round trip to get more information? Sounds like a poor user experience to me.</li>
+</ul>
+"""]]

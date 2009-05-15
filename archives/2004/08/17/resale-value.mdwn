@@ -1,0 +1,5 @@
+[[!meta title="Resale value" ]]
+[[!meta date="2004-08-18 17:23:37" ]]
+<p>It would be good to be able to prove a computer items resale value by comparing it&#8217;s current price and say it&#8217;s price on Ebay over time.</p>
+
+<p>For example I <strong>think</strong> a thinkpad has an amazing resale value compared to other laptops.</p>

@@ -1,0 +1,21 @@
+[[!meta title="WAP 2.0" ]]
+[[!meta date="2004-07-02 16:35:40" ]]
+<p>Although Nokias tout their browser as &#8220;WML 1.x and <span class="caps">XHTML</span>&#8221;, one has to wonder about WAP2.0.</p>
+
+<p>After all, people who use <span class="caps">XHTML</span> on their phones still call it <span class="caps">WAP</span>.</p>
+
+<p>There is an awful amount of confusion.</p>
+
+<p>WAP2.0 in terms of browsing (lets not get into the stack): <br />
+* <a href="http://www.w3.org/TR/xhtml-basic/"><span class="caps">XHTML</span> Basic</a><br />
+* <span class="caps">WML</span> <a href="http://www.w3.org/TR/xhtml-modularization/introduction.html#s_intro">Modulized as an <span class="caps">XHTML</span> module</a> (<a href="http://developer.openwave.com/dvl/support/documentation/guides_and_references/xhtml-mp_style_guide/">Mobile Profile</a>)<br />
+* some other <span class="caps">WML</span> 1.x extension that couldn&#8217;t fit in the module, i.e. <a href="http://www.appelsiini.net/keitai-l/archives/2002-02/0116.html"><span class="caps">WML</span> 2.0</a><br />
+* <a href="http://www.wapforum.org/tech/documents/WAP-239-WCSS-20011026-a.pdf"><span class="caps">WCSS</span></a> or is it <a href="http://www.w3.org/TR/css-mobile"><span class="caps">CSS</span> Mobile profile</a></p>
+
+<p>So errr&#8230; Nokia&#8217;s <span class="caps">XHTML</span> browser does what?</p>
+
+<p>The UA Profile? <a href="http://discussion.forum.nokia.com/forum/showthread.php?s=02d9c5ad6c03e652fa3648973c132b24&amp;threadid=45206">It only tells they&#8217;ve implemented <span class="caps">XHTML</span> 1.0</a>. No mention of the <span class="caps">WML</span> module. Why? It&#8217;s because their user agent is dual mode. It comes across <span class="caps">WML</span> and it gets done by their existing implementation. Obvious isn&#8217;t it? But that wasn&#8217;t obvious to who drafted the WML2.0 spec as they threw in all the <span class="caps">WML</span> backwards compatibility stuff no web developer is interested in because it makes <span class="caps">HTML</span> device dependent. Although I was surprised to see <a href="http://www.opera.com/docs/specs/#wml">Opera7 implementing <span class="caps">WML</span></a>. But Opera right now isn&#8217;t the leading browser and <span class="caps">WML</span> is a discontinued language.</p>
+
+<p>So&#8230; <span class="caps">WTF</span>? The only way as a developer we can figure out what&#8217;s going on of course is by tracking the browser user agent. This is easy with Opera, but with Nokia&#8217;s browser (the one with huge market share) it is next to impossible. The only version you can really go on is the operating system version. And that&#8217;s not consistent and might change though the user agent wasn&#8217;t touched.</p>
+
+<p>Welcome to the wacky world of mobile browsing.</p>

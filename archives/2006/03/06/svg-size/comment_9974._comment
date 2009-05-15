@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Joose Vettenranta"
+ subject="82.181.82.163"
+ date="2006-03-07 16:41:35"
+ content="""
+<p>Icons are good to make with <span class="caps">SVG</span>, but there is more where to use it! Like cartoons in web would be nice to do with <span class="caps">SVG</span>, and maps&#8230; those just came to my mind.</p>
+
+<p>Where I use <span class="caps">SVG</span> is to visualize data anlysis. I have software which generates <span class="caps">XML</span>-file from data. That <span class="caps">XML</span> file I convert to <span class="caps">XSL</span>-FO format with <span class="caps">XSL</span>-T and graphics I do as inline <span class="caps">SVG</span>. Then my converter makes that fo to <span class="caps">PDF</span> file. And it also makes <span class="caps">SVG</span> as <span class="caps">PDF</span>-vectors so I can go and print very very good quality graphics =) I&#8217;m thinkin doing same with <span class="caps">HTML</span>, so I could kinda &#8220;preview&#8221; results before doing the <span class="caps">PDF</span> stuff. So <span class="caps">HTML</span> + inline <span class="caps">SVG</span> = one very easy software (or in my case, xsl-t).</p>
+
+<p>- Joose</p>
+"""]]

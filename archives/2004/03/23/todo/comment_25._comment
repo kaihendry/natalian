@@ -1,0 +1,22 @@
+
+[[!_comment format=mdwn
+ username="Kai Hendry"
+ subject="217.30.176.161"
+ date="2004-03-25 19:27:54"
+ content="""
+<p>Seperate media into which device is was taken with:</p>
+
+<p>/media/kodak<br />
+/media/screenshot<br />
+/media/olympus</p>
+
+<p>This keeps filenames consistent. Filenames are extremely important to work out the date when <span class="caps">EXIF</span> fails.</p>
+
+<p>File duplicates aren&#8217;t a problem.</p>
+
+<p>So how them stored like that, and have a completely seperate viewer of the media. Viewer needs to cache/store thumbnails/previews, and keep /yyyy/mm/dd browsing structure.</p>
+
+<p>Viewer should use link elements for site navigation.</p>
+
+<p>A form should be presented with the picture to edit metadata and hide/show pictures with a password.</p>
+"""]]

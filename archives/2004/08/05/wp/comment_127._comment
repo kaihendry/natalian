@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="fire59"
+ subject="206.146.215.243"
+ date="2004-08-06 06:17:50"
+ content="""
+<p>Any instruction to install?  I&#8217;ve try using dpkg -i wordpres&#8230;..deb and i got an error: <br />
+<span class="caps">ERROR</span> 1044 at line 1: Access denied for user: &#8216;debian-sys-maint@localhost&#8217; to database &#8216;wordpress&#8217;<br />
+So i&#8217;m suppose to have &#8220;wordpress&#8221; db created huh&#8230;</p>
+
+<p>Anyway to do step by step config? or is that basically the other way to install it?</p>
+"""]]

@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="Giles Bathgate"
+ subject="82.42.5.114"
+ date="2008-01-10 17:07:15"
+ content="""
+<p>I welcome the PinSentry and requested one be sent to me after seeing that my Dad had got one.</p>
+
+<p>The reason is that this device makes internet banking very secure as it is two-factor authentication method meaning it requires something you own (the card/reader) and something you know (the pin) see: <a href="http://en.wikipedia.org/wiki/Two-factor_authentication">http://en.wikipedia.org/wiki/Two-factor_authentication</a></p>
+
+<p>I would like to point out a couple of things.</p>
+
+<p>1) The instructions were very clear and it was obvious that the <span class="caps">PIN</span> you use is your &#8220;Chip and Pin&#8221; code that you would use at the <span class="caps">ATM</span> and everywhere else for that matter.</p>
+
+<p>2) The <span class="caps">PIN</span> is not stored on the reader, and therefore someone stealing your reader gains nothing. infact it is possible to use anyones PinSenty reader. The information is stored in the Chip of your &#8220;Chip and Pin&#8221; card and what is actually stored is most likely a one way hash of the <span class="caps">PIN</span>, so you could not easily get the <span class="caps">PIN</span> even if your card is stolen.</p>
+"""]]

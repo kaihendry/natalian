@@ -1,0 +1,17 @@
+[[!meta title="Three's unfair lockup" ]]
+[[!meta date="2009-03-22 19:08:39" ]]
+<a href="http://www.flickr.com/photos/hendry/2278783255/" title="Internet on the Train by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2200/2278783255_69a2421e9a_m.jpg" width="240" height="180" alt="Internet on the Train" /></a>
+
+<p>As many of you know, I have a <a href="http://natalian.org/archives/2007/05/15/nokia-e65-from-3/">Nokia E65</a> from <a href="http://en.wikipedia.org/wiki/Three_mobile">Three mobile</a>.</p>
+
+<p>Lately I&#8217;ve been enjoying the device and its unlimited Internet access by dialling through it from my <a href="http://wiki.webvm.net/hardware/x61/">Thinkpad X61</a>. I&#8217;ve only just started using this cool feature, as Three were giving me scary mixed messages&#8230; I went into a store and they told me I would get charged extra for using Internet from my laptop. I think there might have been confusion <span class="caps">WRT</span> the Three <span class="caps">USB</span> dongle which I think most people are supposed to get &#8220;mobile laptop&#8221; Internet access via Three&#8230;</p>
+
+<p><strong>I want my mobile unlocked</strong> as I want to be able to use my mobile abroad with <span class="caps">PAYG</span> <span class="caps">SIM</span> cards from local Telcos. Example: I visit Israel. It&#8217;s insanely expensive to call local friend&#8217;s mobiles. It&#8217;s much cheaper to buy a <span class="caps">PAYG</span> <span class="caps">SIM</span> card in Israel and use that instead.</p>
+
+<p>Why is it locked, especially since I&#8217;m on a contract? <span class="caps">AFIAK</span> Vodafone contract mobile phones are unlocked.  You basically pay for the Three X-series phone in the very long 18month contract, which you can&#8217;t end without paying the whole contract off!</p>
+
+<p>I called up Three and they told me they could unlock the phone for 20GBP. However in that case it will stop working with the Three network. <span class="caps">WTF</span>? I was asked a couple of mobile phone shops and they think like me, that&#8217;s bullshit. They also need one month&#8217;s notice for doing so. So basically if I want to follow Three&#8217;s unlock policy with my phone, I need to call a month before my contract expires. Unlock it. Then switch to a mobile operator which allows unlocked 3G mobiles like Vodafone. Isn&#8217;t that insane?</p>
+
+<p>Another <span class="caps">INSANE</span> and incredibly annoying thing <a href="http://en.wikipedia.org/wiki/Three_mobile">3 UK</a> has done is made the E65 impossible to upgrade. Nokia E65 sold by Three in the X-series program do not get firmware updates. <a href="http://www.e-series.org/archives/429#comment-56880">I am not sure if you can change the Three specific product code to be a more generic Nokia E65 as others have ended up with a bricked phone.</a></p>
+
+<p>I like the Nokia E65, but if Three has locked it and disallowed updates then it&#8217;s a unfair waste of money to me. :( It&#8217;s my phone and I want to exercise rights over it.</p>

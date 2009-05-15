@@ -1,0 +1,5 @@
+[[!meta title="Where you at?" ]]
+[[!meta date="2004-02-21 19:32:39" ]]
+<a href="http://aat.dabase.com/"><acronym title="Acronym &amp; Abbreviation Tool">AAT</acronym></a> is a little CGI program I made to address the problem I have with Acronyms and Abbreviations.
+
+<p>It&#8217;s kept me busy today, tomorrow I&#8217;ll work on it more, so I can hook it the database with my editor vim.</p>

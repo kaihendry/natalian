@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Tom Pike"
+ subject="217.159.17.26"
+ date="2004-06-13 17:34:44"
+ content="""
+<blockquote cite="">And the 404 page provided by the browser could included a feedback form so a user could easily give feedback to the site maintainer.</blockquote>
+
+<p>And how does the browser know the contact e-mail address of the site owner?</p>
+
+<blockquote cite="http://natalian.org/archives/2004/06/11/no-popups/#comment-59">I would prefer to see the user agent provide a generic useful 404 page instead of relying on website authors to do it.</blockquote>
+
+<p>This is actually one of the most annoying things about <acronym title="Internet Explorer">IE</acronym>&#8216;s way of handling 404 pages.  If your <acronym title="HyperText Markup Language"><span class="caps">HTML</span></acronym> is reasonably efficient and you provide a useful 404 page whose size is below IE&#8217;s threshold then no IE user will see your nice 404 page (unless you pad out the file with spaces or something equally hacky).</p>
+"""]]

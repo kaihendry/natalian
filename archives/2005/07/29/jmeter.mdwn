@@ -1,0 +1,9 @@
+[[!meta title="Jmeter" ]]
+[[!meta date="2005-08-09 11:56:04" ]]
+<p>A collegue of mine DoSsed <a href="http://natalian.org/">natalian.org</a> with <a href="http://jakarta.apache.org/jmeter/">Jmeter.</a></p>
+
+<p>It was only pulling the index.php and it seemed to hold up with a 100 concurrent connections. Then after awhile Wordpress seemed to lose contact with the mysql database and my site didn&#8217;t respond for more than 200 seconds. :(</p>
+
+<p>It came back pretty quickly after he stopped the test. I was told there was only one error, though I can&#8217;t see anything odd in the logs.</p>
+
+<p>I am probably going to move over to <a href="http://dreamhost.com">Dreamhost</a> in the near future as the machine is quite badly specced and on a home connection.</p>

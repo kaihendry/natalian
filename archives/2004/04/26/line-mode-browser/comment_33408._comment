@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Natalian &raquo; Blog Archive &raquo; Link UI support revisited"
+ subject="208.113.134.130"
+ date="2007-08-14 08:57:05"
+ content="""
+<p>[...] I&#8217;ve liked the &#8220;link toolbar&#8221;, however it doesn&#8217;t seem to have taken off. I thought it could be an aid for accessibility, but I don&#8217;t think the <span class="caps">WAI</span> people have jumped on this. I wonder if Google (or other search engines) uses link rel to help crawl the site. Otherwise, I guess link rel as a navigation aid will be just one of those things&#8230; like accesskeys. Actually I like the Search Keys extension as links are automatically numbered. I&#8217;ve wanted something like that for my mobile UA for years. [...]</p>
+"""]]

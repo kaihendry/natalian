@@ -1,0 +1,19 @@
+[[!meta title="Web E-mails" ]]
+[[!meta date="2004-08-18 17:46:30" ]]
+<p>E-mails could be better integrated into the Web. For me at least the Internet is the Web and E-mail.</p>
+
+<p>E-mail is &#8220;push&#8221; technology whilst Web &#8220;pull&#8221;. I hate this idea I have seen in <a href="http://ncsp.forum.nokia.com/download/?asset_id=11960">Nokia <span class="caps">RSS</span> feeds about <span class="caps">WAP</span> Push</a>. Nokia I beg of you, implement E-mail.</p>
+
+<p>Anyway, I had this publishable email thread with a friend and I wanted to publish it on a webpage.</p>
+
+<p>Nightmare ensues. I copy the body of the email into <strong>pre</strong> tags. Oh no. Attributions marks > !</p>
+
+<p>Then I escape them with a visual selection and <a href="http://svn.natalian.org/projects/scripts/escape.py">!escape.py</a>.</p>
+
+<p>Oh no, in the thread I shouldn&#8217;t publish Jamie&#8217;s emails, I should publish mine. Argh. There is about 10 mails in total. Argh, and then the conversation ends on <span class="caps">IRC</span> (actually <span class="caps">ICQ</span>, but I use bitlbee).</p>
+
+<p><strong>So is there a tool to publish &#8220;personal emails&#8221; on the web?</strong></p>
+
+<p>I ran an email through Markdown(cat secondmail.txt |  perl Markdown.pl&#8212;html4tags). Jikes, that was a mistake. I just want emails as emails but with say links as anchors. Did that make sense?</p>
+
+<p>Then I went off on a thought about email mimetypes and resource identifies and if and how a UA should implement this.</p>

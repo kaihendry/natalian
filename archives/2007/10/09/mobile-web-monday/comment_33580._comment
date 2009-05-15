@@ -1,0 +1,17 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="86.139.75.79"
+ date="2007-10-11 19:35:47"
+ content="""
+<p>I just tried my humble <a href="http://hendry.iki.fi" rel="nofollow">homepage</a> in widerweb&#8217;s proxy.</p>
+
+<p>Results are here:<br />
+<a href="http://static.natalian.org/2007&#8211;10-11/widerweb/">http://static.natalian.org/2007&#8211;10-11/widerweb/</a></p>
+
+<p>Examine the code here: <a href="http://static.natalian.org/2007&#8211;10-11/widerweb/h-indented.html">http://static.natalian.org/2007&#8211;10-11/widerweb/h-indented.html</a></p>
+
+<p>It&#8217;s pretty ugly and <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fstatic.natalian.org%2F2007-10-11%2Fwiderweb%2Fh-indented.html&amp;charset=%28detect+automatically%29&amp;doctype=Inline&amp;group=0" rel="nofollow">buggy</a>.</p>
+
+<p>The adapted version (3K) is about twice the size as the original (1.6K). One good thing is that the <strong>content</strong> seems all there thankfully.</p>
+"""]]

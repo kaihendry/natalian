@@ -1,0 +1,10 @@
+[[!meta title="Wordpress 2.0" ]]
+[[!meta date="2005-12-23 09:20:28" ]]
+<p>Ok, so I <a href="http://natalian.org/archives/2005/12/20/holiday/">lied a bit yesterday</a>. I&#8217;ve found some time and prepared <a href="http://wordpress.org/development/2005/12/wordpress-20-release-candidate/">Wordpress 2.0 RC3</a> packages.</p>
+
+<p>Please give some <a href="http://hendry.iki.fi/">feedback</a> before this Friday. It was a weird <a href="http://trac.natalian.org/timeline">svn-upgrade.</a></p>
+
+<pre>
+deb http://hendry.iki.fi/debian/ unstable/
+deb-src http://hendry.iki.fi/debian/ unstable/
+</pre>

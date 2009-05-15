@@ -1,0 +1,16 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="91.84.62.62"
+ date="2007-05-30 16:19:44"
+ content="""
+<p>Ok the very real problem is that there are <span class="caps">LOTS</span> of phones out there in the market place with crap browsers.</p>
+
+<p>Though if you say OK we are going to support your special &#8220;mobile environment&#8221;, then the world of crap browsers isn&#8217;t going to go away is it?</p>
+
+<p>I am worried that you will make the problem worse!</p>
+
+<p>So yes, I am asking India/China to upgrade to a UA that is &#8216;Web capable&#8217;. <strong>This will come in time.</strong> I am just so tired of false arguments for special device dependent Web authoring because of the screen size, network or now &#8216;context&#8217;. Positive changes will also come when all the players understand what we should be shooting for, the Web. Else, the &#8216;powers that be&#8217; will still ship <span class="caps">WAP</span> browsers like Nokia&#8217;s &#8216;Service&#8217; browser.</p>
+
+<p>It would be nice if Google gave credit where credit is due, and said something like if you want to do business with us, you need to rock with the <a href="http://whatwg.org" rel="nofollow">Web <span class="caps">API</span></a>. Though I guess since you seem to be so desperate for market share, you&#8217;re willing to go down any path with Yahoo et al towards a waste of time&amp;money known as the &#8216;Mobile Web&#8217;.</p>
+"""]]

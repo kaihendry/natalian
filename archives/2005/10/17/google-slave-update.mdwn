@@ -1,0 +1,11 @@
+[[!meta title="Google slave update" ]]
+[[!meta date="2005-10-17 17:49:27" ]]
+<p>Yay! <a href="http://toolbar.google.com/firefox/install.html">Google&#8217;s Toolbar</a> works in <a href="http://www.mozilla.org/projects/firefox/">Firefox 1.5</a></p>
+
+<p>Spelling on my blog will improve again. :)</p>
+
+<p>I took a look at Google <a href="http://www.google.com/webmasters/sitemaps/">sitemaps.</a> It doesn&#8217;t seem to support subdomains. I use subdomains everywhere. :/</p>
+
+<p>I thought since I ran my own blog host, that I would have more comment spams than most. My sister tells me she has to spend time deleting &#8220;junk mail&#8221; from <a href="http://www.blogger.com/comment.g?blogID=16892415&amp;postID=112937364950671771">her Google-run blog</a> too. I am getting about 50 spam comments a day and I&#8217;ve blacklisted all the obvious stuff. Argh! :(</p>
+
+<p>Just out of interest I seem to have about <strong>900&#8211;1000</strong> <span class="caps">SPAM</span> emails in my <span class="caps">SPAM</span> folder (which automagically purge 30 day old mails) on Gmail at all times.</p>

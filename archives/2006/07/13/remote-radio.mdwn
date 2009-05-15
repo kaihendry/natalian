@@ -1,0 +1,17 @@
+[[!meta title="Remote radio" ]]
+[[!meta date="2006-07-14 09:06:25" ]]
+<img src="http://www.radionetherlands.nl/assets/images/DRM_receiver.jpg" />
+
+<p>Since I enjoy travelling and I&#8217;m addicted to news, I investigated <a href="http://en.wikipedia.org/wiki/Satellite_radio">Satellite radio</a> today.</p>
+
+<p>This was prompted by an advertisement for a <a href="http://product.samsung.com/helix/">Samsung satellite radio receiver</a> that uses the <a href="http://www.xmradio.com/faq/faq_list_servlet.jsp?section_id=2&amp;section_main=XM%20Satellite%20Radio#18">XM Radio</a> service. After quite a bit of searching and dealing with the <span class="caps">CRAP</span> <span class="caps">THAT</span> <span class="caps">FLASH</span> throws at me, I discovered that XM radio is for the <span class="caps">USA</span>&amp;Canada. That&#8217;s no good.</p>
+
+<p>I also investigated <a href="http://en.wikipedia.org/wiki/WorldSpace">Worldspace</a> though their <a href="http://www.worldspace.com/receivers/tongshi.html">product offering</a> isn&#8217;t very compelling. It&#8217;s about 100USD for the receiver and then about 100USD a year! That&#8217;s crazy. Also there stupid Flash coverage map doesn&#8217;t do South America, where I am interested in travelling next.</p>
+
+<p>I met a traveller in India who had a portable Sony <a href="http://en.wikipedia.org/wiki/Short_wave#International_broadcasting">short wave</a> receiver. Using that and sometimes simple aerial modifications he would be able to pick up the Premiership scores via <span class="caps">BBC</span> World service wherever he was!</p>
+
+<p>Shortwave receivers are about 100USD, though after &#8220;surfing&#8221; on Wikipedia I found information about an interesting &#8220;open&#8221; project with a bad acronym; <a href="http://en.wikipedia.org/wiki/Digital_Radio_Mondiale">Digital Radio Mondiale</a> which aims to improve the quality of shortwave radio. I think it also known as &#8220;Digital AM&#8221;. I can&#8217;t seem to find any radio hardware products to purchase though. Their main Website drm.org seems down. :(</p>
+
+<p>There seems to be a strong interesting subculture within Radio. I always interested in <a href="http://en.wikipedia.org/wiki/HAM_radio"><span class="caps">HAM</span></a> stuff, but never knew anyone into it. I think I&#8217;ll order this <a href="http://www.wrth.com/info.html">book</a> or <a href="http://www.passband.com/">guide</a> and read more about it.</p>
+
+<p>It looks like these <a href="http://en.wikipedia.org/wiki/DX-pedition">amatuer radio enthusiasts enjoy travelling</a> too.</p>

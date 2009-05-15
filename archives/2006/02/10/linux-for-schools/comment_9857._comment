@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="221.143.162.18"
+ date="2006-02-14 10:24:16"
+ content="""
+<p>Well there is a simpler and more secure <span class="caps">DNS</span> option. My maradns package ! :)</p>
+
+<p>apt-get install maradns</p>
+
+<p>Anyway, I think most Access Points (router, whatever) do <span class="caps">DNS</span> caching.</p>
+"""]]

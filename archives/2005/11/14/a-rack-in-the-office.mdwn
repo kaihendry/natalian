@@ -1,0 +1,11 @@
+[[!meta title="A rack in the office" ]]
+[[!meta date="2005-11-15 17:37:49" ]]
+<p><a href="http://natalian.org/archives/2005/10/05/moving-from-white-boxes/">Continuing from my earlier post&#8230;</a></p>
+
+<p>At work we share a small office and today we took delivery of a SuperMicro SC823T based rack complete with a cabinet.</p>
+
+<p><strong><span class="caps">FUCK</span> IT&#8217;S <span class="caps">LOUD</span>.</strong></p>
+
+<p>I am really regretting purchasing it. A midi-tower or something would have been much quieter. Though that is not as flexible (could get it in a co-location) or professional as using a rack. I guess we need to somehow make a &#8220;server room&#8221;.</p>
+
+<p>Oh crap, I have a headache coming on.</p>

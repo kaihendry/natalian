@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Ville"
+ subject="62.237.206.137"
+ date="2005-05-13 21:13:45"
+ content="""
+<p>Cool indeed. Usefull I&#8217;m not so sure&#8230; But it got me thinking&#8230; if you like this sort of thing, I believe it could be reproduced for every site (or every specified site) with Firefox and GreaseMonkey ( <a href="http://greasemonkey.mozdev.org/">http://greasemonkey.mozdev.org/</a> ). With GreaseMonkey a person with JavaScript-skills can process a page with some javascript before displaying with Firefox. So, it should be possible to process, say, the paragraphs of specified sites to get the same effect as the <span class="caps">BBC</span>+Wikipedia proxy&#8230; for any site. (Yes, it&#8217;s a fantastic tool and there are <span class="caps">GUI</span>&#8216;s too for n00bs like me :) )</p>
+
+<p>The DB might be a problem&#8230; but you&#8217;re the programmer type so I&#8217;d suppose you know better :)</p>
+"""]]

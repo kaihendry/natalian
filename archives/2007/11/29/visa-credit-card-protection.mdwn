@@ -1,0 +1,17 @@
+[[!meta title="VISA Credit card protection" ]]
+[[!meta date="2007-12-04 11:59:50" ]]
+<p>Since <a href="http://en.wikipedia.org/wiki/VISA"><span class="caps">VISA</span></a> is absolutely insecure, here are the typical security &#8220;piece of mind&#8221; products that banks offer:</p>
+
+<ol>
+<li>The <strong>savings account</strong>. If you have a high balance in your current account, please transfer it into a savings account, so that criminals can&#8217;t get all your money in one fell swoop.</li>
+<li>The <strong>credit card account</strong>. Hey, here&#8217;s another card (don&#8217;t use your <span class="caps">DEBIT</span> <span class="caps">VISA</span> card dude) that you can use online. Idea is you pay for purchases later you know you made, with interest!</li>
+<li><strong>Insurance</strong>. Hey, pay the bank some money every month and when you get defrauded we&#8217;ll give you your money back. Promise.</li>
+</ol>
+
+<p>So when you insure your car or home, are you <strong>protected</strong>? I really don&#8217;t think so! <a href="http://www.barclaycard.co.uk/personal-home/insurance/card-protection/index.html">Barclaycard Card Protection</a> could really do more, by doing something to prevent this madness. <a href="http://natalian.org/archives/2007/11/08/barclays-pin-sentry/">Barclays <span class="caps">PIN</span> sentry is stupid</a> and <a href="https://verifiedbyvisa.barclays.co.uk/barclays/registration/welcome.jsp?partner=debit.visa">Barclays verified by visa</a> is confusing, esp. since it does some dodgy looking redirections. And don&#8217;t get me started on <a href="http://en.wikipedia.org/wiki/Card_Security_Code"><span class="caps">CVV</span></a>!</p>
+
+<p>People may argue <span class="caps">VISA</span> is convenient, though now I find it simply isn&#8217;t. For every account (think business), I need to track at <strong>least</strong> two sub-accounts. Add business banking, add foreign accounts and enjoy managing a <span class="caps">NIGHTMARE</span> scenario. :(</p>
+
+<p>Protection and Insurance is not the same for me, is it for you? I think insurance is just a way for banks and organization to skirt around their responsibilities to properly handle your digital transactions. And make some money in the process.</p>
+
+<p><b>Proposed solution</b>: I recommend banks deploy some sort of <a href="http://www.theregister.co.uk/2007/10/18/mosabi_gridsure_combi/"><span class="caps">GRID</span> <span class="caps">PIN</span> verification</a>, used in conjunction with a physical piece of paper (that can fit in your wallet, unlike the <a href="http://flickr.com/photos/hendry/1973989772/">silly pin sentry device</a>) of <a href="http://en.wikipedia.org/wiki/One-time_password">one time passwords</a>. Hey, if my bank can afford to send me statements for free, they can send me some one time passwords every 3 months or so too.</p>

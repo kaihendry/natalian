@@ -1,0 +1,15 @@
+[[!meta title="SVN" ]]
+[[!meta date="2004-01-16 09:13:11" ]]
+<a href="http://wordpress.org/support/4/1777">Asked about the conversion in Wordpress forums.</a>
+
+<p>Spent time messing with mail stuff. Exim4 is quite a monster to setup. I want to setup a catchall, and some alias configuration for each domain hosted on my <a href="http://daidalos.pannuhuone.org">server</a>. I gave up after an hour to look at <a href="http://dovecot.procontrol.fi/">Dovecot</a> by Timo Sirainen, who also wrote the <a href="http://www.irssi.org/">irssi <span class="caps">IRC</span> client</a>. Unfortunately Debian unstable there seems to be a permission problem with <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=224568">/var/mail</a>. Urgh. Didn&#8217;t find the solution.</p>
+
+<p>Only sort-of positive news I can offer, is that I setup <a href="http://svn.natalian.org/">ViewCVS for Hendry&#8217;s repo</a>.<br />
+Pretty much like <a href="http://svn.kitenet.net/">Joey&#8217;s Kitenet and with his help.</a></p>
+
+<p>It is suffering from a fair few intermittent problems which can result in me having to <em>recover</em> the repo. I have not lost data yet, but it sure is scary. The repo is atm 1.1G. It needs pruning big time. This hopefully will happen with a new version of subversion. It has some juicy stuff in there, which I hope ViewCVS correctly forbids you dear reader, from <br />
+perusing. Otherwise I hope you will find things like my home directory and possibly my school work interesting.</p>
+
+<p>Yesterday or the day before I setup my <a href="http://svn.natalian.org/debian/configuration/t30/etc/X11/XF86Config-4">XF86Config</a> to support my old external 17&#8221; in multi head (Xinerama) setup with the help of xserver-xfree86-dri-trunk and the latest 2.6 Debian kernel image. Great stuff.</p>
+
+<p>However now I have a crink in my neck. It is really painful ! :/ No dual screen stuff for me, that&#8217;s for the movies&#8230;</p>

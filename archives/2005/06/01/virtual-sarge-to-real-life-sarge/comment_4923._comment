@@ -1,0 +1,22 @@
+
+[[!_comment format=mdwn
+ username="Michael P"
+ subject="24.20.137.75"
+ date="2005-06-01 16:42:54"
+ content="""
+<p>Here&#8217;s what I&#8217;d do (I&#8217;m not saying it&#8217;s the ideal solution, it&#8217;s just the one I think of first):</p>
+
+<p>Take the hard drive from the real machine and put it into your WinXP+VMware box.  Set up that drive to be a physical disk under VMware.  Make a filesystem on the drive and mount it somewhere, say /target.</p>
+
+<p>Now rsync everything over:<br />
+rsync -vSHaxP / /target</p>
+
+<p>That command won&#8217;t cross filesystem boundaries, so if you have other filesystems, you&#8217;ll need to rsync those too, e.g.:<br />
+rsync -vSHaxP /var /target</p>
+
+<p>(Make sure <span class="caps">NOT</span> to include the trailing slash on your other filesystems&#8230; e.g. &#8221;/var&#8221;, <span class="caps">NOT</span> &#8221;/var/&#8221; !!)</p>
+
+<p>Now everything should be copied over.  All that&#8217;s left is the master boot record.  Put the drive back in your real machine, boot from a debian boot CD (&#8220;linux root=/dev/hda1&#8221;) and then reinstall lilo or grub on the drive.</p>
+
+<p>Hopefully that should work!</p>
+"""]]

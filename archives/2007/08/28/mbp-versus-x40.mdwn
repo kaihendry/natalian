@@ -1,0 +1,37 @@
+[[!meta title="MBP versus X40" ]]
+[[!meta date="2007-08-29 08:45:55" ]]
+<a href="http://www.flickr.com/photos/hendry/1258625829/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1313/1258625829_2e46a9d05e_m.jpg" width="240" height="180" alt="Thinkpad X40 vs MBP" /></a>
+
+<p>I&#8217;ve spent a bit of the bank holiday weekend by probably violating the warranty of a <a href="http://www.flickr.com/photos/hendry/1258625653/">new 15&#8221; Macbook Pro (MBP)</a> from <a href="http://www.aplixcorp.com">work</a>. I also was at the <a href="http://wiki.earth.li/DebianParty2007">Debian bbq 2007 in Cambridge</a> and met some friendly faces. :)</p>
+
+<ul>
+<li>I halved the HD to make way for Debian with Bootcamp and rEFIt. (I wonder how easy it is resize things again if needs be. Bootcamp does not seem to want to run again&#8230;)</li>
+<li>Unfortunately Debian&#8217;s <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=381576">grub isn&#8217;t patched for gpt</a> (thanks cjwatson for the tip), so the install failed&#8230;</li>
+<li>The install CD got stuck inside and I discovered from mjg59 that holding down the mouse button whilst turning on the <span class="caps">MBP</span> ejects the CD. Phew&#8230;</li>
+<li>I&#8217;ve since installed Ubuntu Feisty, though since the X was failing to start with the nVidia video device, I decided to upgrade to gutsy. It works. :)</li>
+<li>Unfortunately a lot of other things do not work (without some tweaking), like sound, wifi and flash so&#8230;</li>
+<li>I&#8217;m now <a href="http://www.vmware.com/community/thread.jspa?threadID=100393&amp;tstart=0">booting into the Ubuntu partition from MacOSX</a> via <a href="http://www.vmware.com/products/fusion/">VMware&#8217;s Fusion product</a>. Niiice.</li>
+<li>I did try Debian lenny inside Fusion, but it doesn&#8217;t seem to do fullscreen at 1440&#215;900. However, Ubuntu does. I guess the VMware guys tweak things.</li>
+</ul>
+
+<a href="http://flickr.com/photos/hendry/tags/mbp/">More MBP &amp; X40 porn</a>
+
+<p>So now I can boot into MacOSX and run Ubuntu or boot straight into Ubuntu from rEFIt. There are a couple of problems.</p>
+
+<ul>
+<li>I need to `sudo dpkg-reconfigure xserver-xorg` between vmware and nvidia drivers when I boot between</li>
+<li>Nevermind the right click, how the hell do I do a middle click for a paste?? <a href="http://www.vmware.com/community/thread.jspa?threadID=100534&amp;messageID=736594#736594">(Fixed)</a></li>
+<li>The keyboard on the <span class="caps">MBP</span> does suck. For example if I click the bottom right edge of the key &#8216;t&#8217;, no &#8216;t&#8217; shows up. It feels wrong, though I guess I have to get used to it.</li>
+<li>The <span class="caps">MBP</span> runs hotter and louder than the X40. Of course the <span class="caps">MBP</span> is heavier too, hence the <span class="caps">MBP</span> isn&#8217;t what I class a &#8216;laptop&#8217;</li>
+<li>Effectively Ubuntu under VMware will be much slower than X40 with Debian lenny. So, this hardly feels like an upgrade. ;)</li>
+<li>I really don&#8217;t like the windowing MacOSX interface. I need to figure out how to compile (Xlib.h not there) and run a &#8220;tabbed WM&#8221; <a href="http://www.suckless.org/wiki/dwm">dwm</a> on the <span class="caps">MBP</span> natively. </li>
+<li>A lot of the Apple software just sucks!</li>
+</ul>
+
+<p>There are some things I quite like about the <span class="caps">MBP</span> compared to the X40:<br />
+* Bigger screen 1024&#215;768 -> 1440&#215;900<br />
+* Wifi that remembers the connection details<br />
+* Faster bootups<br />
+* I actually like the glossy screen (when there are no reflections on it)</p>
+
+<p>Currently I remain not totally convinced about the Apple <span class="caps">MBP</span>. I&#8217;ll keep my Debian X40 my personal machine and the <span class="caps">MBP</span> for work. Now I can <a href="http://webkit.org/building/build.html">compile Webkit on Apple <span class="caps">OSX</span></a>  <a href="http://packages.qa.debian.org/w/webkit.html">(Debian can too)</a> and see what&#8217;s happening in Ubuntu.</p>

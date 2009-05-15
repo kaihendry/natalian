@@ -1,0 +1,24 @@
+[[!meta title="Localized Webconverger" ]]
+[[!meta date="2007-05-26 16:32:31" ]]
+<a href="http://www.flickr.com/photos/hendry/512519165/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/194/512519165_703ad044e0_m.jpg" width="240" height="180" alt="Webconverger in German" /></a>
+
+<p>Big update today. Lots of hard work and <a href="http://webconverger.org/blog">changes</a>.</p>
+
+<p>I&#8217;m pleased to release <a href="http://webconverger.org/i18n/">Webconverger localisations</a> in:</p>
+
+<ul>
+<li><a href="http://download.webconverger.com/webconverger.iso">English</a> &#8211; Ok, the default</li>
+<li><a href="http://download.webconverger.com/maxi/">Korean</a></li>
+<li><a href="http://download.webconverger.com/maxi/">French</a></li>
+<li><a href="http://download.webconverger.com/maxi/">German</a></li>
+</ul>
+
+<p>If you would like to help out esp. with translations, check out the <a href="http://webconverger.infogami.com/Develop">development guide</a>. :)</p>
+
+<p>2.16 also debuts with live-initramfs that replaces casper. So expect even more (optional) <a href="http://webconverger.infogami.com/Features">features</a>. I&#8217;ve also finally tweaked the Webconverger extension to allow <span class="caps">CTRL</span>+{T,W,L} keyboard shortcuts.</p>
+
+<p>Also <a href="http://webconverger.infogami.com/Press">good news</a>: Webconverger&#8217;s security features have been highlighted in a <a href="http://www.andrewpatrick.ca/security-and-privacy/quest-for-a-good-boot-cd-for-internet-banking/">article about Web banking</a>.</p>
+
+<p>Thanks again to <a href="http://blog.daniel-baumann.ch/">Daniel Baumann</a> for his <a href="http://debian-live.alioth.debian.org/">Debian-live</a> help and other <a href="http://webconverger.org/Acknowledgements">generous contributors to the project</a>.</p>
+
+<p>I think this &#8216;Web thing&#8217; <em>could</em> be big. :)</p>

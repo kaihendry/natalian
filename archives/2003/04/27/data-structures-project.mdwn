@@ -1,0 +1,15 @@
+[[!meta title="Data structures project" ]]
+[[!meta date="2003-04-27 06:30:09" ]]
+<p>For a school project, I have been implementing some string matching algorithms. Below is some simple timing tests. I am quite dissapointed about how my Fam and Esm are doing. &#8216;Really&#8217;*50 badly. Esm does have an excuse. It isn&#8217;t really for a single pattern search, it is for keywords. But my really Naive algorithm beating the Finite automata matcher! That is just not right. I guess the book Wuthering Heights is not a big enough text. There is so much pain to software. There is the design(blood), the implementation(sweat), the testing(tears) and the piss poor timings(start again?). After playing around with searches on the book, it is quite interesting to note that the characters with the most mentions of their name, are the most important <span class="caps">IMHO</span>. Cathy/Catherine is a winner in Wuthering Heights, with a close second with Heathcliff and third place Linton. Although it does not really help that there are sort of more than one Linton and two Cathys. Oh hell, forget my brain fart.</p>
+
+<pre> Case insenstive count for just the single pattern/keyword Heathcliff in Wuthering Heights text from the Gutenberg project Text size: 675254 
+
+<p>Timing Stringfind, Python&#8217;s string.find put to the test 476 times: user 0.01, sys 0, ch-user 0, ch-sys 0, real 0.01</p>
+
+<p>Timing Esm, Efficient String Matching: An aid to bibliographic search 476 times: user 5.23, sys 0.02, ch-user 0, ch-sys 0, real 5.25</p>
+
+<p>Timing Regex, Python&#8217;s own RE module 476 times: user 0.01, sys 0, ch-user 0, ch-sys 0, real 0.01</p>
+
+<p>Timing Naive, The naive string machine algorithm 476 times: user 0.78, sys 0, ch-user 0, ch-sys 0, real 0.78</p>
+
+<p>Timing Fam, Finite automata matcher 476 times: user 2.81, sys 0.15, ch-user 0, ch-sys 0, real 2.96 </pre></p>

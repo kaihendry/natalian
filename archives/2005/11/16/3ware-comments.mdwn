@@ -1,0 +1,84 @@
+[[!meta title="3ware comments" ]]
+[[!meta date="2005-11-18 13:15:10" ]]
+<p>It is difficult to tell what model you have in the machine:</p>
+
+<pre>
+[root@airbus 3ware]# dmesg | grep 3ware
+3ware Storage Controller device driver for Linux v1.26.00.039.
+scsi0 : Found a 3ware Storage Controller at 0xbc00, IRQ: 209, P-chip: 1.3
+scsi0 : 3ware Storage Controller
+  Vendor: 3ware     Model: Logical Disk 0    Rev: 1.2
+</pre>
+
+<p>I could not find out anywhere that the card installed was actually a 8006&#8211;2LP <a href="http://en.wikipedia.org/wiki/RAID"><span class="caps">RAID</span></a> card.</p>
+
+<p>There is an &#8220;Open Source&#8221; driver, but the <span class="caps">CLI</span> which is essentially the driver for sysadmins isn&#8217;t. It&#8217;s a 1.7M binary called <strong>tw_cli</strong>. Can I trust this?!</p>
+
+<p>The installation guide walks you through the <span class="caps">BIOS</span> administration tool. For an up and running system you need to know about the <span class="caps">CLI</span> to check on degradation and rebuild status. Who cares about these in the <span class="caps">BIOS</span> menu? If you&#8217;re looking at <span class="caps">BIOS</span> menu your system is offline!</p>
+
+<p>In 3ware&#8217;s <a href="http://www.3ware.com/download/Escalade7000Series/7.7.1/7.7.1_Release_Notes_Web.pdf">latest release notes</a> they report in the Errata that the <strong><span class="caps">CLI</span> displays inaccurate or confusing messages.</strong> Crap.</p>
+
+<p><strong>diag</strong> throws nonsense &#8221;ï¿½ï¿½ï¿½&#8221; on the screen.</p>
+
+<p>2&#215;160G drives come up as only 150G:<br />
+<pre><br />
+//airbus> info c0 drivestatus</p>
+
+<p>Port   Status           Unit   Size        Blocks        Serial<br />&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+p0     OK               u0     149.05 GB   312581808     4MT0V4V4<br />
+p1     OK               u0     149.05 GB   312581808     5MT274A0<br />
+</pre></p>
+
+<p>Or less?<br />
+<pre><br />
+[root@airbus ~]# mount<br />
+/dev/sda3 on / type ext3 (rw)<br />
+none on /proc type proc (rw)<br />
+none on /sys type sysfs (rw)<br />
+none on /dev/pts type devpts (rw,gid=5,mode=620)<br />
+usbfs on /proc/bus/usb type usbfs (rw)<br />
+/dev/sda1 on /boot type ext3 (rw)<br />
+none on /dev/shm type tmpfs (rw)<br />
+none on /proc/sys/fs/binfmt_misc type binfmt_misc (rw)<br />
+sunrpc on /var/lib/nfs/rpc_pipefs type rpc_pipefs (rw)<br />
+[root@airbus ~]# df -h<br />
+Filesystem            Size  Used Avail Use% Mounted on<br />
+/dev/sda3             143G  1.6G  134G   2% /<br />
+/dev/sda1              99M   11M   83M  12% /boot<br />
+none                 1014M     0 1014M   0% /dev/shm<br />
+</pre></p>
+
+<p>Documentation for the <span class="caps">CLI</span>. Where is it? Is there any? I can&#8217;t find any information about setting alarms.</p>
+
+<p>People who supplied me the server have a script that greps the status periodically. Hmph&#8230;<br />
+<pre><br />
+[root@airbus 3ware]# ./tw_cli info c0 u0</p>
+
+<p>Unit     UnitType  Status         %Cmpl  Port  Stripe  Size(GB)  Blocks<br />&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+u0       <span class="caps">RAID</span>-1    OK             &#8211;      &#8211;     &#8211;       149.05    312579760<br />
+u0&#8211;0     <span class="caps">DISK</span>      OK             &#8211;      p0    &#8211;       149.05    312579760<br />
+u0&#8211;1     <span class="caps">DISK</span>      OK             &#8211;      p1    &#8211;       149.05    312579760<br />
+</pre></p>
+
+<p>What kind of <a href="http://www.3ware.com/support/windows_agree.asp">Open Source license is this anyway 3ware?</a><br />
+Are &#8220;Restrictions&#8221; section invalid for the Driver? It could be a lot clearer.</p>
+
+<p>Performance. The <a href="https://www.redhat.com/archives/nahant-list/2005-October/msg00271.html">Nahant list hosts a thread about poor <span class="caps">RAID</span> performance with ext3.</a> I ran <a href="http://www.coker.com.au/bonnie++/">bonnie++</a> on a <span class="caps">RAID</span>-1 configuration to get about <strong>27 megs/second</strong> overall performance.</p>
+
+<p>I&#8217;ve been I could use hdparm to tweak it. I&#8217;ve had no joy:</p>
+
+<pre>
+[root@airbus ~]# hdparm /dev/sda
+
+<p>/dev/sda:<br />
+ HDIO_GET_MULTCOUNT failed: Invalid argument<br />
+ readonly     =  0 (off)<br />
+ readahead    = 16384 (on)<br />
+ geometry     = 19457/255/63, sectors = 160040837120, start = 0<br />
+[root@airbus ~]# hdparm -I /dev/sda</p>
+
+<p>/dev/sda:<br />
+ HDIO_DRIVE_CMD(identify) failed: Invalid argument<br />
+</pre></p>
+
+<p>Overall, I am not impressed.</p>

@@ -1,0 +1,11 @@
+
+[[!_comment format=mdwn
+ username="Kai Hendry"
+ subject="128.214.48.37"
+ date="2004-02-09 11:10:45"
+ content="""
+<p>I have relieved with the aforementioned problems by running Vim 6.2 and these lines:</p>
+
+<p>set encoding=utf-8          &#8221; Set Unicode as the default encoding                                                                                                                                                  <br />
+set fileencodings=ucs-bom,utf-8,latin1</p>
+"""]]

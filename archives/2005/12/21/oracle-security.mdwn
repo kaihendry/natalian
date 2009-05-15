@@ -1,0 +1,11 @@
+[[!meta title="Oracle security" ]]
+[[!meta date="2005-12-21 13:49:56" ]]
+<p>Oracle and security. What a sad joke!</p>
+
+<p>Their <a href="http://static.natalian.org/2005-12-20/oracle-security.htm">critical patch update</a> is a complete nightmare to apply, to put it mildly.</p>
+
+<p>It looks like they might be addressing some of the zillions of problems with their <a href="http://www.zdnet.com.au/news/software/soa/Oracle_to_Fortify_its_source_code/0,2000061733,39228848,00.htm?feed=rss">source code</a>, but what&#8217;s important with security fixes is how you deploy them.</p>
+
+<p>Oracle hasn&#8217;t a clue about this.</p>
+
+<p>My approach is once you have a database installed (that&#8217;s a miracle in itself), limit it to &#8220;trusted user&#8221; IPs with /etc/hosts.allow or firewall filtering. And pray.</p>

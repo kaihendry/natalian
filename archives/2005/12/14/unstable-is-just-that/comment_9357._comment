@@ -1,0 +1,11 @@
+
+[[!_comment format=mdwn
+ username="Kevin Mark"
+ subject="165.247.40.5"
+ date="2005-12-14 21:01:50"
+ content="""
+<p>Hi Kai,<br />
+a while a go, I had an idea and asked folks on debian-user about it<sup class="footnote"><a href="#fn0">0</a></sup>. Most folks seem to think it was a good idea. So, any status for sid is welcomed. most DD&#8217;s involved with transitions have a time frame for: what is going to be changed, what will break, etc. So I thought they could send a &#8216;heads up&#8217; to the folks who will be upgrading and help them avoid breakage! A simple email to debian-user would make us users feel like the &#8216;folks on high&#8217; are keeping an eye out for us!<br />
+Cheers which ever continent you are in,<br />
+Kevin</p>
+"""]]

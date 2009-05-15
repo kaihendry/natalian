@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Kai"
+ subject="217.30.176.161"
+ date="2004-06-13 18:14:27"
+ content="""
+<p>As for e-mail address, what about <a href="mailto:webmaster@domain.com">webmaster@domain.com</a>? I think this is set as an &#8220;environment variable&#8221; that you can query from apache. If not, it should be. Or you could guess. domain.com/~luser would be <a href="mailto:luser@domain.com">luser@domain.com</a></p>
+
+<p>You and I might do an efficient 404, but most people won&#8217;t. I do reserve the right to over-right the browser&#8217;s 404 mind. I think. :)</p>
+"""]]

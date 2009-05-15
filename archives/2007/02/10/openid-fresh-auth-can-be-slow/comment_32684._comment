@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Tom Pike"
+ subject="84.210.48.73"
+ date="2007-02-11 14:04:52"
+ content="""
+<p>Looks to me like it could be similar to a problem I had.  There was a very noticeable delay on <span class="caps">HTTP</span> communication between 2 servers (even between the server and itself).  I eventually tracked down the problem:  the issue was that my <span class="caps">HTTP</span> client request was claiming to be supporting <span class="caps">HTTP</span>/1.1, but in reality it did not deal with any of the intricacies of <span class="caps">HTTP</span>/1.1, specifically support for the &#8220;Connection: keep-alive&#8221; directive which keeps a connection open for up to ~30 seconds so that the client can re-use it.  Changing the request from &#8220;POST /xxx <span class="caps">HTTP</span>/1.1&#8221; to &#8220;POST /xxx <span class="caps">HTTP</span>/1.0&#8221; was the easiest solution.</p>
+"""]]

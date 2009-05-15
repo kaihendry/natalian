@@ -1,0 +1,37 @@
+[[!meta title="Opensource Web services" ]]
+[[!meta date="2007-04-14 23:03:03" ]]
+<a href="http://www.flickr.com/photos/hendry/457911926/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/194/457911926_d65c9231cc_m.jpg" width="240" height="180" alt="olpc web browser pointing to Webconverger" /></a>
+
+<p>Whilst downloading, installing and running Debian packages is easy, fun and &#8220;free&#8221;, most Web application services aren&#8217;t. I can&#8217;t be the only one that thinks there is a problem somewhere as for example, where are the all the free software <strong>Web services</strong> listed on <a href="http://freshmeat.net/">Freshmeat</a>?</p>
+
+<p>I have an idea for a Web application though I thought it would be cool to make it as Free software though it can be a pain.</p>
+
+<ol>
+<li>Getting a reliable host</li>
+<li>Host has to be Debian and probably unstable to get the bleeding edge stuff :)</li>
+<li>You probably want to have root, hence dedicated</li>
+<li>It is probably expensive and you might have to watch bandwidth</li>
+<li>You have to create accounts, where your colleagues also want root. </li>
+<li>You could use sudo though you&#8217;ll probably get frustrated with it and end up with &#8220;ALL = <span class="caps">NOPASSWD</span>: <span class="caps">ALL</span>&#8221; and no one checks the logs ;)</li>
+<li>You&#8217;re probably want Xen and a few IPs</li>
+<li>Since Web application packaging with current tools is near impossible with all the different httpds and DBMSes, you&#8217;ll probably have to use some odd hand crafted setup.</li>
+<li>You will probably want a <span class="caps">DBA</span> sooner or later, to figure <span class="caps">WTF</span> is going on with your <span class="caps">DBMS</span> ;)</li>
+<li>You&#8217;ll probably end up with a several step build&amp;deployment process (that&#8217;s <strong>bad</strong>)</li>
+<li>Testing (if you ever get that far) will probably be a kludge</li>
+<li>To lower the barrier of entry, you will probably go for <span class="caps">PHP</span> which is great to deploy. Scary to secure.</li>
+<li>Though non-PHP avenues will probably require FastCGI. And FastCGI on Apache last time I checked is <span class="caps">PAIN</span>.</li>
+<li>Your developers probably can&#8217;t run the Web application locally as it such a pain to setup (esp. forget offline)</li>
+<li>You might have some &#8220;privacy policy&#8221; that makes sharing log or database data difficult amongst developers.</li>
+<li>Your Web application will probably need mail server access and all the pain that comes with that.</li>
+<li>Your application will have to deal with difficult abuse problems like spam that ordinary applications don&#8217;t usually deal with.</li>
+<li>If your project&#8217;s site becomes popular you&#8217;ll have a ton of maintenance and scalability head aches that will probably require money to be thrown at the problem.</li>
+<li>Someone will think your Web design stinks. Then if you use some &#8220;designer&#8221;, he creates some awful <span class="caps">XHTML</span> template and some fixed px style sheet with images replacing text. ;)</li>
+</ol>
+
+<p>I think there is a few more &#8220;barriers to entry&#8221; problems running a Web application service as a free software project. Web hosting is generally quite poor and a lot of the Web centric deployment/packaging tools aren&#8217;t up to scratch.</p>
+
+<p>Though there are a couple of amazing examples of &#8220;open source&#8221; Web services, like the stuff <a href="http://www.mysociety.org/">My Society</a> do. Any other good examples?</p>
+
+<p>Nonetheless I would like to see Debian serve as an even better Web application platform.</p>
+
+<p>Update: I think &#8220;services&#8221; makes more sense than &#8220;application&#8221; in this context&#8230; I hope you&#8217;ll agree.</p>

@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Chris Daniel"
+ subject="69.17.46.82"
+ date="2005-01-20 19:02:45"
+ content="""
+<p>(I thought I posted this already, but it seems to have eaten my comment.)<br />
+IF you are allowed to use other software, give WinSCP a shot. it will do <span class="caps">SFTP</span> with resuming, and it&#8217;s even on by default. The WinSCP docs claim that <span class="caps">SCP</span> doesn&#8217;t support resuming AT <span class="caps">ALL</span>, and even less on windows. :) winSCP is scriptable too, but I don&#8217;t know how well, as I&#8217;ve never had to use that part.<br />
+I hope that helps.</p>
+"""]]

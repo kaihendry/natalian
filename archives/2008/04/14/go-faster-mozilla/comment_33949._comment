@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="90.152.10.134"
+ date="2008-04-16 12:33:50"
+ content="""
+<p>My <span class="caps">XUL</span> comments might be harsh.</p>
+
+<p><a href="http://developer.mozilla.org/en/docs/XULRunner_Hall_of_Fame">http://developer.mozilla.org/en/docs/XULRunner_Hall_of_Fame</a></p>
+
+<p>I might be wrong here, though couldn&#8217;t native UI elements map to the <span class="caps">DOM</span> without using this <span class="caps">XUL</span> layer?</p>
+"""]]

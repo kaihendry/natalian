@@ -1,0 +1,34 @@
+[[!meta title="Adaption" ]]
+[[!meta date="2004-08-15 11:40:37" ]]
+<p>I think I will <a href="http://natalian.org/archives/2004/06/18/the-third-way/">revise the model of how adaption works</a>.</p>
+
+<p>This is adaption:</p>
+
+<img src="http://www.cs.helsinki.fi/u/hendry/work/thesis/pictures/adaption-bullet.png" alt="Diagram depicting the relasonship between Server, Proxy and UA with adaption" />
+
+<ul>
+<li>Bad: 5 different type of input, 5 different UAs to cater for. That&#8217;s ummm 25 mappings. With combinations it can get <strong>really wild</strong>.</li>
+<li>Good: Simpler stuff like caching and compression can help a lot</li>
+<li>Bad: Caching might cause unpredicatable problems</li>
+<li>Example: <a href="http://www.squid-cache.org/">Squid</a> and&#8230; Kannel? (nah)</li>
+<li>Bad: Really <strong>complex</strong></li>
+<li>Bad: <strong>Must be updated</strong> for different content types and UAs&#8230;</li>
+<li>Bad: How do you figure out the limitations of the UA? UA Profiles are useless.</li>
+</ul>
+
+<p>Below is <strong>not</strong> adaption. The proxy and the client working closely together to provide the total UA.</p>
+
+<img src="http://www.cs.helsinki.fi/u/hendry/work/thesis/pictures/adaption-ua.png" alt="Diagram depicting how a proxy can be used to offset client limits" />
+
+<ul>
+<li>Bad: Proxy &#8220;adaption&#8221; code is UA dependent. And then just usually one specific UA&#8230;</li>
+<li>The (client/device) UA is dependent on the proxy. What happens if the proxy fails??</li>
+<li>Good: When it works, it works well with 65% savings</li>
+<li>Bad: Might not scale (can one proxy serve hundreds of the same UA?)</li>
+<li>Bad: Where is the proxy setup and located? If it&#8217;s far away it will be slow&#8230;</li>
+<li>Bad: Who controls the proxy? The UA vendor? Your network operator? Politics</li>
+<li>Bad: How long will it be maintained? Differing inputs and outputs over time!</li>
+<li>Bad: The UA on the client can&#8217;t be updated easily. Proxy stands a better chance, but then &#8220;so what?&#8221;</li>
+<li>Bad: It is still complex and it is difficult to distinguish itself from an ordinary caching/compressing proxy</li>
+<li>Example : <a href="http://www-diglib.stanford.edu/~testbed/doc2/PowerBrowsing/">Power Browser</a> and <a href="http://www.opera.com/products/smartphone/accelerator/">Opera</a></li>
+</ul>

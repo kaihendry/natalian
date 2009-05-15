@@ -1,0 +1,9 @@
+
+[[!_comment format=mdwn
+ username="Benjamin Kudria"
+ subject="205.231.150.92"
+ date="2006-02-10 22:08:53"
+ content="""
+<p>I&#8217;d strongly recommend going with <span class="caps">LTSP</span> and Ubuntu or Debian.  Get a beefy central server, (maybe 1 gig ram for 10 clients) and set up a thin-client network.  Then, all the computers are like the central server, and it is very easy to manage&#8230;<br />
+Please email me if you are interested in how to set it up, I&#8217;ve done it several times.</p>
+"""]]

@@ -1,0 +1,29 @@
+[[!meta title="Security through obscurity" ]]
+[[!meta date="2007-11-07 10:31:40" ]]
+<a href="http://flickr.com/photos/hendry/sets/72057594077400652/with/109466730/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/42/109466699_21f121af48_m.jpg" width="240" height="180" alt="Old and new passports" /></a>
+
+<p>Recently I&#8217;ve become a victim of identity fraud.</p>
+
+<p>I <a href="http://maps.natalian.org/">travel a lot.</a> Many places I&#8217;ve stayed in, especially Russia (been there 10+ times!) take your passport away from you when you are staying in a hotel. They need to register it with the police and take photo-copies.</p>
+
+<p>Guest houses all over the world have my name, birth date and passport number.</p>
+
+<p>This information according to an agent at the passport office is enough for you to become a victim of identity fraud. The funny thing is that there doesn&#8217;t seem to be a secure hash to the passport number. Perhaps it doesn&#8217;t matter as the passport number can&#8217;t easily be checked. The passport office themselves weren&#8217;t able to to verify my passport number. Only an office at the Home Office can access that &#8220;password number&#8221; data.</p>
+
+<p>So I called the <a href="http://www.ips.gov.uk/passport/index.asp">passport agency</a> up and they said I should cancel my passport and get a new one. Why I asked? So you can generate another meaningless passport number? For nearly 80GBP? I am not changing my name or birthday.</p>
+
+<p>The passport agency didn&#8217;t really know what to do. They recommended I contacted the embassy of the country where the fraud (using a copy of my passport) was happening. This fraud crosses many a border&#8230;</p>
+
+<p>The security is so weak, that it&#8217;s only defence is obscurity (which is really bad). Official guidelines seem to encourage people not to share any &#8216;sensitive&#8217; details.</p>
+
+<p>So I am opening a can of worms here. There are some really difficult identity problems right now in our digital world. I don&#8217;t think the UK Government&#8217;s costly <a href="http://www.ips.gov.uk/identity/index.asp">ID scheme</a> is going to help (or stop terrorism). <a href="http://www.no2id.net/">I don&#8217;t really want the government to control my identity and movements.</a></p>
+
+<p>Many of these identity theft solutions, seem to be about insurance (which I despise) and taking some sort of retrospective action, not protection. Paying companies for &#8220;credit reports&#8221; to see if someone is using your name to get credit and using it. Please. Or &#8220;identify theft protection&#8221; insurance policies to perhaps pay the cost of getting a new passport in my case. It just strikes me as all being <em>very</em> poor.</p>
+
+<p>I&#8217;ve long known about hideous security problems in our digital world. People have been able for years and practically still able to make very quick copies of <a href="http://en.wikipedia.org/wiki/VISA"><span class="caps">VISA</span></a>s to run riot on your bank account. People still seem to buy into these services, as they are so convenient.</p>
+
+<p>Since I am now a victim of identity fraud, I&#8217;m a little fed up. I think I want to be able to pro-actively protect my identity without hiding myself in obscurity. I want relay my concerns to the right parties&#8230; who are they?</p>
+
+<p>One good thing about having a prominent <a href="http://hendry.iki.fi/">homepage</a> is that potential fraud victims have been able to search for &#8220;Kai Hendry&#8221;. Contact me (call or email). Ask me if I am really selling that car for which an immediate deposit is required from Germany.</p>
+
+<p>Then I can say &#8220;no&#8221; that&#8217;s not me.</p>

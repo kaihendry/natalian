@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Kai Hendry"
+ subject="213.78.95.220"
+ date="2004-09-17 17:46:46"
+ content="""
+<p>This <a href="http://www.alistapart.com/discuss/elastic/">Elastic discussion</a> is a bit bizaare.</p>
+
+<p>Someone says how cool it would be when <span class="caps">SVG</span> scales the company logo. I see problems with that. As far as I know <span class="caps">SVG</span> can&#8217;t be used inline <span class="caps">HTML</span>.</p>
+
+<p>Next problem, is that it does &#8220;scale&#8221; to the screen area (think mobile screen), but how does the text? The content, the text is paramount here. Can someone resize just the text in <span class="caps">SVG</span>? And still come out with a pleasing design?!</p>
+"""]]

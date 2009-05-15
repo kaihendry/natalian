@@ -1,0 +1,18 @@
+
+[[!_comment format=mdwn
+ username="Joose"
+ subject="193.94.50.136"
+ date="2005-11-22 17:28:29"
+ content="""
+<p>I&#8217;ve been using apache + tomcat setup in production for few years now. Actually the best result of stability and speed I have got, not using mod-jk* at all. I&#8217;m using apache&#8217;s  own Proxy implementation.. Like this:</p>
+
+<p>proxypass /img/ !<br />
+ proxypass / http://localhost:8000/software/<br />
+ proxypassreverse / http://localhost:8000/software/</p>
+
+<p>or something like that..</p>
+
+<p>It&#8217;s fast.. and it works great =) actually, with a little mod rewrite, you can actually make RoundRobin load balansing too..</p>
+
+<p>- Joose</p>
+"""]]

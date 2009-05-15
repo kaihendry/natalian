@@ -1,0 +1,9 @@
+
+[[!_comment format=mdwn
+ username="Jamie"
+ subject="62.49.117.34"
+ date="2004-04-27 19:57:02"
+ content="""
+<p>I think robots.txt needs to go in the root.<br />
+You get hits from netcraft cos it&#8217;s trying to survey your site, I still can&#8217;t understand why it can&#8217;t monitor your up time.</p>
+"""]]

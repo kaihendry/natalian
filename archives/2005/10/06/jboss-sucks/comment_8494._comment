@@ -1,0 +1,17 @@
+
+[[!_comment format=mdwn
+ username="snoobab"
+ subject="82.26.71.22"
+ date="2005-10-15 23:16:11"
+ content="""
+<p>Doesn&#8217;t sound like you have read up much about the app server. Do you just install Linux and run any program without reading the manuals. <span class="caps">RTM</span>!<br />
+App server doesn&#8217;t need to be restarted.<br />
+Hot Deployment works.<br />
+Multiple instances are a breeze.<br />
+They use their own Java portal software.<br />
+You only need mod_jk if you front it with Apache.<br />
+<span class="caps">XML</span> comment was taken out of context, it ends with &#8216;Conclusion, I love annotations even more&#8217;<br />
+It&#8217;s quick.</p>
+
+<p>Just learn how to use it. It doesn&#8217;t take long.</p>
+"""]]

@@ -1,0 +1,17 @@
+[[!meta title="Web ATM" ]]
+[[!meta date="2009-04-29 09:17:06" ]]
+<a href="http://flickr.com/photos/fooishbar/1425043514/">
+<img src="http://farm2.static.flickr.com/1373/1425043514_5598d0a942_m.jpg" />
+</a>
+
+<p>Just listened to <a href="http://www.bbc.co.uk/blogs/ipm/2008/12/cash_machines_and_the_partiall.shtml"><span class="caps">IPM</span> and a story about making ATMs accessible</a>.</p>
+
+<p>I think good Web applications can lend themselves to accessibility. First off, for partially sighted persons, one can increase the size of the font. You can&#8217;t do that easily on typical cash dispensers!</p>
+
+<p>Next familiariaty. One could be trained to use the &#8216;ATM Web application&#8217; from home. And when the time comes, the person will know what options to select.</p>
+
+<p>Web applications are much easier to maintain and easier to find developers and tools for. For example, why shouldn&#8217;t a banking application support every language?</p>
+
+<a href="http://www.flickr.com/photos/hendry/3119426066/" title="Hmm, this is hard by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3247/3119426066_9495688886_m.jpg" width="240" height="180" alt="Hmm, this is hard" /></a>
+
+<p>I think I might write an <span class="caps">ATM</span> Web application prototype. If I wanted to take this idea even further I would get it running in a <a href="http://webconverger.com/">secure public Web platform like Webconverger</a> and <a href="http://sdk.webvm.net/">write a plugin</a> to dispense the cash, with something like <a href="http://webvm.net/">WebVM</a>&#8230;</p>

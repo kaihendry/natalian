@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Jon"
+ subject="128.240.229.67"
+ date="2006-04-03 19:23:57"
+ content="""
+<p><span class="caps">IIRC</span> gnome-clipboard-daemon is not an adequate solution to the clipboard issue. It doesn&#8217;t satisfy past content-negotiation so if you&#8217;re copying anything but plain text&#8230;</p>
+"""]]

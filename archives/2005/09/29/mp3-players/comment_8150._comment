@@ -1,0 +1,9 @@
+
+[[!_comment format=mdwn
+ username="Anonymous"
+ subject="71.111.97.119"
+ date="2005-09-30 04:59:37"
+ content="""
+<p>Might I suggest the <a href="http://www.neurosaudio.com/" rel="nofollow">Neuros Audio J</a>?  It was the first player to support Ogg Vorbis, and it has a strong community behind it, with a company smart enough to <strong>listen</strong> to that community.  The tools are already <a href="http://packages.debian.org/positron" rel="nofollow">packaged in Debian</a>, and even the firmware is Free Software (and many people supply customized firmware).  It supports a backpack system, which allows you to switch between a high-capacity hard-drive backpack or a slimmer solid-state backpack.<br />
+It also includes short-range FM broadcast support for easy listening in your car.</p>
+"""]]

@@ -1,0 +1,17 @@
+[[!meta title="FIFA: Access denied" ]]
+[[!meta date="2006-06-28 16:26:50" ]]
+<a href="http://flickr.com/photos/juttahendry/175409043/">
+<img src="http://static.flickr.com/73/175409043_0c7b0da59e.jpg" />
+</a>
+
+<p>Just visited the <a href="http://www.fifa.com"><span class="caps">FIFA</span></a> website to be presented with:</p>
+
+<pre>
+You don't have permission to access "http://www.fifa.com/" on this server.
+
+<p>Reference #18.c39ac4d3.1151325945.2723515 <br />
+</pre></p>
+
+<p><a href="http://alanskorea.blogspot.com/">Alan</a> tipped me that <span class="caps">FIFA</span> has blocked access from Korean IP addresses due to so many complaints from Koreans. For those who weren&#8217;t watching Korea&#8217;s last game in World Cup &#8216;06. There was a dubious penalty decision that didn&#8217;t go Korea&#8217;s way against Switzerland.</p>
+
+<p>I am more concerned that <span class="caps">FIFA</span> think the best way of handling this situation is to block access to their Website. <span class="caps">FIFA</span> is firmly on my shitlist.</p>

@@ -1,0 +1,17 @@
+[[!meta title="3 reasons why the Web platform will not fragment on mobiles" ]]
+[[!meta date="2008-09-29 14:54:34" ]]
+<a href="http://www.flickr.com/photos/hendry/2859113702/" title="Mobile geek by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3287/2859113702_dbdb944011_m.jpg" width="240" height="180" alt="Mobile geek" /></a>
+
+<p>Yesterday at <a href="http://mobilemonday.org.uk/2008/09/next-event-mobile-platforms-too-much.html">Mobile Monday&#8217;s Mobile Platforms event</a>, people were concerned the Web platform will fragment like other platforms (e.g. Java) fragmented on mobiles.</p>
+
+<p>Background: I think Microsoft tried to fragment the Web themselves, though in the end they didn&#8217;t succeed to stop momentum of developer wishes who are supporting the Web platform.</p>
+
+<p>Reasons:</p>
+
+<ol>
+<li>Web technologies are resilient to failure. Even if your platform implements a subset of Web technologies, a Web application should be able to degrade gracefully. Maintaining a basic &amp; familiar user experience. I don&#8217;t think the same is true of Java applications.</li>
+<li>The success of the Web on desktops will force mobile Web platforms to gravitate towards it. The Iphone show cased the <a href="http://nytimes.com/">NY Times</a> Website remember? People want the <strong><a href="http://www.webfoundation.org/">One Web</a></strong> on their mobile. If the NY Times is broken on their new mobile Web browser, they won&#8217;t be happy.</li>
+<li>Yes, there are <a href="http://en.wikipedia.org/wiki/Technology_Compatibility_Kit">integrator tests for Java platforms</a>, though I like to think QA and awareness will be much better on the Web. For example the <a href="http://www.w3.org/2008/06/mobile-test/">Web Compatibility Test for Mobile Browsers</a> empowers mobile users to identify a capable browser on their mobile device.</li>
+</ol>
+
+<p>For many in the audience I think a &#8220;capable&#8221; Web on mobiles is perceived to be very far away. Especially in <a href="http://www.w3.org/2008/MW4D/">developing worlds</a>. I agree, though I am overwhelming optimistic and I&#8217;ll continue to argue that as for application platforms, the <a href="http://twitter.com/torgo/statuses/922381171">Web is the future</a>.</p>

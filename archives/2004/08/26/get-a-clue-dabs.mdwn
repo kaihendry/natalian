@@ -1,0 +1,24 @@
+[[!meta title="Get a clue Dabs" ]]
+[[!meta date="2004-08-26 15:20:55" ]]
+<p>I wanted to order an <a href="http://www.garmin.com/products/etrex/">etrex</a> for my <a href="http://trip.natalian.org/">trip</a> so I can log my waypoints. Finally I want to download my logs to a Debian computer to plot it on a map using perhaps <a href="http://gpsdrive.kraftvoll.at/">gpsdrive.</a></p>
+
+<p>The etrex on <a href="http://www.amazon.co.uk/exec/obidos/ASIN/B00003WGP5/qid=1093510155/sr=2-1/ref=sr_2_1_1/026-2107818-0697218">Amazon UK</a> but its 117UKP does not beat <a href="http://dabs.com/uk/channels/hardware/gpsandgpsupgrades/productView.htm?quicklinx=SBF">Dabs E-trex for 107UKP.</a></p>
+
+<p>Darn, I have forgotten my password for Dabs, so I tried to recover it from their web application. But this piece of javascript:<br />
+<code><br />
+javascript:__doPostBack(&#8216;signInExistingUser$lbtnPassword&#8217;,&#8217;&#8217;)<br />
+</code></p>
+
+<p>Does nothing in <a href="http://www.mozilla.org/">Mozilla.</a></p>
+
+<p>So I painfully navigate their Help Section to find out about <a href="http://www.dabs.com/uk/help/usingourwebsite/uw_forgotten_lost_password_how_login.htm">forgotten passwords.</a></p>
+
+<p>Note the:</p>
+
+<blockquote>
+Please note that this is the only way that we'll resend customers their passwords, because it's secure.
+</blockquote>
+
+<p>So I go to school to find a machine with Internet Explorer. The things I do to save 10UKP. I then use the IE dependent javascript popup expecting to somehow recover my password securely. After typing in my email address it said it sent the password BY <span class="caps">EMAIL</span>. <span class="caps">PLAIN</span> <span class="caps">TEXT</span> <span class="caps">EMAIL</span>.</p>
+
+<p>Anyone could have intercepted that mail and buy stuff on Dabs with my account. Get a clue <span class="caps">FFS</span>.</p>

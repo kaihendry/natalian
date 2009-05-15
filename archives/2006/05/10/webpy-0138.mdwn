@@ -1,0 +1,9 @@
+[[!meta title="webpy 0.138" ]]
+[[!meta date="2006-05-10 01:43:26" ]]
+<p>With the help of Seo Sanghyeon, Josselin Mouette, Aaron Swartz and of course Fabio Tranchitella a new <a href="http://webpy.org/">webpy</a> release is uploaded to unstable.</p>
+
+<p>I just love working with other people to realise something. Especially when everyone is &#8220;on the same page&#8221;. It&#8217;s techy, social and it&#8217;s enjoyable.</p>
+
+<p>Interesting thing about this release is that the packaging uses <strong>python-support</strong> so it should work with any python interpreter. So no need for ugly <a href="http://www.debian.org/doc/packaging-manuals/python-policy/ch-module_packages.html#s-all_versions">python2.4&#8212; type naming.</a></p>
+
+<p><a href="http://packages.qa.debian.org/w/webpy.html">Check it out.</a></p>

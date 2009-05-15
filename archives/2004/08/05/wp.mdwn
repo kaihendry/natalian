@@ -1,0 +1,13 @@
+[[!meta title="WP 1.2 Packaged" ]]
+[[!meta date="2004-08-19 15:02:59" ]]
+<p>I would appreciate some early testing and <a href="mailto:wp@natalian.org">feedback</a> on my <a href="http://wordpress.org">Wordpress 1.2</a> “Mingus” <a href="http://debian.natalian.org/wordpress/">Debian package</a> ., before it hits unstable. Download the <a href="http://debian.natalian.org/wordpress/wordpress_1.2.0-1.1_all.deb">deb</a> and dpkg&#8212;install it.</p>
+
+<p>Some colleagues have asked my why I like WP over say <a href="http://roughingit.subtlehints.net/pyblosxom/">pybloxsom.</a></p>
+
+<p>I am no fan of Mysql or <span class="caps">PHP</span> but this is how a <strong>lot</strong> of Web applications are done. Using and packaging  this <a href="http://www.onlamp.com"><span class="caps">LAMP</span></a> application allows me to get first hand experience about the issue of Web applications in Debian.</p>
+
+<p>I actually like the <span class="caps">HTML</span> interface instead of say editing a file on the file system. It allows me to quickly spot <span class="caps">HTML</span> errors. Besides I still use vim (with spell check!)  for editing the textarea via <a href="http://mozex.mozdev.org/">mozex.</a></p>
+
+<p>Comments and Pingbacks <strong>work</strong> in <a href="http://wordpress.org/">Wordpress</a> unlike my experiences with <a href="http://roughingit.subtlehints.net/pyblosxom/">pybloxsom.</a></p>
+
+<p>Last but not least, the Geek God <a href="http://diveintomark.org/">Mark Pilgrim</a> uses Wordpress. :)</p>

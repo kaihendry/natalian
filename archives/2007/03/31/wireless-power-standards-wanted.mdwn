@@ -1,0 +1,7 @@
+[[!meta title="Wireless power standards wanted" ]]
+[[!meta date="2007-04-02 06:55:25" ]]
+<a href="http://www.flickr.com/photos/hendry/440680205/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/179/440680205_c79ab0fb68_m.jpg" width="240" height="180" alt="Canon batteries" /></a>
+
+<p>For mains power, I imagine many electric devices will be powered or charged with a standard <span class="caps">USB</span> interface.</p>
+
+<p>Now for batteries, I am not so sure. My whole family now has Canon cameras, though that does not make our lives any easier.</p>

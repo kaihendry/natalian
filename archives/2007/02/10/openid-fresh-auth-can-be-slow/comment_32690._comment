@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="87.113.92.100"
+ date="2007-02-11 15:58:01"
+ content="""
+<p>Thanks Tom for the optimisation tip.</p>
+
+<p>I just ran the test unchanged this morning and it ran at 6 seconds. So my claim is really unsubstantiated.</p>
+
+<p>I should perhaps test other openID servers besides myopenid.com.</p>
+"""]]

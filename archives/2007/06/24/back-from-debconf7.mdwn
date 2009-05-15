@@ -1,0 +1,26 @@
+[[!meta title="Back from Debconf7" ]]
+[[!meta date="2007-06-25 09:07:34" ]]
+<a href="http://www.flickr.com/photos/hendry/602435467/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1432/602435467_e859841634_m.jpg" width="240" height="180" alt="Kai and Fabio" /></a>
+
+<ul>
+<li>Rain! Damn weather. Though London is just as bad.</li>
+<li>Took 5 hours from Teviot to my place in London by air. I&#8217;ll probably go by train next time I visit Scotland. Though the views from the aeroplane window in seat 1A coming in from the west to <span class="caps">LCY</span> were <span class="caps">AMAZING</span>. I saw Picadilly, the gerkin, my house in E3 4QJ and other spectacular stuff. </li>
+<li>Got a bit of work done in DebCamp, not so much in DebConf. Though I attended quite a few BoFs and what-not</li>
+<li>Made new friends and it was great to see some old ones! The Debian community is a friendly bunch.</li>
+<li>I&#8217;ll miss the Indian food at the mosque. I won&#8217;t miss the cafeteria, except for the nice staff</li>
+<li>My room mates were all super cool. No loud snorers except myself. Phew! The hostel and staff were good too.</li>
+<li>I learnt a couple of vim tricks. Fixing the default way it auto completes with the elusive &#8220;wildmode&#8221; option <a href="http://svn.natalian.org/home/.vimrc">.vimrc</a></li>
+<li>I switched with `chsh` to zsh-beta. <a href="http://svn.natalian.org/home/.zshrc">.zshrc</a>. Hopefully shared history with screen will work behave now.</li>
+<li>I discovered some <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq01.151.htp">Iceweasel bookmark tricks for use with the debian <span class="caps">BTS</span></a></li>
+<li>I learnt my external USB2 drive is just as fast as the internal one with <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq01.150.htp">hdparm speed testing</a></li>
+<li>I learnt more about distributed <span class="caps">SCM</span> with git and bzr. I&#8217;ll probably try and learn both.</li>
+<li>Night venue was cool. Adjoining Forest cafe was funny.</li>
+<li>Edinburgh is a pleasant city.</li>
+<li>Was cool to <a href="http://flickr.com/photos/hendry/556430242/">demo Webconverger</a> at DebianDay and tell people about it. I&#8217;ve received some good feedback and with <a href="http://debian-live.alioth.debian.org/">Debian live</a> improving like it is, it will only get better.</li>
+<li>I can&#8217;t believe the last 2 weeks went so quickly. There is a lot more to say, though I&#8217;ll keep this blog entry short.</li>
+<li>My talk about how Debian travels around the world in <a href="http://meetings-archive.debian.net/pub/debian-meetings/2007/debconf7/high/354_Debian_travels_around_the_World.ogg">high</a> or <a href="http://meetings-archive.debian.net/pub/debian-meetings/2007/debconf7/low/354_Debian_travels_around_the_World.ogg">low</a> <span class="caps">OGG</span> quality. Otherwise <a href="http://talks.natalian.org/debconf7/">see the slides</a> with <a href="https://addons.mozilla.org/en-US/firefox/addon/4650">FullerScreen</a>.</li>
+<li>Last but not least, thanks to the organisers. You&#8217;re awesome!</li>
+</ul>
+
+<a href="https://gallery.debconf.org/mugshots/hendry">
+<img src="https://gallery.debconf.org/albums/mugshots/hendry.thumb.jpg" alt="Kai Hendry at Debconf7" /></a>

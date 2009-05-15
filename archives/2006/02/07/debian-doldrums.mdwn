@@ -1,0 +1,17 @@
+[[!meta title="Debian doldrums" ]]
+[[!meta date="2006-02-07 23:03:56" ]]
+<a href="http://www.flickr.com/photos/juttahendry/96720950/" title="Photo Sharing"><img src="http://static.flickr.com/26/96720950_17920783ea_m.jpg" width="240" height="180" alt="Kai participates in a snow fight" /></a>
+
+<p>Gotta love Debian sometimes. ;)</p>
+
+<p>My beloved mutt seems a little <a href="http://wiki.debian.org/StatusOfUnstable">broken in unstable currently.</a></p>
+
+<p>I&#8217;m in the <a href="https://nm.debian.org/nmstatus.php?email=hendry%40iki.fi">market for a new AM.</a> 3rd time lucky?</p>
+
+<p>Ok, so <a href="http://hendry.iki.fi/debian">I am packaging</a> <a href="http://aaronsw.com/">Aaron&#8217;s</a> <a href="http://webpy.org/">web.py</a> library and so <a href="http://lists.debian.org/debian-legal/2006/02/msg00114.html">I check the license with debian-legal.</a></p>
+
+<p>&#8220;Vorlon&#8221;, the omnipresent and omniscient got back to me pretty quickly, saying <strong>no</strong>. Goddam! ;)</p>
+
+<p>I&#8217;m no legal expert and my brain hurts thinking about these distribution clauses, GPLv3 issues and controversies. I hope debian-legal reaches some agreement.</p>
+
+<p>At about 6pm I noticed the <a href="https://wiki.ubuntu.com/AsiaBusinessTour/Korea">Ubuntu crowd were in Seoul.</a> I emailed hastily asking about a meetup or something. Probably too late. Damn. I&#8217;m feeling quite alone in my Linux usage here in Korea. I see <a href="http://joi.ito.com/moblog/entries/2006/02/03/004175.html">Mark has been in Japan.</a> I have fond memories of <a href="http://natalian.org/archives/2005/06/06/debian-japan/">Japan and the debian guys out there.</a> Yeah, if any Korean devs are reading this, get in <a href="http://hendry.iki.fi/">touch.</a> Part asked me to get in contact with some mail administrators in order to curtail some of the <a href="http://www.spamhaus.org/statistics/countries.lasso">massive amounts of spam coming out of Korea.</a></p>

@@ -1,0 +1,10 @@
+[[!meta title="Debian social" ]]
+[[!meta date="2006-06-29 03:38:30" ]]
+<ol>
+<li>Friend with <a href="http://www.apple.com/ipodnano/">Ipod nano</a> notices <a href="http://debian.org/">Debian</a> user&#8217;s cool music</li>
+<li>Debian user offers to copy some albums over to the nano</li>
+<li>Easily done with <a href="http://packages.qa.debian.org/g/gnupod-tools.html">gnupod-tools</a> and friend thinks Debian user is cool</li>
+<li>Friend says <a href="http://www.apple.com/itunes/">Itunes</a> now refuses to sync with the Ipod nano</li>
+<li>Debian user knows nothing about Itunes other than it sucks. How about installing Debian?</li>
+<li>Friend thinks Debian user is anti-social</li>
+</ol>

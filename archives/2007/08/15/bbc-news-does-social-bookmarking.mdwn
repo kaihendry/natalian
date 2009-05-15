@@ -1,0 +1,15 @@
+[[!meta title="BBC News does social bookmarking" ]]
+[[!meta date="2007-08-15 21:15:48" ]]
+<a href="http://www.flickr.com/photos/hendry/1130462536/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1352/1130462536_c850ee36ab_m.jpg" width="240" height="180" alt="BBC and social networking" /></a>
+
+<p>This is so incredibly dumb. Why is my tax payer money <a href="http://news.bbc.co.uk/1/hi/technology/6947532.stm">now spent</a> on endorsing:</p>
+
+<ol>
+<li>del.icio.us</li>
+<li>facebook</li>
+<li>digg</li>
+<li>reddit</li>
+<li>stumbleupon</li>
+</ol>
+
+<p>I don&#8217;t want cruft like <strong>social bookmarking</strong> on each page I read <span class="caps">FFS</span>! You&#8217;re making the pages even more clumsy. Do you want me to start reading your <span class="caps">RSS</span> feeds??</p>

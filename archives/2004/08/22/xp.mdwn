@@ -1,0 +1,15 @@
+[[!meta title="owning XP" ]]
+[[!meta date="2004-08-23 01:23:25" ]]
+<p>I am going to <a href="http://prazefarm.co.uk/">Cornwall</a> for a month where my parents have a machine running Windows XP on a 56k dialup. The exchange is actually linked to another exchange in Bodmin via radio. Now that&#8217;s country and a completely hopeless Internet connection.</p>
+
+<p>I need to do some work on my thesis still so I will need to have <strong>vim, ssh and subversion</strong> in a sane terminal. Latex stuff would be a plus.</p>
+
+<p>I can&#8217;t install Debian because the network connection is too awful. I can&#8217;t afford to waste time to setup the machine and possibly screw up XP and cut my inheritance. The installer doesn&#8217;t have a partitioner to resize XP&#8217;s FS (NTFS by default??), does it? I would need to get parted on a CD&#8230;</p>
+
+<p>Putty over such a slow unstable link would suck. The connection is not unmetered.</p>
+
+<p><a href="http://gd.tuwien.ac.at/linux/knoppix/packages.txt">Knoppix package list</a> does not have subversion. I could live with rsync-ing the file and commiting it at the server, but that would be painful.  Also I am not sure if the modem will work with Knoppix. Argh.</p>
+
+<p><a href="http://cygwin.com/">Cygwin</a> is another option. Its terminal I remember sucked. I am not sure if there is subversion for it. The biggest problem is how do I get it onto a CD? I remember it having a great <span class="caps">GUI</span> for downloading packages, but I can&#8217;t possibly download packages over the Internet on the dodgy 56k.</p>
+
+<p>I think there are a couple of <span class="caps">GNU</span>/Linux distributions for Windows. I can&#8217;t remember their names. Will it solve my problem here?</p>

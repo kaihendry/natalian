@@ -1,0 +1,9 @@
+[[!meta title="XHTML browser" ]]
+[[!meta date="2004-04-20 20:46:22" ]]
+<p>This <a href="http://ncsp.forum.nokia.com/download/?asset_id=11550">Nokia browser guide</a> just popped through the <a href="http://www.w3.org/2002/09/rss2email/"><span class="caps">RSS</span> aggregator</a>.</p>
+
+<p>There are as 1 billion <span class="caps">GSM</span> users (Source: <span class="caps">GSM</span> association), as opposed to at least 200 million Internet users (Source: Nielsen//Netratings).</p>
+
+<p>Not every mobile user has an <span class="caps">XHTML</span> browser, but it&#8217;s probably growing quicker than PCs.</p>
+
+<a href="http://www.forum.nokia.com/main/0,6566,015,00.html">More specs</a>, like the mimetype is quite useful to know what these devices can handle.

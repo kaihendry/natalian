@@ -1,0 +1,17 @@
+[[!meta title="Broken thoughts" ]]
+[[!meta date="2006-08-24 17:33:17" ]]
+<p>At home I run an Ubuntu server which I unfortunately upgraded to the <em>sigh</em> <a href="https://launchpad.net/distros/ubuntu/edgy/+specs">Edgy Eft.</a></p>
+
+<p>Damn, I used to think Debian unstable was <strong>unstable</strong>!</p>
+
+<p>On the couple of occasions the machine wasn&#8217;t broken, I stupidly did a dist-upgrade. When will I learn? Perhaps I like to &#8220;repair&#8221; a broken system to learn more about my system. Who knows.</p>
+
+<p>Anyway the last dist-upgrade with X failing to start with some &#8220;fixed font&#8221; error, had me thinking about <strong>rolling back updates</strong>.</p>
+
+<p>As far as I know, downgrading to dapper requires some precarious apt pinning and some praying. I should try that.</p>
+
+<p>Rolling back and comparing with old versions could be easier. Of course there is the great resource of <a href="http://snapshot.debian.net/">Debian snapshot</a> though I usually just download the package I require by hand. I could try set it up with apt, but I highly doubt down grades work with wild inter-dependencies like the X server suite. Anyway it could be better integrated.</p>
+
+<p>Like a version control system, without the conflicts. ;)</p>
+
+<p>I can&#8217;t help but think why should my box ever be broken? If an upgrade b0rked, why doesn&#8217;t it just go back to the last working snapshot? Oh well, we&#8217;re still miles ahead of Windows update. Though having to restart firefox is almost as disruptive as rebooting the entire system.</p>

@@ -1,0 +1,20 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="91.84.62.62"
+ date="2007-05-30 13:56:58"
+ content="""
+<p>You&#8217;re joking right? I need to change my UA to see <span class="caps">XHTML</span> of bbc.co.uk/mobile? This is my example of a mobile site that doesn’t render on desktops. Device sniffing sucks.</p>
+
+<a href="http://video.google.com/videoplay?docid=1356480850978567081&amp;hl=en" rel="nofollow">Gmail in a decent mobile browser is just as fast as a native Gmail java client.</a> Push for a decent HTML browser based on Presto or WebKit or Gecko for the mobile device and Gmail *will work* on that mobile device without modification.
+
+<p>The UA modifying the content for optimal device display is <span class="caps">GREAT</span>. That&#8217;s what I want to see happen.</p>
+
+<p>However Web authors modifying content for mobile display, especially using mobile specific markup is something I am <strong>really</strong> fed up with. The <a href="http://jaaksi.blogspot.com/2007/05/mobile-is-dead.html" rel="nofollow">mobile Web is dead</a>.</p>
+
+<p>There is a big difference between markup and <span class="caps">CSS</span>. Different <span class="caps">CSS</span> OK, different markup <span class="caps">NOT</span> OK. This isn&#8217;t an implementation detail. This is how the Web works!</p>
+
+<p>Btw I <a href="http://www.google.com/m/search?mrestrict=xhtml&amp;q=Kai+Hendry&amp;btnG=Search&amp;site=mobile" rel="nofollow">google stalked myself on Google&#8217;s Mobile Web (Beta) search</a>.</p>
+
+<p>One relevant link&#8230; What you&#8217;ve done sets a terrible example for this misguided mobile market. Pull the plug <strong>please</strong>.</p>
+"""]]

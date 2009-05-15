@@ -1,0 +1,31 @@
+[[!meta title="SEK2006" ]]
+[[!meta date="2006-06-24 20:55:56" ]]
+<a href="http://www.flickr.com/photos/hendry/173711659/" title="Photo Sharing"><img src="http://static.flickr.com/54/173711659_e0c6610d5e_m.jpg" width="240" height="180" alt="Lenovo 3000 v100 ~800USD" /></a>
+
+<p>Since I live in Seoul, I was tipped to go to <a href="http://www.sek.co.kr/sek2006/english/engsek2006_01_01.asp"><span class="caps">SEK</span></a> a large tech exhibition in Korea.</p>
+
+<p>I meant to go to <a href="http://business.newsforge.com/business/06/06/19/1940240.shtml?tid=18">Linuxworld trade show</a> earlier last week for my conference fix. Though the ticket prices were over 100USD! I expected it was one of those &#8220;Linux roadshows&#8221; aimed at the big boys. Though I am a bit disappointed my employer didn&#8217;t get involved.</p>
+
+<p>Damn my conference experiences have been mixed. A paper of mine was accepted for a <a href="http://www.mbusiness2005.org/">mobile business conference</a> last year. Though since I was travelling around Asia and not in the employment of anybody, I could not afford to pay the conference fees. I recall something like 1000AUD. Beggar&#8217;s belief considering it was a personal contribution and I was invited to speak.</p>
+
+<p>Well, I was all excited about SEK2006 considering all the &#8220;Korean innovations&#8221; that get covered by places like <a href="http://engadget.com/">engadget</a> and The Register. One <a href="http://www.theregister.co.uk/2006/06/23/broadband_bus_demo/">John Oates</a> is covering the event for the The Register, though I didn&#8217;t bump into him. This time my employer allowed me to wander around last Friday.</p>
+
+<p>First off the venue is huge, although there isn&#8217;t much there. So it is like some Expo where one quickly feels tired just wandering around. I couldn&#8217;t find any good English maps, so I really did just have to wander around.</p>
+
+<a href="http://www.flickr.com/photos/hendry/173711658/" title="Photo Sharing"><img src="http://static.flickr.com/76/173711658_e14507a668_m.jpg" width="240" height="180" alt="Haansoft with some screeching neo-classical music" /></a>
+
+<p>One particular company I am interested in <a href="http://www.haansoft.com/">Haansoft</a> was easy to find. Though they had an awful live event with some girl band was performing. So loud. I immediately felt drained! So I walked elsewhere. I later returned to see demo their interesting Office application. They have a mobile version of their Office product too. They have designed a service to send an office document to a mobile&#8217;s number. Though the document needs to be &#8220;converted&#8221; to a special &#8220;mobile format&#8221;. Hmmm&#8230; Looked good though. I am surprised their office product so much like MS Office, down to the widgets.</p>
+
+<p>I checked out LG and Samsung. Damn the girls there are hot, but I can&#8217;t help think that &#8220;Booth Babes&#8221; are sexist and degrading. I mean really. These girls are obviously models who have been trained to demo various gadgets. There are two problems with this. They are rarely able to speak any English or &#8220;tech&#8221;. The little things to keep attendees entertained like hiring artists to do caricatures is just boring. I want to meet technical people. Damn, I&#8217;m in the wrong exhibition!</p>
+
+<p>There was a very poor showing of platforms utilising the Linux platform. Of course people have the sense to write server applications on the Linux platform. But I am tired of people using Windows as their front end. I didn&#8217;t see Firefox. :/</p>
+
+<p>They had a couple of robots there. But they&#8217;re just glorified puppets. Really. There isn&#8217;t much intelligence there.</p>
+
+<p>There was a lot of <span class="caps">DMB</span> stuff there. I ask one <span class="caps">DMB</span> chip manufacturer if there were Linux drivers. In broken English she replied yes, but no &#8220;WinCE&#8221;. Like I care. :) Though the couple of <span class="caps">USB</span> <span class="caps">DVB</span> electronics consumers I met, say &#8220;No Linux&#8221;. Frustrating.</p>
+
+<p>I came across one agonising Korean company called Netpia. They seem to a misguided &#8220;Realnames&#8221; outfit. Doing unicode mapping to domains. Why-oh-why. They the argued the international <span class="caps">URI</span> standards aren&#8217;t sufficient because they need www. and .com. <span class="caps">PLEASE</span>!</p>
+
+<p>A lot of Korean research seem devoted to video streaming. I think this is misguided too, but of course I couldn&#8217;t find anyone to debate with. Youtube and Google video don&#8217;t stream, they <a href="http://www.adobe.com/devnet/flash/articles/flv_download_05.html">progressively download</a>.</p>
+
+<p>Finally I had the joy of visiting the Microsoft stand and playing with Vista! The machines they had there were top of the line and still it crawled along. <span class="caps">HAHA</span>! What a prize piece of bloatware. I couldn&#8217;t see anything there particularly cool except the &#8220;network map&#8221; which failed to work.</p>

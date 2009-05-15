@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="acid"
+ subject="81.56.144.27"
+ date="2005-01-20 13:46:29"
+ content="""
+<p>scp does not support resume&#8230;<br />
+install cygwin or use FTPs if you can :)<br />
+Or maybe sftp is better (works with filezilla)</p>
+"""]]

@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Nick"
+ subject="80.3.0.40"
+ date="2004-08-13 00:15:42"
+ content="""
+<p>Icky and nasty but you can get Unicode for Win 98:</p>
+
+<p><a href="http://www.microsoft.com/globaldev/handson/dev/mslu_announce.mspx">http://www.microsoft.com/globaldev/handson/dev/mslu_announce.mspx</a></p>
+
+<p>have to build a special binary for it though.</p>
+"""]]

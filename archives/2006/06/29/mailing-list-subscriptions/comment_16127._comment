@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Enrico Zini"
+ subject="87.113.12.124"
+ date="2006-06-29 19:28:36"
+ content="""
+<p>Hi.</p>
+
+<p>Try apt-get install buffy, then run &#8216;buffy&#8217; on X.</p>
+
+<p>If you apt-get source it instead, there&#8217;s source code examples for a commandline tool for mail folder summary and watch.</p>
+
+<p>Perl, Python and Ruby bindings for libbuffy are ready at <a href="http://svn.debian.org/wsvn/buffy/bindings/trunk">http://svn.debian.org/wsvn/buffy/bindings/trunk</a> and I just need help in packaging them into a perl+python+ruby policy compliant debian package.</p>
+"""]]

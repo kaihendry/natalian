@@ -1,0 +1,17 @@
+[[!meta title="Wordpress point oh" ]]
+[[!meta date="2006-01-17 21:07:14" ]]
+<img src="http://delaunay.org/antoine/thumbnails/X320_Sq0_voyage_to_the_other_side,Portsea,plage_subjKai_5141.jpg" alt="Attack by flies on some Australian beach" />
+
+<p>After being hassled about updating <a href="http://packages.qa.debian.org/w/wordpress.html">Wordpress packages</a> to 2.0 I did.</p>
+
+<p>Though I sort of regret it now as I wanted to wait for a bug fix release. &#8220;Point oh&#8221; software keeps me the creeps.</p>
+
+<p>Now a <a href="http://ryan.wordpress.com/2006/01/13/201-in-the-works/">2.0.1 release is in the works</a> that will fix at least one <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=328909">(long standing) minor security issue</a>.</p>
+
+<p>Personally I am reluctant to update Wordpress to 2.0 on my blog <a href="http://natalian.org/">natalian</a>.</p>
+
+<ul>
+<li>I don&#8217;t like the look of the new edit form. </li>
+<li>I&#8217;m afraid the plugins I use are going to break.</li>
+<li>I don&#8217;t need any more features except perhaps the plugins I use being part of the main trunk and perhaps a <a href="http://en.wikipedia.org/wiki/Captcha">Captcha</a></li>
+</ul>

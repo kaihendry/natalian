@@ -1,0 +1,27 @@
+[[!meta title="The third way" ]]
+[[!meta date="2004-07-20 12:15:17" ]]
+<p>Currently I see device independent web engineering as follows:</p>
+
+<ol>
+<li><img src="http://www.cs.helsinki.fi/u/hendry/work/thesis/pictures/uiml-dd.png" alt="Device dependent HTML via templating languages" /></li>
+<li><img src="http://www.cs.helsinki.fi/u/hendry/work/thesis/pictures/adaption.png" alt="Device dependent HTML via adaption" /></li>
+<li><img src="http://www.cs.helsinki.fi/u/hendry/work/thesis/pictures/third.png" alt="Device independent HTML" /></li>
+</ol>
+
+<ol>
+<li>The typical <strong>device dependent</strong> way. <span class="caps">WRONG</span>.</li>
+<li>The <a href="http://www.w3.org/TR/di-atdi/">W3C device independence WG way</a>. <span class="caps">WRONG</span>.</li>
+<li>Style and content are seperated with an emphasis on the UA to do its job. <span class="caps">RIGHT</span>.</li>
+</ol>
+
+<p>The UA on a mobile would do this job really well if users can easily:<br />
+* Disable style sheets<br />
+* Disable images<br />
+* Scroll better (WTF should a server pagenate?)<br />
+* Allow larger sized documents than they do now</p>
+
+<a href="http://www.cs.helsinki.fi/u/hendry/work/thesis/tktl/">Read my thesis</a>... there is a long list coming :)
+
+<p>The UA would also need to somehow recognize columns layouts and not budge up text. Text must flow full width on a typically small display of a mobile. Columns do not work. Possibily some <em>screen scraping</em> needs to be done with legacy <span class="caps">HTML</span>.</p>
+
+<p>As for a longer term solution for images, lets get <a href="http://lists.w3.org/Archives/Public/www-di/2004Jun/0024.html">bitmaps scaling with relative dimensions</a> I say, like your <a href="http://natalian.org/bluegold.css">style sheet</a> should be already! Hint: this is how <a href="http://www.forum.nokia.com/main/0,6566,1_1_25_30,00.html#25"><span class="caps">NOT</span> to create a style sheet.</a></p>

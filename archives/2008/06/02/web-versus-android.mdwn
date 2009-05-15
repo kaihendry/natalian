@@ -1,0 +1,11 @@
+[[!meta title="Web versus Android" ]]
+[[!meta date="2009-04-29 09:20:53" ]]
+<a href="http://www.flickr.com/photos/hendry/2264759283/" title="Android by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2414/2264759283_be581d4c9c_m.jpg" width="180" height="240" alt="Android" /></a>
+
+<p>With the help of a <a href="http://www.suckless.org/wiki/">colleague</a>, I compiled a list of the <a href="http://android-developers.blogspot.com/2008/05/top-50-applications.html">top 50 android applications</a> and <strong>roughly</strong> which <a href="http://spreadsheets.google.com/pub?key=pdZIZH3SXZ8LsM3-k_UjYMA"><span class="caps">API</span></a> they required to function.</p>
+
+<p>The <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/">Web application specification</a> (offline file access) with <a href="http://www.w3.org/2006/webapi/">device APIs</a> can do what these Android applications can do. Otherwise I do not see any compelling grounds for &#8216;innovation&#8217; that the <a href="http://code.google.com/android/">Androids Java <span class="caps">SDK</span></a> could provide over the Web&#8230; Most of the <a href="http://android-developers.blogspot.com/2008/05/top-50-applications.html">Android entries look pretty lame and unexciting to me</a>.</p>
+
+<p>Sadly <a href="http://wapreview.com/blog/?p=567">rumour has it that Gears won&#8217;t be on the first versions of Android</a>. Well it isn&#8217;t that surprisingly as I was practically <a href="http://natalian.org/archives/2008/02/01/gear-the-web-on-mobiles/">begging for Gears on Android four months ago</a>.</p>
+
+<p>Sidenote: I am also concerned when operators will start to do <strong>Internet</strong> data &#8220;freely&#8221; on their <span class="caps">PAYG</span> plans, to facilitate the Web on mobiles. I&#8217;m following <a href="http://www.smstextnews.com/">developments on SMStextNews</a> in the UK&#8230; and its disheartening. Maybe data on mobile will be ubiquitous in the UK in 5 years? Rest of the World&#8230; who knows?</p>

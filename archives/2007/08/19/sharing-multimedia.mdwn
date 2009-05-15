@@ -1,0 +1,22 @@
+[[!meta title="Sharing multimedia" ]]
+[[!meta date="2007-08-21 16:48:56" ]]
+<a href="http://www.flickr.com/photos/hendry/1172361934/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1055/1172361934_fe1a77dc72_m.jpg" width="180" height="240" alt="Every home should have a WRT54G-L" /></a>
+
+<p>Ok, I have the <a href="http://natalian.org/archives/2007/07/03/slug/">slug</a>. It&#8217;s great because it allows me to easily &amp; reliably share my multimedia collection.</p>
+
+<p>So I&#8217;ve moved my multimedia collection to a massive hard drive attached to the slug and now that hard drive is full. I could buy an even bigger <span class="caps">NAS</span>, though wait a minute&#8230;</p>
+
+<p>I have GIGs of (wasted) free space across my (flat mate&#8217;s) machines.</p>
+
+<p>Wtf happened to P2P? I need something like what Google has. <br />
+* A distributed file system.<br />
+* With search. <br />
+* It doesn&#8217;t have to work across on the Internet, though listening to some remote friend&#8217;s music would be nice.<br />
+* Any level of data redundancy would be awesome. (I despise <span class="caps">RAID</span>)<br />
+* I want direct access from the FS. No odd interfaces. (something with fuse?)</p>
+
+<p>I distantly recall mounting <span class="caps">NFS</span> shares of each of my (friend&#8217;s) machines and then mounting them on the central slug and trying to re-share them. I don&#8217;t think that works.</p>
+
+<p>I remember in University dorms (I&#8217;m not telling where!), students had a massive multimedia share with Windows file sharing. It actually worked quite well, including search.</p>
+
+<p>Any tips lazyweb? Or are centralised services really the future?</p>

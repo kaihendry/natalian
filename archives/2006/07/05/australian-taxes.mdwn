@@ -1,0 +1,29 @@
+[[!meta title="Australian Taxes for travellers" ]]
+[[!meta date="2006-07-26 09:44:27" ]]
+<p>Warning: Extremely boring</p>
+
+<p>Since I&#8217;ve <a href="http://natalian.org/archives/2006/02/10/leaving-australia/">left Australia</a> I&#8217;ve been waiting to claim back on tax I&#8217;ve excessively paid.</p>
+
+<p>That means I&#8217;ve waited until the end of tax year (30 June) to bravely navigate the <a href="http://www.ato.gov.au/individuals/">Australian Tax Office&#8217;s cryptic Website</a> and download its Windows only software.</p>
+
+<p>At this stage I was given notice I needed a &#8220;Notice of Assessment&#8221; (NOA) from my previous etax tax return. Oh gosh, I don&#8217;t have that. It turns out that I need that to prove who I am for lodgement. Thankfully a (Skype) call to the tax office (30 minute hold) and repeated attempts of me trying to remember all the different addresses I&#8217;ve lived in, I got the <span class="caps">NOA</span> sequence number and data of issue. Bored you yet?</p>
+
+<p>By this stage I was fed up. I should have gone to one of those sad lifeless individuals known as Tax accountants to get this all done. And paid a handsome fee or percentage for them to rip off the government.</p>
+
+<p>The etax software is sadly a Windows only piece of shit that runs in a small window that asks you inappropriate questions (in my case) for about an hour. My claim was so easy. Yet, I was asked repeatedly about dependents and what have you and pensions. Argh. The way that Yes/No and Prev/Next buttons are presented is a UI nightmare.</p>
+
+<p>The funny thing with this program is that it gives you a tax return estimate at the bottom.  I quickly learnt that if I didn&#8217;t mark myself down as Australian resident I would get a tiny fraction of the tax I paid. So for tax purposes, I am a resident! I heard other travellers do the same.</p>
+
+<p>Sad thing is for the few months I&#8217;ve worked there, I am getting only a third of the tax back. Tax free allowance is only 6000AUD and then some other taxes are ripped out from there. In no place could I see what taxes I was exactly paying or why. The calculation could be far more transparent.</p>
+
+<p>Considering Australia tries to attract foreigners and Working holiday makers, they could make it far easier for travellers. There wasn&#8217;t support for foreign address, telephone or bank account. Thanks very much.</p>
+
+<p>Also as a British citizen I shouldn&#8217;t have made me pay over 500AUD for Medicare levies. Australians get free health care in England, why should I pay for Australia&#8217;s?</p>
+
+<p>Also the funny thing was that I was getting a &#8217;&#8217; is not valid date error, though the date I entered was valid. After calling Australia and getting through to the etax helpline, the helpful support told me I need to change my Windows locale to English (Australian). At the time I was using Korean, and for some reason this makes their date validation code fail. Hah. :( Windows reboots are in order.</p>
+
+<p>I asked support if there were plans to move this application to the Web platform. She diplomatically said she can&#8217;t comment. Wouldn&#8217;t it be cool if the was some standardised <span class="caps">ISO</span> <span class="caps">API</span> for filing taxes? So other people could build Web user interfaces that were intuitive to use. That could perhaps integrate with your bank or something.</p>
+
+<p>Now I have to wait <strong>two weeks</strong> to see if the claim went through. So much for automation.</p>
+
+<p>Lastly I want to comment about Super Annuation (pension) scheme that I&#8217;ve been paying. Actually I paid to some pension in Finland too, that I&#8217;ve yet to figure out how I get the money back from. I had some papers regarding my Super Annuation from my previous employer that I&#8217;ve lost. I asked for a copy, but they haven&#8217;t got back to me. I have no idea how I get all that money back. I heard from other travellers, getting Super Annuation back is <strong>even harder</strong> than getting tax back. Funny thing is with Super Annuation, you pay a private investment company, not the government.</p>

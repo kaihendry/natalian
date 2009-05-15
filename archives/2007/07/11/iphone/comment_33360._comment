@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Henri Sivonen"
+ subject="84.239.175.85"
+ date="2007-07-11 10:54:20"
+ content="""
+<p>Patents aside, byte ranges for <span class="caps">JPEG</span> 2000 is a nice idea, but doesn&#8217;t make practical sense because when you divide height and width by two, you also divide the number of bytes required by two&#8212;not four.</p>
+"""]]

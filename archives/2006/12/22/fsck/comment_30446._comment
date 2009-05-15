@@ -1,0 +1,10 @@
+
+[[!_comment format=mdwn
+ username="Neil (Flash) Stone"
+ subject="82.32.240.124"
+ date="2006-12-23 08:17:40"
+ content="""
+<p>I would personally perform a &#8216;badblocks&#8217; scan after booting a live CD (Gentoo, Ubuntu etc).. this would scan the disk for damage (scandisk stylee). If you do this I would recommend scanning the whole disk, just to be sure.</p>
+
+<p><span class="caps">HTH</span></p>
+"""]]

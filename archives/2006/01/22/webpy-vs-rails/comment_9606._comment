@@ -1,0 +1,15 @@
+
+[[!_comment format=mdwn
+ username="peter renshaw"
+ subject="220.253.30.96"
+ date="2006-01-23 07:25:24"
+ content="""
+<p>Looks like your boiling your brains out at the Tennis centre.</p>
+
+<p>&gt; Current versions of web.py didn’t have sqlite, but I hacked in support quickly. <br />
+&gt; This is so opposite to my fumbling experiences with Rails…</p>
+
+<p>I&#8217;m just about up to the web.py, db side trying to get mysql to work Could you add a post to &#8216;<a href="http://groups.google.com/group/webpy&#8217">http://groups.google.com/group/webpy&#8217</a>; about how you did this?  I&#8217;m sure a few others might be interested.</p>
+
+<p>Regs PR</p>
+"""]]

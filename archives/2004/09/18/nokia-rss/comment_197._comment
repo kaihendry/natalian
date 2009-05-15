@@ -1,0 +1,70 @@
+
+[[!_comment format=mdwn
+ username="Leo"
+ subject="80.126.244.4"
+ date="2004-09-24 04:25:55"
+ content="""
+<p>Nokia use to filter on user-agent.<br />
+I liked to get the software for the nokia IP firewalls using wget&#8230; it did&#8217;nt work&#8230;. untill i start using the -U option.<br />
+I tried the command</p>
+
+<p>wget <a href="http://tinyurl.com/6s4pl">http://tinyurl.com/6s4pl</a></p>
+
+<p>worked fine for me:</p>
+
+<p>s08# wget <a href="http://tinyurl.com/6s4pl">http://tinyurl.com/6s4pl</a> -S -O /dev/null<br />
+<small>03:23:27</small>  <a href="http://tinyurl.com/6s4pl">http://tinyurl.com/6s4pl</a><br />
+           => `/dev/null&#8217;<br />
+Resolving tinyurl.com&#8230; done.<br />
+Connecting to tinyurl.com[216.234.186.14]:80&#8230; connected.<br />
+<span class="caps">HTTP</span> request sent, awaiting response&#8230;<br />
+ 1 <span class="caps">HTTP</span>/1.1 302 Found<br />
+ 2 Date: Fri, 24 Sep 2004 01:23:24 <span class="caps">GMT</span><br />
+ 3 Server: Apache/1.3.29 (Unix) <span class="caps">PHP</span>/4.3.4 mod_perl/1.29 mod_auth_pam/1.1.1 mod_ssl/2.8.16 OpenSSL/0.9.6l<br />
+ 4 Location: <a href="http://redirecting.tinyurl.com/redirect.php?num=6s4pl">http://redirecting.tinyurl.com/redirect.php?num=6s4pl</a><br />
+ 5 Connection: close<br />
+ 6 Content-Type: text/html; charset=iso-8859&#8211;1<br />
+Location: <a href="http://redirecting.tinyurl.com/redirect.php?num=6s4pl">http://redirecting.tinyurl.com/redirect.php?num=6s4pl</a> [following]<br />
+<small>03:23:27</small>  <a href="http://redirecting.tinyurl.com/redirect.php?num=6s4pl">http://redirecting.tinyurl.com/redirect.php?num=6s4pl</a><br />
+           => `/dev/null&#8217;<br />
+Resolving redirecting.tinyurl.com&#8230; done.<br />
+Connecting to redirecting.tinyurl.com[66.98.140.48]:80&#8230; connected.<br />
+<span class="caps">HTTP</span> request sent, awaiting response&#8230;<br />
+ 1 <span class="caps">HTTP</span>/1.1 302 Found<br />
+ 2 Date: Fri, 24 Sep 2004 01:23:37 <span class="caps">GMT</span><br />
+ 3 Server: Apache/1.3.27 (Unix)  (Red-Hat/Linux) mod_ssl/2.8.12 OpenSSL/0.9.6b <span class="caps">DAV</span>/1.0.3 <span class="caps">PHP</span>/4.1.2 mod_perl/1.26<br />
+ 4 X-Powered-By: <span class="caps">PHP</span>/4.1.2<br />
+ 5 X-abuse: Harvesting TinyURLs is not tolerated. It overloads our servers and is considered theft of service.<br />
+ 6 Location: <a href="http://ncsp.forum.nokia.com/csp?b=content;f=rss;sort=new;limit=30;subject=Browsing|Browsing/WAP|WAP|XHTML">http://ncsp.forum.nokia.com/csp?b=content;f=rss;sort=new;limit=30;subject=Browsing|Browsing/WAP|WAP|XHTML</a><br />
+ 7 Connection: close<br />
+ 8 Content-Type: text/html<br />
+Location: <a href="http://ncsp.forum.nokia.com/csp?b=content;f=rss;sort=new;limit=30;subject=Browsing|Browsing/WAP|WAP|XHTML">http://ncsp.forum.nokia.com/csp?b=content;f=rss;sort=new;limit=30;subject=Browsing|Browsing/WAP|WAP|XHTML</a> [following]<br />
+<small>03:23:27</small>  <a href="http://ncsp.forum.nokia.com/csp?b=content;f=rss;sort=new;limit=30;subject=Browsing%7CBrowsing/WAP%7CWAP%7CXHTML">http://ncsp.forum.nokia.com/csp?b=content;f=rss;sort=new;limit=30;subject=Browsing%7CBrowsing/WAP%7CWAP%7CXHTML</a><br />
+           => `/dev/null&#8217;<br />
+Resolving ncsp.forum.nokia.com&#8230; done.<br />
+Connecting to ncsp.forum.nokia.com[63.241.226.68]:80&#8230; connected.<br />
+<span class="caps">HTTP</span> request sent, awaiting response&#8230;<br />
+ 1 <span class="caps">HTTP</span>/1.1 301 Moved Permanently<br />
+ 2 Date: Fri, 24 Sep 2004 01:23:28 <span class="caps">GMT</span><br />
+ 3 Server: Apache/1.3.27 (Unix) <span class="caps">PHP</span>/4.3.5<br />
+ 4 Location: <a href="http://ncsp.forum.nokia.com/csp/?b=content;f=rss;sort=new;limit=30;subject=Browsing%7CBrowsing/WAP%7CWAP%7CXHTML">http://ncsp.forum.nokia.com/csp/?b=content;f=rss;sort=new;limit=30;subject=Browsing%7CBrowsing/WAP%7CWAP%7CXHTML</a><br />
+ 5 Connection: close<br />
+ 6 Content-Type: text/html; charset=iso-8859&#8211;1<br />
+Location: <a href="http://ncsp.forum.nokia.com/csp/?b=content;f=rss;sort=new;limit=30;subject=Browsing%7CBrowsing/WAP%7CWAP%7CXHTML">http://ncsp.forum.nokia.com/csp/?b=content;f=rss;sort=new;limit=30;subject=Browsing%7CBrowsing/WAP%7CWAP%7CXHTML</a> [following]<br />
+<small>03:23:28</small>  <a href="http://ncsp.forum.nokia.com/csp/?b=content;f=rss;sort=new;limit=30;subject=Browsing%7CBrowsing/WAP%7CWAP%7CXHTML">http://ncsp.forum.nokia.com/csp/?b=content;f=rss;sort=new;limit=30;subject=Browsing%7CBrowsing/WAP%7CWAP%7CXHTML</a><br />
+           => `/dev/null&#8217;<br />
+Connecting to ncsp.forum.nokia.com[63.241.226.68]:80&#8230; connected.<br />
+<span class="caps">HTTP</span> request sent, awaiting response&#8230;<br />
+ 1 <span class="caps">HTTP</span>/1.1 200 OK<br />
+ 2 Date: Fri, 24 Sep 2004 01:23:28 <span class="caps">GMT</span><br />
+ 3 Server: Apache/1.3.27 (Unix) <span class="caps">PHP</span>/4.3.5<br />
+ 4 X-Powered-By: <span class="caps">PHP</span>/4.3.5<br />
+ 5 Connection: close<br />
+ 6 Content-Type: application/xml</p>
+
+<p>[   <=>                                                                             ] 40,328        85.24K/s</p>
+
+<p>03:23:29 (85.24 KB/s) &#8211; `/dev/null&#8217; saved [40328]</p>
+
+<p>s08#</p>
+"""]]

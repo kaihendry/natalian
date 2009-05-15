@@ -1,0 +1,34 @@
+[[!meta title="Programming Languages" ]]
+[[!meta date="2005-11-18 10:10:14" ]]
+<p>A few years ago I got into <a href="http://python.org/">Python</a> on some rainy weekend and thought I found Zion.</p>
+
+<p>I found it a much better experience than <a href="http://perl.com/">Perl.</a> I got onto Perl in the first place thanks to the guys like <a href="http://astray.com/">Leon,</a> <a href="http://2shortplanks.com/">Mark</a> and <a href="http://magnus.huckvale.net/">Magnus</a> from the <a href="http://bath.pm.org/">Bath PM.</a> That&#8217;s when I was studying at Bath University. Ancient history.</p>
+
+<p>The reason I was put off Perl is that I couldn&#8217;t maintain a program to calculate <a href="http://scholar.google.com/scholar?q=Maximal+Frequent+Sequences&amp;ie=UTF-8&amp;oe=UTF-8&amp;hl=en&amp;btnG=Search">Maximal Frequent Sequences.</a><br />
+I couldn&#8217;t get my head around the Perl code, although I understood the pseudo-code in the <a href="http://scholar.google.com/url?sa=U&amp;q=http://www.cs.helsinki.fi/u/hahonen/ham_icml99.ps">papers.</a></p>
+
+<p>Ok, &#8220;The bad workman always blames his tools&#8221; I hear you cry, but I did roughly implement the algorithm in shell. It wasn&#8217;t perfect, but it was something. I did try Python at this stage, but I found it too slow compared to shell for the very large datasets I was dealing with.</p>
+
+<p>So I am using Python and I am caught up in the hype of it all. <a href="http://trac.natalian.org/browser/projects/">I write everything in Python.</a> Web applications are written in Python and various scripts.</p>
+
+<p>I learnt object orientated programming and even re-wrote procedural code into objects. <span class="caps">OMG</span>, what was I thinking&#8230;</p>
+
+<p>At the height of my delusion, I&#8217;m even converting some of my <a href="http://trac.natalian.org/file/projects/generic-webapp/setup.sh">shell scripts</a> into <a href="http://trac.natalian.org/file/projects/generic-webapp/setup.py?rev=1367">Python scripts.</a> I fealt guilty using bash. Bash didn&#8217;t have the X factor.</p>
+
+<p>Though problems time and time again kept on arising for me with Python as a Web applications language. The <a href="http://docs.python.org/lib/module-cgi.html">Python <span class="caps">CGI</span> module</a> is really limited. It&#8217;s slow too. I did have a look at <a href="http://www.modpython.org/">mod_python</a> but I had awful troubles just getting simple code working.</p>
+
+<p>Time passes and I meet some talented people like <a href="http://www.kaibackman.com/">Kai-Peter</a> and <a href="http://www.cs.helsinki.fi/u/anyrhine/">Aki</a> who use the shell to get similar jobs done. Too slow and they write it in C. Simple. Ok, there is a Python C <span class="caps">API</span>, but I had no joy with it. Anyway, I&#8217;ve never found shell too slow!</p>
+
+<p>Some people moan that shell code is unreadable. I came back to some of my old Python code and couldn&#8217;t understand it. Honest. At least with shell you stare at one line instead of paging about your buffer or files.</p>
+
+<p>So now I am using Bash to write my scripts. My system glue. Whatever. I get the job done with shell.</p>
+
+<p>As for writing Web applications. Python simply doesn&#8217;t cut it. There was some <a href="http://www.python.org/sigs/web-sig/">Web-SIG</a> but nothing came out of it. I tried these trendy <a href="http://www.rubyonrails.org/">Model View Controller</a> <a href="http://colorstudy.com/docs/shootout.html">frameworks</a> with <a href="http://nevow.com/">Nevow</a> but again I didn&#8217;t get very far. Omg, Zope. I hate templating languages, especially those that force me to use something like <span class="caps">XML</span>. Nowadays you need to write <span class="caps">HTML</span> carefully yourself. I used <a href="http://htmltmpl.sourceforge.net/">htmltmpl</a> in my own projects, but I hated it how it needed write permissions for the compile <span class="caps">HTML</span> file and the programming seperation. I don&#8217;t mind mixing logic and <span class="caps">HTML</span>. Problems only generally arise when <span class="caps">HTML</span> code sucks.</p>
+
+<p>Anyway to cut a long story short the Web application language winner is&#8230; <a href="http://en.wikipedia.org/wiki/PHP"><span class="caps">PHP</span>.</a></p>
+
+<p>Sorry, I&#8217;ve ignored this language for too long. When you have amazing examples like <a href="http://wikipedia.sourceforge.net/">MediaWiki,</a> <a href="http://wordpress.org/">Wordpress</a> and <a href="http://voidwars.com/">Voidwars</a> shining on you, you&#8217;ve really got to see the light. Voidwars?! Yeah, some my other friends from Bath University like <a href="http://www.xiven.com/">Tom,</a> <a href="http://www.exploding-planet.com/">Allan,</a> <a href="http://hixie.ch">Ian</a> and <a href="http://gwief.com/">Damian</a> implemented their Web application game in <span class="caps">PHP</span> years ago and I almost scorned them. :)</p>
+
+<p><strong><span class="caps">PHP</span> is fast.</strong> Some people say that <span class="caps">PHP</span> has awful security problems. You&#8217;re right, but almost any Web application I&#8217;ve come across does too. <span class="caps">PHP</span> has a ton of features to make Web <a href="http://www.modpython.org/pipermail/mod_python/2005-June/018390.html">things</a> <a href="http://www.onlamp.com/pub/a/php/2003/04/24/php_foundations.html">trivial.</a></p>
+
+<p>So there you have it. My tool choice is either Bash for <span class="caps">UNIX</span> work or <span class="caps">PHP</span> for Web applications. It&#8217;s not for everybody or every application, but for me and my interests it does the job and quickly.</p>

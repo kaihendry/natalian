@@ -1,0 +1,30 @@
+[[!meta title="Ever wondered about" ]]
+[[!meta date="2006-03-23 18:38:23" ]]
+<a href="http://flickr.com/photos/juttahendry/114521826/">
+<img src="http://static.flickr.com/51/114521826_c06ad12a7c_m.jpg" />
+</a>
+
+<ul>
+<li><a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=354799">&#8212;iso-8601 disappearing from date?</a></li>
+</ul>
+
+<p>Use <a href="http://www.ietf.org/rfc/rfc3339.txt">rfc-3339</a> instead:<br />
+<pre><br />
+sam$ date&#8212;rfc-3339=seconds<br />
+2006&#8211;03-22 22:01:25+09:00<br />
+</pre></p>
+
+<p>One of the problems with <a href="http://en.wikipedia.org/wiki/Iso8601">iso8601</a> was parsing the (optional) <strong>T</strong> letter (hah!):</p>
+
+<pre>
+sam$ date --iso-8601=seconds
+2006-03-22T22:01:57+0900
+</pre>
+
+<p>Evidently `date` sometimes got confused with the T and treated it as a military timezone hence b0rking up the backwards conversion. So iso8601 is depreciated&#8230; well at least you <strong>don&#8217;t have to pay to read the entire rfc-3339 spec</strong>.</p>
+
+<ul>
+<li><span class="caps">WTF</span> is happening with <a href="http://lists.debian.org/debian-tetex-maint/2006/03/msg00455.html">latex and utf8?</a></li>
+</ul>
+
+<p>As some of you may or not know, I have an uber cool <a href="http://letter.dabase.com/">Letter generator</a> that uses latex to produce a pleasant professional <span class="caps">PDF</span> letter from a Web form. Does it work with <a href="http://en.wikipedia.org/wiki/CJK"><span class="caps">CJK</span></a> characters? No. Will it? Perhaps. Sadly tetex3 seems to be missing <a href="http://en.wikipedia.org/wiki/OpenType">OpenType</a> support. Though another <strong>Mac specific</strong> latex package called <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=XeTeX">xetex</> does.</p>

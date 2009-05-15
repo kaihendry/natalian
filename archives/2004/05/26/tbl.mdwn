@@ -1,0 +1,17 @@
+[[!meta title="TBL" ]]
+[[!meta date="2004-05-26 16:06:23" ]]
+<p><span class="caps">TBL</span>&#8230; Timberlake, I mean Tim Berners-Lee recently wrote a great essay about why <a href="http://www.w3.org/DesignIssues/TLD"><acronym title="Top level domain"><span class="caps">TLD</span></acronym>s <span class="caps">SUCK</span></a>. I have (initially) titled my <acronym title="WORK IN PROGRESS!"><span class="caps">WIP</span></acronym> <a href="http://www.cs.helsinki.fi/u/hendry/work/thesis/tktl/template.pdf">thesis the &#8220;Mobile Information Appliance&#8221;</a>, and <span class="caps">TBL</span> eloquently puts that today&#8217;s mobile, might be tomorrow&#8217;s kitchen wall fixture. Each word of the title of my thesis has problems:</p>
+
+<ul>
+<li>Ok, I&#8217;ll eventually define mobile as small handheld wireless computing device.</li>
+</ul>
+
+<ul>
+<li>Information. Oh no&#8230; Is the web information? No&#8230;</li>
+</ul>
+
+<ul>
+<li>Appliance? Hip term or what? Reasoning behind it is that mobiles are difficult to upgrade/maintain, unlike a machine. So it needs to replaced like a toaster. Hence appliance. Although that too might change in the future. The reason why it is difficult to update say a Nokia phone I have been told is because new version of the Symbian operating system would mean porting all the quirky drivers, which is expensive. Any other views?</li>
+</ul>
+
+<p>Back to <span class="caps">TBL</span>! He will be here in Finland to collect his 1 million euro prize. Great, I would like to attend the ceremony and perhaps listen to the other interesting bits and pieces at this technology conference. After all, I am a technologist. However <a href="http://www.technologyawards.org/index.php?technologyawards=cfe57a52d370969c475f4004a5a562b0&amp;article_id=3684&amp;<i>from_id</i>=3599&#8221;>1600 EUROs</a> is more than I can spare&#8230;</p>

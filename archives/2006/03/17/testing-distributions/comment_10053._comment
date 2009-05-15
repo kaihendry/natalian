@@ -1,0 +1,15 @@
+
+[[!_comment format=mdwn
+ username="Joachim Breitner"
+ subject="84.160.209.224"
+ date="2006-03-17 19:23:42"
+ content="""
+<p>Hi,</p>
+
+<p><span class="caps">WRT</span> to patches interface: The Utnubu team has tried to provide a nicer interface. On <a href="http://utnubu.alioth.debian.org/scottish/">http://utnubu.alioth.debian.org/scottish/</a> you can find the patches sorted by maintainer and (crudely guessed) relevance. Also note that the packages show up on the <span class="caps">PTS</span>.</p>
+
+<p>If you have any suggestions on how to make that interface better, just mail <a href="mailto:utnubu-discuss@lists.alioth.debian.org">utnubu-discuss@lists.alioth.debian.org</a></p>
+
+<p>Greetings,<br />
+nomeata</p>
+"""]]

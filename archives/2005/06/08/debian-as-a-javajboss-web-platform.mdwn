@@ -1,0 +1,26 @@
+[[!meta title="Debian as a Java/JBoss Web platform" ]]
+[[!meta date="2007-07-10 21:29:23" ]]
+<p>My paid work involves setting up JBoss/Java environments for a software company to drop in their <span class="caps">WAR</span> or <span class="caps">EAR</span> file into.</p>
+
+<p>Btw I hate Java. But since I think Debian must compete as a <strong>Web application platform</strong>, those <a href="http://pkg-java.alioth.debian.org/">Debian Java packagers</a> get my respect. It is a crap job, but an important one.</p>
+
+<p>Many people seem to setup Java and JBoss by hand. <br />
+It works OK, if you stick to a couple of conventions and <strong>use symlinks.</strong></p>
+
+<p>I prefer packages and since deployment platforms tend to be Red Hat Enterprise since <strong>Oracle</strong> &#8220;certifies&#8221; the platform, I investigated RPMs (again).</p>
+
+<p><span class="caps">OMG</span>, I hate <span class="caps">RPM</span>.</p>
+
+<p>Or perhaps the piss poor package lists. Used <span class="caps">RPMSEEK</span> and <span class="caps">RPMFIND</span>? Loser.</p>
+
+<p>Or is it the quality of the packages?</p>
+
+<p>Or maybe it is <span class="caps">YUM</span>. I apt-get wannabe that runs like a pig.</p>
+
+<p>Anyway, I gave <a href="http://jpackage.org/">Jpackage</a> and its RPMs a really <a href="http://article.gmane.org/gmane.linux.jpackage.general/8019">good try</a> <a href="http://article.gmane.org/gmane.linux.jpackage.general/8046">over a week.</a> But ended up doing the same thing in Debian (sarge) in about 20 minutes. You need contrib and non-free in your /etc/apt/sources.list.</p>
+
+<p>apt-get install java-package<br />
+fakeroot make-jpkg jdk-1_5_0_03-linux-i586.bin<br />
+Install sun-j2sdk1.5_1.5.0+update03_i386.deb and then I (cheat!) apt-get Jboss4 from an unofficial repo at <a href="http://linley.Informatik.TU-Cottbus.DE/debian/">http://linley.Informatik.TU-Cottbus.DE/debian/</a></p>
+
+<p><strong>Conclusion:</strong> Since I have to use Red Hat, I am going to setup the RH&#8217;s environment by hand. I will probably use a Debian system to build/test the Java bean/package/(whatever it&#8217;s called) before I drop it into the live server.</p>

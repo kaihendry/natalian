@@ -1,0 +1,27 @@
+[[!meta title="DNA GPRS" ]]
+[[!meta date="2004-07-10 10:43:52" ]]
+<a href="http://natalian.org/archives/2004/04/01/navigation/">Since I have had my Nokia 3100 in April</a> I have been subscribed to <a href="http://www.dnafinland.fi/">DNA</a>'s GPRS service.
+
+<p>I&#8217;ve used the <span class="caps">GPRS</span> service extensively for development especially considering I was told I have unlimited bandwidth for 5EUR a month, but that seemed pretty reasonable considering the really low transfer speed. I&#8217;ve happily used sites like <a href="http://www.bbc.co.uk/mobile/"><span class="caps">BBC</span></a> almost everyday with my phone, even when abroad in Sweden and Estonia.</p>
+
+<p>Last week Friday <span class="caps">DNA</span> sent me a message in Finnish though they know I am English to tell about their <span class="caps">MMS</span> upgrade. <span class="caps">WTF</span> do I care about <span class="caps">MMS</span>. After several emails back and forth with their customer service department as their multi-lingual website has all the current information in Finnish, I managed that &#8220;upgrade&#8221;. Then my <strong><span class="caps">GPRS</span> service stopped working</strong>, with a message &#8220;Subscribe to <span class="caps">GPRS</span> first&#8221;.</p>
+
+<p>I rang up this morning to find out from <span class="caps">DNA</span> customer service that I have <strong>never</strong> been subscribed to <span class="caps">GPRS</span> services. Ah great, that explains why I couldn&#8217;t find it on my bill. :)</p>
+
+<p>But, I want my <span class="caps">GPRS</span> service back! I love browsing the web on my mobile! I am doing development too!</p>
+
+<p>Then I look at the price list:</p>
+
+<ul>
+<li>dna <span class="caps">GPRS</span> 10 &#8211; 2,90EUR activation, 4.90EUR a month for 10 (10!) megabytes. 1.50 for every megabyte over.</li>
+<li>dna <span class="caps">GPRS</span> 100 &#8211; 2,90EUR activation, 16,65EUR a month for 100 megabytes and 1,22EUR for ever megabyte over that&#8230;</li>
+</ul>
+
+<p>Ok, lets look at a competitor, <a href="http://cubio.fi/cgi-bin/iisi3.pl?cid=cubio&amp;mid=103&amp;sid=170">Cubio</a>:<br />
+* <span class="caps">GPRS</span>, activation fee 5 € (0 € until the end of the 2003), monthly fee 1,75 €, <span class="caps">GPRS</span>-data 1,75 €/MB</p>
+
+<p>No wonder no ordinary consumer uses these services, they are so <span class="caps">FUCKING</span> expensive. I can smash a 100mb limit in about 10 minutes on my puny 1mbit connection at home. It&#8217;s outrageous how they charge that amount of money per megabyte. What is worse, is that there is no way of telling at least on my phone how much I have transferred. Leaving any consumer a little wary of being burnt by an unexpected bill.</p>
+
+<p>All these asshole mobile operators better wake up. Not only is their <a href="http://slashdot.org/article.pl?sid=04/06/10/2230249&amp;mode=thread&amp;tid=137&amp;tid=146&amp;tid=215&amp;tid=99">customer service legendary</a>, but their product services are a complete joke. If I had the money I would join their game, and beat them at it. I really expect better here in Finland.</p>
+
+<p>Take the comparitively new Cubio. I tried to subscribe to their services, but it failed. They didn&#8217;t answer an email I sent about that. So I stuck with <span class="caps">DNA</span>. Today I noticed their new advertising campaign in the <a href="http://www.metrolehti.fi/">metro</a> looks like <a href="http://www.apple.com/fi/">Apple</a>&#8216;s. How imaginative.</p>

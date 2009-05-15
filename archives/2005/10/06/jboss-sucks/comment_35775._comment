@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="Mark Arnold"
+ subject="38.104.35.110"
+ date="2009-02-18 02:26:11"
+ content="""
+<p>I SO agree. 1) You jump through hoops to get security working the <span class="caps">JAAS</span> way and <span class="caps">THEN</span> you have to add so much crap to make it work in JBoss. 2) JBoss <span class="caps">JMS</span> durable subscriptions saves a copy of the message for each subscriber instead of keeping 1 copy of the message and a link table to the subscriptions. Don&#8217;t expect to do anything enterprise level without multi-terabytes. 3) JBoss clustering takes care of <span class="caps">JMS</span> fail-over; but, their HA <span class="caps">JMS</span> client jar doesn&#8217;t re-lookup the destination. I had to write a <span class="caps">JMS</span> client wrapper to do what JBoss left out. 4) It&#8217;s too damn hard to make JBoss use any <span class="caps">JPA</span> provider other than Hibernate&#8212;which also sucks.</p>
+
+<p>I could go on an on.</p>
+
+<p>JBoss is <span class="caps">NOT</span> enterprise-ready.</p>
+"""]]

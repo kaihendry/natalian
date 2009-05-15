@@ -1,0 +1,18 @@
+
+[[!_comment format=mdwn
+ username="Joose Vettenranta"
+ subject="82.181.82.163"
+ date="2006-03-02 19:45:11"
+ content="""
+<p>what&#8217;s the problem? eh, look more closely on tutorials =)</p>
+
+<p>You can say like.. bar is from coord(0,0) to coord(30.30) ..</p>
+
+<p>or, you can use mm or cm or pt as unit.. and even more too.. And for emedding svg to html, goes like this:</p>
+
+<!-- SVG content goes here -->
+
+<p>yep?</p>
+
+<p>- Joose</p>
+"""]]

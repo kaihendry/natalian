@@ -1,0 +1,11 @@
+[[!meta title="Hosting" ]]
+[[!meta date="2006-05-17 15:01:31" ]]
+<p>One of the <strong>major</strong> problems I see in Korea is the complete lack of remotely decent hosting.</p>
+
+<p>Admittedly finding a host in the UK or US is hard, but here it&#8217;s impossible. Really.</p>
+
+<p>The leading Korean registrar <a href="http://inames.co.kr/">inames</a> offers a &#8220;complete solution&#8221; where it doesn&#8217;t even offer advanced <span class="caps">DNS</span> management. So I can&#8217;t add an A name record for a subdomain. It&#8217;s just completely featureless. You&#8217;re lucky if <span class="caps">PHP</span> works on your <span class="caps">FTP</span> space.</p>
+
+<p>Thank god (for want of another expression, as I don&#8217;t believe god exists) for <a href="http://dreamhost.com">Dreamhost.</a> I&#8217;m now hosting more and more of the company services on my own account!</p>
+
+<p>Whoever is remotely interested in Web stuff in Korea has some serious stumbling blocks to contend with.</p>

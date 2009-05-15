@@ -1,0 +1,13 @@
+[[!meta title="md5sum rss feed" ]]
+[[!meta date="2006-03-31 09:46:01" ]]
+<p>Idea: Upstream publishes md5sums of releases which Debian can check with.</p>
+
+<p>Pros<br />
+* This makes it easier for maintainers<br />
+* Better security for users<br />
+* Piece of mind for upstream</p>
+
+<p>Cons<br />
+* Upstream will probably need some tool to generate the <span class="caps">RSS</span><br />
+* Non-trivial to parse <span class="caps">RSS</span><br />
+* Version number mismatch</p>

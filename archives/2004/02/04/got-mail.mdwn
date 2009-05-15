@@ -1,0 +1,15 @@
+[[!meta title="Got mail?" ]]
+[[!meta date="2004-02-04 23:17:15" ]]
+<p>Drafts, L-A, <span class="caps">LUG</span>, Sent., Trash, <span class="caps">XML</span>-SIG, debating, debconf, debian-boot, debian-devel, debian-fi, debian-gnome, debian-mentors, debian-python, debian-qa, debian-qa-packages, debian-www, digimon, dovecot, dri, esn-helsinki, foreign-students, galeon, gossip, hkkk, inbox., inex, junk, maradns, moin, postponed, pyblosxom, pygtk, sent-mail, skolelinux, svn</p>
+
+<p>Tonight I am focusing on getting my act together and trying to achieve one of my loftier goals to become a Debian developer. I need this to be a better contributor to Skolelinux.</p>
+
+<p>I also spent some time creating some filters and mailboxes. My mail traffic is pretty heavy as you can imagine. I am not reading the W3 lists much. I think <span class="caps">RDF</span> is barmy, <span class="caps">SVG</span> will be great once I get a decent implementation in my favourite browser. Python&#8217;s websig I remember being pretty dead.</p>
+
+<p>Other stuff is pretty random. I do not keep any list traffic.</p>
+
+<p>Out of interest when it comes to mail I keep, which is both personal and work related is running about 500 a month. I write about the same amount in the same month. Looking at my archives&#8230; I would say an average of 10&#8211;30% less. I am not keeping spam. Maybe I should for training a baysian filter.</p>
+
+<p>Most of my email is stored on my <span class="caps">IMAP</span> server. It&#8217;s backed up effectively with <a href="http://gopher.quux.org:70/devel/offlineimap/">offlineimap</a> to my local disc. I am <span class="caps">NOT</span> using subversion on a maildir. I learnt my lesson! Once everything is synced I usually run <a href="http://www.rrbcurnow.freeuk.com/mairix/">mairix</a> to build up a index of all my mail for quick searching though 10000s of mail.</p>
+
+<p>I am pretty happy with the setup. I will probably have to change <span class="caps">IMAP</span> servers at some point when I break the 2G quota I have. I have got <a href="http://dovecot.procontrol.fi/">dovecot</a> already setup here and up to the task. :)</p>

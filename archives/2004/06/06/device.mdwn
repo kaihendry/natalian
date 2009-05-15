@@ -1,0 +1,32 @@
+[[!meta title="Computing Devices" ]]
+[[!meta date="2004-06-07 08:28:40" ]]
+<ul>
+<li>Mobiles have consolidated PDAs.</li>
+</ul>
+
+<ul>
+<li>Mobiles are consolidating cameras. But that can only go so far as better cameras need longer focal length.</li>
+</ul>
+
+<ul>
+<li>Mobile operators are going to consolidate ISPs?</li>
+</ul>
+
+<p>What are mobiles again? <a href="http://en.wikipedia.org/wiki/Smartphones">Smartphones</a>?</p>
+
+<p>There are some computing trends that (or my) English is having difficulty with.</p>
+
+<p>I would say a mobile computing device can be easily carried in a pocket and (characteristically) has a long battery life.<br />
+But of course that can change&#8230;</p>
+
+<p>A laptop is portable. Oh no, portable is a synonym of mobile. Big screen, big keyboard, crappy mouse, 5hr <span class="caps">MAX</span> battery life (typically 1hr30mins on my thinkpad).</p>
+
+<p>A desktop (or is it workstation?) is neither mobile or portable.</p>
+
+<p>I am battling here. Comments welcome !</p>
+
+<p>Another trend which I find interesting is the purchasing of computing devices. As an end user I so do not want to build a PC again. It&#8217;s fun, but a whole bunch of stuff can go wrong. I find that all prebuilt PCs are sort of crap and not very social(or quiet) as a laptop. :) My thinkpad is something I don&#8217;t care to open and I trust in working, as I believe many of the components are over-engineered to survive typical rugged everyday handling.</p>
+
+<p>Personally I&#8217;ll like to have a laptop. It&#8217;ll be mostly sitting at home, and I would take it with me when I travel out of the country, or attend geek meets. At work a workstation. Screen should be level with my eyes to support a good posture.</p>
+
+<p>Mobile phone. I would like it to do <strong>everything</strong>. I think taking pictures with it would be a great feature for me, as I hate lugging around my Kodak. It would have to be <a href="http://www.contaxcameras.co.uk/digital/sl300rt/sl300rtoverview.asp ">fairly decent</a>, unlike the piss poor cameras inbuilt into mobiles currently. Priority for that device is to move SMSes over to Email I&#8217;d say. And to prove the interface to make it &#8220;Nokia 3210&#8221; fast and usable, unlike the newer phones like my Nokia 3100.</p>

@@ -1,0 +1,55 @@
+[[!meta title="Android Apple Ketchup" ]]
+[[!meta date="2008-11-13 10:07:09" ]]
+<a href="http://www.flickr.com/photos/hendry/2989507456/" title="SIM lock dialog by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3276/2989507456_a04f101cda_m.jpg" width="240" height="180" alt="SIM lock dialog" /></a>
+
+<p>Here are my first impressions of using an Android G1 mobile in the UK.</p>
+
+<ul>
+<li>`sudo mount /dev/sdb1 /mnt/android` works. Yay, sanity at last.</li>
+<li>How do I browse my memory card on the mobile? Oh there is some crappy file browser in the market.</li>
+<li>Want to easily see how much disk space etc. is on the SD&#8230;</li>
+<li>The magnify glass symbol on the keyboard is bound to search, not zoom. Zooming on screen often obstructs links in the bottom middle of the page. Awful not to pinch like you do on the Ipod touch.</li>
+<li>When the disk is mounted on my Thinkpad, Android can&#8217;t seem to access the memory card. I guess that&#8217;s the consequence of using <span class="caps">USB</span> block device. Pretty sucky. <span class="caps">NFS</span> exports please?</li>
+<li>How do I get my contacts from my Nokia E65 or <a href="zyb.com">Zyb</a> into my <a href="https://mail.google.com/mail/#contacts">Google addressbook</a>? Eventually, I took the T-mobile <span class="caps">SIM</span> and put it in my unlock Nokia E65 to copy the contacts to the <span class="caps">SIM</span>. Then returning the <span class="caps">SIM</span> to Android and using the &#8220;SIM contacts importer&#8221;.</li>
+<li>If both mobiles were locked this would have been really hard!</li>
+<li>I can&#8217;t merge my now duplicate <a href="https://mail.google.com/mail/#contacts">Google contacts</a>, so Google&#8217;s claim of being <a href="http://googlemobile.blogspot.com/2008/10/google-on-android-gmail-and-contacts.html"><strong>in sync</strong> is not accurate</a>.</li>
+<li>Be cool if my friends could maintain their own contact, keeping their numbers and photos up to date. It&#8217;s really pointless that I have to maintain all my friend&#8217;s contact details.</li>
+<li>Discovered holding down <span class="caps">HOME</span> you can get a task manager. Silly how the home screen obviously conflicts with the browser home button.</li>
+<li>I wonder how I enable more debug and get a proper task manager. I want to see how everything works. I need details.</li>
+<li>Battery life sucks. Lucky I had my Nokia E65 as backup last night. Many people seem to suggest using 2G instead. I feel sorry for people who paid for those 3G license fees.</li>
+<li>Not sure how to delete stuff</li>
+<li>Apple Iphone UI is <strong>much better</strong> designed</li>
+<li>I wonder if I can play back videos from the tiny SD.</li>
+<li>No weather widget? I want a weather widget on my home screen</li>
+<li>Hard to edit URLs. <strong>Hiding URLs is a huge UI mistake</strong>. Keep the full <span class="caps">URL</span> in clear view!</li>
+<li>Menu+z is really hard to type. Camera button is also poorly placed with the slider is up.</li>
+<li>Going back (Menu+J) is often just really slow. As if it&#8217;s actually reloading the page and using some previous cache.</li>
+<li>Did I mention how much <a href="http://www.google.com/reader/view/">Google reader</a> sucks on Android? It doesn&#8217;t seem have any offline support which is needed desperately on train journeys with intermittent T-mobile connectivity.</li>
+<li>The sliding menu from the right is <strong>such</strong> a gimmick. I really do not see the point. Why not just have all the icons on the &#8220;home screen&#8221;?</li>
+<li>Love the slide down notification menu mind. Though how do I activate it from the keyboard?</li>
+<li>Closing browser window prompt is annoying. But it&#8217;s easy to incorrectly hit the X.</li>
+<li><a href="http://flickr.com/photos/hendry/3000417214/">G1 screen seems smaller than that an Ipod Touch/Iphone</a>. It&#8217;s like I&#8217;m looking at the Internet through a keyhole.</li>
+<li>I see a lot opportunity in push <a href="http://en.wikipedia.org/wiki/XMPP"><span class="caps">XMPP</span></a> <strong>Gtalk</strong> applications, for <a href="http://whomwah.com/2008/11/02/bbc-programmes-via-instant-messenger/">example</a>.</li>
+<li>There is no notepad is there? I see there is <a href="http://code.google.com/android/samples/NotePad/index.html">Notepad sample</a>&#8230;</li>
+<li>Great that <a href="http://dev.w3.org/geo/api/spec-source.html">Geolocation <span class="caps">API</span></a> is <a href="http://geo.webvm.net/">working via Gears</a>. No need to write Android dalvik applications!</li>
+<li>Bit unwieldy on <a href="http://news.bbc.co.uk/"><span class="caps">BBC</span> News</a>, though thankfully there is a <a href="http://news.bbc.co.uk/text_only.stm">sane lighter version</a> which rocks.</li>
+<li>I think Google&#8217;s mobile google.com/m page should be called &#8220;Classic&#8221;. &#8220;Classic&#8221; has far too much cruft and should be called &#8220;Bloated&#8221;, &#8220;Desktop&#8221; or &#8220;Standard&#8221; instead.</li>
+<li>Does not seem to auto-connect to my home <span class="caps">WIFI</span> like my Ipod touch does. :/</li>
+<li>Battery is bad. It just about survived a 2 hour train journey where I was struggling with Google Reader.</li>
+<li>Be cool if I could make &#8220;keyword&#8221; type <a href="http://www.mozilla.org/products/firefox/smart-keywords.html">smart bookmark</a> like I can do in Firefox on the home screen. Ideally I could just edit the home screen in <span class="caps">HTML</span>.</li>
+<li>Itunes is seriously kicking some <a href="http://www.flickr.com/photos/hendry/2996626428">Android market</a> ass. I&#8217;m sorry.</li>
+<li><a href="http://www.flickr.com/photos/hendry/2995783103/">Carphone Warehouse display of the new G1</a> was a tad sad.</li>
+<li>Sometimes I would <a href="http://www.flickr.com/photos/hendry/2996622778/">loose data connectivity all together on T-mobile</a>, even though I would have a <span class="caps">GSM</span> connection. My Nokia E65 with Three would be always be able to get a data connection, even on <span class="caps">GSM</span>.</li>
+<li>I was half expecting that &#8220;Compare Everywhere&#8221; application to be a &#8220;killer application&#8221; for the Android/Dalvik platform. After scanning about 20 different I items, about half the time it correctly identifies the object. Never has it given me an alternative price comparison. Perhaps it needs a certain critical mass&#8230;</li>
+<li>Namco Pacman is really disappointing due to it&#8217;s crap inputs.</li>
+<li>There is a lot of background &#8220;magic&#8221; going on. I&#8217;m uneasy about this. I want to see what&#8217;s being transferred and when. Need visibility.</li>
+<li>I wonder if I can dial out to 3G Internet via bluetooth from my Thinkpad. I found this very useful with my Nokia E65.</li>
+<li>I notice tel: and sms: schemes work (when marked up), though I&#8217;m a bit nervous about putting this information on my <a href="http://hendry.iki.fi/">homepage</a>. Ideally I would like to share this information, including my Geolocation with my friends, with some sort of notification mechanism. For example I get a Gtalk message notification saying: &#8220;Tom wants to know where you are and he&#8217;s lost your number. Let him know?&#8221;</li>
+<li><a href="http://flickr.com/photos/hendry/3000417670/">T-mobile&#8217;s image proxy does a really terrible job.</a></li>
+<li>I don&#8217;t understand how I might <a href="http://flickr.com/photos/hendry/3000417490/">incur charges for roaming with data</a>. Can anyone care to clarify? I wonder how much the G1 will cost me when I&#8217;m in Berlin later this year.</li>
+<li>Having <a href="http://flickr.com/photos/hendry/2999577917/">trouble connecting to a hidden network</a>.</li>
+</ul>
+
+<p>Android is playing catchup to Apple. <a href="http://uk.youtube.com/watch?v=ptjedOZEXPM#t=50m">Google has tripped up by thinking development is happening in Java</a>. Though with &#8220;Mozilla/5.0 (Linux; U; Android 1.0; en-gb; dream) AppleWebKit/525.10+ (KHTML, like Gecko) Version/3.0.4 Mobile Safari/523.12.2&#8221; simply being the first mobile to ship with Geolocation for Web applications is a great start.</p>
+
+<p>Update: I&#8217;m taking more notes down at <a href="http://dabase.com/g1/">Life with a T-mobile G1 in the UK</a>.</p>

@@ -1,0 +1,15 @@
+
+[[!_comment format=mdwn
+ username="christian biesinger"
+ subject="85.124.16.144"
+ date="2005-07-19 20:44:57"
+ content="""
+<p>fwiw, all <span class="caps">ISO</span> standards have to be paid for&#8230;.</p>
+
+<p>&gt; Timezones – You always need this! And the <span class="caps">WHATWG</span> date/time demo doesn’t have it.</p>
+
+<p>but it does?    <br />
+with the JS to fill that in:<br />
+       if (inputs[i].name == &#8216;timezone&#8217;) {<br />
+         inputs[i].value = -(new Date).getTimezoneOffset() / 60;</p>
+"""]]

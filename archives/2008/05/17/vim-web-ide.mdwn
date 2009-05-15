@@ -1,0 +1,16 @@
+[[!meta title="VIM IDE for Web applications" ]]
+[[!meta date="2008-05-18 15:32:18" ]]
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/Y45EbTLZGF0&amp;hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Y45EbTLZGF0&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+
+<p>To follow this little <a href="http://www.youtube.com/watch?v=Y45EbTLZGF0">screencast tutorial on editing Web applications</a>:</p>
+
+<ul>
+<li><tt>apt-get install vim curl subversion</tt> on a Debian install</li>
+<li><a href="http://letterly.com/">Letterly</a> <a href="http://svn.natalian.org/projects/letter/">source</a> I use for an example</li>
+<li><a href="http://git.webconverger.org/?p=home.git;a=blob_plain;f=.vimrc">.vimrc</a> see CleverTab()</li>
+<li><a href="http://svn.natalian.org/projects/html5/html.vim">HTML5 <span class="caps">VIM</span> script</a> for <a href="http://validator.nu/">validator.nu</a></li>
+</ul>
+
+<p>Recorded with <tt><a href="http://packages.qa.debian.org/r/recordmydesktop.html">recordmydesktop</a>&#8212;follow-mouse -width 256 -height 256</tt>. I had to record it on my Thinkpad X40 as my <a href="https://sourceforge.net/forum/forum.php?thread_id=1850777&amp;forum_id=590957">X61 sound setup suffers from some sort of overrun</a>. Couldn&#8217;t figure out jackd.</p>
+
+<p>Validator.nu is for helping find problems with <span class="caps">HTML</span> <strong>not</strong> <span class="caps">PHP</span>, so sorry for the sideline 2:30 mins in the video. :)  Finally also &#8220;checkout&#8221; <a href="http://ejohn.org/blog/google-doctype/">Google doctype</a>.</p>

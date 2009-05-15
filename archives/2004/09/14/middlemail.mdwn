@@ -1,0 +1,13 @@
+[[!meta title="SSL smtp nightmare" ]]
+[[!meta date="2004-10-05 23:39:59" ]]
+<p>I need to setup Dovecot with a proper <span class="caps">SSL</span> certificate. Thunderbird and OE complain otherwise (my parents!). Why can&#8217;t Debian automagically generate one, like sshd does?</p>
+
+<p>Same goes for my smtp server. I would like it to relay to more a more prestigous mail server (smarthost) and believe me that was a nightmare to get working. Of course you need to authenticate securely to the smarthost but the exim debconf questions don&#8217;t deal with this case. So you have to fiddle with exim4&#8217;s scary configuration file and confusing package naming.</p>
+
+<p>Then there is the question of sensibly allowing users to securely authenticate to my host&#8217;s smtp server to relay mail. This is not setup by default either. It also needs me to figure out how to generate a <span class="caps">SSL</span> certificate again, I think. Of course you want to authenticate securely for users against <span class="caps">PAM</span>. I recall exim4&#8217;s debconf does present an option for relaying by IP which is a bit unreasonable considering most people do not have static IPs nowadays as clients.</p>
+
+<p>Aren&#8217;t my needs quite common amongst other Debian users?</p>
+
+<p>I should try Postfix again, but I remember I had some <span class="caps">SSL</span> problems with that too.</p>
+
+<p>Console me.</p>

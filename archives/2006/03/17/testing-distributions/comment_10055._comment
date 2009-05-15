@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Dirk Eddelbuettel"
+ subject="67.174.11.185"
+ date="2006-03-17 22:54:49"
+ content="""
+<p>Kai,</p>
+
+<p>VMware Player is free-as-in-beer; I find it very valuable when testing/running my Quantian isos. See two blog posts I made end of Dec / beginning of Jan.  It has some nice features (as eg the &#8216;freezing&#8217; and immediate restarts, virtual hard disk trick via qemu, ...)</p>
+
+<p>VMware also made their Workstation product free-as-in-beer but I haven&#8217;t had time to play with it.</p>
+
+<p>Dirk</p>
+"""]]

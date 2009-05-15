@@ -1,0 +1,23 @@
+
+[[!_comment format=mdwn
+ username="Michael Smith"
+ subject="202.7.99.3"
+ date="2004-08-06 12:31:08"
+ content="""
+<p>OK. I apt-got mysql from unstable (along with dependencies) and then wordpress install went fine. Thanks for making this package!.</p>
+
+<p>Some questions:</p>
+
+<p>- Can&#8217;t you have the package automatically run the install.php<br />
+    script in order to create the wordpress tables?</p>
+
+<p>- Can&#8217;t you have the package automatically update the apache<br />
+    config file so that Apache knows about the symlink to<br />
+    /usr/share/wordpress?</p>
+
+<p>- The wordpress database and tables are not deleted from the<br />
+    MySQL after apt-get remove. Seems like they should be.</p>
+
+<p>- apt-get remove leaves the /usr/share/wordpress/wp-config.php<br />
+    file and everyhing in /etc/wordpress behind. Why?</p>
+"""]]

@@ -1,0 +1,13 @@
+
+[[!_comment format=mdwn
+ username="Kai"
+ subject="217.30.176.161"
+ date="2004-07-11 20:00:16"
+ content="""
+<p>Must look into that, thank you.</p>
+
+<p>But I think there is problem. I usually read my mail from a remote machine, and not on the server ! Suggestions?? Ok, I guess I could at least mv the spam to the<br />
+a special spam folder and perhaps run a script over it?</p>
+
+<p>I am reducing required_hits to 0.5, and btw I had to restart spamassasin.</p>
+"""]]

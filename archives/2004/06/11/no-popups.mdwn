@@ -1,0 +1,28 @@
+[[!meta title="No popups" ]]
+[[!meta date="2004-06-22 11:25:40" ]]
+<p><strong>Popups break the browser paradigm</strong></p>
+
+<p>Dialogs such as accepting a certificate or allowing some data being sent <strong>must</strong> be done in browser forms.</p>
+
+<p>Lets take a look at how two leading browsers handle a 404 and a domain which doesn&#8217;t exist.</p>
+
+<p>IE6:</p>
+
+<ul>
+<li><a href="http://pictures.natalian.org/screenies/2004/jun/11/13:40:18/">404</a></li>
+<li><a href="http://pictures.natalian.org/screenies/2004/jun/11/13:36:16/">Domain doesn&#8217;t exist</a></li>
+</ul>
+
+<p>It does the errors within the browser. No popups. Great.</p>
+
+<p><span class="caps">BUT</span> it could be improved. They are inconsistent. And the 404 page provided by the browser could included a feedback form so a user could easily give feedback to the site maintainer.</p>
+
+<p>Mozilla1.6:</p>
+
+<ul>
+<li><a href="http://pictures.natalian.org/screenies/2004/jun/11/13:36:28/">404 and &#8220;Domain doesn&#8217;t exist&#8221; popup</a></li>
+</ul>
+
+<p>Wrong, wrong, wrong! What an unhelpful default 404. That screenshot shows the confusion. Is it a 404 now, or does the domain not exist?</p>
+
+<p>On my Nokia&#8217;s user agent, the error &#8221;<strong><span class="caps">STOP</span></strong> page can not be loaded&#8221; just flashes for a second and disapears. Hardly enough time to take it in. Can&#8217;t go back to it as it&#8217;s a popup. And after comprehending the error, the error does not have any useful information whatsoever to debug the problem.</p>

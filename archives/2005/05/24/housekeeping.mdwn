@@ -1,0 +1,23 @@
+[[!meta title="Housekeeping" ]]
+[[!meta date="2005-05-24 18:30:11" ]]
+<p>I have moved most of my goodies over to <a href="http://www.kitten-x.com/">Jamie&#8217;s</a> <span class="caps">ADSL</span> connection in London.</p>
+
+<p>My old server in Finland is laying about at Teemu&#8217;s place not doing anything.  Since I arrived in Australia penniless, I can&#8217;t really afford the 42EUR a month colo fees. Which is cheap btw. Anyway, since I am far away here in Melbourne developing on a machine in Helsinki is sort of senseless considering the lag.</p>
+
+<p>Sadly my wonderful shell at <a href="http://www.cs.helsinki.fi/u/hendry/">cs.helsinki.fi</a> is due to expire in 30.09.2005 (damn, graduated!) I have moved some things over from <a href="http://db.cs.helsinki.fi/~hendry/">db.cs.helsinki.fi,</a> such as:</p>
+
+<p>* <a href="http://re.dabase.com/">Regular Expression tester</a><br />
+ * <a href="http://fog.dabase.com/">Fog index calculator</a><br />
+ * My <a href="http://faq.dabase.com/">Tips and Tricks</a> collection</p>
+
+<p>Stunningly, I installed <a href="http://projects.edgewall.com/trac/">trac</a> and now have <a href="http://svn.natalian.org/">svn.natalian.org</a> up and running again!</p>
+
+<p>I still need to get <a href="http://dabase.com/">dabase.com</a> (mobile) stuff whirring away, like:<br />
+ * <a href="http://aat.dabase.com/"><span class="caps">AAT</span></a><br />
+ * <a href="http://fortune.dabase.com/">Fortune</a></p>
+
+<a href="http://camera.theholybible.co.uk/Laos/index.php?file=cimg3450.jpg">
+<img alt="Jamie and Kai sitting ontop a bus" src="http://camera.theholybible.co.uk/Laos/thumbs/cimg3450.jpg" /></a>
+
+<p>And omg my <a href="http://pictures.natalian.org/">picture collection</a> !!<br />
+I am adding some new features into my <a href="http://trac.natalian.org/browser/projects/pictures/">gallery system.</a> I think I will release it as a Debian package, if I can think of a good name for it.</p>

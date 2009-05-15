@@ -1,0 +1,15 @@
+[[!meta title="Reload?" ]]
+[[!meta date="2004-02-26 19:12:24" ]]
+<p>I lost about 5 minutes of work. Ok, for you it may not seem like a lot. But for me, five minutes of manic inspired typing franky IS. :)</p>
+
+<p>How did it happen?</p>
+
+<p>I save every now and then manually when I write something. Automated backups suck, because every now and then they make your session grind to a halt. This is generally not really a problem, but when you working on a <span class="caps">NFS</span> under high load which I tend to do at school, then it is.</p>
+
+<p>I absolutely despise .bak files. They litter directories, and when I look for something in there, I usually can&#8217;t find it, or how trouble figuring out if I want to revert or copy bits from it. Hence, I disable them altogether.</p>
+
+<p>Now I made a script to commit to my repositry all the changes I have made in my word directories at 8am and 6pm.</p>
+
+<p>Just after 6pm today I was greeted with a message saying, the file has been modified, reload (y/n)? Of course I am so used to seeing this message in the past from running !svn commit from vim that I hit yes and lost my previous 5 minutes of work.</p>
+
+<p>Now its been much more than that in lost productivity as I have been lamenting&#8230;</p>

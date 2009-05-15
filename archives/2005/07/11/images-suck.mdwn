@@ -1,0 +1,17 @@
+[[!meta title="Images suck" ]]
+[[!meta date="2005-07-11 14:30:10" ]]
+<p>(Re-)Discovered a <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=61667">TZ conversion bug in coreutil&#8217;s date</a> late last night.</p>
+
+<p>Really didn&#8217;t expect bugs in shell tools like date.</p>
+
+<p>I could work around it adjusting the epoch with date +%z but that would be an awful hack.</p>
+
+<p>Sadly, I have been <a href="http://trac.natalian.org/browser/projects/pik">writing scripts</a> for handling my pictures again and again. All because EXIFs are <span class="caps">FECKED</span> up with by dates by the camera and then by my favourite image viewer <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=317601">feh.</a> And then screenshots etc. don&#8217;t have <span class="caps">EXIF</span>. narf.</p>
+
+<p><strong>Time is the most important attribute for data.</strong></p>
+
+<p>All the digital images that are taken are going to be very hard to manage without proper dates. The Y2K problem is a joke compared to this <span class="caps">IMO</span>.</p>
+
+<p>While we&#8217;re here, how about <a href="http://natalian.org/archives/2005/01/21/images/">scalable images?</a></p>
+
+<p>I&#8217;ve had this feeling before. If something isn&#8217;t designed right from the start, an exponential amount of problems result.</p>

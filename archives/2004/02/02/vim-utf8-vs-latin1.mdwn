@@ -1,0 +1,27 @@
+[[!meta title="Vim utf8 vs latin1" ]]
+[[!meta date="2004-02-09 11:10:45" ]]
+<p>In a Unicode Terminal (uxterm) I first created a file, where encoding was utf8 (for input), and fileencoding was latin1. This works. However if you re-read the file, you will get a conversion error. Wrong.</p>
+
+<p>In uxterm, a new file with encoding latin1 set results in a strange leading space being printed after inputing öäå. Now setting fileencoding as latin1 too, vim(version 6.1)  saves results in as a utf8 file. Er, wrong.</p>
+
+<p>Now in Konsole(1.1.3) which touts a Unicode font, but not actual unicode support. I create a file. <br />
+vim: encoding=latin1 fileencoding=utf8</p>
+
+<p>It actually takes the proper latin1 input and writes utf8 correctly for troublesome characters like äöå.</p>
+
+<p>Again re-editing the file, the back conversion to latin1 I/O does not happen. So you get garbage displayed for non-ascii characters.</p>
+
+<p>So what&#8217;s the point here? It is quite easy to write in an encoding different to that of your input, but not to read it again.</p>
+
+<p>At work in Finland I was trying to implement a policy on webpage encodings to be set as Unicode. As not everyone uses a terminal which supports Unicode, or an editor for that matter. It simply will not work out. :/ Don&#8217;t get burnt!</p>
+
+<p>For vim users not cottoned onto this Unicode thing, I suggest you stick with latin1(iso-8859&#8211;1) defaults.</p>
+
+<strong>First step is to start using a terminal which supports Unicode like uxterm for something like mail. </strong>
+
+<strong>Once you are comfortable with this, you will need wait until this becomes the default with all your collegues. </strong>
+
+<p>Then, only then you can explicitly afford to set in a collaborative environment:<br />
+vim: encoding=utf8</p>
+
+<p>Beware of the issues. There are core tools like <span class="caps">BASH</span> you use everyday which typically do not support Unicode.</p>

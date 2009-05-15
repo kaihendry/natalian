@@ -1,0 +1,33 @@
+[[!meta title="Researching" ]]
+[[!meta date="2004-04-01 11:13:07" ]]
+<p>I am quite pissed off about researching.</p>
+
+<p>First you basically either have to access <a href="http://www.ieee.org/"><span class="caps">IEEE</span></a> or <a href="http://www.acm.org/"><span class="caps">ACM</span></a>. Some sections of <span class="caps">IEEE</span> are restricted for the Finnish Consortium which paid for access. I don&#8217;t know which, and I absolutely <span class="caps">HATE</span> being greeted with a user login when I am browsing their pages.</p>
+
+<p>Ok, so I use <span class="caps">ACM</span> which works for the most part. Forget <a href="http://citeseer.ist.psu.edu/">citeseer</a>. Citeseer is a joke.</p>
+
+<p>The <span class="caps">ACM</span> &#8220;Digital Library&#8221; search is quite clear. Useful downloads at the bottom are a tad annoying.</p>
+
+<p>Ok now once you&#8217;ve found an article, here is where the fun starts. <a href="http://www.useit.com/alertbox/20030714.html"><span class="caps">PDF</span> seems to be format of choice. Completely breaking the web experience. </a></p>
+
+<p>Ok there is an abstract, but usually I want to glance over the whole paper as terminology used in papers can mean anything. For example context aware could mean the characteristics of the device or the environment it&#8217;s in or something about you or any combination. <span class="caps">WAP</span> nowadays could mean <span class="caps">XHTML</span>, and the list goes on.</p>
+
+<p>Now what a miserable experience <span class="caps">PDF</span> reading is in my setup. I am using <a href="http://mozplugger.mozdev.org/">Mozplugger</a> and <a href="http://wwwthep.physik.uni-mainz.de/~plass/gv/">gv</a> to read the pdfs. Sometime I can read them on screen, but often the fonts are absolutely unreadable!</p>
+
+<p>Ok, I can print for free. So lets do that then. I am browsing about on interesting articles and sending them to my nearest printer, which I had to figure out was &#8220;ps8&#8221;. After sending several papers to the queue and of course closing the heavy article summary and numerous gv mozplugger sessions, I go to the printer. Printer has a paper jam.</p>
+
+<p>Please open top tray.</p>
+
+<p>Please open tray 2. And on and on. OH <span class="caps">FFS</span>.</p>
+
+<p>All my papers! My research! Can I switch the queued print jobs to another printer? No&#8230;</p>
+
+<p>So right now I am praying that staff have fixed the printer and it processed my print jobs. Update: They did btw, and when I went to collect the papers, I accidently took someone else&#8217;s paper and had to go back and return it (waste more time).</p>
+
+<p>Ok, for the meantime I&#8217;ll use another printer on the opposite side of the building. This time after sending a print job, I walk all the way over there to check it has come out.</p>
+
+<p>Another problem, journal papers often have strange layout formats that don&#8217;t quite fit on A4. So my print out has a third of the bottom of each page missing. OH <span class="caps">FFS</span>.</p>
+
+<p>Ok, if everything does go well and I am not interrupted by some collegue while travelling up and down the corridor, I now try find a stapler. I need quite a big industrial one as the small staplers are generally pathetic. So I enter one of the work rooms in the department, find a stapler and press down on the wad of A4 papers I have. No staples. Great.</p>
+
+<p>I&#8217;ll look back on these days and laugh.</p>

@@ -1,0 +1,21 @@
+[[!meta title="OpenID on mobiles" ]]
+[[!meta date="2007-08-08 17:21:10" ]]
+<p>So I run an <a href="http://openidenabled.com/">openID enabled</a> wiki site based on the excellent <a href="http://ikiwiki.info/">ikiwiki software</a> called <a href="http://webconverger.org/">webconverger.org</a>. So how do they work with the mobile browsers on my <a href="http://flickr.com/photos/hendry/1043176229/">ageing</a> <a href="http://natalian.org/archives/2007/05/15/nokia-e65-from-3/">Nokia E65</a>?</p>
+
+<a href="http://www.flickr.com/photos/hendry/1044032900/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1384/1044032900_86352f53ce.jpg" width="375" height="500" alt="Cert check on Nokia Web browser" /></a>
+
+<p>I have four browsers on my mobile and they all <strong>worked</strong> with myopenid.com:<br />
+# <a href="http://flickr.com/photos/hendry/1044025918/in/set-72157601290313227/">Mozilla/4.0 (compatible; <span class="caps">MSIE</span> 6.0; Symbian OS; Series 60/0633.18.02; 9730) Opera 8.65 [en]</a><br />
+# Opera/8.01 (J2ME/MIDP; Opera Mini/3.1.7196/1684; en; U; ssr) &#8211; Opera Mini 3<br />
+# Opera/9.50 (J2ME/MIDP; Opera Mini/4.0.8462/20; U; en) &#8211; Opera Mini 4 beta<br />
+# SymbianOS/9.1; U; en-us) AppleWebKit/413 (KHTML, like Gecko) Safari/413 es65 &#8211; <a href="http://en.wikipedia.org/wiki/Web_Browser_for_S60">Nokia &#8216;Web&#8217; Browser</a></p>
+
+<p>1&amp;4 incidentally asked for confirmation with the myopenid.com&#8217;s certificate.</p>
+
+<p>I think there is an usability bug by having to type in one&#8217;s openid url, as none of the browsers seem to cache previous form fills for quick auto completion. Also it would be nice if I could have some sort of shortcut to submit the form like [Enter] does on my desktop browser.</p>
+
+<p>For example my openid <span class="caps">URL</span> is <a href="http://hendry.myopenid.com/">http://hendry.myopenid.com/</a>, an insane 27 characters to key in. hendry.myopenid.com alone would be 19 characters and should also work. However you could use the <a href="https://www.myopenid.com/help#own_domain">open id delegate trick</a> and hopefully you have access to a really short domain name. I use the trick on natalian.org (see the <span class="caps">HTML</span> header source of this blog) and hence it&#8217;s 12 characters to type in&#8230;</p>
+
+<p>Once logged in and the cookie session magic is are all there, OpenID is a dream. However I am wondering how the <span class="caps">SIM</span> or hardware of the mobile phone could perhaps skip the step of entering the password in and make it more secure. I assume the mobile browser needs some sort of interface to the <span class="caps">SIM</span>. I wonder how to realise this.</p>
+
+<p>Do check out the <a href="http://www.flickr.com/photos/hendry/sets/72157601290313227/">screenshots I took of my testing session</a>.</p>

@@ -1,0 +1,15 @@
+[[!meta title="Searching mailman archives is such a disaster" ]]
+[[!meta date="2007-11-12 13:54:16" ]]
+<a href="https://list.opera.com/mailman/mmsearch/opera-linux">One</a>
+
+<a href="http://www.flickr.com/photos/hendry/1983421097/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2189/1983421097_592572bfc6_o.png" width="977" height="182" alt="Step 1" /></a>
+
+<a href="http://www.google.co.uk/search?hl=en&amp;q=GDB+plugin+site%3Alist.opera.com&amp;btnG=Google+Search&amp;meta=">Two</a>
+
+<a href="http://www.flickr.com/photos/hendry/1983422129/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2243/1983422129_09a4b00bc7.jpg" width="500" height="482" alt="Step 2" /></a>
+
+<a href="http://64.233.183.104/search?q=cache:36ixuiEfW_AJ:list.opera.com/pipermail/opera-linux/2005-August.txt.gz+GDB+plugin+site:list.opera.com&amp;hl=en&amp;ct=clnk&amp;cd=2&amp;gl=uk">Three</a>
+
+<a href="http://www.flickr.com/photos/hendry/1983423705/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2294/1983423705_901f0a154e.jpg" width="500" height="174" alt="Step 3" /></a>
+
+<p>I blame <span class="caps">GOOGLE</span>.</p>

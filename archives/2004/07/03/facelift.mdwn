@@ -1,0 +1,18 @@
+[[!meta title="Facelift" ]]
+[[!meta date="2004-07-05 21:40:03" ]]
+<p>Nokia seem to have changed their <a href="http://ncsp.forum.nokia.com/content/">content syndication interface</a>.</p>
+
+<p>I can tell as I am subscribed to their browser feed, and I had to wonder when I saw &#8220;testi_file.pfg&#8221;, &#8220;document1&#8221; and &#8220;Test by Satama&#8221; posts in my <a href="http://www.aaronsw.com/2002/rss2email/">aggregator</a>.</p>
+
+<p>It seems to now have a form based interface that produces crufty URLs. It&#8217;s easier to browse than try to unlock information behind a form. They could of made it <a href="http://diveintomark.org/archives/2004/05/02/user-friendly-feeds">friendlier</a>. There is a charming senseless footer, &#8220;This service is provided for personal use only, unless authorized by Nokia&#8221;.</p>
+
+<p>They have also changed <a href="http://www.forum.nokia.com/main.html">Forum Nokia</a> a little earlier. A mere facelift and now&#8230; fucking flash if you are stupid enough to have it installed. There search is still absolutely abysmal. I really hate when things change but don&#8217;t get better.</p>
+
+<p>Yesterday I had my hands on a Japanese phone. It&#8217;s not Docomo. It&#8217;s the other service, can&#8217;t remember the name. I couldn&#8217;t really <a href="http://www.hixie.ch/tests/">test the browser functionality</a>, but I can tell you the screen is <strong>so much better</strong> than Nokia&#8217;s. Not only are they much clearer, they are also really fast and responsive. Those flip phones rule!</p>
+
+<p>Today I played with <a href="http://ajt.iki.fi/">Arto</a>&#8216;s <a href="http://www.dynamism.com/zaurus/index.shtml">Sharp Zaurus</a>. Wow! I want one. It has a surprisingly clear 640&#215;480 screen. I think it would be especially handy since I travel a lot. It runs firefox, but slowly. Thumb typing is a little strange and there was quite a odd key combination for my favourite key, escape.</p>
+
+<a href="http://ajt.iki.fi/temp/debian-sauna-2004-07-03/img_6449_medium.jpg">
+<img src="http://ajt.iki.fi/temp/debian-sauna-2004-07-03/img_6449_small.jpg" width="192" height="256" alt="Sharp Zaurus with Nokia 3100" /></a>
+
+<p>Unfortunatly in the above picture <span class="caps">DNA</span>&#8216;s <span class="caps">GPRS</span> service failed so I couldn&#8217;t compare the UA on my <a href="http://fortune.dabase.com/">fortune</a> page.</p>

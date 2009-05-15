@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Antoine"
+ subject="193.109.72.26"
+ date="2007-05-02 07:47:08"
+ content="""
+<p>Some D-link routers have an issue with the linux IPv6 stack whose symptoms matche yours if I recall my own experience correctly. It&#8217;s either you disable it (the linux ipv6), upgrade the firmware or hardcode the <span class="caps">DNS</span> like you did.</p>
+"""]]

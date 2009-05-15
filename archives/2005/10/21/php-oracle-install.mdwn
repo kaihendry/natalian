@@ -1,0 +1,37 @@
+[[!meta title="PHP Oracle install" ]]
+[[!meta date="2007-01-30 09:16:34" ]]
+<a href="http://www.flickr.com/photos/hendry/55483761/" title="Photo Sharing"><img src="http://static.flickr.com/26/55483761_4ea48d9b94.jpg" width="500" height="387" alt="Oracle and PHP" /></a>
+
+<p>Today I was asked to make a report from an Oracle database.</p>
+
+<p>I thought this would be a good time to test <span class="caps">PHP</span> with Oracle. I&#8217;m sure there are some Oracle reporting tools and I&#8217;m positive they suck.</p>
+
+<p>Hmmm <a href="http://php.mirrors.ilisys.com.au/manual/en/ref.oracle.php">php.net reports that oracle functions are deprecated&#8230;</a> I&#8217;ll Google. This <a href="http://www.orafaq.com/faqphp.htm#MODS">Oracle Faq</a> tells me I need <a href="http://php.net/manual/en/ref.oci8.php">Oracle Call-Interface functions.</a></p>
+
+<p>So I snag  <a href="http://download.oracle.com/otn/linux/instantclient/instantclient-basic-linux32-10.2.0.1-20050713.zip">instantclient-basic-linux32&#8211;10.2.0.1&#8211;20050713.zip</a> weighing in at just 33 megs. That&#8217;s a slim package from Oracle. I wonder if that version works only with a specific version of 10g or any? Oh well, Oracle are not giving me any clues.</p>
+
+<p>After navigating about umpteen pages I then have to log in. I try my <a href="http://metalink.oracle.com/">metalink</a> account and guess what? It doesn&#8217;t work. Off to <a href="http://bugmenot.com/view.php?url=https%3A%2F%2Fprofile.oracle.com%2Fjsp%2Frealms%2FotnLogin.jsp%3FremoteIp%3D61.9.136.168%26globalId%3D%26redirectUrl%3Dhttp%253a%252f%252fdownload-west.oracle.com%253a80%252fotn%252flinux%252finstantclient%252finstantclient-basic-linux32-10.2.0.1-20050713.zip">Bugmenot</a> for some sanity. Oracle&#8217;s disclaimer is awful to attempt to read. I just check the boxes and download&#8230;</p>
+
+<p>Sadly to my WinXP workstation as there isn&#8217;t a unique download <span class="caps">URL</span> for me to plug into wget in my putty session. Oracle you idiots. Though, I recall Sun being just as dumb. I now boot up WinSCP and transfer it to my Debian machine.</p>
+
+<p>So I unzip the beast:<br />
+<pre><br />
+Archive:  instantclient-basic-linux32&#8211;10.2.0.1&#8211;20050713.zip<br />
+  inflating: instantclient_10_2/classes12.jar<br />
+  inflating: instantclient_10_2/libclntsh.so.10.1<br />
+  inflating: instantclient_10_2/libnnz10.so<br />
+  inflating: instantclient_10_2/libocci.so.10.1<br />
+  inflating: instantclient_10_2/libociei.so<br />
+  inflating: instantclient_10_2/libocijdbc10.so<br />
+  inflating: instantclient_10_2/ojdbc14.jar<br />
+</pre></p>
+
+<p>Grrr, is this really for <span class="caps">PHP</span>? Where is a nice little <span class="caps">TEXT</span> file to read?</p>
+
+<p>Google. Google some more. Time passes. Check email. Google. Holy Shit. Do I have to <a href="http://www.akadia.com/services/ora_php_solaris.html">recompile Apache?</a></p>
+
+<p>Nah, can&#8217;t be. Can&#8217;t be&#8230; Maybe there is a <strong>php_oci8.so</strong> I could reference in like MySQL in the php.ini. There does seem to be a <a href="http://www.grape-info.com/doc/win2000srv/iis/apache2+php.html">.dll for windows.</a> Grrr&#8230;. Nothing. Maybe PHP5? No, these guys say <a href="http://www.tinysofa.org/documentation/index.cgi?PhpOci8">stick with php4 with oracle.</a></p>
+
+<p>Oh here&#8217;s something. I love <a href="http://www.php.net/manual/en/ref.oci8.php#44574">php.net&#8217;s comments.</a></p>
+
+<p>Maybe just a <span class="caps">PHP</span> recompile. Argh&#8230;  After reading the comments, Oracle seems such a nightmare to install. I wonder what glibc these instant clients are built against. I wonder if the instant client package is enough. I am going to cry now and come back to this.</p>

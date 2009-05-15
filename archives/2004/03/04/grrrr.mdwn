@@ -1,0 +1,17 @@
+[[!meta title="GRRRR!!" ]]
+[[!meta date="2004-03-04 18:41:49" ]]
+<p>Sometime after<br />
+<pre>Mar  2 12:32:46 bilbo&#8212;<span class="caps">MARK</span>&#8212;</pre><br />
+There was a power outage in the Helsinki area. I have been told it was small, but it was enough to set my machine to reboot. Btw I was on a boat in the Baltic sea at that time. :)</p>
+
+<a href="/pictures/2004/03/01/DCP_8039.JPG"><img alt="riga" src="/thumb/2004/03/01/DCP_8039.JPG" /></a>
+
+<p>I have set my <span class="caps">BIOS</span> to restart the machine in these situations. I think typical defaults on modern machines, don&#8217;t let the machine restart with a power cycle. My <a href="http://www.pannuhuone.org/">host</a> unfortunately don&#8217;t do any <span class="caps">UPS</span> services. I guess I can never count on my uptime reaching rediculous levels at this stage.</p>
+
+<p>I have tested that it reboots at the host before. Of course I did. So what went wrong?</p>
+
+<p>I modified my <strong>/etc/network/interfaces</strong> after a <a href="http://www.cs.helsinki.fi/u/saarto/">collegue</a> quite rightly pointed out that my machine does not return pings. It really should. So he gave me this line to throw in the file:<br />
+<pre><br />
+pre-up iptables -I block -i eth0 -p icmp&#8212;icmp-type echo-request&#8212;limit 5/s -j <span class="caps">ACCEPT</span><br />
+</pre><br />
+Unfortunately with this line in the interfaces, the interface just does not come up. Without it, it&#8217;s fine. There must be some bug here, which I will find and <span class="caps">KILL</span> with great vengeance.</p>

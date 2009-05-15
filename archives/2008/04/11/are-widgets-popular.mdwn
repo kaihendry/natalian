@@ -1,0 +1,26 @@
+[[!meta title="Are widgets popular?" ]]
+[[!meta date="2008-04-11 16:15:47" ]]
+<a href="http://weblogs.mozillazine.org/roadmap/archives/2008/04/popularity.html">Javascript is popular</a>, but are <a href="http://www.w3.org/TR/widgets/">widgets</a>? We're well into 2008 now and 2007 was the year of the widget. ;)
+
+<p>I&#8217;ve been looking into <a href="http://en.wikipedia.org/wiki/Web_widget">widgets</a> as they are defined by <a href="http://dev.opera.com/articles/view/opera-widgets-specification-1-0/">Opera</a> and contributed to the <a href="http://www.w3.org/TR/widgets/">W3C</a>.</p>
+
+<p>I believe widgets originally came from <a href="http://en.wikipedia.org/wiki/Apple_Dashboard">Apple dashboard</a>. I personally don&#8217;t like it, though then again I don&#8217;t like MacOSX. <a href="http://debian.org/">Debian</a> &amp; <a href="http://www.suckless.org/wiki/dwm">dwm</a> are much better. :)</p>
+
+<p>So I tried some random widgets in Opera 9.27 yesterday and a couple of elements of the widgets struck me. The <strong>manage widgets</strong> didn&#8217;t divulge any security information and it&#8217;s kinda basic:</p>
+
+<a href="http://www.flickr.com/photos/hendry/2404559911/" title="Manage Opera widgets 9.27 by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3076/2404559911_93fe1d3dd5_m.jpg" width="240" height="164" alt="Manage Opera widgets 9.27" /></a>
+
+<p>The next thing I worried about was since widgets are often touted in the sense of mobiles and scalability with <span class="caps">SVG</span>&#8230; doesn&#8217;t the fixed dimension properties of widgets kill that argument? I looked at the sources of a couple of widgets and the config.xml generally defines a widget&#8217;s width &amp; height and generally the <span class="caps">SVG</span> graphics that go with it do too. I can&#8217;t figure out how to change widget size (scale!) on my desktop machine&#8217;s desktop. A difference between Widget&amp;Web applcations is the viewport and I much prefer Web applications in a fullscreen tabbed environment. Floating windows is soo&#8230; Windows.</p>
+
+<p>Anyway, the widget experience on mobile devices is probably better.<br />
+<a href="http://martinjsmith.blogspot.com/2008/04/opera-mini-41-beta-video-view.html">Opera mini by observation is Opera&#8217;s most popular mobile product</a>. However since it&#8217;s Java <span class="caps">MIDP</span> based, it can&#8217;t run widgets on the mobile&#8217;s &#8220;desktop&#8221;. Doh. In fact anything Java I&#8217;ve discounted for this reason.</p>
+
+<p>What about <a href="http://www.opera.com/products/mobile/">Opera Mobile</a> then? Shurrely that has widget support? <strong>No</strong> it doesn&#8217;t on Windows Mobile 6 or the S60 in my test. Oh no, this isn&#8217;t looking good.</p>
+
+<a href="http://www.flickr.com/photos/hendry/2404602553/" title="Widgets &amp; Nokia by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2248/2404602553_174d26558c_m.jpg" width="177" height="240" alt="Widgets &amp; Nokia" /></a>
+
+<p>Ok, there must be another widget implementation! The <a href="http://www.s60.com/business/whatss60/enablingtechnologies/webruntime">Nokia Web runtime</a> for example. &#8220;Unleashing the power of the Web with Widgets&#8221; the headline on Nokia&#8217;s page reassuringly says. Then it links the <a href="http://en.wikipedia.org/wiki/Web_Browser_for_S60">dead WebKit S60 port</a>. Ummm&#8230; ok. I never tried widgets in this browser. Lets give application/x-gadget or even application/x-opera-widgets a try. Unsurprisingly widget support by Nokia does not work on my <a href="http://natalian.org/archives/2008/04/02/threes-unfair-lockup/">Three E65 device</a>. I did find a <a href="http://www.s60.com/pics/pdf/PortingWidgetstoS60.pdf">porting guide</a>, but I can&#8217;t find the Web runtime. <span class="caps">WTF</span> is it?</p>
+
+<p>Update: You need an <a href="http://www.allaboutsymbian.com/news/item/6501_The_Nokia_N95_8GB_hits_v15_fir.php">N95 8G with Nokia Feature Pack 2 to unleash widgets on Nokia</a>. Unfortunately my collegue&#8217;s brand new N95 from Germany does not have FP2 installed. Goddam, upgrading Nokias requires Windows, time and an ability to endure pain. I suspect it&#8217;s even harder to upgrade if you have an N95 with Vodafone Live! branding, like it is with my <a href="http://natalian.org/archives/2008/04/02/threes-unfair-lockup/">Three E65 device</a>.</p>
+
+<p>So are the state of widgets really this bad? Or have I missed something? If we cut the hype, we should just call them (<a href="http://www.whatwg.org/specs/web-apps/current-work/#offline">Offline</a>) Web applications, in the near future.</p>

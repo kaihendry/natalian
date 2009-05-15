@@ -1,0 +1,24 @@
+[[!meta title="fsck" ]]
+[[!meta date="2006-12-23 08:17:40" ]]
+<p>My sister&#8217;s T30 running Ubuntu dapper that I gave her is experiencing some sort of problem with the hard drive.</p>
+
+<p>I <a href="http://thinkwiki.org/wiki/Harddrive_Upgrade">upgraded</a> the hard drive less than a year ago. So I am a little dismayed as it is well within its 4 year guarantee.</p>
+
+<p>First I expected to fsck from when Ubuntu&#8217;s startup bombed out with its instructions. Instructions that could not work, because the problem is with the root partition where fsck and other utilities live.</p>
+
+<p>Next I get out a Ubuntu alternate CD out and boot it up. Unfortunately when I used rescue mode I could not manage to run fsck on the drive. Useless.</p>
+
+<p>Next I booted from a <span class="caps">USB</span> hard drive I have. I managed to boot the kernel from the <span class="caps">USB</span>, but I could not manage boot the rest of the system from the <span class="caps">USB</span> hard drive.</p>
+
+<p>Next I found a dusty copy of Knoppix from May 2004 and booted the system. Great. Now I run fsck on /dev/hda1 and it asks for prompts that some illegal blocks on inode 8 need to be cleared. Then inode 8 itself needs clearing. Ummmm&#8230; ok. I wish I didn&#8217;t prompt me and just fixed everything. So there I am pressing yes to bloody well fix it.<br />
+Then it restarts itself and again the <strong>same problem</strong> with inode 8, though this time with different blocks. Oh no. What to do?</p>
+
+<p>I decided to copy and paste the text and upload the output somewhere to show someone. Ah, unfortunately the wavelan configuration of this version of Knoppix does not seem to support the cisco aironet device. How odd.</p>
+
+<p>Hours later I am downloading Ubuntu 6.10 desktop CD and see if I can fix things from their demo mode. Ok, the same problem as with the Knoppix CD. <span class="caps">UNEXPECTED</span> <span class="caps">INCONSISTENCY</span>. This manual loop of clearing illegal blocks is getting nowhere. Dead hard drive?</p>
+
+<p>Ok, I have since discovered /home is on /dev/hda6 which is fine after fsck. Though /dev/hda1 seems to have serious issues. So if one partition is alright and the other isn&#8217;t&#8230; then is the hard drive really defective? Ummm, wondering is there some some &#8220;memtest86&#8221; for hard drives.</p>
+
+<p>With the <a href="http://www.dcglug.org.uk/archive/2006/12/msg00431.html">help of my local user group <span class="caps">DCGLUG</span></a>, I have been pointed to &#8220;badblocks&#8221;. After a full scan nothing has shown up. I&#8217;ve also now fixed all the problems with /dev/hda1 with fsck -y, though boot files are damaged. So right now I conducting an install with Ubuntu 6.10 and praying it does not b0rk the existing /home on /dev/hda6&#8230;</p>
+
+<p>Seems to be working! Had to chown -R 1000:1000 on the old home directory from console as it would not log in otherwise. Now I have to install all those silly proprietary codecs my sister requires to listen to music and watch movies&#8230;</p>

@@ -1,0 +1,29 @@
+
+[[!_comment format=mdwn
+ username="Tom Pike"
+ subject="83.170.131.245"
+ date="2004-09-03 14:44:37"
+ content="""
+<p>Several valid points, but:</p>
+
+<p>> The console is a joke (no resize, autocompletion)<br />
+It can be resized and you can enable autocompletion through TweakUI</p>
+
+<p>> The pwd, <span class="caps">WHAT</span> <span class="caps">THS</span> <span class="caps">HELL</span>? C:Documents and SettingsMr Hendry.PRAZE-XE93FLBWBMy Documents<br />
+Can happen if you reinstall over the top of an existing installation.  Normally profile paths are sensible.</p>
+
+<p>> Start menu in XP. <span class="caps">WTF</span>?<br />
+Right-click taskbar, properties.  Switch to classic start menu</p>
+
+<p>> The search in XP with stupid dog that reads a book. <span class="caps">OMG</span> What a fuck up.<br />
+Disablable in TweakUI</p>
+
+<p>> Cluttered desktop with icons.<br />
+Oh for pity&#8217;s sake, delete them&#8230; (ones that can&#8217;t be deleted eg. My Computer can be disabled in TweakUI, though probably not a good idea)</p>
+
+<p>> Please reboot for these changes to take affect. Sigh<br />
+At least it doesn&#8217;t happen every time you change your network settings :)  Ah, good old Win98</p>
+
+<p>> I don’t like the font as much as I imagined I would<br />
+Then change it dear Hendry&#8230;</p>
+"""]]

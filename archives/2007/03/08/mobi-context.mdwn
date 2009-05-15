@@ -1,0 +1,70 @@
+[[!meta title="mobile context" ]]
+[[!meta date="2007-03-08 11:56:25" ]]
+<a href="http://natalian.org/archives/2007/03/06/w3c-drops-the-mobile/">Yesterday I mentioned I traded some emails with the CTO of the .mobi</a> email. Here is the last email of the discussion. My reply is in full, though it might lack a little *context*. ;) James is arguing that the .mobi TLD provides context. I disagree, read on:
+
+<pre>
+On 2007-03-06T10:25-0500 James G Pearce wrote:
+> 1) I expect softdrink.com to provide me with information about the
+> softdrink company (chairman's statements, history of the company,
+> financial reports, press packs, how-to-be-a-reseller etc).
+> 2) I expect softdrink.mobi to tell me where the nearest vending machine
+> is. Nothing more.
+
+<p>When I go to any page with any device I want to presented with what I am<br />
+looking for straight away, right? Unfortunately nothing works that way!</p>
+
+<p>This why we have navigation mechanisms such as search and more recently<br />
+things like online bookmarks, maps and tagging.</p>
+
+<p>> 2) I expect luxurycar.mobi to tell me what that red flashing light<br />
+> means, and where the nearest service centre is. Nothing more.</p>
+
+<p>That&#8217;s more than a mobile context. You need a special context for that<br />
+red flashing light. Perhaps a .breakdown <span class="caps">TLD</span> is required? ;)</p>
+
+<p>> What sort of user-agent is smart enough to turn 1) into 2) for those two<br />
+> simple examples?</p>
+
+<p>Many UAs have integrated search nowadays. That&#8217;s a start.</p>
+
+<p>> If Opera could convert web pages on the fly from German to English,<br />
+> would I buy all my goods from <a href="http://amazon.de">http://amazon.de</a>? No, of course not. I<br />
+> could choose to, but not by default. I want to &#8220;tell&#8221; Amazon that I&#8217;m in<br />
+> the UK, right? Since the pricing, products and deliveries suit my<br />
+> geographical context.</p>
+
+<p>Well strictly speaking there is no need for amazon.de. They could filter<br />
+by lang markup (which is usually wrong mind) or more commonly IP.<br />
+Actually geo-IP sucks if you live in the UK and use satellite internet<br />
+from Italy, but I digress. Many Website have a sensible <span class="caps">URL</span> structure<br />
+like apple.com/uk or uk.someservice.com. Buying a <span class="caps">TLD</span> for each country<br />
+you do business in, is quite well established to be silly with the<br />
+clueful.</p>
+
+<p>> (I know you know this &#8211; after all, you have a .fi <span class="caps">TLD</span> web site.<br />
+> Something, presumably, you have chosen in order to show allegience to<br />
+> the Finnish context.)</p>
+
+<p>iki.fi provide a good email redirection service. I have no allegiance to<br />
+the Finnish context I am afraid.</p>
+
+<p>> But thousands of people do. By catalysing the mobile web, we can make<br />
+> the whole industry/ecosystem thrive. Since you have a passion for the<br />
+> medium, I assume you yourself will be pleased if we succeed.</p>
+
+<p>That&#8217;s like arguing that I would like to have seen <span class="caps">WAP</span> succeed. I want<br />
+to see the right technology succeed.</p>
+
+<p>> If we don&#8217;t, it a) won&#8217;t be because we didn&#8217;t try, and b) because market<br />
+> forces have dictated that we were wrong. Fair enough. No-one&#8217;s going to<br />
+> die.</p>
+
+<p>No one might die, though a lot of energy can and will be mis-spent in<br />
+the .mobi domain. Precious man years. :)<br />
+</pre></p>
+
+<p>I hope that&#8217;s clear why I don&#8217;t think &#8220;context&#8221; should be provided by TLDs. It&#8217;s a poor argument though it would actually be a good situation if .mobi was just about &#8220;context&#8221;. The big problem is that it encourages device dependent Web pages. The discussion actually started when I commented directly to ready.mobi that ready.mobi doesn&#8217;t work in ready.mobi. They recommended I try a special mobile version <a href="http://ready.mobi/m">http://ready.mobi/m</a> which will be served in future once it detects a mobile device.</p>
+
+<p><strong>NO</strong>. Device dependent content and delivery is not on. It is extremely difficult to detect capabilities of a device and is it redundant for Web content creators to maintain different device dependent Web pages of essentially the same resource.</p>
+
+<p>I&#8217;m for a device independent Web, a united Web, free of device discrimination.</p>

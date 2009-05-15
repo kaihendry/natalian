@@ -1,0 +1,13 @@
+[[!meta title="Forging signatures" ]]
+[[!meta date="2004-08-26 17:52:40" ]]
+<p>Sometime ago I thought I would just sign my signature for debit card use at stores with an X. I have been doing this for months now. No one has ever complained. Oh well, we&#8217;re in Finland.</p>
+
+<p>Today, I got a new Debit card as my last one was about to fall apart. Only the better card readers were able to take it.</p>
+
+<p>So I peel a brand new Visa electron from this piece of paper that&#8217;s signed by some representive of my bank, Sampo.</p>
+
+<img src="http://pictures.natalian.org/kodak/2004/aug/26/17:30:41/440x292" alt="A forged signature" />
+
+<p>But there is no way someone would sign something like this and staring at the signature from the bank&#8230; it must have be printed by a good printer. There is no impression on the paper from the back. The paper is quite thick, but the pen used looks like a fountain pen. Even with a soft fineliner I can just pick out an impression. How ironic if this is true. A forged signature from a bank.</p>
+
+<p>Urgh, don&#8217;t get me started with PINs. I&#8217;ve started entering them in my mobile phone with a bit of modulo and plausible prefixes.</p>

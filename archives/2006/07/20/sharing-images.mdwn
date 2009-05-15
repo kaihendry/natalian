@@ -1,0 +1,27 @@
+[[!meta title="Sharing images" ]]
+[[!meta date="2006-07-23 02:16:30" ]]
+<a href="http://www.flickr.com/photos/hendry/189880397/" title="Photo Sharing"><img src="http://static.flickr.com/52/189880397_7e21dea08d_m.jpg" width="240" height="180" alt="Stone daggers" /></a>
+
+<p>The most rewarding moments online for me is when someone uses my work. In the case of images, to aid this process I&#8217;ve licensed my images as <a href="http://creativecommons.org/licenses/by/2.5/">liberally as possible</a> with <a href="http://www.flickr.com/photos/hendry/">Flickr</a>.</p>
+
+<a href="http://www.flickr.com/photos/hendry/189880407/" title="Photo Sharing"><img src="http://static.flickr.com/55/189880407_5e4a8a44ce_m.jpg" width="240" height="180" alt="Bronze age dagger" /></a>
+
+<p>Last week a <a href="http://en.wikipedia.org/wiki/Main_Page">Wikipedia</a> <a href="http://en.wikipedia.org/w/index.php?title=Special:Contributions&amp;target=Tortfeasor">contributor</a> contacted me about some pictures I took of <a href="http://en.wikipedia.org/wiki/Royal_Tombs_of_the_Joseon_Dynasty">King Sejong the Great of Joseon&#8217;s grave.</a> He encouraged me to visit more museums and take more pictures for Wikipedia articles of Korean history featuring the Three kingdoms era. I did just that last weekend and I must say I&#8217;ve never so enthusiastically visited a museum before. Not only did I take a bunch of pictures of various artifacts, I learnt far more than usual and I even took notes. Wow.</p>
+
+<p>Here is a small sample of the images that have been used by Wikipedia:</p>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Seven-Branched_Sword"><a href="http://en.wikipedia.org/wiki/Seven-Branched_Sword">http://en.wikipedia.org/wiki/Seven-Branched_Sword</a></a></li>
+<li><a href="http://en.wikipedia.org/wiki/Tomb_of_King_Muryeong"><a href="http://en.wikipedia.org/wiki/Tomb_of_King_Muryeong">http://en.wikipedia.org/wiki/Tomb_of_King_Muryeong</a><a/></li>
+<li><a href="http://commons.wikimedia.org/wiki/Image:Sejong_tomb_1.jpg"><a href="http://commons.wikimedia.org/wiki/Image:Sejong_tomb_1.jpg">http://commons.wikimedia.org/wiki/Image:Sejong_tomb_1.jpg</a></a></li>
+</ul>
+
+<p>Now I wish this <a href="http://hsivonen.iki.fi/online-photos/">process was a little better.</a></p>
+
+<p>If the Wikipedia contributor didn&#8217;t mail me, how would I know he used my pictures?</p>
+
+<a href="http://www.flickr.com/photos/hendry/189880411/" title="Photo Sharing"><img src="http://static.flickr.com/73/189880411_9bb12a1977_m.jpg" width="240" height="180" alt="Early Iron age dagger" /></a>
+
+<p>I don&#8217;t consider Flickr to be my central image store and I have <a href="http://pictures.natalian.org/">tons of pictures</a> that are public domain in <a href="http://trac.natalian.org/browser/projects/pik">my own image gallery system.</a></p>
+
+<p>I wonder <strong>how I should license/tag/meta my pictures</strong> so that search engines (Google) know they&#8217;re in the public domain and people can find them.</p>

@@ -1,0 +1,7 @@
+[[!meta title="LUGRadio" ]]
+[[!meta date="2004-04-01 02:18:20" ]]
+<a href="http://www.lugradio.org/">LUGRadio</a> found from <a href="http://simon.incutio.com/archive/2004/03/04/lugRadio">Simon's blog</a> is great.
+
+<p>I had in mind to do run a radio station from here. However I have not figured out <span class="caps">ALSA</span> with my sound card on my T30. It&#8217;s a <span class="caps">CRAP</span> intel8&#215;0 AC&#8217;97 job. What&#8217;s worse is that it seems unable to mix two inputs. So that&#8217;s that then.</p>
+
+<p>I love my thinkpad, but if <span class="caps">IBM</span> are going to put in substandard sound cards, I might consider a powerbook instead.</p>

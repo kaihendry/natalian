@@ -1,0 +1,13 @@
+[[!meta title="Broken" ]]
+[[!meta date="2004-01-19 09:27:17" ]]
+<p>Since I went snow boarding for the first time last Saturday, I feel like a broken man.</p>
+
+<p>I mustered up the energy to change the style sheet. Omg, it looks awful.</p>
+
+<p>I hope I will find time to do my pictures. I really miss them. :/</p>
+
+<p>As for the old posts, it looks like it will take some serious effort to put it into mysql on my part. Oh dear. Also I am worried about how to do re-directs from <a href="http://db.cs.helsinki.fi/">db</a> to this site. I like to think my stuff is <a href="http://www.w3.org/Provider/Style/URI.html">cool,</a> and it should stay that way.</p>
+
+<p>I have really got to get my thesis plan done and approved this week. I am going to where the money is, and invesitigate how mobile devices and this whole (W3C) Web thing fit together. I am quite worried I will not get any empirical type data, and will end up writing a review paper. A review paper is not bad, but it&#8217;s just not new. I had in mind to get some data from blind and deaf people about how they use devices to support higher information resolution as Tufte would say.</p>
+
+<p>However after writing about a zillion emails to various blind and deaf sites found via google, I have not received a single helpful response for a contact to speak to&#8230;</p>

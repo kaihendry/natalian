@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Sean Neakums"
+ subject="213.202.156.211"
+ date="2005-07-04 00:39:49"
+ content="""
+<p>&#8220;DEBIAN_FRONTEND=readline sudo dpkg-reconfigure debconf&#8221; ought to do the trick.</p>
+"""]]

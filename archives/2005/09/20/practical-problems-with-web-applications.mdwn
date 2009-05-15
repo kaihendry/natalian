@@ -1,0 +1,17 @@
+[[!meta title="Practical problems with Web applications" ]]
+[[!meta date="2005-09-20 10:25:32" ]]
+<p><strong>Dependency on a Internet connection</strong></p>
+
+<p>Offline operation can be surprisingly usable (e.g. writing an email), but in most cases if you <strong>lose your network connection Web applications become useless</strong>.  Network connections do tend to go down and if a <strong>Point of Sale</strong> (POS) Web system is offline then you can lose a ton of money.</p>
+
+<p>Making Web applications distributed is very hard. Having a server on local client sites is asking for a whole world of pain. Making that local server update to a remote server with Debian is fairly easy, but that solves only part of the problem. Syncing databases and data. Nightmare.</p>
+
+<p>Implications are that environments without good stable (and cheap) Internet connections (Islands, entire countries) can be (initially) poor areas to market a Web application solution.</p>
+
+<p><strong>Dependency on a Web browser (UA)</strong></p>
+
+<p>UAs usually require quite a good machine to run on. I forget what the <a href="http://www.mozilla.org/products/firefox/system-requirements">minimum specs are for Firefox.</a> For sane operation, you do need at least 800mhz and 256megs of <span class="caps">RAM</span>. There are quite a few PCs out there that don&#8217;t meet that specification. UAs also tend to require a mouse and hence more desk space compared to terminals.</p>
+
+<p>There are loads of security problems associated with UAs nowadays. UAs are as <strong>complex</strong> as the operating systems beneath it. In fact, one could argue UAs are operating systems themselves.</p>
+
+<p>In these cases I would suggest clients to switch their machines to <a href="http://www.livecd.net/">LiveKiosk.</a> Send clients new CDs for each major update.</p>

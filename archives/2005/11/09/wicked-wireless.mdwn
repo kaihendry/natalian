@@ -1,0 +1,15 @@
+[[!meta title="Wicked Wireless" ]]
+[[!meta date="2005-11-09 13:32:14" ]]
+<img src="http://www.eltropico.banatzl.de/gallery/picture.php?img=980_antoine%20and%20kai.jpg&amp;show=full" alt="Kai and Antoine" />
+
+<p>Wouldn&#8217;t it be great if there was some tool that turned Win32 laptops with a wired network connection into Access points?</p>
+
+<p>I do this on my Debian system with <a href="http://packages.qa.debian.org/i/ipmasq.html">ipmasq</a> and an Ad-hoc configuration whereby clients just need the right gateway settings.</p>
+
+<p>Another idea I had was a box dedicated to <strong>cracking</strong> a Wireless AP. Once it has the <span class="caps">WEP</span> key and a net connection it serves as a AP itself.</p>
+
+<p>I caught the tram 64 down St. Kilda Road in Melbourne today. <a href="http://static.natalian.org/2005-11-08">I picked up 542 Wireless networks with kismet.</a> Some of them were open. I wish I could could have very quickly utilised an open connection to run offlineimap(to retrieve my email). With my current setup it is difficult to get dhclient working after after promiscuous mode.</p>
+
+<p>Paying for Wireless in Melbourne is too expensive. It is typically more than 10AUD an hour. There is this <a href="http://www.vodafone.com.au/business/bussol/vmc/databundle.jsp?gs=business&amp;hd=bussol&amp;st=vmc&amp;ss=affordable">3G service that Vodafone are pimping as affordable.</a></p>
+
+<p>50AUD a month for a 300MB cap? I get more than 300MB of mail a month.</p>

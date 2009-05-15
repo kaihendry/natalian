@@ -1,0 +1,21 @@
+
+[[!_comment format=mdwn
+ username="Anonymous"
+ subject="212.83.72.81"
+ date="2004-08-14 11:52:57"
+ content="""
+<p>Use <span class="caps">SSH</span> with ssh-keys, agent forwarding and key-usage confirmation &#8211; not only secure, it also saves you from typing passwords again and again. Typing a passwords happens only once per X session: on your local machine, to load your private key with ssh-add.</p>
+
+<p>Here&#8217;s a <a href="http://www.puddingonline.com/~dave/publications/SSH-with-Keys-HOWTO/document/html/SSH-with-Keys-HOWTO.html"><span class="caps">HOWTO</span></a> on <span class="caps">SSH</span> keys and agents.</p>
+
+<p>Make sure a <a href="http://www.openbsd.org/cgi-bin/man.cgi?query=ssh-agent">ssh-agent</a> gets started from your X session. This is the default for Debian. You can check if a ssh-agent is running by issuing <code>echo $SSH_AGENT</code> from a xterm.</p>
+
+<p>To be able to use your locally loaded private key on remote machine, you&#8217;ll need to enable agent forwarding. Agent forwarding is enabled by adding the following to your .ssh/config:</p>
+
+<code>
+Host *
+        AgentForwarding yes
+</code>
+
+<p>Key confirmation for keys in your agent is enabled by adding the &#8217;-c&#8217; option to ssh-add: <code>ssh-add -c < /dev/null</code>. (This will only work within X &#8211; make sure ssh-askpass-gnome, ssh-askpass or something similar is installed.) Key confirmation makes sure your key can&#8217;t be used without your authorization.</p>
+"""]]

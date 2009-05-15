@@ -1,0 +1,25 @@
+[[!meta title="Can text scale?" ]]
+[[!meta date="2004-06-09 10:17:21" ]]
+<a href="http://dictionary.reference.com/search?q=media">Media</a>. Tricky word. 
+
+<p>Paper media, CD media, new media, Internet media, Web media. And then again&#8230; <a href="http://dictionary.reference.com/search?q=medium">medium</a>.</p>
+
+<p>The paper medium, the CD medium, the Internet medium, the web medium. Hmm is this making sense?</p>
+
+<a href="http://www.w3.org/TR/CSS21/media.html">Media types</a>. 
+
+<blockquote>
+a document will typically need a larger font on a computer screen than on paper
+</blockquote>
+
+<p>Is this true? Why can&#8217;t font size be relative? I.E. Scale!</p>
+
+<p>Doesn&#8217;t this not mean that an author has to set a font-size for different devices in order to make sure the text is readable? That makes media types <strong>device dependent</strong>, no?</p>
+
+<a href="http://natalian.org/archives/2004/04/08/nokia-media-queries/">
+Media types are not even implemented properly. :/
+</a>
+
+<p>Does this mean I as an author should avoid media types? The onus should be on the device&#8217;s browser user agent to make the fonts a &#8220;larger font&#8221;, surely?</p>
+
+<p>Isn&#8217;t the web a medium all by itself? Why does it need style sheets for representations in other &#8220;mediums&#8221; (or it &#8220;mediums&#8221;)?  Can&#8217;t we just treat the web as what it is!? A new medium, instead of getting it confused with existing ones?</p>

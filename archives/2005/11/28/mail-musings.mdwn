@@ -1,0 +1,16 @@
+[[!meta title="Mail musings" ]]
+[[!meta date="2005-12-12 16:47:59" ]]
+<p>I use Gmail to filter my mail. This has been the case since June 2005. I usually have about <strong>1000</strong> SPAMs in the <span class="caps">SPAM</span> mailbox. Recently I&#8217;m up to almost <strong>1500</strong>. Sigh.</p>
+
+<p>I noticed <a href="http://lists.alioth.debian.org/pipermail/pkg-mediawiki-devel/2005-November/thread.html">alioth was spammed pretty bad.</a> That&#8217;s one reason.</p>
+
+<p>I get quite a quite a few <span class="caps">SPAM</span> in my inbox which I need to manually send to the <span class="caps">SPAM</span> folder. That&#8217;s getting worse. Thankfully no <span class="caps">HAM</span> is found (knock wood) nowadays in Gmail&#8217;s <span class="caps">SPAM</span> folder.</p>
+
+<p>There was a monster thread over at <a href="http://www.luv.asn.au/">Linux Users Victoria</a> about Microsoft Exchange. For some odd reason the <a href="http://lists.luv.asn.au/wws/info/luv-main"><span class="caps">LUG</span> doesn&#8217;t want the mailing list archived.</a> Anyway I made a bit a of a tangent on the thread when I recommended people and companies <strong>outsource</strong> their mail to external <a href="http://www.dreamhost.com/rewards.cgi?kaihendry">hosts.</a> The savings can be incredible. Though if employees send a lot of attachments, it can be quite painful. <br />
+Especially as Australia is using &#8220;Pay as you Go&#8221; style Internet.</p>
+
+<p>Setting up mail servers nowadays is <strong>too hard</strong>. In my (contracting) experience most offices are incapable of running their own mailservers.</p>
+
+<p>Currently I have a painful problem with my Debian (unstable) T30 laptop with Debian&#8217;s default exim4. Mail seems to get frozen if I don&#8217;t find a net connection within a couple of days when writing email offline.</p>
+
+<p>Finally here is a <a href="http://www.rusawm.com/articles.php?id=171">cheerful link of computing pictures</a> to ease the pain.</p>

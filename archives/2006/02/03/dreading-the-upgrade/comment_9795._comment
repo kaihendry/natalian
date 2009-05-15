@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Joose Vettenranta"
+ subject="82.181.82.163"
+ date="2006-02-03 19:55:44"
+ content="""
+<p>Boy, you are lost =)</p>
+
+<p>why not just create 1 small partition for boot (if needed) and 1 for swap and 1 for rest.. and then just mount it in and do &#8220;cp -rva / /mnt/harddisk (or somethign like this..)..</p>
+
+<p>And then fix fstab, install grub and shutdown, switch harddrives, reboot.. voila!</p>
+
+<p>- Joose</p>
+"""]]

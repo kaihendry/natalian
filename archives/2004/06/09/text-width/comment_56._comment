@@ -1,0 +1,8 @@
+
+[[!_comment format=mdwn
+ username="Tom Pike"
+ subject="217.159.17.26"
+ date="2004-06-10 01:44:25"
+ content="""
+<p>With regards to the line length issue, might I recommend the use of max-width: 50em; on the main body div?</p>
+"""]]

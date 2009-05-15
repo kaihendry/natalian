@@ -1,0 +1,17 @@
+[[!meta title="Upgrade problem" ]]
+[[!meta date="2005-09-23 15:04:00" ]]
+<p>I have an odd <a href="http://people.debian.org/~terpstra/message/20050922.054110.e341d92b.en.html">upgrade problem which I detailed on debian-user</a> and I&#8217;ve yet to receive a reply.</p>
+
+<p>Maybe this blog will help. :)</p>
+
+<p>Solution: Remove /etc/apt/preferences ! <span class="caps">DOH</span><br />
+<pre><br />
+bible$ cat /etc/apt/preferences</p>
+
+<p>Explanation: Pinned by apt-listbugs at Thu Sep 01 22:46:12 <span class="caps">BST</span> 2005<br />
+Explanation:   #231082: spamassassin: spamc hangs since most recent perl package updates for stable<br />
+Explanation:   #283320: perl <span class="caps">FTBFS</span> on mipsel/lasat, but not on mipsel/cobalt<br />
+Package: perl<br />
+Pin: version 5.8.4&#8211;8<br />
+Pin-Priority: 1000<br />
+</pre></p>

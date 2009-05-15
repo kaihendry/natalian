@@ -1,0 +1,14 @@
+
+[[!_comment format=mdwn
+ username="Anselm"
+ subject="90.152.10.135"
+ date="2008-04-08 09:27:27"
+ content="""
+<p>I didn&#8217;t attend the event, but I intend to agree on most points mentioned here. If UI testing is about asking novice users about first impressions of a UI it&#8217;s not a very meaningful judgment for actual users, which want to use the UI in the longer term.</p>
+
+<p>A low learning curve of adapting/using a UI doesn&#8217;t necessarily correlates with high usability in the long term. Actually the opposite is the case&#8212;a fairly simple to adapt UI might be rather inefficient and unusable in the long term for actual users, because it provides quite trivial and hence limited ways of interactions.</p>
+
+<p>See the vi vs notepad editors as an example. Notepad is easy to use from the right beginning, but it is very limited in the longer term&#8212;nobody wants to use it for serious work, whereas vi is very difficult to use without learning, but once learned it is perfect for serious work.</p>
+
+<p>Or as a different example, see the cumbersome setup/configuration dialogs in the control panel of Windows&#8212;they are quite easy to maintain, but if a user knows which settings/options he wants to modify, its far more efficient to do it the low-level way&#8212;but such users haven&#8217;t been in mind for quite a long time by major software companies. Actually I believe that the software industry kind of ignores the fact, that long-term users are quite smart and would enjoy a slightly more usable UI in general.</p>
+"""]]

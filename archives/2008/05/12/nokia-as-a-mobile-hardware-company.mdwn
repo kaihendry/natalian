@@ -1,0 +1,19 @@
+[[!meta title="Nokia as a mobile hardware company" ]]
+[[!meta date="2008-05-12 14:25:30" ]]
+<a href="http://www.flickr.com/photos/hendry/2484353008/" title="its what computers have become by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2009/2484353008_25ee57e307_m.jpg" width="240" height="180" alt="its what computers have become" /></a>
+
+<p>I&#8217;m disappointed to <a href="http://arstechnica.com/news.ars/post/20080509-nokia-aiming-to-reinvent-itself-as-an-internet-company.html">hear Nokia aiming to re-invent itself as an Internet company</a>.</p>
+
+<p>Yes, <a href="http://finance.google.com/finance?q=NYSE:NOK">Nokia</a> re-invented itself before from rubber boots. And yes shifting boxes like what <a href="http://finance.google.com/finance?q=Dell">Dell</a> does is kinda boring (and not very profitable). However I still think the mobile hardware industry has a <strong>long way to go</strong> before reaching the sort of unsexy stage the commodity PC market is in.</p>
+
+<p>Right now I think Nokia should restructure. Nokia has something like 100000 (~65000 in Finland last I heard) employees and its the kind of company that would not miss a tenth of those employees. Nokia needs to concentrate on paying talent more money for a start.</p>
+
+<a href="http://www.flickr.com/photos/hendry/2270401369/" title="Nokia staff play with a N810 by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2371/2270401369_c5e5b4634d_m.jpg" width="240" height="180" alt="Nokia staff play with a N810" /></a>
+
+<p>Innovate in the mobile <strong>hardware</strong> space Nokia. I think there is much more to be done here and I really think they could take on the Iphone with their excellent <a href="http://en.wikipedia.org/wiki/Maemo">maemo developer platform</a> (urm, with a <span class="caps">GSM</span> chip would be nice).</p>
+
+<p>I don&#8217;t think they should necessarily do software or a browser, let alone get into the Web &#8220;Internet company&#8221; game. Any Nokia Web service I&#8217;ve seen has been god awful. They have a <strong>legacy of crap Web applications</strong> that I don&#8217;t see how Nokia can get a fresh start on the Web.</p>
+
+<a href="http://nokia.mobi">Nokia.mobi</a> is supposed to be one of the most popular mobile Web sites, receiving billions of hits. Have you ever visited this <a href="http://nokia.mobi">Nokia.mobi</a> site? It's absolutely embarrassing. I assume the reason why anyone visits it, is that it's the default homepage on the devices they sell.
+
+<p>Recently we&#8217;ve seen <a href="http://www.adservice.nokia.com/">Nokia getting into the ad business</a> and into retail and spreading itself even more. Cut the fat and focus on hardware and commit to an open software platform like maemo please Nokia.</p>

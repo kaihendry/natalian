@@ -1,0 +1,13 @@
+[[!meta title="Linksys WAG354G and WRT54G" ]]
+[[!meta date="2007-01-28 11:39:32" ]]
+<a href="http://www.flickr.com/photos/hendry/368052550/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/113/368052550_91c3166e05_m.jpg" width="240" height="180" alt="Jutta geeking out" /></a>
+
+<p>So in addition to the <span class="caps">ADSL</span> gateway that the WAG354G provides, I wanted wireless. Though the wireless range of the <a href="http://www.dabs.com/productview.aspx?quicklinx=3QYJ">WAG354G-UK</a> sucks. At first I thought it was the thick walls of our house.</p>
+
+<p>So I thought I should introduce the WRT54G into the house network to improve the wireless range. <strike>At first after connecting the WRT54G to the WAG354G it didn&#8217;t work. I discovered I needed to change the WRT54G&#8217;s local IP address to 192.168.2.1, I guess to avoid it conflicting with WAG354G&#8217;s 192.168.1.1. Now I am amazed at how much better the wireless broadcast of the WRT54G is, compared to the WAG354G. I can now use Internet all around the house!</p>
+
+<p>I thought I would have to carefully somehow have to setup the WRT54G to boost the signal of the wireless in the WAG345G. Now there is no need. I wonder what happens if I set them up with the both <span class="caps">ESSID</span>. I will experiment, though right now I am just overjoyed of how much better wireless coverage the WRT54G (v4.20.8) provides. It is truly a great piece of kit.</strike></p>
+
+<p>Update: I received a <a href="http://static.natalian.org/2006-12-24/WRT54G+WAG345G.txt">response from linksys support today</a> about how to properly set them together! The technique is called <strong>cascading</strong>.</p>
+
+<p>Important elements are to simply set the WRT54G as 192.168.1.2 and to connect them up using the normal ports of the WRT54G, not the &#8220;Internet&#8221; port. Read the <a href="http://static.natalian.org/2006-12-24/WRT54G+WAG345G.txt">email for detailed instructions for cascading</a>. Wireless freedom!</p>

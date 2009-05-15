@@ -1,0 +1,20 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="125.131.161.40"
+ date="2006-06-13 16:26:49"
+ content="""
+<p>Really fucking dumb. I <span class="caps">HATE</span> <span class="caps">REAL</span> <span class="caps">PLAYER</span>!! IT <span class="caps">JUST</span> <span class="caps">MAKES</span> ME <span class="caps">WANT</span> TO <span class="caps">SCREAM</span>. I\\\&#8216;ve been doing a lot of testing with Real player under Windows and Linux.</p>
+
+<p>The windows client is fucking <span class="caps">ADWARE</span>, with its fucking message centre and how it tries to get you to pay for the fucking full version and how it tries to own all media types. <span class="caps">FUCKERS</span>!!</p>
+
+<p>I looked at various Debian proxies, but they didn\\\&#8216;t seem to work. I think the protocol <span class="caps">RTSP</span> doesn\\\&#8216;t proxy without special support. Unfortunately that support doesn\\\&#8216;t fucking compile. <a href="http://www.rtsp.org/2001/proxy/">http://www.rtsp.org/2001/proxy/</a></p>
+
+<p>After some frantic searching I found CCproxy. <a href="http://www.youngzsoft.net/ccproxy/real.html">http://www.youngzsoft.net/ccproxy/real.html</a> I think it might work. <a href="http://static.natalian.org/2006&#8211;06-12/ccproxysetup.exe">http://static.natalian.org/2006&#8211;06-12/ccproxysetup.exe</a> Since my parents in the UK have only Windows, this just might be the ticket.</p>
+
+<p>Though the real player clients under Linux <span class="caps">SUCKS</span>. I can\\\&#8216;t get Helix working with a <span class="caps">RTSP</span> stream. What a waste of time. I can\\\&#8216;t get realplayer to run under my Ubuntu system at home. My Ubuntu system at work is AMD64. AMD64 doesn\\\&#8216;t have all the media codes ported to it yet !! <a href="https://wiki.kubuntu.org/RestrictedFormats#head-7c5caf5975c1ac7ff8a6ff24ea044d4c42ac1712">https://wiki.kubuntu.org/RestrictedFormats#head-7c5caf5975c1ac7ff8a6ff24ea044d4c42ac1712</a></p>
+
+<p>Evidently listening to English coverage of the World Cup might be terribly illegal. All I can say to that <span class="caps">FUCK</span> <span class="caps">YOU</span> <span class="caps">FIFA</span>, for greedily guarding the coverage rights. <span class="caps">FUCK</span> <span class="caps">YOU</span> <span class="caps">BBC</span> for buying into it. <span class="caps">FUCK</span> <span class="caps">YOU</span> <span class="caps">BBC</span> again for being the world\\\&#8216;s leading example of Geographical censorship.</p>
+
+<p>I have some other interesting links: <a href="http://del.icio.us/hendry/worldcup06">http://del.icio.us/hendry/worldcup06</a></p>
+"""]]

@@ -1,0 +1,20 @@
+[[!meta title="New Wordpress maintainer" ]]
+[[!meta date="2008-04-28 08:33:50" ]]
+<a href="http://www.flickr.com/photos/hendry/2443135733/" title="Drawing domestic bliss by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2020/2443135733_dd5db80d9d_m.jpg" width="240" height="180" alt="Drawing domestic bliss" /></a>
+
+<p>Since my <a href="http://lists.debian.org/debian-newmaint/2008/01/msg00102.html"><span class="caps">DAM</span> rejection</a> earlier this year I&#8217;ve been trying to cut down on Debian work. Unsurprisingly (and perhaps surprisingly to some) I fealt a bit emotionally drained and demotivated from <a href="http://lists.debian.org/debian-newmaint/2008/01/msg00093.html">defending myself</a> and working with <a href="http://lists.debian.org/debian-newmaint/2008/01/msg00095.html">debian security</a>.</p>
+
+<p>Lately I have been working with new maintainer Andrea De Iacovo and I am very pleased with his work on <a href="http://packages.qa.debian.org/w/wordpress.html">Wordpress</a>. Wordpress takes most of my time, like the beautiful day of Saturday yesterday. :)</p>
+
+<p>Unfortunately Andrea has had problems finding a sponsor, though a Wordpress security release expedited matters and got Nico Golde&#8217;s upload powers into action. :) So if you&#8217;re a DD and <a href="http://qa.debian.org/popcon.php?package=wordpress">you use Wordpress</a>, please help out Andrea.</p>
+
+<p>Before I get unsubscribed from Debian Planet, I thought I should pimp my:</p>
+
+<ul>
+<li><a href="http://dabase.com/tips/">Debian tips and tricks</a> site &#8211; the current 400-odd tips are in the public domain so please rip them, update them or add some!</li>
+<li>The fantastic <a href="http://webconverger.com/">Web kiosk distribution Webconverger</a> based on <a href="http://debian-live.alioth.debian.org/">Debian Live</a>, which also has a <a href="http://webconverger.org/blog/">blog</a></li>
+</ul>
+
+<p>Both based on <a href="http://ikiwiki.info/">ikiwiki</a>. ;)</p>
+
+<p>Anyway, I am still around of course. Met some great people in the Debian community and sadly some pretty pedantic unfriendly ones too. Final suggestion for DDs: Revoke your <span class="caps">GPG</span> keys more often and go to less key signing parties. :P</p>

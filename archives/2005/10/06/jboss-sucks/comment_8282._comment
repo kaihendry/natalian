@@ -1,0 +1,12 @@
+
+[[!_comment format=mdwn
+ username="hendry"
+ subject="61.9.136.168"
+ date="2005-10-07 16:37:31"
+ content="""
+<p>Yes, I am interested to know how you get &#8220;hot deployment&#8221; working flawlessly, because I can&#8217;t simply trust it for production. I am not confident it releases the memory like it should. I manage the environment, not so much the coding. What should I look out for in these &#8220;shared classes&#8221;? I don&#8217;t see why it shouldn&#8217;t just work or at least give a warning about this &#8220;shared classes&#8221; if that&#8217;s the problem.</p>
+
+<p>Have all those ports over 80 sounds like a coup! I already use run.sh -c $SYSTEM to start other instances. So each instance can just have one port? Please tell us how. That would save me an awful amount of senseless Administration.</p>
+
+<p>Jboss people should setup a mailing list like any other serious project for users.</p>
+"""]]

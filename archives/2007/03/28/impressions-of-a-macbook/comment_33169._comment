@@ -1,0 +1,15 @@
+
+[[!_comment format=mdwn
+ username="Green Apple"
+ subject="80.171.35.41"
+ date="2007-03-28 14:41:53"
+ content="""
+<p>- That camera looks tiny<br />
+Yep, but it&#8217;s great for web-conferencing and has a microphone. Works on Linux.<br /> &#8211; ctrl+trackpad button is right click. <span class="caps">OMG</span>. Pain.<br />
+Configure it differently in the system preferences. Just use two finger right click! Also try to hold down two fingers on the trackpad and move, you can scroll that way easily.<br /> &#8211; I can’t figure out how to scroll through photos.<br />
+Agree. The lack of a decent simple (free) imageviewer is evident on Mac OS X.<br /> &#8211; Quite noisy when doing something<br />
+Not here, maybe try to upgrade firmware first (there had been issues), then check noise again.<br /> &#8211; Installing .dmg files isn’t nearly as easy as apt-get<br />
+How can double-click .dmg file and drag&#8217;n&#8217;drop icon be hard?</p>
+
+<p>The biggest flaw was to move the FN key where <span class="caps">CTRL</span> belongs. At least this is a big minus for heavy keyboard nerds. My Linux is running great here, still got issues with suspend to ram though.</p>
+"""]]

@@ -1,0 +1,74 @@
+[[!meta title="Wrong" ]]
+[[!meta date="2004-03-21 17:19:49" ]]
+<p>Wireless and wired links. There does not seem to be any integration in my<br />
+Debian system.</p>
+
+<p>I disconnect from the wired link and go into the kitchen. Net connection goes down.</p>
+
+<p>Why can&#8217;t it just trip over to the wireless link?</p>
+
+<p>Anyway, I sit down on the kitchen table and <pre>sudo ifup eth0</pre> which is<br />
+the wireless link. I usually forget if eth0 is the wireless card, and have to<br />
+first: <pre>dmesg | grep eth</pre></p>
+
+<p>Pain in the ass.</p>
+
+<p>Then I put it up, but it doesn&#8217;t seem to work. Lets see route:</p>
+
+<pre>
+hendry@scrooge-15:~$ sudo route
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+192.168.1.0     *               255.255.255.0   U     0      0        0 eth1
+192.168.1.0     *               255.255.255.0   U     0      0        0 eth0
+default         192.168.1.1     0.0.0.0         UG    0      0        0 eth1
+</pre>
+
+<p>This took ages to come up. Argh.</p>
+
+<p>Lets look at the network devices:</p>
+
+<pre>
+scrooge-15:/mnt/usbkey/dcim# /sbin/ifconfig 
+eth0      Link encap:Ethernet  HWaddr 00:05:3C:06:B1:71  
+          inet addr:192.168.1.44  Bcast:192.168.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::205:3cff:fe06:b171/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:16 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:5 errors:1 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:1586 (1.5 KiB)  TX bytes:900 (900.0 b)
+          Interrupt:11 Base address:0x9000 Memory:f8000000-f8000fff 
+
+<p>eth1      Link encap:Ethernet  HWaddr 00:09:6B:D0:A0:61  <br />
+          inet addr:192.168.1.33  Bcast:192.168.1.255  Mask:255.255.255.0<br />
+          inet6 addr: fe80::209:6bff:fed0:a061/64 Scope:Link<br />
+          UP <span class="caps">BROADCAST</span> <span class="caps">MULTICAST</span>  <span class="caps">MTU</span>:1500  Metric:1<br />
+          RX packets:6310 errors:0 dropped:0 overruns:0 frame:0<br />
+          TX packets:7408 errors:0 dropped:0 overruns:0 carrier:0<br />
+          collisions:5 txqueuelen:1000 <br />
+          RX bytes:3906228 (3.7 MiB)  TX bytes:946606 (924.4 KiB)<br />
+          Interrupt:11 Base address:0&#215;8000 Memory:d0200000-d0200038</p>
+
+<p>lo        Link encap:Local Loopback  <br />
+          inet addr:127.0.0.1  Mask:255.0.0.0<br />
+          inet6 addr: ::1/128 Scope:Host<br />
+          UP <span class="caps">LOOPBACK</span> <span class="caps">RUNNING</span>  <span class="caps">MTU</span>:16436  Metric:1<br />
+          RX packets:98 errors:0 dropped:0 overruns:0 frame:0<br />
+          TX packets:98 errors:0 dropped:0 overruns:0 carrier:0<br />
+          collisions:0 txqueuelen:0 <br />
+          RX bytes:10051 (9.8 KiB)  TX bytes:10051 (9.8 KiB)</p>
+
+<p>scrooge-15:/mnt/usbkey/dcim# sudo ifdown eth1<br />
+scrooge-15:/mnt/usbkey/dcim# sudo route<br />
+Kernel IP routing table<br />
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface<br />
+192.168.1.0     *               255.255.255.0   U     0      0        0 eth0<br />
+scrooge-15:/mnt/usbkey/dcim# ping google.com<br />
+ping: unknown host google.com<br />
+</pre></p>
+
+<p>You know this is crazy. Not to mention mutt and my other network dependant applications freezing&#8230;</p>
+
+<p>Is there some tool to help me out here? I do not like having to sudo around<br />
+when I change networking enviroment either.</p>

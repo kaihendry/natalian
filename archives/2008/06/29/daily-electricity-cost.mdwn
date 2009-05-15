@@ -1,0 +1,13 @@
+[[!meta title="Discover your daily electricity cost" ]]
+[[!meta date="2008-09-07 19:19:11" ]]
+<a href="http://www.flickr.com/photos/hendry/2508376346/" title="Electricity bill by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2080/2508376346_5b0770522a.jpg" width="354" height="500" alt="Electricity bill" /></a>
+
+<p>After <a href="http://www.geekyoto.com/">Geekyoto</a> I was trying to figure out how much I spend on electricity. I believe people will change their habits once they <strong>know the cost</strong>.</p>
+
+<p>Then after receiving <a href="http://www.flickr.com/photos/hendry/2508376346/in/set-72157605153273216/">my electricity bill</a> I couldn&#8217;t actually work out how much my &#8216;50W spot light&#8217; costs me a day in electricity!</p>
+
+<p>The first problem is that I paid my bill with a <strong>fixed direct debit</strong>. So I really had no idea how much electricity I was really spending per month. I called up and changed that to <strong>variable direct debit</strong>.</p>
+
+<p>The next problem I had, was understanding the notion of <strong>standard energy unit</strong> and <strong>discounted energy unit</strong> blocks. I won&#8217;t go into this as it is quite <strong>complex</strong>. Call up your supplier to give you a simpler fixed unit price which is somewhere in the middle. With a fixed price you now have a chance to calculate out your <a href="http://www.flickr.com/photos/hendry/2536302168/in/set-72157605153273216/">electricity cost</a>.</p>
+
+<p>Now a &#8220;unit price&#8221; is actually the cost per kilowatt hour. So I cooked up a <a href="http://www.whatwg.org/specs/web-forms/current-work/">web form 2</a> to <a href="http://dabase.com/wf2/">help calculate your daily energy cost</a>. So when using a browser that supports Web Forms2 like <a href="http://www.opera.com/">Opera</a>, I could plug in my energy cost and calculate that my 50W spot light costs me 14.54 pence a day in electricity to run a whole day.</p>
