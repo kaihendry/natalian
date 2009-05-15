@@ -1,5 +1,6 @@
 [[!meta title="owning XP" ]]
 [[!meta date="2004-08-22 21:10:40" ]]
+[[!tag Debian]]
 <p>I am going to <a href="http://prazefarm.co.uk/">Cornwall</a> for a month where my parents have a machine running Windows XP on a 56k dialup. The exchange is actually linked to another exchange in Bodmin via radio. Now that&#8217;s country and a completely hopeless Internet connection.</p>
 
 <p>I need to do some work on my thesis still so I will need to have <strong>vim, ssh and subversion</strong> in a sane terminal. Latex stuff would be a plus.</p>

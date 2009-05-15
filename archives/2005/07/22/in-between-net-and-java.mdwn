@@ -1,5 +1,6 @@
 [[!meta title="In between .NET and JAVA" ]]
 [[!meta date="2005-07-22 11:46:16" ]]
+[[!tag jboss Oracle java]]
 <p>One of my work colleagues said to me: &#8220;If you&#8217;re not in the .NET camp or the <span class="caps">JAVA</span> camp, where the hell are you?&#8221;</p>
 
 <p>Shame not many people know what <a href="http://en.wikipedia.org/wiki/LAMP"><span class="caps">LAMP</span></a> is. Though, I see a lot of Perl developers wanted on contracts, at least in Australia. Urgh, Perl. ;)</p>

@@ -1,5 +1,6 @@
 [[!meta title="ssh attacks" ]]
 [[!meta date="2005-06-28 15:08:59" ]]
+[[!tag General]]
 <p>This dedicated RH machine was put online this month. A collegue suggested I put the ssh port on some non-standard port.</p>
 
 <code>

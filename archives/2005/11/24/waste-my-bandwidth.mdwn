@@ -1,5 +1,6 @@
 [[!meta title="Waste my bandwidth" ]]
 [[!meta date="2005-11-24 15:30:29" ]]
+[[!tag php]]
 <a href="http://www.flickr.com/photos/hendry/65351126/" title="Photo Sharing"><img src="http://static.flickr.com/26/65351126_fdc6a07be3.jpg" width="500" height="354" alt="bluebeep" /></a>
 
 <p>Here is a little <span class="caps">PHP</span> <a href="http://ii.dabase.com/">Image Information tool</a> I wrote.</p>

@@ -1,5 +1,6 @@
 [[!meta title="LPI" ]]
 [[!meta date="2006-04-05 11:37:24" ]]
+[[!tag Debian ubuntu]]
 <p>Just to scratch an itch, I tried migrating / side-grading to Ubuntu from Debian Etch. I still haven&#8217;t quite succeeded as I am still <a href="https://lists.ubuntu.com/archives/ubuntu-devel/2006-April/017040.html">wrestling with aptitude,</a> but I did find something interesting from my <a href="https://lists.ubuntu.com/archives/ubuntu-devel/2006-April/017029.html">Etch migration discussion on ubuntu-devel.</a></p>
 
 <p>Marco Cabizza says that one of the reasons it is quite hard to migrate is due to the <a href="https://launchpad.net/faq">Launchpad</a> <a href="https://lists.ubuntu.com/archives/ubuntu-devel/2006-April/017054.html">integration.</a></p>

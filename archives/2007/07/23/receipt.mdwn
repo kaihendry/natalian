@@ -1,5 +1,6 @@
 [[!meta title="Receipt" ]]
 [[!meta date="2007-07-23 14:55:34" ]]
+[[!tag banking business]]
 <a href="http://www.flickr.com/photos/hendry/871604165/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1121/871604165_73a1a903fd_m.jpg" width="240" height="180" alt="18 megs of mobile traffic" /></a>
 
 <p>While purchasing a couple of <span class="caps">USB</span> sticks from <a href="http://ebuyer.com/">ebuyer.com</a>(E), via <a href="https://checkout.google.com">Google Checkout</a>(GC) I was surprised how many emails they sent me.</p>

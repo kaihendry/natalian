@@ -1,5 +1,6 @@
 [[!meta title="Gmail" ]]
 [[!meta date="2005-06-27 09:29:54" ]]
+[[!tag General]]
 <p>I noticed that Gmail has some updated <a href="http://gmail.google.com/gmail/help/intl/en_GB/program_policies.html">program policies.</a></p>
 
 <p>One of them forbids you to reformat the page. Others are pretty acceptable to me.</p>

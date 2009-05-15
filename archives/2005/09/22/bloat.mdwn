@@ -1,5 +1,6 @@
 [[!meta title="Bloat" ]]
 [[!meta date="2005-09-22 16:25:21" ]]
+[[!tag windows]]
 <p>So I am trying to making a Windows Icon for this swing client at work. I doubt they are the same as the .ICO favicon so I thought I just download the old favourite. Paint Shop Pro.</p>
 
 <p>But:</p>

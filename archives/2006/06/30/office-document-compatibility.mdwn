@@ -1,5 +1,6 @@
 [[!meta title="Office document compatibility" ]]
 [[!meta date="2006-06-30 18:42:05" ]]
+[[!tag xml microsoft office]]
 <p>Document compatibility between Microsoft and opensource formats is probably going to get <strong>worse</strong> before it gets better.</p>
 
 <p>Right now we have quite decent compatibility between Openoffice and MS Word with the 97&#8211;2003 .doc format. Not perfect by a long shot. Especially for <span class="caps">CJK</span> documents in my tests, but usable.</p>

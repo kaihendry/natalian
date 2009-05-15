@@ -1,5 +1,6 @@
 [[!meta title="International Money Transfer" ]]
 [[!meta date="2004-07-17 15:25:20" ]]
+[[!tag banking General]]
 <p>Visa:</p>
 
 <ol>

@@ -1,5 +1,6 @@
 [[!meta title="Why are Web forums so popular?" ]]
 [[!meta date="2005-12-07 10:08:26" ]]
+[[!tag web forums Debian]]
 <p>It began with a <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=340114">bug</a>, that led to <a href="http://samiam.org/">Sam Trenholme</a>&#8216;s response, that got my thinking: <strong>Why are Web forums so popular?</strong><br />
 <blockquote><br />
 8<-8<-8<-8<-8<-8<-8<-8<-8< to just the US-ASCII character set; that comes off to me as <a href="http://dictionary.reference.com/search?r=2&amp;q=Luddites">ludditeism</a>.<br />

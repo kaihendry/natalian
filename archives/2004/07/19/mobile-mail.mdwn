@@ -1,5 +1,6 @@
 [[!meta title="Mobile mail" ]]
 [[!meta date="2004-07-19 11:51:30" ]]
+[[!tag Mobile]]
 <p>My sister in Japan is using <a href="http://www.vodafone.jp/scripts/english/top.jsp">Vodafone</a> that features <strong><span class="caps">EMAIL</span></strong> instead of text messages.</p>
 
 <p>I have been using it for more than a month and it works! I have never been in such good contact with my sister.</p>

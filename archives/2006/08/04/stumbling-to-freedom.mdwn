@@ -1,5 +1,6 @@
 [[!meta title="Stumbling to Freedom" ]]
 [[!meta date="2006-08-04 04:05:57" ]]
+[[!tag google office cornwall hardware ubuntu microsoft]]
 <p>I&#8217;m home in the UK temporarily and I am having to deal with the painful realities of home computing.</p>
 
 <p>I have myself (partly) to blame. I&#8217;ve bought some crap hardware, but haven&#8217;t we all?</p>

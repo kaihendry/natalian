@@ -1,5 +1,6 @@
 [[!meta title="Get a clue Dabs" ]]
 [[!meta date="2004-08-26 13:56:53" ]]
+[[!tag General]]
 <p>I wanted to order an <a href="http://www.garmin.com/products/etrex/">etrex</a> for my <a href="http://trip.natalian.org/">trip</a> so I can log my waypoints. Finally I want to download my logs to a Debian computer to plot it on a map using perhaps <a href="http://gpsdrive.kraftvoll.at/">gpsdrive.</a></p>
 
 <p>The etrex on <a href="http://www.amazon.co.uk/exec/obidos/ASIN/B00003WGP5/qid=1093510155/sr=2-1/ref=sr_2_1_1/026-2107818-0697218">Amazon UK</a> but its 117UKP does not beat <a href="http://dabs.com/uk/channels/hardware/gpsandgpsupgrades/productView.htm?quicklinx=SBF">Dabs E-trex for 107UKP.</a></p>

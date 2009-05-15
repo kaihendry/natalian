@@ -1,5 +1,6 @@
 [[!meta title="Dangerous laptop use" ]]
 [[!meta date="2007-01-25 11:06:19" ]]
+[[!tag thinkpad]]
 <a href="http://www.flickr.com/photos/hendry/368052185/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/182/368052185_6424e36cba_m.jpg" width="240" height="180" alt="Broken mic jack" /></a>
 
 <p>A couple of days ago I was enjoying my X40 in my lap (haha, you can&#8217;t do that with a Macbook!). I was leaning back, putting my feet up. &#8220;Ah, that&#8217;s comfortable.&#8221;</p>

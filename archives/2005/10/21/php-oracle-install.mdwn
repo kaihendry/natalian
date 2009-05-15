@@ -1,5 +1,6 @@
 [[!meta title="PHP Oracle install" ]]
 [[!meta date="2005-10-21 11:33:13" ]]
+[[!tag Oracle php]]
 <a href="http://www.flickr.com/photos/hendry/55483761/" title="Photo Sharing"><img src="http://static.flickr.com/26/55483761_4ea48d9b94.jpg" width="500" height="387" alt="Oracle and PHP" /></a>
 
 <p>Today I was asked to make a report from an Oracle database.</p>

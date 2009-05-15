@@ -1,5 +1,6 @@
 [[!meta title="UMPC" ]]
 [[!meta date="2006-04-19 15:14:49" ]]
+[[!tag Mobile windows korea thinkpad]]
 <p>The <a href="http://37signals.com/svn/archives2/microsoft_origami_too_revolutionary.php">origami launch hilariously bombed</a> for Samsung and Microsoft.</p>
 
 <p>1300USD is a crazy price. You can easily find a X40 for 1400USD in Seoul right now. Perhaps cheaper. What would you rather have?!</p>

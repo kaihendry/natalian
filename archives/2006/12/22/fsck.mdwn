@@ -1,5 +1,6 @@
 [[!meta title="fsck" ]]
 [[!meta date="2006-12-22 20:04:13" ]]
+[[!tag hardware ubuntu]]
 <p>My sister&#8217;s T30 running Ubuntu dapper that I gave her is experiencing some sort of problem with the hard drive.</p>
 
 <p>I <a href="http://thinkwiki.org/wiki/Harddrive_Upgrade">upgraded</a> the hard drive less than a year ago. So I am a little dismayed as it is well within its 4 year guarantee.</p>

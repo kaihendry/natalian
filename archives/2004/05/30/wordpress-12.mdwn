@@ -1,5 +1,6 @@
 [[!meta title="Wordpress 1.2" ]]
 [[!meta date="2004-05-30 00:59:18" ]]
+[[!tag Debian]]
 <p>I think I might <a href="http://www.debian.org/doc/developers-reference/ch-pkgs.en.html#s-nmu"><span class="caps">NMU</span></a> <a href="http://wordpress.org/development/archives/2004/05/22/heres-the-beef/">Wordpress 1.2</a> with <a href="http://debian.natalian.org/">Wordpress 1.2 Debian packages</a> I made to <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=250812">close my bug.</a></p>
 
 <p>Here is the rough basis of what I find useful for making <a href="http://wordpress.org/development/archives/2004/05/28/the-road-ahead/">multiple blogs</a> in debian.</p>

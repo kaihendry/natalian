@@ -1,5 +1,6 @@
 [[!meta title="dabase is the place to be" ]]
 [[!meta date="2009-02-03 20:43:37" ]]
+[[!tag Mobile wordpress Debian General]]
 <p>I confess! I hate <a href="http://wordpress.org/">Wordpress</a> (~130k <span class="caps">SLOC</span>).</p>
 
 <p>Though I love <a href="http://ikiwiki.info/">ikiwiki</a> (~18k <span class="caps">SLOC</span>) powering my new blog over at <a href="http://dabase.com/">dabase.com</a>.</p>

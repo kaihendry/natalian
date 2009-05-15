@@ -1,5 +1,6 @@
 [[!meta title="Koululinux" ]]
 [[!meta date="2004-01-30 20:31:07" ]]
+[[!tag School Helsinki Debian General]]
 <a href="http://www.linux-aktivaattori.org/view/Bazaar/KouluLinux">Koululinux</a> is here.
 
 <p>Today I had my first opportunity to fully test (and get working) all configurations of <a href="ftp://ftp.skolelinux.no/">Skolelinux</a> aka Debian-Edu aka Koulu (Finnish for school) Linux here in Finland.</p>

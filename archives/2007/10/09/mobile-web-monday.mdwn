@@ -1,5 +1,6 @@
 [[!meta title="Mobile content transcoding considered harmful" ]]
 [[!meta date="2007-10-09 20:48:54" ]]
+[[!tag web "content adaption" novarra Mobile openwave openweb General mobilemonday transcoding proxies]]
 <p>Whilst sober, I can begin to type up my thoughts on yesterday&#8217;s <a href="http://mobilemonday.org.uk/2007/09/mobile-monday-london-8th-oct-at-centre.html">Mobile Monday event at Centre point, largely about content adaption</a>. <a href="http://www.flickr.com/photos/lisadevaney/1519474916/">I had a good time. :)</a></p>
 
 <p>I feel quite strongly against content adaption/transcoding. And no you can&#8217;t argue that Opera adapts content. Think of Opera&#8217;s approach as a single &#8220;distributed browser&#8221;. Tight coupling with the browser is great. See my <a href="http://hendry.iki.fi/msc.pdf">thesis</a>. Openwave/Novarra don&#8217;t work with browser vendors like Webkit or Gecko.</p>

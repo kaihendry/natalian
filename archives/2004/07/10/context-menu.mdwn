@@ -1,5 +1,6 @@
 [[!meta title="Context menu" ]]
 [[!meta date="2004-07-10 01:14:00" ]]
+[[!tag Debian]]
 <a href="http://pictures.natalian.org/screenies/2004/jul/10/01:11:06/">
 A _context_ menu so large, you wonder where the context went.
 </a>

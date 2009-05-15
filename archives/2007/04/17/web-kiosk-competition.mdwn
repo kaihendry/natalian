@@ -1,5 +1,6 @@
 [[!meta title="Web kiosk competition" ]]
 [[!meta date="2007-04-17 23:36:41" ]]
+[[!tag web kiosk webconverger]]
 <a href="http://www.flickr.com/photos/hendry/463364534/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/195/463364534_f52708dcfa_m.jpg" width="240" height="180" alt="rpath's kiosk 0.4 (installable)" /></a>
 
 <p>I received some Webconverger feedback today, saying this guy tried:</p>

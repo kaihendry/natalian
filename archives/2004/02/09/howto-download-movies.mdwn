@@ -1,5 +1,6 @@
 [[!meta title="Howto download movies" ]]
 [[!meta date="2004-02-09 21:11:27" ]]
+[[!tag General]]
 <ol>
 
 <p><li>Install the <a href="http://bitconjurer.org/BitTorrent/">Bit torrent</a> client</li><br />

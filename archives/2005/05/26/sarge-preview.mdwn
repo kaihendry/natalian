@@ -1,5 +1,6 @@
 [[!meta title="Sarge preview" ]]
 [[!meta date="2005-05-26 09:40:26" ]]
+[[!tag Debian]]
 <p>Yesterday I gave sarge a whirl from the 8 meg <a href="http://ftp.debian.org/debian/dists/testing/main/installer-i386/rc3/images/netboot/mini.iso">mini.iso</a> and VMWare.</p>
 
 <p>Couple of things that disagreed with me about the install:</p>

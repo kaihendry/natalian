@@ -1,5 +1,6 @@
 [[!meta title="Working on Wordpress" ]]
 [[!meta date="2007-01-17 19:36:42" ]]
+[[!tag wordpress Debian]]
 <a href="http://www.flickr.com/photos/hendry/360729784/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/157/360729784_e3034c8fe7_m.jpg" width="240" height="180" alt="Stacked Thinkpads" /></a>
 
 <p>I am keeping a close eye on the <a href="http://wordpress.org/development/2007/01/wordpress-207/">Wordpress 2.0.7 release</a>.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Halifax spam" ]]
 [[!meta date="2004-03-20 13:31:23" ]]
+[[!tag General]]
 <p>My parents are visiting me in Helsinki and since the weather is so bad, I am helping my father manage his computer affairs. A couple of things I was annoyed about firstly is that his bank Halifax spam him.</p>
 
 <img src="https://www.halifax-online.co.uk/LookAndFeel/images/Halifax/hxgivingyouextra.gif" alt="Halifax logo" />

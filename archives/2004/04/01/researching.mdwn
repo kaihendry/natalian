@@ -1,5 +1,6 @@
 [[!meta title="Researching" ]]
 [[!meta date="2004-04-01 11:13:07" ]]
+[[!tag School]]
 <p>I am quite pissed off about researching.</p>
 
 <p>First you basically either have to access <a href="http://www.ieee.org/"><span class="caps">IEEE</span></a> or <a href="http://www.acm.org/"><span class="caps">ACM</span></a>. Some sections of <span class="caps">IEEE</span> are restricted for the Finnish Consortium which paid for access. I don&#8217;t know which, and I absolutely <span class="caps">HATE</span> being greeted with a user login when I am browsing their pages.</p>

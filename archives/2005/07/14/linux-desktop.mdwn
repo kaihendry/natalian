@@ -1,5 +1,6 @@
 [[!meta title="Linux Desktop" ]]
 [[!meta date="2005-07-14 12:01:32" ]]
+[[!tag desktops Debian linux]]
 <p>I must comment on this <a href="http://weblogs.mozillazine.org/asa/archives/008499.html">Desktop rant.</a></p>
 
 <p>Thanks to my earlier post about <a href="http://natalian.org/archives/2005/07/11/kiosk-linux/">Kiosk Linux</a> I have put onto <a href="http://blogs.livecd.net/www/index.php?cat=17">LiveKiosk 1.0.</a></p>

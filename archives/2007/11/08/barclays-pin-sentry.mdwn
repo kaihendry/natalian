@@ -1,5 +1,6 @@
 [[!meta title="Barclays PIN sentry" ]]
 [[!meta date="2007-11-08 12:52:00" ]]
+[[!tag banking barclays pinsentry visa General]]
 <img src="http://www.barclays.co.uk/pinsentry/images/00_sentry.gif" />
 
 <p>Last August I lost my <span class="caps">VISA</span> debit card. So I ordered a new one.</p>

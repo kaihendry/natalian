@@ -1,5 +1,6 @@
 [[!meta title="GRRRR!!" ]]
 [[!meta date="2004-03-04 12:30:40" ]]
+[[!tag Helsinki Debian General]]
 <p>Sometime after<br />
 <pre>Mar  2 12:32:46 bilbo&#8212;<span class="caps">MARK</span>&#8212;</pre><br />
 There was a power outage in the Helsinki area. I have been told it was small, but it was enough to set my machine to reboot. Btw I was on a boat in the Baltic sea at that time. :)</p>

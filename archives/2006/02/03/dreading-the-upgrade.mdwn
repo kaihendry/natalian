@@ -1,5 +1,6 @@
 [[!meta title="Dreading the upgrade" ]]
 [[!meta date="2006-02-03 19:44:03" ]]
+[[!tag Debian t30 thinkpad]]
 <a href="http://www.flickr.com/photos/hendry/94741747/" title="Photo Sharing"><img src="http://static.flickr.com/15/94741747_d1445e6a16_m.jpg" width="240" height="159" alt="A deer in the sea" /></a>
 
 <p>I hate upgrading hard drives. Every time I&#8217;ve had to migrate data from a dodgy disk something wrong happens.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Site Navigation wha..." ]]
 [[!meta date="2004-02-24 17:48:19" ]]
+[[!tag General]]
 <p>Seen this ?</p>
 
 <a href="http://www.webstandards.org/buzz/archive/2004_02.html#a000298">Site navigation bar</a> thingie.

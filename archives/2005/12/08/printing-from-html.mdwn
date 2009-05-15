@@ -1,5 +1,6 @@
 [[!meta title="Printing from HTML" ]]
 [[!meta date="2005-12-08 16:28:43" ]]
+[[!tag xml latex letter print prince css]]
 <p>I discovered <a href="http://www.princexml.com/overview/">Prince</a> from a <a href="http://www.alistapart.com/articles/boom">printing from <span class="caps">HTML</span> article</a> whilst looking for a date picker on <a href="http://www.alistapart.com">a list apart</a>. I&#8217;ve yet to find a decent date picker. I&#8217;ll probably have to <a href="http://whatwg.org/demos/date-01/">wait for one.</a></p>
 
 <p>The <a href="http://www.princexml.com/samples/">samples really show off <strong>Prince</strong></a>. Too <a href="http://www.princexml.com/purchase/">pricey</a> (for me) at 3800USD to run on a server.</p>

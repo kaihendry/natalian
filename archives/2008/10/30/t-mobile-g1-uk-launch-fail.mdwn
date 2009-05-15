@@ -1,5 +1,6 @@
 [[!meta title="T-mobile G1 UK launch FAIL" ]]
 [[!meta date="2008-10-30 23:28:09" ]]
+[[!tag launch Mobile t-mobile fail android General]]
 <ul>
 <li>Though I signed up and pre-registered T-mobile&#8217;s newsletter did not provide any information how to purchase the G1</li>
 <li>I called up my local T-mobile branch in Woking and they said they&#8217;ll only get the device in late in November</li>

@@ -1,5 +1,6 @@
 [[!meta title="Five nines" ]]
 [[!meta date="2005-07-04 15:40:56" ]]
+[[!tag General]]
 <p>99.999% availability on service level agreements generally accomodate just <strong>one</strong> point of failure. So in a cluster if one machine goes down, it copes as there is another one to take it&#8217;s tasks on the fly and all the data is replicated elsewhere.</p>
 
 <p>I wonder what High Availability(HA) setups feature <strong>two</strong> points of failure or how they&#8217;re marketed&#8230;</p>

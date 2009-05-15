@@ -1,5 +1,6 @@
 [[!meta title="Pet peeve: Volume controls" ]]
 [[!meta date="2006-06-11 17:51:11" ]]
+[[!tag google bbc shitlist]]
 <p>This annoying problem occurs on Win32 and Linux based platforms.</p>
 
 <p>Problem: <span class="caps">WTF</span> is my sound?</p>

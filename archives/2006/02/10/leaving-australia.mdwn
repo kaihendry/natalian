@@ -1,5 +1,6 @@
 [[!meta title="Leaving Australia" ]]
 [[!meta date="2006-02-10 14:22:33" ]]
+[[!tag australia office recruitment work melbourne contracting korea]]
 <p>One of the reasons I left Melbourne is that a job offer with <a href="http://www.sgi.com/"><span class="caps">SGI</span></a> fell through. I knew the company was in dire straights, but this <a href="http://slashdot.org/articles/06/02/09/2311219.shtml">story on slashdot confirms it.</a></p>
 
 <p>They wanted me to work on the interface (a Web application) for their <span class="caps">NFS</span> <a href="http://www.netapp.com/">NetAppliance</a> products.</p>

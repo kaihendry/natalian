@@ -1,5 +1,6 @@
 [[!meta title="Social networking spam" ]]
 [[!meta date="2006-11-10 14:25:03" ]]
+[[!tag shitlist spam]]
 <a href="http://www.flickr.com/photos/hendry/293726999/" title="Photo Sharing"><img src="http://static.flickr.com/114/293726999_437a0be157_m.jpg" width="240" height="180" alt="Last taxi" /></a>
 
 <p>Lately I get spam email from <span class="caps">WAYN</span> <a href="mailto:info@whereareyounow.net">info@whereareyounow.net</a> with a subject like:</p>

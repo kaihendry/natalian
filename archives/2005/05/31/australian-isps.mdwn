@@ -1,5 +1,6 @@
 [[!meta title="Australian ISPs" ]]
 [[!meta date="2005-05-31 16:34:18" ]]
+[[!tag Travel australia]]
 <pre>
 melbourne$ traceroute hendry.iki.fi
 traceroute to hendry.iki.fi (83.146.8.59), 30 hops max, 38 byte packets

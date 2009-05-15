@@ -1,5 +1,6 @@
 [[!meta title="PSP cons" ]]
 [[!meta date="2005-08-03 09:31:22" ]]
+[[!tag Mobile psp]]
 <ul>
 <li>Short battery life compared to a mobile phone. 3&#8211;4hrs to what, 24 hours nowadays at least?</li>
 <li>It&#8217;s not a mobile phone. So you can&#8217;t make phone calls, so I find it hard to imagine myself with two hunks of plastic in my pockets.</li>

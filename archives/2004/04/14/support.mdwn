@@ -1,5 +1,6 @@
 [[!meta title="Support" ]]
 [[!meta date="2004-04-14 11:08:58" ]]
+[[!tag Debian]]
 <p>I am quite interested in this <a href="http://necrotic.deadbeast.net/rt/">Request Tracker</a> (user: guest pass: guest) from <a href="http://bestpractical.com/">Best practical</a>.</p>
 
 <p>Ok, I don&#8217;t think anything can beat the <a href="http://www.debian.org/Bugs/">Debian <span class="caps">BTS</span></a> at present. But that is too Debian specific.</p>

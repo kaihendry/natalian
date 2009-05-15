@@ -1,5 +1,6 @@
 [[!meta title="Go faster Mozilla" ]]
 [[!meta date="2008-04-14 12:07:59" ]]
+[[!tag web firefox Mobile ff3 zoom General china delicious webkit video bookmarks addons]]
 <a href="http://www.flickr.com/photos/hendry/2413497636/" title="Fennec VERSUS FF3b5 by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3014/2413497636_b84b8dc2b8.jpg" width="500" height="375" alt="Fennec VERSUS FF3b5" /></a>
 
 <p>I&#8217;ve been using Firefox 3 (beta5) pre-release lately, because it&#8217;s <strong>faster</strong> than Firefox 2.</p>

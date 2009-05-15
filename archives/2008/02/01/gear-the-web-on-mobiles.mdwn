@@ -1,5 +1,6 @@
 [[!meta title="Gear the Web on mobiles" ]]
 [[!meta date="2008-02-01 11:11:47" ]]
+[[!tag web google Mobile General symbian london gears android Debian aplix]]
 <a href="http://www.flickr.com/photos/hendry/2230733688/" title="android on dwm by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2272/2230733688_13a572da48_m.jpg" width="240" height="150" alt="android on dwm" /></a>
 
 <p>Update (3/3/2008): <a href="http://google-code-updates.blogspot.com/2008/03/power-up-your-mobile-web-applications.html">We&#8217;re also working to bring <strong>Google Gears for mobile to Android</strong> and other mobile platforms with capable web browsers.</a></p>

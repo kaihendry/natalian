@@ -1,5 +1,6 @@
 [[!meta title="Research" ]]
 [[!meta date="2004-02-13 17:21:14" ]]
+[[!tag School Helsinki]]
 <p>Besides infotaining myself with Nokia developer docs, I am currently employed to take care of the web medium for the research project I am involved in, called <a href="http://www.cs.helsinki.fi/group/nodes/"><acronym title="Research on Distributed and Networked Systems and Applications"><span class="caps">NODES</span></acronym></a>.</p>
 
 <p>Today I have got the go ahead to roll out a standards compliant version of the older homepage. All those research groups listed will be migrated to an accessible <span class="caps">XHTML</span> format, over the next week.</p>

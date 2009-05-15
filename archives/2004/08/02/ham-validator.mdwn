@@ -1,5 +1,6 @@
 [[!meta title="Ham validator" ]]
 [[!meta date="2004-08-02 13:26:22" ]]
+[[!tag Debian]]
 <p>In order to encourage better style wouldn&#8217;t it be reasonable idea to evaluate emails (by <span class="caps">URL</span> for e.g.) for good practises such as:</p>
 
 <ul>

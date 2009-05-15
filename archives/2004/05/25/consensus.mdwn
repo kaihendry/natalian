@@ -1,5 +1,6 @@
 [[!meta title="CONSENSUS" ]]
 [[!meta date="2004-05-25 09:32:00" ]]
+[[!tag Mobile]]
 <p>I learnt if you want free access to UAProfiles of mobile specifications, I need to go for <a href="http://lists.w3.org/Archives/Public/www-di/2004May/0007.html">comprehensive commercial implementations</a>. UAProfiles is such a joke. No ordinary person is going to out their way to adapt content to the myriad of (almost) unparsable UAProfiles. The whole <a href="http://ln.hixie.ch/?start=1085056751&amp;count=1">profile thang indicates a poor technology</a>.</p>
 
 <p>Now an <a href="http://lists.w3.org/Archives/Public/www-di/2004May/0004.html">announcement</a> about <a href="http://www-124.ibm.com/developerworks/oss/consensus/index.html"><span class="caps">CONSENSUS</span></a> on <a href="http://lists.w3.org/Archives/Public/www-di/">w3-di list</a>, tells of <span class="caps">RIML</span> and the <a href="http://www.consensus-online.org/"><span class="caps">CONSENSUS</span> consortium.</a> I am always <span class="caps">SUPER</span> wary of new <span class="caps">XML</span> based languages, and even more so of a consortium doing web related specifications which is not W3C.</p>

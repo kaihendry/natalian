@@ -1,5 +1,6 @@
 [[!meta title="Brute force attack excuses" ]]
 [[!meta date="2008-04-27 08:55:58" ]]
+[[!tag security usability General]]
 <a href="http://www.flickr.com/photos/hendry/2429465790/" title="Ramekin &amp; cream by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3128/2429465790_70504e5c4a_m.jpg" width="240" height="180" alt="Ramekin &amp; cream" /></a>
 
 <p>When you hear of &#8220;Brute force attacks&#8221;, you can generally find flaws.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Migration" ]]
 [[!meta date="2005-05-06 09:19:49" ]]
+[[!tag Debian]]
 <p>I am migrating my data from Finland to the UK from Bangkok and everything is a bit of a mess now.</p>
 
 <p>I have updated the <a href="http://www.cs.helsinki.fi/u/hendry/debian/">maradns package</a> which should <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=307662">fix a security issue.</a></p>

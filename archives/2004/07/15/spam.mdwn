@@ -1,5 +1,6 @@
 [[!meta title="Spam" ]]
 [[!meta date="2004-07-15 14:12:20" ]]
+[[!tag Debian]]
 <p>I keep getting spam with quite good From: addresses and subjects with a body like this:</p>
 
 <blockquote>

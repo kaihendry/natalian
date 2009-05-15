@@ -1,5 +1,6 @@
 [[!meta title="Mail musings" ]]
 [[!meta date="2005-11-28 10:13:56" ]]
+[[!tag mail Debian spam]]
 <p>I use Gmail to filter my mail. This has been the case since June 2005. I usually have about <strong>1000</strong> SPAMs in the <span class="caps">SPAM</span> mailbox. Recently I&#8217;m up to almost <strong>1500</strong>. Sigh.</p>
 
 <p>I noticed <a href="http://lists.alioth.debian.org/pipermail/pkg-mediawiki-devel/2005-November/thread.html">alioth was spammed pretty bad.</a> That&#8217;s one reason.</p>

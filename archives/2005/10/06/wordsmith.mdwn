@@ -1,5 +1,6 @@
 [[!meta title="Wordsmith" ]]
 [[!meta date="2005-10-06 12:43:33" ]]
+[[!tag Debian dictionary]]
 <pre>
 debian$ dict qualms
 bash: dict: command not found

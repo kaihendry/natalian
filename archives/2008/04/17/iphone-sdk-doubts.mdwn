@@ -1,5 +1,6 @@
 [[!meta title="Iphone SDK doubts" ]]
 [[!meta date="2008-04-17 13:21:00" ]]
+[[!tag apple Mobile ipod General iphone touch sdk]]
 <p><span class="caps">OMG</span>, the Iphone <span class="caps">SDK</span> has been with us a couple of months. Aren&#8217;t you blown away by those killer applications?</p>
 
 <a href="http://www.flickr.com/photos/hendry/2418794676/" title="Mozilla/5.0 (iPhone Simulator; U; iPhone OS 2_0 like Mac OS X; en-us) AppleWebKit/525.17 (KHTML, like Gecko) Version/3.1 Mobile/5A240d Safari/5525.7 by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3122/2418794676_fc6a870982_m.jpg" width="129" height="240" alt="Mozilla/5.0 (iPhone Simulator; U; iPhone OS 2_0 like Mac OS X; en-us) AppleWebKit/525.17 (KHTML, like Gecko) Version/3.1 Mobile/5A240d Safari/5525.7" /></a>

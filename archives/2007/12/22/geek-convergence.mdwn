@@ -1,5 +1,6 @@
 [[!meta title="Geek convergence" ]]
 [[!meta date="2007-12-22 14:04:16" ]]
+[[!tag web freedom General video html5 media]]
 <p>I&#8217;m a big fan of <a href="http://en.wikipedia.org/wiki/Stephen_Fry">Stephen Fry</a> and his work. I can highly recommend his <a href="http://en.wikipedia.org/wiki/Stephen_Fry#Literature">novels</a> too. Brilliant stuff.</p>
 
 <p>Though I find really odd yet wonderful how <a href="http://stephenfry.com/blog/?p=32">Stephen is blogging about HTML5</a>.</p>

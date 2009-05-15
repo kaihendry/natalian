@@ -1,5 +1,6 @@
 [[!meta title="Sharing images" ]]
 [[!meta date="2006-07-20 17:01:31" ]]
+[[!tag images web korea wikipedia webdev]]
 <a href="http://www.flickr.com/photos/hendry/189880397/" title="Photo Sharing"><img src="http://static.flickr.com/52/189880397_7e21dea08d_m.jpg" width="240" height="180" alt="Stone daggers" /></a>
 
 <p>The most rewarding moments online for me is when someone uses my work. In the case of images, to aid this process I&#8217;ve licensed my images as <a href="http://creativecommons.org/licenses/by/2.5/">liberally as possible</a> with <a href="http://www.flickr.com/photos/hendry/">Flickr</a>.</p>

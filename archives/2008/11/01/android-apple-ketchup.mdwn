@@ -1,5 +1,6 @@
 [[!meta title="Android Apple Ketchup" ]]
 [[!meta date="2008-11-01 11:25:14" ]]
+[[!tag geolocation g1 contacts Mobile General android]]
 <a href="http://www.flickr.com/photos/hendry/2989507456/" title="SIM lock dialog by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3276/2989507456_a04f101cda_m.jpg" width="240" height="180" alt="SIM lock dialog" /></a>
 
 <p>Here are my first impressions of using an Android G1 mobile in the UK.</p>

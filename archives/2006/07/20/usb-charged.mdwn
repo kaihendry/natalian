@@ -1,5 +1,6 @@
 [[!meta title="USB charged" ]]
 [[!meta date="2006-07-20 00:47:23" ]]
+[[!tag ds power nintendo]]
 <a href="http://www.flickr.com/photos/hendry/193399537/" title="photo sharing"><img src="http://static.flickr.com/48/193399537_3143caddc7_m.jpg" alt="" /></a>
 <p>I've noticed this trend in Electronic shows and elsewhere. More and more devices are being charged with the standard USB interface.<br />
 <br />

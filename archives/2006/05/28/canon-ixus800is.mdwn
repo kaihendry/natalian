@@ -1,5 +1,6 @@
 [[!meta title="Canon IXUS800is" ]]
 [[!meta date="2006-05-28 15:35:45" ]]
+[[!tag me video]]
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/ByQWSSvVMIk"></param><embed src="http://www.youtube.com/v/ByQWSSvVMIk" type="application/x-shockwave-flash" width="425" height="350"></embed></object>
 
 <a href="http://www.flickr.com/photos/hendry/154550848/" title="Photo Sharing"><img src="http://static.flickr.com/60/154550848_a33632c24c_m.jpg" width="240" height="180" alt="Kai crouching over a keyboard" /></a>

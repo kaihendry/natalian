@@ -1,5 +1,6 @@
 [[!meta title="Debian doldrums" ]]
 [[!meta date="2006-02-07 23:03:56" ]]
+[[!tag korea Debian webpy]]
 <a href="http://www.flickr.com/photos/juttahendry/96720950/" title="Photo Sharing"><img src="http://static.flickr.com/26/96720950_17920783ea_m.jpg" width="240" height="180" alt="Kai participates in a snow fight" /></a>
 
 <p>Gotta love Debian sometimes. ;)</p>

@@ -1,5 +1,6 @@
 [[!meta title="Hutchison 3G hacks" ]]
 [[!meta date="2007-08-31 15:11:56" ]]
+[[!tag Mobile]]
 <a href="http://www.flickr.com/photos/hendry/1277489967/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1012/1277489967_e740dc57da_m.jpg" width="240" height="180" alt="My phone bill" /></a>
 
 <p>I have a couple of tips for <a href="http://natalian.org/archives/2007/05/15/nokia-e65-from-3/">Hutchison Three X-series users</a> to share.</p>

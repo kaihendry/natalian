@@ -1,5 +1,6 @@
 [[!meta title="Nokia Media queries" ]]
 [[!meta date="2004-04-08 10:19:52" ]]
+[[!tag Mobile]]
 <p>I have discovered my:<br />
 <pre><br />
 Nokia3100/1.0 (04.01) Profile/MIDP-1.0 Configuration/CLDC-1.0<br />

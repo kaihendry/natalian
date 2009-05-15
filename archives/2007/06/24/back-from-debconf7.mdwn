@@ -1,5 +1,6 @@
 [[!meta title="Back from Debconf7" ]]
 [[!meta date="2007-06-24 18:38:19" ]]
+[[!tag webconverger Debian]]
 <a href="http://www.flickr.com/photos/hendry/602435467/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1432/602435467_e859841634_m.jpg" width="240" height="180" alt="Kai and Fabio" /></a>
 
 <ul>

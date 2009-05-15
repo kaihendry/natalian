@@ -1,5 +1,6 @@
 [[!meta title="Viewing porn in Winblows" ]]
 [[!meta date="2005-09-27 14:20:11" ]]
+[[!tag windows]]
 <p>One of the very very few things I like about using a Windows XP machines is the <strong>Windows Picture and Fax Viewer</strong>. This is one of Microsoft&#8217;s killer apps, as it is simple to use and works well. Printing is fantastic too. It can actually handle graphics over a megabyte, unlike previous versions of Windows.</p>
 
 <p>Now, how does one restore the <span class="caps">JPEG</span> association with Microsoft&#8217;s image viewer once I&#8217;ve installed a stupid program which hijacks Images types!</p>

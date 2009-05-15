@@ -1,5 +1,6 @@
 [[!meta title="Web application policy" ]]
 [[!meta date="2005-06-22 13:38:15" ]]
+[[!tag Debian]]
 <p>Web applications. Mega important. :)</p>
 
 <p>I raised the <a href="http://www.debian.org/News/weekly/2004/33/">issue sometime ago.</a> Though since I have been gallivanting across Russia and Asia until now I didn&#8217;t do any work in this area.</p>

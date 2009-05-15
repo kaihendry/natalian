@@ -1,5 +1,6 @@
 [[!meta title="Font mozilla debian" ]]
 [[!meta date="2004-03-18 13:32:22" ]]
+[[!tag Debian]]
 <p>Crappy font in Mozilla with Debian ?</p>
 
 <pre>sudo apt-get install mozilla-xft</pre>

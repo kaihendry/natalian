@@ -1,5 +1,6 @@
 [[!meta title="Back to top" ]]
 [[!meta date="2004-04-01 12:51:22" ]]
+[[!tag General]]
 <p>The first installment of failures of web user agents I have come across begins with that stupido Back to Top link.</p>
 
 <p>It is information pollution caused by the user agent failing to provide the user a usable, logical way of quickly getting to the top of a viewed webpage.</p>

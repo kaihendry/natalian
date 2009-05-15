@@ -1,5 +1,6 @@
 [[!meta title="More downtime" ]]
 [[!meta date="2005-04-07 07:18:37" ]]
+[[!tag Travel Helsinki]]
 <p>My box hosting dabase.com and natalian.org and many other sites will be offline for awhile as I try migrate the box&#8217;s data from Finland to Jamie&#8217;s box in London.</p>
 
 <p>When I have some money I&#8217;ll get my box in some colo facility in Helsinki. Thanks Teemu Hukkanen for looking after the box.</p>

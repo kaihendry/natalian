@@ -1,5 +1,6 @@
 [[!meta title="Consulting" ]]
 [[!meta date="2005-12-15 09:10:15" ]]
+[[!tag java accenture]]
 <a href="http://www.flickr.com/photos/hendry/73385134/" title="Photo Sharing"><img src="http://static.flickr.com/34/73385134_6cbcc03ab8.jpg" width="500" height="332" alt="dcp_9383" /></a>
 
 <p>I have an ex-girlfriend with a business background that recently took a job with <a href="http://uk.finance.yahoo.com/q?s=ACN">Accenture</a> as an IT Consultant.</p>

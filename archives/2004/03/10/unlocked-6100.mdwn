@@ -1,5 +1,6 @@
 [[!meta title="Unlocked 6100" ]]
 [[!meta date="2004-03-10 21:20:03" ]]
+[[!tag Mobile]]
 <p>After reading <a href="http://www.oreillynet.com/pub/wlg/3935">Unlocking Your Nokia Phone</a>. I finally eventually AT <span class="caps">LAST</span> found <a href="http://www.uniquephones.com/unlock/dct4/dct4.php">phones unlocking code generator</a>. A web based tool for generating the code you need, as opposed to those <span class="caps">MORONWARE</span> Win32 applications.</p>
 
 <p>Unfortunately they want to register. Assholes.</p>

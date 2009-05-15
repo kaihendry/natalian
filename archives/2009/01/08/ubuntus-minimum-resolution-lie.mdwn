@@ -1,5 +1,6 @@
 [[!meta title="Ubuntu's minimum resolution lie" ]]
 [[!meta date="2009-01-08 22:58:55" ]]
+[[!tag lenovo gnome General ideapad netbook ubuntu]]
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/1wd066HO8_E&amp;hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1wd066HO8_E&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 <p>Another reason to hate Gnome, <strong>scalability</strong>. Though Ubuntu <a href="https://help.ubuntu.com/community/Installation/SystemRequirements">advertise a minimum resolution of 640&#215;480</a>, there are many several menus and applications that assume a much larger display. Hence OK/Cancel buttons can be unreachable!</p>

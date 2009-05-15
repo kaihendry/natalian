@@ -1,5 +1,6 @@
 [[!meta title="Local conditions" ]]
 [[!meta date="2006-02-17 11:19:45" ]]
+[[!tag google]]
 <a href="http://www.flickr.com/photos/hendry/94742368/" title="Photo Sharing"><img src="http://static.flickr.com/35/94742368_28ca0d6b16_m.jpg" width="159" height="240" alt="Our booty is stolen" /></a>
 
 <p>So <a href="http://googleblog.blogspot.com/2006/02/testimony-internet-in-china.html">Google argue their place in the Chinese market</a> by saying:</p>

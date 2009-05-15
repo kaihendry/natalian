@@ -1,5 +1,6 @@
 [[!meta title="DreamHost review" ]]
 [[!meta date="2005-08-09 11:36:47" ]]
+[[!tag postfix exim hosting subversion nfs dreamhost]]
 <p>I am moving over to <a href="http://www.dreamhost.com/r.cgi?104617">DreamHost.</a></p>
 
 <p>My colleague says the <a href="http://natalian.org/archives/2005/07/29/jmeter/">Jmeter test on DreamHost hosted Natalian is about 10 times better than the previous test.</a></p>

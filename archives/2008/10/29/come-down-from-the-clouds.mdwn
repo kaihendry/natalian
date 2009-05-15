@@ -1,5 +1,6 @@
 [[!meta title="Come down from the clouds" ]]
 [[!meta date="2008-10-29 20:15:03" ]]
+[[!tag computing General facebook services flickr cloud]]
 <a href="http://www.flickr.com/photos/hendry/2982819334/" title="Disabled - don't know why by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3153/2982819334_618c9fdbba_o.png" width="673" height="387" alt="Disabled - don't know why" /></a>
 
 <p>So <a href="http://news.bbc.co.uk/1/hi/technology/7693993.stm">computing is going into the cloud</a>. Fantastic. Think of the new possibilities!</p>

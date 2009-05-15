@@ -1,5 +1,6 @@
 [[!meta title="10 years of XML" ]]
 [[!meta date="2008-05-15 16:33:36" ]]
+[[!tag xml csv html General]]
 <p>Since <a href="http://www.w3.org/2008/xml10/"><span class="caps">XML</span> is 10 years of age</a> I thought I&#8217;d give it the rant treatment. I&#8217;ve long grumbled about <span class="caps">XML</span>. Here&#8217;s why:</p>
 
 <ul>

@@ -1,5 +1,6 @@
 [[!meta title="Bangalore" ]]
 [[!meta date="2004-12-12 19:08:31" ]]
+[[!tag Debian]]
 <p>On the 9th of December I met with Debian developer Ganesan Rajagopal and <a href="http://nm.debian.org/nmstatus.php?email=hendry%40cs.helsinki.fi">aspiring DD</a> Chirag Kantharia in a <a href="http://en.wikipedia.org/wiki/Bangalore">Bangalore</a> cafe. Later we went to the &#8220;Coffee House&#8221; on M.G. Road, I recommend that place for a coffee and a Masala Dosa.</p>
 
 <p>Months ago I was quite excited about the idea of a place-to-be silicon valley on my <a href="http://trip.natalian.org/">Eastern trip itinerary.</a> After meeting some geeks in Islamabad I was not very optimistic. People were not familiar with Unix or any Web specs. All they seemed to &#8220;know&#8221; were their ripped-off high level tools like whatever crap <a href="http://www.joelonsoftware.com/articles/APIWar.html">M$ shoots out.</a></p>

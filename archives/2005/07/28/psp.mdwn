@@ -1,5 +1,6 @@
 [[!meta title="PSP" ]]
 [[!meta date="2005-07-28 16:39:29" ]]
+[[!tag Mobile psp]]
 <p>After seeing a <a href="http://www.russellbeattie.com/notebook/1008553.html">post by Russell about the <span class="caps">PSP</span></a> I decided to visit my local games store and try out a <span class="caps">PSP</span> demo device.</p>
 
 <p>Funny how we call small things devices and larger devices machines.</p>

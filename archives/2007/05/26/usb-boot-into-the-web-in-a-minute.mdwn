@@ -1,5 +1,6 @@
 [[!meta title="USB boot into the Web in a minute" ]]
 [[!meta date="2007-05-26 11:49:34" ]]
+[[!tag video kiosk webconverger web]]
 <embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=4013463082532158916&amp;hl=en" flashvars=""> </embed>
 
 <a href="http://download.webconverger.com/">Download the Webconverger 2.16 USB .img version</a>

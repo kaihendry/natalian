@@ -1,3 +1,4 @@
 [[!meta title="Another test" ]]
 [[!meta date="2005-05-30 11:10:50" ]]
+[[!tag General]]
 <p><a href="http://www.dummy-blog.org/?start=1031366295&amp;count=1">Please work</a></p>

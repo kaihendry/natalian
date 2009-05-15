@@ -1,5 +1,6 @@
 [[!meta title="Google goes flash" ]]
 [[!meta date="2005-09-28 13:35:42" ]]
+[[!tag flash google]]
 <p><strong>I hate Flash.</strong></p>
 
 <p>I guess I am not the only one who noticed that <a href="http://blogsearch.google.com/blogsearch?hl=en&amp;q=google+video+flash+vlc&amp;btnG=Search+Blogs">Google has gone for Flash.</a></p>

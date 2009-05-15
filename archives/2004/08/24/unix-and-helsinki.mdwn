@@ -1,5 +1,6 @@
 [[!meta title="Unix and Helsinki" ]]
 [[!meta date="2004-08-24 16:45:55" ]]
+[[!tag Helsinki]]
 <p>So this morning I am in Helsinki and I thought, lets use the computers at <a href="http://db.cs.helsinki.fi/~hendry/log/pyblosxom.cgi/bad/aleksandria.html">Aleksandria,</a> maybe they&#8217;ve improved from a year ago.</p>
 
 <p>It has not. :/</p>

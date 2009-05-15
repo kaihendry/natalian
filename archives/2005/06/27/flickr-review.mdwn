@@ -1,5 +1,6 @@
 [[!meta title="Flickr review" ]]
 [[!meta date="2005-06-27 11:56:59" ]]
+[[!tag Travel]]
 <p>Just playing around with <a href="http://www.flickr.com">Flickr</a> and a <a href="http://www.flickr.com/photos/16105436@N00/">few pictures</a> from my ancient Kodak.</p>
 
 <p>Upload tool win32 was nice, but where is the <strong>download tool</strong>? It seems like a pain to download the original image. I don&#8217;t want to be in a trap. No tie ins!</p>

@@ -1,5 +1,6 @@
 [[!meta title="Future of Mobile" ]]
 [[!meta date="2007-11-14 22:32:25" ]]
+[[!tag google Mobile fonts General fom android carsonified]]
 <a href="http://www.flickr.com/photos/hendry/2005037394/" title="tools/emulate by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2146/2005037394_4168e89f50_m.jpg" width="155" height="240" alt="tools/emulate" /></a>
 
 <p>So this time, <a href="http://natalian.org/archives/2007/10/03/fowa/">no internet instead of a piss poor connection</a> from <a href="http://carsonified.com/">Carson</a>. So I had to struggle with my Gmail fix via my <a href="http://natalian.org/archives/2007/05/15/nokia-e65-from-3/">Nokia E65</a>. It can&#8217;t be that hard to setup a couple of Linksys WRT54G-L routers onto a computer with a Vodafone high speed connection dongle thingie. It&#8217;s a myth that <span class="caps">WIFI</span> can&#8217;t handle lots of users in a concentrated space, as I remember Debconf&#8217;s wireless in Edinburgh working well with <em>loads</em> of connections. However, you do need the right equipment (WRT54G-L with <a href="http://www.polarcloud.com/tomato">Tomato firmware</a>) and the expertise. Though today, they could of done with a decent sound engineer. Audio/mics were also poor.</p>

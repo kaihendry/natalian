@@ -1,5 +1,6 @@
 [[!meta title="Searching mailman archives is such a disaster" ]]
 [[!meta date="2007-11-12 13:54:16" ]]
+[[!tag rant google mailman General]]
 <a href="https://list.opera.com/mailman/mmsearch/opera-linux">One</a>
 
 <a href="http://www.flickr.com/photos/hendry/1983421097/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2189/1983421097_592572bfc6_o.png" width="977" height="182" alt="Step 1" /></a>

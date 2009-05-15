@@ -1,5 +1,6 @@
 [[!meta title="Scalable images" ]]
 [[!meta date="2005-01-21 11:04:26" ]]
+[[!tag Mobile]]
 <p>One of the key reasons for the success of the Web are images.</p>
 
 <p>But images do not scale currently very well to mobile devices. A server needs to know the screen size of the mobile device (close to impossible) and then <span class="caps">CPU</span> intensively resize it.</p>

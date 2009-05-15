@@ -1,5 +1,6 @@
 [[!meta title="Exactum" ]]
 [[!meta date="2004-07-22 16:40:57" ]]
+[[!tag Helsinki]]
 <p><a href="http://www.cs.helsinki.fi/Exactum-kamera/">Exactum</a> is the new home of the <a href="http://www.cs.helsinki.fi/">Computer Science department</a> of <a href="http://www.helsinki.fi/">Helsinki University.</a></p>
 
 <p>I visited the <a href="http://www.cs.helsinki.fi/contact/kartta.html">old department</a> in Teollisuuskatu 23 (Vallila) for last time last Monday to pack up my office. It is quite sad to leave this building as it has been home to me for more than three years. I have made several good friends, have had plenty of opportunity bestowed on me and a good education in that building. It is also the place incidentally where Linus Torvalds was working when he first came up with that <a href="http://www.cs.helsinki.fi/linux/">Linux project.</a></p>

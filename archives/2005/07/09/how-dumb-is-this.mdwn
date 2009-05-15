@@ -1,5 +1,6 @@
 [[!meta title="How dumb is this?" ]]
 [[!meta date="2005-07-09 08:17:10" ]]
+[[!tag Politics]]
 <p><a href="http://www.eweek.com/article2/0,1895,1835190,00.asp">A <span class="caps">SECURE</span> Internet Web chat room keeps London financial markets running</a></p>
 
 <p>Why not pickup a phone? Or email?</p>

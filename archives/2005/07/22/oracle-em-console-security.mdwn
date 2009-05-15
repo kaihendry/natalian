@@ -1,5 +1,6 @@
 [[!meta title="Oracle EM Console security" ]]
 [[!meta date="2005-07-22 11:14:48" ]]
+[[!tag Oracle security]]
 <p>It&#8217;s probably not a wise idea to allow SYSDBAs to connect to Oracle&#8217;s Enterprise Manager Console (actually it&#8217;s a Web application) over <span class="caps">HTTP</span>. Someone could sniff the password and have access to the database.</p>
 
 <p>Create a secure <span class="caps">SSH</span> tunnel:<br />

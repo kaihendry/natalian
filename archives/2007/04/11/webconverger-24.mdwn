@@ -1,5 +1,6 @@
 [[!meta title="Webconverger 2.4" ]]
 [[!meta date="2007-04-11 16:59:49" ]]
+[[!tag korea wordpress webconverger Debian]]
 <a href="http://www.flickr.com/photos/hendry/454397398/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/231/454397398_b32677fe62_m.jpg" width="240" height="180" alt="Korean Webconverger split 2.4" /></a>
 
 <p>I&#8217;ve just released <a href="http://webconverger.com/">Webconverger</a> (Web kiosk) <span class="caps">USB</span>&amp;ISO versions built with stable Debian etch.</p>

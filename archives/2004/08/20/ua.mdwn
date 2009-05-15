@@ -1,5 +1,6 @@
 [[!meta title="UA" ]]
 [[!meta date="2004-08-20 15:52:30" ]]
+[[!tag Mobile]]
 <p>This is good news from Nokia. They&#8217;ve revised their <a href="http://ncsp.forum.nokia.com/download/?asset_id=11972">UA string</a>.</p>
 
 <p>Death to UA Profiles!!!</p>

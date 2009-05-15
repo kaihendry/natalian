@@ -1,5 +1,6 @@
 [[!meta title="SVN" ]]
 [[!meta date="2004-02-03 13:26:07" ]]
+[[!tag General]]
 <p>I sent in a little simple insignificant <a href="http://www.contactor.se/~dast/svn/archive-2004-01/0210.shtml">patch</a> to <a href="http://subversion.tigris.org/project_faq.html">subversion <span class="caps">FAQ</span></a> documentation early last Jan.</p>
 
 <p>Now it has become <a href="http://subversion.tigris.org/issues/show_bug.cgi?id=1728">Issue 1728</a>.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Shock, Horror" ]]
 [[!meta date="2005-08-04 09:46:05" ]]
+[[!tag google]]
 <p>Can&#8217;t access google.</p>
 
 <code>

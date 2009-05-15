@@ -1,5 +1,6 @@
 [[!meta title="Debian Enterprise" ]]
 [[!meta date="2005-06-17 10:20:54" ]]
+[[!tag Debian]]
 <p>I have been subscribed to the <a href="http://www.redhat.com/">Red Hat</a> <a href="https://www.redhat.com/mailman/listinfo/enterprise-watch-list">enterprise-watch-list</a> for a week and there has been about <strong>12</strong> <a href="https://rhn.redhat.com/errata/rhel4es-errata.html">Red Hat Security Advisories.</a></p>
 
 <p>The last Debian Security Advisory was <a href="http://www.debian.org/security/2005/dsa-732">2 weeks ago.</a> That amazes me considering RH Enterprise is considered stable and it has far fewer packages.</p>

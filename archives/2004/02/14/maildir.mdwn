@@ -1,5 +1,6 @@
 [[!meta title="Maildir" ]]
 [[!meta date="2004-02-14 18:29:20" ]]
+[[!tag Debian]]
 <p>I spent most of my day pouring over exim4, mutt, dovecot, maildrop/mailfilter, bogofilter and spamassasin documentation and examples. And when that failed, I was just experimenting.</p>
 
 <p>I must have quite a polished setup now, including offlineimap for when I without a net connection (and backups), mairix for searching my mail and rss2email for news feeds.</p>

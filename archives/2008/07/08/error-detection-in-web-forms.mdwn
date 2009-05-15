@@ -1,5 +1,6 @@
 [[!meta title="Error detection in Web forms" ]]
 [[!meta date="2008-07-08 20:40:05" ]]
+[[!tag forms Mobile web accessibility General]]
 <p>Can you quickly spot the typo between a form field value &#8221;+2731284325&#8221; and &#8221;+2731294325&#8221;?</p>
 
 <a href="http://www.flickr.com/photos/hendry/2650817954/" title="nocue by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3166/2650817954_10d2c3e579_o.png" width="708" height="134" alt="nocue" /></a>

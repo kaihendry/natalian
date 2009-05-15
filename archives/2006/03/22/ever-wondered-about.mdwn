@@ -1,5 +1,6 @@
 [[!meta title="Ever wondered about" ]]
 [[!meta date="2006-03-22 23:23:23" ]]
+[[!tag Debian]]
 <a href="http://flickr.com/photos/juttahendry/114521826/">
 <img src="http://static.flickr.com/51/114521826_c06ad12a7c_m.jpg" />
 </a>

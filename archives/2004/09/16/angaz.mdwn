@@ -1,5 +1,6 @@
 [[!meta title="Angaz" ]]
 [[!meta date="2004-09-16 13:44:06" ]]
+[[!tag Debian]]
 <p>A preview of the <a href="http://www.websters-online-dictionary.org/definition/english/ub/ubuntu.html">Ubuntu</a> <a href="http://www.ubuntulinux.org/">Linux distribution</a> is out.</p>
 
 <p>For the time being, you could order some <a href="http://shipit.ubuntulinux.org/">free copies.</a> Their script could do with some polishing, however I hope my 386 arch CD comes through in the post.</p>

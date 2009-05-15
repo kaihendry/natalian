@@ -1,5 +1,6 @@
 [[!meta title="Oracle rant" ]]
 [[!meta date="2005-06-20 12:15:55" ]]
+[[!tag Oracle]]
 <p>What a hunk of crap. <a href="http://www.mysql.com/">Mysql</a> can <a href="http://wikipedia.org/">scale.</a></p>
 
 <p>You have to install the Oracle software <a href="https://www.redhat.com/archives/nahant-list/2005-June/msg00247.html">10g in my case</a> via a <span class="caps">JAVA</span> <span class="caps">GUI</span> in X.</p>

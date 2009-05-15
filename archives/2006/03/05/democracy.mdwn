@@ -1,5 +1,6 @@
 [[!meta title="Democracy" ]]
 [[!meta date="2006-03-05 14:30:51" ]]
+[[!tag korea]]
 <a href="http://www.flickr.com/photos/hendry/107863684/" title="Photo Sharing"><img src="http://static.flickr.com/45/107863684_83a8681f52_m.jpg" width="240" height="180" alt="Eggs and Bacon" /></a>
 
 <p>I&#8217;ve been installing a couple of machines with operating systems and a common question is where you are for the locale settings. When it says:</p>

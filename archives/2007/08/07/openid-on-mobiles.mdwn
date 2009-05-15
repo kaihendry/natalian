@@ -1,5 +1,6 @@
 [[!meta title="OpenID on mobiles" ]]
 [[!meta date="2007-08-07 22:41:12" ]]
+[[!tag Mobile openid]]
 <p>So I run an <a href="http://openidenabled.com/">openID enabled</a> wiki site based on the excellent <a href="http://ikiwiki.info/">ikiwiki software</a> called <a href="http://webconverger.org/">webconverger.org</a>. So how do they work with the mobile browsers on my <a href="http://flickr.com/photos/hendry/1043176229/">ageing</a> <a href="http://natalian.org/archives/2007/05/15/nokia-e65-from-3/">Nokia E65</a>?</p>
 
 <a href="http://www.flickr.com/photos/hendry/1044032900/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1384/1044032900_86352f53ce.jpg" width="375" height="500" alt="Cert check on Nokia Web browser" /></a>

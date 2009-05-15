@@ -1,5 +1,6 @@
 [[!meta title="VOTING NOT POSSIBLE" ]]
 [[!meta date="2004-02-26 09:31:30" ]]
+[[!tag General]]
 <img src="http://db.cs.helsinki.fi/~hendry/flags/zasmall.gif" alt="South African Flag" />
 <pre>
 Haai Kai                                                                                                                                                                                                                                

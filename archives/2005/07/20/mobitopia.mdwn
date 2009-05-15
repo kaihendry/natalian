@@ -1,5 +1,6 @@
 [[!meta title="Mobitopia" ]]
 [[!meta date="2005-07-20 14:26:35" ]]
+[[!tag Mobile SSL mobitopia]]
 <p><a href="http://news.bbc.co.uk/1/hi/technology/4697405.stm">One billion mobiles will be <strong>sold</strong> in 2009.</a></p>
 
 <p>I wonder what percentage will be able to access a simple Web application &#8220;securely&#8221;. I estimate about 20%.</p>

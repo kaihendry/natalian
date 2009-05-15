@@ -1,5 +1,6 @@
 [[!meta title="Unstable breakage" ]]
 [[!meta date="2005-07-03 21:54:30" ]]
+[[!tag Debian]]
 <code>
 sudo dpkg-reconfigure debconf
 </code>

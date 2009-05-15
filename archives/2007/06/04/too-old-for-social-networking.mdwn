@@ -1,5 +1,6 @@
 [[!meta title="Too old for social networking?" ]]
 [[!meta date="2007-06-04 21:41:41" ]]
+[[!tag microformats web shitlist]]
 <a href="http://www.flickr.com/photos/hendry/528384945/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1193/528384945_ce0625c994_m.jpg" width="240" height="180" alt="Birthday greetings" /></a>
 
 <p>A year older and a year wiser hopefully. Or another year where I just don&#8217;t get &#8216;social networking&#8217; sites?</p>

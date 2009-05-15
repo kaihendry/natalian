@@ -1,5 +1,6 @@
 [[!meta title="A rack in the office" ]]
 [[!meta date="2005-11-14 14:13:33" ]]
+[[!tag rack]]
 <p><a href="http://natalian.org/archives/2005/10/05/moving-from-white-boxes/">Continuing from my earlier post&#8230;</a></p>
 
 <p>At work we share a small office and today we took delivery of a SuperMicro SC823T based rack complete with a cabinet.</p>

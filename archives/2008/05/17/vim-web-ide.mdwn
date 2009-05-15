@@ -1,5 +1,6 @@
 [[!meta title="VIM IDE for Web applications" ]]
 [[!meta date="2008-05-17 01:49:11" ]]
+[[!tag vim General html5 webdev ide Debian]]
 <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/Y45EbTLZGF0&amp;hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Y45EbTLZGF0&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
 
 <p>To follow this little <a href="http://www.youtube.com/watch?v=Y45EbTLZGF0">screencast tutorial on editing Web applications</a>:</p>

@@ -1,5 +1,6 @@
 [[!meta title="Nokia's Web" ]]
 [[!meta date="2004-02-09 14:40:22" ]]
+[[!tag Mobile]]
 <p>I looking deeply into how Nokia phone handle the web. Hence I am spending a lot of time on <a href="http://www.forum.nokia.com/main.html">Nokia&#8217;s Forum site</a> and the much better <a href="http://ncsp.forum.nokia.com/content/">syndication page</a>.</p>
 
 <p>Firstly it is incredibly annoying how Nokia seems to layout their information. They mis-use an incredible amount of whitespace on their website and their PDFs. Most documents are in some corporate branded <span class="caps">PDF</span>, piss poor typography (Word most likely), some ugly font which makes on screen reading, a nightmare.</p>

@@ -1,5 +1,6 @@
 [[!meta title="ISP" ]]
 [[!meta date="2005-10-03 15:16:31" ]]
+[[!tag melbourne library]]
 <p>Everytime I walk into a library I usually torment a member of staff (I don&#8217;t think librarians in the classic sense exist anymore) by asking them about <a href="http://en.wikipedia.org/wiki/Wifi">Wifi.</a> I&#8217;ll argue it should be free, like the rest of their services.</p>
 
 <p>One member of staff from the <a href="http://www.slv.vic.gov.au/">State Library</a> concluded an argument by claiming the library isn&#8217;t an <acronym title="information service provider"><span class="caps">ISP</span></acronym>!</p>

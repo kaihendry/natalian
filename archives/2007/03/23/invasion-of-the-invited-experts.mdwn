@@ -1,5 +1,6 @@
 [[!meta title="Invasion of the invited experts" ]]
 [[!meta date="2007-03-23 20:51:37" ]]
+[[!tag w3c microsoft]]
 <a href="http://www.flickr.com/photos/hendry/428373793/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/151/428373793_8502d3226c_m.jpg" width="240" height="180" alt="Windy sea at Boscastle" /></a>
 
 <p>It seems like I am not the only one on the <a href="http://www.w3.org/2000/09/dbwg/details?group=40318&amp;public=1&amp;order=org"><span class="caps">HTML</span> WG</a> bandwagon. ;)</p>

@@ -1,5 +1,6 @@
 [[!meta title="Recommended Hosts" ]]
 [[!meta date="2005-10-05 15:03:09" ]]
+[[!tag Debian hosting]]
 <p>Since the end of last month my Finnish accounts at the <a href="http://www.tkk.fi/"><span class="caps">HUT</span></a> and <a href="http://www.helsinki.fi/">Helsinki University</a> and their <a href="http://www.cs.helsinki.fi/">Computer Science department</a> have expired.</p>
 
 <p>For the meantime the files on those accounts will be still there, though my mail won&#8217;t be redirected. So <a href="http://iki.fi/hendry">contact me</a> via my iki.fi account. <a href="http://iki.fi">iki.fi</a> supply a great service. Lifetime redirection, so I doubt my email will ever change.</p>

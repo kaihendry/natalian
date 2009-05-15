@@ -1,5 +1,6 @@
 [[!meta title="Firefox 0.9.3" ]]
 [[!meta date="2004-09-08 21:28:52" ]]
+[[!tag General]]
 <p>I know I should report these as bugs or something. But I am <strong>lazy</strong>.</p>
 
 <p>I have seen my parents use Firefox in the last couple of days, as I am trying to ween them off IE. Couple of problems:</p>

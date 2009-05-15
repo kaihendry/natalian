@@ -1,5 +1,6 @@
 [[!meta title="Zimbra source review" ]]
 [[!meta date="2005-10-07 11:44:24" ]]
+[[!tag zimbra java]]
 <p><strong>Quick</strong> impressions on the 150 meg gzipped tarball of <a href="http://downloads.zimbra.com/3.0_M1/zcs-3.0.M1_21-src.tgz">Zimbra&#8217;s source</a> (Warning: I&#8217;m biased against <a href="http://natalian.org/archives/category/java/"><span class="caps">JAVA</span></a> !):</p>
 
 <ul>

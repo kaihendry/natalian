@@ -1,5 +1,6 @@
 [[!meta title="Rant: Mailing lists" ]]
 [[!meta date="2005-12-22 11:04:33" ]]
+[[!tag apache mailinglists Debian]]
 <p>Free software mailing lists suck. Especially Apache&#8217;s.</p>
 
 <ul>

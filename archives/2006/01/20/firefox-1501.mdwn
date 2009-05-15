@@ -1,5 +1,6 @@
 [[!meta title="Firefox 1.5.0.1" ]]
 [[!meta date="2006-01-20 09:08:25" ]]
+[[!tag firefox]]
 <p>Hmmm, just been prompted on a Win32 version of Firefox to update to 1.5.0.1</p>
 
 <p>I click on <a href="http://www.mozilla.com/firefox/releases/">View more information about this update</a> and there is <strong>no information on 1.5.0.1</strong> listed.</p>

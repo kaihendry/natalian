@@ -1,5 +1,6 @@
 [[!meta title="Fragmented mobile broadband" ]]
 [[!meta date="2008-09-07 18:41:58" ]]
+[[!tag Mobile vodafone General]]
 <a href="http://www.flickr.com/photos/hendry/2795961688/" title="Vodafone dongle by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3076/2795961688_122b2bc666_m.jpg" width="240" height="180" alt="Vodafone dongle" /></a>
 
 <p>So mobile operators are becoming <a href="http://online.vodafone.co.uk/dispatch/Portal/appmanager/vodafone/wrp?_nfpb=true&amp;_pageLabel=template06&amp;pageID=VA_0005">broadband providers</a>.</p>

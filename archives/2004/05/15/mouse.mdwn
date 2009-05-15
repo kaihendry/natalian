@@ -1,5 +1,6 @@
 [[!meta title="Mouse" ]]
 [[!meta date="2004-05-15 12:23:39" ]]
+[[!tag Debian]]
 <a href="http://www.kitenet.net/~joey/blog/entry/ion_and_lua-2004-05-09-02-25.html">Joey Hess has blogged about using the Ion window manager</a>. Teemu Hukkanen initially spread the word about Ion to me about a year ago. I think <a href="http://ln.hixie.ch/">Ian Hickson</a> uses Ion too, I remember Ian saying something like "I wet myself" when he first come across Ion. ;)
 
 <p>Hehe. If you are sick of the mouse I recommend Ion. It&#8217;s just another Window manager like vim is just another editor and mutt is just another email client&#8230;</p>

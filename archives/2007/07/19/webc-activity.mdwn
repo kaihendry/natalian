@@ -1,5 +1,6 @@
 [[!meta title="Webc activity" ]]
 [[!meta date="2007-07-19 11:04:30" ]]
+[[!tag webconverger Debian]]
 <a href="http://www.flickr.com/photos/hendry/845129169/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1309/845129169_7b43022006_m.jpg" width="240" height="180" alt="Webconverger's 2.26 new boot up screen" /></a>
 
 <p>Admittedly I&#8217;ve not been working much on <a href="http://webconverger.com/">Webconverger</a> in the past couple of weeks. Sorry about that.</p>

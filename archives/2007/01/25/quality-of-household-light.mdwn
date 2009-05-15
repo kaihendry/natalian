@@ -1,5 +1,6 @@
 [[!meta title="Quality of household light" ]]
 [[!meta date="2007-01-25 15:45:50" ]]
+[[!tag environment britain]]
 <p>So we&#8217;re at <a href="http://natalian.org/archives/2007/01/22/eco-war/">war</a>, remember? So I&#8217;m trying to educate myself with the science of light bulbs.</p>
 
 <p>I like lights to be on and I like them high quality so I can clearly see. Though in order to be environmentally friendly one seems to have to sit in poor light. Eco-friendly bulbs seem to give off inadequate light (luminosity), poor quality light (a narrow frequency range) and some of them annoyingly turn <span class="caps">OFF</span> (and on like a disco) when it thinks there is sufficient light.</p>

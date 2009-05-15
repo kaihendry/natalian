@@ -1,5 +1,6 @@
 [[!meta title="Secure banking is not with fingerprinting" ]]
 [[!meta date="2005-09-19 12:22:41" ]]
+[[!tag melbourne banking security australia]]
 <p>In Melbourne newspapers covered a crackdown on Online Banking fraud with announcements of <a href="http://theage.com.au/articles/2005/09/16/1126750114041.html">Fingerprinting technology.</a></p>
 
 <p>Umm, haven&#8217;t you Australian security experts heard of <a href="http://en.wikipedia.org/wiki/One-time_password">One Time Passwords?!</a></p>

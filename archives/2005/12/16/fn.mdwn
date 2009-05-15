@@ -1,5 +1,6 @@
 [[!meta title="Fn?" ]]
 [[!meta date="2005-12-16 08:48:58" ]]
+[[!tag win32 winxp]]
 <a href="http://www.flickr.com/photos/hendry/73383468/" title="Photo Sharing"><img src="http://static.flickr.com/35/73383468_ac6df21d98.jpg" width="500" height="332" alt="Tsunami strikes" /></a>
 
 <p>I have this crappy keyboard at work with a <strong>Fn</strong> key underneath the <strong>Enter</strong> key.</p>

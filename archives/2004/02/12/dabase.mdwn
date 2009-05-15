@@ -1,5 +1,6 @@
 [[!meta title="dabase" ]]
 [[!meta date="2004-02-12 09:56:40" ]]
+[[!tag School General]]
 <p>I can&#8217;t quite decide to do with my first ever domain I&#8217;ve bought, <a href="http://dabase.com">dabase.com</a>.</p>
 
 <p>Originally I bought it, because it was a good name for a MP3 database type-application that I have in mind, that would help me keep track of MP3s I have burnt to CD.</p>

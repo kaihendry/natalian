@@ -1,5 +1,6 @@
 [[!meta title="Broken" ]]
 [[!meta date="2004-01-18 23:52:02" ]]
+[[!tag General]]
 <p>Since I went snow boarding for the first time last Saturday, I feel like a broken man.</p>
 
 <p>I mustered up the energy to change the style sheet. Omg, it looks awful.</p>

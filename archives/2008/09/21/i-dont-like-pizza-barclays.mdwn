@@ -1,5 +1,6 @@
 [[!meta title="I don't like Pizza Barclays" ]]
 [[!meta date="2008-09-21 16:35:58" ]]
+[[!tag fraud General banking barclays uk visa]]
 <a href="http://www.flickr.com/photos/hendry/2796830820/" title="Fraud operations department by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3248/2796830820_6048d80cb3_m.jpg" width="240" height="180" alt="Fraud operations department" /></a>
 
 <p>Finally logged into Barclays Internet banking service once I&#8217;ve found my membership number. The fact that you need a membership number (&amp;Surname) is very stupid Barclays.</p>

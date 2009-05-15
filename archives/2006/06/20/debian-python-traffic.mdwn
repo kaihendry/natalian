@@ -1,5 +1,6 @@
 [[!meta title="debian-python traffic" ]]
 [[!meta date="2006-06-20 15:03:46" ]]
+[[!tag python Debian]]
 <p>There are interesting developments afoot, complete with Ubuntu conspiracy theories on <a href="http://lists.debian.org/debian-python/2006/06/threads.html">debian-python</a>.</p>
 
 <p>Since I&#8217;m working on a couple of Python packages, a <a href="http://wiki.debian.org/DebianPython/NewPolicy">new policy</a> has been <a href="http://lists.debian.org/debian-devel-announce/2006/06/msg00009.html">announced</a>.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Desktop stress test" ]]
 [[!meta date="2006-06-23 00:19:21" ]]
+[[!tag Debian ubuntu]]
 <a href="http://www.flickr.com/photos/hendry/172624926/" title="Photo Sharing"><img src="http://static.flickr.com/72/172624926_a706393866_m.jpg" width="240" height="180" alt="Desktop test" /></a>
 
 <p>I&#8217;ve devised a fascinating new desktop stress test.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Computing Devices" ]]
 [[!meta date="2004-06-06 23:09:38" ]]
+[[!tag Mobile]]
 <ul>
 <li>Mobiles have consolidated PDAs.</li>
 </ul>

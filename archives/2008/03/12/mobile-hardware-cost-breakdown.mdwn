@@ -1,5 +1,6 @@
 [[!meta title="Mobile hardware cost breakdown" ]]
 [[!meta date="2008-03-12 09:59:27" ]]
+[[!tag hardware Mobile cost mwc2008 General]]
 <p>I just cleaned my desk from MWC2008 stuff and I noticed some notes I took down whilst speaking with an interesting French <a href="http://www.open-plug.com/">Openplug engineer</a>.</p>
 
 <p>He told me, in order of expense:</p>

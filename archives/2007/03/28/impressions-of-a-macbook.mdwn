@@ -1,5 +1,6 @@
 [[!meta title="Impressions of a Macbook" ]]
 [[!meta date="2007-03-28 08:28:33" ]]
+[[!tag apple Debian]]
 <a href="http://www.flickr.com/photos/hendry/437391024/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/181/437391024_532dafdb2a_m.jpg" width="240" height="180" alt="Macbook kills my Internet connection" /></a>
 
 <ul>

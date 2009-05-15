@@ -1,5 +1,6 @@
 [[!meta title="UK Internet speeds versus Romania" ]]
 [[!meta date="2008-08-26 11:02:45" ]]
+[[!tag romania General virgin internet virginmedia speed]]
 <p>Just returned from <a href="http://flickr.com/photos/hendry/sets/72157606938371966/">Romania</a>.</p>
 
 <img src="http://www.speedtest.net/result/313457659.png" />

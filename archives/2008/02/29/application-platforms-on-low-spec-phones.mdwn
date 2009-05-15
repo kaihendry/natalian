@@ -1,5 +1,6 @@
 [[!meta title="Application platforms on low spec phones" ]]
 [[!meta date="2008-02-29 20:16:51" ]]
+[[!tag lowspec Mobile africa asia General lowmem]]
 <a href="http://flickr.com/photos/riot/66455636/">
 <img src="http://farm1.static.flickr.com/28/66455636_c6546883d7.jpg" />
 </a>

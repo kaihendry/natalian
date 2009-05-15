@@ -1,5 +1,6 @@
 [[!meta title="SSL smtp nightmare" ]]
 [[!meta date="2004-09-14 03:09:33" ]]
+[[!tag Debian]]
 <p>I need to setup Dovecot with a proper <span class="caps">SSL</span> certificate. Thunderbird and OE complain otherwise (my parents!). Why can&#8217;t Debian automagically generate one, like sshd does?</p>
 
 <p>Same goes for my smtp server. I would like it to relay to more a more prestigous mail server (smarthost) and believe me that was a nightmare to get working. Of course you need to authenticate securely to the smarthost but the exim debconf questions don&#8217;t deal with this case. So you have to fiddle with exim4&#8217;s scary configuration file and confusing package naming.</p>

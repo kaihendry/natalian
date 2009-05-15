@@ -1,5 +1,6 @@
 [[!meta title="Web engineering for mobile devices" ]]
 [[!meta date="2004-10-03 17:52:39" ]]
+[[!tag Mobile School Helsinki]]
 <p>Currently my <a href="http://hendry.iki.fi/msc.pdf">masters thesis about the Web <span class="caps">API</span> and mobile devices</a> is only available as a <span class="caps">PDF</span>. A paradox, for the time being.</p>
 
 <p>Since my thesis misses an acknowledgements section I will informally thank the many people who have helped my realise this project here.</p>

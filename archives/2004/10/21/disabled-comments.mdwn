@@ -1,5 +1,6 @@
 [[!meta title="Disabled Comments" ]]
 [[!meta date="2004-10-21 13:26:37" ]]
+[[!tag General]]
 <p>Getting stable connections is such a pain in Russia.</p>
 
 <p>I have disabled comments as I guess I will only be on the net once a week.</p>

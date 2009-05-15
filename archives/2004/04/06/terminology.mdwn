@@ -1,5 +1,6 @@
 [[!meta title="Terminology" ]]
 [[!meta date="2004-04-06 14:08:11" ]]
+[[!tag General]]
 <p>Is used to be client, I&#8217;m sure&#8230;</p>
 
 <p>Now it&#8217;s <acronym title="User Agent">UA</acronym>.</p>

@@ -1,5 +1,6 @@
 [[!meta title="What a weekend" ]]
 [[!meta date="2004-08-02 12:57:33" ]]
+[[!tag Debian Helsinki]]
 <p>Since my research contract has ended I have had to return my Thinkpad T30 and my life has turned upside down!</p>
 
 <p>Almost everything I have is in my <a href="http://svn.natalian.org/">repo</a> or <a href="http://pictures.natalian.org">pictures</a> .Except say my gnupg secret key.</p>

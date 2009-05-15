@@ -1,5 +1,6 @@
 [[!meta title="Wordpress 1.2.2 and Mad Greetz" ]]
 [[!meta date="2004-12-18 11:45:58" ]]
+[[!tag Debian]]
 <p><a href="http://debian.natalian.org/wordpress/">Debian package of Wordpress 1.2.2</a> is available.</p>
 
 <p>I have tested the package now myself on my own <a href="http://natalian.org/">blog.</a><br />

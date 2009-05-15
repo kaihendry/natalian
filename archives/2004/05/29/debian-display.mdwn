@@ -1,5 +1,6 @@
 [[!meta title="Debian Display" ]]
 [[!meta date="2004-05-29 19:53:44" ]]
+[[!tag Debian]]
 <p>It&#8217;s not easy being a Debian user when it comes to displays.</p>
 
 <p>I still have not managed to direct rendering to work on this <span class="caps">ATI</span> Radeon based chipset. Yes, I have radeon and agpgart in lsmod. There are so many critical issues with displays in Debian systems&#8230; I am going to ramble here.</p>

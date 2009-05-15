@@ -1,5 +1,6 @@
 [[!meta title="Firefox extensions" ]]
 [[!meta date="2006-03-23 15:45:06" ]]
+[[!tag firefox]]
 <ul>
 <li><a href="http://toolbar.google.com/firefox/index.html">Google toolbar</a></li>
 <li><a href="http://www.gatsby.ucl.ac.uk/~iam23/code/mozex/">Mozex</a> with `/usr/bin/uxterm -e vim %t`</li>

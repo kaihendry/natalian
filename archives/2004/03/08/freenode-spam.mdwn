@@ -1,5 +1,6 @@
 [[!meta title="Freenode spam" ]]
 [[!meta date="2004-03-08 15:05:33" ]]
+[[!tag General]]
 <p>Just been spammed by some Russian porn site at least twice today on Freenode <span class="caps">IRC</span>.</p>
 
 <p>Sad.</p>

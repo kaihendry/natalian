@@ -1,5 +1,6 @@
 [[!meta title="LiveCD Nuke" ]]
 [[!meta date="2005-12-15 10:10:30" ]]
+[[!tag livecd security]]
 <p>Wanted:</p>
 
 <p>LiveCD that detects hard drives on board and copies random junk to the hard drive in order to <strong>securely erase</strong> all data on the disk(s).</p>

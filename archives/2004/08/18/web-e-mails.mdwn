@@ -1,5 +1,6 @@
 [[!meta title="Web E-mails" ]]
 [[!meta date="2004-08-18 17:46:30" ]]
+[[!tag Mobile]]
 <p>E-mails could be better integrated into the Web. For me at least the Internet is the Web and E-mail.</p>
 
 <p>E-mail is &#8220;push&#8221; technology whilst Web &#8220;pull&#8221;. I hate this idea I have seen in <a href="http://ncsp.forum.nokia.com/download/?asset_id=11960">Nokia <span class="caps">RSS</span> feeds about <span class="caps">WAP</span> Push</a>. Nokia I beg of you, implement E-mail.</p>

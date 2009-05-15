@@ -1,5 +1,6 @@
 [[!meta title="Indexing video" ]]
 [[!meta date="2006-12-05 21:54:16" ]]
+[[!tag google video]]
 <a href="http://flickr.com/photos/jamiekitson/313054009/">
 <img src="http://static.flickr.com/121/313054009_647811c69a_m.jpg" alt="sunset" />
 </a>

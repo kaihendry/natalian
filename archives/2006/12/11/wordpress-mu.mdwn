@@ -1,5 +1,6 @@
 [[!meta title="Wordpress-MU" ]]
 [[!meta date="2006-12-11 01:12:05" ]]
+[[!tag wordpress]]
 <p>Thought I should mention I am wondering whether or not to package <a href="http://mu.wordpress.org/">wordpress-mu</a>.</p>
 
 <p>It has stabilised and <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=399756">request has been made for it almost a month ago</a>.</p>

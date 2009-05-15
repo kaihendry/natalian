@@ -1,5 +1,6 @@
 [[!meta title="Here be dragons" ]]
 [[!meta date="2006-08-18 07:54:04" ]]
+[[!tag bbc business]]
 <p>Time and time again I see a common <span class="caps">GPS</span> misconception. Anyone who has done some <a href="http://en.wikipedia.org/wiki/Geocaching">geocaching</a> will have noticed these problems.</p>
 
 <p><span class="caps">GPS</span> isn&#8217;t very reliable in bad weather and in cities. In fact anywhere with a poor view of the satellites required for a location fix. It also sometimes takes a fair few <strong>minutes</strong> for a fix once the device is activated.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Testing distributions" ]]
 [[!meta date="2006-03-17 16:54:04" ]]
+[[!tag desktops gnome2 Debian ubuntu linux]]
 <a href="http://www.flickr.com/photos/hendry/112646935/" title="Photo Sharing"><img src="http://static.flickr.com/40/112646935_1caba1c5d2_m.jpg" width="240" height="159" alt="My home/office setup" /></a>
 
 <p>Lately I&#8217;ve been testing a few distributions. A few comments.</p>

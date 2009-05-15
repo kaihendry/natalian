@@ -1,5 +1,6 @@
 [[!meta title="Greetings Mobile planet" ]]
 [[!meta date="2007-03-14 18:05:35" ]]
+[[!tag Mobile w3c mobitopia]]
 <p>Thanks to Dominique, I have been recently added to the <a href="http://www.w3.org/Mobile/planet">W3 mobile planet</a>. Hello Planet!</p>
 
 <p>Let me introduce myself:</p>

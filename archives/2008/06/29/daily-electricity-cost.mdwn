@@ -1,5 +1,6 @@
 [[!meta title="Discover your daily electricity cost" ]]
 [[!meta date="2008-06-29 12:45:33" ]]
+[[!tag electricity environment opera whatwg General]]
 <a href="http://www.flickr.com/photos/hendry/2508376346/" title="Electricity bill by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2080/2508376346_5b0770522a.jpg" width="354" height="500" alt="Electricity bill" /></a>
 
 <p>After <a href="http://www.geekyoto.com/">Geekyoto</a> I was trying to figure out how much I spend on electricity. I believe people will change their habits once they <strong>know the cost</strong>.</p>

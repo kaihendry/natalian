@@ -1,5 +1,6 @@
 [[!meta title="Laptop musings" ]]
 [[!meta date="2005-06-14 15:57:52" ]]
+[[!tag Mobile]]
 <p>I strayed onto <a href="http://www.sauria.com/blog/2005/06/04#1311">Ted&#8217;s blog and an entry about laptop microprocessors.</a></p>
 
 <p>I have been thinking whether to buy a <span class="caps">IBM</span> Thinkpad refurb using a Pentium M(T41) or a <span class="caps">PIII</span> processor(X31, mobile!). I have been told there is little difference between the two.</p>

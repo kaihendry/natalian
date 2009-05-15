@@ -1,5 +1,6 @@
 [[!meta title="Polish movie distro" ]]
 [[!meta date="2004-05-06 00:43:43" ]]
+[[!tag General]]
 <p>There is about a 1EUR difference in the price of a magazine with and without a <span class="caps">DVD</span> movie.</p>
 
 <img src="http://pictures.natalian.org/fujipol/2004/may/5/16:10:47/400x345" alt="Movie bundled with magazine" />

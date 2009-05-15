@@ -1,5 +1,6 @@
 [[!meta title="Wrong" ]]
 [[!meta date="2004-03-21 17:19:49" ]]
+[[!tag Debian General]]
 <p>Wireless and wired links. There does not seem to be any integration in my<br />
 Debian system.</p>
 

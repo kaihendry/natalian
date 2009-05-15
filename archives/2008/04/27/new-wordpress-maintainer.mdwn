@@ -1,5 +1,6 @@
 [[!meta title="New Wordpress maintainer" ]]
 [[!meta date="2008-04-27 09:36:37" ]]
+[[!tag tips wordpress Debian General]]
 <a href="http://www.flickr.com/photos/hendry/2443135733/" title="Drawing domestic bliss by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2020/2443135733_dd5db80d9d_m.jpg" width="240" height="180" alt="Drawing domestic bliss" /></a>
 
 <p>Since my <a href="http://lists.debian.org/debian-newmaint/2008/01/msg00102.html"><span class="caps">DAM</span> rejection</a> earlier this year I&#8217;ve been trying to cut down on Debian work. Unsurprisingly (and perhaps surprisingly to some) I fealt a bit emotionally drained and demotivated from <a href="http://lists.debian.org/debian-newmaint/2008/01/msg00093.html">defending myself</a> and working with <a href="http://lists.debian.org/debian-newmaint/2008/01/msg00095.html">debian security</a>.</p>

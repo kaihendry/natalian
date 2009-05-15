@@ -1,5 +1,6 @@
 [[!meta title="Text legibility" ]]
 [[!meta date="2004-06-22 11:32:55" ]]
+[[!tag Mobile]]
 <p>Remember <a href="http://natalian.org/archives/2004/04/01/back-to-top/">Back to top</a> and <a href="http://natalian.org/archives/2004/06/11/no-popups/">popups</a>? Let me continue with rant about how user agents screw up text legibility.</p>
 
 <cite href="http://lists.w3.org/Archives/Public/www-di/2004Jun/0010.html">Some fonts may not be legible at 120%, while perfectly legible at 112%.</cite>

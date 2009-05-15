@@ -1,5 +1,6 @@
 [[!meta title="Programming Languages" ]]
 [[!meta date="2005-06-16 16:16:36" ]]
+[[!tag python webdev php perl]]
 <p>A few years ago I got into <a href="http://python.org/">Python</a> on some rainy weekend and thought I found Zion.</p>
 
 <p>I found it a much better experience than <a href="http://perl.com/">Perl.</a> I got onto Perl in the first place thanks to the guys like <a href="http://astray.com/">Leon,</a> <a href="http://2shortplanks.com/">Mark</a> and <a href="http://magnus.huckvale.net/">Magnus</a> from the <a href="http://bath.pm.org/">Bath PM.</a> That&#8217;s when I was studying at Bath University. Ancient history.</p>

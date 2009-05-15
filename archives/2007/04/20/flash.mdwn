@@ -1,5 +1,6 @@
 [[!meta title="Web kiosk Video" ]]
 [[!meta date="2007-04-20 17:14:40" ]]
+[[!tag video web kiosk webconverger Debian]]
 <embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=5173550835959570684&amp;hl=en" flashvars=""> </embed>
 
 <p>My sister and her friend &#8220;interviewed&#8221; me about <a href="http://webconverger.com/">Webconverger</a>. Can you tell we had no script or production skills for <a href="http://video.google.com/videoplay?docid=5173550835959570684&amp;hl=en">this video</a>?</p>

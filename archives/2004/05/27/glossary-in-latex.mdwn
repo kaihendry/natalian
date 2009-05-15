@@ -1,5 +1,6 @@
 [[!meta title="Glossary in Latex" ]]
 [[!meta date="2004-05-27 17:31:44" ]]
+[[!tag School General]]
 <p>Glossaries list difficult or specialized words with their definitions. In <span class="caps">XHTML</span> that&#8217;s acronym <a href="http://diveintomark.org/archives/2002/12/30/the_tag_soup_of_a_new_generation">(not abbr)</a>.</p>
 
 <p>I can&#8217;t help but use strange terminology in my profession, although I think it is important to explain myself as well. Often I lose track of the meaning of acronyms I use every day.</p>

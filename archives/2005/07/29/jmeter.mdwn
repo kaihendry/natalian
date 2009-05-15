@@ -1,5 +1,6 @@
 [[!meta title="Jmeter" ]]
 [[!meta date="2005-07-29 16:21:27" ]]
+[[!tag java hosting]]
 <p>A collegue of mine DoSsed <a href="http://natalian.org/">natalian.org</a> with <a href="http://jakarta.apache.org/jmeter/">Jmeter.</a></p>
 
 <p>It was only pulling the index.php and it seemed to hold up with a 100 concurrent connections. Then after awhile Wordpress seemed to lose contact with the mysql database and my site didn&#8217;t respond for more than 200 seconds. :(</p>

@@ -1,5 +1,6 @@
 [[!meta title="Debian as a Java/JBoss Web platform" ]]
 [[!meta date="2005-06-08 10:07:50" ]]
+[[!tag Debian]]
 <p>My paid work involves setting up JBoss/Java environments for a software company to drop in their <span class="caps">WAR</span> or <span class="caps">EAR</span> file into.</p>
 
 <p>Btw I hate Java. But since I think Debian must compete as a <strong>Web application platform</strong>, those <a href="http://pkg-java.alioth.debian.org/">Debian Java packagers</a> get my respect. It is a crap job, but an important one.</p>

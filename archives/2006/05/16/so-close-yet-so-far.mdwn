@@ -1,5 +1,6 @@
 [[!meta title="So close yet so far" ]]
 [[!meta date="2006-05-16 16:49:10" ]]
+[[!tag web Debian office]]
 <a href="http://www.flickr.com/photos/hendry/147420005/" title="Photo Sharing"><img src="http://static.flickr.com/51/147420005_fb47ae8b08_m.jpg" width="240" height="180" alt="Cubicle hell" /></a>
 
 <p>So I need to write a report.</p>

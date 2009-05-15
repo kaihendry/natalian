@@ -1,5 +1,6 @@
 [[!meta title="Hosting" ]]
 [[!meta date="2006-05-17 15:01:31" ]]
+[[!tag korea hosting dreamhost]]
 <p>One of the <strong>major</strong> problems I see in Korea is the complete lack of remotely decent hosting.</p>
 
 <p>Admittedly finding a host in the UK or US is hard, but here it&#8217;s impossible. Really.</p>

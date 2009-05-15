@@ -1,5 +1,6 @@
 [[!meta title="Broken thoughts" ]]
 [[!meta date="2006-07-21 18:51:41" ]]
+[[!tag Debian ubuntu]]
 <p>At home I run an Ubuntu server which I unfortunately upgraded to the <em>sigh</em> <a href="https://launchpad.net/distros/ubuntu/edgy/+specs">Edgy Eft.</a></p>
 
 <p>Damn, I used to think Debian unstable was <strong>unstable</strong>!</p>

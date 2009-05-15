@@ -1,5 +1,6 @@
 [[!meta title="Virtual domains are the norm, not the exception" ]]
 [[!meta date="2005-05-14 21:49:25" ]]
+[[!tag Debian]]
 <p>Spent about 4 hours today trying to configure <a href="http://www.postfix.org/VIRTUAL_README.html">Postfix for virtual domains.</a></p>
 
 <p>It just would not work. Mail kept on going to another user. It would never follow the original to field. And fiddling with main.cf would sometimes make it report that the user does not exist anymore. Oh ffs. Edit, postmap for the db, reload, restart. Argh.</p>

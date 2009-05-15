@@ -1,5 +1,6 @@
 [[!meta title="3ware comments" ]]
 [[!meta date="2005-11-16 10:37:09" ]]
+[[!tag 3ware]]
 <p>It is difficult to tell what model you have in the machine:</p>
 
 <pre>

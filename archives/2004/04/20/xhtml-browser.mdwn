@@ -1,5 +1,6 @@
 [[!meta title="XHTML browser" ]]
 [[!meta date="2004-04-20 20:46:22" ]]
+[[!tag Mobile]]
 <p>This <a href="http://ncsp.forum.nokia.com/download/?asset_id=11550">Nokia browser guide</a> just popped through the <a href="http://www.w3.org/2002/09/rss2email/"><span class="caps">RSS</span> aggregator</a>.</p>
 
 <p>There are as 1 billion <span class="caps">GSM</span> users (Source: <span class="caps">GSM</span> association), as opposed to at least 200 million Internet users (Source: Nielsen//Netratings).</p>

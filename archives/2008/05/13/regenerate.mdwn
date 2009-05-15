@@ -1,5 +1,6 @@
 [[!meta title="Regenerate your .ssh/id_rsa key Debian users" ]]
 [[!meta date="2008-05-13 13:58:07" ]]
+[[!tag security Debian ssh General]]
 <p>Whoa, this <a href="http://lists.debian.org/debian-security-announce/2008/msg00152.html">security bug</a> exposed by <a href="http://community.livejournal.com/lbello_english/7900.html">Luciano Bello</a> (Ola!) is one of the worst I&#8217;ve ever seen.</p>
 
 <p>Time to <a href="http://dabase.com/e/01013/">regenerate your key</a> with the updated openssl 0.9.8c packages.</p>

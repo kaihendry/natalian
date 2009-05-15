@@ -1,5 +1,6 @@
 [[!meta title="Opensource Web services" ]]
 [[!meta date="2007-04-14 23:03:03" ]]
+[[!tag web Debian webdev]]
 <a href="http://www.flickr.com/photos/hendry/457911926/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/194/457911926_d65c9231cc_m.jpg" width="240" height="180" alt="olpc web browser pointing to Webconverger" /></a>
 
 <p>Whilst downloading, installing and running Debian packages is easy, fun and &#8220;free&#8221;, most Web application services aren&#8217;t. I can&#8217;t be the only one that thinks there is a problem somewhere as for example, where are the all the free software <strong>Web services</strong> listed on <a href="http://freshmeat.net/">Freshmeat</a>?</p>

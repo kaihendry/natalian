@@ -1,5 +1,6 @@
 [[!meta title="Link UI support revisited" ]]
 [[!meta date="2007-08-13 15:08:10" ]]
+[[!tag Mobile opera mozilla html5]]
 <a href="http://www.flickr.com/photos/hendry/1102589075/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1020/1102589075_3cebb6e8c3_m.jpg" width="240" height="180" alt="Opera links" /></a>
 
 <p>Some time ago I moaned that Firefox does not have a <a href="http://natalian.org/archives/2004/07/19/wtf-is-site-navigation-toolbar/">navigation toolbar</a> that its predecessor Mozilla once did. Link support seems to be implemented within an <a href="https://addons.mozilla.org/en-US/firefox/addon/2933">extension</a>/plugin/addon, whatever. Still that&#8217;s not going to aid adoption for &#8220;link&#8221; aided navigation.</p>

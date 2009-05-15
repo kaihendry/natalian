@@ -1,5 +1,6 @@
 [[!meta title="Wordpress spellcheck" ]]
 [[!meta date="2005-07-17 11:45:53" ]]
+[[!tag google wordpress]]
 <p>One major feature missing from Wordpress was a decent spell check. I did have a setup where I edited the form in vim, but I kept on losing that configuration when swapping machines.</p>
 
 <p>Enter <a href="http://toolbar.google.com/firefox">Google&#8217;s Firefox toolbar</a> which allows me to spell check my Wordpress posts.</p>

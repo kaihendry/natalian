@@ -1,5 +1,6 @@
 [[!meta title="Wireless Networks" ]]
 [[!meta date="2006-05-16 13:16:19" ]]
+[[!tag wireless security korea]]
 <p>Yes, <a href="http://ln.hixie.ch/?start=1147719602&amp;count=1">wireless network access</a> is woeful.</p>
 
 <p>I&#8217;ve setup a Linksys WRT54G at my apartment and my sister&#8217;s as an open wireless access point. The linksys Web interface could be a lot better for seeing who is connected and perhaps banning abusing users. But on the scale of things it doesn&#8217;t really matter.</p>

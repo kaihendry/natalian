@@ -1,5 +1,6 @@
 [[!meta title="IrriTated" ]]
 [[!meta date="2004-03-14 18:46:55" ]]
+[[!tag Debian]]
 <p>I have this <span class="caps">TODO</span> list trying to address some broken stuff in my setup.</p>
 
 <p>I upgraded my BayStack 660 Wireless Access Point which was so fucking annoying. A win32 program was required, therefore I had to use my flatmates incredibly annoying Windows laptop. It doesn&#8217;t work. I still get millions of:<br />

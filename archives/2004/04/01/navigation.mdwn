@@ -1,5 +1,6 @@
 [[!meta title="Navigation" ]]
 [[!meta date="2004-04-01 11:58:58" ]]
+[[!tag Mobile]]
 <p>I now have a <a href="http://www.forum.nokia.com/main/0,6566,015_003,00.html">Nokia 3100</a>. There is a bit of story to that, which I will elaborate on, in another post.</p>
 
 <p>After reading through several papers such as <a href="http://www.nokia.com/nokia/0,,53715,00.html">Virpi Roto</a>&#8216;s work about Navigation, I must post about navigating web pages.</p>

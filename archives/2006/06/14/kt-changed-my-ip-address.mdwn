@@ -1,5 +1,6 @@
 [[!meta title="KT changed my IP address" ]]
 [[!meta date="2006-06-14 19:29:26" ]]
+[[!tag korea seoul dreamhost]]
 <p>Sometime this afternoon, KT one of the leading Korean ISPs change my IP address from  <br />
 222.106.128.78 to 222.106.128.198.</p>
 

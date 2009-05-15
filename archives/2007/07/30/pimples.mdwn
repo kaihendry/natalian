@@ -1,5 +1,6 @@
 [[!meta title="PIMples" ]]
 [[!meta date="2007-07-30 22:59:01" ]]
+[[!tag Mobile ubuntu]]
 <p>When I studied at <a href="http://www.bath.ac.uk/">Bath University</a>, the computer science software project was to implement a <a href="http://en.wikipedia.org/wiki/Personal_information_manager"><span class="caps">PIM</span></a> suite. I laughed and joked as I thought to myself, this would be easy. There are hundreds of examples of addressbooks and calendars. Simple stuff, I thought. I wrote a <span class="caps">PIM</span> suite with the help of Microsoft VB and it sucked. It basically did what is supposed to do, but it was &#8220;throw away&#8221; software. I learnt a lot.</p>
 
 <p>Couple of years ago I advised it was a <strong>bad idea</strong> to re-implement (or port) <span class="caps">PIM</span> applications for a certain mobile device linux platform, while <a href="http://hendry.iki.fi/cv">I was working</a> for a Japanese company.</p>

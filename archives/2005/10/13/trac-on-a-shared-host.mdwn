@@ -1,5 +1,6 @@
 [[!meta title="Trac on a shared host" ]]
 [[!meta date="2005-10-13 14:00:12" ]]
+[[!tag apache trac]]
 <p>I&#8217;ve moved my Subversion repositry over to Dreamhost. As that is a shared host I needed to setup <a href="http://www.edgewall.com/trac">Trac</a> via <strong>htaccess</strong>.</p>
 
 <p>I wrote about this in the <a href="http://wiki.dreamhost.com/index.php/Trac#Get_DH_to_install_Trac_on_your_shared_host">Dreamhost Wiki</a> though I still have <a href="http://lists.edgewall.com/archive/trac/2005-October/005073.html">a problem.</a></p>

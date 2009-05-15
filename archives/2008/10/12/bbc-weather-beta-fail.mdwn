@@ -1,5 +1,6 @@
 [[!meta title="BBC Weather BETA FAIL" ]]
 [[!meta date="2008-10-12 11:10:36" ]]
+[[!tag Mobile weather bbc General]]
 <ul>
 <li><a href="http://news.bbc.co.uk/weather/">Weather <span class="caps">BETA</span> Version 1</a>&#8230; version one? Don&#8217;t you understand the Web&#8217;s key feature of continual upgrades?</li>
 <li>Why so many <span class="caps">PRINT</span> buttons?</li>

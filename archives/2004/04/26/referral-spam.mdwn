@@ -1,5 +1,6 @@
 [[!meta title="Referral spam" ]]
 [[!meta date="2004-04-26 09:42:39" ]]
+[[!tag General]]
 <p>Since this site has been hit with <a href="http://www.google.com/search?hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;c2coff=1&amp;q=Referral+spam">Referral spam</a>, I have taken action by placing a <a href="http://natalian.org/statistics/robots.txt">robots.txt</a> in this <a href="http://natalian.org/statistics/">site&#8217;s statistics</a> directory to exclude search engines&#8217; robots (aka web crawlers).</p>
 
 <p>That way search engines should not index spammer&#8217;s Referral links, and hence they should not have higher search rankings. If I have time I will name and shame these assholes.</p>

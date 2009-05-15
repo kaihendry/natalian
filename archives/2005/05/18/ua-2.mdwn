@@ -1,5 +1,6 @@
 [[!meta title="UA" ]]
 [[!meta date="2005-05-18 15:26:55" ]]
+[[!tag General]]
 <p><a href="http://www.mozilla.org/products/firefox/">Firefox</a> is just the bomb. I have installed a bunch of extensions and I am really enjoying them the last couple of days to aid some Web development. Great thing is I have loads of them installed and my environment does not feel slow or unstable.</p>
 
 <p>Bonus.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Ubuntu 6.06 install" ]]
 [[!meta date="2006-08-05 15:32:01" ]]
+[[!tag ubuntu]]
 <p>I <strong>highly recommend</strong> the Server install CD version of Ubuntu Dapper 6.06.</p>
 
 <p>I tried the &#8220;Desktop installer&#8221; and it <strong>failed</strong> with some partitioner error. It installs via some program after you boot via a live CD, like Knoppix. It sucks. I remember Ubuntu hacking on it right upto release. It never got enough testing.</p>

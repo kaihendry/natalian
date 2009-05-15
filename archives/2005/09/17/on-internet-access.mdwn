@@ -1,5 +1,6 @@
 [[!meta title="On Internet Access" ]]
 [[!meta date="2005-09-17 18:50:23" ]]
+[[!tag melbourne australia internet]]
 <p>I know I&#8217;ve complained about Internet access in Australia <a href="http://natalian.org/archives/2005/05/31/australian-isps/">before.</a> It really is the bane of my existence.</p>
 
 <p>At my hostel they&#8217;re offering only half an hour of &#8220;free&#8217; Wireless access. Any more and I have to buy drinks which are at least 2AUD every half hour. That also generally means re-logging in their ridiculous system.</p>

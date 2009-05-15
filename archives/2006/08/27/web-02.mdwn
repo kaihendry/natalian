@@ -1,5 +1,6 @@
 [[!meta title="Web 0.2" ]]
 [[!meta date="2006-08-27 08:40:19" ]]
+[[!tag webdev webpy]]
 <a href="http://www.flickr.com/photos/hendry/224009670/" title="Photo Sharing"><img src="http://static.flickr.com/98/224009670_a8ee12be47_m.jpg" width="240" height="180" alt="Rainbow!" /></a>
 
 <p>Woo, I wrote an <a href="http://todo.dabase.com/"><span class="caps">AJAX</span> application</a>. Using over 70K of javascript!</p>

@@ -1,5 +1,6 @@
 [[!meta title="www update" ]]
 [[!meta date="2004-07-25 00:09:45" ]]
+[[!tag General]]
 <p><a href="http://developers.slashdot.org/developers/04/07/23/1646237.shtml?tid=156&amp;tid=95">Slashdot:</a><br />
 * <a href="http://www.w3.org/MarkUp/2004/xhtml-faq"><span class="caps">XHTML</span> <span class="caps">FAQ</span></a><br />
 * Lacking in any sense of reality</p>

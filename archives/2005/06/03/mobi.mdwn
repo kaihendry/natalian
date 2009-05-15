@@ -1,5 +1,6 @@
 [[!meta title=".mobi" ]]
 [[!meta date="2005-06-03 09:29:12" ]]
+[[!tag Mobile]]
 <p>Is this <a href="http://news.bbc.co.uk/1/hi/technology/4602449.stm"><span class="caps">BBC</span> News article on domain name extensions</a> serious?</p>
 
 <p>.mobi approved</p>

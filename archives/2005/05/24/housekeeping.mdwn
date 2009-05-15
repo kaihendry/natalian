@@ -1,5 +1,6 @@
 [[!meta title="Housekeeping" ]]
 [[!meta date="2005-05-24 18:30:11" ]]
+[[!tag Mobile School Debian Travel Helsinki]]
 <p>I have moved most of my goodies over to <a href="http://www.kitten-x.com/">Jamie&#8217;s</a> <span class="caps">ADSL</span> connection in London.</p>
 
 <p>My old server in Finland is laying about at Teemu&#8217;s place not doing anything.  Since I arrived in Australia penniless, I can&#8217;t really afford the 42EUR a month colo fees. Which is cheap btw. Anyway, since I am far away here in Melbourne developing on a machine in Helsinki is sort of senseless considering the lag.</p>

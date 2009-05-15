@@ -1,5 +1,6 @@
 [[!meta title="Webcon" ]]
 [[!meta date="2005-05-23 16:56:39" ]]
+[[!tag Mobile]]
 <p>There seems to be a lot of interest to do work on the Web, but I find it difficult to see how all this activity translates into <a href="http://www.whatwg.org/">Web specifications.</a></p>
 
 <p>Here are just some events in the next month or two:</p>

@@ -1,5 +1,6 @@
 [[!meta title="Facelift" ]]
 [[!meta date="2004-07-03 21:12:29" ]]
+[[!tag Mobile]]
 <p>Nokia seem to have changed their <a href="http://ncsp.forum.nokia.com/content/">content syndication interface</a>.</p>
 
 <p>I can tell as I am subscribed to their browser feed, and I had to wonder when I saw &#8220;testi_file.pfg&#8221;, &#8220;document1&#8221; and &#8220;Test by Satama&#8221; posts in my <a href="http://www.aaronsw.com/2002/rss2email/">aggregator</a>.</p>

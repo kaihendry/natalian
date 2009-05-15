@@ -1,5 +1,6 @@
 [[!meta title="Cryptography, a Tool for Today" ]]
 [[!meta date="2004-05-28 18:23:48" ]]
+[[!tag essay School gpg General pgp security]]
 <p>I found an old 1997 link <a href="http://www.bath.ac.uk/~masdr/show.html">about good essays on the web</a> whilst in a <a href="http://www.google-fight.com/cgi-bin/compare.pl?q1=Kai+Hendry&amp;q2=Jamie+Kitson&amp;B1=Make+a+fight%21&amp;compare=1&amp;langue=us">googlefight with Jamie Kitson.</a></p>
 
 <p>It is an essay about cryptography I wrote in my first year of my Computer Science degree in Bath. Seven years later, I am writing my Masters thesis in Helsinki.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Stats1" ]]
 [[!meta date="2004-03-18 18:36:21" ]]
+[[!tag School General]]
 <p>Woo, I just contributed to the wonderful <a href="http://en.wikipedia.org/">Wikipedia</a> on the trivial issue of <a href="http://en.wikipedia.org/wiki/Tied_ranks">tied ranks</a>.</p>
 
 <p>I am taking an Introduction to Statistics exam tomorrow. Five sweet Finnish credits which will be a third of what I need for a minor I sorely need in order to graduate.</p>

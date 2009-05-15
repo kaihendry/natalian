@@ -1,5 +1,6 @@
 [[!meta title="Downtime" ]]
 [[!meta date="2004-05-24 15:28:54" ]]
+[[!tag Debian Helsinki]]
 <p>On the 16th of May this machine went down to be moved to a new location.</p>
 
 <p>I elected to get up on a Sunday morning to help move and troubleshoot any problems. Unfortunately I was there for a couple of hours and still the main router at <a href="http://pannuhuone.org/">pannuhuone</a> wasn&#8217;t up, so I left for lunch and prayed my machine would come up. It didn&#8217;t for almost a week. Here&#8217;s why:</p>

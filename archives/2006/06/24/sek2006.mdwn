@@ -1,5 +1,6 @@
 [[!meta title="SEK2006" ]]
 [[!meta date="2006-06-24 20:55:56" ]]
+[[!tag korea seoul business Mobile thinkpad video linux microsoft]]
 <a href="http://www.flickr.com/photos/hendry/173711659/" title="Photo Sharing"><img src="http://static.flickr.com/54/173711659_e0c6610d5e_m.jpg" width="240" height="180" alt="Lenovo 3000 v100 ~800USD" /></a>
 
 <p>Since I live in Seoul, I was tipped to go to <a href="http://www.sek.co.kr/sek2006/english/engsek2006_01_01.asp"><span class="caps">SEK</span></a> a large tech exhibition in Korea.</p>

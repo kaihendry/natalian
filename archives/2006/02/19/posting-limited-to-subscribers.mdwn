@@ -1,5 +1,6 @@
 [[!meta title="Posting limited to subscribers" ]]
 [[!meta date="2006-02-19 00:57:52" ]]
+[[!tag mail mailinglists Debian dreamhost General]]
 <a href="http://www.flickr.com/photos/hendry/99532754/" title="Photo Sharing"><img src="http://static.flickr.com/34/99532754_b381c005e2_m.jpg" width="240" height="159" alt="Sunset" /></a>
 
 <p>I subscribe to mailing lists on &#104;&#101;&#110;&#100;&#114;&#121;&#064;&#100;&#097;&#098;&#097;&#115;&#101;&#046;&#099;&#111;&#109;, but I send from different shells where the return path isn&#8217;t the same.</p>

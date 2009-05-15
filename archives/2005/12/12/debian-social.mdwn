@@ -1,5 +1,6 @@
 [[!meta title="Debian social" ]]
 [[!meta date="2005-12-12 10:15:31" ]]
+[[!tag ipod music apple Debian]]
 <ol>
 <li>Friend with <a href="http://www.apple.com/ipodnano/">Ipod nano</a> notices <a href="http://debian.org/">Debian</a> user&#8217;s cool music</li>
 <li>Debian user offers to copy some albums over to the nano</li>

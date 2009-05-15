@@ -1,5 +1,6 @@
 [[!meta title="HOricle   " ]]
 [[!meta date="2005-11-24 08:04:17" ]]
+[[!tag Oracle]]
 <p>A heartfelt email from a fellow Oracle administrator:</p>
 
 <blockquote>

@@ -1,5 +1,6 @@
 [[!meta title="TBL" ]]
 [[!meta date="2004-05-26 16:06:23" ]]
+[[!tag Mobile Helsinki]]
 <p><span class="caps">TBL</span>&#8230; Timberlake, I mean Tim Berners-Lee recently wrote a great essay about why <a href="http://www.w3.org/DesignIssues/TLD"><acronym title="Top level domain"><span class="caps">TLD</span></acronym>s <span class="caps">SUCK</span></a>. I have (initially) titled my <acronym title="WORK IN PROGRESS!"><span class="caps">WIP</span></acronym> <a href="http://www.cs.helsinki.fi/u/hendry/work/thesis/tktl/template.pdf">thesis the &#8220;Mobile Information Appliance&#8221;</a>, and <span class="caps">TBL</span> eloquently puts that today&#8217;s mobile, might be tomorrow&#8217;s kitchen wall fixture. Each word of the title of my thesis has problems:</p>
 
 <ul>

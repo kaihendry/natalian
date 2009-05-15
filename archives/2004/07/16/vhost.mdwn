@@ -1,5 +1,6 @@
 [[!meta title="Vhost" ]]
 [[!meta date="2004-07-16 00:29:48" ]]
+[[!tag General]]
 <p><a href="http://marc.theaimsgroup.com/?l=apache-httpd-users&amp;m=108989958014649&amp;w=2">After a post to apache users</a> I am converting my websites over to vhost alias. This <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq04.025.htp">vhost tip shows you how to get it working locally with apache2.</a></p>
 
 <p>Some sites that demand aliases and rewrites will be down till <a href="http://marc.theaimsgroup.com/?l=apache-httpd-users&amp;m=108992653728736&amp;w=2">I figure out how to convert their configs to .htaccess.</a></p>

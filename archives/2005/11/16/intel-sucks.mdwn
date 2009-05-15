@@ -1,5 +1,6 @@
 [[!meta title="Intel sucks" ]]
 [[!meta date="2005-11-16 15:38:46" ]]
+[[!tag intel]]
 <p>These dual/logical/hyperthreaded CPUs are too confusing, at least under Linux.</p>
 
 <p>Linux reports them as different CPUs.</p>

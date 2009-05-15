@@ -1,5 +1,6 @@
 [[!meta title="Get a homepage" ]]
 [[!meta date="2006-06-07 01:21:11" ]]
+[[!tag web industry webdev]]
 <a href="http://www.flickr.com/photos/hendry/157150142/" title="Photo Sharing"><img src="http://static.flickr.com/47/157150142_8fb72d6fbe_m.jpg" width="240" height="180" alt="Business card holder" /></a>
 
 <p>I&#8217;ve collected quite a few business cards in my few months in Asia. My main issue is that I misplace them and I can&#8217;t find the name card of that French Siemens-Benq developer I met in China&#8230;</p>

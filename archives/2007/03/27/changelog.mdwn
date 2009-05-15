@@ -1,5 +1,6 @@
 [[!meta title="Changelog" ]]
 [[!meta date="2007-03-27 11:27:57" ]]
+[[!tag Debian]]
 <a href="http://www.flickr.com/photos/hendry/433359148/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/150/433359148_cc19276fc5_m.jpg" width="180" height="240" alt="Millpool path" /></a>
 
 <ul>

@@ -1,5 +1,6 @@
 [[!meta title="T30" ]]
 [[!meta date="2005-06-30 16:03:58" ]]
+[[!tag Debian]]
 <p>In other news I bought a refurb <span class="caps">IBM</span> T30 for 1200AUD today. I had <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq01.059.htp">one before,</a> from <a href="http://www.cs.helsinki.fi/compfac/index.en.html">work</a> and I can&#8217;t complain. (Ok, it&#8217;s bulky and the sound card is crap.) I really wanted a X40, but since I am still backpacking I know how one of those things can get stolen. And I want to save up for my next leg of my trip.</p>
 
 <p>This will be the first time I&#8217;ve actually owned a laptop. So I&#8217;ll regenerate my <span class="caps">GPG</span> key and always carry it around with me, so <a href="http://nm.debian.org/nmstatus.php?email=hendry%40cs.helsinki.fi">I can become a proper DD.</a></p>

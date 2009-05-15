@@ -1,5 +1,6 @@
 [[!meta title="Solutions?" ]]
 [[!meta date="2006-03-29 16:27:00" ]]
+[[!tag business]]
 <p>I think it was more of a 90s fad whereby companies were calling themselves &#8220;something-or-other solutions&#8221;.</p>
 
 <p>Solutions are easy. Defining the problem is the hard part.</p>

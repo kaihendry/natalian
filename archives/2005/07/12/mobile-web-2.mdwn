@@ -1,5 +1,6 @@
 [[!meta title="mobile Web" ]]
 [[!meta date="2005-07-12 16:44:20" ]]
+[[!tag w3c Mobile nokia opera mobitopia mwi]]
 <p>Last month I made a <a href="http://lists.w3.org/Archives/Public/public-bpwg/2005Jun/thread.html">few posts at the W3C</a> defending the <a href="http://www.russellbeattie.com/notebook/1008430.html">The Magical Mobile Web Browser.</a></p>
 
 <p>I asked in the end for some sort of W3C sanctioned <strong>certification scheme</strong> for Web browsers. W3C has the corporate contacts, I just wish they would use them. I don&#8217;t think so with <a href="http://www.google.com.au/search?hs=2yk&amp;hl=en&amp;client=firefox-a&amp;rls=org.mozilla%3Aen-GB%3Aofficial&amp;q=Daniel+Appelquist&amp;btnG=Search&amp;meta"><span class="caps">XML</span> loving expert</a> from Vodafone <a href="http://lists.w3.org/Archives/Public/public-bpwg/2005Jun/0007.html">leading</a> an <a href="http://natalian.org/archives/2005/05/11/w3c-fun-run/">ill concieved work group.</a> :(</p>

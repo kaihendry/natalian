@@ -1,5 +1,6 @@
 [[!meta title="/media/cdrom" ]]
 [[!meta date="2006-02-20 11:01:50" ]]
+[[!tag shell Debian]]
 <a href="http://www.flickr.com/photos/hendry/99532630/" title="Photo Sharing"><img src="http://static.flickr.com/24/99532630_b8b744d007_m.jpg" width="240" height="159" alt="God pokes at camera" /></a>
 
 <p>A little <strong>caveat</strong>. Find doesn&#8217;t seem to like symlinks. Since <tt>/media/cdrom</tt> is a symlink to <tt>/media/cdrom0</tt>, using <tt>/media/cdrom0</tt> with find will work. I spent far too much time figuring this out.<br />

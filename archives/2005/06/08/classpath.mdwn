@@ -1,5 +1,6 @@
 [[!meta title="Classpath" ]]
 [[!meta date="2005-06-08 17:22:21" ]]
+[[!tag General]]
 <p>Just to continue my conceited Java blogging.</p>
 
 <p>The thing I didn&#8217;t get with classpath is that you need to name the <span class="caps">JAR</span> file.</p>

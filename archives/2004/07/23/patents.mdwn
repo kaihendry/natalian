@@ -1,5 +1,6 @@
 [[!meta title="Patents" ]]
 [[!meta date="2004-07-23 16:10:47" ]]
+[[!tag Helsinki]]
 <p>This <a href="http://www.iki.fi/q-funk/cgi-bin/blosxom.cgi/2004/07/15#2004-07-13_RMS_in_Estonia">morning I listened to <span class="caps">RMS</span> and <span class="caps">FFII</span>.</a></p>
 
 <p>Patents are a bit more serious than I thought.</p>

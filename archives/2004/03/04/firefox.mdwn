@@ -1,5 +1,6 @@
 [[!meta title="Firefox" ]]
 [[!meta date="2004-03-04 18:53:27" ]]
+[[!tag Debian General]]
 <a href="http://www.xiven.com/weblog/2004/02/09/MozillaFirefox08">Xiven</a> might be impressed, but since Firefox has come into unstable I wish you could hear my screams !
 
 <p>Firstly my bookmarks, my settings&#8230; where are they? Why doesn&#8217;t firefox import them from Firebird, or if it&#8217;s really clever mozilla?</p>

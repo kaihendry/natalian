@@ -1,5 +1,6 @@
 [[!meta title="On Opera" ]]
 [[!meta date="2005-09-21 13:16:00" ]]
+[[!tag opera web bugs browser]]
 <p>My gripe is similar to that of <a href="http://www.kitenet.net/~joey/blog/entry/bug_hiding_systems-2005-07-30-06-25.html">Joey Hess&#8217;s regarding Mozilla.</a></p>
 
 <p>I can&#8217;t see <a href="https://bugs.opera.com/">Opera&#8217;s bugs.</a> Yes, I&#8217;ve filed a bug asking for an account.</p>

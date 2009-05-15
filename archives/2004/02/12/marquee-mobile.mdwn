@@ -1,5 +1,6 @@
 [[!meta title="Marquee Mobile" ]]
 [[!meta date="2004-02-12 16:06:40" ]]
+[[!tag Mobile]]
 <p>I have been searching around desperately trying to find what has been added and removed in both <span class="caps">XHTML</span> MP and <span class="caps">WAP</span> <span class="caps">CSS</span> in <span class="caps">WAP</span> 2.0 from <a href="http://www.openmobilealliance.org/"><span class="caps">OMA</span>.</a></p>
 
 <p>At last thanks to<br />

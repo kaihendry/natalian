@@ -1,5 +1,6 @@
 [[!meta title="No Pay-as-you-go" ]]
 [[!meta date="2007-07-16 09:37:30" ]]
+[[!tag Mobile dreamhost business internet]]
 <a href="http://www.flickr.com/photos/hendry/798514628/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1406/798514628_743de414f2_m.jpg" width="240" height="180" alt="Kai working" /></a>
 
 <p>Time and time again I come across a business model based on Pay as you go (PAYG), which I don&#8217;t like.</p>

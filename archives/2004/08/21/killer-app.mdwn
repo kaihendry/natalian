@@ -1,5 +1,6 @@
 [[!meta title="Killer App" ]]
 [[!meta date="2004-08-21 13:53:27" ]]
+[[!tag Helsinki Debian General]]
 <p>Wanted: An application where you could simply draw beautiful arrows on a map.</p>
 
 <p>If I had a penny for every image I have seen like this one:</p>

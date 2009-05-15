@@ -1,5 +1,6 @@
 [[!meta title="Marking up mail" ]]
 [[!meta date="2008-10-07 22:16:04" ]]
+[[!tag w3c General html archives mail Debian]]
 <a href="http://lists.suckless.org/dwm/0809/6793.html">Marking up email on the Web is not a pretty picture in 2008</a>.
 
 <a href="http://www.flickr.com/photos/hendry/2923041200/" title="What I look like on a telecon by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3215/2923041200_89ab542025_m.jpg" width="180" height="240" alt="What I look like on a telecon" /></a>

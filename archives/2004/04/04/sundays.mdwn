@@ -1,5 +1,6 @@
 [[!meta title="Sundays" ]]
 [[!meta date="2004-04-04 20:01:48" ]]
+[[!tag General]]
 <p>Don&#8217;t you just love Sundays?</p>
 
 <p>I can sit on my computer all day undisturbed. I tackled more than half on my dreaded <span class="caps">TODO</span> list of today. That&#8217;s a lot.</p>

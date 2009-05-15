@@ -1,5 +1,6 @@
 [[!meta title="Scale vs Zoom" ]]
 [[!meta date="2004-09-16 21:44:30" ]]
+[[!tag Mobile]]
 <p>Continuing my <a href="http://natalian.org/archives/2004/06/22/ua-font/">text legibility</a> thoughts with <a href="http://annevankesteren.nl/archives/2004/08/specifications"><span class="caps">SVG</span> comments by Anne.</a></p>
 
 <code>

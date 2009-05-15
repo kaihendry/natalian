@@ -1,5 +1,6 @@
 [[!meta title="The keyboard" ]]
 [[!meta date="2007-09-18 19:15:19" ]]
+[[!tag Debian thinkpad]]
 <a href="http://www.flickr.com/photos/hendry/1403650266/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1126/1403650266_650d509e32_m.jpg" width="240" height="180" alt="NC4400 versus X40" /></a>
 
 <p>I was thinking of getting an <a href="http://flickr.com/photos/hendry/556685163/">nc2400 after seeing one at debconf7</a>. However lately I&#8217;ve been studying my house mate&#8217;s nc4400, which I think is roughly the same as the nc2400, except no CD/DVD drive and sadly a trackpad. Correct me if I&#8217;m wrong.</p>

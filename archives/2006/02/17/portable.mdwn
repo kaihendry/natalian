@@ -1,5 +1,6 @@
 [[!meta title="Portable" ]]
 [[!meta date="2006-02-17 00:53:58" ]]
+[[!tag hotspots firefox Mobile mozilla wireless opera nintendo mobitopia ds]]
 <a href="http://www.flickr.com/photos/hendry/99532284/" title="Photo Sharing"><img src="http://static.flickr.com/25/99532284_3778d31a40_m.jpg" width="240" height="159" alt="Trees near the beach" /></a>
 
 <p>I exclaimed &#8220;Holy Crap&#8221; when I saw the news that <a href="http://exploding-planet.com/weblog/2006/02/15/Opera_for_Nintendo_DS">Opera has been ported to the Nintendo DS</a> platform.</p>

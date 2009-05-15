@@ -1,5 +1,6 @@
 [[!meta title="Timeline" ]]
 [[!meta date="2005-07-18 10:57:33" ]]
+[[!tag blog html5 time]]
 <p>After spending too many hours sorting out date and time issues with my <a href="http://pictures.natalian.org/">picture collection,</a> I am now concerned with date/time standards.</p>
 
 <p>The <a href="http://www.whatwg.org/specs/web-forms/2005-04-11-call-for-comments/#date">standard that <span class="caps">WHATWG</span></a> refers to is <a href="http://www.iso.ch/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=26780&amp;ICS1=1&amp;ICS2=140&amp;ICS3=30"><span class="caps">ISO</span> 8601.</a> Though in order to read this, I need to <strong>buy</strong> it. Er, no can do. And it seems to be a <strong>withdrawn standard</strong>. What&#8217;s that all about?</p>

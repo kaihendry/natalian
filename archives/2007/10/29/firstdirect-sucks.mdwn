@@ -1,5 +1,6 @@
 [[!meta title="Firstdirect sucks" ]]
 [[!meta date="2007-10-29 22:49:37" ]]
+[[!tag Mobile banking shitlist hsbc General]]
 <a href="http://www.flickr.com/photos/hendry/1801168092/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2344/1801168092_612f4b34cd_m.jpg" width="240" height="180" alt="First direct sucks" /></a>
 
 <p>I&#8217;ve been <a href="http://natalian.org/archives/tag/banking/">moaning about Internet banking Web applications for awhile now</a>. However this aggressively marketed  <a href="http://firstdirect.com/"><span class="caps">HSBC</span> Firstdirect</a> banking service couldn&#8217;t escape the blog treatment.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Oracle 10g on Hoary notes" ]]
 [[!meta date="2005-07-29 16:32:54" ]]
+[[!tag Oracle ubuntu]]
 <p>Helpful:</p>
 
 <p>* <a href="http://www.togaware.com/linux/survivor/Installing_Oracle.shtml">Debian specific oracle guide</a><br />

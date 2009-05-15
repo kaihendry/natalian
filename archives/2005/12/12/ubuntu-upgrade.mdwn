@@ -1,5 +1,6 @@
 [[!meta title="Ubuntu upgrade" ]]
 [[!meta date="2005-12-12 11:16:28" ]]
+[[!tag ubuntu]]
 <p>Although the Package Manager annouces a new release called <strong>Breezy</strong> I couldn&#8217;t figure out to select it and upgrade to it.</p>
 
 <p>In the end I had to edit the /etc/apt/sources.list and replace every occurance of hoary with breezy in vim.</p>

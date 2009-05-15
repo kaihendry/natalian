@@ -1,5 +1,6 @@
 [[!meta title="Accesskey" ]]
 [[!meta date="2004-07-01 16:53:11" ]]
+[[!tag Mobile General]]
 <a href="http://natalian.org/archives/2004/06/22/ua-font/">Continuing my series of user agent b0rk ups</a>, let me address the accesskey attribute of the famous anchor element.
 
 <a href="http://www.w3.org/TR/xhtml-modularization/abstract_modules.html#s_hypertextmodule">Accesskey allows you to bind a character</a> to a keyboard shortcut. Cool huh? <a href="http://diveintoaccessibility.org/day_15_defining_keyboard_shortcuts.html">Now I can make my site all accessible!</a>

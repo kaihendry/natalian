@@ -1,5 +1,6 @@
 [[!meta title="Ubuntu Forums" ]]
 [[!meta date="2006-09-12 05:30:45" ]]
+[[!tag usability ubuntu]]
 <ol>
 <li>My sister has a problem with her Ubuntu installation, I recommended <a href="http://ubuntuforums.org/">Ubuntu forums</a></li>
 <li><a href="http://ubuntuforums.org/showthread.php?t=253801"><a href="http://ubuntuforums.org/showthread.php?t=253801">http://ubuntuforums.org/showthread.php?t=253801</a></a></li>

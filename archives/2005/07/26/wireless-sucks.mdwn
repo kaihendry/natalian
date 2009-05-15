@@ -1,5 +1,6 @@
 [[!meta title="Wireless sucks" ]]
 [[!meta date="2005-07-26 15:33:05" ]]
+[[!tag Mobile kismet wireless Debian]]
 <p>I have moved in to a <a href="http://www.friendlygroup.com.au/greenhouse_home.asp">hostel</a> in central Melbourne and once again I am without Internet.</p>
 
 <p>The <a href="http://www.slv.vic.gov.au/">state library&#8217;s</a> wireless Internet access is an insane <a href="http://natalian.org/archives/2005/06/27/australia/">13AUD an hour.</a></p>

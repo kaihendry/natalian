@@ -1,5 +1,6 @@
 [[!meta title="Manpages" ]]
 [[!meta date="2004-04-21 23:17:33" ]]
+[[!tag Debian]]
 <pre>
 hendry@scrooge-15:~/100konic$ identify ‐format %[EXIF:*] pict0725.jpg
 pict0725.jpg JPEG 2048x1536+0+0 DirectClass 8-bit 523.4kb 0.000u 0:01

@@ -1,5 +1,6 @@
 [[!meta title="Son of a..." ]]
 [[!meta date="2004-02-24 16:00:31" ]]
+[[!tag Mobile Helsinki]]
 <p>I just noticed <a href="http://www.sonera.com/">Sonera has closed their site.</a></p>
 
 <p>Does anyone seriously know what they&#8217;re doing there? You do not close a site, you re-direct people, with a line like:</p>

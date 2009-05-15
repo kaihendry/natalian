@@ -1,5 +1,6 @@
 [[!meta title="Dreamhost attacked" ]]
 [[!meta date="2005-12-13 13:06:34" ]]
+[[!tag dreamhost]]
 <p>I had trouble reading my mail and you might as well had trouble accessing this site. Evidently <a href="http://blog.dreamhost.com/2005/12/12/massive-ddos-attack/">Dreamhost was dealing with a distributed denial of service attack.</a></p>
 
 <p>I liked the way they updated their <a href="http://status.dreamhost.com/">status page</a> humourously. Some other admins would have been <a href="http://www.grc.com">hopping mad.</a></p>

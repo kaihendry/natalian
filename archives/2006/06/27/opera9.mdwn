@@ -1,5 +1,6 @@
 [[!meta title="Opera9" ]]
 [[!meta date="2006-06-27 16:32:03" ]]
+[[!tag Mobile opera html5 webdev]]
 <p>Another ex-Bath student <a href="http://simon.incutio.com/archive/2006/06/20/opera9">Simon Willison let me know about Opera9</a> via the magic of <span class="caps">RSS</span>. Later I noticed my ex-collegue and Opera employee <a href="http://exploding-planet.com/weblog/2006/06/21/Opera_9">Allan Clements</a> announced Opera9.</p>
 
 <p>I&#8217;ve used Opera9 quite a lot this week and it is still running alongside Firefox, though admittedly usually with less tabs. The <a href="http://www.opera.com/docs/changelogs/linux/900/">new features</a> that most interested me is <a href="http://whatwg.org/specs/web-forms/current-work/"><span class="caps">WHATWG</span> Web Form 2.0</a> support. In fact I&#8217;ve already implemented the form controls on this blog. Try enter your email incorrectly whilst commenting from Opera9.</p>

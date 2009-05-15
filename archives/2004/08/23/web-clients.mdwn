@@ -1,5 +1,6 @@
 [[!meta title="Web clients" ]]
 [[!meta date="2004-08-23 18:35:28" ]]
+[[!tag General]]
 <p>I was thinking in the bath this morning about how I would construct a small of hardware that would just run a User Agent like Firefox.</p>
 
 <p>It would have to have quite a lot of memory.  256mb <span class="caps">RAM</span> say.</p>

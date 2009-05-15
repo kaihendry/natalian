@@ -1,5 +1,6 @@
 [[!meta title="Intermittment Service Degredation" ]]
 [[!meta date="2005-10-07 10:18:41" ]]
+[[!tag nahant Debian redhat]]
 <p>Remember Debian&#8217;s little issue delivering a <a href="http://www.debian.org/security/2005/dsa-816">Xfree86 security update?</a></p>
 
 <p>Redhat seems to suffer from similar issues <a href="https://www.redhat.com/archives/rhn-outage-list/2005-September/msg00000.html">too</a> <a href="https://www.redhat.com/archives/rhn-outage-list/2005-October/msg00000.html">recently.</a></p>

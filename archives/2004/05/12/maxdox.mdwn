@@ -1,5 +1,6 @@
 [[!meta title="Maxdox" ]]
 [[!meta date="2004-05-12 19:35:32" ]]
+[[!tag Mobile School Helsinki]]
 <p>I am slowly writing a <a href="http://svn.natalian.org/school/thesis/tktl/">thesis about the Mobile as an Information Appliance</a>.</p>
 
 <p>Basic question I&#8217;m answering is whether the mobile can be an information device yadda yadda, and make a pitch for <a href="http://www.webstandards.org/">webstandards</a>. Today I noticed a poster in my <a href="http://www.cs.helsinki.fi/">department</a> about <a href="http://maxdox.com/">Maxdox</a> and their <a href="http://www.maxdox.com/squeeze/">&#8220;Squeeze&#8221; competition</a>.</p>

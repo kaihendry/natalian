@@ -1,5 +1,6 @@
 [[!meta title="Debian Japan" ]]
 [[!meta date="2005-06-06 17:49:18" ]]
+[[!tag Travel Debian Helsinki]]
 <p>Last <a href="http://pictures.natalian.org/japan/2005/apr/">April I was in Japan visiting my sister.</a></p>
 
 <p>I had the opportunity to meet, hack and dine with some Debian developers in Tokyo.</p>

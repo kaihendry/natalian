@@ -1,5 +1,6 @@
 [[!meta title="Nokia as a mobile hardware company" ]]
 [[!meta date="2008-05-12 14:25:30" ]]
+[[!tag hardware Mobile nokia business General]]
 <a href="http://www.flickr.com/photos/hendry/2484353008/" title="its what computers have become by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2009/2484353008_25ee57e307_m.jpg" width="240" height="180" alt="its what computers have become" /></a>
 
 <p>I&#8217;m disappointed to <a href="http://arstechnica.com/news.ars/post/20080509-nokia-aiming-to-reinvent-itself-as-an-internet-company.html">hear Nokia aiming to re-invent itself as an Internet company</a>.</p>

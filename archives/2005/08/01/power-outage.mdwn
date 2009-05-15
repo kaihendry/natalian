@@ -1,5 +1,6 @@
 [[!meta title="Power outage" ]]
 [[!meta date="2005-08-01 10:05:52" ]]
+[[!tag samba nfs power]]
 <p>Last Saturday there was a scheduled power outage.</p>
 
 <p>For admins, rule <strong>number one</strong> is to make sure your servers are configured to come back on when power resumes. This usually involves a switch in the <span class="caps">BIOS</span> and of course a simple test.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Debian Master Class near Exeter" ]]
 [[!meta date="2004-09-21 16:48:38" ]]
+[[!tag Mobile School Debian]]
 <p>I will be attending a &#8220;Debian Master Class&#8221; near Exeter this <strong>Saturday 25/09/2004</strong>. See the <a href="http://www.dclug.org.uk/archive/2004/09/msg00145.html">details of the event.</a></p>
 
 <p>At the event, we&#8217;ll concentrate on <a href="http://www.dclug.org.uk/archive/2004/09/msg00112.html">Debian installations.</a> I hope my <a href="http://natalian.org/archives/2004/09/16/angaz/">Ubuntu CDs come through in time.</a></p>

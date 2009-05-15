@@ -1,5 +1,6 @@
 [[!meta title="ViewCVS+SVN" ]]
 [[!meta date="2004-04-01 22:20:35" ]]
+[[!tag General]]
 <a href="http://svn.natalian.org">Try my repo</a>
 
 <p>Right now I have to :</p>

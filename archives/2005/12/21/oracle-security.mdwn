@@ -1,5 +1,6 @@
 [[!meta title="Oracle security" ]]
 [[!meta date="2005-12-21 13:49:56" ]]
+[[!tag Oracle security]]
 <p>Oracle and security. What a sad joke!</p>
 
 <p>Their <a href="http://static.natalian.org/2005-12-20/oracle-security.htm">critical patch update</a> is a complete nightmare to apply, to put it mildly.</p>

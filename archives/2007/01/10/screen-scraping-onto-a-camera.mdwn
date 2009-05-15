@@ -1,5 +1,6 @@
 [[!meta title="Screen scraping onto a camera" ]]
 [[!meta date="2007-01-10 17:44:19" ]]
+[[!tag Mobile google]]
 <a href="http://www.flickr.com/photos/hendry/352910711/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/141/352910711_508689a831_m.jpg" width="240" height="180" alt="Google maps on a camera" /></a>
 
 <p>Wouldn&#8217;t it be cool if I could:</p>

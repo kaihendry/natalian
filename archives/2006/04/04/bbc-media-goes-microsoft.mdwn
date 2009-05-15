@@ -1,5 +1,6 @@
 [[!meta title="BBC Media goes Microsoft" ]]
 [[!meta date="2006-04-04 12:49:45" ]]
+[[!tag web google firefox bbc bad browser]]
 <p>I was browsing <a href="http://news.bbc.co.uk"><span class="caps">BBC</span> News</a> today and I found a couple things that pissed me off.</p>
 
 <p>Their antiquated <a href="http://news.bbc.co.uk/1/hi/help/3281849.stm">copyright notice.</a> I thought <a href="http://backstage.bbc.co.uk"><span class="caps">BBC</span> backstage</a> changed all that, allowing people to manipulate and syndicate <span class="caps">BBC</span> content. I mean how does Google get away with &#8220;only download the content for your own personal non-commercial use&#8221;??</p>

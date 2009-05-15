@@ -1,5 +1,6 @@
 [[!meta title="NHS IT cockups" ]]
 [[!meta date="2007-05-15 19:22:00" ]]
+[[!tag britain nhs]]
 <a href="http://www.flickr.com/photos/hendry/449980606/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/173/449980606_366612daac_m.jpg" width="240" height="180" alt="Sick Macbook user" /></a>
 
 <a href="http://www.private-eye.co.uk/">Private Eye</a> readers and the like are familiar with stories of billions of pounds lost on failed government IT projects. Channel4 news reports that the NHS IT systems are as flawed as to be criminally negligent!

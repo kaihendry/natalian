@@ -1,5 +1,6 @@
 [[!meta title="NG mobile" ]]
 [[!meta date="2004-02-12 10:51:36" ]]
+[[!tag Mobile]]
 <a href="http://wapsearch.google.com/sprint_xhtml">Google for mobiles</a>... but why? Why couldn't Google just provide an XHTML file suitable for all devices?
 
 <a href="http://ncsp.forum.nokia.com/downloads/nokia/documents/Next_Generation_Mobile_Browsing_White_Paper_v1_0_en.pdf">Nokia's White Paper on NG Mobile browsing</a> seems to echo the mistakes of the past:

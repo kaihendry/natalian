@@ -1,5 +1,6 @@
 [[!meta title="Can text scale?" ]]
 [[!meta date="2004-06-07 11:07:43" ]]
+[[!tag Mobile]]
 <a href="http://dictionary.reference.com/search?q=media">Media</a>. Tricky word. 
 
 <p>Paper media, CD media, new media, Internet media, Web media. And then again&#8230; <a href="http://dictionary.reference.com/search?q=medium">medium</a>.</p>

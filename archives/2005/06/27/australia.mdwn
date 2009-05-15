@@ -1,5 +1,6 @@
 [[!meta title="Australia" ]]
 [[!meta date="2005-06-27 09:41:36" ]]
+[[!tag Mobile]]
 <p>In Melbourne, Australia Telstra (like BT in the UK) aggresively markets <a href="http://www.telstra.com.au/mobile/products/imode">Imode.</a></p>
 
 <p>They have slogans like &#8220;It&#8217;s like the Web on your mobile.&#8221;</p>

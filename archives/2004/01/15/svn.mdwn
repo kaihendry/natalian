@@ -1,5 +1,6 @@
 [[!meta title="SVN" ]]
 [[!meta date="2004-01-15 23:11:06" ]]
+[[!tag General]]
 <a href="http://wordpress.org/support/4/1777">Asked about the conversion in Wordpress forums.</a>
 
 <p>Spent time messing with mail stuff. Exim4 is quite a monster to setup. I want to setup a catchall, and some alias configuration for each domain hosted on my <a href="http://daidalos.pannuhuone.org">server</a>. I gave up after an hour to look at <a href="http://dovecot.procontrol.fi/">Dovecot</a> by Timo Sirainen, who also wrote the <a href="http://www.irssi.org/">irssi <span class="caps">IRC</span> client</a>. Unfortunately Debian unstable there seems to be a permission problem with <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=224568">/var/mail</a>. Urgh. Didn&#8217;t find the solution.</p>

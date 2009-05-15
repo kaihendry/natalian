@@ -1,5 +1,6 @@
 [[!meta title="Anti-Spyware" ]]
 [[!meta date="2005-10-25 09:01:53" ]]
+[[!tag microsoft]]
 <a href="http://www.flickr.com/photos/hendry/55754338/" title="Photo Sharing"><img src="http://static.flickr.com/28/55754338_df874bd513.jpg" width="500" height="387" alt="Microsoft Anti-Spyware download" /></a>
 
 <p>A Microsoft machine seems to be infected with some <span class="caps">GAIN</span> spyware. I thought I&#8217;ll just go and download <a href="http://www.microsoft.com/athome/security/spyware/software/">Microsoft&#8217;s Spyware</a> instead.</p>

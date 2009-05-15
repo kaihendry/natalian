@@ -1,5 +1,6 @@
 [[!meta title="Making contact information more accessible" ]]
 [[!meta date="2006-02-07 22:08:20" ]]
+[[!tag web webdev]]
 <a href="http://www.flickr.com/photos/hendry/94698777/" title="Photo Sharing"><img src="http://static.flickr.com/30/94698777_332004992b_m.jpg" width="240" height="180" alt="Ramen and Computers, the Korean lifestyle" /></a>
 
 <p>I read on someone&#8217;s blog recently about an old complaint of mine. That it is a pain-in-the-ass to determine some people&#8217;s blog contact email address.</p>

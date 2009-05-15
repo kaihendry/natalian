@@ -1,5 +1,6 @@
 [[!meta title="You tube" ]]
 [[!meta date="2006-08-18 08:35:07" ]]
+[[!tag video bbc web]]
 <p><span class="caps">BBC</span> News at 9pm tonight poorly covered <a href="http://youtube.com/">You tube</a> website.</p>
 
 <p>It&#8217;s fascinating to see <span class="caps">BBC</span> reporters concerned about the potential of You tube and that whole &#8220;we the media&#8221; thing.</p>

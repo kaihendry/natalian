@@ -1,5 +1,6 @@
 [[!meta title="Home phone" ]]
 [[!meta date="2006-08-08 17:54:47" ]]
+[[!tag voice]]
 <p>A history of the unsatisfactory nature of my parent&#8217;s home phone network.</p>
 
 <p>Once upon a time, things were simple albeit expensive with just our BT line. We discovered we could make cheaper foreign calls via competitive international carriers and everything was tolerable.</p>

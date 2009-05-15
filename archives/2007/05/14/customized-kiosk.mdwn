@@ -1,5 +1,6 @@
 [[!meta title="Customized Web kiosk" ]]
 [[!meta date="2007-05-14 11:38:29" ]]
+[[!tag web webconverger Debian]]
 <a href="http://www.flickr.com/photos/hendry/500029507/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/232/500029507_90e29b3123_m.jpg" width="240" height="180" alt="Hannux alpha screenshot" /></a>
 
 <p>One of the most requested features for <a href="http://webconverger.com/">Webconverger</a> is a &#8220;customization kit&#8221;.</p>

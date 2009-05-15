@@ -1,5 +1,6 @@
 [[!meta title="Comparing Microsoft Word renderings with PDF export" ]]
 [[!meta date="2006-07-14 16:51:06" ]]
+[[!tag microsoft office]]
 <a href="http://www.flickr.com/photos/hendry/188626785/" title="Photo Sharing"><img src="http://static.flickr.com/73/188626785_173e5e910a_m.jpg" width="240" height="180" alt="Comparing Office document renderings" /></a>
 
 <p>Sometime ago I came up with the idea of automated comparison of how different Office applications render Microsoft documents. Here is some output and thoughts.</p>

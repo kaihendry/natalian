@@ -1,5 +1,6 @@
 [[!meta title="Images suck" ]]
 [[!meta date="2005-07-11 14:30:10" ]]
+[[!tag images shell bugs Debian]]
 <p>(Re-)Discovered a <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=61667">TZ conversion bug in coreutil&#8217;s date</a> late last night.</p>
 
 <p>Really didn&#8217;t expect bugs in shell tools like date.</p>

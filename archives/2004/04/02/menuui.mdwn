@@ -1,5 +1,6 @@
 [[!meta title="MenuUI" ]]
 [[!meta date="2004-04-02 13:22:12" ]]
+[[!tag Mobile]]
 <p>When I look at these <a href="http://www.google.com/options/index.html">Google graphics</a>, I first thought they were strange.</p>
 
 <p>Now I am looking at my <a href="http://images.google.com/images?q=Nokia+menu&amp;ie=UTF-8&amp;oe=UTF-8&amp;hl=en&amp;btnG=Google+Search">Nokia 3100 menu.</a></p>

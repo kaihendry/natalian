@@ -1,5 +1,6 @@
 [[!meta title="vim + wordpress" ]]
 [[!meta date="2004-02-02 00:57:36" ]]
+[[!tag General]]
 <p>Just installed <a href="http://mozex.mozdev.org/">mozex</a> from my moz based browser and<br />
 threw in some settings like <pre>/usr/X11R6/bin/uxterm -e vim %t</pre>, and whoa. It works.</p>
 

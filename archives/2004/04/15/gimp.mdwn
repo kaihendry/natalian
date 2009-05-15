@@ -1,5 +1,6 @@
 [[!meta title="Gimp" ]]
 [[!meta date="2004-04-15 16:25:51" ]]
+[[!tag General]]
 <p>A collegue asked me how you draw a straight line in the <a href="http://www.gimp.org/index.html"><span class="caps">GIMP</span></a>.</p>
 
 <p>Good question.</p>

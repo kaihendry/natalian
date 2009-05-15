@@ -1,5 +1,6 @@
 [[!meta title="Wordpress mass hosting" ]]
 [[!meta date="2005-07-22 12:40:29" ]]
+[[!tag wordpress Debian]]
 <p>Why <a href="http://wordpress.org/hosting/">pay</a> <a href="http://comox.textdrive.com/pipermail/wp-hackers/2005-July/001836.html">more?</a></p>
 
 <p>Wordpress_1.5.1.3&#8211;4 has a little script to assist setting up loads of blogs on one machine. Try it out by putting <strong>wptest</strong> on your 127.0.0.1 line in /etc/hosts:</p>

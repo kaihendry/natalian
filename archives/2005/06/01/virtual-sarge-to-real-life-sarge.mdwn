@@ -1,5 +1,6 @@
 [[!meta title="Virtual Sarge to real life Sarge" ]]
 [[!meta date="2005-06-01 16:10:32" ]]
+[[!tag Debian]]
 <p>I  have been running a virtual machine of Debian <strong>sarge</strong> under VMware at work. I have eventually convinced the geeks around here a Debian machine would make a nice addition to the network.</p>
 
 <p>It took quite a lot of whining and fits over stupid <span class="caps">RPM</span> packages. It is such a nightmare to find packages for the things I need. There are several RH machines at work and they&#8217;re all horribly out of date because it is so difficult to upgrade them.</p>

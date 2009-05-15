@@ -1,5 +1,6 @@
 [[!meta title="Webconverger with Tor" ]]
 [[!meta date="2007-06-14 12:28:14" ]]
+[[!tag security webconverger Debian]]
 <a href="http://www.flickr.com/photos/hendry/547570372/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1028/547570372_719861499e_m.jpg" width="240" height="180" alt="Webconverger with Tor" /></a>
 
 <p>Thanks to Jérémy Bobbio and Peter Palfrader for helping me at <a href="http://wiki.debconf.org/wiki/DebConf7">Debconf7 in Edinburgh</a> with this initial release.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Got mail?" ]]
 [[!meta date="2004-02-04 23:17:15" ]]
+[[!tag Debian]]
 <p>Drafts, L-A, <span class="caps">LUG</span>, Sent., Trash, <span class="caps">XML</span>-SIG, debating, debconf, debian-boot, debian-devel, debian-fi, debian-gnome, debian-mentors, debian-python, debian-qa, debian-qa-packages, debian-www, digimon, dovecot, dri, esn-helsinki, foreign-students, galeon, gossip, hkkk, inbox., inex, junk, maradns, moin, postponed, pyblosxom, pygtk, sent-mail, skolelinux, svn</p>
 
 <p>Tonight I am focusing on getting my act together and trying to achieve one of my loftier goals to become a Debian developer. I need this to be a better contributor to Skolelinux.</p>

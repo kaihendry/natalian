@@ -1,5 +1,6 @@
 [[!meta title="Working on a file on two machines" ]]
 [[!meta date="2005-03-04 09:09:55" ]]
+[[!tag Mobile School]]
 <p>I have been working on an <span class="caps">IEEE</span>  <a href="http://www.mbusiness2005.org/">Mobile Business</a> <a href="http://www.cs.helsinki.fi/u/hendry/work/thesis/conf/bare_conf.pdf">conference submission</a> here in Bali.</p>
 
 <p>I am doing this instead of surfing because:</p>

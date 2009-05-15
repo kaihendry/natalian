@@ -1,5 +1,6 @@
 [[!meta title="WTF is site navigation toolbar?" ]]
 [[!meta date="2004-07-19 00:38:15" ]]
+[[!tag Debian]]
 <p>I love that site navigation toolbar. But <span class="caps">WTF</span> isn&#8217;t it in Firefox? Mozilla has it in View->Show/Hide->Site Navigation Bar->Always on. When it&#8217;s on it looks like (I&#8217;ve highlighted it btw):</p>
 
 <a href="http://pictures.natalian.org/screenies/2004/jul/19/00:03:21/">

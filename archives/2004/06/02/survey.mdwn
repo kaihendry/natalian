@@ -1,5 +1,6 @@
 [[!meta title="Internet Survey" ]]
 [[!meta date="2004-06-02 12:03:47" ]]
+[[!tag School Debian]]
 <p>Wouldn&#8217;t it be a good idea if the Debian project leveraged their <a href="http://www.debian.org/vote/">Internet voting system</a> to research companies?</p>
 
 <p>Debian developers are probably the only community on the Internet that can identify themselves with <span class="caps">GPG</span> public/private key signatures.</p>

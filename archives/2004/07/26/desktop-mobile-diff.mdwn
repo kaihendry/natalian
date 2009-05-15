@@ -1,5 +1,6 @@
 [[!meta title="Desktop Mobile DIFF" ]]
 [[!meta date="2004-07-26 00:34:36" ]]
+[[!tag Mobile]]
 <p>I cooked up a <a href="http://cookie.dabase.com/">cookie test</a> to see if my mobile is accepting cookies.</p>
 
 <p>It seems to. Although there is no telling how much this Nokia UA can eat&#8230;</p>

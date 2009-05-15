@@ -1,5 +1,6 @@
 [[!meta title="R conference" ]]
 [[!meta date="2004-06-17 23:32:14" ]]
+[[!tag School Helsinki]]
 <p>Here is my writeup of <a href="http://natalian.org/archives/2004/04/19/user/">useR</a> R conference.</p>
 
 <p>Austria is a nice country to live in, and I really like Vienna. I planned to absolutely rave about it when I returned to Finland, but then as I walking home from a bus stop I couldn&#8217;t help but notice how quiet Helsinki is. And I live in the middle of Kallio!</p>

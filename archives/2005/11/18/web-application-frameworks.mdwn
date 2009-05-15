@@ -1,5 +1,6 @@
 [[!meta title="Web Application Frameworks" ]]
 [[!meta date="2005-11-18 10:03:23" ]]
+[[!tag web catalyst rails django]]
 <p>I&#8217;ve been wanting to try <a href="http://www.rubyonrails.com/">Rails</a> for ages and recently I obtained a copy of the <a href="http://www.pragmaticprogrammer.com/titles/rails/index.html">Agile Web development book.</a> The new-ish language <a href="http://www.ruby-lang.org/en/">Ruby</a> didn&#8217;t put me off as I played with it ( <a href="http://linuxbrit.co.uk/">Tom uses it so I thought I should try it</a> ) and compared it with <a href="http://python.org/">Python</a> sometime back when I was first teaching myself Python.</p>
 
 <p>I chose Python as the new 3rd generation (or 4th?) language back then, as I often like to write code <strong>without objects</strong>. I also didn&#8217;t like the <strong>end</strong> syntax of Ruby and I kind of initially thought the indentation stuff with Python was a good idea. I&#8217;ve since gone off Python and <a href="http://natalian.org/archives/2005/06/16/programming-languages/">my thoughts on Python are detailed in this blog.</a></p>

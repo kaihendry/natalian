@@ -1,5 +1,6 @@
 [[!meta title="Vim utf8 vs latin1" ]]
 [[!meta date="2004-02-02 12:11:20" ]]
+[[!tag General]]
 <p>In a Unicode Terminal (uxterm) I first created a file, where encoding was utf8 (for input), and fileencoding was latin1. This works. However if you re-read the file, you will get a conversion error. Wrong.</p>
 
 <p>In uxterm, a new file with encoding latin1 set results in a strange leading space being printed after inputing öäå. Now setting fileencoding as latin1 too, vim(version 6.1)  saves results in as a utf8 file. Er, wrong.</p>

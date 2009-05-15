@@ -1,5 +1,6 @@
 [[!meta title="Wine" ]]
 [[!meta date="2004-06-25 12:24:02" ]]
+[[!tag General]]
 <h3>White</h3>
 
 <ul>

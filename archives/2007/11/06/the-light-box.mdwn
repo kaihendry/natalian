@@ -1,5 +1,6 @@
 [[!meta title="The light box" ]]
 [[!meta date="2007-11-06 20:36:14" ]]
+[[!tag lightbox woking General]]
 <a href="http://www.flickr.com/photos/hendry/1858899740/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2183/1858899740_c58d747ab3_m.jpg" width="240" height="180" alt="The 7 million pound Light Box" /></a>
 
 <a href="http://www.thelightbox.org.uk/">The light box</a> is gives a good first impression from the outside. Though I after visiting it inside last Sunday I was left unimpressed. It lacks vision.

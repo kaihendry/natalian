@@ -1,5 +1,6 @@
 [[!meta title="Apache2 migration with JK" ]]
 [[!meta date="2005-11-22 08:46:45" ]]
+[[!tag apache jakarta]]
 <p><a href="http://packages.debian.org/stable/web/libapache-mod-jk">libapache-mod-jk</a> configuration is radically different to <a href="http://packages.debian.org/stable/web/libapache2-mod-jk2">libapache2-mod-jk2.</a></p>
 
 <p>The sad thing is that that configuration style for libapache-mod-jk is <strong>so much better</strong> than libapache2-mod-jk2.</p>

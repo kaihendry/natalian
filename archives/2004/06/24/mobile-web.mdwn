@@ -1,5 +1,6 @@
 [[!meta title="Mobile web" ]]
 [[!meta date="2004-06-24 15:15:24" ]]
+[[!tag Mobile]]
 <p>Actually, I have renamed my <a href="http://www.cs.helsinki.fi/u/hendry/work/thesis/">thesis to &#8220;Web Engineering for  heterogeneous mobile devices&#8221;</a>. It&#8217;s a little more scientific sounding, although I have my fears about the word <strong>mobile</strong>. Perhaps it just be <em>wireless small computing devices</em>.</p>
 
 <a href="http://www.russellbeattie.com/notebook/1007881.html">Variability of mobile phones</a> is an issue, but all the same I do believe mobile phones are consolidating PDAs, "smart phones", cameras and even the humble wristwatch. ;)

@@ -1,5 +1,6 @@
 [[!meta title="Dhclient" ]]
 [[!meta date="2004-01-27 11:47:58" ]]
+[[!tag Debian]]
 <strike><a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=177846">http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=177846</a>
 
 <p>This bug has kept my thinkpad at home off the net for a couple of days.</p>

@@ -1,5 +1,6 @@
 [[!meta title="A good day out surfing" ]]
 [[!meta date="2007-02-03 18:45:11" ]]
+[[!tag web]]
 <a href="http://www.flickr.com/photos/hendry/377587450/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/171/377587450_3258c585b2_m.jpg" width="240" height="180" alt="Lanhydrock park" /></a>
 
 <p>The thought I have been entertaining lately are opensource Web applications and I have been surfing the Web for examples.</p>

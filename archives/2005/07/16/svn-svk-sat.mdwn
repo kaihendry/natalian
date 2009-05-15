@@ -1,5 +1,6 @@
 [[!meta title="svn svk sat" ]]
 [[!meta date="2005-07-16 18:44:40" ]]
+[[!tag yaml harrypotter svk php django]]
 <p>Woke up early to get Harry Potter. My flatmate and I are reading it to each other. It&#8217;s been quite fun though straining on the vocal chords.</p>
 
 <p>In the afternoon I spent some time with <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq09.003.htp">svk.</a><br />

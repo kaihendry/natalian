@@ -1,5 +1,6 @@
 [[!meta title="Business" ]]
 [[!meta date="2004-05-11 19:18:19" ]]
+[[!tag General]]
 <p>This <a href="http://businesslug.org/downloads/ofe_director_supplement.pdf">Information Sheet for Businesses</a> is quite good. So is that site <a href="http://businesslug.org/">Business <span class="caps">LUG</span></a>.</p>
 
 <p>Busy.</p>

@@ -1,5 +1,6 @@
 [[!meta title="RSS Reading" ]]
 [[!meta date="2005-10-12 10:45:45" ]]
+[[!tag google]]
 <p>A couple of days ago I exported my <span class="caps">OPML</span> <span class="caps">RSS</span> subscriptions from <a href="http://www.bloglines.com">Bloglines</a> and imported them into <a href="http://www.google.com/reader/">Google&#8217;s Reader.</a></p>
 
 <p>I like Bloglines except:<br />

@@ -1,5 +1,6 @@
 [[!meta title="Wicked Wireless" ]]
 [[!meta date="2005-11-09 13:32:14" ]]
+[[!tag melbourne wireless]]
 <img src="http://www.eltropico.banatzl.de/gallery/picture.php?img=980_antoine%20and%20kai.jpg&amp;show=full" alt="Kai and Antoine" />
 
 <p>Wouldn&#8217;t it be great if there was some tool that turned Win32 laptops with a wired network connection into Access points?</p>

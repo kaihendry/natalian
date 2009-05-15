@@ -1,5 +1,6 @@
 [[!meta title="Wordpress 1.5.1" ]]
 [[!meta date="2005-05-10 04:14:57" ]]
+[[!tag Debian]]
 <p>G&#8217;day from Melbourne, Australia!</p>
 
 <p>A security release of <a href="http://wordpress.org/development/2005/05/one-five-one/">Wordpress 1.5.1</a> and now new <a href="http://www.cs.helsinki.fi/u/hendry/debian/wordpress/">Debian packages of Wordpress.</a></p>

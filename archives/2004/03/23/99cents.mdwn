@@ -1,5 +1,6 @@
 [[!meta title="99cents" ]]
 [[!meta date="2004-03-23 19:20:00" ]]
+[[!tag Helsinki General]]
 <p>How many times how you seen this?</p>
 
 <span style="font-size: 10em;">0</span><span style="font-size: 1em; vertical-align: 400%;">99</span>     

@@ -1,5 +1,6 @@
 [[!meta title="Flickr fecked tags" ]]
 [[!meta date="2007-03-26 22:50:58" ]]
+[[!tag web]]
 <a href="http://www.flickr.com/photos/hendry/435639300/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/159/435639300_fed16e7950_m.jpg" width="240" height="180" alt="Best breakfast" /></a>
 
 <p>I really don&#8217;t like the way <a href="http://flickr.com/">Flickr</a> is going.</p>

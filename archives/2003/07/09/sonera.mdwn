@@ -1,5 +1,6 @@
 [[!meta title="Sonera" ]]
 [[!meta date="2003-07-09 10:09:41" ]]
+[[!tag hoasnet]]
 <p>This morning Sonera&#8217;s <span class="caps">HOASNET</span> was not working. Great. If this happens while I am away, I won&#8217;t be able to manually restart it. To combat this, I have shoved:</p>
 
 <pre> 0 0,12    /etc/init.d/ppp restart </pre> 

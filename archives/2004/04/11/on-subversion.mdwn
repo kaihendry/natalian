@@ -1,5 +1,6 @@
 [[!meta title="On Subversion" ]]
 [[!meta date="2004-04-11 19:50:14" ]]
+[[!tag School Debian General]]
 <p>At last my <a href="http://svn.natalian.org/">viewable online repositry is working.</a></p>
 
 <a href="http://mailman.lyra.org/pipermail/viewcvs/2004q1/002469.html">This bug was bugging for all of this year so far.</a>

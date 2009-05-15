@@ -1,5 +1,6 @@
 [[!meta title="Mobile browser market" ]]
 [[!meta date="2005-08-01 11:33:59" ]]
+[[!tag Mobile psp mobitopia browser]]
 <p>Lately, it is really <strong>heating</strong> up with mobile UAs.</p>
 
 <ol>

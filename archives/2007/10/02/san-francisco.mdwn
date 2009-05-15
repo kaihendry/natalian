@@ -1,5 +1,6 @@
 [[!meta title="San Francisco" ]]
 [[!meta date="2007-10-02 19:32:29" ]]
+[[!tag Travel General]]
 <a href="http://www.flickr.com/photos/hendry/1468122599/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1250/1468122599_4e93fa73b8_m.jpg" width="240" height="180" alt="San Francisco harbour" /></a>
 
 <p>Last week I was in the <span class="caps">USA</span> for the first time. It was great. My employers <a href="http://www.aplixcorp.com">Aplix</a> sent me out to an <a href="http://www.w3.org/News/2007#item197">Ajax conference</a>. Also see the <a href="http://www.w3.org/2007/06/mobile-ajax/papers/">accepted paper</a> I submitted.</p>

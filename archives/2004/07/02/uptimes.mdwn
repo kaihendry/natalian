@@ -1,5 +1,6 @@
 [[!meta title="Uptimes" ]]
 [[!meta date="2004-07-02 19:17:49" ]]
+[[!tag General]]
 <p>Who cares about what Windows, Linux, Mac OS are uptimes anymore?</p>
 
 <p>It is the browser uptime that matters. I wonder how long I have had this Mozilla 1.6 running on my workstation&#8230; it is looking shaky ! ;)</p>

@@ -1,5 +1,6 @@
 [[!meta title="RIML" ]]
 [[!meta date="2004-09-27 13:11:02" ]]
+[[!tag Mobile]]
 <p><a href="http://natalian.org/archives/2004/05/25/consensus/">Lets continue from my earlier post.</a></p>
 
 <p>The <a href="http://www-124.ibm.com/developerworks/oss/consensus/index.html">Consensus project</a> is a <a href="http://www.consensus-online.org/eu01.html">European funded</a> <a href="http://www.consensus-online.org/partners01.html">consortium of companies</a> which produces the <a href="http://www.w3.org/2002/07/DIAT/posn/nokia-ibm-sap.html">Rendering Independent Markup Language</a> (RIML) specification and prototype implementation. The project aim was to enable access to Web content through run-time adaptation primarily for mobile devices. To clarify, <strong><span class="caps">RIML</span> is not adaption</strong> as it does not adapt Web content, it compiles its own <span class="caps">RIML</span> language.<br />

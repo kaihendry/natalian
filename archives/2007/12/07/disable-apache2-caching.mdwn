@@ -1,5 +1,6 @@
 [[!meta title="Disabling Apache2 caching" ]]
 [[!meta date="2007-12-07 13:16:55" ]]
+[[!tag development cache apache2 General]]
 <a href="http://flickr.com/photos/refractedmoments/223052548/">
 <img src="http://farm1.static.flickr.com/97/223052548_9f5ff24797_m.jpg" alt="cache" />
 </a>

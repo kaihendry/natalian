@@ -1,5 +1,6 @@
 [[!meta title="Dreamy Debian" ]]
 [[!meta date="2005-10-13 14:49:20" ]]
+[[!tag Debian dreamhost]]
 <p>While using my shell over at <a href="http://natalian.org/archives/2005/10/05/recommended-hosts/">Dreamhost</a> I did an instinctive <tt>apt-get search</tt> and noticed some strange packages. After <a href="http://packages.debian.org/cgi-bin/search_packages.pl?keywords=ndn-web&amp;searchon=names&amp;subword=1&amp;version=stable&amp;release=all">checking with Debian</a> I quickly realized these must be packages Dreamhost came up with themselves to manage their hosts.</p>
 
 <p>If anyone is interested I <a href="http://static.natalian.org/2005-10-12/">dumped some information about Dreamhost packages.</a> Here is a <a href="http://static.natalian.org/2005-10-12/ndn.list">listing</a> too and the publicly available <a href="http://static.natalian.org/2005-10-12/sources.list">sources.list.</a></p>

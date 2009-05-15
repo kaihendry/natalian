@@ -1,5 +1,6 @@
 [[!meta title="Nokia RSS" ]]
 [[!meta date="2004-09-18 21:13:25" ]]
+[[!tag Mobile]]
 <p>I try keep track of mobile Web developments like I do with most things, via <span class="caps">RSS</span>/Atom/whatever syndication and <a href="http://www.aaronsw.com/2002/rss2email/">rss2email.</a></p>
 
 <p><a href="http://nokia.com/">Nokia</a> could make it easier.  Yes they now have some sort of <a href="http://ncsp.forum.nokia.com/csp/">syndication page</a> for the last year,<br />

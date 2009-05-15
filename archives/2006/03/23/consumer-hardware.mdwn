@@ -1,5 +1,6 @@
 [[!meta title="Consumer hardware" ]]
 [[!meta date="2006-03-23 10:38:08" ]]
+[[!tag hardware Debian ubuntu]]
 <p>This <a href="http://news.bbc.co.uk/2/hi/business/4832224.stm">M$ Vista delay analysis</a> got me thinking about the relationship between hardware manufacturers and well, us, the &#8220;Free software&#8221; geeks.</p>
 
 <p>Vista will no doubt drive hardware sales due to its <a href="http://www.microsoft.com/technet/windowsvista/evaluate/hardware/vistarpc.mspx">high hardware requirements.</a> Hardware manufacturers just love that.</p>

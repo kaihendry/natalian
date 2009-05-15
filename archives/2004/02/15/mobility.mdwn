@@ -1,5 +1,6 @@
 [[!meta title="Mobility" ]]
 [[!meta date="2004-02-15 12:07:54" ]]
+[[!tag Mobile]]
 <p>On that Nokia theme, I tried to <a href="http://www.itconversations.com/detail.php?id=68">listen to Nokia&#8217;s <acronym title="Chief Technology Officer"><span class="caps">CTO</span></acronym> Pertti Korhonen giving a speech</a> at <a href="http://conferences.oreillynet.com/etech/">O&#8217;reilly emerging technology conference</a>.</p>
 
 <p>It was classic stuff. He really should of just taken 5 minutes to say what he needed to, without wasting away my life with his drone. <a href="http://www.ntk.net/2004/02/13/"><acronym title="Need to know"><span class="caps">NTK</span></acronym> fealt my pain too.</a> With mpg123, the playback was too fast for some reason. Xmms plays it properly. Anyway, I advise you if you do want to listen to it, get alsaplayer and put it at 150% speed.</p>

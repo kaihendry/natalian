@@ -1,5 +1,6 @@
 [[!meta title="Ipod touch" ]]
 [[!meta date="2007-10-07 22:05:10" ]]
+[[!tag Mobile touch ipod General]]
 <a href="http://www.flickr.com/photos/hendry/1507773371/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2115/1507773371_7a1310ffd1_m.jpg" width="240" height="180" alt="Ipod touch plugins" /></a>
 
 <ul>

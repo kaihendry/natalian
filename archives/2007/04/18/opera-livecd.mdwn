@@ -1,5 +1,6 @@
 [[!meta title="Opera LiveCD" ]]
 [[!meta date="2007-04-18 15:38:51" ]]
+[[!tag opera livecd webconverger]]
 <a href="http://www.flickr.com/photos/hendry/464098538/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/191/464098538_2c11d48460_m.jpg" width="240" height="180" alt="Opera in Webconverger 2.12 (experimental)" /></a>
 
 <p>I made a couple of unofficial &amp; unsupported boot images of <a href="http://webconverger.com/">Webconverger</a> with Opera instead of <a href="http://packages.debian.org/stable/web/iceweasel">Iceweasel</a>.</p>

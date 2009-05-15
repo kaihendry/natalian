@@ -1,5 +1,6 @@
 [[!meta title="Rewrite Help" ]]
 [[!meta date="2005-10-26 10:56:46" ]]
+[[!tag apache wordpress dreamhost rewrite]]
 <a href="http://www.flickr.com/photos/hendry/56120684/" title="Photo Sharing"><img src="http://static.flickr.com/30/56120684_3846929b83.jpg" width="332" height="500" alt="Dining at the Instituto Superior Técnico" /></a>
 
 <p><a href="http://people.apache.org/~rbowen/presentations/mod_rewrite.pdf">mod_rewrite</a> is a <strong>pain</strong> to work with. In order to debug you <strong>need</strong> <a href="http://httpd.apache.org/docs/2.0/mod/mod_rewrite.html#RewriteLog">RewriteLog</a> and if you&#8217;re on a <a href="http://natalian.org/archives/category/dreamhost/">shared host</a> you&#8217;re probably stuck with <strong>evil .htaccess</strong> where Rewritelog is:</p>

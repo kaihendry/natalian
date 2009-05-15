@@ -1,5 +1,6 @@
 [[!meta title="Interactive video recipes" ]]
 [[!meta date="2007-03-12 17:47:43" ]]
+[[!tag food video flash bbc]]
 <p>Fantastic find for foodies!</p>
 
 <p><span class="caps">BBC</span> have videos in a playable Youtube-y format. So I can actually watch them, unlike their usual real player crap (is this the end of Realplayer? please let it be so&#8230;).</p>

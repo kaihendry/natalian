@@ -1,5 +1,6 @@
 [[!meta title="Media prices per Gigabyte" ]]
 [[!meta date="2008-01-14 16:49:36" ]]
+[[!tag dvd flash cd media General hd]]
 <ul>
 <li><span class="caps">DVD</span>-R DL (5&#215;8.5GB at 15GBP) ~38p</li>
 <li>External <span class="caps">USB</span> 2.5&#8221; HD (160GB at 80GBP) 50p</li>

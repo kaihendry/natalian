@@ -1,5 +1,6 @@
 [[!meta title="Epylog" ]]
 [[!meta date="2004-08-16 23:48:23" ]]
+[[!tag Debian]]
 <p>After having nightmares preying on my fears of the unlikely case of my online unstable <a href="http://www.imperialviolet.org/page22.html#e426">box compromised</a> I thought I would take a look at <a href="http://linux.duke.edu/projects/epylog/">Epylog</a> after <a href="http://verbum.org/blog/technology/distribtued-ssh-cracking">Walter&#8217;s post.</a></p>
 
 <p>It does not seem to have a debian package so I applied <strong>alien</strong> to convert rpm to deb and checked its contents, then installed the package. So far, so good.</p>

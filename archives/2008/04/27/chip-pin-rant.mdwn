@@ -1,5 +1,6 @@
 [[!meta title="Chip & Pin rant" ]]
 [[!meta date="2008-04-27 15:45:56" ]]
+[[!tag pinsentry security barclays General]]
 <a href="http://www.flickr.com/photos/hendry/1973989772/" title="PIN SENTRY by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2272/1973989772_82508e6354_m.jpg" width="240" height="180" alt="PIN SENTRY" /></a>
 
 <p>I am in a foul mood as I left my card <a href="http://www.flickr.com/photos/hendry/1973989772/">in my pin sentry</a> device and hence had to survive without any money today. Fantastic  tiny marvels of technology aren&#8217;t they?</p>

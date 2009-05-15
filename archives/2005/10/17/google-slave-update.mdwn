@@ -1,5 +1,6 @@
 [[!meta title="Google slave update" ]]
 [[!meta date="2005-10-17 17:49:27" ]]
+[[!tag google]]
 <p>Yay! <a href="http://toolbar.google.com/firefox/install.html">Google&#8217;s Toolbar</a> works in <a href="http://www.mozilla.org/projects/firefox/">Firefox 1.5</a></p>
 
 <p>Spelling on my blog will improve again. :)</p>

@@ -1,3 +1,4 @@
 [[!meta title="Libraries" ]]
 [[!meta date="2005-09-10 21:24:22" ]]
+[[!tag General]]
 <p>It infuriates me when Libraries restrict/censor Internet to &#8220;research use&#8221;. I.e. their stupid Intranet where email sites and sites such as Wikipedia are blocked. Insane.</p>

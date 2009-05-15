@@ -1,5 +1,6 @@
 [[!meta title="Firefox 1.5 comments" ]]
 [[!meta date="2005-09-19 12:13:13" ]]
+[[!tag web firefox]]
 <ul>
 <li>Some of my extensions don&#8217;t work with Firefox &#8220;1.4&#8221;<br />
  * It replaces my old Firefox and I can&#8217;t figure out how to easily rollback</li>

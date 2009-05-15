@@ -1,5 +1,6 @@
 [[!meta title="Wordpress point oh" ]]
 [[!meta date="2006-01-17 09:03:56" ]]
+[[!tag wordpress Debian]]
 <img src="http://delaunay.org/antoine/thumbnails/X320_Sq0_voyage_to_the_other_side,Portsea,plage_subjKai_5141.jpg" alt="Attack by flies on some Australian beach" />
 
 <p>After being hassled about updating <a href="http://packages.qa.debian.org/w/wordpress.html">Wordpress packages</a> to 2.0 I did.</p>

@@ -1,5 +1,6 @@
 [[!meta title="Rewrite" ]]
 [[!meta date="2004-01-21 17:20:12" ]]
+[[!tag General]]
 <p>I am struggling with mod_rewrite. Visitors from my old blog, apologies for the 404s.</p>
 
 <p>My old blog <span class="caps">RSS</span> <span class="caps">URI</span> with <pre>pyblosxom?flav=rss</pre> can not be matched by mod_rewrite!</p>

@@ -1,5 +1,6 @@
 [[!meta title="Debian activities" ]]
 [[!meta date="2007-03-13 09:06:51" ]]
+[[!tag wordpress Debian]]
 <a href="http://www.flickr.com/photos/hendry/418003169/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/125/418003169_2d614d0ae5_m.jpg" width="240" height="180" alt="Debian net boot" /></a>
 
 <p>Of late I have been:</p>

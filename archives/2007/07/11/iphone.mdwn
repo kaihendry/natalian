@@ -1,5 +1,6 @@
 [[!meta title="Iphone" ]]
 [[!meta date="2007-07-11 09:01:44" ]]
+[[!tag Mobile apple]]
 <a href="http://www.flickr.com/photos/hendry/764055728/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1272/764055728_d3b5975e30_m.jpg" width="180" height="240" alt="Ruth with an Iphone" /></a>
 
 <p>Last night I read the <a href="http://developer.apple.com/iphone/designingcontent.html">Iphone developer guide</a>. I noticed that:</p>

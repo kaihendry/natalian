@@ -1,5 +1,6 @@
 [[!meta title="Practical problems with Web applications" ]]
 [[!meta date="2005-09-20 10:25:32" ]]
+[[!tag web desktops kiosk internet browser]]
 <p><strong>Dependency on a Internet connection</strong></p>
 
 <p>Offline operation can be surprisingly usable (e.g. writing an email), but in most cases if you <strong>lose your network connection Web applications become useless</strong>.  Network connections do tend to go down and if a <strong>Point of Sale</strong> (POS) Web system is offline then you can lose a ton of money.</p>

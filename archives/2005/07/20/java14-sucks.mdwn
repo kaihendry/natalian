@@ -1,5 +1,6 @@
 [[!meta title="Java1.4 sucks" ]]
 [[!meta date="2005-07-20 11:16:03" ]]
+[[!tag jboss java]]
 <code>
 ./run.sh: line 182: 19321 Real-time signal 28     "$JAVA" $JAVA_OPTS -Djava.endorsed.dirs="$JBOSS_ENDORSED_DIRS" -classpath "$JBOSS_CLASSPATH" org.jboss.Main "$@"
 </code>

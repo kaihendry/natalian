@@ -1,5 +1,6 @@
 [[!meta title="Oracle insight" ]]
 [[!meta date="2005-08-05 10:12:01" ]]
+[[!tag Oracle]]
 <pre>
 PLEASE DO NOT REPLY TO THIS E-MAIL.  This e-mail address is not monitored.
 

@@ -1,5 +1,6 @@
 [[!meta title="No popups" ]]
 [[!meta date="2004-06-11 14:12:06" ]]
+[[!tag Mobile General]]
 <p><strong>Popups break the browser paradigm</strong></p>
 
 <p>Dialogs such as accepting a certificate or allowing some data being sent <strong>must</strong> be done in browser forms.</p>

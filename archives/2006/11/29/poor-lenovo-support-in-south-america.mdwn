@@ -1,5 +1,6 @@
 [[!meta title="Poor Lenovo support in South America" ]]
 [[!meta date="2006-11-29 20:15:45" ]]
+[[!tag brazil thinkpad]]
 <p>So a month ago my Thinkpads X40&#8217;s hard drive died in <a href="http://natalian.org/archives/2006/10/19/where-was-i/">Mendoza</a>. Today my X40 is back in working order, 1 month and 10 days later.</p>
 
 <p><span class="caps">IBM</span> support for Lenovo in the UK have been good, though in South America, it was terrible. Some points from my experience in Brazil.</p>

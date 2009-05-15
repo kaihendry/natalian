@@ -1,5 +1,6 @@
 [[!meta title="Subversion and NFS don't mix" ]]
 [[!meta date="2005-10-21 16:57:59" ]]
+[[!tag subversion dreamhost]]
 <img src="http://pictures.natalian.org/japan/2005/apr/10/17:47:58/500x375/" alt="Kai partying" />
 
 <p>Why didn&#8217;t <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq01.074.htp">I heed my own advice?</a></p>

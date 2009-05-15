@@ -1,5 +1,6 @@
 [[!meta title="webpy 0.138" ]]
 [[!meta date="2006-05-10 01:43:26" ]]
+[[!tag Debian webpy]]
 <p>With the help of Seo Sanghyeon, Josselin Mouette, Aaron Swartz and of course Fabio Tranchitella a new <a href="http://webpy.org/">webpy</a> release is uploaded to unstable.</p>
 
 <p>I just love working with other people to realise something. Especially when everyone is &#8220;on the same page&#8221;. It&#8217;s techy, social and it&#8217;s enjoyable.</p>

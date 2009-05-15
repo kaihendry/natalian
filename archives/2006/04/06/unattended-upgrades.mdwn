@@ -1,5 +1,6 @@
 [[!meta title="Unattended Upgrades" ]]
 [[!meta date="2006-04-06 22:41:56" ]]
+[[!tag Debian redhat ubuntu]]
 <p>A few days ago  I was moaning about how it wasn&#8217;t easy to <a href="http://natalian.org/archives/2006/03/24/mass-deployment/">keep a Debian machine updated</a> compared to say Red Hat&#8217;s automagic up2date (paid subscription required) service.</p>
 
 <p>Today I noticed a new package in a dapper dist-upgrade called <a href="http://packages.ubuntu.com/dapper/admin/unattended-upgrades">unattended-upgrades.</a> More information about <a href="https://wiki.ubuntu.com/AutomaticUpdates">unattended upgrades in the Ubuntu wiki.</a></p>

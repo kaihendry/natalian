@@ -1,5 +1,6 @@
 [[!meta title="Geek Pension" ]]
 [[!meta date="2008-06-29 13:36:52" ]]
+[[!tag saving webconverger minibar finance General pension opensource]]
 <a href="http://www.flickr.com/photos/hendry/197948276/" title="My first grey hair by Kai Hendry, on Flickr"><img src="http://farm1.static.flickr.com/73/197948276_a369d92b39_m.jpg" width="240" height="180" alt="My first grey hair" /></a>
 
 <p>I&#8217;ve long been annoyed by large corporates, hedge funds and investment bankers. I believe in a world of small businesses and this is why I&#8217;ve already invested a large proportion of my efforts in Free software &amp; the (open) Web.</p>

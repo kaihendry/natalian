@@ -1,5 +1,6 @@
 [[!meta title="Updating the Nokia E65" ]]
 [[!meta date="2008-10-26 21:30:43" ]]
+[[!tag nokia gphone zyb Mobile ipod firmware three General android update e65 vodafone]]
 <a href="http://www.flickr.com/photos/hendry/2975024881/" title="Nokia update tool by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3067/2975024881_7725541ba1_m.jpg" width="240" height="138" alt="Nokia update tool" /></a>
 
 <p>My <a href="http://stats.getjar.com/device/Nokia/E65">Nokia E65</a> is at the <a href="http://natalian.org/archives/2007/05/15/nokia-e65-from-3/">end of its 18 month contract</a>, so I <a href="http://www.three.co.uk/unlock">unlocked my mobile from <span class="caps">HTG</span> Three</a> for 15GBP.</p>

@@ -1,5 +1,6 @@
 [[!meta title="3 reasons why the Web platform will not fragment on mobiles" ]]
 [[!meta date="2008-09-16 08:31:52" ]]
+[[!tag Mobile momo mobilemondaylondon java General]]
 <a href="http://www.flickr.com/photos/hendry/2859113702/" title="Mobile geek by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3287/2859113702_dbdb944011_m.jpg" width="240" height="180" alt="Mobile geek" /></a>
 
 <p>Yesterday at <a href="http://mobilemonday.org.uk/2008/09/next-event-mobile-platforms-too-much.html">Mobile Monday&#8217;s Mobile Platforms event</a>, people were concerned the Web platform will fragment like other platforms (e.g. Java) fragmented on mobiles.</p>

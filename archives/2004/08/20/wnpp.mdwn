@@ -1,5 +1,6 @@
 [[!meta title="WNPP" ]]
 [[!meta date="2004-08-20 10:13:22" ]]
+[[!tag Debian]]
 <p>[NEW] debconf (<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=265570">#265570</a>), orphaned 6 days ago</p>
 
 <p>Description: Debian configuration management system</p>
