@@ -1,5 +1,5 @@
 [[!meta title="Debian Wordpress 1.5" ]]
-[[!meta date="2005-02-25 09:19:07" ]]
+[[!meta date="2005-02-22 09:14:39" ]]
 <p>Please read the <a href="http://debian.natalian.org/wordpress/wordpress_1.5.0-1_i386.changes">changelog.</a><br />
 And test this <a href="http://debian.natalian.org/wordpress/wordpress_1.5.0-1_all.deb">pre-release of Wordpress 1.5 for Debian <span class="caps">SID</span>.</a> Email me and <a href="http://blog.eltridente.org/">Teo</a> about serious problems. Although I do not think I will be able to fix them&#8230;</p>
 

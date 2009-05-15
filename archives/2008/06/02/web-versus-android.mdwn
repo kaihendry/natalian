@@ -1,5 +1,5 @@
 [[!meta title="Web versus Android" ]]
-[[!meta date="2009-04-29 09:20:53" ]]
+[[!meta date="2008-06-02 10:57:29" ]]
 <a href="http://www.flickr.com/photos/hendry/2264759283/" title="Android by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2414/2264759283_be581d4c9c_m.jpg" width="180" height="240" alt="Android" /></a>
 
 <p>With the help of a <a href="http://www.suckless.org/wiki/">colleague</a>, I compiled a list of the <a href="http://android-developers.blogspot.com/2008/05/top-50-applications.html">top 50 android applications</a> and <strong>roughly</strong> which <a href="http://spreadsheets.google.com/pub?key=pdZIZH3SXZ8LsM3-k_UjYMA"><span class="caps">API</span></a> they required to function.</p>

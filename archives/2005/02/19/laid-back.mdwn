@@ -1,5 +1,5 @@
 [[!meta title="Laid back" ]]
-[[!meta date="2005-02-19 18:14:55" ]]
+[[!meta date="2005-02-19 14:05:07" ]]
 <p>So I am in Bali, Indonesia and <span class="caps">BBC</span> World today announce another fecking earthquake. 6.5? FS, that&#8217;s nothing!</p>
 
 <p>I am aware there are new versions of Wordpress and Maradns. Wordpress upgrade looks a little tricky, but it&#8217;s nothing that the debian package system can&#8217;t handle. I did have in mind to put configs some how in user space for a Debian machine to be able to easily able to support multiple blogs. Lot of work.</p>

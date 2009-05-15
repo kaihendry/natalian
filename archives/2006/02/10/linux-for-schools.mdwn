@@ -1,5 +1,5 @@
 [[!meta title="Linux for schools" ]]
-[[!meta date="2006-02-14 10:24:16" ]]
+[[!meta date="2006-02-10 15:26:08" ]]
 <p>So my sister is working at a school where the computers are in a shocking state.</p>
 
 <p>All infected with viruses, spyware and malware. The machines either crawl along or are incredibly unstable. Some of them run some sort of virus protection program and I&#8217;ve seen one or two computers running two different anti-virus programs. On my travels I have seen countless infected Windows machines. It&#8217;s <a href="http://it.slashdot.org/it/06/02/09/1346212.shtml">incredible!</a></p>

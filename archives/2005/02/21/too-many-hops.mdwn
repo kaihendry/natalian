@@ -1,5 +1,5 @@
 [[!meta title="Too many hops" ]]
-[[!meta date="2005-02-22 16:47:54" ]]
+[[!meta date="2005-02-21 15:48:43" ]]
 <p>I take that back about Ubuntu in my <a href="http://natalian.org/archives/2005/02/19/laid-back/">last post.</a> The machine only had 128mb of Ram. These machines, some P4 2.6Ghz all have 128mb of <span class="caps">RAM</span>. Actually WinXP seems to run Ok, but the live CDs choke. Incidentally all these WinXP seem infected with some spyware. Gatorware et al. Of all the net cafe machines I have used in my journeys, I have say at least 90% are infected. Scary. Worse thing is, they feck up my net connection. :(</p>
 
 <a href="http://pictures.natalian.org/felix/2005/feb/9/15:26:23">

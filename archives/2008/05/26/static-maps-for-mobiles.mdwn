@@ -1,5 +1,5 @@
 [[!meta title="Static maps for Mobiles" ]]
-[[!meta date="2008-05-27 08:55:38" ]]
+[[!meta date="2008-05-26 19:10:39" ]]
 <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/jOE_h4AGhCg&amp;hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/jOE_h4AGhCg&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
 
 <p>I&#8217;m been wishing for this awhile and Google have finally done it.</p>

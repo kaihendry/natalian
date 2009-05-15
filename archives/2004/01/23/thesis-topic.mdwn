@@ -1,5 +1,5 @@
 [[!meta title="Thesis topic" ]]
-[[!meta date="2004-01-26 19:52:54" ]]
+[[!meta date="2004-01-23 16:27:08" ]]
 <p>I am pretty sure I am going to write my MSc thesis on how W3C technologies fit in with mobile (phone) devices. Mobile <span class="caps">WWW</span> Accessibility is the working title.</p>
 
 <p>I have tried to focus <em>accessibility</em> down to the mobile field, but I am not sure if it&#8217;s focused down enough as there is a lot of issues I imagine I will not have time to address.</p>

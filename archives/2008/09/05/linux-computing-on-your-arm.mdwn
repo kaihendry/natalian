@@ -1,5 +1,5 @@
 [[!meta title="Linux computing on your arm" ]]
-[[!meta date="2008-09-05 18:12:53" ]]
+[[!meta date="2008-09-05 16:04:11" ]]
 <a href="http://www.flickr.com/photos/hendry/2795115115/" title="Using 3G by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3118/2795115115_e0a28abc05.jpg" width="500" height="375" alt="Using 3G" /></a>
 
 <p>I played with a friend&#8217;s <a href="http://lists.suckless.org/dwm/0809/6621.html">Atom based <span class="caps">EEEPC</span></a> yesterday. The <a href="http://en.wikipedia.org/wiki/EEEPC"><span class="caps">EEEPC</span></a> is an amazing achievement considering it&#8217;s comparable to the <a href="http://wiki.webvm.net/x61/">Thinkpad X61</a>, yet it&#8217;s a fifth of the price in the UK.</p>

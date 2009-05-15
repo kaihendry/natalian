@@ -1,5 +1,5 @@
 [[!meta title="Uploading images" ]]
-[[!meta date="2005-02-22 14:35:09" ]]
+[[!meta date="2005-01-20 09:03:33" ]]
 <p>Hello from Chennai, India!</p>
 
 <p>How do I resume <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">scp</a> uploads from a Windows box?</p>

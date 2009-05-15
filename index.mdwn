@@ -1,7 +1,1 @@
-Welcome to your new wiki.
-
-All wikis are supposed to have a [[SandBox]], so this one does too. Testing.
-
-----
-
-This wiki is powered by [ikiwiki](http://ikiwiki.info/).
+[[!inline pages="./archives/* and !*/Discussion" archive=yes feedshow=10 quick=yes]]

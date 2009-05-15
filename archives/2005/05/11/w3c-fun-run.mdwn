@@ -1,5 +1,5 @@
 [[!meta title="W3C Fun Run" ]]
-[[!meta date="2007-03-06 17:01:16" ]]
+[[!meta date="2005-05-11 19:46:41" ]]
 <p>There are now four W3C mailing lists that concern mobile devices :</p>
 
 <p># <a href="http://lists.w3.org/Archives/Public/www-mobile/">www-mobile</a><br />

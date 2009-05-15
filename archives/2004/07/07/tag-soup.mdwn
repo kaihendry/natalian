@@ -1,5 +1,5 @@
 [[!meta title="Tag soup" ]]
-[[!meta date="2004-07-20 19:26:38" ]]
+[[!meta date="2004-07-07 16:16:58" ]]
 <p>Today I tested my Nokia UA armed with Ian Hickson&#8217;s tests to determine the answer to a important question.</p>
 
 <p>Is Nokia&#8217;s UA <span class="caps">XHTML</span> browser an <span class="caps">XHTML</span> browser?</p>

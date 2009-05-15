@@ -1,5 +1,5 @@
 [[!meta title="Recovering pictures from compact flash" ]]
-[[!meta date="2005-09-28 01:24:37" ]]
+[[!meta date="2005-09-27 14:40:24" ]]
 <p>My routine with my digital camera:<br />
 # Take pictures on camera which get stored on a compact flash disk<br />
 # Put CF disk into external <span class="caps">USB</span> card reader<br />

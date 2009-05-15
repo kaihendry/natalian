@@ -1,5 +1,5 @@
 [[!meta title="Nationalise UK Broadband" ]]
-[[!meta date="2008-09-18 16:43:07" ]]
+[[!meta date="2008-09-10 22:09:16" ]]
 <img src="http://www.speedtest.net/result/320513973.png" alt="Fast University connection" />
 
 <a href="http://www.ja.net/">JANET</a> is academic and government sponsored. Does it suck? No.

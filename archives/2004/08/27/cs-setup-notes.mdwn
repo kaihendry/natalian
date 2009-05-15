@@ -1,5 +1,5 @@
 [[!meta title="CS Setup notes" ]]
-[[!meta date="2005-10-05 15:08:41" ]]
+[[!meta date="2004-08-27 14:27:41" ]]
 <p>I checked out the <a href="http://www.cs.helsinki.fi/compfac/uutiset/index.html#english">CS department&#8217;s 4 new FS servers.</a></p>
 
 <p>Here are my notes:</p>

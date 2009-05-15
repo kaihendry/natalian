@@ -1,5 +1,5 @@
 [[!meta title="Nokia device independence with CSS" ]]
-[[!meta date="2004-10-13 10:23:14" ]]
+[[!meta date="2004-06-16 13:29:06" ]]
 <p>Since Nokia&#8217;s <span class="caps">XHTML</span> browser doesn&#8217;t give a toot about <a href="http://media.dabase.com/">media types</a>, and is able to <a href="http://dabase.com/override.xhtml">over-ride previous style selectors</a>, many authors could offer the millions of Nokia phones access (not to be confused with accessibility) to their content !</p>
 
 <p>I assume your site typically has a <a href="http://natalian.org/bluegold.css">two column float setup for post and menu like mine.</a> Trouble is on the Nokia <span class="caps">XHTML</span> browser(Nokia3100/1.0 (04.01) Profile/MIDP-1.0 Configuration/CLDC-1.0), the two column layout makes the text unreadable as it is too narrow. :/</p>

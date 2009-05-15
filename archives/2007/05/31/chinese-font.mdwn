@@ -1,5 +1,5 @@
 [[!meta title="Chinese Web fonts" ]]
-[[!meta date="2008-02-01 11:11:52" ]]
+[[!meta date="2007-05-31 17:37:19" ]]
 <a href="http://www.flickr.com/photos/hendry/523304079/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/231/523304079_c568bcb718_m.jpg" width="240" height="180" alt="Webconverger Portal in Chinese" /></a>
 
 <p>I wanted to <a href="http://www.markshuttleworth.com/archives/119">spill the discussion of fonts from Mark&#8217;s blog</a> and share what little I know on the topic and learn from the lazyweb.  :)</p>

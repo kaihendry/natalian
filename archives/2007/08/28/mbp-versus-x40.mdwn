@@ -1,5 +1,5 @@
 [[!meta title="MBP versus X40" ]]
-[[!meta date="2007-08-29 08:45:55" ]]
+[[!meta date="2007-08-28 17:10:30" ]]
 <a href="http://www.flickr.com/photos/hendry/1258625829/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1313/1258625829_2e46a9d05e_m.jpg" width="240" height="180" alt="Thinkpad X40 vs MBP" /></a>
 
 <p>I&#8217;ve spent a bit of the bank holiday weekend by probably violating the warranty of a <a href="http://www.flickr.com/photos/hendry/1258625653/">new 15&#8221; Macbook Pro (MBP)</a> from <a href="http://www.aplixcorp.com">work</a>. I also was at the <a href="http://wiki.earth.li/DebianParty2007">Debian bbq 2007 in Cambridge</a> and met some friendly faces. :)</p>

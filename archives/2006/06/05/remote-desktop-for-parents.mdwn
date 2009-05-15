@@ -1,5 +1,5 @@
 [[!meta title="Remote desktop for parents" ]]
-[[!meta date="2006-06-11 14:55:27" ]]
+[[!meta date="2006-06-05 02:23:53" ]]
 <p>My parents sadly run Windows and they&#8217;ve recently obtained &#8220;broadband&#8221;. Scary.</p>
 
 <p>They are complete novices and I wanted to control their system remotely to ensure the machine is setup correctly (and securely).</p>

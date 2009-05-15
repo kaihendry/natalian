@@ -1,5 +1,5 @@
 [[!meta title="Mobile Web" ]]
-[[!meta date="2007-06-04 21:42:29" ]]
+[[!meta date="2007-05-26 12:08:49" ]]
 <p>For me there is people who believe in the <strong>device independent</strong> Web and those who believe in the <strong>device dependent</strong> Web.</p>
 
 <p>Mobile Web, .mobi, that&#8217;s all &#8220;device dependent&#8221; as people think they need to target Web pages for the mobile.</p>

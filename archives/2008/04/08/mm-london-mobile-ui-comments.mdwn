@@ -1,5 +1,5 @@
 [[!meta title="MM London Mobile UI comments" ]]
-[[!meta date="2008-04-08 09:27:27" ]]
+[[!meta date="2008-04-08 08:45:10" ]]
 <a href="http://www.flickr.com/photos/hendry/2398552896/" title="Acid2 on the hi-phones by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3060/2398552896_1bd8b26907_m.jpg" width="240" height="180" alt="Acid2 on the hi-phones" /></a>
 
 <p>Steve Ives talk I didn&#8217;t like. I didn&#8217;t like the thought that &#8220;user experience&#8221; testing was a novel thing. Putting the UI process down on paper is really basic. I also didn&#8217;t like the fact he advertised Taptu had 15-odd technology patents. He suggested I go to Google patent search to find what they are. No thanks and after visiting their Web page I don&#8217;t see anything innovative about mobile ring tone search. I wonder what kind of money they spend on doing &#8220;user testing&#8221; in their &#8220;mobile lab&#8221;. Opensource feedback channels are a lot cheaper and more valuable&#8230;</p>

@@ -1,5 +1,5 @@
 [[!meta title="Wireless electricity meter idea" ]]
-[[!meta date="2007-03-04 10:42:36" ]]
+[[!meta date="2007-02-21 10:57:24" ]]
 <a href="http://www.flickr.com/photos/hendry/397510397/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/188/397510397_d86b47de21_m.jpg" width="240" height="180" alt="Electricity meter" /></a>
 
 <p>I&#8217;ve noticed in the UK a lot of broadband providers are pushing Wireless access points, notably <a href="http://www.wireless.bt.com/">BT</a>.</p>

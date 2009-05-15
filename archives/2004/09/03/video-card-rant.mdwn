@@ -1,5 +1,5 @@
 [[!meta title="Boring Video card rant" ]]
-[[!meta date="2004-09-03 23:05:12" ]]
+[[!meta date="2004-09-03 19:45:30" ]]
 <p>Unfortunately a friend of my father&#8217;s wants to build his computer from components. A little project. This was probably the best way 3 or so years ago, but now I highly recommend you do not build your own computer.</p>
 
 <p>It&#8217;s not worth the time or money.</p>

@@ -1,5 +1,5 @@
 [[!meta title="¿Where was I?" ]]
-[[!meta date="2007-10-05 00:30:43" ]]
+[[!meta date="2006-10-19 09:24:59" ]]
 <a href="http://flickr.com/photos/jamiekitson/269616342/">
 <img src="http://static.flickr.com/102/269616342_e85742cee5_m.jpg" alt="School children learning about Free software" /></a>
 

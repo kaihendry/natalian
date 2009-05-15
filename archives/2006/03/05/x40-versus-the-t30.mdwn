@@ -1,5 +1,5 @@
 [[!meta title="X40 versus the T30" ]]
-[[!meta date="2007-02-28 04:55:06" ]]
+[[!meta date="2006-03-05 16:08:41" ]]
 <a href="http://www.flickr.com/photos/hendry/107949095/" title="Photo Sharing"><img src="http://static.flickr.com/56/107949095_73d77e0155_m.jpg" width="240" height="180" alt="T30 and X40 batteries" /></a>
 
 <p>I am a little disappointed with the new <a href="http://thinkwiki.org/wiki/Category:X40">Thinkpad X40</a> I have from work. I wanted a MacBook Pro, but their availability and <a href="http://natalian.org/archives/2006/02/09/korean-quirks/">price</a> in Korea is bad.</p>

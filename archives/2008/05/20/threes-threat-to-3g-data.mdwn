@@ -1,5 +1,5 @@
 [[!meta title="Three's threat to 3G data" ]]
-[[!meta date="2008-08-05 16:58:17" ]]
+[[!meta date="2008-05-20 08:56:51" ]]
 <a href="http://www.flickr.com/photos/hendry/2502307318/" title="3 Fair usage by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3284/2502307318_0294d861d1.jpg" width="375" height="500" alt="3 Fair usage" /></a>
 
 <p>EH? I only use <a href="http://flickr.com/photos/hendry/871604165/">20 megs or so a month judging by my previous bills</a>. Lets see their Website:</p>

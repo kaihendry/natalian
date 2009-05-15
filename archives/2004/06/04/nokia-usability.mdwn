@@ -1,5 +1,5 @@
 [[!meta title="Nokia usability" ]]
-[[!meta date="2004-06-06 07:54:17" ]]
+[[!meta date="2004-06-04 20:45:01" ]]
 <p>Use case is that I want my mobile to alert me when my <a href="http://www.bluewillowpages.com/mushroomexpert/false_morel_toxicity.html">poisonous mushrooms</a> have boiled enough.</p>
 
 <ol>

@@ -1,5 +1,5 @@
 [[!meta title="Things fall apart" ]]
-[[!meta date="2005-08-20 11:11:02" ]]
+[[!meta date="2005-08-19 12:15:31" ]]
 <p>Made <a href="http://hendry.iki.fi/debian/unstable/">packages</a> of <a href="http://wordpress.org/development/2005/08/one-five-two/">Wordpress 1.5.2.</a></p>
 
 <p>This needs testing. Though it should be OK for Fabio to upload.</p>

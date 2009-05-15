@@ -1,5 +1,5 @@
 [[!meta title="Deploying is hard" ]]
-[[!meta date="2006-06-08 05:41:08" ]]
+[[!meta date="2006-01-20 09:54:41" ]]
 <p><a href="http://dreamhost.com/">Dreamhost</a> are great and everything, but it can be quite difficult to make full use of one&#8217;s host.</p>
 
 <p>For example. I have more diskspace, so I was thinking of hosting a copy of wikipedia and abusing my near unlimited bandwidth. Not so fast:</p>

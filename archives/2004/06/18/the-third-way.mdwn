@@ -1,5 +1,5 @@
 [[!meta title="The third way" ]]
-[[!meta date="2004-07-20 12:15:17" ]]
+[[!meta date="2004-06-18 13:15:17" ]]
 <p>Currently I see device independent web engineering as follows:</p>
 
 <ol>

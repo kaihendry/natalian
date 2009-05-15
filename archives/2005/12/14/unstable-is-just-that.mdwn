@@ -1,5 +1,5 @@
 [[!meta title="unstable is just that" ]]
-[[!meta date="2005-12-20 15:42:53" ]]
+[[!meta date="2005-12-14 09:40:58" ]]
 <p>&#8220;unstable is just that&#8221; is what some dork says to me on #debian when I said:<br />
 <blockquote><br />
 i&#8217;ve nuked my machine from a dist-upgrade from unstable last night. It won&#8217;t boot. The shell doesn&#8217;t look right. help. :)<br />

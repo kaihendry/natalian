@@ -1,5 +1,5 @@
 [[!meta title="iPhone Web apps" ]]
-[[!meta date="2008-04-08 12:43:08" ]]
+[[!meta date="2007-10-14 14:33:29" ]]
 <a href="http://www.flickr.com/photos/hendry/1578840387/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2061/1578840387_cd028306b5_o.png" width="320" height="480" alt="Letter.dabase.com" /></a>
 
 <p>I&#8217;ve noticed that <a href="http://www.apple.com/webapps/">Apple itself seems to be promoting Web applications</a> with a little directory.</p>

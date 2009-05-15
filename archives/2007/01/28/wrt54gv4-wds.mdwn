@@ -1,5 +1,5 @@
 [[!meta title="WRT54Gv4 WDS" ]]
-[[!meta date="2008-01-08 01:34:07" ]]
+[[!meta date="2007-01-28 11:39:27" ]]
 <a href="http://www.flickr.com/photos/hendry/371747265/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/184/371747265_64be5680ef_m.jpg" width="240" height="180" alt="Tomato gave me WDS" /></a>
 
 <p>Last month I reported how I got my UK <a href="http://natalian.org/archives/2006/12/24/linksys-wag354g-and-wrt54g/"><span class="caps">ADSL</span> access point the WAG354G working with the WRT54G</a>. The WRT54G cranked up the wireless range throughout my <a href="http://prazefarm.co.uk/">family&#8217;s thick walled grade II listed home</a>. The wireless range of the WAG354G is pathetic. I am guessing those aerials on the WRT54G really help.</p>

@@ -1,5 +1,5 @@
 [[!meta title="Gmail spam filter" ]]
-[[!meta date="2006-10-05 13:09:02" ]]
+[[!meta date="2006-09-27 13:04:16" ]]
 <a href="http://www.flickr.com/photos/hendry/245020218/" title="Photo Sharing"><img src="http://static.flickr.com/98/245020218_709c5afa00.jpg" width="500" height="375" alt="Spam on Gmail" /></a>
 
 <p>Suddenly everyday for the last couple of weeks I&#8217;ve had to manually report more than 10 pieces of spam a day. Today my spam folder is almost 4000 mails for the month.</p>

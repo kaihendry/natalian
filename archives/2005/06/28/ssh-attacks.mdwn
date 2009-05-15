@@ -1,5 +1,5 @@
 [[!meta title="ssh attacks" ]]
-[[!meta date="2005-07-07 16:03:36" ]]
+[[!meta date="2005-06-28 15:08:59" ]]
 <p>This dedicated RH machine was put online this month. A collegue suggested I put the ssh port on some non-standard port.</p>
 
 <code>

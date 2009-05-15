@@ -1,5 +1,5 @@
 [[!meta title="Nokia inline image test" ]]
-[[!meta date="2004-06-22 11:13:02" ]]
+[[!meta date="2004-06-18 10:31:25" ]]
 <p>According to my <a href="http://www.forum.nokia.com/main/0,6566,016-1297,00.html">Nokia 3100&#8217;s</a> <a href="http://nds.nokia.com/uaprof/N3100r100.xml">User agent profile</a> the screen size is 128&#215;128. Having a look around the profile reveals the MmsMaxImageResolution as 352&#215;288. Ah sweet.</p>
 
 <p>However after <a href="http://dabase.com/image.xhtml">testing an inline image</a>, I have discovered the maximum screen size for my Nokia&#8230; is&#8230; come on&#8230; guess&#8230; this is proprietary development sweeties&#8230; don&#8217;t be lazy&#8230;. <strong>127&#215;126</strong>. The amount of time I have seen &#8220;File to large to be loaded&#8221;! What good are <a href="http://www.w3.org/TR/CCPP-struct-vocab/">User agent profiles?</a></p>

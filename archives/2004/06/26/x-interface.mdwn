@@ -1,5 +1,5 @@
 [[!meta title="X interface" ]]
-[[!meta date="2004-06-28 02:23:02" ]]
+[[!meta date="2004-06-26 13:31:13" ]]
 <p>I am using X with the help of my <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.072.htp">x-window-manager</a> <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.101.htp">Ion2</a> and <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.004.htp"><strong><span class="caps">GNU</span> screen</strong></a>.</p>
 
 <p>I have about four workspaces. Typically one runs a browser. The rest are big black *uxterm*s.</p>

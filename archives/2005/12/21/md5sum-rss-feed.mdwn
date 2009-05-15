@@ -1,5 +1,5 @@
 [[!meta title="md5sum rss feed" ]]
-[[!meta date="2006-03-31 09:46:01" ]]
+[[!meta date="2005-12-21 14:25:51" ]]
 <p>Idea: Upstream publishes md5sums of releases which Debian can check with.</p>
 
 <p>Pros<br />

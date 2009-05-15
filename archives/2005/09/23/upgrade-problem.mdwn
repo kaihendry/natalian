@@ -1,5 +1,5 @@
 [[!meta title="Upgrade problem" ]]
-[[!meta date="2005-09-23 15:04:00" ]]
+[[!meta date="2005-09-23 09:17:26" ]]
 <p>I have an odd <a href="http://people.debian.org/~terpstra/message/20050922.054110.e341d92b.en.html">upgrade problem which I detailed on debian-user</a> and I&#8217;ve yet to receive a reply.</p>
 
 <p>Maybe this blog will help. :)</p>

@@ -1,5 +1,5 @@
 [[!meta title="Opensource Transaction support" ]]
-[[!meta date="2005-10-13 14:10:51" ]]
+[[!meta date="2005-10-12 13:51:05" ]]
 <p><a href="http://www.mysql.com/">MySQL</a> is one of the first <acronym title="DataBase Management System"><span class="caps">DBMS</span></acronym> I&#8217;ve ever used. I really can&#8217;t recall what I was using it for, though I was and still impressed by MySQL&#8217;s:<br />
 * stability<br />
 * ease of setup<br />

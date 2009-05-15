@@ -1,5 +1,5 @@
 [[!meta title=".ssh/known_hosts" ]]
-[[!meta date="2005-10-10 23:37:11" ]]
+[[!meta date="2005-10-10 08:41:37" ]]
 <p>Umm, why has the .ssh/known_hosts <strong>format</strong> seemed to have changed on my unstable machine?</p>
 
 <p>Can&#8217;t see the hostname or the IP address.</p>

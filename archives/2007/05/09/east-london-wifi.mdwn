@@ -1,5 +1,5 @@
 [[!meta title="East London Wifi?" ]]
-[[!meta date="2007-12-09 11:58:28" ]]
+[[!meta date="2007-05-09 20:32:35" ]]
 <p>I&#8217;m in E3 and I need wireless Internet with a power socket.</p>
 
 <p>I am <a href="http://natalian.org/archives/2007/04/29/rented-internet/">without Internet until next Monday</a> otherwise.</p>

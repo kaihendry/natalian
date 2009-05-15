@@ -1,5 +1,5 @@
 [[!meta title="Paris city bike rental" ]]
-[[!meta date="2008-07-20 21:38:46" ]]
+[[!meta date="2008-07-20 19:40:58" ]]
 <a href="http://flickr.com/photos/jamiekitson/2678442168/in/photostream/">
 <img src="http://farm4.static.flickr.com/3233/2678442168_9a749d9ac5_m_d.jpg" />
 </a>

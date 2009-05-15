@@ -1,5 +1,5 @@
 [[!meta title="Wordpress 1.5.1.2" ]]
-[[!meta date="2005-06-04 08:13:11" ]]
+[[!meta date="2005-05-30 11:51:51" ]]
 <p>A couple of people have asked me why Wordpress is not going to be in sarge.</p>
 
 <p>It is because of its <a href="http://wordpress.org/development/2005/05/security-update/">ongoing security problems</a> with <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=308534">Debian.</a></p>

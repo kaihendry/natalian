@@ -1,5 +1,5 @@
 [[!meta title="Fixing trac vandalism" ]]
-[[!meta date="2006-04-18 16:08:33" ]]
+[[!meta date="2006-04-16 20:34:19" ]]
 <a href="http://www.flickr.com/photos/hendry/128854214/" title="Photo Sharing"><img src="http://static.flickr.com/51/128854214_0cda098731_m.jpg" width="240" height="180" alt="IMG_4151.JPG" /></a>
 
 <p><a href="http://www.edgewall.com/trac/">Trac</a> is especially prone to wiki vandalism. Worse thing, it is isn&#8217;t obvious how to fix the problem.</p>

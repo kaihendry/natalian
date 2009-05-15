@@ -1,5 +1,5 @@
 [[!meta title="Mass deployment" ]]
-[[!meta date="2006-04-06 22:43:08" ]]
+[[!meta date="2006-03-24 13:14:57" ]]
 <p>Ok, I glanced over the earlier DP <a href="http://stratusandtheswirl.blogspot.com/2006/03/debian-everywhere-using-ltsp.html"><span class="caps">LTSP</span> post</a> and I thought I should let out this brain fart.</p>
 
 <p><span class="caps">LTSP</span> sucks, because:</p>

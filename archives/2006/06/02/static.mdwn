@@ -1,5 +1,5 @@
 [[!meta title="Static" ]]
-[[!meta date="2006-06-05 15:08:30" ]]
+[[!meta date="2006-06-02 15:48:31" ]]
 <a href="http://www.flickr.com/photos/hendry/155134313/" title="Photo Sharing"><img src="http://static.flickr.com/77/155134313_87a648dd75_m.jpg" width="180" height="240" alt="Torward the Han from Ichon exit4" /></a>
 
 <p>I wrote some <a href="http://trac.natalian.org/browser/projects/static">bash tools to assist uploading and maintaining a Web static file repository.</a></p>

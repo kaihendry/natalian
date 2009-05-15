@@ -1,5 +1,5 @@
 [[!meta title=" Validation is not the last word in conformance" ]]
-[[!meta date="2004-07-06 03:02:00" ]]
+[[!meta date="2004-05-06 16:22:28" ]]
 <a href=" http://www.xiven.com/weblog/2004/04/26/ValidityOfTheArgument#comments">Validation is not the last word in conformance,</a> as <a href="http://ln.hixie.ch/">Ian Hickson</a> excellently reminds us.
 
 <p>It all started when a coffee room discussion ended with <a href="http://www.cs.helsinki.fi/u/hendry/temp/test1/">a test</a> that shows a tricky ambiguity in <span class="caps">XML</span>. <a href="http://www.cs.helsinki.fi/u/mraento/">Mika Raento</a>&#8216;s email has more:</p>

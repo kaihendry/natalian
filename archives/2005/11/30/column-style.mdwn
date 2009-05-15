@@ -1,5 +1,5 @@
 [[!meta title="Column style" ]]
-[[!meta date="2005-12-01 16:01:25" ]]
+[[!meta date="2005-11-30 16:11:06" ]]
 <p>Those who use <a href="http://getfirefox.com/">Firefox 1.5</a> will have noticed a use of <a href="http://developer.mozilla.org/en/docs/CSS3_Columns">columns</a> associated with my <a href="http://hendry.iki.fi/css/bluegold.css">style sheet.</a></p>
 
 <p>It can look really <strong>ugly</strong>.</p>

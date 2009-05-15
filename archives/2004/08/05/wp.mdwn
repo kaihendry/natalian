@@ -1,5 +1,5 @@
 [[!meta title="WP 1.2 Packaged" ]]
-[[!meta date="2004-08-19 15:02:59" ]]
+[[!meta date="2004-08-05 09:19:51" ]]
 <p>I would appreciate some early testing and <a href="mailto:wp@natalian.org">feedback</a> on my <a href="http://wordpress.org">Wordpress 1.2</a> “Mingus” <a href="http://debian.natalian.org/wordpress/">Debian package</a> ., before it hits unstable. Download the <a href="http://debian.natalian.org/wordpress/wordpress_1.2.0-1.1_all.deb">deb</a> and dpkg&#8212;install it.</p>
 
 <p>Some colleagues have asked my why I like WP over say <a href="http://roughingit.subtlehints.net/pyblosxom/">pybloxsom.</a></p>

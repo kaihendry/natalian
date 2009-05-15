@@ -1,5 +1,5 @@
 [[!meta title="Digital Signage that does not crash" ]]
-[[!meta date="2007-08-06 19:26:26" ]]
+[[!meta date="2007-08-06 15:59:41" ]]
 <p>How many times have we seen something like:</p>
 
 <a href="http://www.flickr.com/photos/hendry/1028035206/" title="Digital signage crash"><img src="http://farm2.static.flickr.com/1259/1028035206_d6188967cd.jpg" width="500" height="375" alt="Digital signage done wrong" /></a>

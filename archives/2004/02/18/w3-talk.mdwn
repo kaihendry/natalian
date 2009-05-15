@@ -1,5 +1,5 @@
 [[!meta title="W3 talk" ]]
-[[!meta date="2004-02-18 19:25:22" ]]
+[[!meta date="2004-02-18 19:03:59" ]]
 <p>I forgot how good the W3 lists can be.</p>
 
 <p>I <a href="http://lists.w3.org/Archives/Public/www-di/2004Feb/0000.html">started a thread on W3-<acronym title="Device Independance">DI</acronym></a>, which has given me a lot to think about.</p>

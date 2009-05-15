@@ -1,5 +1,5 @@
 [[!meta title="Linksys WAG354G and WRT54G" ]]
-[[!meta date="2007-01-28 11:39:32" ]]
+[[!meta date="2006-12-24 00:27:02" ]]
 <a href="http://www.flickr.com/photos/hendry/368052550/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/113/368052550_91c3166e05_m.jpg" width="240" height="180" alt="Jutta geeking out" /></a>
 
 <p>So in addition to the <span class="caps">ADSL</span> gateway that the WAG354G provides, I wanted wireless. Though the wireless range of the <a href="http://www.dabs.com/productview.aspx?quicklinx=3QYJ">WAG354G-UK</a> sucks. At first I thought it was the thick walls of our house.</p>

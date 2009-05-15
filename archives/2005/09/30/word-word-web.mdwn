@@ -1,5 +1,5 @@
 [[!meta title="Word Word Web" ]]
-[[!meta date="2005-10-05 10:11:02" ]]
+[[!meta date="2005-09-30 09:34:01" ]]
 <p>I discovered an <a href="http://slashdot.org/article.pl?sid=05/09/29/000223&amp;from=rss"><span class="caps">AJAX</span> Word proccessor from Slashdot</a> called <a href="http://www.writely.com">Writely.</a></p>
 
 <p>I&#8217;ve been waiting around for a Web application to upload and edit/print Word files for sometime. Though this is a dissapointing implementation. Understandable when Microsoft are keen to break standards and interoperablity as much as possible to hang on to their monopoly over Office tools.</p>

@@ -1,5 +1,5 @@
 [[!meta title="W3C drops the mobile" ]]
-[[!meta date="2009-03-26 18:08:48" ]]
+[[!meta date="2007-03-06 16:54:29" ]]
 <a href="http://www.flickr.com/photos/hendry/410374588/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/186/410374588_9b38f21945_m.jpg" width="180" height="240" alt="Wandsworth moon" /></a>
 
 <p>Today I came across a <a href="http://ready.mobi/">stupid .mobi</a> website that led me inspect W3C practices regarding the mobile domain.</p>

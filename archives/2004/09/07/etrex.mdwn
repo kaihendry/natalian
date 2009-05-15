@@ -1,5 +1,5 @@
 [[!meta title="Etrex" ]]
-[[!meta date="2004-09-15 09:51:01" ]]
+[[!meta date="2004-09-07 22:01:14" ]]
 <p>I bought a <a href="http://www.garmin.com/products/etrex/">Etrex</a> with a serial cable for 100 <span class="caps">UKP</span> and today it arrived.</p>
 
 <p>Wow!</p>

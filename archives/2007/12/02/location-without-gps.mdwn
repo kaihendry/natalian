@@ -1,5 +1,5 @@
 [[!meta title="Location without GPS" ]]
-[[!meta date="2007-12-04 11:33:45" ]]
+[[!meta date="2007-12-02 11:51:39" ]]
 <a href="http://www.flickr.com/photos/hendry/2071322077/" title="within 1700m by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2284/2071322077_34428f1456_m.jpg" width="180" height="240" alt="within 1700m" /></a>
 
 <p>From version 2.0 of Google Maps Mobile (gmm), there is this &#8220;My Location&#8221; feature using <a href="http://en.wikipedia.org/wiki/Assisted_GPS">A-GPS</a>.</p>

@@ -1,5 +1,5 @@
 [[!meta title="Subversion homedir" ]]
-[[!meta date="2005-11-30 16:16:24" ]]
+[[!meta date="2005-05-27 16:15:07" ]]
 <p>Inspired by <a href="http://www.kitenet.net/~joey/svnhome.html">Joey Hess</a> in the past couple of years I have had my homedir in a subversion repositry. I <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq01.060.htp">tipped</a> about this a while back, but I thought I should give the topic some blog treatment.</p>
 
 <p>When I move to a new machine in $HOME:</p>

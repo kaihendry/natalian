@@ -1,5 +1,5 @@
 [[!meta title="Maillog" ]]
-[[!meta date="2004-07-11 20:00:16" ]]
+[[!meta date="2004-07-11 14:33:14" ]]
 <p>I just commented out bogofilter from my <a href="http://svn.natalian.org/home/.mailfilter">mailfilter</a> because it backed up my mail by making maildrop fail for a couple of weeks. I wish if there was a big mailq I would get warned somehow. Not easy when mail isn&#8217;t getting delivered.</p>
 
 <p>The error looks like in /var/log/exim4/mainlog:</p>

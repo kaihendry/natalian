@@ -1,5 +1,5 @@
 [[!meta title="JBoss sucks" ]]
-[[!meta date="2009-02-18 02:26:11" ]]
+[[!meta date="2005-10-06 15:34:16" ]]
 <ul>
 <li>Restarting the the <a href="http://www.jboss.com/products/jbossas">Application server</a> is <strong><span class="caps">PAIN</span></strong>. You need to do this every time you deploy. It adds at least 30 minutes to a software iteration.</li>
 <li><a href="http://wiki.jboss.org/wiki/Wiki.jsp?page=HotDeployment">Hot deployment</a> of <strong>Enterprise ARchive*s simply *doesn&#8217;t work</strong>. Save your sanity and don&#8217;t even test it.</li>

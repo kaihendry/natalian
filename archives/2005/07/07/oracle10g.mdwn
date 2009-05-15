@@ -1,5 +1,5 @@
 [[!meta title="Oracle10g" ]]
-[[!meta date="2005-07-08 03:31:07" ]]
+[[!meta date="2005-07-07 15:42:29" ]]
 <p>Continuing from my previous <a href="http://natalian.org/archives/2005/07/01/week-2-at-the-oracle-university/">Oracle posts.</a></p>
 
 <p>Week 3 of Oracle and this week I have had a lot of breakthroughs. Most important discoveries were <strong>emconsole</strong> and <strong>dbca</strong>.</p>

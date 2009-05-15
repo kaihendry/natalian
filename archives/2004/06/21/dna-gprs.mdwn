@@ -1,5 +1,5 @@
 [[!meta title="DNA GPRS" ]]
-[[!meta date="2004-07-10 10:43:52" ]]
+[[!meta date="2004-06-21 10:37:58" ]]
 <a href="http://natalian.org/archives/2004/04/01/navigation/">Since I have had my Nokia 3100 in April</a> I have been subscribed to <a href="http://www.dnafinland.fi/">DNA</a>'s GPRS service.
 
 <p>I&#8217;ve used the <span class="caps">GPRS</span> service extensively for development especially considering I was told I have unlimited bandwidth for 5EUR a month, but that seemed pretty reasonable considering the really low transfer speed. I&#8217;ve happily used sites like <a href="http://www.bbc.co.uk/mobile/"><span class="caps">BBC</span></a> almost everyday with my phone, even when abroad in Sweden and Estonia.</p>

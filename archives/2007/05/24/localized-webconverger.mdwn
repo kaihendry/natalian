@@ -1,5 +1,5 @@
 [[!meta title="Localized Webconverger" ]]
-[[!meta date="2007-05-26 16:32:31" ]]
+[[!meta date="2007-05-24 19:34:46" ]]
 <a href="http://www.flickr.com/photos/hendry/512519165/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/194/512519165_703ad044e0_m.jpg" width="240" height="180" alt="Webconverger in German" /></a>
 
 <p>Big update today. Lots of hard work and <a href="http://webconverger.org/blog">changes</a>.</p>

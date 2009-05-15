@@ -1,5 +1,5 @@
 [[!meta title="Wordsmith" ]]
-[[!meta date="2005-10-07 11:30:30" ]]
+[[!meta date="2005-10-06 12:43:33" ]]
 <pre>
 debian$ dict qualms
 bash: dict: command not found

@@ -1,5 +1,5 @@
 [[!meta title="Elevator code" ]]
-[[!meta date="2005-11-30 16:12:00" ]]
+[[!meta date="2005-11-18 10:21:14" ]]
 <a href="http://www.flickr.com/photos/hendry/64302755/" title="Photo Sharing"><img src="http://static.flickr.com/27/64302755_eab35a33b2.jpg" width="500" height="375" alt="An elevator floor display" /></a>
 
 <p>I take this lift/elevator at least 11 floors down and up every day. I stand outside comparing the display to the next lift and I can&#8217;t help but think how the software is designed.</p>

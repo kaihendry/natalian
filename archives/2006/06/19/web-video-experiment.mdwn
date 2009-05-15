@@ -1,5 +1,5 @@
 [[!meta title="Web video experiment" ]]
-[[!meta date="2006-06-20 01:23:24" ]]
+[[!meta date="2006-06-19 18:04:10" ]]
 <p>I am thinking of publishing 3 minute videos on this blog everyday for a week.</p>
 
 <p>In Web 2.0 speak I think this means my <a href="http://natalian.org">blog</a> becomes a <a href="http://en.wikipedia.org/wiki/Vlog">vlog</a> aka Video blogging or Video-casting. Ho ho ho ha.</p>

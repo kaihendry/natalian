@@ -1,5 +1,5 @@
 [[!meta title="Moving from white boxes" ]]
-[[!meta date="2005-11-14 14:14:50" ]]
+[[!meta date="2005-10-05 18:00:22" ]]
 <p>At work I am keen to move away from white boxes to something say listed on Red Hat&#8217;s <a href="https://hardware.redhat.com/hwcert/list.cgi?product=Red+Hat+Hardware+Certification&amp;quicksearch"><span class="caps">HCL</span>.</a></p>
 
 <p>Pain.</p>

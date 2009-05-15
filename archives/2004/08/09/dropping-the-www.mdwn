@@ -1,5 +1,5 @@
 [[!meta title="Dropping the www" ]]
-[[!meta date="2004-08-14 11:42:32" ]]
+[[!meta date="2004-08-09 15:27:12" ]]
 <p>A post on <a href="http://whatwg.org">whatwg</a> about <a href="http://listserver.dreamhost.com/pipermail/whatwg-whatwg.org/2004-July/001364.html">dropping www subdomain prefix is interesting.</a></p>
 
 <p><a href="http://annevankesteren.nl">Anne</a> suggested the <a href="http://no-www.org/">no www site</a> for perusal.</p>

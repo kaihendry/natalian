@@ -1,5 +1,5 @@
 [[!meta title="Etrex plotting" ]]
-[[!meta date="2007-05-01 17:37:34" ]]
+[[!meta date="2007-04-30 22:56:52" ]]
 <a href="http://www.flickr.com/photos/hendry/479026170/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/199/479026170_fa5be59553_m.jpg" width="240" height="180" alt="Etrex via a USB interface" /></a>
 
 <p>This morning I thought I couldn&#8217;t get my <span class="caps">GPS</span> tracklog from my bike ride through London off my Etrex <span class="caps">GPS</span> device as I didn&#8217;t have:</p>

@@ -1,5 +1,5 @@
 [[!meta title="Computer Time syncing best practice" ]]
-[[!meta date="2005-12-09 09:31:11" ]]
+[[!meta date="2005-12-02 10:21:03" ]]
 <p>I started a thread about <a href="https://www.redhat.com/archives/nahant-list/2005-November/msg00195.html">syncing time between machines in an office</a> over at the <a href="https://www.redhat.com/mailman/listinfo/nahant-list">Red Hat nahant list.</a> Feck I hate <a href="http://www.gnu.org/software/mailman/">mailman.</a> The thread continues in the next month, detailing <a href="https://www.redhat.com/archives/nahant-list/2005-December/msg00000.html"><span class="caps">NTP</span> syncing best practices.</a></p>
 
 <p>A summary:</p>

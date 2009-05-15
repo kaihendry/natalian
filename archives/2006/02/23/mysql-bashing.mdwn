@@ -1,5 +1,5 @@
 [[!meta title="Mysql bashing" ]]
-[[!meta date="2006-02-27 19:15:01" ]]
+[[!meta date="2006-02-23 19:22:08" ]]
 <a href="http://www.flickr.com/photos/hendry/102462439/" title="Photo Sharing"><img src="http://static.flickr.com/40/102462439_72266dc573_m.jpg" width="180" height="240" alt="Pouring soju" /></a>
 
 <p>I wrote a couple of bash scripts to insert and update information into a mysql database.</p>

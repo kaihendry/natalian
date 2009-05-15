@@ -1,5 +1,5 @@
 [[!meta title="Regus suck at Internet" ]]
-[[!meta date="2008-09-19 08:02:38" ]]
+[[!meta date="2008-09-18 16:43:02" ]]
 <p>Just when you think things can&#8217;t get any worse when it comes to the <a href="http://natalian.org/archives/2008/09/10/nationalise-uk-broadband/">terrible state of UK broadband</a>. It does. My workplace connectivity used to be 10mbit under a guaranteed half-a-megabit connection. Now we are <strong>capped</strong> at half-a-megabit. Their capping / QoS is a bit mean and seems to strike you down to 40kB/sec if you get anywhere close to half. :(</p>
 
 <p>A <a href="http://docs.google.com/Doc?id=dcxr29xt_222ddzmn9w5">10mbit connection with Regus (the serviced offices I&#8217;m in) costs more than 3000GBP a month</a>! I used to think <a href="http://webconverger.org/blog/entry/UK_Internet/">29GBP for 20mbit with Virgin Media</a> was a rip-off. <a href="http://www.regus.co.uk/">Regus serviced offices are to be avoided like the plague</a>.</p>

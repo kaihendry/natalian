@@ -1,5 +1,5 @@
 [[!meta title="SVG embedded in HTML, a dark art" ]]
-[[!meta date="2006-03-05 11:04:07" ]]
+[[!meta date="2006-03-02 18:51:25" ]]
 <a href="http://www.flickr.com/photos/hendry/103601439/" title="Photo Sharing"><img src="http://static.flickr.com/15/103601439_dccc71d9e0_m.jpg" width="240" height="180" alt="Kai, Hannah and James playing scrabble" /></a>
 
 <p>Spent an hour or two looking at <a href="http://dabase.com/svg/"><span class="caps">SVG</span> and embedding them into Web pages.</a></p>

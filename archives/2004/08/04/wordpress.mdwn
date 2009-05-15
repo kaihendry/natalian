@@ -1,5 +1,5 @@
 [[!meta title="Wordpress" ]]
-[[!meta date="2004-08-04 15:15:11" ]]
+[[!meta date="2004-08-04 09:41:32" ]]
 <p>This blog might be going offline for a couple of days.</p>
 
 <p>I going to have a go figuring out how to get <a href="http://bjorn.haxx.se/debian/testing.pl?package=wordpress">Wordpress into the next release of Debian.</a></p>

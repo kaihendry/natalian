@@ -1,5 +1,5 @@
 [[!meta title="UK BBC Radio 5 live World cup coverage" ]]
-[[!meta date="2006-11-01 02:38:42" ]]
+[[!meta date="2006-06-15 03:15:26" ]]
 <p>Broadcasting Status: <span style="color: red;">Offline</span></p>
 
 <tt>ogg123 <a href="http://222.106.128.198:8000">http://222.106.128.198:8000</a>/5live.ogg</tt>

@@ -1,5 +1,5 @@
 [[!meta title="Comment spam solutions" ]]
-[[!meta date="2006-11-06 17:45:28" ]]
+[[!meta date="2005-03-01 05:13:19" ]]
 <p>Tried <a href="http://www.unknowngenius.com/blog/wordpress/spam-karma">Spam Karma</a> the last few days and yeah it worked! It stopped spam, but it also stopped <a href="http://kitten-x.com">Jamie</a> and I from posting comments. The options are confusing and perhaps somehow my IP got on the blacklist. I can&#8217;t tell because I do not know or care what my IP is. When a comment is blocked, it has a <strong>really</strong> stupid &#8220;bad karma man&#8221; message. It would be much better if it linked somehow into filing a complaint which I could then rectify. Daft and de-activated.</p>
 
 <p><a href="http://mookitty.co.uk/devblog/category/kittens-spaminator/">Spaminator</a> just seems to use regular expressions to kill comment spam. However this is what Wordpress 1.5 already does in Options->Discussion. So that&#8217;s pointless.</p>

@@ -1,5 +1,5 @@
 [[!meta title="Downgrading" ]]
-[[!meta date="2004-08-13 00:15:42" ]]
+[[!meta date="2004-08-12 22:02:45" ]]
 <p>I&#8217;ve had to start using a Win98 machine at home which does not support Unicode.</p>
 
 <p>Oh joy.</p>

@@ -1,5 +1,5 @@
 [[!meta title="Are widgets popular?" ]]
-[[!meta date="2008-04-11 16:15:47" ]]
+[[!meta date="2008-04-11 10:43:16" ]]
 <a href="http://weblogs.mozillazine.org/roadmap/archives/2008/04/popularity.html">Javascript is popular</a>, but are <a href="http://www.w3.org/TR/widgets/">widgets</a>? We're well into 2008 now and 2007 was the year of the widget. ;)
 
 <p>I&#8217;ve been looking into <a href="http://en.wikipedia.org/wiki/Web_widget">widgets</a> as they are defined by <a href="http://dev.opera.com/articles/view/opera-widgets-specification-1-0/">Opera</a> and contributed to the <a href="http://www.w3.org/TR/widgets/">W3C</a>.</p>

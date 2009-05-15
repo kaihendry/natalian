@@ -1,5 +1,5 @@
 [[!meta title="PHP XML" ]]
-[[!meta date="2005-07-28 19:23:20" ]]
+[[!meta date="2005-07-28 12:53:12" ]]
 <p><a href="http://groups-beta.google.com/group/Google-Maps-API/browse_thread/thread/6c7e63de38c7353d/cc82d854ef15626a#cc82d854ef15626a">I hate <span class="caps">XML</span>.</a></p>
 
 <p>I investigated storing my <span class="caps">GPS</span> co-ords in a really simple <a href="http://maps.natalian.org/data.xml"><span class="caps">XML</span> file</a> with <span class="caps">PHP</span> for my <a href="http://maps.natalian.org/">map application.</a> I did this thinking that I could only interface data with Google Maps in Javascript with <span class="caps">XML</span>. In fact you <strong>can</strong> use <a href="http://groups-beta.google.com/group/Google-Maps-API/msg/cc82d854ef15626a">responseText</a> with XmlHttpRequest.</p>

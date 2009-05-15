@@ -1,5 +1,5 @@
 [[!meta title="Public availability status" ]]
-[[!meta date="2006-10-09 21:37:21" ]]
+[[!meta date="2006-10-05 13:08:55" ]]
 <a href="http://www.flickr.com/photos/hendry/261074980/" title="Photo Sharing"><img src="http://static.flickr.com/100/261074980_63215e8c50_m.jpg" width="240" height="160" alt="Squash" /></a>
 
 <p>No one is perfect.</p>

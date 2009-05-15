@@ -1,5 +1,5 @@
 [[!meta title="OpenID fresh auth can be slow" ]]
-[[!meta date="2007-02-11 15:58:01" ]]
+[[!meta date="2007-02-10 15:12:37" ]]
 <p>I&#8217;ve been thinking of how to test Web applications lately. Since I&#8217;m playing with <a href="http://en.wikipedia.org/wiki/OpenID">OpenID</a> I wrote a unit test using <a href="http://twill.idyll.org/">twill</a> which I discovered with <a href="http://groups.google.com/group/webpy/browse_thread/thread/4b5eac2640c004ad">this post on web.py mailing list</a>.</p>
 
 <p>So I am running the consumer.py example from <a href="http://packages.debian.org/unstable/python/python-openid">python-openid</a> and here is what the test case looks like:</p>

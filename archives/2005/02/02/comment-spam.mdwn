@@ -1,5 +1,5 @@
 [[!meta title="Comment spam" ]]
-[[!meta date="2005-02-02 18:46:44" ]]
+[[!meta date="2005-02-02 08:41:16" ]]
 <p>I have about 200 comment spams and the UA for deleting them in Wordpress is tiresome. :/</p>
 
 <p><span class="caps">FFS</span> all <a href="http://trip.natalian.org">my</a> <a href="http://wiki.dabase.com">Wiki</a> <a href="oldwiki.dabase.com">sites</a> have been vandalised time and time again. I am going to put them offline until a solution can be found. I can&#8217;t rely on my friends as even the most tech savy of them do not know you can revert changes.</p>

@@ -1,5 +1,5 @@
 [[!meta title="Google chat" ]]
-[[!meta date="2006-04-11 18:40:23" ]]
+[[!meta date="2006-04-11 11:01:36" ]]
 <p>Finally after months of waiting, I have Google chat enabled on my Gmail account.</p>
 
 <p>How did that happen?</p>

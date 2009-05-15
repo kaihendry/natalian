@@ -1,5 +1,5 @@
 [[!meta title="Cubio" ]]
-[[!meta date="2004-07-15 02:50:11" ]]
+[[!meta date="2004-07-13 13:17:19" ]]
 <p>I received a couple messages of spam via my mobile from <a href="http://cubio.fi/">Cubio,</a> so I wrote to <a href="http://dnafinland.fi/"><span class="caps">DNA</span></a> my operator:</p>
 
 <pre>

@@ -1,5 +1,5 @@
 [[!meta title="vim7" ]]
-[[!meta date="2006-05-21 04:39:57" ]]
+[[!meta date="2006-05-19 13:14:58" ]]
 <a href="http://www.flickr.com/photos/hendry/149027867/" title="Photo Sharing"><img src="http://static.flickr.com/47/149027867_ca2848f782_m.jpg" width="240" height="180" alt="Vim7 omnicompletion in a normal uxterm!" /></a>
 
 <p>Christmas has come early and vim7 has finally made its way on  my unstable machine thanks to the miracle of dist-upgrade.</p>

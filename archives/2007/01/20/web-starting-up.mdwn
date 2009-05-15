@@ -1,5 +1,5 @@
 [[!meta title="Web starting up" ]]
-[[!meta date="2007-01-21 17:46:35" ]]
+[[!meta date="2007-01-20 11:52:56" ]]
 <a href="http://www.flickr.com/photos/hendry/362655287/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/124/362655287_489984ff22_m.jpg" width="240" height="180" alt="My new office" /></a>
 
 <p>So I am thinking of writing a Web application that can &#8220;make money&#8221;. I don&#8217;t quite believe in advertising or accumulating a community to sell on, so I need:</p>

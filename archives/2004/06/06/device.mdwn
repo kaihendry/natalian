@@ -1,5 +1,5 @@
 [[!meta title="Computing Devices" ]]
-[[!meta date="2004-06-07 08:28:40" ]]
+[[!meta date="2004-06-06 23:09:38" ]]
 <ul>
 <li>Mobiles have consolidated PDAs.</li>
 </ul>

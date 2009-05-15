@@ -1,5 +1,5 @@
 [[!meta title="Kiosk Linux" ]]
-[[!meta date="2005-07-22 08:37:36" ]]
+[[!meta date="2005-07-11 14:48:14" ]]
 <p>Update: <a href="http://webconverger.com/">Webconverger is the best Linux Web kiosk</a> out there.</p>
 
 <p>If I could setup a &#8220;bounty&#8221; I would set it on:</p>

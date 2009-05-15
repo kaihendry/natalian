@@ -1,5 +1,5 @@
 [[!meta title="mobile context" ]]
-[[!meta date="2007-03-08 11:56:25" ]]
+[[!meta date="2007-03-08 01:20:53" ]]
 <a href="http://natalian.org/archives/2007/03/06/w3c-drops-the-mobile/">Yesterday I mentioned I traded some emails with the CTO of the .mobi</a> email. Here is the last email of the discussion. My reply is in full, though it might lack a little *context*. ;) James is arguing that the .mobi TLD provides context. I disagree, read on:
 
 <pre>

@@ -1,5 +1,5 @@
 [[!meta title="Text width" ]]
-[[!meta date="2004-06-10 13:51:07" ]]
+[[!meta date="2004-06-09 11:10:27" ]]
 <p>Every wonder why the text width of email is set to 72 characters? <a href="http://natalian.org/archives/2004/05/29/debian-display/">I have.</a> But I did not think of it in the context of the web&#8230; until now.</p>
 
 <p>Mika Raento started the ball rolling by suggesting I should be setting a maximum width to my text like his <a href="http://www.cs.helsinki.fi/u/mraento/symbian/bt-ap.html">symbian page</a>, so a line doesn&#8217;t go too wide and becomes unreadable.</p>

@@ -1,5 +1,5 @@
 [[!meta title="TODO" ]]
-[[!meta date="2004-03-25 19:27:54" ]]
+[[!meta date="2004-03-23 09:24:13" ]]
 <p>Personal Python Software Projects <span class="caps">TODO</span>:</p>
 
 <p>Rewrite <a href="http://natalian.org/thumb/">gallery</a> software. (I&#8217;ll append my design notes sometime)</p>

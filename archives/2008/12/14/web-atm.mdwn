@@ -1,5 +1,5 @@
 [[!meta title="Web ATM" ]]
-[[!meta date="2009-04-29 09:17:06" ]]
+[[!meta date="2008-12-14 20:59:29" ]]
 <a href="http://flickr.com/photos/fooishbar/1425043514/">
 <img src="http://farm2.static.flickr.com/1373/1425043514_5598d0a942_m.jpg" />
 </a>

@@ -1,5 +1,5 @@
 [[!meta title="Slug" ]]
-[[!meta date="2007-07-03 22:06:00" ]]
+[[!meta date="2007-07-03 11:44:47" ]]
 <a href="http://www.flickr.com/photos/hendry/704588150/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1360/704588150_210f6d48f7_m.jpg" width="240" height="180" alt="NAS installing with Debian 4.0" /></a>
 
 <p>Bought a <a href="http://en.wikipedia.org/wiki/NSLU2">NSLU2</a> from <a href="http://www.ebuyer.com/customer/search/?qfind=nslu2&amp;x=0&amp;y=0">Ebuyer</a>. Was about ~50GBP hence qualifying for free delivery with 5 working days. I don&#8217;t know why, but according to the packaging it was sent &#8220;next day&#8221; on the 4th day(!?). The device came direct from the usual suspects <a href="http://www.computer2000.co.uk">Computer2000</a>, one of the oldest and biggest computer part distributors in the UK. Sidenote: I wonder if Ebuyer can claim to have stock, when it&#8217;s actually their distributors stock?</p>

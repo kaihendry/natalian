@@ -1,5 +1,5 @@
 [[!meta title="VISA Credit card protection" ]]
-[[!meta date="2007-12-04 11:59:50" ]]
+[[!meta date="2007-11-29 15:29:25" ]]
 <p>Since <a href="http://en.wikipedia.org/wiki/VISA"><span class="caps">VISA</span></a> is absolutely insecure, here are the typical security &#8220;piece of mind&#8221; products that banks offer:</p>
 
 <ol>

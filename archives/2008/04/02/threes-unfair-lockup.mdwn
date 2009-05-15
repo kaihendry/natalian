@@ -1,5 +1,5 @@
 [[!meta title="Three's unfair lockup" ]]
-[[!meta date="2009-03-22 19:08:39" ]]
+[[!meta date="2008-04-02 12:25:33" ]]
 <a href="http://www.flickr.com/photos/hendry/2278783255/" title="Internet on the Train by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2200/2278783255_69a2421e9a_m.jpg" width="240" height="180" alt="Internet on the Train" /></a>
 
 <p>As many of you know, I have a <a href="http://natalian.org/archives/2007/05/15/nokia-e65-from-3/">Nokia E65</a> from <a href="http://en.wikipedia.org/wiki/Three_mobile">Three mobile</a>.</p>

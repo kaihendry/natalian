@@ -1,5 +1,5 @@
 [[!meta title="No Java thanks" ]]
-[[!meta date="2006-05-20 19:32:17" ]]
+[[!meta date="2006-05-20 10:52:47" ]]
 <p>I just visited Google and Firefox popped up a message, &#8220;Install Missing Plugins&#8221;.</p>
 
 <p>Oh crap. Are Google using (more) Flash I first think?</p>

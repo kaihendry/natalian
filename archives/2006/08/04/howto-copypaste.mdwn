@@ -1,5 +1,5 @@
 [[!meta title="Howto: Copy&Paste" ]]
-[[!meta date="2006-08-05 19:52:33" ]]
+[[!meta date="2006-08-04 19:03:13" ]]
 <p>Ok, I know I&#8217;ve whinged about <a href="http://natalian.org/archives/2006/04/02/copy-and-paste/">Copy &amp; Paste</a> before. It just seems to have got worse. Maybe I am becoming more inept.</p>
 
 <p>Though I have a dream. A dream whereby I can copy and paste the <span class="caps">URL</span> bar of my Firefox with:</p>

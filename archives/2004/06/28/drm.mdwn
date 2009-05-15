@@ -1,5 +1,5 @@
 [[!meta title="Mobile DRM" ]]
-[[!meta date="2004-06-29 16:58:30" ]]
+[[!meta date="2004-06-28 11:41:25" ]]
 <p>New to mobiles? <a href="http://www.gsmworld.com/technology/services/index.shtml">Take a look at the M-Services Phase II Evolution <span class="caps">PDF</span></a>. Lovely titbits.</p>
 
 <p>Section 5.1 Digital Rights Management (DRM) Policy</p>

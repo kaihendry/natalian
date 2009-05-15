@@ -1,5 +1,5 @@
 [[!meta title="Sharing multimedia" ]]
-[[!meta date="2007-08-21 16:48:56" ]]
+[[!meta date="2007-08-19 13:08:16" ]]
 <a href="http://www.flickr.com/photos/hendry/1172361934/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1055/1172361934_fe1a77dc72_m.jpg" width="180" height="240" alt="Every home should have a WRT54G-L" /></a>
 
 <p>Ok, I have the <a href="http://natalian.org/archives/2007/07/03/slug/">slug</a>. It&#8217;s great because it allows me to easily &amp; reliably share my multimedia collection.</p>

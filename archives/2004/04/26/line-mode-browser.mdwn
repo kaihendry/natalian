@@ -1,5 +1,5 @@
 [[!meta title="Line mode browser" ]]
-[[!meta date="2007-08-14 08:57:05" ]]
+[[!meta date="2004-04-26 14:23:46" ]]
 <p>I was just going through <a href="http://www.google.com/custom?hl=en&amp;lr=&amp;ie=UTF-8&amp;oe=UTF-8&amp;c2coff=1&amp;cof=AWFID%3A0b9847e42caf283e%3BL%3Ahttp%3A%2F%2Fwww.w3.org%2FIcons%2Fw3c_home%3BLH%3A48%3BLW%3A72%3BBGC%3Awhite%3BT%3Ablack%3BLC%3A%23000099%3BVLC%3A%23660066%3BALC%3A%23ff3300%3BAH%3Aleft%3B&amp;domains=www.w3.org&amp;q=history&amp;btnG=Google+Search&amp;sitesearch=www.w3.org">W3 history</a> when I discovered the <a href="http://www.w3.org/LineMode/">Line Mode browser</a>.</p>
 
 <p>Am I always thinking how to better design browsers, especially for small <span class="caps">MMI</span> like a wristwatch or mobile, and I think how this browser does it, is quite novel. What I hate about browsing on my phone is having to unpredictably jump from one highlighted link to another. It&#8217;s part of the libwww0 package on Debian, apt-get it and try it out:</p>

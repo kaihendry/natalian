@@ -1,5 +1,5 @@
 [[!meta title="Web.py VS Rails" ]]
-[[!meta date="2006-01-23 07:25:24" ]]
+[[!meta date="2006-01-22 19:19:02" ]]
 <a href="http://www.flickr.com/photos/hendry/89056954/" title="Photo Sharing"><img src="http://static.flickr.com/32/89056954_82eab3a111_m.jpg" width="240" height="180" alt="Kai at Emma Laine (FIN) vs Martina Hingis (SUI)" /></a>
 
 <p>This weekend I have been having fun coding on my laptop a report tool in <a href="http://webpy.org/">web.py</a> and <a href="http://studiolist.biz/">basic Web (database) application</a> in <a href="http://www.rubyonrails.org/">Rails.</a></p>

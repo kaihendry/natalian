@@ -1,5 +1,5 @@
 [[!meta title="SCM-NG" ]]
-[[!meta date="2005-06-16 07:55:40" ]]
+[[!meta date="2005-06-10 17:48:40" ]]
 <p>There was another a problem I didn&#8217;t mention in my <a href="http://natalian.org/archives/2005/05/27/subversion-homedir/">Subversion homedir blog.</a></p>
 
 <p>It is not distributed.</p>

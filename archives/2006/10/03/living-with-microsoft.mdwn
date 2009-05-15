@@ -1,5 +1,5 @@
 [[!meta title="Living with Microsoft" ]]
-[[!meta date="2006-10-03 05:10:01" ]]
+[[!meta date="2006-10-03 04:06:56" ]]
 <a href="http://www.flickr.com/photos/hendry/258842190/" title="Photo Sharing"><img src="http://static.flickr.com/98/258842190_c36776aec4_m.jpg" width="240" height="180" alt="When it rains, it pours" /></a>
 
 <p>Vista is set to <a href="http://news.bbc.co.uk/2/hi/technology/5399534.stm">squeeze out security firms from their operating system</a>.</p>

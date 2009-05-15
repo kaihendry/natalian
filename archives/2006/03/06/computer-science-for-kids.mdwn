@@ -1,5 +1,5 @@
 [[!meta title="Computer Science for kids?" ]]
-[[!meta date="2006-10-03 08:36:32" ]]
+[[!meta date="2006-03-06 16:33:11" ]]
 <a href="http://www.flickr.com/photos/hendry/105185422/" title="Photo Sharing"><img src="http://static.flickr.com/35/105185422_ac7cadab01_m.jpg" width="240" height="180" alt="Earl1a" /></a>
 
 <p>A friend of mine with a 10 year old child wants his son to play less online Role Playing games and learn programming. In this kid&#8217;s free time, all he does is play computer games. At that age I was probably the same, though what made me a &#8220;programmer&#8221;?</p>

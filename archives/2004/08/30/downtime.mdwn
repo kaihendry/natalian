@@ -1,5 +1,5 @@
 [[!meta title="Downtime" ]]
-[[!meta date="2004-09-02 01:51:38" ]]
+[[!meta date="2004-08-30 14:33:15" ]]
 <p>End of an era. I am moving out of Finland tomorrow for good.</p>
 
 <p>However I won&#8217;t be taking my server. As I can&#8217;t afford to pay the hosting costs of <a href="http://pannuhuone.org/">pannuhuone.org</a> while travelling, I am co-locating on a friend&#8217;s <span class="caps">DSL</span> connection.</p>

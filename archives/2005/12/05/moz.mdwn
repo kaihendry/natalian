@@ -1,5 +1,5 @@
 [[!meta title="Mozzie" ]]
-[[!meta date="2005-12-06 10:23:23" ]]
+[[!meta date="2005-12-05 13:34:39" ]]
 <img src="http://toolbar.netcraft.com/images/protect.png" />
 
 <p>So Mozilla went from stupid popups to hidden headers in pages, which people ignore as they expect it to be a popup warning.</p>

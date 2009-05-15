@@ -1,5 +1,5 @@
 [[!meta title="useR!" ]]
-[[!meta date="2004-06-17 20:35:24" ]]
+[[!meta date="2004-04-19 10:38:54" ]]
 <p>I am going to <a href="http://www.ci.tuwien.ac.at/Conferences/useR-2004/">useR! 2004 &#8211; The R User Conference</a> in Vienna, Austria from the 20th to the 22nd of May 2004.</p>
 
 <p>So what&#8217;s R? <a href="http://www.r-project.org/about.html">This is the long explaination.</a></p>

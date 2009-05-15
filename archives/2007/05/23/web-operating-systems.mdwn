@@ -1,5 +1,5 @@
 [[!meta title="Web operating systems" ]]
-[[!meta date="2007-05-23 14:31:16" ]]
+[[!meta date="2007-05-23 13:22:20" ]]
 <a href="http://www.flickr.com/photos/hendry/507865862/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/213/507865862_1b6c031e06_m.jpg" width="240" height="180" alt="My new office" /></a>
 
 <p>I&#8217;ve been struggling for a tagline for <a href="http://webconverger.com/">Webconverger</a>.</p>

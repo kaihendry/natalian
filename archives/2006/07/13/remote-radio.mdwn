@@ -1,5 +1,5 @@
 [[!meta title="Remote radio" ]]
-[[!meta date="2006-07-14 09:06:25" ]]
+[[!meta date="2006-07-13 12:36:27" ]]
 <img src="http://www.radionetherlands.nl/assets/images/DRM_receiver.jpg" />
 
 <p>Since I enjoy travelling and I&#8217;m addicted to news, I investigated <a href="http://en.wikipedia.org/wiki/Satellite_radio">Satellite radio</a> today.</p>

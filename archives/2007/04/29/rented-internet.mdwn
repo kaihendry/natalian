@@ -1,5 +1,5 @@
 [[!meta title="Rented Internet" ]]
-[[!meta date="2007-05-02 07:47:08" ]]
+[[!meta date="2007-04-29 20:37:11" ]]
 <p>Whilst looking at several rooms via the <a href="http://www.gumtree.com/">Gum tree</a>, I observed Internet access at rented accommodations is a requirement like hot water and electricity.</p>
 
 <p>This Internet thing is pretty big!</p>

@@ -1,5 +1,5 @@
 [[!meta title="Language is the parent of thought" ]]
-[[!meta date="2005-05-21 11:16:11" ]]
+[[!meta date="2005-02-28 05:54:26" ]]
 <p>Discovery: <a href="http://en.wikinews.org">Wikinews</a> do (non-cryptic) <a href="http://en.wikinews.org/wiki/Crosswords/">crosswords.</a></p>
 
 <p>My only new year resolution for 2005 has been to do a cryptic crossword. I started by reverse engineering the <a href="http://www.hinduonnet.com/">Hindu&#8217;s</a> cryptic crosswords.</p>
