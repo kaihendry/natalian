@@ -1,9 +1,8 @@
 <h2>For you</h2>
-    <ul>
+<ul>
 <li><a href="http://iki.fi/hendry/about/">About Kai</a></li>
 <li><a href="http://del.icio.us/hendry">Bookmarks</a></li>
 <li><a href="http://prazefarm.co.uk/cottage/" title="Praze Farm&#8217;s guest cottage in Cornwall with Wireless internet!">Cornwall cottage</a></li>
-
 <li><a href="http://prazefarm.co.uk/curtains/" rel="friend met parent" title="My mother&#8217;s curtains business, also offering interior furnishing services">Curtains in Cornwall</a></li>
 <li><a href="http://www.google.com/reader/shared/12969433165429460006" title="What I am reading that I like">Google reader shared items</a></li>
 <li><a href="http://video.natalian.org/" title="Captured with my Canon IXUS">Kai Hendry&#8217;s Videos</a></li>
@@ -12,16 +11,13 @@
 <li><a href="http://re.dabase.com/">RE tester</a></li>
 <li><a href="http://tail.dabase.com">tail</a></li>
 <li><a href="http://dabase.com/tips/">Tips&amp;Tricks</a></li>
-
 <li><a href="http://www.w3.org/2008/06/mobile-test/" title="http://www.w3.org/2008/06/mobile-test/">WCTMB</a></li>
 <li><a href="http://webconverger.com/" title="Web kiosk">Webconverger.com</a></li>
 <li><a href="http://maps.natalian.org/">Where in the world is Kai?</a></li>
 <li><a href="http://letterly.com">Write a Letter!</a></li>
 </ul>
-</li>
 <h2>People</h2>
 <ul>
-
 <li><a href="http://www.exploding-planet.com/weblog.php" rel="friend met">Allan Clements</a></li>
 <li><a href="http://delaunay.org/antoine/blog/" rel="friend met colleague co-resident" title="Warning: French">Antoine Delaunay</a></li>
 <li><a href="http://brattex.blogspot.com/" rel="friend">Bryan Johnston</a></li>
@@ -31,11 +27,7 @@
 <li><a href="http://jutta.prazefarm.co.uk" rel="sibling" title="My sister">Jutta Hendry</a></li>
 <li><a href="http://www.kaibackman.com" rel="friend met" title="Kai Backman on simulation games">Kai Backman</a></li>
 <li><a href="http://liw.iki.fi/liw/log/" rel="friend met">Lars Wirzenius</a></li>
-
 <li><a href="http://mikie.iki.fi/wordpress/">Mika Raento</a></li>
 <li><a href="http://twelves.blogspot.com/" rel="friend met">Timothy Twelves</a></li>
 <li><a href="http://www.xiven.com/" rel="friend met">Tom Pike</a></li>
-
-</ul>
-</li>
 </ul>
