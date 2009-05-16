@@ -32,7 +32,8 @@ element:before { content: ''; clear: both; }
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
     border-radius: 0.5em;
-    background-color: #EEEEEE;
-    padding: 1em;
-    color: black;
+    background-color: #000000;
+    padding: 2em;
+    margin: 1em;
+    color: white;
 }
