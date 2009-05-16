@@ -2,8 +2,6 @@
 
 [[Archives]]
 
-[[!pagestats  pages="tags/*"]]
-
 # Migrating from [Wordpress](http://wordpress.org/) to [Ikiwiki](http://ikiwiki.info/)
 
 This blog is in the process of moving from one blog engine to another, whilst
