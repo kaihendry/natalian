@@ -27,3 +27,11 @@ pre { font: 1.5em monospace; color: white; background: black; overflow: auto; wh
 #footer { clear: both; }
 
 element:before { content: ''; clear: both; }
+
+#content, #comments {
+    -moz-border-radius: 0.5em;
+    -webkit-border-radius: 0.5em;
+    border-radius: 0.5em;
+    background-color: #EEEEEE;
+    padding: 1em;
+}
