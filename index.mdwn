@@ -1,1 +1,1 @@
-[[!inline pages="./archives/*" archive=yes feedshow=10 show=1 actions=no rss=yes feedfile="feed"]]
+[[!inline pages="./archives/*" show=1 feedshow=10 actions=no rss=yes feedfile="/feed"]]
