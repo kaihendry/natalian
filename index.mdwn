@@ -1,6 +1,6 @@
 [[!inline pages="./archives/2009/*" show=1 feedshow=5 actions=no rss=yes]]
 
-[[Archives]]
+[[Archives]] [[Links]]
 
 # Migrating from [Wordpress](http://wordpress.org/) to [Ikiwiki](http://ikiwiki.info/)
 
