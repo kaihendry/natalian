@@ -1,6 +1,6 @@
 <h2>For you</h2>
 <ul>
-<li><a href="http://iki.fi/hendry/about/">About Kai</a></li>
+<li><a href="http://hendry.iki.fi/about/">About Kai Hendry</a></li>
 <li><a href="http://del.icio.us/hendry">Bookmarks</a></li>
 <li><a href="http://prazefarm.co.uk/cottage/" title="Praze Farm&#8217;s guest cottage in Cornwall with Wireless internet!">Cornwall cottage</a></li>
 <li><a href="http://prazefarm.co.uk/curtains/" rel="friend met parent" title="My mother&#8217;s curtains business, also offering interior furnishing services">Curtains in Cornwall</a></li>
@@ -24,8 +24,6 @@
 <li><a href="http://www.dadako.com" rel="friend met">Hawken Bright-Roberts</a></li>
 <li><a href="http://ln.hixie.ch/" rel="friend met">Ian Hickson</a></li>
 <li><a href="http://blog.kitten-x.com/" rel="friend met" title="Jamie Kitson&#8217;s blog">Jamie Kitson</a></li>
-<li><a href="http://jutta.prazefarm.co.uk" rel="sibling" title="My sister">Jutta Hendry</a></li>
-<li><a href="http://www.kaibackman.com" rel="friend met" title="Kai Backman on simulation games">Kai Backman</a></li>
 <li><a href="http://liw.iki.fi/liw/log/" rel="friend met">Lars Wirzenius</a></li>
 <li><a href="http://mikie.iki.fi/wordpress/">Mika Raento</a></li>
 <li><a href="http://twelves.blogspot.com/" rel="friend met">Timothy Twelves</a></li>
