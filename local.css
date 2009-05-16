@@ -34,4 +34,5 @@ element:before { content: ''; clear: both; }
     border-radius: 0.5em;
     background-color: #EEEEEE;
     padding: 1em;
+    color: black;
 }
