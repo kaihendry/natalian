@@ -1,4 +1,4 @@
-[[!inline pages="./archives/*" show=1 feedshow=5 actions=no rss=yes]]
+[[!inline pages="./archives/2009/*" show=1 feedshow=5 actions=no rss=yes]]
 
 [[Archives]]
 
