@@ -29,9 +29,9 @@ pre { font: 1.5em monospace; color: white; background: black; overflow: auto; wh
 element:before { content: ''; clear: both; }
 
 #content, #comments {
-    -moz-border-radius: 0.5em;
-    -webkit-border-radius: 0.5em;
-    border-radius: 0.5em;
+    -moz-border-radius: 1em;
+    -webkit-border-radius: 1em;
+    border-radius: 1em;
     background-color: #000000;
     padding: 2em;
     margin: 1em;
