@@ -27,3 +27,5 @@ pre { font: 1.5em monospace; color: white; background: black; overflow: auto; wh
 }
 
 .comment, .inlinepage { border: none; }
+
+#comments { border: thick solid #FF500F; }
