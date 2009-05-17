@@ -19,10 +19,11 @@ pre { font: 1.5em monospace; color: white; background: black; overflow: auto; wh
     -moz-border-radius: 1em;
     -webkit-border-radius: 1em;
     border-radius: 1em;
-    border-color: #1EA2FF;
     background: white;
-	border: thick solid;
+	border: thick solid #1EA2FF;
     padding: 2em;
     margin: 1em;
     color: black;
 }
+
+.comment, .inlinepage { border: none; }
