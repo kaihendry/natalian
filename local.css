@@ -20,6 +20,8 @@ pre { font: 1.5em monospace; color: white; background: black; overflow: auto; wh
     -webkit-border-radius: 1em;
     border-radius: 1em;
     border-color: #1EA2FF;
+    background: white;
+	border: thick solid;
     padding: 2em;
     margin: 1em;
     color: black;
