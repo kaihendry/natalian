@@ -11,15 +11,13 @@ body { border-top: solid thick #FF970F; border-bottom: solid thick #FF970F;
 
 pre { font: 1.5em monospace; color: white; background: black; overflow: auto; white-space: pre-wrap;}
 
-article {
+article { /* HTML5 */
 	-moz-border-radius: 1em;
 	-webkit-border-radius: 1em;
 	border-radius: 1em;
-	background: white;
 	border: thick solid #1EA2FF;
 	padding: 2em;
 	margin: 1em;
-	color: black;
 }
 
 .comment, .inlinepage { border: thin dotted #A63005; }
