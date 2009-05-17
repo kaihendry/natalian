@@ -26,6 +26,10 @@ pre { font: 1.5em monospace; color: white; background: black; overflow: auto; wh
     color: black;
 }
 
-.comment, .inlinepage { border: none; }
+.comment, .inlinepage { border: thin solid #A63005;
+    -moz-border-radius: 1em;
+    -webkit-border-radius: 1em;
+    border-radius: 1em;
+}
 
 #comments { border: thick solid #FF500F; }
