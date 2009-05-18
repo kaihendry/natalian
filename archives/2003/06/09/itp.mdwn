@@ -40,14 +40,13 @@ technological matter did not win brownie points with me either. </li>
 <p><i>The project with a company:</i></p>
 
 <p>Probably the most controversial. Firstly the <span class="caps">NDA</span>:
-The <abbr title="Non Disclosure Agreement&#8221;>NDA</abbr> is marked
-confidential. That means I can not consult a lawyer say to decipher the legal
-dialect of this document. That for a start is silly. Next issue was the
-section: &#8220;Confidential Information shall not include any information
-which, as demonstrated by the Recipient by written evidence&#8221;.  Written?
-Evidence? Oh please! I know their &#8220;secret&#8221;, and I can tell you that
-every single element of it is already in the public domain. So what is the
-point?</p>
+The <abbr title="Non Disclosure Agreement">NDA</abbr> is marked confidential.
+That means I can not consult a lawyer say to decipher the legal dialect of this
+document. That for a start is silly. Next issue was the section:
+&#8220;Confidential Information shall not include any information which, as
+demonstrated by the Recipient by written evidence&#8221;.  Written?  Evidence?
+Oh please! I know their &#8220;secret&#8221;, and I can tell you that every
+single element of it is already in the public domain. So what is the point?</p>
 
 <p>Next the part where I have to basically not to make use of any of this
 publicly available information/technology for the next 5 <span
