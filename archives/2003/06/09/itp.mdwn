@@ -1,21 +1,21 @@
 [[!meta title="Information Technology Program at HSE" ]]
 [[!meta date="2003-06-09 08:41:22" ]]
 [[!tag finland business]]
-<p>About a week ago, I stepped out of Lidl in a busy Kontula and caught a glimpse<br />
-of something falling out of a man&#8217;s back pocket. I was surprised to see it was<br />
-a considerable bundle of cash, as he was disappearing into the crowd. I picked<br />
-up the cash, and ran after him, returned the money into his hands and turned my<br />
-back to catch a bus home. I have that same feeling about the choice I made<br />
-right now. Finally I have left the 15 credit (1 credit = 40 hours of work)<br />
+<p>About a week ago, I stepped out of Lidl in a busy Kontula and caught a glimpse
+of something falling out of a man&#8217;s back pocket. I was surprised to see it was
+a considerable bundle of cash, as he was disappearing into the crowd. I picked
+up the cash, and ran after him, returned the money into his hands and turned my
+back to catch a bus home. I have that same feeling about the choice I made
+right now. Finally I have left the 15 credit (1 credit = 40 hours of work)
 course <a href="http://itp.hkkk.fi/"><span class="caps">ITP</span>.</a></p>
 
-<p><a href="http://itp.hkkk.fi/"><span class="caps">ITP</span></a> is a course run under the <a href="http://www.hkkk.fi/english/">Helsinki School of Economics.</a> In many ways <span class="caps">ITP</span> is a reflection of<br />
+<p><a href="http://itp.hkkk.fi/"><span class="caps">ITP</span></a> is a course run under the <a href="http://www.hkkk.fi/english/">Helsinki School of Economics.</a> In many ways <span class="caps">ITP</span> is a reflection of
 e-business industry today: Still a lot of bullshit.</p>
 
 <p><i>The teaching:</i></p>
 
 <ul>
-<li>The <a href="http://www.cgey.com/"><span class="caps">CGEY</span></a> &#8220;Brown Paper Technique&#8221; took the piss<br />
+<li>The <a href="http://www.cgey.com/"><span class="caps">CGEY</span></a> &#8220;Brown Paper Technique&#8221; took the piss
 Presentations were poor (powerpoint drivel) </li>
 </ul>
 
@@ -32,59 +32,63 @@ Presentations were poor (powerpoint drivel) </li>
 </ul>
 
 <ul>
-<li>The way Information Technology is dealt with as a whole by the course is very<br />
-very naive.  Simplistic management models (with <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq05.008.htp"><span class="caps">GARTNER</span></a> data) in conjunction with a <a href="http://www.rhsmith.umd.edu/is/vvenkate/">very biased Microsoft slant (The soon-to-be VP of Microsoft Business Affairs)</a> to every<br />
+<li>The way Information Technology is dealt with as a whole by the course is very
+very naive.  Simplistic management models (with <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq05.008.htp"><span class="caps">GARTNER</span></a> data) in conjunction with a <a href="http://www.rhsmith.umd.edu/is/vvenkate/">very biased Microsoft slant (The soon-to-be VP of Microsoft Business Affairs)</a> to every
 technological matter did not win brownie points with me either. </li>
 </ul>
 
 <p><i>The project with a company:</i></p>
 
-<p>Probably the most controversial. Firstly the <span class="caps">NDA</span>: The <acronym title="Non Disclosure<br />
-Agreement&#8221;>NDA</acronym> is marked confidential. That means I can not consult a lawyer say to<br />
-decipher the legal dialect of this document. That for a start is silly. Next<br />
-issue was the section: &#8220;Confidential Information shall not include any<br />
-information which, as demonstrated by the Recipient by written evidence&#8221;.<br />
-Written? Evidence? Oh please! I know their &#8220;secret&#8221;, and I can tell you that<br />
-every single element of it is already in the public domain. So what is the<br />
+<p>Probably the most controversial. Firstly the <span class="caps">NDA</span>:
+The <abbr title="Non Disclosure Agreement&#8221;>NDA</abbr> is marked
+confidential. That means I can not consult a lawyer say to decipher the legal
+dialect of this document. That for a start is silly. Next issue was the
+section: &#8220;Confidential Information shall not include any information
+which, as demonstrated by the Recipient by written evidence&#8221;.  Written?
+Evidence? Oh please! I know their &#8220;secret&#8221;, and I can tell you that
+every single element of it is already in the public domain. So what is the
 point?</p>
 
-<p>Next the part where I have to basically not to make use of any of this publicly<br />
-available information/technology for the next 5 <span class="caps">YEARS</span>.  Otherwise&#8230; wait for<br />
-it. Face damages of <span class="caps">TWO</span> <span class="caps">HUNDRED</span> <span class="caps">FIFTY</span> <span class="caps">THOUSAND</span> <span class="caps">EUROS</span>. I also love the bit where<br />
-it says &#8220;The Parties acknowledge that monetary damages may not be a sufficient<br />
-remedy for a breach&#8230;&#8221; and allows any other means to screw me. After I<br />
-repeatedly voiced my concerns about the <span class="caps">NDA</span> to the course organizers, I was<br />
-finally told by Sonera staff that a consultant signed it, so I should have no<br />
-problem with it.</p>
+<p>Next the part where I have to basically not to make use of any of this
+publicly available information/technology for the next 5 <span
+class="caps">YEARS</span>.  Otherwise&#8230; wait for it. Face damages of <span
+class="caps">TWO</span> <span class="caps">HUNDRED</span> <span
+class="caps">FIFTY</span> <span class="caps">THOUSAND</span> <span
+class="caps">EUROS</span>. I also love the bit where it says &#8220;The Parties
+acknowledge that monetary damages may not be a sufficient remedy for a
+breach&#8230;&#8221; and allows any other means to screw me. After I repeatedly
+voiced my concerns about the <span class="caps">NDA</span> to the course
+organizers, I was finally told by Sonera staff that a consultant signed it, so
+I should have no problem with it.</p>
 
-<p>Oh dear. So briefly there is no need for the <span class="caps">NDA</span>. Or at least for this<br />
-extremely broad one. <u>A student should not have to be under this sort of<br />
-threat when taking a course.</u> A <span class="caps">NDA</span> for me flies in the face of what an open<br />
+<p>Oh dear. So briefly there is no need for the <span class="caps">NDA</span>. Or at least for this
+extremely broad one. <u>A student should not have to be under this sort of
+threat when taking a course.</u> A <span class="caps">NDA</span> for me flies in the face of what an open
 and sharing learning experience should be.</p>
 
-<p>Companies &#8220;sponsoring&#8221; <span class="caps">ITP</span> do not do so for reasons like contributing back into<br />
-society and any other charitable reason.  No, they do quite the opposite. They<br />
-unethically use students to do &#8220;research&#8221; for them. Frankly this is business<br />
-malpractice. TeliaSonera for example wanted my team to call 27 organizations in<br />
-order to scout out the market for them.  Yes, they suggested we call them with<br />
-their supplied <span class="caps">SIM</span> cards. They too suggested we announce ourselves as &#8220;Helsinki<br />
-School of Economics students&#8221;, and not correctly as TeliaSonera. They even went<br />
-as so far as to tell us the questions and what order to present them to our<br />
-interviewees. This is why they want us to sign NDAs. <strong>Market research.</strong> The<br />
-study we conduct is for the sole use of TeliaSonera.  Again contrary to the<br />
-academic learning principles of sharing information. I for one, did not intend<br />
-to do cold calls for a E-business project when I took this course. My team is<br />
-not the only one. A friend of mine on the <acronym title="Network Technologies">NT</acronym> track has to<br />
+<p>Companies &#8220;sponsoring&#8221; <span class="caps">ITP</span> do not do so for reasons like contributing back into
+society and any other charitable reason.  No, they do quite the opposite. They
+unethically use students to do &#8220;research&#8221; for them. Frankly this is business
+malpractice. TeliaSonera for example wanted my team to call 27 organizations in
+order to scout out the market for them.  Yes, they suggested we call them with
+their supplied <span class="caps">SIM</span> cards. They too suggested we announce ourselves as &#8220;Helsinki
+School of Economics students&#8221;, and not correctly as TeliaSonera. They even went
+as so far as to tell us the questions and what order to present them to our
+interviewees. This is why they want us to sign NDAs. <strong>Market research.</strong> The
+study we conduct is for the sole use of TeliaSonera.  Again contrary to the
+academic learning principles of sharing information. I for one, did not intend
+to do cold calls for a E-business project when I took this course. My team is
+not the only one. A friend of mine on the <abbr title="Network Technologies">NT</abbr> track has to
 interview people on the street for an <span class="caps">ITP</span> sponsoring company. Shameful.</p>
 
-<p>This sort of research should be bought via legitimate avenues. Not by<br />
-cheating the 27 organizations and more importantly not by cheating <span class="caps">ITP</span><br />
+<p>This sort of research should be bought via legitimate avenues. Not by
+cheating the 27 organizations and more importantly not by cheating <span class="caps">ITP</span>
 students.</p>
 
-<p>Today I have dropped this 15cu course, which I intended to<br />
-complete my minor in order to graduate. I have taken shitty courses before, but<br />
-this time I have a choice.  Although I could have run with the money/credits,<br />
-and let me tell you it was a lot of money (I don&#8217;t know why some guy carried so<br />
-much cash) and 15cu is a <span class="caps">LOT</span> of credits here in Finland. I like that incident<br />
-in Kontula feel now that I have made the right moral choice of action. I pray<br />
+<p>Today I have dropped this 15cu course, which I intended to
+complete my minor in order to graduate. I have taken shitty courses before, but
+this time I have a choice.  Although I could have run with the money/credits,
+and let me tell you it was a lot of money (I don&#8217;t know why some guy carried so
+much cash) and 15cu is a <span class="caps">LOT</span> of credits here in Finland. I like that incident
+in Kontula feel now that I have made the right moral choice of action. I pray
 you agree, otherwise comments are very welcome. Goodbye <span class="caps">ITP</span> colleagues.</p>

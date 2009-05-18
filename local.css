@@ -19,6 +19,7 @@ article { /* HTML5 */
 	border: thick solid #1EA2FF;
 	padding: 2em;
 	margin: 1em;
+	background: #FFDD73;
 }
 
 .comment, .inlinepage { border: thin dotted #A63005; }
