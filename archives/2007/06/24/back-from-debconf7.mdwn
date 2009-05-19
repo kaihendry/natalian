@@ -12,8 +12,8 @@
 <li>My room mates were all super cool. No loud snorers except myself. Phew! The hostel and staff were good too.</li>
 <li>I learnt a couple of vim tricks. Fixing the default way it auto completes with the elusive &#8220;wildmode&#8221; option <a href="http://svn.natalian.org/home/.vimrc">.vimrc</a></li>
 <li>I switched with `chsh` to zsh-beta. <a href="http://svn.natalian.org/home/.zshrc">.zshrc</a>. Hopefully shared history with screen will work behave now.</li>
-<li>I discovered some <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq01.151.htp">Iceweasel bookmark tricks for use with the debian <span class="caps">BTS</span></a></li>
-<li>I learnt my external USB2 drive is just as fast as the internal one with <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq01.150.htp">hdparm speed testing</a></li>
+<li>I discovered some <a href="http://dabase.com/e/01151/">Iceweasel bookmark tricks for use with the debian <span class="caps">BTS</span></a></li>
+<li>I learnt my external USB2 drive is just as fast as the internal one with <a href="http://dabase.com/e/01150/">hdparm speed testing</a></li>
 <li>I learnt more about distributed <span class="caps">SCM</span> with git and bzr. I&#8217;ll probably try and learn both.</li>
 <li>Night venue was cool. Adjoining Forest cafe was funny.</li>
 <li>Edinburgh is a pleasant city.</li>

@@ -6,7 +6,7 @@
 <p>The error looks like in /var/log/exim4/mainlog:</p>
 
 <pre>
-2004-07-11 13:48:12 1BjbsR-000693-S7 == |/usr/bin/maildrop (hendry@flkdsjflkdsf.com) <faqw@fdsfdsh.com> R=userforward T=address_pipe defer (0): Child process of address_pipe transport returned 75 (could mean temporary error) from command: /usr/bin/maildrop
+2004-07-11 13:48:12 1BjbsR-000693-S7 == |/usr/bin/maildrop (hendry@flkdsjflkdsf.com) <blah@fdsfdsh.com> R=userforward T=address_pipe defer (0): Child process of address_pipe transport returned 75 (could mean temporary error) from command: /usr/bin/maildrop
 </pre>
 
 <p>I debugged the problem by exporting an old mail from mutt and saved it as test.mail, and ran:<br />

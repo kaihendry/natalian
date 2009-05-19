@@ -6,7 +6,7 @@
  content="""
 <p>Sorry, I was unclear. When I &#8220;SSH-ing from remote machine to remote machine&#8221; I was talking about passwordless <span class="caps">SSH</span> connections.</p>
 
-<p>I know how to establish <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.013.htp">password-less logins</a>.</p>
+<p>I know how to establish <a href="http://dabase.com/e/01013/">password-less logins</a>.</p>
 
 <p>But the problem is this. What happens if your remote machine that has it&#8217;s keys copied about gets compromised? Then the attacker can access all those other machines too, merely because I was too lazy to remember passwords.</p>
 """]]

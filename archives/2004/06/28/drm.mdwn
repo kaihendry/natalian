@@ -13,4 +13,4 @@ Digital Rights Management is a MUST in future devices.
 
 <p>Who is going to lose right now? All those businesses based on ringtones and little images. What a loss.</p>
 
-<a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq05.022.htp">DRM</a> discussion is happening with PCs, but it looks like they are quite successful in slipping it into mobiles.
+<a href="http://dabase.com/e/05022/">DRM</a> discussion is happening with PCs, but it looks like they are quite successful in slipping it into mobiles.

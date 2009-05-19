@@ -5,7 +5,7 @@
 
 <a href="http://mailman.lyra.org/pipermail/viewcvs/2004q1/002469.html">This bug was bugging for all of this year so far.</a>
 
-<p>It was not until I tried WebSVN and <a href="http://websvn.tigris.org/servlets/ReadMsg?list=dev&amp;msgNo=139">through their helpful mailing list</a> (Thanks Lübbe!) I discovered it was an ugly permission problem. I recorded the <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.073.htp">solution in my tips and tricks section.</a></p>
+<p>It was not until I tried WebSVN and <a href="http://websvn.tigris.org/servlets/ReadMsg?list=dev&amp;msgNo=139">through their helpful mailing list</a> (Thanks Lübbe!) I discovered it was an ugly permission problem. I recorded the <a href="http://dabase.com/e/01073/">solution in my tips and tricks section.</a></p>
 
 <p>ViewCVS seems to do a better job of handling all the revisions. So I am using it instead of WebSVN.</p>
 

@@ -9,7 +9,7 @@
 <li><a href="http://www.oreillynet.com/pub/au/1054">Uche Ogbuji</a> </li>
 </ul>
 
-<p>I meant to write an essay about <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq05.005.htp">standards.</a></p>
+<p>I meant to write an essay about <a href="http://dabase.com/e/05005/">standards.</a></p>
 
 <p>I guess I will try do that over the weekend. Ended up reading up about AI and looking about some search/indexing stuff for <a href="http://www.cs.helsinki.fi/group/inex/"><span class="caps">INEX</span>.</a> I am really starting to hate textile(uche&#8217;s link is broken). Also, I need to get pingback working again.</p>
 

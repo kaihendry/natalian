@@ -1,17 +1,15 @@
 [[!meta title="Subdomains" ]]
 [[!meta date="2004-07-09 11:39:34" ]]
 [[!tag Debian]]
-<p>Maybe it&#8217;s a fad, but I like subdomains in <a href="http://www.w3.org/Addressing/">URLs</a>. My <a href="http://packages.qa.debian.org/m/maradns.html">debian package maradns</a> <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.083.htp">allows you to have subdomains on your server quite easily.</a></p>
+<p>Maybe it&#8217;s a fad, but I like subdomains in <a href="http://www.w3.org/Addressing/">URLs</a>. My <a href="http://packages.qa.debian.org/m/maradns.html">debian package maradns</a> <a href="http://dabase.com/e/01083/">allows you to have subdomains on your server quite easily.</a></p>
 
 <p>One of the good things about this, is that you can utilize Google&#8217;s <strong>site:</strong> command better.</p>
 
 <p>However I think there must be some down sides. For example if I wanted to <a href="http://matthew.infodancer.org/weblog/entry/103.jsp">boycott <span class="caps">MSN</span> search</a> and add:</p>
 
 <pre>
-echo -e "User-agent: msnbotnDisallow: /" >> robots.txt
+echo -e "User-agent: msnbot\nDisallow: /" >> robots.txt
 </pre>
-
-<a href="http://mosquito.wordpress.org/bug_view_page.php?bug_id=0000059">Wordpress seems to eat my backslashes. :(</a>
 
 <p>I would need to do it all my websites:<br />
 <pre><br />

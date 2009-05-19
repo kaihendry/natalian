@@ -15,6 +15,6 @@
 
 <p>I&#8217;ve seen it written somewhere that &#8220;Copying and Pasting&#8221; is the single most productive element of everyday computing.</p>
 
-<p>The <strong>real</strong> <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq04.036.htp">Unix way of copying and pasting</a> doesn&#8217;t use a mouse and it&#8217;s far too difficult for average users.</p>
+<p>The <strong>real</strong> <a href="http://dabase.com/e/04036/">Unix way of copying and pasting</a> doesn&#8217;t use a mouse and it&#8217;s far too difficult for average users.</p>
 
 <p>This makes me even more convinced that the Desktop should just be the Web browser (Firefox) where <span class="caps">CTRL</span>+C/V/X &#8220;sort of&#8221; works&#8230;</p>

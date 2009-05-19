@@ -3,7 +3,7 @@
 [[!tag subversion dreamhost]]
 <img src="http://pictures.natalian.org/japan/2005/apr/10/17:47:58/500x375/" alt="Kai partying" />
 
-<p>Why didn&#8217;t <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq01.074.htp">I heed my own advice?</a></p>
+<p>Why didn&#8217;t <a href="http://dabase.com/e/01074/">I heed my own advice?</a></p>
 
 <p>I <a href="http://wiki.dreamhost.com/index.php/Trac#Get_DH_to_install_Trac_on_your_shared_host">tried to get Subversion working at Dreamhost.</a></p>
 

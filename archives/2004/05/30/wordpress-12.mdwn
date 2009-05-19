@@ -5,7 +5,7 @@
 
 <p>Here is the rough basis of what I find useful for making <a href="http://wordpress.org/development/archives/2004/05/28/the-road-ahead/">multiple blogs</a> in debian.</p>
 
-<p>So after a <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.083.htp">setup a subdomain</a>, I go into /web/natalian.org and run:</p>
+<p>So after a <a href="http://dabase.com/e/01083/">setup a subdomain</a>, I go into /web/natalian.org and run:</p>
 
 <pre>
 scrooge-15$ cat wpsetup.sh 

@@ -33,6 +33,6 @@ UXTerm*Font: -efont-fixed-medium-r-normal-*-16-*-*-*-*-*-iso10646-1
 
 <p>Now a little about how I like to have my display setup currently. Ion providing two vertically split windows. Uxterm providing the unicode terminal with at least 80 columns wide. 80 columns seems to be a magical limit of how long a line can be for puny humans. Finally the terminals are running bash with screen. I have about four virtual desktops I move between. One for <span class="caps">IRC</span>/Email. One for hacking on the local machine, and one for a remote machine I am working on. Final desktop is for Mozilla. I would love to teach ion to set this up for me when I log in. When I log in via xdm, I have to waste time setting up windows, connections and waiting for Mozilla to start. Grrrr&#8230;.</p>
 
-<p>Here is a screen shot of my setup, showing <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?req=show&amp;file=faq01.045.htp">something about my display</a>:</p>
+<p>Here is a screen shot of my setup, showing <a href="http://dabase.com/e/01045/">some details about my X display</a>:</p>
 
 <a href="http://pictures.natalian.org/screenies/2004/may/29/18:29:08/"><img src="http://pictures.natalian.org/screenies/2004/may/29/18:29:08/350x262" alt="Screenshot" /></a>

@@ -9,6 +9,6 @@
 
 <p>Trick is to use mod_headers, not mod_cache.</p>
 
-<p>Btw I maintain an amazing <a href="http://faq.dabase.com/">collection of tips and tricks</a>. I&#8217;ve added my little <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq04.038.htp">howto disable Apache2 caching</a> to it. I wonder which Google will rank higher.</p>
+<p>Btw I maintain an amazing <a href="http://dabase.com/tips/">collection of tips and tricks</a>. I&#8217;ve added my little <a href="http://mirror.dabase.com/e/04038/">howto disable Apache2 caching</a> to it. I wonder which Google will rank higher.</p>
 
 <p>Thanks to the ex-<a href="http://buncs.com/">buncs</a> wise man <a href="http://www.xiven.com/">Tom</a> for the pointers.</p>

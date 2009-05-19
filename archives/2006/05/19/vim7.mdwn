@@ -5,7 +5,7 @@
 
 <p>Christmas has come early and vim7 has finally made its way on  my unstable machine thanks to the miracle of dist-upgrade.</p>
 
-<p>I&#8217;ve made some <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq07.018.htp">notes on my faq.</a></p>
+<p>I&#8217;ve made some <a href="http://dabase.com/e/07018/">notes on my faq.</a></p>
 
 <p>So far the feature that might change my life forever, is omnicompletion.</p>
 

@@ -33,7 +33,7 @@ Presentations were poor (powerpoint drivel) </li>
 
 <ul>
 <li>The way Information Technology is dealt with as a whole by the course is very
-very naive.  Simplistic management models (with <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq05.008.htp"><span class="caps">GARTNER</span></a> data) in conjunction with a <a href="http://www.rhsmith.umd.edu/is/vvenkate/">very biased Microsoft slant (The soon-to-be VP of Microsoft Business Affairs)</a> to every
+very naive.  Simplistic management models (with <a href="http://dabase.com/e/05008/"><span class="caps">GARTNER</span></a> data) in conjunction with a <a href="http://www.rhsmith.umd.edu/is/vvenkate/">very biased Microsoft slant (The soon-to-be VP of Microsoft Business Affairs)</a> to every
 technological matter did not win brownie points with me either. </li>
 </ul>
 

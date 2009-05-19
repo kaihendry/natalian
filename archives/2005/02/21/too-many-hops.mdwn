@@ -19,7 +19,7 @@ hendry@ubuntu:~ $ tracepath dabase.com
  5:  ATM4-3-1.gw2.hkg3.asianetcom.net (202.147.17.129)    690.007ms
 </pre>
 
-<p>Tracepath ends in too many hops. I am getting tired of crap connections, I think I might need to head back to Finland or get a bloody shell, perhaps in Australia. With smtp, I could try employ a <a href="http://db.cs.helsinki.fi/~hendry/faqwiz/faqw.py?query=sendmail&amp;querytype=simple&amp;casefold=yes&amp;req=search">trick</a> mind, but that would mean putting my ssh key here on this net cafe machine&#8230;</p>
+<p>Tracepath ends in too many hops. I am getting tired of crap connections, I think I might need to head back to Finland or get a bloody shell, perhaps in Australia. With smtp, I could try employ a <a href="http://dabase.com/e/01087/">trick</a> mind, but that would mean putting my ssh key here on this net cafe machine&#8230;</p>
 
 <p>This is the first Net cafe to use a proxy. I would always downloading putty onto a different machine if I liked the net cafe in my travels and this place in Bali was the first one that had a speedy 2nd download due to a proxy. I hope India&#8217;s Sify Iway have the brains to deploy a proxy (not to mention Firefox!).</p>
 

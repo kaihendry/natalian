@@ -3,7 +3,7 @@
 [[!tag yaml harrypotter svk php django]]
 <p>Woke up early to get Harry Potter. My flatmate and I are reading it to each other. It&#8217;s been quite fun though straining on the vocal chords.</p>
 
-<p>In the afternoon I spent some time with <a href="http://faq.dabase.com/faqw.py?req=show&amp;file=faq09.003.htp">svk.</a><br />
+<p>In the afternoon I spent some time with <a href="http://dabase.com/e/09003/">svk.</a><br />
 It seems stable and since I am doing more work from my Thinkpad, I will make the switch.</p>
 
 <p>Also took a little look at <a href="http://www.djangoproject.com/">Django.</a> I am not convinced about <span class="caps">MVC</span> and the docs are a little thin. I will come back to it before making a final judgement.</p>
