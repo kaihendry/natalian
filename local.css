@@ -23,3 +23,5 @@ article { /* HTML5 */
 }
 
 #comments { border: thick solid #FF500F; }
+
+.inlinepage { border: none; }
