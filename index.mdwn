@@ -1,11 +1,3 @@
 [[!inline pages="./archives/2009/*" show=1 feedshow=5 actions=no rss=yes]]
 
 [[Archives]] [[Links]]
-
-# Migrating from [Wordpress](http://wordpress.org/) to [Ikiwiki](http://ikiwiki.info/)
-
-This blog is in the process of moving from one blog engine to another, whilst
-painstakingly trying to prevent 404s. If you can't find a page you are looking
-for **please** get in [touch with me](http://hendry.iki.fi/).
-
-Compare with the [old blog with Wordress](http://old.natalian.org/).
