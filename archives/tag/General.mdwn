@@ -1,1 +1,1 @@
-[[!inline pages="link(tags/General)" show=10 actions=no]]
+[[!inline pages="link(archives/tag/General)" actions=no]]
