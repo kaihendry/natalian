@@ -1,0 +1,1 @@
+[[!inline pages="link(archives/tag/bike)" actions=no]]

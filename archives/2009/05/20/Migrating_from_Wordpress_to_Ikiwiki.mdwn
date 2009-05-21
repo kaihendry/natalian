@@ -1,0 +1,37 @@
+I previously [[pleaded_for_a_solution|archives/2009/02/03/dabase-is-the-place-to-be]] to help import my
+Wordpress posts to
+[Ikiwiki](http://ikiwiki.info/tips/Importing_posts_from_Wordpress/).
+
+I've now done it myself with the help of [lxml](http://codespeak.net/lxml/) and
+[lamby's start](http://chris-lamb.co.uk/projects/ikiwiki-wordpress-import/) on
+the problem.
+
+I'm not entirely sure if I've used lxml correctly. I use it in a SAXy [serial
+access](http://en.wikipedia.org/wiki/Serial_access) way when I guess I could
+have just pulled from the
+[DOM](http://en.wikipedia.org/wiki/Document_Object_Model) tree. I've used the
+<a href="http://en.wikipedia.org/wiki/Textile_(markup_language)">textile markup
+language</a> on my previous Wordpress blog. Hence I've run all my posts through
+a textile filter and dumped the resulting HTML into .mdwn files.
+
+So if you look through Natalian's [[archives]], you'll see this blog stretches
+back now more than 6 years to 2003-04-27. That's a **long time** for a blog and
+the link rot shows.
+
+For example I used to host pictures on **pictures.natalian.org** and referenced
+them in my blogs:
+
+	hendry@x61 archives$ grep -r pictures.natalian.org * | wc -l
+	94
+
+That service does not exist anymore, since my my pictures are now all on
+[Flickr](http://www.flickr.com/photos/hendry/) and
+<http://static.natalian.org/>.
+
+There is still some issues I need to resolve, such as [tags|archives/tag]. One
+has to manually create the tags files which is a major PITA.
+
+So far I like where I am now with Ikiwiki.info. Though I am keen to possibly
+try a [suckess approach with werc](http://werc.cat-v.org/).
+
+[[!tag wordpress ikiwiki]]
