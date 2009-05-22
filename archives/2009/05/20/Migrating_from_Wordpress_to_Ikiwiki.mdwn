@@ -6,7 +6,7 @@ I've now done it myself with the help of [lxml](http://codespeak.net/lxml/) and
 [lamby's start](http://chris-lamb.co.uk/projects/ikiwiki-wordpress-import/) on
 the problem.
 
-<http://static.natalian.org/2009-05-22/lxml-wordpress-import.py>
+<http://static.natalian.org/2009-05-22/lxml-wordpress-import.txt>
 
 I'm not entirely sure if I've used lxml correctly. I use it in a SAXy [serial
 access](http://en.wikipedia.org/wiki/Serial_access) way when I guess I could
