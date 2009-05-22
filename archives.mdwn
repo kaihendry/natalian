@@ -1,1 +1,1 @@
-[[!inline pages="./archives/*" actions=no rss=no atom=no archive=yes]]
+[[!inline pages="./archives/20*" actions=no rss=no atom=no archive=yes]]
