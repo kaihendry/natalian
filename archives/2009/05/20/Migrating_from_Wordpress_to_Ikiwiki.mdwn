@@ -33,7 +33,7 @@ That service does not exist anymore, since my my pictures are now all on
 There is still some issues I need to resolve, such as [[tags|archives/tag]]. One
 has to manually create the tags files which is a major PITA.
 
-So far I like where I am now with Ikiwiki.info. Though I am keen to possibly
+So far I like where I am now with [Ikiwiki.info](http://packages.qa.debian.org/i/ikiwiki.html). Though I am keen to possibly
 try a [suckless](http://suckless.org) approach with [werc](http://werc.cat-v.org/).
 
 [[!tag wordpress ikiwiki]]
