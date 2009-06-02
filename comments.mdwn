@@ -1,0 +1,1 @@
+[[!inline  pages="internal(*/comment_*)" template=comment]]
