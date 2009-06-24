@@ -1,7 +1,3 @@
-<a href="http://www.flickr.com/photos/jamiekitson/876624927/">
-<img src="http://farm2.static.flickr.com/1428/876624927_f4d49fdeb2.jpg" />
-</a>
-
 I've taken two precious days off on holiday and I've booked my flight to
 [Debconf9](http://debconf9.debconf.org/).
 
@@ -14,7 +10,6 @@ see some DDs by lunch time.
 My plane leaves back to LHR from MAD at 27 Jul 2009 20:50. So I will be leaving
 the event at midday on Monday.
 
-PS: I won't be bringing my gun, I'll be bringing my Thinkpad.
-PPS: I'm also planning to attend [HAR2009](https://har2009.org/), maybe I'll bring my gun since we'll be outdoors amongst grass and stuff.
+PS: I'm also planning to attend [HAR2009](https://har2009.org/), maybe I'll bring my gun since we'll be outdoors amongst grass and stuff.
 
 [[!tag debian]]
