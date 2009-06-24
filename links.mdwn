@@ -18,6 +18,7 @@
 </ul>
 <h2>People</h2>
 <ul>
+<li><a href="http://garbe.us/">Anselm Garbe</a></li>
 <li><a href="http://www.exploding-planet.com/weblog.php" rel="friend met">Allan Clements</a></li>
 <li><a href="http://delaunay.org/antoine/blog/" rel="friend met colleague co-resident" title="Warning: French">Antoine Delaunay</a></li>
 <li><a href="http://brattex.blogspot.com/" rel="friend">Bryan Johnston</a></li>
