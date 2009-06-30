@@ -6,12 +6,13 @@
 * <http://video.natalian.org/2006/>
 
 I wrote a crappy [script](http://video.natalian.org/my-tube.txt) to generate
-the HTML to view those OGGs I have been amassing from my Canon IXUS over three
-years.
+the HTML to view those [OGGs I have been
+amassing](http://svn.natalian.org/projects/static/prep-videos.sh) from my Canon
+IXUS over three years.
 
 I kind of feel I am with video, like I was with pictures & images about 5 years
-ago. Pre-[Flickr](http://www.flickr.com/photos/hendry/). You know what I mean?
-No search, no tags and no friends (filtering dude!).
+ago. Pre-[Flickr](http://www.flickr.com/photos/hendry/). _You know what I
+mean?_ No search, no tags and no friends (filtering dude!).
 
 It would be great if I could point a service like
 [Flickr](http://www.flickr.com/photos/hendry/) all my OGG paths on
@@ -21,8 +22,9 @@ videos with their crappy upload interface.
 Gosh, I hope you'll enjoy <http://video.natalian.org> better than [my YouTube
 account](http://www.youtube.com/user/kaihendry).
 
-Sadly it's a bit slow from Europe at <http://static.natalian.org/> points to
-Dreamhost in California. I have a [work server](http://webconverger.org/hetty/)
-I could (ab)use to mirror the content in Germany. However I am unaware of a
-[free GEO-DNS
+Sadly it's a bit slow from Europe as <http://static.natalian.org/> points to a
+server in California. I have a [work server](http://webconverger.org/hetty/)
+mirroring the content in Germany. However I am unaware of a [free GEO-DNS
 service](http://serverfault.com/questions/30567/geo-dns-providers), are you?
+
+[[!tag video]]
