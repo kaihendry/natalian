@@ -27,7 +27,8 @@ server in California. I have a [work server](http://webconverger.org/hetty/)
 mirroring the content in Germany. However I am unaware of a [free GEO-DNS
 service](http://serverfault.com/questions/30567/geo-dns-providers), are you?
 
-Otherwise add to your `/etc/hosts`:
+Otherwise dear Europeans, try adding to your `/etc/hosts`:
+
 	88.198.3.35 static.natalian.org
 
 [[!tag video]]
