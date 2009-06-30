@@ -1,0 +1,28 @@
+[Go get Firefox 3.5](http://getfirefox.com/) and enjoy [HTML5 video](http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html)!
+
+* <http://video.natalian.org/2009/>
+* <http://video.natalian.org/2008/>
+* <http://video.natalian.org/2007/>
+* <http://video.natalian.org/2006/>
+
+I wrote a crappy [script](http://video.natalian.org/my-tube.txt) to generate
+the HTML to view those OGGs I have been amassing from my Canon IXUS over three
+years.
+
+I kind of feel I am with video, like I was with pictures & images about 5 years
+ago. Pre-[Flickr](http://www.flickr.com/photos/hendry/). You know what I mean?
+No search, no tags and no friends (filtering dude!).
+
+It would be great if I could point a service like
+[Flickr](http://www.flickr.com/photos/hendry/) all my OGG paths on
+<http://static.natalian.org/>. I am sure as hell not going to upload those
+videos with their crappy upload interface.
+
+Gosh, I hope you'll enjoy <http://video.natalian.org> better than [my YouTube
+account](http://www.youtube.com/user/kaihendry).
+
+Sadly it's a bit slow from Europe at <http://static.natalian.org/> points to
+Dreamhost in California. I have a [work server](http://webconverger.org/hetty/)
+I could (ab)use to mirror the content in Germany. However I am unaware of a
+[free GEO-DNS
+service](http://serverfault.com/questions/30567/geo-dns-providers), are you?
