@@ -1,3 +1,5 @@
-[[!inline pages="./archives/2009/*" show=1 feedshow=5 actions=no rss=yes actions=yes]]
+Please subscribe to the [feed](http://natalian.org/index.atom) and do comment on the posts via OpenID!
 
-[[Archives]] [[Links]]
+[[!inline pages="./archives/2009/*" show=1 feedshow=5 actions=no actions=yes]]
+
+## [[Archives]] [[Links]]

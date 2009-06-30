@@ -8,7 +8,7 @@
 I wrote a crappy [script](http://video.natalian.org/my-tube.txt) to generate
 the HTML to view those [OGGs I have been
 amassing](http://svn.natalian.org/projects/static/prep-videos.sh) from my Canon
-IXUS over three years.
+IXUS over the years.
 
 I kind of feel I am with video, like I was with pictures & images about 5 years
 ago. Pre-[Flickr](http://www.flickr.com/photos/hendry/). _You know what I
