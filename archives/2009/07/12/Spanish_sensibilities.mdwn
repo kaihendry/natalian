@@ -1,7 +1,5 @@
 <a href="http://www.flickr.com/photos/hendry/3704267536/" title="Kai Hendry in Aragon by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2441/3704267536_dbf265bc7e.jpg" width="500" height="375" alt="Kai Hendry in Aragon" /></a>
 
-	Unless I write a diary, I forget things.
-
 Last week I asked to attend a [BONDI codefest](http://bondi.omtp.org) in
 Huesca, Spain. I happily accepted, though I was little bit worried
 [Huesca](http://en.wikipedia.org/wiki/Huesca) was in the middle of nowhere.
