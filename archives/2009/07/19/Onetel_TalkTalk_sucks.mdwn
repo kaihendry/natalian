@@ -6,9 +6,10 @@ However once we had problems with our line outside the house
 [Onetel](http://onetel.co.uk/) proved to be incompetent in handling the BT
 repair.
 
-The first BT engineer arrived said there was no problem. And said it must be
-internal and replaced the ADSL filter. My parents were charged almost 100GBP
-for this callout. There was nothing wrong with the ADSL filter.
+The first BT engineer arrived (I was not present) said there was no problem.
+And then said it must be internal and replaced the ADSL filter. My parents were
+charged almost 100GBP for this callout. There was nothing wrong with the ADSL
+filter.
 
 A few days later the line cut out completely. Again many hours were spent
 calling Onetel's bewildering customer services (from a mobile) to get an
@@ -18,11 +19,12 @@ engineer didn't do his job properly in finding the fault outside.
 
 We relayed the message to Onetel saying that we want our 100GBP back. We've
 called again and again, and even wrote a letter. Onetel says they have passed
-it on to the team and we will receive a reply. Months have gone by and still no
-reply.
+it on to the right "team" and we will receive a reply. Months have gone by and
+still no reply.
 
-Hence I really recommend you stay clear of Onetel and Talktalk. They really
-suck.
+Hence I really recommend you stay clear of [Onetel and
+Talktalk](http://en.wikipedia.org/wiki/TalkTalk_%28telecommunications_company%29).
 
 Now we moved back to BT for line rental. We also moved our mobile contract away
-from Onetel too.
+from Onetel too. All the money we saved using them probably didn't amount to
+the 100GBP they took from us.
