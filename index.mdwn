@@ -2,4 +2,6 @@ Please subscribe to the <a href="http://natalian.org/index.atom"><img src="http:
 
 [[!inline pages="./archives/2009/*" show=1 feedshow=5 actions=no actions=yes]]
 
-## [[Archives]] [[Links]]
+<nav>
+[[Archives]] [[Links]]
+</nav>
