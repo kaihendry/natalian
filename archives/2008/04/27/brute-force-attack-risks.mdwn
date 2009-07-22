@@ -6,18 +6,19 @@
 
 <p>When you hear of &#8220;Brute force attacks&#8221;, you can generally find flaws.</p>
 
-<p>First off a brute force attack can <strong><span class="caps">EASILY</span> be discovered</strong> by a correctly configured server. Since 99.999% of Web applications authenticate from a centralised Web server. If the server can&#8217;t raise an alert or throttle a brute force attack after say 5 wrong attempts it&#8217;s really <b>badly configured</b>.</p>
+First off a brute force attack can <strong><span class="caps">EASILY</span> be
+avoided</strong> by a correctly configured server or firewall.
+
+If the server can&#8217;t raise an alert or throttle a brute force attack
+after say 5 wrong attempts it&#8217;s really <b>badly configured</b>.
 
 <p>With that in mind:</p>
 
-<p>Companies who sell security products for example with:<br />
-* long password lengths<br />
-* choosing certain digits of a password (note they would have to store an unhashed password, which is dumb)</p>
+Companies who sell security products for example with:
+
+* long password lengths
+* choosing certain digits of a password (note they would have to store an unhashed password, which is dumb)
 
 <p>To offer better security by mitigating brute force attacks on the client side, are <strong>wrong</strong>.</p>
 
 <p>Conclusion: Brute force attacks in most cases should be handled by extra logic in the server, not the user.</p>
-
-<audio src="http://static.natalian.org/2008-04-27/risk.ogg" controls></audio>
-
-<a href="http://static.natalian.org/2008-04-27/risk.ogg">Listen to my voice</a> - <a href="http://dabase.com/u/record_wav/">How I made the recording</a>
