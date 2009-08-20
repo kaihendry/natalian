@@ -1,6 +1,6 @@
 Please subscribe to the <a href="http://natalian.org/index.atom"><img src="http://static.natalian.org/2006-06-20/feed-icon-32x32.png" alt="Atom feed icon" /></a> and do comment on the posts via OpenID!
 
-[[!inline pages="./archives/2009/*" show=1 feedshow=5 actions=no actions=yes]]
+[[!inline pages="./archives/2009/*" show=1 feedshow=5 actions=no]]
 
 <nav>
 [[Archives]] [[Links]]
