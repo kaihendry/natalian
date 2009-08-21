@@ -1,0 +1,32 @@
+Right, [Quake Live](http://www.quakelive.com/#news/site_news/31851) is out on Linux and I've heard it runs best on nVidia.
+
+I was going to shoot for i7, but it's so new and expensive and I liked the idea
+of buying an nVidia based motherboard. There aren't any availible for the i7
+yet.
+
+# Component list
+
+## Case
+
+* [Antex MiniITX P180](http://www.ebuyer.com/product/140996) + Be Quiet 350W Pure Power PSU - 83GBP
+
+## Hard drive
+
+* <http://www.dabs.com/products/western-digital-150gb-velociraptor-10-000rpm-sata-16mb-56WH.html> - 111GBP
+
+## CPU
+
+* <http://www.dabs.com/products/intel-core-2-duo-e8400-3-00ghz-6m-cache-s775-1333mhz-4YCZ.html> - 125GBP
+
+Not sure on fan... does a fan come with the CPU nowadays?
+
+## (integrated) Motherboard
+
+* <http://www.dabs.com/products/msi-s775-nvidia-mcp73pv-ddr2-matx-lan-dvi-4TY0.html> - NVIDIA GeForce 7-series based mGPU board - 40GBP
+
+## RAM
+
+* <http://www.dabs.com/products/crucial-4gb--2x2gb-kit--800mhz-ddr2-pc2-6400-55XP.html> - 34GBP
+
+
+83+111+125+40+34 ~= 400GBP
