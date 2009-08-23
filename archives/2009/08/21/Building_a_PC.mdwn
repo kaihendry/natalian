@@ -4,7 +4,7 @@ I was going to shoot for i7, but it's so new and expensive and I liked the idea
 of buying an nVidia based motherboard. There aren't any availible for the i7
 yet.
 
-# Component list
+# Component list for a ~400GBP machine
 
 ## Case
 
@@ -28,5 +28,11 @@ Not sure on fan... does a fan come with the CPU nowadays?
 
 * <http://www.dabs.com/products/crucial-4gb--2x2gb-kit--800mhz-ddr2-pc2-6400-55XP.html> - 34GBP
 
+# The i7 system I really want
 
-83+111+125+40+34 ~= 400GBP
+* <http://www.dabs.com/products/intel-nehalem-i7-920-s1366-2-66ghz-5CC9.html> ~200GBP
+* <http://www.dabs.com/products/gigabyte-s1366-intel-x58-ddr3-atx-audio-2gbe-lan-3-channel-5BRP.html?q=ex-58> ~200GBP
+* 4G of RAM http://www.dabs.com/products/corsair-memory-4gb--2x2gb-kit--ddr3-1600mhz-240pin-unbuffered-50TW.html#reviews
+* GTS250 or GTX260 nVidia video card
+
+[[!tag video hardware]]
