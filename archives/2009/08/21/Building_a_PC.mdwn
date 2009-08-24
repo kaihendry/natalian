@@ -4,16 +4,17 @@ Right, [Quake Live](http://www.quakelive.com/#news/site_news/31851) is out on Li
 
 ## Case
 
-* [Antex 300](http://www.dabs.com/products/antec-three-hundred-case-black-6252.html)
-* [Antec NSK 6580B](http://www.ebuyer.com/product/145090)
+* [Antex 300](http://www.dabs.com/products/antec-three-hundred-case-black-6252.html) ~45GBP
+
+or
+
+* [Antec NSK 6580B](http://www.ebuyer.com/product/145090) ~80GBP
 
 ## Hard drive
 
 * [160GBP 10000RPM](http://www.dabs.com/products/western-digital-150gb-velociraptor-10-000rpm-sata-16mb-56WH.html) - 111GBP
 
-or
-
-or [80GB Intel SSD](http://www.scan.co.uk/product.aspx?ProductId=27605)
+or [80GB Intel SSD](http://www.scan.co.uk/product.aspx?ProductId=27605) ~200GBP
 
 # i7
 
@@ -25,14 +26,14 @@ or [80GB Intel SSD](http://www.scan.co.uk/product.aspx?ProductId=27605)
 
 or
 
-* [Intel DX58SO](http://www.dabs.com/products/intel-s1366-intel-x58-atx-audio-lan-5JQ9.html)
+* [Intel DX58SO](http://www.dabs.com/products/intel-s1366-intel-x58-atx-audio-lan-5JQ9.html) ~188GBP
 
 # Video card
 
-* <http://www.dabs.com/products/xfx-geforce-gtx-260-660mhz-896mb-ddr3-pcie-dvi--black-edition--5BJ2.html>
+* <http://www.dabs.com/products/xfx-geforce-gtx-260-660mhz-896mb-ddr3-pcie-dvi--black-edition--5BJ2.html> ~150GBP
 
 # RAM
 
-* [4G of DDR3 RAM](http://www.dabs.com/products/corsair-memory-4gb--2x2gb-kit--ddr3-1600mhz-240pin-unbuffered-50TW.html#reviews)
+* [4G of DDR3 RAM](http://www.dabs.com/products/corsair-memory-4gb--2x2gb-kit--ddr3-1600mhz-240pin-unbuffered-50TW.html#reviews) ~65GBP
 
 [[!tag video hardware]]
