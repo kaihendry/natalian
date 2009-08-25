@@ -6,7 +6,9 @@ An Xseries laptop starts at 1113GBP...
 
 ## Case
 
-* [Antex 300](http://www.dabs.com/products/antec-three-hundred-case-black-6252.html) ~45GBP
+I've been told I need at least 500W. I wonder can I get a PSU with a display?
+
+* [Antex 300](http://www.dabs.com/products/antec-three-hundred-case-black-6252.html) ~45GBP (needs a PSU)
 
 or
 
@@ -16,7 +18,9 @@ or
 
 * [160GBP 10000RPM](http://www.dabs.com/products/western-digital-150gb-velociraptor-10-000rpm-sata-16mb-56WH.html) - 111GBP
 
-or [80GB Intel SSD](http://www.scan.co.uk/product.aspx?ProductId=27605) ~200GBP
+or
+
+* [80GB Intel SSD](http://www.scan.co.uk/product.aspx?ProductId=27605) ~200GBP
 
 # i7
 
@@ -24,16 +28,14 @@ or [80GB Intel SSD](http://www.scan.co.uk/product.aspx?ProductId=27605) ~200GBP
 
 # Mainboard
 
-* [Gigabyte GA-EX58-UD5](http://www.dabs.com/products/gigabyte-s1366-intel-x58-ddr3-atx-audio-2gbe-lan-3-channel-5BRP.html?q=ex-58) ~200GBP
-
-or
-
 * [Intel DX58SO](http://www.dabs.com/products/intel-s1366-intel-x58-atx-audio-lan-5JQ9.html) ~188GBP
 
 # Video card
 
-* <http://www.dabs.com/products/xfx-geforce-gtx-260-660mhz-896mb-ddr3-pcie-dvi--black-edition--5BJ2.html> ~150GBP
+I want two DVI outputs.
 
+* [GeForce GTS 250 Dual DVI](http://www.dabs.com/products/bfg-graphics-geforce-gts-250-750mhz-1gb-pci-express-2-0-dual-dvi-5K1T.html?refs=42740000)
+#
 # RAM
 
 * [4G of DDR3 RAM](http://www.dabs.com/products/corsair-memory-4gb--2x2gb-kit--ddr3-1600mhz-240pin-unbuffered-50TW.html#reviews) ~65GBP
