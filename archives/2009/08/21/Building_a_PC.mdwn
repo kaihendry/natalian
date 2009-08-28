@@ -1,45 +1,46 @@
-Right, [Quake Live](http://www.quakelive.com/#news/site_news/31851) is out on Linux and I've heard it runs best on nVidia.
+Right, [Quake Live](http://www.quakelive.com/#news/site_news/31851) is out on
+Linux and I've heard it runs best on nVidia.
 
-An Xseries laptop starts at 1113GBP...
+An Xseries Thinkpad starts at 1113GBP...
 
-# Component list ~800GBP
+Also see <http://superuser.com/questions/30062/linux-i7-rig-for-quiet-stability-and-maybe-a-little-quake-live>
+
+# Component list ~1000GBP
 
 ## Case
 
-I've been told I need at least 500W. I wonder can I get a PSU with a display?
-
-* [Antex 300](http://www.dabs.com/products/antec-three-hundred-case-black-6252.html) ~45GBP (needs a PSU)
-
-or
+<http://www.dabs.com> Antec case selection didn't have:
 
 * [Antec NSK 6580B](http://www.ebuyer.com/product/145090) ~80GBP
 
 ## Hard drive
 
-* [160GBP 10000RPM](http://www.dabs.com/products/western-digital-150gb-velociraptor-10-000rpm-sata-16mb-56WH.html) - 111GBP
+* [150GBP 10000RPM](http://www.dabs.com/products/western-digital-150gb-velociraptor-10-000rpm-sata-16mb-56WH.html) - 111GBP
 
-or
-
-* [80GB Intel SSD](http://www.scan.co.uk/product.aspx?ProductId=27605) ~200GBP
-
-# i7
+## i7
 
 Does this box come with a stock cooler?
 
 * [Intel's Nehalem 920  CPU](http://www.dabs.com/products/intel-nehalem-i7-920-s1366-2-66ghz-5CC9.html) ~200GBP
 
-# Mainboard
+## Mainboard
+
+The lead time for stock availability from Dabs is 07/09/2009 for this item...
 
 * [Intel DX58SO](http://www.dabs.com/products/intel-s1366-intel-x58-atx-audio-lan-5JQ9.html) ~188GBP
 
-# Video card
+## Video card
 
-I need two DVI outputs.
+I _need_ two DVI outputs! :)
 
-* [GeForce GTS 250 Dual DVI](http://www.dabs.com/products/bfg-graphics-geforce-gts-250-750mhz-1gb-pci-express-2-0-dual-dvi-5K1T.html?refs=42740000) ~130GBP
+* [GeForce 9600GT Dual DVI](http://www.dabs.com/products/xfx-geforce-9600gt-650mhz-512mb-ddr3-pcie-dvi-5DDW.html) ~61GBP
 
-# RAM
+## RAM
 
-* [4G of DDR3 RAM](http://www.dabs.com/products/corsair-memory-4gb--2x2gb-kit--ddr3-1600mhz-240pin-unbuffered-50TW.html#reviews) ~65GBP
+* [4G of DDR3 RAM](http://www.dabs.com/products/ocz-technology-ddr3-4gb--2x2--intel-1600mhz-kit-5D0M.html) ~63GBP
+
+## Keyboard/Mouse
+
+[Lenovo USB Thinkpad keyboard](http://www.dabs.com/products/lenovo-usb-travel-keyboard-5HM8.html)
 
 [[!tag video hardware]]
