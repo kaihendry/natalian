@@ -5,7 +5,7 @@ An Xseries Thinkpad starts at 1113GBP...
 
 Also see <http://superuser.com/questions/30062/linux-i7-rig-for-quiet-stability-and-maybe-a-little-quake-live>
 
-# Component list ~1000GBP
+# Component list ~649GBP
 
 ## Case
 
@@ -25,9 +25,7 @@ Does this box come with a stock cooler?
 
 ## Mainboard
 
-The lead time for stock availability from Dabs is 07/09/2009 for this item...
-
-* [Intel DX58SO](http://www.dabs.com/products/intel-s1366-intel-x58-atx-audio-lan-5JQ9.html) ~188GBP
+* [Gigabyte EX58-UD3R](http://www.dabs.com/products/gigabyte-s1366-intel-x58-ddr3-atx-a-l-5J9L.html) ~134GBP
 
 ## Video card
 
@@ -38,9 +36,5 @@ I _need_ two DVI outputs! :)
 ## RAM
 
 * [4G of DDR3 RAM](http://www.dabs.com/products/ocz-technology-ddr3-4gb--2x2--intel-1600mhz-kit-5D0M.html) ~63GBP
-
-## Keyboard/Mouse
-
-[Lenovo USB Thinkpad keyboard](http://www.dabs.com/products/lenovo-usb-travel-keyboard-5HM8.html)
 
 [[!tag video hardware]]
