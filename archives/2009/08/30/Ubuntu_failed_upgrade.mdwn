@@ -1,0 +1,53 @@
+This bank holiday weekend I was helping my neighbour, a long time Edgy user,
+through a "Ubuntu User #1" magazine he bought. The shiny new Jaunty CD inside
+the magazine was assumed to be a quick and easy upgrade path from Edgy.
+
+# Failed Ubuntu upgrade jump
+
+You can't jump (upgrade) from Ubuntu Edgy to Jaunty. I tried and it failed
+horribly. Admittedly Edgy has been unsupported for more than a year now, but
+still you would think it could upgrade seamlessly. As a long time Debian user,
+I was surprised it didn't work. Sad. :/
+
+So I had to backup my neighbour's /home and re-install with the help of LiveCD.
+Nevermind the issues of backing up someone's private data.  This was tricky
+since the Matrox driver with X was not working correctly and I couldn't figure
+out how to jump to the console at first.  Then I had to figure out how to mount
+LVM partitions. I don't understand why the mapper has to be manually prodded.
+When I re-installed Ubuntu LVM did not seemed to be used be default.
+Remarkable.
+
+# The magazine
+
+The firewall tutorial is a bit pointless. You should just be using iptables
+from `/etc/network/interfaces`. Although why would a home user bother?  Most
+routers firewall by default.
+
+The tutorial for writing Web pages is seriously bad. Exhibit Listing 1 the HTML
+template. A good Linux magazine for me should absolutely focus on Web
+applications. This magazine does a disservice to the open platform of the Web.
+
+The Debian packaging tutorial is cdbs based. Which is awful compared to
+debhelper7. Although I would be alarmed if a developer actually used this as a
+guide. This is a beginners Ubuntu users magazine... or is it?
+
+Don't understand why people should know how linux printing works, which by some
+miracle is explained in a magazine article. It should 'just work'.
+
+Burning CDs? A better tutorial would be about transferring files via USB stick.
+Or conducting backups without using fragile CDs. Sad.
+
+The Evolution article confused my neighbour, though he was on Gmail already.
+This **really** pisses me off.
+
+I wish Ubuntu abandoned the non-Web Desktop applications like Evolution and
+concentrate on a minimal supported commercial core.
+
+# Upgrading Ubuntu is such a nightmare
+
+I am really surprised that Ubuntu's upgrade UI is still so abrasive to
+consumers. The Web is leap years ahead of this sort of software in the sense
+that Web applications upgrade seamlessly. Ubuntu really need to focus on making
+the upgrade experience a lot less painful. That way my conservative neighbour
+might well keep up to date and I would have perhaps done other things this bank
+holiday. ;)
