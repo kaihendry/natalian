@@ -9,18 +9,18 @@ horribly. Admittedly Edgy has been unsupported for more than a year now, but
 still you would think it could upgrade seamlessly. As a long time Debian user,
 I was surprised it didn't work. Sad. :/
 
-So I had to backup my neighbour's /home and re-install with the help of LiveCD.
-Nevermind the issues of backing up someone's private data.  This was tricky
-since the Matrox driver with X was not working correctly and I couldn't figure
-out how to jump to the console at first.  Then I had to figure out how to mount
-LVM partitions. I don't understand why the mapper has to be manually prodded.
-When I re-installed Ubuntu LVM did not seemed to be used be default.
-Remarkable.
+So I had to backup my neighbour's `/home` and re-install with the help of the
+convenient Jaunty Live CD.  Nevermind the issues of backing up someone's
+private data.  This was tricky since the Matrox driver with X was not working
+correctly and I couldn't figure out how to jump to the console at first.  Then
+I had to figure out how to mount LVM partitions. I don't understand why the
+mapper has to be manually prodded.  When I re-installed Ubuntu LVM did not
+seemed to be used be default.  Remarkable.
 
-# The magazine
+# The user magazine
 
 The firewall tutorial is a bit pointless. You should just be using iptables
-from `/etc/network/interfaces`. Although why would a home user bother?  Most
+from `/etc/network/interfaces`. Although why should a home user bother?  Most
 routers firewall by default.
 
 The tutorial for writing Web pages is seriously bad. Exhibit Listing 1 the HTML
