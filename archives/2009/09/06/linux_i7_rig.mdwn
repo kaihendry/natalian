@@ -79,12 +79,13 @@ on the i7 building Webkit is insanely fast and satisfying.
 # Quake Live
 
 Getting up and running with [Quake Live](http://www.quakelive.com/) was pretty
-quick. My name tag is **draq** btw. I was surprised it all worked so well
-without any tweaks. I ramped up the graphics to fit my 1680x1050 Samsung and it
-runs 125+fps and _never goes down_. I am serious. It's **really quick**. I read
-some Quake Live linux threads WRT input lag. No input lag here.  Fantastic
-gameplay. [id Software](http://www.idsoftware.com/) get a lot of love from me.
-I wish there were now more decent Linux games!
+quick. My name tag is [draq](http://www.quakelive.com/#profile/summary/draq)
+btw. I was surprised it all worked so well without any tweaks. I ramped up the
+graphics to fit my 1680x1050 Samsung and it runs 125+fps and _never goes down_.
+I am serious. It's **really quick**. I read some Quake Live linux threads WRT
+input lag. No input lag here.  Fantastic gameplay. [id
+Software](http://www.idsoftware.com/) get a lot of love from me.  I wish there
+were now more decent Linux games!
 
 # Audio issues
 
