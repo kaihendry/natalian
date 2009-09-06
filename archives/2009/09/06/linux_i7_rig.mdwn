@@ -1,0 +1,88 @@
+<a href="http://www.flickr.com/photos/hendry/3889643583/" title="My newly assembled i7 rig by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3465/3889643583_29a0b4efbb.jpg" width="500" height="375" alt="My newly assembled i7 rig" /></a>
+
+I ordered the [[component_list|archives/2009/08/21/Building_a_PC]] on Friday
+(28/8) and I picked up the components from work on Saturday (5/9) after
+returning from
+[Edinburgh](http://www.flickr.com/photos/hendry/tags/edinburgh/).
+
+<http://www.dabs.com/> seemed a little slow (more than a week to get everything
+and I altered my list to ensure they had stock), gave me a authorisation form
+twice to fill in, even though I have been a customer for 10+ years and offer no
+presales advice.
+
+I asked dabs simply if the
+[CPU](http://www.dabs.com/products/intel-nehalem-i7-920-s1366-2-66ghz-5CC9.html)
+came with a stock cooler. Turns out it does. I did search about and it did seem
+retail Intel CPU boxes contain a cooler, so I guess presales isn't really
+necessary.
+
+Unfortunately the [case from Ebuyer](http://www.ebuyer.com/product/145090) arrived [damaged](http://www.flickr.com/photos/hendry/sets/72157622081037867/). I called Ebuyer, who asked me to send the pictures, which I did, for compensation. A week has gone by and they have not got back to me. Disappointing.
+
+
+# Building the PC
+
+It was actually quite difficult to find a Phillips screwdriver with a magnetic
+tip to build the PC. Eventually I found one, though the better looking ones
+from B&Q, were the [PZ](http://en.wikipedia.org/wiki/Pozidriv) types. So I
+bought that one, worried that it might not be able to grip the Phillips screws,
+but it was fine!
+
+I was quite impressed with the Gigabyte EX58-UD3R motherboard heatsinks (no
+fans, yay!).  Fitting the i7 CPU was a little scary as there aren't pins any
+more and you have to be quite hard with the lever. I was also surprised to see
+it had an IDE connector. Nice for an old CD drive to read legacy backup CDs.
+
+The case seems quite large, but it seemed quite tight fitting the full
+mainboard. I was surprised to see that the reset, power and HD leds were still
+little fiddly cables. I thought that would become like a combined USB cable
+after these years.
+
+The VGA card that Dabs sold me is not a dual DVI. Dabs has mis-sold to me as their [Product page](http://www.dabs.com/products/xfx-geforce-9600gt-650mhz-512mb-ddr3-pcie-dvi-5DDW.html) clearly says "Dual DVI support"
+
+Power up was scary. It didn't power up. I was worried the speaker was
+malfunctioning as I expected an error beep. After losing my mind for 10
+minutes, it turns out I didn't plug in the second ATX power cable. This is a
+right 'balls up' IMO as the cable from the PSU is 4x4 and you are expected to
+put it in a 8x8 connection on the motherboard near the CPU.
+
+Thankfully I had it powered up and I tested everything worked by booting
+[Webconverger from my USB keyring](http://webconverger.org/usb/).
+
+
+The BIOS was a little old skool and gives way too many tweaks on memory.
+Gigabyte are ricers. Need to figure out how the hell I am supposed to update
+the BIOS should the need arise.
+
+After inspecting the BIOS, it seemed that only 2G of my memory was being picked up as I fitted them right after one another. Memory voltage, speeds, acronyms seem really complicated nowadays. I moved one of the bars across and thankfully 4G showed up.
+
+# Archlinux
+
+I installed Archlinux from USB in about 5 minutes. It was that quick. I spent a
+good 10 minutes trying to figure out X support with
+[nvidia](http://wiki.archlinux.org/index.php/NVIDIA). The keyboard/mouse was
+not working and it turned out that xf86-input-keyboard and xf86-input-mouse
+were not installed. Wtf.
+
+<http://static.natalian.org/2009-09-05/i7-cpuinfo.txt>
+
+<a href="http://www.flickr.com/photos/hendry/3890347578/" title="make -j8 with makepkg by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3521/3890347578_db45b05e3e.jpg" width="500" height="313" alt="make -j8 with makepkg" /></a>
+
+I installed `abs` and immediately tried to build Webkit. Building Webkit is
+something I do quite often at work on my Thinkpad X61 and its painful. Needless
+to say on the i7 building Webkit was insanely fast and satisfying.
+
+# Quake Live
+
+Getting up and running with Quake Live was pretty quick. I was surprised it all
+worked so well without any tweaks. I ramped up the graphics to fit my 1680x1050
+Samsung and it runs 125+fps and _never goes down_. I am serious. It's **really
+quick**. I read some Quake Live linux threads WRT input lag. No input lag here.
+Fantastic gameplay. id Software get a lot of love from me. I wish there were
+now more decent Linux games!
+
+# Audio issues
+
+I am not sure if this is Gigabyte's or Antec's fault. But the front side audio
+once connected to the mainboard is noisy. :(
+
+Connecting to my headphones to the back of the case is the workaround.
