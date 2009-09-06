@@ -6,17 +6,21 @@ returning from
 [Edinburgh](http://www.flickr.com/photos/hendry/tags/edinburgh/).
 
 <http://www.dabs.com/> seemed a little slow (more than a week to get everything
-and I altered my list to ensure they had stock), gave me a authorisation form
-twice to fill in, even though I have been a customer for 10+ years and offer no
+and I altered my list to ensure they had stock), gave me an authorisation form
+twice to fill in, even though I have been a customer for several years and offer no
 presales advice.
 
-I asked dabs simply if the
+The presales question I asked dabs simply if the
 [CPU](http://www.dabs.com/products/intel-nehalem-i7-920-s1366-2-66ghz-5CC9.html)
 came with a stock cooler. Turns out it does. I did search about and it did seem
 retail Intel CPU boxes contain a cooler, so I guess presales isn't really
 necessary.
 
-Unfortunately the [case from Ebuyer](http://www.ebuyer.com/product/145090) arrived [damaged](http://www.flickr.com/photos/hendry/sets/72157622081037867/). I called Ebuyer, who asked me to send the pictures, which I did, for compensation. A week has gone by and they have not got back to me. Disappointing.
+Unfortunately the [case from Ebuyer](http://www.ebuyer.com/product/145090)
+arrived [damaged](http://www.flickr.com/photos/hendry/sets/72157622081037867/).
+I called Ebuyer, who asked me to send the pictures, which I did, for
+compensation. A week has gone by and they have not got back to me.
+Disappointing.
 
 
 # Building the PC
@@ -67,18 +71,20 @@ were not installed. Wtf!
 
 <a href="http://www.flickr.com/photos/hendry/3890347578/" title="make -j8 with makepkg by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3521/3890347578_db45b05e3e.jpg" width="500" height="313" alt="make -j8 with makepkg" /></a>
 
-I installed `abs` and immediately tried to build `libwebkit`. Building Webkit is
-something I do quite often at work on my Thinkpad X61 and it's painful. Needless
-to say on the i7 building Webkit was insanely fast and satisfying.
+I installed `abs` and immediately tried to build `libwebkit`. Building Webkit
+is something I do quite often at work on my [Thinkpad
+X61](http://dabase.com/x61/) and it's painful and sweaty work. Needless to say
+on the i7 building Webkit is insanely fast and satisfying.
 
 # Quake Live
 
-Getting up and running with Quake Live was pretty quick. I was surprised it all
-worked so well without any tweaks. I ramped up the graphics to fit my 1680x1050
-Samsung and it runs 125+fps and _never goes down_. I am serious. It's **really
-quick**. I read some Quake Live linux threads WRT input lag. No input lag here.
-Fantastic gameplay. [id Software](http://www.idsoftware.com/) get a lot of love from me. I wish there were
-now more decent Linux games!
+Getting up and running with [Quake Live](http://www.quakelive.com/) was pretty
+quick. My name tag is **draq** btw. I was surprised it all worked so well
+without any tweaks. I ramped up the graphics to fit my 1680x1050 Samsung and it
+runs 125+fps and _never goes down_. I am serious. It's **really quick**. I read
+some Quake Live linux threads WRT input lag. No input lag here.  Fantastic
+gameplay. [id Software](http://www.idsoftware.com/) get a lot of love from me.
+I wish there were now more decent Linux games!
 
 # Audio issues
 
@@ -109,7 +115,7 @@ The hard drive is not noisy and it seems fast. I think I need to buy a huge slow
 
 # Overclocking
 
-I heard the i7 920 is good to overclock to 3.2Ghz from 2.67GHz. Unfortunately
+I heard the i7 920 is good to overclock to 3.2GHz from 2.67GHz. Unfortunately
 `acpi` under Archlinux does not seem to report the CPU (or any) temperatures. I
 am not too worried as I don't plan to switch this machine off.
 
