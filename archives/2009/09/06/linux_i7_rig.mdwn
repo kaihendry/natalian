@@ -67,8 +67,8 @@ were not installed. Wtf.
 
 <a href="http://www.flickr.com/photos/hendry/3890347578/" title="make -j8 with makepkg by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3521/3890347578_db45b05e3e.jpg" width="500" height="313" alt="make -j8 with makepkg" /></a>
 
-I installed `abs` and immediately tried to build Webkit. Building Webkit is
-something I do quite often at work on my Thinkpad X61 and its painful. Needless
+I installed `abs` and immediately tried to build `libwebkit`. Building Webkit is
+something I do quite often at work on my Thinkpad X61 and it's painful. Needless
 to say on the i7 building Webkit was insanely fast and satisfying.
 
 # Quake Live
@@ -85,4 +85,26 @@ now more decent Linux games!
 I am not sure if this is Gigabyte's or Antec's fault. But the front side audio
 once connected to the mainboard is noisy. :(
 
-Connecting to my headphones to the back of the case is the workaround.
+Connecting my headphones to the back of the case is the workaround.
+
+# Is it noisy?
+
+It's not noisy once I've booted into X for some bizaare reason. Why fans have to blast on a cold boot is beyond me.
+
+# The VelociRaptor
+
+[X61](http://dabase.com/x61/) is about 2663
+
+	[root@i7 ~]# hdparm -T /dev/sda
+	/dev/sda:
+	Timing cached reads:   18948 MB in  2.00 seconds = 9487.43 MB/sec
+
+X61 is about 38
+
+	[root@i7 ~]# hdparm -t /dev/sda
+	/dev/sda:
+	Timing buffered disk reads:  358 MB in  3.01 seconds = 118.96 MB/sec
+
+The hard drive is not noisy and it seems fast. I think I need to buy a huge slower hard drive and try a SSD one day.
+
+[[!tag video hardware]]
