@@ -1,28 +1,20 @@
 [[!meta title="Why are Web forums so popular?" ]]
 [[!meta date="2005-12-07 10:08:26" ]]
 [[!tag web forums Debian]]
-<p>It began with a <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=340114">bug</a>, that led to <a href="http://samiam.org/">Sam Trenholme</a>&#8216;s response, that got my thinking: <strong>Why are Web forums so popular?</strong><br />
-<blockquote><br />
-8<-8<-8<-8<-8<-8<-8<-8<-8< to just the US-ASCII character set; that comes off to me as <a href="http://dictionary.reference.com/search?r=2&amp;q=Luddites">ludditeism</a>.<br />
-This is the same attitude as the Usenet users who think <span class="caps">HTML</span> in a Usenet<br />
-post is some kind of mortal sin.  There is a reason web boards have<br />
-effectively killed Usenet&#8230;but I&#8217;m digressing.<br />
-</blockquote></p>
 
-<p>I assumed it was because people want to be sysops of their own &#8220;board&#8221; on their own server. <br />
-* From there they could decorate it as they please<br />
-* Control how posts as seen to the outside world<br />
-* More likely to be moderated<br />
-* In order to create a <strong>closer</strong> community</p>
+* Web forums can be indexed by Google and hence show up in search results
+* Web forum sysops can easily decorate a forum as they please, creating a little more personality than an average mailing list
+* Forums often have fine controls in how posts as seen to the outside world
+* Forums are more likely to be moderated
+* Forums generally have a better community feel
+* Generally have DB backend, making it easier to do queries to see how many posts a certain user has made etc.
 
-<p><strong><span class="caps">HTML</span></strong> in messages is just plain stupid. Most <acronym title="Mail User Agents">MUAs</acronym> can&#8217;t render Unicode or wrap text properly. To render <span class="caps">HTML</span> correctly you need a <a href="http://www.mozilla.com/">beast</a>! Or am I wrong? Most Web forum posts don&#8217;t seem to use <span class="caps">HTML</span> that much&#8230;</p>
+Mailing list problems:
 
-<p>The only &#8220;Web&#8221; interface to Usenet seems to be <a href="http://groups.google.com">Google Groups</a>. Are there any other? One could be sick of seeing the omnipresent <strong>G</strong> in the tab or not being able to style the interface. Perhaps some people just don&#8217;t like the idea of their messages on Usenet. It is a little scary to think <a href="http://groups.google.com.au/groups?q=Kai+Hendry">some messages</a> could be around for, well <strong>forever</strong>.</p>
+* Hard to subscribe
+* Cliquey atmosphere
+* Often no public archives or poor Web archives
 
-<p>Could it be the <strong>spam</strong> on Usenet? Though I don&#8217; t see much of it on Google Groups.</p>
-
-<p>With Web forums the barrier to entry is pretty low to the comparable mailing list, which is <a href="http://www.jwz.org/doc/mailman.html">pretty hard to join and contribute to.</a></p>
-
-<p>Perhaps Google is doing a bad job of incorporating Groups results into Web search results. How many times have I been searching for something and ended up on some &#8220;Ask an Expert&#8221; type Web forum. <span class="caps">OMG</span>.</p>
-
-<p>Web forums probably win because of the easy-going community aspect. I recall now a friend&#8217;s testimony of being flamed by some (RTFM) jerk after some innocent post on Usenet. It seems a little odd though that you have to create this little social islands for piece of mind. Perhaps it&#8217;s only natural.</p>
+If you're a fan like myself of email, please consider taking up a project to
+[write a decent mailing list Web archive
+system](http://suckless.org/project_ideas).
