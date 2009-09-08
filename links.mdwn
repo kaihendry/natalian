@@ -15,6 +15,7 @@
 <li><a href="http://webconverger.com/" title="Web kiosk">Webconverger.com</a></li>
 <li><a href="http://maps.natalian.org/">Where in the world is Kai?</a></li>
 <li><a href="http://letterly.com">Write a Letter!</a></li>
+<li><a href="http://surreymovers.co.uk">Recommended Surrey removals services</a></li>
 </ul>
 <h2>People</h2>
 <ul>
