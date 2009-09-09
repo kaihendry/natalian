@@ -16,12 +16,19 @@ came with a stock cooler. Turns out it does. I did search about and it did seem
 retail Intel CPU boxes contain a cooler, so I guess presales isn't really
 necessary.
 
+# Ebuyer's crappy compensation
+
 Unfortunately the [case from Ebuyer](http://www.ebuyer.com/product/145090)
 arrived [damaged](http://www.flickr.com/photos/hendry/sets/72157622081037867/).
 I called Ebuyer, who asked me to send the pictures, which I did, for
 compensation. A week has gone by and they have not got back to me.
 Disappointing.
 
+Despite Ebuyer promising to discuss the matter with me, I have since noticed
+Google checkout refunded me the grand total of **8GBP** for the damage to the
+case door. That is a sad token amount, compared to even the time I spend
+photographing, uploading and chasing up the problem. I am too lazy to take out
+my mainboard and send it back to them and Ebuyer knows that. :(
 
 # Building the PC
 
