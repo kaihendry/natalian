@@ -1,6 +1,7 @@
 [[!template id=note text="""
 Recent [dents](http://twitter.com/kaihendry):
 [[!inline pages="internal(planet/twitter/*)" template="microblog" show=5 feeds=no]]
+"""]]
 
 [[!inline pages="./archives/2009/*" show=1 feedshow=5 actions=no]]
 
