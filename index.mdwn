@@ -1,5 +1,5 @@
 [[!template id=note text="""
-Recent [dents](http://twitter.com/kaihendry):
+Recent [tweets](http://twitter.com/kaihendry):
 [[!inline pages="internal(planet/twitter/*)" template="microblog" show=5 feeds=no]]
 """]]
 
