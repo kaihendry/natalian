@@ -1,3 +1,5 @@
+[Planet Kai RSS feed](http://natalian.org/planet/index.rss)
+
 [[!inline pages="internal(planet/*) and !*/Discussion" show=55]]
 
 * [[!aggregate expirecount=25 name="twitter" feedurl="http://twitter.com/statuses/user_timeline/14742294.rss" url="http://twitter.com/kaihendry"]]
