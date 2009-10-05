@@ -48,8 +48,6 @@ mainboard. I was surprised to see that the reset, power and HD leds were still
 little fiddly cables. I thought that would become like a combined USB cable
 after these years.
 
-The VGA card that Dabs sold me is not a dual DVI. Dabs has mis-sold to me as their [Product page](http://www.dabs.com/products/xfx-geforce-9600gt-650mhz-512mb-ddr3-pcie-dvi-5DDW.html) clearly says "Dual DVI support"
-
 Power up was scary. It didn't power up. I was worried the speaker was
 malfunctioning as I expected an error beep. After losing my mind for 10
 minutes, it turns out I didn't plug in the second ATX power cable. This is a
@@ -64,7 +62,33 @@ The BIOS was a little old skool and gives way too many tweaks on memory.
 Gigabyte are ricers. Need to figure out how the hell I am supposed to update
 the BIOS should the need arise.
 
-After inspecting the BIOS, it seemed that only 2G of my memory was being picked up as I fitted them right after one another. Memory voltage, speeds, acronyms seem really complicated nowadays. I moved one of the bars across and thankfully 4G showed up.
+After inspecting the BIOS, it seemed that only 2G of my memory was being picked
+up as I fitted them right after one another. Memory voltage, speeds, acronyms
+seem really complicated nowadays. I moved one of the bars across and thankfully
+4G showed up.
+
+
+# The VGA card
+
+The VGA card that Dabs sold me is not a dual DVI. Dabs has mis-sold to me as
+their [Product
+page](http://www.dabs.com/products/xfx-geforce-9600gt-650mhz-512mb-ddr3-pcie-dvi-5DDW.html)
+clearly says "Dual DVI support". They took **more than a month** to admit the
+:"advertising team have advised that unfortunately on this occasion the item
+was incorrectly described on our website". Next I ordered a [BFG Graphics
+GeForce
+9500GT](http://www.dabs.com/products/bfg-graphics-geforce-9500gt-550mhz-1gb-ddr2-pci-express-2xdvi-57RQ.html)
+to replace the card. This does have two DVI ports, but sadly it is noisier than
+the card it's replacing! :(
+
+Yes, I tired upgrading to nvidia 190.x beta drivers and using:
+
+	Option "Coolbits" "4"
+
+With `nvidia-settings` to no avail. Still noisy. :/
+
+The 9500 GT although one model down and using DDR2... *still* powers Quake more
+than 125fps constantly!
 
 # Archlinux
 
@@ -103,10 +127,6 @@ once connected to the mainboard is noisy. :(
 
 Connecting my headphones to the back of the case is the workaround.
 
-# Is it noisy?
-
-It's not noisy once I've booted into X for some bizaare reason. Why fans have to blast on a cold boot is beyond me.
-
 # The VelociRaptor
 
 [X61](http://dabase.com/x61/) is about 2663
@@ -115,13 +135,21 @@ It's not noisy once I've booted into X for some bizaare reason. Why fans have to
 	/dev/sda:
 	Timing cached reads:   18948 MB in  2.00 seconds = 9487.43 MB/sec
 
-X61 is about 38
+X61 was about 38
 
 	[root@i7 ~]# hdparm -t /dev/sda
 	/dev/sda:
 	Timing buffered disk reads:  358 MB in  3.01 seconds = 118.96 MB/sec
 
-The hard drive is not noisy and it seems fast. I think I need to buy a huge slower hard drive and try a SSD one day.
+The hard drive is not noisy and it seems fast. I now have a [1TB
+drive](http://www.dabs.com/products/western-digital-1tb-caviar-black-7200rpm-32mb-sata-3-5--57Q3.html)
+to go with it.
+
+Incidentally the 1TB seems just as fast according to `hdparm`. Oddly 1TB (ext4
+formatted) actually means 871G:
+
+	Filesystem            Size  Used Avail Use% Mounted on
+	/dev/sdb1             917G  200M  871G   1% /mnt/home
 
 # Overclocking
 
