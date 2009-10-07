@@ -1,0 +1,6 @@
+[[!comment format=mdwn
+ username="http://aigarius.com/"
+ date="2009-10-07T23:01:07Z"
+ content="""
+That's all fine, but why does xfs/reiser and ext3/4 disagree so much about both free space AND total filesystem size? That is just bizarre.
+"""]]
