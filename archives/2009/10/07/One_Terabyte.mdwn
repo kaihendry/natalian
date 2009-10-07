@@ -1,4 +1,4 @@
-<a href="http://www.flickr.com/photos/hendry/3990490528/" title="http://surf.suckless.org/ with http://dwm.suckless.org/ by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3217/3990490528_c545d3fb4d.jpg" width="500" height="194" alt="http://surf.suckless.org/ with http://dwm.suckless.org/" /></a>
+<a href="http://www.flickr.com/photos/hendry/430354392/" title="Spinning those external USB hard disks by Kai Hendry, on Flickr"><img src="http://farm1.static.flickr.com/147/430354392_7e286a788e.jpg" width="500" height="375" alt="Spinning those external USB hard disks" /></a>
 
 [1TB Caviar](http://www.dabs.com/products/western-digital-1tb-caviar-black-7200rpm-32mb-sata-3-5--57Q3.html)
 should be [1024 gigabytes](http://www.google.co.uk/search?q=1TB+in+GB).
@@ -37,19 +37,25 @@ Seemed like it was quite a good rate from the `/dev/sda4 on /home type ext4 (rw)
 	/dev/sdb1             932G   33M  932G   1% /mnt/home
 
 	hendry@i7 ~$ iotop -b | grep Total
-	Total DISK READ: 9.04 M/s | Total DISK WRITE: 0.00 B/s
 	Total DISK READ: 16.22 M/s | Total DISK WRITE: 11.08 M/s
 	Total DISK READ: 14.20 M/s | Total DISK WRITE: 9.05 M/s
 	Total DISK READ: 14.89 M/s | Total DISK WRITE: 4.66 M/s
 	Total DISK READ: 43.21 M/s | Total DISK WRITE: 39.24 M/s
 	Total DISK READ: 31.01 M/s | Total DISK WRITE: 1994.15 K/s
 
+Bit all over the place during the `rsync`. This could be my fault.
+
 ## [ext3](http://en.wikipedia.org/wiki/Ext3)
+
+Er, wtf? Only 871GB availible from 1024GB?? 153GB has gone missing! 61GB has
+gone missing compared to xfs/reiserfs!!
 
 	/dev/sdb1 on /mnt/home type ext3 (rw)
 	/dev/sdb1             917G  200M  871G   1% /mnt/home
 
-Quite a stable:
+And there is nothing on the damn disk. Wtf is that 200M all about?
+
+Quite a stable-ish:
 
 	Total DISK READ: 48.16 M/s | Total DISK WRITE: 45.55 M/s
 
@@ -58,7 +64,7 @@ Quite a stable:
 	/dev/sdb1 on /mnt/home type ext4 (rw)
 	/dev/sdb1             917G  200M  871G   1% /mnt/home
 
-Maybe better performance than ext3.
+Maybe better performance than ext3. Hard to tell.
 
 	Total DISK READ: 56.90 M/s | Total DISK WRITE: 56.94 M/s
 
@@ -68,7 +74,8 @@ Maybe better performance than ext3.
 Surprisingly `sudo cp -r /home/ /mnt/home/` seemed slower than `sudo rsync -art
 /home/ /mnt/home/`. Wtf is up with that?
 
-I just took a random `iotop` reading which I thought was representative of the transfer rates I was seeing.
+I just took a random `iotop` reading which I thought was representative of the
+transfer rates I was seeing.
 
 For more details on the hardware please view [[archives/2009/09/06/linux_i7_rig]].
 
