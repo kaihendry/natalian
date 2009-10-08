@@ -31,7 +31,7 @@ Does this box come with a stock cooler?
 
 I _need_ two DVI outputs! :)
 
-* [GeForce 9600GT Dual DVI](http://www.dabs.com/products/xfx-geforce-9600gt-650mhz-512mb-ddr3-pcie-dvi-5DDW.html) ~61GBP
+* <strike>[GeForce 9600GT Dual DVI](http://www.dabs.com/products/xfx-geforce-9600gt-650mhz-512mb-ddr3-pcie-dvi-5DDW.html) ~61GBP</strike> [BFG Graphics GeForce 9500GT 550Mhz 1GB DDR2 PCI-Express 2xDVI](http://www.dabs.com/products/bfg-graphics-geforce-9500gt-550mhz-1gb-ddr2-pci-express-2xdvi-57RQ.html) ~46GBP
 
 ## RAM
 

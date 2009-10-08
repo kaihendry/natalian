@@ -5,13 +5,15 @@
 * Web forums can be indexed by Google and hence show up in search results
 * Web forum sysops can easily decorate a forum as they please, creating a little more personality than an average mailing list
 * Forums often have fine controls in how posts as seen to the outside world
-* Forums are more likely to be moderated
+* Forums are easier to moderate - UI in place for banning IPs etc.
 * Forums generally have a better community feel
 * Generally have DB backend, making it easier to do queries to see how many posts a certain user has made etc.
+* Instant gratification - you can confirm your post is live
 
 Mailing list problems:
 
 * Hard to subscribe
+* Sometimes difficult to confirm your post actually was posted
 * Cliquey atmosphere
 * Often no public archives or poor Web archives
 
