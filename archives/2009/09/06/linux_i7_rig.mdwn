@@ -145,16 +145,68 @@ The hard drive is not noisy and it seems fast. I now have a [1TB
 drive](http://www.dabs.com/products/western-digital-1tb-caviar-black-7200rpm-32mb-sata-3-5--57Q3.html)
 to go with it.
 
-Incidentally the 1TB seems just as fast according to `hdparm`. Oddly 1TB (ext4
-formatted) actually means 871G:
+Incidentally the [[1TB_disk|archives/2009/10/07/One_Terabyte]] seems just as fast according to `hdparm`.
 
-	Filesystem            Size  Used Avail Use% Mounted on
-	/dev/sdb1             917G  200M  871G   1% /mnt/home
-
-# Overclocking
+# Sensors
 
 I heard the i7 920 is good to overclock to 3.2GHz from 2.67GHz. Unfortunately
-`acpi` under Archlinux does not seem to report the CPU (or any) temperatures. I
-am not too worried as I don't plan to switch this machine off.
+`acpi` under Archlinux does not seem to report the CPU (or any) temperatures.
+
+Solution was to `sudo pacman -S lm_sensors`, `sudo sensors-detect` and `sudo
+/etc/rc.d/sensors start`. Now running `sensors` reports:
+
+
+	coretemp-isa-0000
+	Adapter: ISA adapter
+	Core 0:      +41.0°C  (high = +80.0°C, crit = +100.0°C)
+
+	coretemp-isa-0001
+	Adapter: ISA adapter
+	Core 1:      +41.0°C  (high = +80.0°C, crit = +100.0°C)
+
+	coretemp-isa-0002
+	Adapter: ISA adapter
+	Core 2:      +40.0°C  (high = +80.0°C, crit = +100.0°C)
+
+	coretemp-isa-0003
+	Adapter: ISA adapter
+	Core 3:      +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+	coretemp-isa-0004
+	Adapter: ISA adapter
+	Core 4:      +41.0°C  (high = +80.0°C, crit = +100.0°C)
+
+	coretemp-isa-0005
+	Adapter: ISA adapter
+	Core 5:      +41.0°C  (high = +80.0°C, crit = +100.0°C)
+
+	coretemp-isa-0006
+	Adapter: ISA adapter
+	Core 6:      +40.0°C  (high = +80.0°C, crit = +100.0°C)
+
+	coretemp-isa-0007
+	Adapter: ISA adapter
+	Core 7:      +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+	it8720-isa-0290
+	Adapter: ISA adapter
+	in0:         +0.94 V  (min =  +0.00 V, max =  +4.08 V)
+	in1:         +1.90 V  (min =  +0.00 V, max =  +4.08 V)
+	in2:         +3.31 V  (min =  +0.00 V, max =  +4.08 V)
+	in3:         +2.99 V  (min =  +0.00 V, max =  +4.08 V)
+	in4:         +0.30 V  (min =  +0.00 V, max =  +4.08 V)
+	in5:         +3.15 V  (min =  +0.00 V, max =  +4.08 V)
+	in6:         +0.13 V  (min =  +0.00 V, max =  +4.08 V)
+	in7:         +2.14 V  (min =  +0.00 V, max =  +4.08 V)
+	Vbat:        +3.22 V
+	fan1:       1962 RPM  (min =    0 RPM)
+	fan2:          0 RPM  (min =    0 RPM)
+	fan3:          0 RPM  (min =    0 RPM)
+	fan4:          0 RPM  (min =    0 RPM)
+	temp1:       +33.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+	temp2:       +37.0°C  (low  = +127.0°C, high = +60.0°C)  sensor = thermal diode
+	temp3:       +45.0°C  (low  = +127.0°C, high = +127.0°C)  sensor = thermistor
+	cpu0_vid:   +2.050 V
+
 
 [[!tag video hardware]]
