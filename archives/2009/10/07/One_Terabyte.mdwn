@@ -68,15 +68,28 @@ Maybe better performance than ext3. Hard to tell.
 
 	Total DISK READ: 56.90 M/s | Total DISK WRITE: 56.94 M/s
 
+## ext2
+
+	/dev/sdb1             917G   72M  871G   1% /mnt/home
 
 ## Funny notes
 
 Surprisingly `sudo cp -r /home/ /mnt/home/` seemed slower than `sudo rsync -art
-/home/ /mnt/home/`. Wtf is up with that?
+/home/ /mnt/home/`. Wtf is up with that? I think rsync cleverly launches
+threads to speed up it's checksumming operation.
 
 I just took a random `iotop` reading which I thought was representative of the
 transfer rates I was seeing.
 
 For more details on the hardware please view [[archives/2009/09/06/linux_i7_rig]].
 
-What was my final choice? **xfs**
+# Tried out xfs
+
+So two disks with the same data from a `sudo rsync --delete -art /home/ /mnt/home/`.
+
+	/dev/sda4             130G   90G   35G  73% /home
+	/dev/sdb1             932G   99G  833G  11% /mnt/home
+
+Ummm, wtf does the **xfs** drive take 10% more?
+
+## Now the 1TB is using ext4
