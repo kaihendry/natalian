@@ -3,7 +3,8 @@
 I want to scan all my family's paper photographs, so that our memories can be
 saved digitally for my family heritage.
 
-It's 2009 and I don't think people understand that if well kept, digital history can survive for perfectly intact for thousands of years!
+It's 2009 and I don't think people understand that if well kept, digital
+history can survive for perfectly intact for thousands of years! We are the cusp of a new age of history.
 
 My [local photography shop in Woking](http://www.harpersphoto.co.uk/), which
 are usually rather good, charge 10GBP to scan 25 pictures to a CD.
@@ -28,3 +29,6 @@ and is willing to purchase it from me afterwards?
 I am thinking if my father is keen, he could probably start a company scanning
 in paper photographs for other people. I have not been able to find any
 suitable service in the UK. Have you?
+
+Ideally I could just send in the shoe boxes of pictures in stages and the
+scanning service uploads it straight to my Web host via rsync.
