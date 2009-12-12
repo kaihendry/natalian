@@ -13,9 +13,9 @@ After some investigation of scanners, the [Fujitsu ScanSnap S300M](http://www.yo
 
 After contacting Fujitsu UK, the Fujitsu FI-6230 scanner seems like the right
 kit to scan all my family photographs over Christmas. Unfortunately the device
-does not scan to simply to SD media and seems to require Windows software. :(
-Also the device is not availible for rent, so the only option seems to purchase
-the device.
+does not scan convienantly to SD media (without a computer) and seems to
+require a computer running Windows software. :( Also the device is not
+availible for rent, so the only option seems to purchase the device.
 
 <http://www.kgsltd.org/> has quoted me 845.25GBP for the device.
 
@@ -31,4 +31,5 @@ in paper photographs for other people. I have not been able to find any
 suitable service in the UK. Have you?
 
 Ideally I could just send in the shoe boxes of pictures in stages and the
-scanning service uploads it straight to my Web host via rsync.
+scanning service uploads "post-processed" images straight to my [static Web
+host](http://static.natalian.org/) via rsync.
