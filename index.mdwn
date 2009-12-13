@@ -2,5 +2,5 @@
 [[!inline pages="./archives/2009/*" show=1 feedshow=5 actions=no]]
 
 <nav>
-[[Archives]] [[Links]] [[Planet Kai]] [Contact Kai](http://hendry.iki.fi/)
+[[Archives]] [[Links]] [[Planet_Kai|Planet]] [Contact Kai](http://hendry.iki.fi/)
 </nav>
