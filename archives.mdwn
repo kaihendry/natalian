@@ -1,1 +1,3 @@
+Spotted a mistake? Please help me maintain my blogs and [contact me](http://hendry.iki.fi/) about any problems you find! Thank you.
+
 [[!inline pages="./archives/20*" actions=no rss=no atom=no archive=yes]]

@@ -1,0 +1,35 @@
+<a href="http://www.flickr.com/photos/hendry/4179100778/" title="Fujitsu Fi-6230 by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2578/4179100778_0f4938fccd.jpg" width="500" height="457" alt="Fujitsu Fi-6230" /></a>
+
+I want to scan all my family's paper photographs, so that our memories can be
+saved digitally for my family heritage.
+
+It's 2009 and I don't think people understand that if well kept, digital
+history can survive perfectly intact for thousands of years! We are on the cusp of a new age of detailed digitally stored history.
+
+My [local photography shop in Woking](http://www.harpersphoto.co.uk/), which
+are usually rather good, charge 10GBP to scan 25 pictures to a CD.
+
+After some investigation of scanners, the [Fujitsu ScanSnap S300M](http://www.youtube.com/watch?v=mwVzyhocVig) caught my eye.
+
+After contacting Fujitsu UK, the Fujitsu FI-6230 scanner seems like the right
+kit to scan all my family photographs over Christmas. Unfortunately the device
+does not scan conveniently to SD media without a computer and seems to require
+a computer running Windows software. :( Also the device is not available for
+rent, so the only option seems to purchase the device.
+
+<http://www.kgsltd.org/> has quoted me 845.25GBP for the device.
+
+For a week's use, this seems quite expensive. I am not sure about the reselling
+market, so you think I could sell this nearly device as take a 10% hit?
+
+Does [anyone else out there have the same scanning of old paper photos
+problem](http://www.plasticbag.org/archives/2006/04/did_i_dream_this_photo_scanner/)
+and is willing to purchase it from me afterwards?
+
+I am thinking if my father is keen, he could probably start a company scanning
+in paper photographs for other people. I have not been able to find any
+suitable service in the UK. Have you?
+
+Ideally I could just send in the shoe boxes of pictures in stages and the
+scanning service uploads "post-processed" images straight to my [static Web
+host](http://static.natalian.org/) via rsync.
