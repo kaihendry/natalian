@@ -1,4 +1,4 @@
-In an ideal world, if you were suffering from acute issues with say your ear
+In my ideal world, if you were suffering from acute issues with say your ear
 which was affecting your work with hearing loss and sleep deprivation due to
 [tinnitus](http://en.wikipedia.org/wiki/Tinnitus), you would:
 
@@ -6,24 +6,24 @@ which was affecting your work with hearing loss and sleep deprivation due to
 * Go see that specialist hopefully the next day before or after work
 * Have the ear specialist pull out a enlodged ear bud and the pain stops!
 
-Instead I endured an NHS and private medical insurance bureaucracy hell for over
-three months, whilst losing many hours of work and sleep. :(
+Instead I endured an <abbr title="UK National Health Service">NHS</abbr> and
+private medical insurance bureaucracy hell for over three months, whilst losing
+many hours of work and sleep. :(
 
 * It began when I thought I damaged my ear whilst attending a noisy gig in the East end
-* Spent 3 days calling for an "emergency" appointment at 8:30 to see a GP at my local NHS surgery
-* GP says I should wait a week or two
+* Spent 3 days calling for an "emergency" appointment at 8:30 to see a <abbr title="General Practioner">GP</abbr> at my local NHS surgery
+* Doctor (GP) says I should wait a week or two
 * See GP again who says my ear is full of wax and arranges syringing
 * Nurse syringes my ear and I'm still suffering with tinnitus for days after
-* See GP again where I ask (actually beg) for a referral. GP declines and says I should try a steroid nasal spray for a week.
-* See GP again after struggling for an appointment to say nasal spray does not work
-* GP agrees to refer me and writes a letter. I ask if I can save time (~1 week private, ~4 week NHS) and she suggests a private ENT specialist.
-* I call up private insurance and they refuse to deal with me because my secret questions are incorrect
-* Turns out they had my address and DOB wrong via the company's insurance broker
+* See different GP (last GP on holiday) where I ask (actually beg) for a referral. GP declines and says I should try a steroid nasal spray for a week.
+* Arrange to see different GP to say nasal spray does not work.  GP agrees to refer me and writes a letter. I ask if I can save time (~1 week private, ~4 week NHS) and she suggests a private ENT specialist.
+* I call up my (company provided) private medical insurance and they refuse to deal with me because my secret questions are incorrect
+* Turns out they had my address and <abbr title="Date of Birth">DOB</abbr> wrong via the company's insurance broker
 * After several emails to company secretary and broker, finally sort out my insurance
 * Manage to talk to private insurance representative. They say I must go back to GP and fill in a form and they will not accept doctor's letter. The form can only be retrieved after calling the insurers and they email you with a special code
 * Print & drop off insurance form to GP who fills it in for 15GBP
 * Go to pick up form and the form has gone missing
-* In the meantime go see private ENT specialist and get a cotton bud retrieved from my inner ear! I AM CURED!!
+* In the meantime go see private <abbr title="Ear Nose Throat">ENT</abbr> specialist and get a cotton bud retrieved from my inner ear! I AM CURED!!
 * Call up insurers for access to the "secure" generic claim form again :(
 * Drop off insurance form and collect form again later
 * Had to return again to surgery since they do not accept VISA and I did not have 15GBP in cash
@@ -32,8 +32,8 @@ three months, whilst losing many hours of work and sleep. :(
 * Insurers agree and they will invoice me for 100GBP for the policy excess
 
 Insurers could have charged the 100GBP excess and decided not to cover this
-unauthorised private medical treatment! So I was lucky this did not cost more
-like 300GBP.
+unauthorised private medical treatment! So I was lucky this fiasco did not cost
+more like 300GBP.
 
 I am bitterly disappointed that I have spent more than THREE MONTHS trying to
 sort out the problem with my ear. Yes, you can call me an idiot for sticking an
