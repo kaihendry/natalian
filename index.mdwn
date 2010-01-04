@@ -1,5 +1,5 @@
 [[!inline pages="internal(planet/twitter/*)" template="microblog" show=1 feeds=no]]
-[[!inline pages="./archives/2009/*" show=1 feedshow=5 actions=no]]
+[[!inline pages="./archives/2010/*" show=1 feedshow=5 actions=no]]
 
 <nav>
 [[Archives]] [[Links]] [[Planet_Kai|Planet]] [Contact Kai](http://hendry.iki.fi/)
