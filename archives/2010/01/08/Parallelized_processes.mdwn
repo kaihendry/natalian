@@ -1,0 +1,49 @@
+<a href="http://www.flickr.com/photos/hendry/4258003934/" title="make -j8 ogg theora by Kai Hendry, on Flickr"><img src="http://farm5.static.flickr.com/4001/4258003934_5fc8bf2ea1.jpg" width="500" height="313" alt="make -j8 ogg theora" /></a>
+
+<blockquote cite="http://en.wikipedia.org/wiki/Multi-core_%28computing%29">
+The amount of performance gained by the use of a multi-core processor is
+strongly dependent on the software algorithms and implementation. In
+particular, the possible gains are limited by the fraction of the software that
+can be parallelized to run on multiple cores simultaneously
+</blockquote>
+
+Since I have a [[archives/2009/09/06/linux_i7_rig]] featuring 8 [multi-core
+processors](http://en.wikipedia.org/wiki/Multi-core_%28computing%29) on the
+[Intel i7](http://en.wikipedia.org/wiki/Intel_Core_i7), I wondered how to best
+take advantage of its power.
+
+[htop](http://htop.sourceforge.net) shows what the CPUs are doing and most of
+the time, being bone idle!
+
+I've attended a concurrent programming class at
+[school](http://www.cs.helsinki.fi) and I have learnt writing **threading**
+programs is hard.
+
+## So how does one instead parallelize a bunch of tasks?
+
+Use a Makefile! [Make](http://manpages.debian.net/cgi-bin/man.cgi?query=make)
+has an incredible switch `-j` which "Specifies  the number of jobs (commands)
+to run simultaneously.".
+
+So here is an example `Makefile` that takes my DVD *.vob dumps and converts them
+into [.ogv](http://en.wikipedia.org/wiki/Theora) files for use in my [HTML5
+video collection](http://video.natalian.org).
+
+	.SUFFIXES: .vob .ogv
+
+	SRC = ${shell ls */*.vob}
+	OBJ = ${SRC:.vob=.ogv}
+	CC = ffmpeg2theora
+
+	all: ${OBJ}
+		@echo Converted ${OBJ}
+
+	.vob.ogv:
+		@echo ${CC} $<
+		@${CC} $< 2>/dev/null
+
+	clean:
+		@echo ${OBJ}
+		@rm -f ${OBJ}
+
+So running `make -j8` puts my **i7** powerhouse to full use on a cold winters day.
