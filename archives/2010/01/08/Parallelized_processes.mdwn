@@ -47,3 +47,7 @@ video collection](http://video.natalian.org).
 		@rm -f ${OBJ}
 
 So running `make -j8` puts my **i7** powerhouse to full use on a cold winters day.
+
+Update: I've discovered thanks to a comment, I could do simply using xargs like
+so: `time ls *.mov | xargs -n 8 -P 8 -Is ffmpeg2theora s`. Though it's a little
+unwieldy isn't it?
