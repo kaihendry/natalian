@@ -15,11 +15,13 @@
 <li><a href="http://webconverger.com/" title="Web kiosk">Webconverger.com</a></li>
 <li><a href="http://maps.natalian.org/">Where in the world is Kai?</a></li>
 <li><a href="http://letterly.com">Write a Letter!</a></li>
+<li><a href="http://brown-y.co.uk/">Fogging machines</a></li>
 <li><a href="http://surreymovers.co.uk">Recommended Surrey removals services</a></li>
 </ul>
-<h2>People</h2>
+<h2>People I like</h2>
 <ul>
 <li><a href="http://garbe.us/">Anselm Garbe</a></li>
+<li><a href="http://blog.daniel-baumann.ch/">Daniel Baumann</a></li>
 <li><a href="http://www.exploding-planet.com/weblog.php" rel="friend met">Allan Clements</a></li>
 <li><a href="http://delaunay.org/antoine/blog/" rel="friend met colleague co-resident" title="Warning: French">Antoine Delaunay</a></li>
 <li><a href="http://brattex.blogspot.com/" rel="friend">Bryan Johnston</a></li>
@@ -30,4 +32,5 @@
 <li><a href="http://mikie.iki.fi/wordpress/">Mika Raento</a></li>
 <li><a href="http://twelves.blogspot.com/" rel="friend met">Timothy Twelves</a></li>
 <li><a href="http://www.xiven.com/" rel="friend met">Tom Pike</a></li>
+<li><a href="http://www.pixelbeat.org/">Pádraig Brady</a></li>
 </ul>
