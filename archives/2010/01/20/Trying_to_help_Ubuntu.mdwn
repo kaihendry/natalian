@@ -35,16 +35,17 @@ Let me start with what I don't like about Ubuntu regarding finding help.
 What I do like:
 
 * the Web browser
-* http://manpages.debian.net/ -- could be better. manpages need to come onto the Web in a better way
-* IRC
+* <http://manpages.debian.net> -- could be miles better. manpages need to come onto the Web in a better way
+* IRC -- bit geeky
 * an OS being slightly exclusive -- I'm sorry I do not want be in a community with complete morons who can't think or type
-* stackoverflow & superuser
-* LUGs and local mailing lists
-* Searching with Google
-* chatting to friends
+* stackoverflow & superuser -- excellent Web applications for learning
+* LUGs and local mailing lists -- a bit geeky, but hellava important
+* Searching with Google -- people must learn how to copy and paste in an error message
+* chatting to friends -- people need to be introduced to Ubuntu, so it must painless to connect with them. I personally use Gmail.com's Gtalk to chat to my newbie friends.
 * Getting a formal education in how to use a unix computer and how to ask questions or open bugs
 * [Arch wiki](http://wiki.archlinux.org)
 * Keeping things simple. Avoid buggy CRAPWARE like Gnome
 * Having things work in the first place. I.e. doing a TON of testing
-* Less is more
-* The terminal
+* Less is more -- don't support crap software
+* The terminal -- do not be scared
+* Use the power of the Web. I really like the rich useful comments on the [PHP](http://php.net/) site
