@@ -1,0 +1,15 @@
+[[!comment format=mdwn
+ username="http://getopenid.com/gregski"
+ subject="i agree it sucks"
+ date="2010-01-27T05:59:29Z"
+ content="""
+I am new to JBoss so first thing I wanted was to get a copy of it, so I googled JBOSS DOWNLOAD and it took me to jboss.com so I clicked on Products \ Download which then wanted me to subscribe or use a 30 day trial, WHAT so I clicked on the trial and that redirected me to a login page on redhat.com WHATEVER, so I googled JBOSS DOWNLOAD again and this time clicked on the jboss.org which offered me TWENTY FIVE versions to choose from ranging from Beta, Release Candidtae, Stable, to MileStone.  Wow almost as bad as Java Runtime, lol.
+
+Then I got to choose from SIX different file formats, of five different sizes.
+
+Then it was time to install it, ahem copy the unzipped files to my hard drive, and manually create / set environment variables, very circa 1996.  By the way I had to GOOGLE how to install it as the README.HTML offered no help
+
+Then it was time to read up on how to run the darn program, again simple once you know how, but another command out of thin air.
+
+Now I'm up to the errors, awesome!
+"""]]
