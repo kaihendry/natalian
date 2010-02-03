@@ -8,16 +8,16 @@ Ubuntu.
 
 Well, I'm glad you asked because I have a few opinions.
 
-I have help family and friends onto Ubuntu. I have helped collegues at work who
-don't know the first thing about Linux onto Ubuntu. I've also actively sought
-help myself for many many years on a whole bunch of problems that I've
+I have helped family and friends onto Ubuntu. I have helped collegues at work
+who don't know the first thing about Linux onto Ubuntu. I've also actively
+sought help myself for many many years on a whole bunch of problems that I've
 encountered whilst using Debian & Ubuntu.
 
 Let me start with what I don't like about Ubuntu regarding finding help.
 
 * <https://help.ubuntu.com/> -- different versions of help for different version of Ubuntu? Wrong.
 * -docs packages. I hate that. It's a waste of space. Sorry, assume you have Internet.
-* GNU info pages -- a lot of GNU stuff is stupid. Don't forget that.
+* GNU info pages -- a lot of GNU stuff is stupid. I would purge these or get them into man pages.
 * https://wiki.ubuntu.com/UbuntuDownUnder/BOFs/CommandLineDisintegration
 * Work closer with magazines and LUGs
 * [Use cases](https://wiki.ubuntu.com/HelpfulHelp) don't address step-by-step **user experience** for brain numbing regular tasks, like posting a picture online
