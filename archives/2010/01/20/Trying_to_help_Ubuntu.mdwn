@@ -28,9 +28,8 @@ Let me start with what I don't like about Ubuntu regarding finding help.
 * I think sharing desktop works, but I never had it working from my Debian or Arch machine on a friends machine. Why? You tell me.
 * Having to type the users password every 10ms.
 * The update process is a PITA.
-* Bloat bloat bloat, cut it out.
 * Wiki is too slow. Web applications by Canonical just suck imho. Use PHP and just make it FAST, ok?
-* Spam and other idiocy
+* Noise and other spam I see on the forums
 
 What I do like:
 
