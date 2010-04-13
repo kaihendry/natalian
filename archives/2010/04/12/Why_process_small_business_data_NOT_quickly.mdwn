@@ -1,9 +1,10 @@
 <a href="http://www.flickr.com/photos/hendry/4506822141/" title="PDQ by Kai Hendry, on Flickr"><img src="http://farm5.static.flickr.com/4066/4506822141_f2f08d4aac.jpg" width="500" height="375" alt="PDQ" /></a>
 
-To conduct a lower risk "card holder present" [chip&pin](http://en.wikipedia.org/wiki/Chip_and_PIN) transactions in retail,
-a business owner uses a [PDQ](http://en.wikipedia.org/wiki/PDQ) machine, ,
-which process [credit card](http://en.wikipedia.org/wiki/Credit_card) and
-[debit card](http://en.wikipedia.org/wiki/Debit_card) transactions.
+To conduct a lower risk "card holder present"
+[chip&pin](http://en.wikipedia.org/wiki/Chip_and_PIN) transactions in retail, a
+business owner uses a [PDQ](http://en.wikipedia.org/wiki/PDQ) machine, which
+process [credit card](http://en.wikipedia.org/wiki/Credit_card) and [debit
+card](http://en.wikipedia.org/wiki/Debit_card) transactions.
 
 These transactions seem to take upward of 15 seconds in small businesses,
 whilst supermarket transactions seem to happen much faster.
