@@ -57,7 +57,10 @@ As [mentioned on twitter](http://twitter.com/kaihendry/status/12470666073), the
 UK government sending Royal Navy boats to "unspecified Channel ports" is
 absurd. **FERRIES ARE NOT FULL**.
 
-<video controls poster="http://static.natalian.org/2010-04-19/MVI_1566.THM" src="http://static.natalian.org/2010-04-19/MVI_1566.ogg">
-<h1>Please upgrade to a <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html">HTML5 video</a> capable browser.</h1>
-</video>
-<p><a href="http://static.natalian.org/2010-04-19/MVI_1566.ogg">MVI_1566.ogg</a> Size: 23M</p>
+<div class="video">
+    <h4>Mon, 19 Apr 2010 09:37:57 -0700</h4>
+    <video controls poster="http://static.natalian.org/2010-04-19/MVI_1566.THM" src="http://static.natalian.org/2010-04-19/MVI_1566.ogg">
+    <h1>Please upgrade to a <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html">HTML5 video</a> capable browser.</h1>
+    </video>
+    <p><a href="http://static.natalian.org/2010-04-19/MVI_1566.ogg">MVI_1566.ogg</a> Size: 23M</p>
+</div>
