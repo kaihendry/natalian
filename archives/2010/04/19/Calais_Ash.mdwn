@@ -1,4 +1,4 @@
-The currency of a disaster is information.
+## The currency of a disaster is information.
 
 <a href="http://www.flickr.com/photos/hendry/4535941254/" title="The stupid departure board by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2771/4535941254_b4bf0ce20d.jpg" width="500" height="375" alt="The stupid departure board" /></a>
 
@@ -10,14 +10,14 @@ not 8hrs before the flight was about to take off, I could have travelled with
 my sister to Holland.
 
 Instead of trying to get to Paris from a crowded Geneva station in the
-afternoon, I thought it was wiser to go to Zurich and stay with some friends.
+afternoon, I thought it was wiser to go to Zurich and stay with some [friends](http://www.chewhoward.com).
 
 The train fare to Zurich was 50EUR, quite expensive, though I reasoned it would
 be worth it for the good hospitality.
 
 The next day Jamie my determined travelling partner thought it we should catch
 the train to Calais. And that we did, via Basel, Strasbourg, Paris and Lille. We
-heard there were strikes and we had no idea or not if the train fare was a fair
+heard there were **strikes** (no idea where) and we had no idea or not if the train fare was a fair
 one at 200+EUR.
 
 After arriving at the wrong Calais terminal 20 minutes before the last ferry
@@ -53,10 +53,11 @@ entrance](http://www.flickr.com/photos/hendry/4535304927). Once arriving in
 Dover, there are too infrequent buses from terminal to London. Just one every
 hour.
 
-<div class="video">
-    <h4>Mon, 19 Apr 2010 09:37:57 -0700</h4>
-    <video controls poster="http://static.natalian.org/2010-04-19/MVI_1566.THM" src="http://static.natalian.org/2010-04-19/MVI_1566.ogg">
-    <h1>Please upgrade to a <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html">HTML5 video</a> capable browser.</h1>
-    </video>
-    <p><a href="http://static.natalian.org/2010-04-19/MVI_1566.ogg">MVI_1566.ogg</a> Size: 23M</p>
-</div>
+As [mentioned on twitter](http://twitter.com/kaihendry/status/12470666073), the
+UK government sending Royal Navy boats to "unspecified Channel ports" is
+absurd. **FERRIES ARE NOT FULL**.
+
+<video controls poster="http://static.natalian.org/2010-04-19/MVI_1566.THM" src="http://static.natalian.org/2010-04-19/MVI_1566.ogg">
+<h1>Please upgrade to a <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html">HTML5 video</a> capable browser.</h1>
+</video>
+<p><a href="http://static.natalian.org/2010-04-19/MVI_1566.ogg">MVI_1566.ogg</a> Size: 23M</p>
