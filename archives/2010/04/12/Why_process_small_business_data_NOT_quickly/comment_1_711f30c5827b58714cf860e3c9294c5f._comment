@@ -1,0 +1,11 @@
+[[!comment format=mdwn
+ username="http://simon.waters.myopenid.com/"
+ subject="ISDN"
+ date="2010-04-15T12:44:17Z"
+ content="""
+Some of the credit card terminals use to be ISDN. The modem ones you could literally hear dialing, but I thought ISDN was standard now. So sure a few milliseconds slower than a dedicated connection but not 15 seconds. Of course ISDN was more expensive. These days you can get GPRS based, so I'm guessing delays aren't to do with the network speed for many folks.
+
+Barclay's PDQ has an Internet API for ePDQ, as we use it at work for billing. Then again I don't think any of this is terribly well thought out technology.
+
+
+"""]]
