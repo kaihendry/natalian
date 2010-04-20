@@ -24,4 +24,4 @@ are faster, then "refused to comment" about different technologies.
 
 Does anyone know the reason why small businesses seem to be getting screwed here?
 
-Site like <www.barclaycard.co.uk/business/accepting-payments/> really do not make it clear what the charges are. :(
+Site like <http://www.barclaycard.co.uk/business/accepting-payments/> really do not make it clear what the charges are. :(
