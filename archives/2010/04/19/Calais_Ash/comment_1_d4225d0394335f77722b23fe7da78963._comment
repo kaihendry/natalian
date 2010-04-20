@@ -1,0 +1,7 @@
+[[!comment format=mdwn
+ username="http://hendry.iki.fi/"
+ subject="Test"
+ date="2010-04-20T09:20:17Z"
+ content="""
+Test if comments are working. <http://ikiwiki.info/bugs/Comments_dissapeared/>
+"""]]
