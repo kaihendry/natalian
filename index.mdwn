@@ -1,4 +1,7 @@
 [[!inline pages="internal(planet/twitter/*)" template="microblog" show=1 feeds=no]]
+
+## Last five rants
+
 [[!inline pages="./archives/2010/*" show=5 feedshow=5 actions=no archive=yes]]
 
 <nav>
