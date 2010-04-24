@@ -4,6 +4,6 @@
 
 [[!inline pages="./archives/2010/*" show=5 feedshow=5 actions=no archive=yes]]
 
-<nav>
+<div id="menu">
 [[All_archives|Archives]] [[Links]] [[Planet_Kai|Planet]] [Contact Kai](http://hendry.iki.fi/)
-</nav>
+</div>
