@@ -5,6 +5,10 @@
 [[!inline pages="./archives/2010/*" show=5 feedshow=5 actions=no archive=yes]]
 
 <nav>
-# Navigation
-[[All_archives|Archives]] [[Links]] [[Planet_Kai|Planet]] [Contact Kai](http://hendry.iki.fi/)
+## Navigation
+* [[All_archives|Archives]]
+* [[Links]]
+* [[Planet_Kai|Planet]]
+* [Contact Kai](http://hendry.iki.fi/)
+* [Videos](http://video.natalian.org)
 </nav>
