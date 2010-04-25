@@ -1,9 +1,9 @@
 [[!comment format=mdwn
  username="http://hendry.iki.fi/"
- subject="Consult Hyperion"
+ subject="False offline assumption"
  date="2010-04-25T18:28:26Z"
  content="""
-I've enjoyed a long email exchange with Anthony from [Consult Hyperion](http://www.chyp.com), the digital money experts. Here are some quotes:
+I've enjoyed a long email exchange with Anthony from [Consult Hyperion](http://www.chyp.com), the digital money experts. Here is an interesting extract:
 
 	It has to do with the historical install base of PDQ machines being dial-up.
 	The goal of CHIP (EMV) and PIN originally was to get more transactions offline.
@@ -19,15 +19,5 @@ I've enjoyed a long email exchange with Anthony from [Consult Hyperion](http://w
 	upgrade their CHIP and PIN terminals as they have only just upgraded them to
 	CHIP and PIN.  An expensive process built on the assumption more transactions
 	would now be offline, an assumption that proved false.
-
-
-
-
-
-
-
-
-
-
 
 """]]
