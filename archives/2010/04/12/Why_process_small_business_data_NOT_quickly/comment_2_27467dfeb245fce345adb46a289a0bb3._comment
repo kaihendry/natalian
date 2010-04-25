@@ -3,5 +3,31 @@
  subject="Consult Hyperion"
  date="2010-04-25T18:28:26Z"
  content="""
-I've had a long email exchange with Anthony from [Consult Hyperion](http://www.chyp.com), the digital money experts. Here are some quotes:
+I've enjoyed a long email exchange with Anthony from [Consult Hyperion](http://www.chyp.com), the digital money experts. Here are some quotes:
+
+	It has to do with the historical install base of PDQ machines being dial-up.
+	The goal of CHIP (EMV) and PIN originally was to get more transactions offline.
+	However, those peskie fraudsters managed to create fraudulent transactions on
+	Mag stripe cards so when issuers came to issue CHIP and PIN cards some issuers
+	set the cards to go online quite frequently.
+
+	Therefore, the EMV objective to drive more transactions offline and the
+	emergence of high risk card products 'Pre-Paid' mean that more cards will
+	demand to go online all the time.
+
+	However, the poor acquirers have not got the necessary business case (Money) to
+	upgrade their CHIP and PIN terminals as they have only just upgraded them to
+	CHIP and PIN.  An expensive process built on the assumption more transactions
+	would now be offline, an assumption that proved false.
+
+
+
+
+
+
+
+
+
+
+
 """]]
