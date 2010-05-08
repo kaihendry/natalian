@@ -1,0 +1,4 @@
+[[!meta title="tag content_adaption"]]
+
+[[!inline pages="tagged(content_adaption)" actions="no" archive="yes"
+feedshow=10]]
