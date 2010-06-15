@@ -2,9 +2,10 @@ I thought I'd look into getting some allergy tests done, since I think I might
 have a wheat allergy... cue another
 [[rant_about_UK_healthcare|archives/2009/12/26/NHS_and_private_hell]].
 
-My NHS doctor says the NHS does not offer allergy tests anymore and I would
-have to go with say a service provided by the [Guildford
-Clinic](http://www.theguildfordclinic.co.uk/).
+My NHS doctor (all GPs are NHS typically) says the <a
+href="http://en.wikipedia.org/wiki/National_Health_Service_(England)">NHS</a>
+does not offer [allergy tests](http://en.wikipedia.org/wiki/Allergy_testing) anymore and I would have to go with say a service
+provided by the [Guildford Clinic](http://www.theguildfordclinic.co.uk/).
 
 Fine, lets call up AXA PPP healthcare and take advantage of their "Platinum" business cover.
 
