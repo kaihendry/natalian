@@ -1,0 +1,4 @@
+[[!meta title="tag day"]]
+
+[[!inline pages="tagged(day)" actions="no" archive="yes"
+feedshow=10]]
