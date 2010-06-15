@@ -12,13 +12,13 @@ Fine, lets call up [AXA PPP healthcare](http://www.axappphealthcare.co.uk/) and 
 After being put through the right person, the procedure for me to proceed is as follows:
 
 1. Make another appointment with my [GP](http://en.wikipedia.org/wiki/General_practitioner)
-* Pay 15GBP for him to write a referral letter to the relevant body at the Guildford clinic
-* Then call up AXA PPP healthcare again to get authorisation (note that insurers might reject the doctor's referrel choice, then you go back to step 1)
-* If authorised I would have to pay the 100GBP excess again, because although I last paid a 100GBP excess in December 2009, the "excess year" runs only until the beginning of March.
-* Then I make an appointment with the [doctor at the allergy clinic](http://www.allergy-clinic.co.uk)
-* Then I need to get the time off work (1hr)
-* Then I must pay cash, 160GBP for the tests
-* Then I need to claim back for the cash from AXA PPP health care
+1. Pay 15GBP for him to write a referral letter to the relevant body at the Guildford clinic
+1. Then call up AXA PPP healthcare again to get authorisation (note that insurers might reject the doctor's referrel choice, then you go back to step 1)
+1. If authorised I would have to pay the 100GBP excess again, because although I last paid a 100GBP excess in December 2009, the "excess year" runs only until the beginning of March.
+1. Then I make an appointment with the [doctor at the allergy clinic](http://www.allergy-clinic.co.uk)
+1. Then I need to get the time off work (1hr)
+1. Then I must pay cash, 160GBP for the tests
+1. Then I need to claim back for the cash from AXA PPP health care
 
 So as you can see I will out of pocket of about 275GBP until my claim is
 successfully processed, at which time I'll get 160GBP from my private healthcare
