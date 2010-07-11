@@ -1,0 +1,121 @@
+<a href="http://www.flickr.com/photos/hendry/4783122957/" title="IMG_1969 by Kai Hendry, on Flickr"><img src="http://farm5.static.flickr.com/4073/4783122957_919610bf97.jpg" width="500" height="375" alt="IMG_1969"></a>
+
+Online banking in the UK sucks and it's particularly dreadful with [Barclays
+secure online banking](https://ibank.barclays.co.uk/).
+
+Why? Because they only allow you to export approximately the **last 60
+transactions or the last 6 weeks**.
+
+I'm sorry, that's insane. Imagine you could only see your last 60 emails. Could
+you honestly run a business like that?
+
+I've complained to [Barclays](http://www.google.com/finance?q=LON:BARC) and they said I should log in and **Export data** more often. Wtf?
+
+My business relationship manager in the Woking branch said no one has ever
+complained about this before and cut me off as I was desperately trying to
+explain the problem in layman's terms! Brilliant. :/
+
+Next Barclays (telephone banking) offered to send me the paper hard copies of
+archived transactions. Er, do I really want to kill trees and spend my Sunday
+typing up transactions? Indeed [this](http://www.flickr.com/photos/hendry/4783122957) is what happened today. :(
+
+On another occasion a telephone customer service agent informed me that
+Barclays are rolling out a new [E-statement
+service](http://twitter.com/kaihendry/status/18032311657) and unfortunately,
+it's delayed. And from what I've learned, it only allows the export of data to Adobe
+PDF. Bonkers. PDF is absolutely useless for my needs, it's just as useless as
+paper. I imagine next time I'll end up typing PDFs into my editor.  _sigh_ :(
+
+Yes, this is 2010 and yes, UK's service industry is hopelessly uncompetitive
+for Web services. I'll move my account if there is a better alternative.
+
+So what does the exported information [CSV](http://en.wikipedia.org/wiki/Comma-separated_values) look like?
+
+	Number,Date,Account,Amount,Subcategory,Memo
+	,10/03/2010,20-97-58 9047XXXX,-6.77,OTH,DREAMHOST.COM         UNITED STATES
+	,08/03/2010,20-97-58 9047XXXX,-38.31,OTH,WWW.HETZNER.DE        GERMANY
+
+Notice the number field is missing. So there is no way to conveniently identify
+each transaction. :/
+
+I obfuscated the Account number. Tbh, I find this field useless since the awful
+form interface for exporting allows you only to export one account at one time.
+So you would never get a different account number for this field, unless you
+merged CSVs from different accounts or something just as uncommon.
+
+The amount, is thankfully useful, though it would be nice to see a running
+total like the paper Business Current Account Statement shows.
+
+The sub-category **OTH** means something, like overseas transaction I guess. I
+do not know because there is no key and no documentation. Another common
+subcategory is **DIRECTDEP**, which is more obvious [Direct
+Debit](http://en.wikipedia.org/wiki/Direct_debit#United_Kingdom). And
+annoyingly the paper statement has more useful information which is not
+included in the export. For example on the paper statement I can see the
+exchange rate and the commission charge.
+
+Things must improve with online banking. I pay 16.50GBP a month for this brain
+dead service from Barclays. Tbh I am not quite sure how the other UK online
+banking services do, because there is no way to demo them, without opening an
+account. I heard the [Co-Op bank](http://www.co-operativebank.co.uk) is rolling
+out this new [Finacle](http://en.wikipedia.org/wiki/Finacle) software. Again
+there is no way to demo the site and know if anything is better and talking to
+customer services doesn't help as no one seems to know. Since the software
+seems developed in India and in Java, I don't have high hopes with regards to
+its quality and performance.
+
+My prediction is that some heavyweight like Google will enter than banking
+market and it will be like shooting fish in a barrel. The incumbent online
+banking industry needs to seriously wake up. Their conservative attitude has
+created a really crap online banking platform.
+
+Let me leave you with the bizaare FAQ:
+
+	Export Data
+
+	How do I export my data?
+
+	Choose 'Export data' from your At a Glance screen and follow the step by step process. If you need some help when you're exporting data, select the brown 'help' buttons.
+	What happens during data download?
+
+	When you've confirmed your instructions the Data Download will begin. Upon completion you will be returned to the confirmation screen.
+	The export facility will require decisions on whether you want to save the data into a file or load it directly into the financial software package.
+	You may wish to logout of Internet Banking prior to manipulating your data within your financial software package.
+	NOTE: The data download may take a long time, if you select the option for All accounts.
+
+	Files will be saved in a format specific to each package:
+	- Microsoft Money®, Clearlybookkeeping and QuickBooks 2005 software packages require 'ofx' extension at the end of each file.
+	- Microsoft Excel® requires 'csv' extension at the end of each file.
+
+
+	What happens to account data that I have input into my software package that matches the data downloaded?
+
+	That depends on the software package that you are using - please use the Help provided for each software package for details.
+	How often can I download data?
+
+	As often as you like.
+	If I make a transfer or payment using Online Banking, when will it appear on my exported data?
+
+	All transfers or payments that you make through Online Banking will become available for download at the start of the next working day.
+	Can I amend downloaded information?
+
+	Yes.
+	If I export my data do I still receive a bank statement?
+
+	Yes.
+	Does it cost anything to export my data?
+
+	No. But you will have to pay for the cost of the call when you're downloading your data from Online Banking.
+
+lol
+
+	Am I at risk of downloading viruses when I export my data?
+
+	No, rigorous security checks are in place to make sure that you don't have any problems like that.
+	When you have confirmed your instructions the Data Download will begin. Upon completion you will be returned to the confirmation screen.
+	The export facility will require decisions on whether you want to save the data into a file or load it directly into the financial software package.
+	You may wish to logout of Online Banking prior to manipulating your data within your financial software package.
+	Any other questions?
+
+	Please call us on 0845 600 23 23 (outside the UK dial +44 2476 842063). To maintain a quality service, we may monitor or record phone calls. Read call charges info. Lines are open 7am-11pm every day.
+	When you've finished reading, close this window
