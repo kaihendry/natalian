@@ -69,7 +69,7 @@ market and it will be like shooting fish in a barrel. The incumbent online
 banking industry needs to seriously wake up. Their conservative attitude has
 created a really crap online banking platform.
 
-Let me leave you with the bizaare FAQ:
+Let me leave you with the bizaare Barclays Export Data FAQ:
 
 	Export Data
 
@@ -119,3 +119,5 @@ lol
 
 	Please call us on 0845 600 23 23 (outside the UK dial +44 2476 842063). To maintain a quality service, we may monitor or record phone calls. Read call charges info. Lines are open 7am-11pm every day.
 	When you've finished reading, close this window
+
+How's this for transaction API documentation? :)
