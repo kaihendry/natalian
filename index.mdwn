@@ -4,11 +4,10 @@
 
 Thank you for [[commenting|comments]] !
 
-<nav>
 ## Navigation
+
 * [[All_posts|Archives]]
 * [[Links]]
 * [[Planet_Kai|Planet]]
 * [Contact Kai](http://hendry.iki.fi/)
 * [Videos](http://video.natalian.org)
-</nav>
