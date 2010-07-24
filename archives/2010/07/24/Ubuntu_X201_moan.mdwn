@@ -1,0 +1,45 @@
+Excuse me, I think I have turned into a cynical miserable bastard. When I first
+installed Debian on my laptop I was full of enthusiasm. Same goes for when
+Ubuntu came about. Though with 10.04 installed recently on my new X201 i7
+Thinkpad, I am wondering are things getting better?
+
+Thinkpad hardware issues aside, Ubuntu admittedly does the install process
+extremely well. The initial layout of a Lenovo laptop looks like
+
+1. recovery 10GB
+2. main bit 400GB
+3. hibernation 50GB
+
+The automatic one resized the hibernation partition for Ubuntu to sit in a
+~20GB partition. Bit lame, thankfully the advanced setup allowed me to set it
+up like so:
+
+
+	hendry@x201 ~$ cat /proc/partitions
+	major minor  #blocks  name
+
+	   8        0  488386584 sda
+	   8        1    1228800 sda1
+	   8        2   98008789 sda2
+	   8        3   10240000 sda3
+	   8        4          1 sda4
+	   8        5  375000064 sda5
+	   8        6    3905536 sda6
+
+With sda5 being my ext4 root and sda my swap.
+
+# No Gnome thanks
+
+Gnome is a fucking abomination. Sadly installing dwm and executing `sudo
+update-alternatives --config x-window-manager` wasn't enough to restore sanity.
+
+I had to remove gdm and now every time I boot Ubuntu, it seems to think X has
+crashed. Next problem is plymouth or whatever the fuck their crazy splash
+system is. `/sbin/plymouthd` now consume resources constantly in the background
+and trying to uninstall it make Ubuntu basically want to uninstall everything.
+
+Whose bright idea was that?
+
+Next problem I have is sound is working. Thinkpad bears the most boring common
+HDA Intel sound card, yet sound doesn't work and `alsaconf` does not exist on
+Ubuntu. _Sigh_
