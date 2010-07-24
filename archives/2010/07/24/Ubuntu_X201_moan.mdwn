@@ -40,6 +40,6 @@ and trying to uninstall it make Ubuntu basically want to uninstall everything.
 
 Whose bright idea was that?
 
-Next problem I have is sound is working. Thinkpad bears the most boring common
-HDA Intel sound card, yet sound doesn't work and `alsaconf` does not exist on
-Ubuntu. _Sigh_
+Next problem I have is sound is **not working**. Thinkpad sports the most
+boring common HDA Intel sound card, yet sound doesn't work and `alsaconf` does
+not exist on Ubuntu. _Sigh_
