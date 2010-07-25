@@ -1,0 +1,7 @@
+[[!comment format=mdwn
+ username="https://me.yahoo.com/sparklewhiskers#9fdc2"
+ subject="Arch?"
+ date="2010-07-24T16:08:14Z"
+ content="""
+The things you mention are annoying, but if you don't want gnome and use a tiling wm then why not install Arch linux? My idle memory usage went from 23% to 3% and load average from something near 1.00 to near zero. Ubuntu  put a lot of effort into parallelising start up for a faster boot, but if you don't start tens of unnecessary services you get a fast boot anyway.  
+"""]]
