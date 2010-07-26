@@ -1,3 +1,5 @@
+<a href="http://www.flickr.com/photos/hendry/4827727976/" title="I7 core by Kai Hendry, on Flickr"><img src="http://farm5.static.flickr.com/4075/4827727976_3fcc89379b.jpg" width="500" height="375" alt="I7 core" /></a>
+
 Excuse me, I think I have turned into a cynical miserable bastard. When I first
 installed Debian on my laptop I was full of enthusiasm. Same goes for when
 Ubuntu came about. Though with 10.04 installed recently on my new X201 i7
@@ -40,6 +42,15 @@ and trying to uninstall it make Ubuntu basically want to uninstall everything.
 
 Whose bright idea was that?
 
-Next problem I have is sound is **not working**. Thinkpad sports the most
-boring common HDA Intel sound card, yet sound doesn't work and `alsaconf` does
-not exist on Ubuntu. _Sigh_
+Things not working:
+
+* Sound after `sudo /etc/acpi/sleep.sh`
+* Some times USB (no power) after `sudo /etc/acpi/sleep.sh`
+* Some times completely fails to wake up after `sudo /etc/acpi/sleep.sh`
+* Only ~5hrs on 9cell
+* wifi fails to resume after suspend
+* have not figured out wpa_supplicant in Ubuntu, therefore heavily relying on my Froyo's excellent USB tethering for connecting to WPA secured wifi networks
+
+# TODO
+
+After [debconf10](http://debconf10.debconf.org/) I'm installing [archlinux](http://www.archlinux.org).
