@@ -32,7 +32,7 @@ With sda5 being my ext4 root and sda my swap.
 
 # No Gnome thanks
 
-Gnome is a fucking abomination. Sadly installing dwm and executing `sudo
+Gnome is a fucking abomination. Sadly installing [dwm](http://dwm.suckless.org) and executing `sudo
 update-alternatives --config x-window-manager` wasn't enough to restore sanity.
 
 I had to remove gdm and now every time I boot Ubuntu, it seems to think X has
@@ -44,11 +44,11 @@ Whose bright idea was that?
 
 Things not working:
 
-* Sound after `sudo /etc/acpi/sleep.sh`
+* Sound after `sudo /etc/acpi/sleep.sh`, [fixed](http://git.webconverger.org/?p=home.git;a=blob;f=.bashrc;h=8ba57b877e31a03c5f0b1675b42f747d81dd31ad;hb=2a74168bc9562b441232bc38d2dd7a5f72c11002#l31)
 * Some times USB (no power) after `sudo /etc/acpi/sleep.sh`
 * Some times completely fails to wake up after `sudo /etc/acpi/sleep.sh`
 * Only ~5hrs on 9cell
-* wifi fails to resume after suspend
+* wifi fails to resume after suspend :(
 * have not figured out wpa_supplicant in Ubuntu, therefore heavily relying on my Froyo's excellent USB tethering for connecting to WPA secured wifi networks
 
 # TODO
