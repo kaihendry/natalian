@@ -23,7 +23,7 @@ to free software Web application projects. This will make the opensource Web
 services competitive in all important page load times and perhaps make it
 easier for user contributed data to be exported and "open".
 
-I have [server space in Germany](http://webconverger.org/hetty) I'm happy to
+I have [Debian server space in Germany](http://webconverger.org/hetty) I'm happy to
 contribute to [Francois's avatar project](https://launchpad.net/libravatar) and other similar opensource Web apps. If you
 think this is a good idea, please get in touch.
 
