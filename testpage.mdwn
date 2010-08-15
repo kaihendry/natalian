@@ -1,0 +1,10 @@
+
+Welcome to your new wiki.
+
+Test page.
+
+----
+
+
+[[!tag  debian ]]
+
