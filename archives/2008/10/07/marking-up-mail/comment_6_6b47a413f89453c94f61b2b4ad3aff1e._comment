@@ -1,0 +1,32 @@
+[[!comment format=mdwn
+ username="http://hendry.iki.fi/"
+ subject="maildir2archives"
+ date="2010-08-12T14:23:22Z"
+ content="""
+<pre>
+#!/bin/bash
+
+export HM_SHOWHTML=1
+export HM_LINKQUOTES=1
+export HM_SHOWHEADERS=1
+export HM_DEFAULTINDEX=\"thread\"
+for i in ~/Mail/*/
+do
+
+        LABEL=$(basename $i)
+        WWWDIR=/srv/www/archive.dabase.com/$LABEL
+
+        for mail in $i/cur/*
+        do
+                echo $mail
+                hypermail -L en -l $LABEL -i -u -d $WWWDIR < $mail
+        done
+
+
+done
+
+sudo chown hendry:www-data -R $WWWDIR
+</pre>
+
+:(
+"""]]

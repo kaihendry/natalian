@@ -1,0 +1,19 @@
+[[!comment format=mdwn
+ username="http://karl.dubost.myopenid.com/"
+ subject="A few links on List Web Archive"
+ date="2010-08-12T13:16:15Z"
+ content="""
+* [Sympa](http://www.sympa.org/) - A product developed by French at the start. 
+* [SWAML](http://swaml.berlios.de/) not tested
+* [Communigate](http://www.communigate.com/WebGuide/LIST.html) - not tested
+* [RESTmail](http://www.prescod.net/rest/restmail/) - not strictly what you are looking for, but another way of thinking about it.
+
+Another issue once, it has been archived on the Web… Search engine for mail data. 
+
+* [MASE](http://www.w3.org/Search/Mail/Devel) W3C version done by Olivier Théreaux and Eric Prud'hommeaux. 
+
+Maybe a good way to think about that issue is not that much a Web archive, but more about dynamic views of the mails. Example: Show me this mailing-list, Show me the thread of this discussions. etc. (ala Spotlight in Mail.app) Then we enter into performance, caching issues ;)
+
+
+
+"""]]
