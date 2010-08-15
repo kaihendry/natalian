@@ -6,5 +6,5 @@ Test page.
 ----
 
 
-[[!tag  debian ]]
+[[!tag  tech ]]
 

@@ -1,1 +1,1 @@
-[[!inline pages="link(Debian)"]]
+[[!inline pages="link(tech)"]]
