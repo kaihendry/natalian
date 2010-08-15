@@ -27,4 +27,4 @@ I have [Debian server space in Germany](http://webconverger.org/hetty) I'm happy
 contribute to [Francois's avatar project](https://launchpad.net/libravatar) and other similar opensource Web apps. If you
 think this is a good idea, please get in touch.
 
-[[!tag Debian web]]
+[[!tag debian web ]]
