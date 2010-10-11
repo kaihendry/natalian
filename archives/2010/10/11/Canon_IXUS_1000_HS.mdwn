@@ -1,19 +1,19 @@
 <object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/-G7rWguuTbQ"></param><param name="wmode" value="transparent"></param>
 <embed src="http://www.youtube.com/v/-G7rWguuTbQ" type="application/x-shockwave-flash" wmode="transparent" width="640" height="385"></embed></object>
 
-I've upgraded from the [Canon IXUS 980IS](http://www.flickr.com/cameras/canon/powershot_sd990_is/) to a [Canon IXUS 1000 HS](http://www.canon.co.uk/For_Home/Product_Finder/Cameras/Digital_Camera/IXUS/IXUS_1000_HS/)
+I've upgraded from the [Canon IXUS 980IS](http://www.flickr.com/cameras/canon/powershot_sd990_is/) to a [Canon IXUS 1000 HS](http://www.canon.co.uk/For_Home/Product_Finder/Cameras/Digital_Camera/IXUS/IXUS_1000_HS/).
 
 Since the "IXUS 1000" is a 10th anniversary device on the IXUS range, of which
 I've been a fan, I was expecting this model to be particularly good.
 
 Unfortunately my experience with the [Canon IXUS 1000
 HS](http://www.flickr.com/cameras/canon/72157624832837217/) has
-been flawed, which I hope Canon will address in future.
+been flawed, which I hope <a href="http://en.wikipedia.org/wiki/Canon_(company)">Canon</a> will address in future.
 
 Since it's longer than any other IXUS I've ever owned, there is no neat leather
 case that fits this device. I've [asked
 Canon](http://twitter.com/#!/kaihendry/status/26547523641) to no reply, about a
-case that can fix this. The support channel on their Website failed. :(
+case that can fix this. The support channel on their Website failed. :( So after-sales sucks.
 
 The "super slow motion" video quality is very poor. :(
 
@@ -26,12 +26,13 @@ the videos to a sane size? The camera can't take videos longer than 10 minutes
 which is a little sucky.
 
 I've yet to fully understand "FULL HD". So far the playback just seems big, yet
-when I hit HD on Youtube/Vimeo/BBC Iplayer, it just seems sharper. So there is
-some mis-match of expectations on my part.
+when I hit the **HD button** on Youtube/Vimeo/BBC Iplayer, it just seems sharper.
+So there is some mis-match of expectations on my part.
 
 I don't like having to press the power button to playback some pictures. On my
 previous camera, all I needed to do is press the "play button", now it's a 2
-step process with the camera lens protruding. :(
+step process with the camera lens protruding. :( UPDATE: If you **HOLD** the
+play button, the camera does come online.
 
 The battery life seems poorer than the previous model. The battery pack itself
 is a incompatible size to the previous model(s). :(
@@ -40,12 +41,12 @@ The build chassis doesn't feel very solid. It feels plasticky. Perhaps there is
 a better build version of this camera that has alluded me. I can't tell which
 models will be made to a better specification.
 
-Wish there was RAW mode so I could try [WebP](http://code.google.com/speed/webp/)
+Wish there was RAW mode so I could try [WebP](http://code.google.com/speed/webp/).
 
 Sometimes [photos seem terribly unsharp](http://www.flickr.com/photos/hendry/5071618462/) which I have not noticed on my previous camera
 
 In other news I am [trying to work
 out](https://groups.google.com/a/webmproject.org/group/webm-discuss/browse_thread/thread/e10a0e0155c24c54#)
 what sort of post-processing I need to do in order to put the videos up on
-<http://video.natalian.org/>. I've gone off **ffmpeg2theora** since it segfaults on
-these large MOVs doing a free at the very end of encoding.
+<http://video.natalian.org/>. I've gone off **ffmpeg2theora** since it
+segfaults on these large MOVs doing a `free()` at the very end of re-encoding.
