@@ -9,7 +9,7 @@
 
 <a href="http://www.flickr.com/photos/hendry/2650817958/" title="withcue by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3149/2650817958_56f27d10fd_o.png" width="708" height="140" alt="withcue" /></a>
 
-<p>16 Colours provide instant visual feedback that there is a difference between the two form fields. That&#8217;s a <a href="http://getacue.dabase.com/demo.html">4 bit Web form error detection using md5</a>.</p>
+<p>16 Colours provide instant visual feedback that there is a difference between the two form fields. That&#8217;s a <a href="http://q.dabase.com">4 bit Web form error detection using md5</a>.</p>
 
 <p>When you enter the same data again and again in form fields like your:<br />
 * username<br />
@@ -25,10 +25,10 @@
 
 <p>So a cue is especially applicable in mobile environs. Anywhere I imagine were copy&amp;paste is not easy to do.</p>
 
-<p>Of course a cue does not have to be a <a href="http://getacue.dabase.com/demo.html">colour cue checksum</a>. A &#8216;cue&#8217; could be some other <strong>easily recognisable symbol</strong> like <a href="http://en.wikipedia.org/wiki/Wingdings">Wingdings</a>, different <span class="caps">CSS</span> styling like border styles, Unicode symbols, <a href="http://en.wikipedia.org/wiki/Playing_cards">playing card symbols</a> and so on.</p>
+<p>Of course a cue does not have to be a <a href="http://q.dabase.com">colour cue checksum</a>. A &#8216;cue&#8217; could be some other <strong>easily recognisable symbol</strong> like <a href="http://en.wikipedia.org/wiki/Wingdings">Wingdings</a>, different <span class="caps">CSS</span> styling like border styles, Unicode symbols, <a href="http://en.wikipedia.org/wiki/Playing_cards">playing card symbols</a> and so on.</p>
 
-<p>So I encourage you to please try my initial implementation called <a href="http://getacue.dabase.com/">&#8220;Get a cue&#8221;</a> with Web form input elements. For the developers amongst you, please look at the <a href="http://git.webconverger.org/?p=cue.git"><span class="caps">BSD</span> licensed code</a>. <a href="http://hendry.iki.fi/">Feedback and patches are very welcome.</a></p>
+<p>So I encourage you to please try my initial implementation called <a href="http://q.dabase.com/">&#8220;Get a cue&#8221;</a> with Web form input elements. For the developers amongst you, please look at the <a href="http://git.webconverger.org/?p=cue.git"><span class="caps">BSD</span> licensed code</a>. <a href="http://hendry.iki.fi/">Feedback and patches are very welcome.</a></p>
 
 <p>Hopefully a defacto &#8216;cue&#8217; <a href="http://en.wikipedia.org/wiki/Category:Error_detection_and_correction">error detection algorithm</a> rises to the top that will help everyone improve their input quality.</p>
 
-<h4>&gt; <a href="javascript:var%20s=document.createElement('script');s.setAttribute('src',%20'http://getacue.dabase.com/getacue.js');document.getElementsByTagName('body')[0].appendChild(s);void(s);">get a cue</a> &lt;</h4>
+<h4><a href="javascript:var%20s=document.createElement('script');s.setAttribute('src','http://q.dabase.com/getacue.js');document.getElementsByTagName('body')[0].appendChild(s);void(s);">get a cue</a></h4>

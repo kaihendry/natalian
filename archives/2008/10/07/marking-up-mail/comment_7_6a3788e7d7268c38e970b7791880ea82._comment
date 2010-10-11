@@ -1,0 +1,7 @@
+[[!comment format=mdwn
+ username="http://hendry.iki.fi/"
+ subject="Ongoing"
+ date="2010-10-03T16:51:40Z"
+ content="""
+I'm working very slowly on a [tool to generate Web archives from a maildir](http://m.dabase.com/) using dovecot2.
+"""]]
