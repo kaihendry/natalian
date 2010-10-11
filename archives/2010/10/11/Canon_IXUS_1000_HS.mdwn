@@ -20,7 +20,10 @@ case. Seems to retail at 20GBP :(
 
 The "super slow motion" video quality is very poor. :(
 
-I don't like the top slider. It feels fragile. I'm amazed they couldn't do without it, especially considering there is a dedicated video record button.
+I don't like the top slider. It feels fragile. I'm amazed they couldn't do
+without it, especially considering there is a dedicated video record button.
+When you are in the "video mode" if you press the shutter, it takes a picture
+which seems a little counter-intuitive to me.
 
 The zoom is good, but since it's a compact, I really doubt I will use it as it's so hard to keep it steady in one's hand.
 
