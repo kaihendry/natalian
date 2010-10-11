@@ -1,11 +1,12 @@
 <object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/-G7rWguuTbQ?fs=1&amp;hl=en_GB"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-G7rWguuTbQ?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
 
-I've upgraded from the IXUS 950IS to a [Canon IXUS 1000 HS](http://www.canon.co.uk/For_Home/Product_Finder/Cameras/Digital_Camera/IXUS/IXUS_1000_HS/)
+I've upgraded from the [Canon IXUS 980IS](http://www.flickr.com/cameras/canon/powershot_sd990_is/) to a [Canon IXUS 1000 HS](http://www.canon.co.uk/For_Home/Product_Finder/Cameras/Digital_Camera/IXUS/IXUS_1000_HS/)
 
 Since it was a 10th anniversary device on the IXUS range, of which I've been a fan, I was expecting this model to be particularly good.
 
-Unfortunately my experience with the Canon IXUS 1000 HS has some major
-disappointments.
+Unfortunately my experience with the [Canon IXUS 1000
+HS](http://www.flickr.com/cameras/canon/72157624832837217/) has
+disappointments, which I hope Canon will address in future.
 
 Since it's longer than any other IXUS I've ever owned, there is no neat leather
 case that fits this device. I've [asked
@@ -14,17 +15,25 @@ case that can fix this. The support channel on their Website failed. :(
 
 The "super slow motion" video quality is very poor. :(
 
-I don't like the top slider. It feels fragile.
+I don't like the top slider. It feels fragile. I'm amazed they couldn't do without it, especially considering there is a dedicated video record button.
 
 The zoom is good, but since it's a compact, I really doubt I will use it as it's so hard to keep it steady in one's hand.
 
-The videos it records are just gigantic. Can't I expect the camera to properly
-encode the videos to be sane.
+The videos it records are just gigantic. Can't I expect the camera to encode
+the videos to a sane size? The camera can't take videos longer than 10 minutes
+which is a little sucky.
 
 I don't like having to press the power button to playback some pictures. On my
 previous camera, all I needed to do is press the "play button", now it's a 2
 step process with the camera lens protruding. :(
 
-The battery life seems poorer than the previous model and it's also incompatible size to the previous model(s). :(
+The battery life seems poorer than the previous model and it's also
+incompatible size to the previous model(s). :(
 
-The build chassis doesn't feel very solid. It feels plastic-y.
+The build chassis doesn't feel very solid. It feels plasticky. Perhaps there is
+a better build version of this camera that has alluded me. I can't tell which
+models will be made to a better specification.
+
+Wish there was RAW mode so I could try [WebP](http://code.google.com/speed/webp/)
+
+Sometimes [photos seem terribly unsharp](http://www.flickr.com/photos/hendry/5071618462/) which I have not noticed on my previous camera
