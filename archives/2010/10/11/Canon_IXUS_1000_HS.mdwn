@@ -1,4 +1,5 @@
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/-G7rWguuTbQ?fs=1&amp;hl=en_GB"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-G7rWguuTbQ?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/-G7rWguuTbQ"></param><param name="wmode" value="transparent"></param>
+<embed src="http://www.youtube.com/v/-G7rWguuTbQ" type="application/x-shockwave-flash" wmode="transparent" width="640" height="385"></embed></object>
 
 I've upgraded from the [Canon IXUS 980IS](http://www.flickr.com/cameras/canon/powershot_sd990_is/) to a [Canon IXUS 1000 HS](http://www.canon.co.uk/For_Home/Product_Finder/Cameras/Digital_Camera/IXUS/IXUS_1000_HS/)
 
