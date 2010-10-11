@@ -18,7 +18,7 @@ after-sales sucks. Update: I have found the model number
 [DCC-1700](http://www.google.co.uk/products?q=DCC-1700) for the right fitting
 case. Seems to retail at 20GBP :(
 
-The "super slow motion" video quality is very poor. :(
+The "super slow motion" video quality is very poor. :( It's probably related to the Image Stabilisation (IS).
 
 I don't like the top slider. It feels fragile. I'm amazed they couldn't do
 without it, especially considering there is a dedicated video record button.
