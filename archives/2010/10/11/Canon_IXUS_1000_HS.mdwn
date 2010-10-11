@@ -13,7 +13,10 @@ been flawed, which I hope <a href="http://en.wikipedia.org/wiki/Canon_(company)"
 Since it's longer than any other IXUS I've ever owned, there is no neat leather
 case that fits this device. I've [asked
 Canon](http://twitter.com/#!/kaihendry/status/26547523641) to no reply, about a
-case that can fix this. The support channel on their Website failed. :( So after-sales sucks.
+case that can fix this. The support channel on their Website failed. :( So
+after-sales sucks. Update: I have found the model number
+[DCC-1700](http://www.google.co.uk/products?q=DCC-1700) for the right fitting
+case. Seems to retail at 20GBP :(
 
 The "super slow motion" video quality is very poor. :(
 
@@ -50,3 +53,8 @@ out](https://groups.google.com/a/webmproject.org/group/webm-discuss/browse_threa
 what sort of post-processing I need to do in order to put the videos up on
 <http://video.natalian.org/>. I've gone off **ffmpeg2theora** since it
 segfaults on these large MOVs doing a `free()` at the very end of re-encoding.
+
+The [IXUS 1000 HS
+FAQ](http://www.canon.co.uk/Support/Consumer_Products/products/cameras/Digital_Compact/Digital_IXUS_series/IXUS_1000_HS.aspx)
+is interesting if you managed to get there without the constant "Internal
+server errors" of Canon's poor Website.
