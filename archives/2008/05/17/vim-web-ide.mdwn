@@ -2,10 +2,7 @@
 [[!meta date="2008-05-17 01:49:11" ]]
 [[!tag vim General html5 webdev ide Debian]]
 
-<video controls src="http://static.natalian.org/2010-10-24/html5-vim.ogv">
-<h1>Please upgrade to a <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html">HTML5 video</a> capable browser with OGG video support.</h1>
-</video>
-<p><a href="http://static.natalian.org/2010-10-24/html5-vim.ogv">html5-vim.ogv</a> Size: 17M</p>
+<video controls src="http://static.natalian.org/2010-10-24/html5-vim.ogv" />
 
 <p>To follow this little <a href="http://www.youtube.com/watch?v=Y45EbTLZGF0">screencast tutorial on editing Web applications</a>:</p>
 
