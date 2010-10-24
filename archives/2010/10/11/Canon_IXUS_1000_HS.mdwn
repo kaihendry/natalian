@@ -35,7 +35,12 @@ I've yet to fully understand "FULL HD". So far the playback just seems big, yet
 when I hit the **HD button** on Youtube/Vimeo/BBC Iplayer, it just seems sharper.
 So there is some mis-match of expectations on my part.
 
-HD movies on the menu hint claims it is recording at 1920x1080, in reality it is recording at **1920x1088**, which results in a whole host of ugly scaling problems when re-encoding from MOV. :(
+Videos taken on my older IXUS 980IS had a helpful thumbnail. Unfortunately no
+thumbnail is created by the IXUS 1000 HS. :/
+
+HD movies on the menu hint claims it is recording at 1920x1080, in reality it
+is recording at **1920x1088**, which results in a whole host of ugly scaling
+problems when re-encoding from MOV. :(
 
 I don't like having to press the power button to playback some pictures. On my
 previous camera, all I needed to do is press the "play button", now it's a 2
