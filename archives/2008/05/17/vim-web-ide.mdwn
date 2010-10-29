@@ -2,7 +2,7 @@
 [[!meta date="2008-05-17 01:49:11" ]]
 [[!tag vim General html5 webdev ide Debian]]
 
-<video controls src="http://static.natalian.org/2010-10-24/html5-vim.ogv" />
+<video width="640" height="360" controls src="http://static.natalian.org/2010-10-24/html5-vim.ogv" />
 
 To follow this little screencast tutorial on editing Web applications, take a
 deep breath and read <http://wiki.whatwg.org/wiki/IDE>.
