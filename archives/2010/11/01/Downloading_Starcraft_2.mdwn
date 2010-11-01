@@ -1,0 +1,44 @@
+Last weekend I went to <http://prazefarm.co.uk> to play some [Starcraft
+2](http://www.starcraft2.com/) and to install a
+[WZR-HP-G300NH](http://www.buffalotech.com/products/wireless/nfiniti-wireless-n/nfiniti-wireless-n-high-power-router-access-point-wzr-hp-g300nh/),
+to make the house fully Wireless-N. I will blog about the WZR-HP-G300NH and the
+house's networking setup in the future.
+
+To my surprise, downloading Starcraft 2 involved a bit torrent client and about
+7G to download. The Internet speed at [Praze Farm](http://prazefarm.co.uk/) is
+roughly 5mbit down and it estimated the download at about 5hrs, which
+progressively got a lot worse as time wore on.
+
+It was only much later in the night, I realised there was a "direct download
+option" in the client, which greatly sped up the download despite the warnings
+it would be slower.
+
+<a href="http://www.flickr.com/photos/hendry/5131125124/" title="P2P versus direct download by Kai Hendry, on Flickr"><img src="http://farm2.static.flickr.com/1352/5131125124_775999f167_o.png" width="1041" height="116" alt="P2P versus direct download" /></a>
+
+# The upload channel choaks the download channel
+
+On ADSL especially, with its limited upload channel, when you start doing bit
+torrent (peer to peer) traffic, which requires you to **upload**, the
+connection gets unstable. Unstable in the sense the download channel become
+erratic. The best way to combat that this, is to deploy Quality of
+Service(Qos), which I've yet to configure on the WZR-HP-G300NH.
+
+I'm a little pissed off that I have to setup QoS in the first place. Only
+fairly decent routers flashed with dd-wrt like the WZR-HP-G300NH offer sane QoS
+features. And then when you set QoS up you need to put in your ADSL limits.
+Once you've setup your limits on the router, say 5mbit down and half a mbit up,
+if the connection into that router ever improves (or drastically worsens), the
+router won't bloody care, because it's basically locked to 5mbit down. That
+sucks.
+
+# What about over supply instead of QoS?
+
+My parents aren't heavy users like I am of the Internet, so they're on a
+roughly 21GBP a month package supplied by the excellent [Andrews &
+Arnold](http://aaisp.net/) (AAISP).
+
+The BT line rental is roughly 11GBP, so lets say 35GBP a month for quality
+baseline broadband Internet. AAISP offer bonded lines for something like
+£42.56+VAT, which I would like to look into. This seemingly might double the
+cost of Internet, though if this works, I would be very pleased to get a 10mbit
+connection in the Cornish countryside.
