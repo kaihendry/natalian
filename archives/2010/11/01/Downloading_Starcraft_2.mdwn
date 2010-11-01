@@ -15,7 +15,7 @@ it would be slower.
 
 <a href="http://www.flickr.com/photos/hendry/5131125124/" title="P2P versus direct download by Kai Hendry, on Flickr"><img src="http://farm2.static.flickr.com/1352/5131125124_775999f167_o.png" width="1041" height="116" alt="P2P versus direct download" /></a>
 
-# The upload channel choaks the download channel
+# The upload channel chokes the download channel
 
 On ADSL especially, with its limited upload channel, when you start doing bit
 torrent (peer to peer) traffic, which requires you to **upload**, the
