@@ -9,7 +9,7 @@ you want to write a letter.
 
 <video controls src="http://static.natalian.org/2010-11-10/letter.ogv" />
 
-* In this tutorial I use [Ubuntu](http://www.ubuntu.com) 10.10's vim 7.2 with <http://wiki.whatwg.org/wiki/IDE>
+* In this tutorial I use [Ubuntu](http://www.ubuntu.com) 10.10's vim 7.2 with <http://wiki.whatwg.org/wiki/IDE> and my [.vimrc](http://git.webconverger.org/?p=home.git;a=blob;f=.vimrc)
 * <http://princexml.com> to generate the PDF
 * Acroread (PDF reader) and the CTRL+R shortcut as it unfortunately does not auto-reload a changed file
 * A [Makefile](http://static.natalian.org/2010-11-10/Makefile) used with vim's `set makeprg=`
