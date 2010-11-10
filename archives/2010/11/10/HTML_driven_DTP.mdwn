@@ -1,0 +1,14 @@
+Editing in OpenOffice or Latex IMO is just insane. The complexity and bloat are
+just out of this world.
+
+Latex I concede is still the best choice if you are doing Maths, however lets
+say you know a bit of HTML & CSS and you want to write a letter.
+
+<video width="640" height="360" controls src="http://static.natalian.org/2010-11-10/letter.ogv" />
+
+* In this tutorial I use Ubuntu 10.10's vim 7.2 with <http://wiki.whatwg.org/wiki/IDE>
+* <http://princexml.com> to generate the PDF
+* Acroread and the CTRL+R shortcut as it unfortunately does not auto-reload a changed file
+* A [Makefile](http://static.natalian.org/2010-11-10/Makefile) used with vim's `set makeprg=`
+* A [letter template](http://static.natalian.org/2010-11-10/letter.html)
+* [markdown](http://packages.qa.debian.org/m/markdown.html)

@@ -60,7 +60,7 @@ models will be made to a better specification.
 
 Wish there was RAW mode so I could try [WebP](http://code.google.com/speed/webp/).
 
-Sometimes [photos seem terribly unsharp](http://www.flickr.com/photos/hendry/5071618462/) which I have not noticed on my previous camera
+Sometimes [photos seem terribly unsharp](http://www.flickr.com/photos/hendry/5071618462/) which I have not noticed on my previous camera. :(
 
 In other news I am [trying to work
 out](https://groups.google.com/a/webmproject.org/group/webm-discuss/browse_thread/thread/e10a0e0155c24c54#)
