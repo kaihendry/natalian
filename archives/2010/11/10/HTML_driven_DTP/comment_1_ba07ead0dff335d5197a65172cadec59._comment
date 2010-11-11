@@ -1,0 +1,7 @@
+[[!comment format=mdwn
+ username="http://lepaul.livejournal.com/"
+ subject="comment 1"
+ date="2010-11-11T12:33:51Z"
+ content="""
+Hey thanks for that. This is an issue that has occupied me in recent years. When I began writing my dissertation I considered doing it in LaTeX, but what's been holding me back primarily is that some humanities publishers still demand copy in the Microsoft format, and as you say the TeX universe is as bloated as oOo... HTML/markdown really should be the way to go, but I haven't yet found a way of making that work for my actual research. I'll start looking into a CSS layout for footnotes, headers, and page numbers and the like...
+"""]]
