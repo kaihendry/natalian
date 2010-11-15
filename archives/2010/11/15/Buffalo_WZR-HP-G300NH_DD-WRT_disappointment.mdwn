@@ -16,7 +16,7 @@ with
 
 <a href="http://www.flickr.com/photos/hendry/5176794484/" title="71mW versus 15dBm by Kai Hendry, on Flickr"><img src="http://farm5.static.flickr.com/4127/5176794484_f859270f1d.jpg" width="500" height="313" alt="71mW versus 15dBm" /></a>
 
-* For me the [WZR-HP-G300NH](http://www.dd-wrt.com/wiki/index.php/Buffalo_WZR-HP-G300NH) is less powerful than the [WRT54G](http://www.dd-wrt.com/wiki/index.php/Linksys_WRT54G/GL/GS/GX)
+* For me the [WZR-HP-G300NH](http://www.dd-wrt.com/wiki/index.php/Buffalo_WZR-HP-G300NH) is less powerful than the [WRT54G](http://www.dd-wrt.com/wiki/index.php/Linksys_WRT54G/GL/GS/GX) (ironically the "HP" stands for High Power)
 * It fluctuates in speed and power, and just has an unpredictable unstable feel to it (could this be a "feature" of [Wireless-N](http://en.wikipedia.org/wiki/IEEE_802.11#802.11n) ?? )
 
 
