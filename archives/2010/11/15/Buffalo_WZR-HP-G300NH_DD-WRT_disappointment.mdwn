@@ -5,7 +5,7 @@ Despite the [DD-WRT](http://dd-wrt.com) [partnership with Buffalo hardware](http
 If you bother to crawl the DD-WRT forums
 [several](http://www.dd-wrt.com/phpBB2/viewtopic.php?t=82571)
 [threads](http://www.dd-wrt.com/phpBB2/viewtopic.php?t=78294) talk about how
-unstable and disspointing V24-SP2 build 14998 DD-WRT (Professional) firmware
+[unstable](http://www.dd-wrt.com/phpBB2/viewtopic.php?t=82316) and disspointing V24-SP2 build 14998 DD-WRT (Professional) firmware
 is.
 
 Compare
@@ -25,13 +25,13 @@ forum](http://forums.buffalotech.com/t5/Wireless/15dBm-signal-lock/td-p/44768)
 goes un-answered, and contacting Buffalo directly is a sad redirect to (ref:
 107218) <http://www.dd-wrt.com/phpBB2/> for support.
 
-This sadly seems to be some poor execution and followup by Buffalo. Firstly you
-need someone with a clue answer people's questions on the DD-WRT forums if you
-won't support DD-WRT on your [Buffalo forums](http://forums.buffalotech.com/).
-The "professional" DD-WRT is hardly niche, it's far easier to use than the
-default firmware.
+This sadly seems to be some poor execution and followup by Japanese
+[Buffalo](http://en.wikipedia.org/wiki/Melco). Firstly you need someone with a
+clue answer people's questions on the DD-WRT forums if you won't support DD-WRT
+on your [Buffalo forums](http://forums.buffalotech.com/).  The "professional"
+DD-WRT is hardly niche, it's far easier to use than the default "stock" firmware.
 
 Someone in Buffalo and DD-WRT obviously tried to make this work, but failed
 somewhere. Still I really hope you address peoples' complaints and issue a fix
 and try give your users support. Otherwise you are really going to screw your
-brand Buffalo.
+brand over Buffalo. :(
