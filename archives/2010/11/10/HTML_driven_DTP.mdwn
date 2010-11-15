@@ -15,3 +15,6 @@ you want to write a letter.
 * A [Makefile](http://static.natalian.org/2010-11-10/Makefile) used with vim's `set makeprg=`
 * A [letter template](http://static.natalian.org/2010-11-10/letter.html)
 * [markdown](http://packages.qa.debian.org/m/markdown.html)
+
+Or you can use the Web application <http://letterly.com> which hides all that
+nasty LaTeX behind a HTML5 form.
