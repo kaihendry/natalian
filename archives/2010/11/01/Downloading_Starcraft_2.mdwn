@@ -1,8 +1,7 @@
 Last weekend I went to <http://prazefarm.co.uk> to play some [Starcraft
 2](http://www.starcraft2.com/) and to install a
 [WZR-HP-G300NH](http://www.buffalotech.com/products/wireless/nfiniti-wireless-n/nfiniti-wireless-n-high-power-router-access-point-wzr-hp-g300nh/),
-to make the house fully Wireless-N. I will blog about the WZR-HP-G300NH and the
-house's networking setup in the future.
+to make the house fully Wireless-N. See the details on my [WZR-HP-G300NH](/archives/2010/11/15/Buffalo_WZR-HP-G300NH_DD-WRT_disappointment/) blog post.
 
 To my surprise, downloading Starcraft 2 involved a bit torrent client and about
 7G to download. The Internet speed at [Praze Farm](http://prazefarm.co.uk/) is
