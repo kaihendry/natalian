@@ -16,5 +16,22 @@ with
 
 <a href="http://www.flickr.com/photos/hendry/5176794484/" title="71mW versus 15dBm by Kai Hendry, on Flickr"><img src="http://farm5.static.flickr.com/4127/5176794484_f859270f1d.jpg" width="500" height="313" alt="71mW versus 15dBm" /></a>
 
-* For me the [WZR-HP-G300NH](http://www.flickr.com/photos/hendry/5129355769/) is less powerful than the [WRT54G](http://www.flickr.com/photos/hendry/5176794484/)
+* For me the [WZR-HP-G300NH](http://www.dd-wrt.com/wiki/index.php/Buffalo_WZR-HP-G300NH) is less powerful than the [WRT54G](http://www.dd-wrt.com/wiki/index.php/Linksys_WRT54G/GL/GS/GX)
 * It fluctuates in speed and power, and just has an unpredictable unstable feel to it (could this be a "feature" of [Wireless-N](http://en.wikipedia.org/wiki/IEEE_802.11#802.11n) ?? )
+
+
+My [own post on the Buffalo
+forum](http://forums.buffalotech.com/t5/Wireless/15dBm-signal-lock/td-p/44768)
+goes un-answered, and contacting Buffalo directly is a sad redirect to (ref:
+107218) <http://www.dd-wrt.com/phpBB2/> for support.
+
+This sadly seems to be some poor execution and followup by Buffalo. Firstly you
+need someone with a clue answer people's questions on the DD-WRT forums if you
+won't support DD-WRT on your [Buffalo forums](http://forums.buffalotech.com/).
+The "professional" DD-WRT is hardly niche, it's far easier to use than the
+default firmware.
+
+Someone in Buffalo and DD-WRT obviously tried to make this work, but failed
+somewhere. Still I really hope you address peoples' complaints and issue a fix
+and try give your users support. Otherwise you are really going to screw your
+brand Buffalo.
