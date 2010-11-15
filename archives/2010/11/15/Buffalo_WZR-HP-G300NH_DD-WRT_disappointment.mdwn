@@ -2,7 +2,7 @@
 
 Despite the [DD-WRT](http://dd-wrt.com) [partnership with Buffalo hardware](http://www.buffalo-technology.com/technology/software/dd-wrt/) and the [stunning endorsements](http://www.codinghorror.com/blog/2010/09/because-everyone-needs-a-router.html), the router is really disappointing compared to my previous [Linksys WRT54G](http://en.wikipedia.org/wiki/Linksys_WRT54G_series).
 
-If you bother to crawl the DD-WRT forums
+If you bother to trawl the [DD-WRT](http://en.wikipedia.org/wiki/DD-WRT) forums
 [several](http://www.dd-wrt.com/phpBB2/viewtopic.php?t=82571)
 [threads](http://www.dd-wrt.com/phpBB2/viewtopic.php?t=78294) talk about how
 [unstable](http://www.dd-wrt.com/phpBB2/viewtopic.php?t=82316) and disappointing V24-SP2 build 14998 DD-WRT (Professional) firmware
