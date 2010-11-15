@@ -1,11 +1,11 @@
 <a href="http://www.flickr.com/photos/hendry/5176825028/" title="dd-wrt &amp; buffalo partnership by Kai Hendry, on Flickr"><img src="http://farm5.static.flickr.com/4087/5176825028_a114b9e94e_o.png" width="1070" height="184" alt="dd-wrt &amp; buffalo partnership" /></a>
 
-Despite the [DD-WRT](http://dd-wrt.com) [partnership with Buffalo hardware](http://www.buffalo-technology.com/technology/software/dd-wrt/) and the [stunning endorsements](http://www.codinghorror.com/blog/2010/09/because-everyone-needs-a-router.html), the router is really disappointing to my previous [Linksys WRT54G](http://en.wikipedia.org/wiki/Linksys_WRT54G_series).
+Despite the [DD-WRT](http://dd-wrt.com) [partnership with Buffalo hardware](http://www.buffalo-technology.com/technology/software/dd-wrt/) and the [stunning endorsements](http://www.codinghorror.com/blog/2010/09/because-everyone-needs-a-router.html), the router is really disappointing compared to my previous [Linksys WRT54G](http://en.wikipedia.org/wiki/Linksys_WRT54G_series).
 
 If you bother to crawl the DD-WRT forums
 [several](http://www.dd-wrt.com/phpBB2/viewtopic.php?t=82571)
 [threads](http://www.dd-wrt.com/phpBB2/viewtopic.php?t=78294) talk about how
-[unstable](http://www.dd-wrt.com/phpBB2/viewtopic.php?t=82316) and disspointing V24-SP2 build 14998 DD-WRT (Professional) firmware
+[unstable](http://www.dd-wrt.com/phpBB2/viewtopic.php?t=82316) and disappointing V24-SP2 build 14998 DD-WRT (Professional) firmware
 is.
 
 Compare
@@ -29,9 +29,10 @@ This sadly seems to be some poor execution and followup by Japanese
 [Buffalo](http://en.wikipedia.org/wiki/Melco). Firstly you need someone with a
 clue answer people's questions on the DD-WRT forums if you won't support DD-WRT
 on your [Buffalo forums](http://forums.buffalotech.com/).  The "professional"
-DD-WRT is hardly niche, it's far easier to use than the default "stock" firmware.
+DD-WRT is hardly niche, it's ironically far easier to use than the default
+"stock" firmware.
 
 Someone in Buffalo and DD-WRT obviously tried to make this work, but failed
-somewhere. Still I really hope you address peoples' complaints and issue a fix
-and try give your users support. Otherwise you are really going to screw your
-brand over Buffalo. :(
+somewhere ([Atheros](http://en.wikipedia.org/wiki/Atheros) driver?). Still I really hope you address peoples'
+complaints and issue a fix and try give your users support. Otherwise geeks and
+"professionals" will never trust your brand again Buffalo. :(
