@@ -2,8 +2,8 @@ I bought a re-furb (alarm bells ringing) Time Capsule from the Apple store to
 replace a WRT54G-L as a WDS node at Praze Farm.
 
 At the same time I fitted the
-[[archives/2010/11/15/Buffalo_WZR-HP-G300NH_DD-WRT_disappointment|Buffalo]] as
-the master wifi point. With these two new Wireless-N devices I was hoping to
+[Buffalo](http://natalian.org/archives/2010/11/15/Buffalo_WZR-HP-G300NH_DD-WRT_disappointment)
+as the master Wifi point. With these two new Wireless-N devices I was hoping to
 see an upgrade in performance reliability. Unfortunately this is not the case.
 
 Firstly this version 7.4.2 Airport is configured to Participate in a WDS network
