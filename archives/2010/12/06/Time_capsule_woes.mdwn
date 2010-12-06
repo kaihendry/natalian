@@ -1,0 +1,28 @@
+I bought a re-furb (alarm bells ringing) Time Capsule from the Apple store to
+replace a WRT54G-L as a WDS node at Praze Farm.
+
+At the same time I fitted the
+[[archives/2010/11/15/Buffalo_WZR-HP-G300NH_DD-WRT_disappointment|Buffalo]] as
+the master wifi point. With these two new Wireless-N devices I was hoping to
+see an upgrade in performance reliability. Unfortunately this is not the case.
+
+Firstly this version 7.4.2 Airport is configured to Participate in a WDS network
+and allow wireless clients.
+
+	Description:	KodakESP7+0687
+	Location:
+	Driver:	KODAK ESP 7/9 All-in-One Printer (color, 2-sided printing)
+	Connection:	dnssd://KodakESP7%2B0687._pdl-datastream._tcp.local./?bidi
+	Defaults:	job-sheets=none, none media=na_letter_8.5x11in sides=one-sided
+
+One thing is the Macbook doesn't seem to able to back up to the Time
+capsule, unless directly associated with the Airport.
+
+I seems like they are on different networks, but I am able to ping from the
+Buffalo to Time Capsule connected devices and vice versa. What am I missing?
+
+More annoyingly, is that the printer is associated to the Airport instead of
+the Buffalo and I can't print unless I am again directly associated with the
+Airport.
+
+Can anyone help?
