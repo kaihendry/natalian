@@ -1,0 +1,9 @@
+[[!comment format=mdwn
+ username="http://simon.waters.myopenid.com/"
+ subject="Loop ammeters"
+ date="2010-12-05T21:14:38Z"
+ content="""
+Oh check the restrictions on what a loop ammeter can measure, because for the purposes I wanted one it couldn't do the job because of the nature of the cables in use.
+
+DIY alternative - switch everything else off, and see what the remaining power draw is on the meter.
+"""]]
