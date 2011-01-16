@@ -69,11 +69,13 @@ might find interesting. I still need a better understanding of
 		FontPath    "/usr/share/fonts/local"
 	EndSection
 
-I've used Arch and it's pacman tool before. But it's only this time I have used
-[yaourt](https://wiki.archlinux.org/index.php/Yaourt), for installing stuff
-that basically don't have binary packages, it's an invaluable time saver.
+I've used Arch and its pacman (think `apt-get`) tool before. However it's only
+this time I have used [yaourt](https://wiki.archlinux.org/index.php/Yaourt),
+for installing stuff that basically didn't have binary packages. `yaourt` is an
+invaluable time saver. :)
 
-As for the speed differences... I think it's faster but tbh it's hard to tell. ;)
+As for the speed differences... I think it's faster but tbh it's hard to tell.
+It could be just that Arch is so much lighter-weight than Ubuntu.
 
 * <http://natalian.org/archives/2011/01/16/packagelist.txt>
 * <http://natalian.org/archives/2011/01/16/rc.conf>
