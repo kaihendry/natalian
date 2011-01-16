@@ -75,5 +75,5 @@ that basically don't have binary packages, it's an invaluable time saver.
 
 As for the speed differences... I think it's faster but tbh it's hard to tell. ;)
 
-* <packagelist.txt>
-* <rc.conf>
+* <http://natalian.org/archives/2011/01/16/packagelist.txt>
+* <http://natalian.org/archives/2011/01/16/rc.conf>
