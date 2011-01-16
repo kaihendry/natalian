@@ -1,0 +1,79 @@
+I've upgraded to a [Seagate 500GB Momentus
+XT Hybrid SSD](http://www.ebuyer.com/product/222310) in my Thinkpad X201 from a 500GB
+Momentus 7200.4.
+
+At first I had the idea of copying everything from my old 7200.4 to the XT via dd, though I thought it might be:
+
+1. Terrifically slow over USB2 (max read/write is 30mb/sec according to `iostat`)
+* Very hard to verify everything was copied perfectly
+* Too easy for something to go wrong (some block size mis-alignment)
+
+So instead I decide to backup /home to a Samsung S2 1TB USB2 drive. At first I
+did this with `rsync`, which turned out to be a mistake because it was so
+insanely slow. Instead I used `cp -a` and that copied almost 100GB in 1hr.
+
+Next on recommendation from [Anselm](http://garbe.us/), I installed 686
+[Archlinux](http://www.archlinux.org/) instead of Ubuntu. Unfortunately the
+[2010.05](https://wiki.archlinux.org/index.php/DeveloperWiki:2010.05) install
+is a bit sucky because it doesn't support
+[GPT](https://wiki.archlinux.org/index.php/GUID_Partition_Table)
+([Jamie](http://jamiek.it/) sez I want GPT for SSD) and the auto-partitioning
+sucks. Fortunately doing `pacman -Syu gdisk` and later `grub2` (`grub-install
+--root-directory=/mnt /dev/sda --force`), you can manage it. I kept it simple
+and created one huge partition:
+
+
+	hendry@i7 ~$ sudo gdisk /dev/sda
+	GPT fdisk (gdisk) version 0.6.13
+
+	Partition table scan:
+	  MBR: protective
+	  BSD: not present
+	  APM: not present
+	  GPT: present
+
+	Found valid GPT with protective MBR; using GPT.
+
+	Command (? for help): p
+	Disk /dev/sda: 976773168 sectors, 465.8 GiB
+	Logical sector size: 512 bytes
+	Disk identifier (GUID): 14A13BDD-C597-4166-92AF-A048800C59CA
+	Partition table holds up to 128 entries
+	First usable sector is 34, last usable sector is 976773134
+	Partitions will be aligned on 2048-sector boundaries
+	Total free space is 2014 sectors (1007.0 KiB)
+
+	Number  Start (sector)    End (sector)  Size       Code  Name
+	   1            2048       976773134   465.8 GiB   0700  seagate
+
+I am a bit concerned over the requirement of
+[GRUB2](https://wiki.archlinux.org/index.php/GRUB2) in order to boot into a GPT
+partition. 202k SLOC to boot a kernel? I'm sorry, that's **wrong**. I need to
+investigate
+[extlinux](https://wiki.archlinux.org/index.php/Syslinux#GUID_Partition_Table_aka_GPT)
+and make sure a rescue USB stick can boot into the drive.
+
+Setting up Arch is a bit more hands on than Ubuntu, but it's a fairly pleasant
+grounds up approach, instead of my experience with Ubuntu where I'm constantly
+trying to remove shitware and fail to do so. The folks on #archlinux are
+friendly and I dare say funny and the [forum](https://bbs.archlinux.org/) and
+[wiki](https://wiki.archlinux.org/index.php/Main_Page) have good information.
+
+I had to make a [few changes to my
+$HOME](http://git.webconverger.org/?p=home.git) to accommodate Arch, which you
+might find interesting. I still need a better understanding of
+[netcfg](https://wiki.archlinux.org/index.php/Netcfg). I had to make an annoying addition to Xorg conf for terminus to load:
+
+	hendry@i7 ~$ cat /etc/X11/xorg.conf.d/10-fonts.conf 
+	Section "Files"
+		FontPath    "/usr/share/fonts/local"
+	EndSection
+
+I've used Arch and it's pacman tool before. But it's only this time I have used
+[yaourt](https://wiki.archlinux.org/index.php/Yaourt), for installing stuff
+that basically don't have binary packages, it's an invaluable time saver.
+
+As for the speed differences... I think it's faster but tbh it's hard to tell. ;)
+
+* <packagelist.txt>
+* <rc.conf>

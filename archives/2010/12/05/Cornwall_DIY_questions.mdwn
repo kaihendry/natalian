@@ -9,7 +9,7 @@ cheaper, simpler and it seems to work very well.
 I would like to draw the floor plan of this house and map in 3D how things are
 cabled. Isn't it weird how there is all these great FPS, but no decent software
 to re-create your house and wiring? I think there is a business opportunity
-here ... Update: Discovered [Google Sketchpad](http://sketchup.google.com)
+here ... Update: Discovered [Google SketchUp](http://sketchup.google.com)
 
 Thermostat advice and Rayburn advice. Heating at Praze Farm is annoyingly
 haphazard and manual, resulting in silly arguments about how warm or cold it
