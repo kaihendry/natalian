@@ -1,0 +1,44 @@
+Tbh I've had hotplug issues with Ubuntu. So it's a bit annoying that dispite
+setting up
+[ifplugd](https://wiki.archlinux.org/index.php/Configuring_Network#Laptops.2C_.27ifplugd.27)
+in my new Arch setup, I still have screwed up sessions like this:
+
+	hendry@x201 ~$ suspend
+	hendry@x201 ~$ sudo netcfg -d wireless
+	:: wireless down                                                                                                                                        [DONE] 
+	hendry@x201 ~$ sudo dhcpcd eth0
+	dhcpcd[12729]: version 5.2.9 starting
+	dhcpcd[12729]: eth0: rebinding lease of 172.16.1.16
+	dhcpcd[12729]: eth0: NAK: wrong network from 192.168.1.1
+	dhcpcd[12729]: eth0: broadcasting for a lease
+	dhcpcd[12729]: eth0: offered 192.168.1.108 from 192.168.1.1
+	dhcpcd[12729]: eth0: acknowledged 192.168.1.108 from 192.168.1.1
+	dhcpcd[12729]: eth0: checking for 192.168.1.108
+	dhcpcd[12729]: eth0: leased 192.168.1.108 for 86400 seconds
+	dhcpcd[12729]: forked to background, child pid 12907
+	hendry@x201 ~$ suspend
+	hendry@x201 ~$ sudo dhcpcd eth0
+	dhcpcd[17105]: dhcpcd already running on pid 12907 (/var/run/dhcpcd-eth0.pid)
+	hendry@x201 ~$ ping ma.tt
+	ping: unknown host ma.tt
+	hendry@x201 ~$ kill 12907
+	bash: kill: (12907) - Operation not permitted
+	hendry@x201 ~$ sudo kill 12907
+	hendry@x201 ~$ sudo dhcpcd eth0
+	dhcpcd[19614]: version 5.2.9 starting
+	dhcpcd[19614]: eth0: rebinding lease of 192.168.1.108
+	dhcpcd[19614]: eth0: NAK: from 172.16.1.2
+	dhcpcd[19614]: eth0: broadcasting for a lease
+	dhcpcd[19614]: eth0: offered 172.16.1.16 from 172.16.1.2
+	dhcpcd[19614]: eth0: acknowledged 172.16.1.16 from 172.16.1.2
+	dhcpcd[19614]: eth0: checking for 172.16.1.16
+	dhcpcd[19614]: eth0: leased 172.16.1.16 for 2592000 seconds
+	dhcpcd[19614]: forked to background, child pid 19769
+	hendry@x201 ~$ ping ma.tt
+	PING ma.tt (72.233.69.21) 56(84) bytes of data.
+	64 bytes from bonaventure.multipattern.com (72.233.69.21): icmp_seq=1 ttl=51 time=122 ms
+	^C
+	--- ma.tt ping statistics ---
+	1 packets transmitted, 1 received, 0% packet loss, time 0ms
+	rtt min/avg/max/mdev = 122.016/122.016/122.016/0.000 ms
+	hendry@x201 ~$ 
