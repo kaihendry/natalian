@@ -1,7 +1,7 @@
 Tbh I've had hotplug issues with Ubuntu. So it's a bit annoying that dispite
 setting up
 [ifplugd](https://wiki.archlinux.org/index.php/Configuring_Network#Laptops.2C_.27ifplugd.27)
-in my new Arch setup, I still have screwed up sessions like this:
+in my [new Arch setup](http://natalian.org/archives/2011/01/16/Archlinux_SSD_upgrade_from_Ubuntu/), I still have screwed up sessions like this:
 
 	hendry@x201 ~$ suspend
 	hendry@x201 ~$ sudo netcfg -d wireless
