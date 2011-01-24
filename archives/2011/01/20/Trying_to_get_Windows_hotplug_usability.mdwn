@@ -1,3 +1,5 @@
+Trying to get Windows-like ethernet hotplug usability.
+
 Tbh I've had hotplug issues with Ubuntu. So it's a bit annoying that dispite
 setting up
 [ifplugd](https://wiki.archlinux.org/index.php/Configuring_Network#Laptops.2C_.27ifplugd.27)
