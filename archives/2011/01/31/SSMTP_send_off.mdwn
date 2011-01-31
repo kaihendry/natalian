@@ -11,7 +11,7 @@ Since [SSMTP](http://packages.qa.debian.org/s/ssmtp.html) sucks, since:
 * the fact that's [SSMTP is no longer developed since 2009](https://wiki.archlinux.org/index.php/SSMTP)
 
 I spent a morning migrating from `/etc/ssmtp/ssmtp.conf` to `~/.msmtprc`. The
-reason why it took so long as msmtp's "auth on" didn't work and after a log of
+reason why it took so long as msmtp's "auth on" didn't work and after a LOT of
 debugging, I found the solution to be **auth login**.
 
 So this is my `~/.msmtprc`:
@@ -60,5 +60,3 @@ SSMTP debugging:
 the MSMTP log to compare to:
 
 	cat test.mail | msmtp -d  kai.hendry@foo.org
-
-Good luck
