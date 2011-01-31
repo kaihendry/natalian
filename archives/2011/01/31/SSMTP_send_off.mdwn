@@ -3,7 +3,8 @@ trust your Linux machine to send mail, you probably need to relay to some
 fucked up Exchange server like <http://www.themessagecenter.com/> provide. Poor
 you.
 
-Since [SSMTP](http://packages.qa.debian.org/s/ssmtp.html) sucks, as:
+Since [SSMTP](http://packages.qa.debian.org/s/ssmtp.html) sucks, since:
+
 * cron jobs didn't seem to work on ssmtp
 * does not provide per user config
 * [lots of bugs](http://bugs.debian.org/cgi-bin/pkgreport.cgi?repeatmerged=no&src=ssmtp)
