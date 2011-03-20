@@ -12,11 +12,11 @@ listen](http://listen.googlelabs.com/).
 Upon arriving I introduced myself to a Mozillan <a
 href="http://en.wikipedia.org/wiki/Gervase_Markham_(programmer)">Gerv</a> and
 we had a varied discussion from [Bugzilla](http://www.bugzilla.org) to the
-[Mongol Rally](http://geekout.org.uk). Bugzilla defintely looks like the
+[Mongol Rally](http://geekout.org.uk). Bugzilla definitely looks like the
 premier BTS right now. It's frankly insane I have to use
 [Redmine](http://www.redmine.org) at work. :/
 
-Once the room opened I must have spend the next two hours working out how to
+Once the room opened I must have spent the next two hours working out how to
 connect to the [Ravensbourne](http://www.rave.ac.uk/) wireless.
 
 The `/etc/wpa_supplicant.conf` snippet that had me connected for minutes at a
