@@ -1,0 +1,121 @@
+<a href="http://www.flickr.com/photos/hendry/5540421278/" title="#lwsbrowser panel speakers have been great by Kai Hendry, on Flickr"><img src="http://farm6.static.flickr.com/5052/5540421278_99d50babe5.jpg" width="500" height="375" alt="#lwsbrowser panel speakers have been great" /></a>
+
+Yesterday I dragged myself across town to [State of the
+browser](http://browser.londonwebstandards.org) and I'm glad I did.
+
+Amazingly the [Jubilee line](http://en.wikipedia.org/wiki/Jubilee_line) was
+working this weekend and it was a pleasant journey from Baker street to North
+Greenwich while listening to [The
+Bugle](http://en.wikipedia.org/wiki/The_Bugle) via [Google
+listen](http://listen.googlelabs.com/).
+
+Upon arriving I introduced myself to a Mozillan <a
+href="http://en.wikipedia.org/wiki/Gervase_Markham_(programmer)">Gerv</a> and
+we had a varied discussion from [Bugzilla](http://www.bugzilla.org) to the
+[Mongol Rally](http://geekout.org.uk). Bugzilla defintely looks like the
+premier BTS right now. It's frankly insane I have to use
+[Redmine](http://www.redmine.org) at work. :/
+
+Once the room opened I must have spend the next two hours working out how to
+connect to the [Ravensbourne](http://www.rave.ac.uk/) wireless.
+
+The `/etc/wpa_supplicant.conf` snippet that had me connected for minutes at a
+time was:
+
+	network={
+		ssid="eduroam"
+		scan_ssid=1
+		key_mgmt=WPA-EAP
+		eap=PEAP
+		identity="RGuest057@rave.ac.uk"
+		password="ChufJelQue"
+	}
+
+I don't know if this a [ja.net](http://www.ja.net/) requirement or not, but I
+must say I was fucking seething. Why does it have to be so hard to get
+Internet?  :( Unfortunately my Vodafone SIM was only giving me GPRS, so I
+couldn't tether.
+
+I did manage to get my Android device connected more reliably to the
+[Ravensbourne](http://www.rave.ac.uk/) wireless, but I bizaarely [couldn't
+tether my laptop over
+USB](http://twitter.com/#!/kaihendry/status/49053920332484608) to it! :(
+
+So I listened to [@mahemoff](http://twitter.com/#!/mahemoff) and noted:
+
+* <http://www.chromium.org/developers/web-platform-status>
+* <http://crbug.com>
+* <http://www.appmator.com/> which is kinda like my <http://saveaswidget.com/>, though only for Chrome ;)
+* Background pages sounded interesting
+* Liked the description of extensions, packaged apps & hosted apps
+* Hosted apps are what I like to think of shortcuts to a Web application
+
+Next I was very impressed by [Paul Rouget](http://twitter.com/#!/paulrouget),
+who came across as a very competent hacker. The Audio API and other demos
+looked great. Later at the pub he was talking about his [slide
+software](http://paulrouget.com/dzslides/) which can control what other people
+see. Must look into that. :-)
+
+There was really quite a good representation of Mozillans, fellow Durbanite
+[cyberdees](http://twitter.com/#!/cyberdees) was around and two on my table,
+Patrick Finch a UK expat in Sweden and the Romanian
+[@irinasandu](http://twitter.com/#!/irinasandu). I did try Firefox on my
+[Android Nexus S](http://dabase.com/android/Nexus_Second/) and that turned out
+to be a embarrassing waste of time. It's practically unusable and I'm worried
+for Mozilla because their mobile ports suck so bad.
+
+Thankfully there was lunch and I met Kiwi
+[@toni_b](http://twitter.com/#!/toni_b) who seemed sane. I am not sure. She
+told me I'd like Wellington if I like wind and earthquakes. Gulp.
+
+After lunch I attended two great break out sessions. The fantastically
+eccentric [Simon Stewart](http://twitter.com/#!/shs96c) gave a great talk about
+"regression testing" with selenium or selenium2 or WebDiver. I asked several
+questions and he answered them well. What a great guy. :) Importantly for my
+own ego, the approach I was taking in my own testing at
+[BONDI](http://tests.bondi.omtp.org/) & [WAC](http://tcs.wacapps.net/) didn't
+seem so bad.
+
+	1) Interrogate the DOM
+	2) Ability to execute arbitary javascript
+	1&2 = "browser reading"
+	3) Ability to interact -- can't be done with JS
+
+	logical failure
+
+	browser specific bugs
+
+	saucelabs -- jason huggins
+	browsermob
+
+	record people remotely - no
+
+	going back to JS API - use qunit
+
+Next I accidentally found myself listening to the Dos and Don'ts of the mobile
+Web thinking this would be a waste of time. I was surprised to hear a familiar
+sounding name "Staikos". Turns out Matthew Staikos, brother of George Staikos
+of [Torch mobile](http://www.torchmobile.com/) was speaking! Holy cow! RIM have
+the sent one of the the real browser guys, which was great. His talk was great
+and I want to give WebWorks a whirl, however there doesn't seem to be an SDK
+for Linux. :(
+
+The final panel discussion was good, I asked a general question about which
+features are typically not enabled on mobiles. The best question IMO came from
+[@pornelski](http://twitter.com/#!/pornelski), who asked why didn't RIM, Chrome
+& Firefox use the W3C widget packaging format. Opera of course already use the
+format, because as Chris Mills mentions, they wrote it. ;) IIRC RIM/Chrome
+dodged the question whilst Paul Rouget from Firefox was saying the standard
+needed more, which I was surprised to hear. I expected him to say, Firefox
+extensions came first or something. ;)
+
+Later I went to a pub for a swift pint of ale to shockingly see Ireland beating
+England at rugby. Oh well. @pornelski and @ernesto_jimenez were trying to
+convince me [node.js](http://nodejs.org/) is a good idea.
+[cramforce](http://twitter.com/#!/cramforce/status/49093759199223809) tried
+earlier in the day and scared me with his "10x the amount of code" statement. I
+was not impressed by "coffee script" generation of Javascript and the callback
+orientated code. A sloccount of Node.js suggests 337k SLOC. Hmm, no thanks
+guys!!  Nonetheless I must give [Server sent
+events](http://www.html5rocks.com/tutorials/eventsource/basics/) a whirl real
+soon now, hopefully on <http://greptweet.com/> to make the feedback sane.
