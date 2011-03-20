@@ -96,9 +96,9 @@ Next I accidentally found myself listening to the Dos and Don'ts of the mobile
 Web thinking this would be a waste of time. I was surprised to hear a familiar
 sounding name "Staikos". Turns out Matthew Staikos, brother of George Staikos
 of [Torch mobile](http://www.torchmobile.com/) was speaking! Holy cow! RIM have
-the sent one of the the real browser guys, which was great. His talk was great
-and I want to give WebWorks a whirl, however there doesn't seem to be an SDK
-for Linux. :(
+sent one of the the real webkit browser guys! His talk was great (avoid
+position fixed was a key take away, a problem I've seen with Opera) and I want
+to give WebWorks a whirl, however there doesn't seem to be an SDK for Linux. :(
 
 The final panel discussion was good, I asked a general question about which
 features are typically not enabled on mobiles. The best question IMO came from
