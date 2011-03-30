@@ -1,0 +1,46 @@
+<a href="http://www.flickr.com/photos/hendry/5558855302/" title="Rented Kodak 1200 scanner arrived. Using this bad boy to scan family photographs tomorrow. by Kai Hendry, on Flickr"><img src="http://farm6.static.flickr.com/5172/5558855302_08c69da530.jpg" width="500" height="375" alt="Rented Kodak 1200 scanner arrived. Using this bad boy to scan family photographs tomorrow." /></a>
+
+Last weekend I [rented a Kodak
+S1220](http://www.scannerhire.co.uk/graphic-scanners-for-hire/photo-scanners-for-hire/s1220-photo-scanner.html)
+and scanned a drawer full of 6238 old family photographs with the [help of my
+parents](http://www.flickr.com/photos/hendry/5570248439/).
+
+Make sure your working area is free of dust and grime. Better still wipe the
+pictures before you scan them, other wise you'll get [poor
+results](http://www.flickr.com/photos/hendry/5560500523/) and possibly clog up
+the scanner transport.
+
+300 dpi is fine and much faster than 600dpi.
+
+I left the image cleaner tool on, it didn't really seem to make a difference.
+
+On the runs I noticed "streaking", I cleaned the scanner and redid the batch.
+
+No way to start the scan from the scanner device itself, which sucks. You had
+to use the horrid Kodak scanning software to kick off the batch. So there was a
+lot of "You ready Dad?" "Yeah!" or "You ready Kai?" "Yeah!", and what we be
+much better if he just pressed the button on the device.
+
+The user experience of the Kodak software is just crazy. 7 steps for something
+that should be one.
+
+1. Order #, Continue
+# Click Batch Scan
+# Scanning Complete
+# Are you done? Yes
+# Folder view, Continue
+# Finalize Order
+# Do you want to start a new Kodak s1220 Scan Session?
+
+The Kodak software is terribly, the theme is insulting and any operation was
+crazy slow. Rotatating all the images took ten times longer than Picasa.
+
+The Kodak software refuses to do a batch scan unless a [red USB key
+fob](http://www.flickr.com/photos/hendry/5574076175/) is plugged in. This is
+extraordinary. I looked at the manual and they say "DO NOT LOSE THIS". Why have
+it all? It's terribly confusing. I thought it had the software on the stick,
+but the computer wouldn't recognise it. It took far too long to realise this
+was some sort of physical key to make the scanner operate correctly. Madness.
+
+I have to do a ton of post-processing and I think Picasa will be my tool of
+choice. You can bulk alter EXIF time, add geolocation painlessly and add tags.
