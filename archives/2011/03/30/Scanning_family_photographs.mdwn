@@ -45,3 +45,13 @@ was some sort of physical key to make the scanner operate correctly. Madness.
 
 I have to do a ton of post-processing and I think Picasa will be my tool of
 choice. You can bulk alter EXIF time, add geolocation painlessly and add tags.
+
+In conclusion I highly recommend doing this. This event lifts a huge weight off
+my shoulders. There are at least 3 digital copies of the photographs now. Of
+course, the quality could be better (negative scanning, though our negatives
+mostly detoriated), though it's far better than nothing at all. This is my
+family's digital legacy.
+
+I really hope I can get the time and energy to process the images enough to
+help tell a story. My family have led interesting lives, with [more from me to
+come](http://geekout.org.uk/)!
