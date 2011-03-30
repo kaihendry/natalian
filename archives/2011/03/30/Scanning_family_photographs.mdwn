@@ -14,7 +14,8 @@ the scanner transport.
 
 I left the image cleaner tool on, it didn't really seem to make a difference.
 
-On the runs I noticed "streaking", I cleaned the scanner and redid the batch.
+On the runs I noticed "streaking" (a line down the scan), I checked/cleaned the scanner
+and redid the batch.
 
 No way to start the scan from the scanner device itself, which sucks. You had
 to use the horrid Kodak scanning software to kick off the batch. So there was a
@@ -32,7 +33,7 @@ that should be one.
 * Finalize Order
 * Do you want to start a new Kodak s1220 Scan Session?
 
-The Kodak software is terribly, the theme is insulting and any operation was
+The Kodak software is awful, the theme is insulting and any operation was
 crazy slow. Rotatating all the images took ten times longer than Picasa.
 
 The Kodak software refuses to do a batch scan unless a [red USB key
