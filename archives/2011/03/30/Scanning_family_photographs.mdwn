@@ -25,12 +25,12 @@ The user experience of the Kodak software is just crazy. 7 steps for something
 that should be one.
 
 1. Order #, Continue
-# Click Batch Scan
-# Scanning Complete
-# Are you done? Yes
-# Folder view, Continue
-# Finalize Order
-# Do you want to start a new Kodak s1220 Scan Session?
+* Click Batch Scan
+* Scanning Complete
+* Are you done? Yes
+* Folder view, Continue
+* Finalize Order
+* Do you want to start a new Kodak s1220 Scan Session?
 
 The Kodak software is terribly, the theme is insulting and any operation was
 crazy slow. Rotatating all the images took ten times longer than Picasa.
