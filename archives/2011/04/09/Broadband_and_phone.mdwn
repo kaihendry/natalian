@@ -14,6 +14,7 @@ usage).
 
 So if we setup the [20CN line](http://aaisp.net.uk/broadband-20.html) with
 [AAISP](http://aaisp.net.uk/), we are talking:
+
 * 10GBP PSTN take over - or you can leave it with BT because AAISP doesn't do PSTN calls
 * 50GBP Internet install
 
@@ -58,30 +59,32 @@ dial with the damn thing, you probably will not care.
 So the all-in-one deals like [TalkTalk's is about 286GBP a
 year](http://sales.talktalk.co.uk/product/compare/broadband). This is a poor
 benchmark as I've heard countless stories how awful their service is. Perhaps
-they are a victim of their own success, however if we compare this to AAISP's
-240GBP a year, that only gives us about 50GBP a year for calls to play with.
+TalkTalk are a victim of their own success, however if we compare this to
+AAISP's 240GBP a year, that only gives us about 50GBP a year for calls to play
+with.
 
 Vonage's equivalent to TalkTalk's is roughly 72GBP a year with a 25GBP setup
 cost. So for quality AAISP Internet and Vonage which I've heard is very good,
 you're only paying an ongoing cost of 22GBP extra a year. Not too bad, though
 this plan breaks down if a lot of AAISP Internet units are used.
 
-[Gradwell's](http://www.gradwell.com/phoneservices/singleuser) comparable all
-you can eat offer seems to roughly 4+8GBP a month which is 144GBP.
+[Gradwell's](http://www.gradwell.com/phoneservices/singleuser) comparable "all
+you can eat" UK telephony offer seems to roughly 4+8GBP a month which I
+estimate 144GBP a year.
 
 AAISP do not offer all you can eat, though [AAISP's call
 charges](http://aaisp.net.uk/telecoms-prices.html) are not very competitive,
 however their service is very good, and it's awesome to have broadband and VOIP
 together on their [control panel](https://clueless.aaisp.net.uk/main.cgi).
 
-# Conclusion seem you and I are getting thirsty
+# Conclusion since you and I are getting thirsty
 
 Lets say AAISP and the selected VOIP providers are just twice as good as Talk
-Talks offerings. IMHO they are in orders of magnitude better and you get a ton
+Talks offerings. IMHO AAISP are in orders of magnitude better and you get a ton
 of powerful features and flexibility with a a daunting BT + AAISP + VOIP
 provider setup.
 
-As iterated above, one light user **can** compete with TalkTalk's all in one
-offer. Tbh I think the cost of extra units could make the cost about 400GBP a
-year, so really I would suggest something that's going to at LEAST twice as good
-it's going to cost you just twice as much.
+As iterated above, one light user **could** compete with TalkTalk's all in one
+offer. Tbh I think the cost of extra AAISP units could make the cost about
+400GBP a year, so really I would suggest something that's going to at LEAST
+twice as good it's going to cost you just twice as much.
