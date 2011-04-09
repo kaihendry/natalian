@@ -1,0 +1,87 @@
+I'm a bit fan of <http://aaisp.net/> though since they don't offer all-in-one,
+all you can eat packages, it can be difficult to recommend.
+
+Take for example you've bought a pub and you can start from scratch. Actually
+not quite, this [premises](http://www.voa.gov.uk) has a BT business line which
+is a huge PITA to switch to residential. AFAIK a BT business line doesn't give
+you anything except a minimal compensation when the line is faulty. All that for
+50% extra line rental a month. An insurance rip off.
+
+So the pub (or any business) needs good internet and in fact you need cordless
+telephone most of all since you are going to be talking a lot with suppliers.
+Also you want to supply punters with Internet (thankfully mostly evening/weekend
+usage).
+
+So if we setup the [20CN line](http://aaisp.net.uk/broadband-20.html) with
+[AAISP](http://aaisp.net.uk/), we are talking:
+* 10GBP PSTN take over - or you can leave it with BT because AAISP doesn't do PSTN calls
+* 50GBP Internet install
+
+So 60GBP to get started and the ZyXEL router comes free
+
+* 12.20GBP line rental
+* 7GBP for the very basic (2 unit) Internet
+
+So at the very least 19.40GBP ongoing cost pcm. That's the starting price for
+decent Internet. So lets say it's a 50GBP cost to get started and 240GBP a year
+for Internet.
+
+Now with Internet we can start to use VOIP instead of PSTN calls. VOIP is far
+more flexible, full featured, cheaper calls (esp international) and can offer
+better voice quality. Lets assume you keep the PSTN number as emergency backup,
+you now have many several VOIP solutions like:
+
+* Skype (strictly speaking Skype doesn't do standard VOIP)
+* <http://www.gradwell.com/>
+* <http://www.vonage.co.uk/>
+* And AAISP [telecoms](http://aaisp.net.uk/telecoms-prices.html)
+
+# VOIP Equipment
+
+For Skype you generally need a PC or a [Skype
+phone](http://shop.skype.com/intl/en-gb/phones/). This sucks because Skype is a
+proprietary protocol, so if you buy say the familiar cordless phone for running
+around the premises, it can only work with Skype and no other provider. You
+become tied to Skype, though Skype do offer very good service IMO.
+
+Gradwell sell the open standard [VOIP phone](http://store.gradwell.com/) wares,
+which is good. I'm quite partial to the Siemens Gigaset a580IP as this is the
+same [equipment AAISP](http://aaisp.net.uk/telecoms-equipment.html) pitches.
+
+[Vonage's equipment](http://www.vonage.co.uk/how-vonage-works/equipment/) is
+interesting because it's free and it works with old PSTN devices. So no special
+VOIP hardware, though I'm concerned you lose some features. However if you just
+dial with the damn thing, you probably will not care.
+
+# VOIP cost
+
+So the all-in-one deals like [TalkTalk's is about 286GBP a
+year](http://sales.talktalk.co.uk/product/compare/broadband). This is a poor
+benchmark as I've heard countless stories how awful their service is. Perhaps
+they are a victim of their own success, however if we compare this to AAISP's
+240GBP a year, that only gives us about 50GBP a year for calls to play with.
+
+Vonage's equivalent to TalkTalk's is roughly 72GBP a year with a 25GBP setup
+cost. So for quality AAISP Internet and Vonage which I've heard is very good,
+you're only paying an ongoing cost of 22GBP extra a year. Not too bad, though
+this plan breaks down if a lot of AAISP Internet units are used.
+
+[Gradwell's](http://www.gradwell.com/phoneservices/singleuser) comparable all
+you can eat offer seems to roughly 4+8GBP a month which is 144GBP.
+
+AAISP do not offer all you can eat, though [AAISP's call
+charges](http://aaisp.net.uk/telecoms-prices.html) are not very competitive,
+however their service is very good, and it's awesome to have broadband and VOIP
+together on their [control panel](https://clueless.aaisp.net.uk/main.cgi).
+
+# Conclusion seem you and I are getting thirsty
+
+Lets say AAISP and the selected VOIP providers are just twice as good as Talk
+Talks offerings. IMHO they are in orders of magnitude better and you get a ton
+of powerful features and flexibility with a a daunting BT + AAISP + VOIP
+provider setup.
+
+As iterated above, one light user **can** compete with TalkTalk's all in one
+offer. Tbh I think the cost of extra units could make the cost about 400GBP a
+year, so really I would suggest something that's going to at LEAST twice as good
+it's going to cost you just twice as much.
