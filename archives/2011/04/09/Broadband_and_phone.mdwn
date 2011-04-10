@@ -21,13 +21,14 @@ evening/weekend usage).
 So if we setup the [20CN line](http://aaisp.net.uk/broadband-20.html) with
 [AAISP](http://aaisp.net.uk/), we are talking:
 
-* BT line rental, lets say it's 15GBP pcm for argument sake
+* BT business line rental, lets say it's 15GBP pcm for argument sake - though you could get [try that down to 9GBP a month](http://www.primussaver.co.uk/HomePhone.aspx) by sneakily attempting to get rid of BT business altogether (BT will give you nothing but pain for attempting this)
 * 50GBP initial Internet install, with the [AAISP broadband equipment](http://aa.net.uk/broadband-accessories.html)
 [ZyXEL router comes free](http://aaisp.net.uk/broadband-freerouter.html)
 and [19.40GBP per
 month](http://aaisp.net.uk/broadband-prices.html) at an absolute minimum
 
-AAISP's monthly cost of 34.4GBP including line rental is pretty pricey.
+AAISP's monthly cost of 34.4GBP including line rental is pretty pricey, though
+it is the best.
 
 So we are talking 232.8GBP a year for Internet and 180GBP BT line rental, which
 is 412.8GBP for the year altogether.
@@ -43,6 +44,7 @@ you now have many several VOIP solutions like:
 * <http://www.gradwell.com/>
 * <http://www.vonage.co.uk/>
 * And AAISP [telecoms](http://aaisp.net.uk/telecoms-prices.html)
+* And other [random VOIP providers](http://backsla.sh/betamax)
 
 # VOIP Equipment
 
