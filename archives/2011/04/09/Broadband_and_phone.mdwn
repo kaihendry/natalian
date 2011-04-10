@@ -106,3 +106,12 @@ suggest something that's going to at LEAST twice as good it's going to cost you
 just 50% extra and give you a lot more flexibility WRT calls, though a bit of a
 headache paying BT (line rental & PSTN call backup), AAISP & your VOIP
 provider.
+
+# Sidenote: Pub POS software & Credit card(CC) processing
+
+Unforunately [typical UK CC processing (PDQ) equipment uses slow dialup to
+process
+payments](http://natalian.org/archives/2010/04/12/Why_process_small_business_data_NOT_quickly/),
+which might only work with PSTN and not VOIP. CC over IP needs some
+investigation, though the **major benefit** of this is that it should be VERY
+quick to process payments. As quick as M&S or Tesco checkouts.
