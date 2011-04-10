@@ -3,7 +3,9 @@ I'm a bit of a fan of <http://aaisp.net/> though since they don't offer
 friends and family. They also don't really do line rental, since they do not
 offer PSTN calls (so you won't need [PSTN take
 over](http://aaisp.net.uk/broadband-prices-full.html) if you have a line
-already or PSTN provision if you line is off).
+already or PSTN provision if you line is off). You want PSTN calls, although
+I'll later get onto VOIP since it's a good backup in emergencies, especially if
+you have only one line, which in this example is the case.
 
 So you've bought a pub and you can start from scratch. Actually not quite, this
 [premises](http://www.voa.gov.uk) has a **BT business line** which is a huge
@@ -37,7 +39,7 @@ more flexible, full featured, cheaper calls (esp international) and can offer
 better voice quality. Lets assume you keep the PSTN number as emergency backup,
 you now have many several VOIP solutions like:
 
-* Skype (strictly speaking Skype doesn't do standard VOIP)
+* [Skype](http://www.skype.com) (strictly speaking Skype doesn't do standard VOIP)
 * <http://www.gradwell.com/>
 * <http://www.vonage.co.uk/>
 * And AAISP [telecoms](http://aaisp.net.uk/telecoms-prices.html)
