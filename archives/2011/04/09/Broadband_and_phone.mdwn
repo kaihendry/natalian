@@ -101,7 +101,8 @@ provider setup.
 
 As iterated above, one light user **could** compete with TalkTalk's all in one
 **business** offer. Tbh I think the cost of extra AAISP units (they don't do
-unlimited) could make the cost closer to 600GBP a year, so really I would
+unlimited) could make the cost closer to 700GBP a year, so really I would
 suggest something that's going to at LEAST twice as good it's going to cost you
 just 50% extra and give you a lot more flexibility WRT calls, though a bit of a
-headache paying BT, AAISP & your VOIP provider.
+headache paying BT (line rental & PSTN call backup), AAISP & your VOIP
+provider.
