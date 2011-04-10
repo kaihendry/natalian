@@ -1,34 +1,38 @@
 I'm a bit of a fan of <http://aaisp.net/> though since they don't offer
 "all-in-one", "all you can eat" packages, it can be difficult to recommend to
-friends and family.
+friends and family. They also don't really do line rental, since they do not
+offer PSTN calls (so you won't need [PSTN take
+over](http://aaisp.net.uk/broadband-prices-full.html) if you have a line
+already or PSTN provision if you line is off).
 
-Take for example you've bought a pub and you can start from scratch. Actually
-not quite, this [premises](http://www.voa.gov.uk) has a BT business line which
-is a huge PITA to switch to residential. AFAIK a BT business line doesn't give
-you anything except a minimal compensation when the line is faulty. All that for
+So you've bought a pub and you can start from scratch. Actually not quite, this
+[premises](http://www.voa.gov.uk) has a **BT business line** which is a huge
+PITA to switch to residential. AFAIK a BT business line doesn't give you
+anything except a minimal compensation when the line is faulty. All that for
 50% extra line rental a month. An insurance rip off.
 
-So the pub (or any business) needs good internet and in fact you need cordless
-telephone most of all since you are going to be talking a lot with suppliers.
-Also you want to supply punters with Internet (thankfully mostly evening/weekend
-usage).
+So the pub (or any business) needs good reliable internet and in fact you need
+cordless telephone most of all since you are going to be talking a lot with
+suppliers.  Also you want to supply punters with Internet (thankfully mostly
+evening/weekend usage).
 
 So if we setup the [20CN line](http://aaisp.net.uk/broadband-20.html) with
 [AAISP](http://aaisp.net.uk/), we are talking:
 
-* 10GBP PSTN take over - or you can leave it with BT because AAISP doesn't do PSTN calls
-* 50GBP Internet install
+* BT line rental, lets say it's 15GBP pcm for argument sake
+* 50GBP initial Internet install, with the [AAISP broadband equipment](http://aa.net.uk/broadband-accessories.html)
+[ZyXEL router comes free](http://aaisp.net.uk/broadband-freerouter.html)
+and [19.40GBP per
+month](http://aaisp.net.uk/broadband-prices.html) at an absolute minimum
 
-So 60GBP to get started and the ZyXEL router comes free
+AAISP's monthly cost of 34.4GBP including line rental is pretty pricey.
 
-* 12.20GBP line rental
-* 7GBP for the very basic (2 unit) Internet
+So we are talking 232.8GBP a year for Internet and 180GBP BT line rental, which
+is 412.8GBP for the year altogether.
 
-So at the very least 19.40GBP ongoing cost pcm. That's the starting price for
-decent Internet. So lets say it's a 50GBP cost to get started and 240GBP a year
-for Internet.
+# Now for the calls
 
-Now with Internet we can start to use VOIP instead of PSTN calls. VOIP is far
+Now with quality Internet we can start to use VOIP instead of PSTN calls. VOIP is far
 more flexible, full featured, cheaper calls (esp international) and can offer
 better voice quality. Lets assume you keep the PSTN number as emergency backup,
 you now have many several VOIP solutions like:
@@ -43,12 +47,14 @@ you now have many several VOIP solutions like:
 For Skype you generally need a PC or a [Skype
 phone](http://shop.skype.com/intl/en-gb/phones/). This sucks because Skype is a
 proprietary protocol, so if you buy say the familiar cordless phone for running
-around the premises, it can only work with Skype and no other provider. You
-become tied to Skype, though Skype do offer very good service IMO.
+around the premises, it will probably only work with Skype and no other VOIP
+provider.  You become tied to Skype, though Skype do offer a very good
+(firewall busting) service IMO.
 
-Gradwell sell the open standard [VOIP phone](http://store.gradwell.com/) wares,
-which is good. I'm quite partial to the Siemens Gigaset a580IP as this is the
-same [equipment AAISP](http://aaisp.net.uk/telecoms-equipment.html) pitches.
+[Gradwell](http://www.gradwell.com/) sell the open standard [VOIP
+phone](http://store.gradwell.com/) wares, which is good. I'm quite partial to
+the Siemens Gigaset a580IP as this is the same [equipment
+AAISP](http://aaisp.net.uk/telecoms-equipment.html) pitches.
 
 [Vonage's equipment](http://www.vonage.co.uk/how-vonage-works/equipment/) is
 interesting because it's free and it works with old PSTN devices. So no special
@@ -61,8 +67,12 @@ So the all-in-one deals like [TalkTalk's is about 286GBP a
 year](http://sales.talktalk.co.uk/product/compare/broadband). This is a poor
 benchmark as I've heard countless stories how awful their service is. Perhaps
 TalkTalk are a victim of their own success, however if we compare this to
-AAISP's 240GBP a year, that only gives us about 50GBP a year for calls to play
-with.
+AAISP's 412GBP a year without calls.
+
+However enter the **murky world of broadband business** and Talktalk's all
+inclusive equivalent seems to be 10GBP for internet, 13.50GBP for line rental &
+15GBP for calls. So altogether the business benchmark per year is 462GBP, which
+give us 50GBP for calls to play with ontop of AAISP.
 
 Vonage's equivalent to TalkTalk's is roughly 72GBP a year with a 25GBP setup
 cost. So for quality AAISP Internet and Vonage which I've heard is very good,
@@ -71,7 +81,7 @@ this plan breaks down if a lot of AAISP Internet units are used.
 
 [Gradwell's](http://www.gradwell.com/phoneservices/singleuser) comparable "all
 you can eat" UK telephony offer seems to roughly 4+8GBP a month which I
-estimate 144GBP a year.
+estimate to be 144GBP a year.
 
 AAISP do not offer all you can eat, though [AAISP's call
 charges](http://aaisp.net.uk/telecoms-prices.html) are not very competitive,
@@ -86,6 +96,8 @@ of powerful features and flexibility with a a daunting BT + AAISP + VOIP
 provider setup.
 
 As iterated above, one light user **could** compete with TalkTalk's all in one
-offer. Tbh I think the cost of extra AAISP units could make the cost about
-400GBP a year, so really I would suggest something that's going to at LEAST
-twice as good it's going to cost you just twice as much.
+**business** offer. Tbh I think the cost of extra AAISP units (they don't do
+unlimited) could make the cost closer to 600GBP a year, so really I would
+suggest something that's going to at LEAST twice as good it's going to cost you
+just 50% extra and give you a lot more flexibility WRT calls, though a bit of a
+headache paying BT, AAISP & your VOIP provider.
