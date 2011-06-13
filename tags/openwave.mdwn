@@ -1,0 +1,4 @@
+[[!meta title="pages tagged openwave"]]
+
+[[!inline pages="tagged(openwave)" actions="no" archive="yes"
+feedshow=10]]
