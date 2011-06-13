@@ -21,9 +21,9 @@ srcdir: /home/b-natalian-org/source
 # where to build the wiki
 destdir: /home/b-natalian-org/public_html
 # base url to the wiki
-url: http://natalian-org.branchable.com
+url: http://natalian.org
 # url to the ikiwiki.cgi
-cgiurl: http://natalian-org.branchable.com/ikiwiki.cgi
+cgiurl: http://natalian.org/ikiwiki.cgi
 # filename of cgi wrapper to generate
 cgi_wrapper: /var/www/b-natalian-org/ikiwiki.cgi
 # mode for cgi_wrapper (can safely be made suid)
@@ -164,6 +164,7 @@ htmlscrubber_skip: '* and !comment(*) and !*/Discussion'
 # ikiwikihosting plugin
 # list of urls that alias to the main url
 urlalias:
+  - http://natalian-org.branchable.com/
   - http://www.natalian.org/
   - http://natalian.org/
 # openid of primary site owner
