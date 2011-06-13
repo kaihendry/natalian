@@ -1,0 +1,4 @@
+[[!meta title="pages tagged fom"]]
+
+[[!inline pages="tagged(fom)" actions="no" archive="yes"
+feedshow=10]]
