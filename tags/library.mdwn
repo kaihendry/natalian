@@ -1,0 +1,4 @@
+[[!meta title="pages tagged library"]]
+
+[[!inline pages="tagged(library)" actions="no" archive="yes"
+feedshow=10]]
