@@ -1,0 +1,4 @@
+[[!meta title="pages tagged gpg"]]
+
+[[!inline pages="tagged(gpg)" actions="no" archive="yes"
+feedshow=10]]
