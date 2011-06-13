@@ -1,5 +1,5 @@
 [[!if test="enabled(calendar)" then="""
-[[!calendar pages="page(./archives/*/*/*) and !*/Discussion"]]
+[[!calendar pages="page(./archives/*) and !*/Discussion"]]
 """]]
 
 [[Recent Comments|comments]]
@@ -7,4 +7,5 @@
 [[Archives]]
 
 [[Tags]]:
+
 [[!pagestats style="list" pages="./tags/*" among="./archives/*"]]

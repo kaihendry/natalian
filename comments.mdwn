@@ -1,10 +1,10 @@
 [[!sidebar content="""
-[[!inline pages="comment_pending(./posts/*)" feedfile=pendingmoderation
+[[!inline pages="comment_pending(./archives/*)" feedfile=pendingmoderation
 description="comments pending moderation" show=-1]]
 Comments in the [[!commentmoderation desc="moderation queue"]]:
-[[!pagecount pages="comment_pending(./posts/*)"]]
+[[!pagecount pages="comment_pending(./archives/*)"]]
 """]]
 
-Recent comments on posts in the [[blog|index]]:
-[[!inline pages="./posts/*/Discussion or comment(./posts/*)"
+Recent comments on archives in the [[blog|index]]:
+[[!inline pages="./archives/*/Discussion or comment(./archives/*)"
 template="comment"]]
