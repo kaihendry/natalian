@@ -1,0 +1,4 @@
+[[!meta title="pages tagged cover"]]
+
+[[!inline pages="tagged(cover)" actions="no" archive="yes"
+feedshow=10]]
