@@ -165,6 +165,7 @@ htmlscrubber_skip: '* and !comment(*) and !*/Discussion'
 # list of urls that alias to the main url
 urlalias:
   - http://www.natalian.org/
+  - http://natalian.org/
 # openid of primary site owner
 owner: http://hendry.iki.fi/
 # optional hostname of site this one was branched from
@@ -272,8 +273,8 @@ po_link_to: default
 
 ######################################################################
 # web plugins
-#   (404, attachment, comments, editdiff, edittemplate, google, goto,
-#    mirrorlist, remove, rename, repolist, search, theme, userlist,
+#   (404, attachment, comments, editdiff, edittemplate, getsource, google,
+#    goto, mirrorlist, remove, rename, repolist, search, theme, userlist,
 #    websetup, wmd)
 ######################################################################
 
@@ -296,6 +297,10 @@ comments_pagename: comment_
 #comments_allowauthor: 0
 # commit comments to the VCS
 comments_commit: 1
+
+# getsource plugin
+# Mime type for returned source.
+#getsource_mimetype: text/plain; charset=utf-8
 
 # mirrorlist plugin
 # list of mirrors
