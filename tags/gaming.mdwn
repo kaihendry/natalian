@@ -1,0 +1,4 @@
+[[!meta title="pages tagged gaming"]]
+
+[[!inline pages="tagged(gaming)" actions="no" archive="yes"
+feedshow=10]]
