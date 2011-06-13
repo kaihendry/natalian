@@ -1,0 +1,4 @@
+[[!meta title="pages tagged orange"]]
+
+[[!inline pages="tagged(orange)" actions="no" archive="yes"
+feedshow=10]]
