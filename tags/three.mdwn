@@ -1,0 +1,4 @@
+[[!meta title="pages tagged three"]]
+
+[[!inline pages="tagged(three)" actions="no" archive="yes"
+feedshow=10]]
