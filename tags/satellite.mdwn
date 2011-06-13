@@ -1,0 +1,4 @@
+[[!meta title="pages tagged satellite"]]
+
+[[!inline pages="tagged(satellite)" actions="no" archive="yes"
+feedshow=10]]
