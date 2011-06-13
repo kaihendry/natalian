@@ -1,0 +1,4 @@
+[[!meta title="pages tagged redhat"]]
+
+[[!inline pages="tagged(redhat)" actions="no" archive="yes"
+feedshow=10]]
