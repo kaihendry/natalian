@@ -1,0 +1,4 @@
+[[!meta title="pages tagged cornwall"]]
+
+[[!inline pages="tagged(cornwall)" actions="no" archive="yes"
+feedshow=10]]
