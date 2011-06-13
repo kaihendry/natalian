@@ -1,0 +1,4 @@
+[[!meta title="pages tagged train"]]
+
+[[!inline pages="tagged(train)" actions="no" archive="yes"
+feedshow=10]]
