@@ -1,0 +1,4 @@
+[[!meta title="pages tagged geolocation"]]
+
+[[!inline pages="tagged(geolocation)" actions="no" archive="yes"
+feedshow=10]]
