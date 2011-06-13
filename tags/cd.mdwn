@@ -1,0 +1,4 @@
+[[!meta title="pages tagged cd"]]
+
+[[!inline pages="tagged(cd)" actions="no" archive="yes"
+feedshow=10]]
