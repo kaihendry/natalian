@@ -1,0 +1,4 @@
+[[!meta title="pages tagged lsg"]]
+
+[[!inline pages="tagged(lsg)" actions="no" archive="yes"
+feedshow=10]]
