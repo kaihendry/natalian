@@ -1,0 +1,4 @@
+[[!meta title="pages tagged gears"]]
+
+[[!inline pages="tagged(gears)" actions="no" archive="yes"
+feedshow=10]]
