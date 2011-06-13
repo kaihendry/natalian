@@ -13,7 +13,7 @@ wikiname: natalian
 adminemail: hendry@iki.fi
 # users who are wiki admins
 adminuser:
-  - http://none/
+  - http://hendry.iki.fi/
 # users who are banned from the wiki
 banned_users: []
 # where the source of the wiki is located
@@ -316,7 +316,7 @@ omega_cgi: /usr/lib/cgi-bin/omega/omega
 
 # theme plugin
 # name of theme to enable
-#theme: actiontabs
+theme: blueview
 
 # websetup plugin
 # list of plugins that cannot be enabled/disabled via the web interface
