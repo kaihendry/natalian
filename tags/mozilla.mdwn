@@ -1,0 +1,4 @@
+[[!meta title="pages tagged mozilla"]]
+
+[[!inline pages="tagged(mozilla)" actions="no" archive="yes"
+feedshow=10]]
