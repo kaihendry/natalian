@@ -1,0 +1,4 @@
+[[!meta title="pages tagged social"]]
+
+[[!inline pages="tagged(social)" actions="no" archive="yes"
+feedshow=10]]
