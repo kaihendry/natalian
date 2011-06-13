@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Oracle"]]
+
+[[!inline pages="tagged(Oracle)" actions="no" archive="yes"
+feedshow=10]]
