@@ -1,0 +1,4 @@
+[[!meta title="pages tagged subversion"]]
+
+[[!inline pages="tagged(subversion)" actions="no" archive="yes"
+feedshow=10]]
