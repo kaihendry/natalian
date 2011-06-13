@@ -1,0 +1,4 @@
+[[!meta title="pages tagged voice"]]
+
+[[!inline pages="tagged(voice)" actions="no" archive="yes"
+feedshow=10]]
