@@ -1,3 +1,10 @@
 Spotted a mistake? Please help me maintain my blogs and [contact me](http://hendry.iki.fi/) about any problems you find! Thank you.
 
-[[!inline pages="./archives/20*" actions=no rss=yes atom=no archive=yes]]
+[[!if test="archives/*" then="""
+Browse through blog archives by year:
+[[!map pages="./archives/* and !./archives/*/* and !*/Discussion"]]
+"""
+else="""
+You need to use the `ikiwiki-calendar` program to generate calendar-based
+archive pages.
+"""]]
