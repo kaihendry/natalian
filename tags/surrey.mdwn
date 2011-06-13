@@ -1,0 +1,4 @@
+[[!meta title="pages tagged surrey"]]
+
+[[!inline pages="tagged(surrey)" actions="no" archive="yes"
+feedshow=10]]

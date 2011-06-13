@@ -1,0 +1,4 @@
+[[!meta title="pages tagged barclays"]]
+
+[[!inline pages="tagged(barclays)" actions="no" archive="yes"
+feedshow=10]]

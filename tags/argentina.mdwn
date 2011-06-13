@@ -1,0 +1,4 @@
+[[!meta title="pages tagged argentina"]]
+
+[[!inline pages="tagged(argentina)" actions="no" archive="yes"
+feedshow=10]]

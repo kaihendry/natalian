@@ -1,0 +1,4 @@
+[[!meta title="pages tagged tourism"]]
+
+[[!inline pages="tagged(tourism)" actions="no" archive="yes"
+feedshow=10]]

@@ -1,0 +1,4 @@
+[[!meta title="pages tagged pantone"]]
+
+[[!inline pages="tagged(pantone)" actions="no" archive="yes"
+feedshow=10]]

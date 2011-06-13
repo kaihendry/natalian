@@ -1,0 +1,4 @@
+[[!meta title="pages tagged delicious"]]
+
+[[!inline pages="tagged(delicious)" actions="no" archive="yes"
+feedshow=10]]

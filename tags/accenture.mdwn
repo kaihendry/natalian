@@ -1,0 +1,4 @@
+[[!meta title="pages tagged accenture"]]
+
+[[!inline pages="tagged(accenture)" actions="no" archive="yes"
+feedshow=10]]

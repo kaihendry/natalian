@@ -1,0 +1,4 @@
+[[!meta title="pages tagged nonsense"]]
+
+[[!inline pages="tagged(nonsense)" actions="no" archive="yes"
+feedshow=10]]

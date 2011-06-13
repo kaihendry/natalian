@@ -1,0 +1,4 @@
+[[!meta title="pages tagged media"]]
+
+[[!inline pages="tagged(media)" actions="no" archive="yes"
+feedshow=10]]

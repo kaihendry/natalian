@@ -1,0 +1,4 @@
+[[!meta title="pages tagged poverty"]]
+
+[[!inline pages="tagged(poverty)" actions="no" archive="yes"
+feedshow=10]]

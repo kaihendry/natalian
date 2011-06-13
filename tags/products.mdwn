@@ -1,0 +1,4 @@
+[[!meta title="pages tagged products"]]
+
+[[!inline pages="tagged(products)" actions="no" archive="yes"
+feedshow=10]]

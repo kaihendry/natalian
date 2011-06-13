@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Politics"]]
+
+[[!inline pages="tagged(Politics)" actions="no" archive="yes"
+feedshow=10]]

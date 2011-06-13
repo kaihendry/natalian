@@ -1,0 +1,4 @@
+[[!meta title="pages tagged kismet"]]
+
+[[!inline pages="tagged(kismet)" actions="no" archive="yes"
+feedshow=10]]

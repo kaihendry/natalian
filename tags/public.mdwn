@@ -1,0 +1,4 @@
+[[!meta title="pages tagged public"]]
+
+[[!inline pages="tagged(public)" actions="no" archive="yes"
+feedshow=10]]

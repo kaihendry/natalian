@@ -1,0 +1,4 @@
+[[!meta title="pages tagged gps"]]
+
+[[!inline pages="tagged(gps)" actions="no" archive="yes"
+feedshow=10]]

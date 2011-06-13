@@ -1,0 +1,4 @@
+[[!meta title="pages tagged cache"]]
+
+[[!inline pages="tagged(cache)" actions="no" archive="yes"
+feedshow=10]]

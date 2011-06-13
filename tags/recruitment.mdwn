@@ -1,0 +1,4 @@
+[[!meta title="pages tagged recruitment"]]
+
+[[!inline pages="tagged(recruitment)" actions="no" archive="yes"
+feedshow=10]]

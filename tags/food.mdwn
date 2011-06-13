@@ -1,0 +1,4 @@
+[[!meta title="pages tagged food"]]
+
+[[!inline pages="tagged(food)" actions="no" archive="yes"
+feedshow=10]]

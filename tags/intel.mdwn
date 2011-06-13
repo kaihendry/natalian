@@ -1,0 +1,4 @@
+[[!meta title="pages tagged intel"]]
+
+[[!inline pages="tagged(intel)" actions="no" archive="yes"
+feedshow=10]]

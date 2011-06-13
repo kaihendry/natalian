@@ -1,0 +1,4 @@
+[[!meta title="pages tagged archives"]]
+
+[[!inline pages="tagged(archives)" actions="no" archive="yes"
+feedshow=10]]

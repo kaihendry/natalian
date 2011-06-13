@@ -1,0 +1,4 @@
+[[!meta title="pages tagged lenovo"]]
+
+[[!inline pages="tagged(lenovo)" actions="no" archive="yes"
+feedshow=10]]

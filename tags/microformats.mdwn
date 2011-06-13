@@ -1,0 +1,4 @@
+[[!meta title="pages tagged microformats"]]
+
+[[!inline pages="tagged(microformats)" actions="no" archive="yes"
+feedshow=10]]

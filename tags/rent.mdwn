@@ -1,0 +1,4 @@
+[[!meta title="pages tagged rent"]]
+
+[[!inline pages="tagged(rent)" actions="no" archive="yes"
+feedshow=10]]

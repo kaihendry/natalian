@@ -1,0 +1,4 @@
+[[!meta title="pages tagged facebook"]]
+
+[[!inline pages="tagged(facebook)" actions="no" archive="yes"
+feedshow=10]]

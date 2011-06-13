@@ -1,0 +1,4 @@
+[[!meta title="pages tagged zoom"]]
+
+[[!inline pages="tagged(zoom)" actions="no" archive="yes"
+feedshow=10]]

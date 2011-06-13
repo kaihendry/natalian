@@ -1,0 +1,4 @@
+[[!meta title="pages tagged java"]]
+
+[[!inline pages="tagged(java)" actions="no" archive="yes"
+feedshow=10]]

@@ -1,0 +1,4 @@
+[[!meta title="pages tagged html5"]]
+
+[[!inline pages="tagged(html5)" actions="no" archive="yes"
+feedshow=10]]

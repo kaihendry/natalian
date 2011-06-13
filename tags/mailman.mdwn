@@ -1,0 +1,4 @@
+[[!meta title="pages tagged mailman"]]
+
+[[!inline pages="tagged(mailman)" actions="no" archive="yes"
+feedshow=10]]

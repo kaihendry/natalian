@@ -1,0 +1,4 @@
+[[!meta title="pages tagged ubuntu"]]
+
+[[!inline pages="tagged(ubuntu)" actions="no" archive="yes"
+feedshow=10]]

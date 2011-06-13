@@ -1,0 +1,4 @@
+[[!meta title="pages tagged business"]]
+
+[[!inline pages="tagged(business)" actions="no" archive="yes"
+feedshow=10]]

@@ -1,0 +1,4 @@
+[[!meta title="pages tagged sl300"]]
+
+[[!inline pages="tagged(sl300)" actions="no" archive="yes"
+feedshow=10]]

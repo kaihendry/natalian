@@ -1,0 +1,4 @@
+[[!meta title="pages tagged cycling"]]
+
+[[!inline pages="tagged(cycling)" actions="no" archive="yes"
+feedshow=10]]

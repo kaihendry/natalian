@@ -1,0 +1,4 @@
+[[!meta title="pages tagged kiosk"]]
+
+[[!inline pages="tagged(kiosk)" actions="no" archive="yes"
+feedshow=10]]

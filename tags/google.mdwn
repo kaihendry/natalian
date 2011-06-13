@@ -1,0 +1,4 @@
+[[!meta title="pages tagged google"]]
+
+[[!inline pages="tagged(google)" actions="no" archive="yes"
+feedshow=10]]

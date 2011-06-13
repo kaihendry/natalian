@@ -1,0 +1,4 @@
+[[!meta title="pages tagged tips"]]
+
+[[!inline pages="tagged(tips)" actions="no" archive="yes"
+feedshow=10]]

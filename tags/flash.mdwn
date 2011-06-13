@@ -1,0 +1,4 @@
+[[!meta title="pages tagged flash"]]
+
+[[!inline pages="tagged(flash)" actions="no" archive="yes"
+feedshow=10]]

@@ -1,0 +1,4 @@
+[[!meta title="pages tagged EU"]]
+
+[[!inline pages="tagged(EU)" actions="no" archive="yes"
+feedshow=10]]

@@ -1,0 +1,4 @@
+[[!meta title="pages tagged fail"]]
+
+[[!inline pages="tagged(fail)" actions="no" archive="yes"
+feedshow=10]]
