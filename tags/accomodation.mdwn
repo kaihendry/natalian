@@ -1,0 +1,4 @@
+[[!meta title="pages tagged accomodation"]]
+
+[[!inline pages="tagged(accomodation)" actions="no" archive="yes"
+feedshow=10]]
