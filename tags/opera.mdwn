@@ -1,0 +1,4 @@
+[[!meta title="pages tagged opera"]]
+
+[[!inline pages="tagged(opera)" actions="no" archive="yes"
+feedshow=10]]
