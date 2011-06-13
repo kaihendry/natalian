@@ -1,0 +1,4 @@
+[[!meta title="pages tagged xml"]]
+
+[[!inline pages="tagged(xml)" actions="no" archive="yes"
+feedshow=10]]
