@@ -1,0 +1,4 @@
+[[!meta title="pages tagged britain"]]
+
+[[!inline pages="tagged(britain)" actions="no" archive="yes"
+feedshow=10]]
