@@ -1,0 +1,4 @@
+[[!meta title="pages tagged openid"]]
+
+[[!inline pages="tagged(openid)" actions="no" archive="yes"
+feedshow=10]]
