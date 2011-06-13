@@ -1,0 +1,4 @@
+[[!meta title="pages tagged minibar"]]
+
+[[!inline pages="tagged(minibar)" actions="no" archive="yes"
+feedshow=10]]
