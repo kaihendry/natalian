@@ -1,0 +1,4 @@
+[[!meta title="pages tagged hoasnet"]]
+
+[[!inline pages="tagged(hoasnet)" actions="no" archive="yes"
+feedshow=10]]
