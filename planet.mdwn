@@ -6,6 +6,5 @@
 * [[!aggregate expirecount=25 name="dabase" feedurl="http://dabase.com/index.rss" url="http://dabase.com/blog/archives/"]]
 * [[!aggregate expirecount=25 name="tips" feedurl="http://dabase.com/index.atom2" url="http://dabase.com/blog/archives/"]]
 * [[!aggregate expirecount=25 name="android" feedurl="http://dabase.com/index.atom3" url="http://dabase.com/blog/archives/"]]
-* [[!aggregate expirecount=25 name="webvm" feedurl="http://wiki.webvm.net/blog/index.rss" url="http://wiki.webvm.net"]]
 * [[!aggregate expirecount=25 name="mwts" feedurl="http://www.w3.org/blog/xmlsrv/rdf.php?blog=26" url="http://www.w3.org/blog/index.php?blog=26&author=176"]]
 * [[!aggregate expirecount=25 name="flickrcomments" feedurl="http://api.flickr.com/services/feeds/photos_comments.gne?user_id=16105436@N00" url="http://www.flickr.com/photos/hendry/"]]
