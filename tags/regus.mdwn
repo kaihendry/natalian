@@ -1,0 +1,4 @@
+[[!meta title="pages tagged regus"]]
+
+[[!inline pages="tagged(regus)" actions="no" archive="yes"
+feedshow=10]]
