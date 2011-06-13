@@ -1,0 +1,4 @@
+[[!meta title="pages tagged development"]]
+
+[[!inline pages="tagged(development)" actions="no" archive="yes"
+feedshow=10]]
