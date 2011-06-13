@@ -1,0 +1,4 @@
+[[!meta title="pages tagged brazil"]]
+
+[[!inline pages="tagged(brazil)" actions="no" archive="yes"
+feedshow=10]]
