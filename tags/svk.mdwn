@@ -1,0 +1,4 @@
+[[!meta title="pages tagged svk"]]
+
+[[!inline pages="tagged(svk)" actions="no" archive="yes"
+feedshow=10]]
