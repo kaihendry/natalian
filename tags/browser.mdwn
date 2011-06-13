@@ -1,0 +1,4 @@
+[[!meta title="pages tagged browser"]]
+
+[[!inline pages="tagged(browser)" actions="no" archive="yes"
+feedshow=10]]
