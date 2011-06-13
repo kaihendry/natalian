@@ -1,0 +1,4 @@
+[[!meta title="pages tagged vnc"]]
+
+[[!inline pages="tagged(vnc)" actions="no" archive="yes"
+feedshow=10]]
