@@ -1,0 +1,4 @@
+[[!meta title="pages tagged gadget"]]
+
+[[!inline pages="tagged(gadget)" actions="no" archive="yes"
+feedshow=10]]
