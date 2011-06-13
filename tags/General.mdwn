@@ -1,0 +1,4 @@
+[[!meta title="pages tagged General"]]
+
+[[!inline pages="tagged(General)" actions="no" archive="yes"
+feedshow=10]]
