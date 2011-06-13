@@ -1,0 +1,4 @@
+[[!meta title="pages tagged novarra"]]
+
+[[!inline pages="tagged(novarra)" actions="no" archive="yes"
+feedshow=10]]
