@@ -1,0 +1,4 @@
+[[!meta title="pages tagged openweb"]]
+
+[[!inline pages="tagged(openweb)" actions="no" archive="yes"
+feedshow=10]]
