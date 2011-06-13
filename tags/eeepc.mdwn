@@ -1,0 +1,4 @@
+[[!meta title="pages tagged eeepc"]]
+
+[[!inline pages="tagged(eeepc)" actions="no" archive="yes"
+feedshow=10]]
