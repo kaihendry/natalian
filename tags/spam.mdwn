@@ -1,0 +1,4 @@
+[[!meta title="pages tagged spam"]]
+
+[[!inline pages="tagged(spam)" actions="no" archive="yes"
+feedshow=10]]
