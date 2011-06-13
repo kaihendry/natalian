@@ -1,0 +1,4 @@
+[[!meta title="pages tagged mailinglists"]]
+
+[[!inline pages="tagged(mailinglists)" actions="no" archive="yes"
+feedshow=10]]
