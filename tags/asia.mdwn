@@ -1,0 +1,4 @@
+[[!meta title="pages tagged asia"]]
+
+[[!inline pages="tagged(asia)" actions="no" archive="yes"
+feedshow=10]]
