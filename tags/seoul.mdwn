@@ -1,0 +1,4 @@
+[[!meta title="pages tagged seoul"]]
+
+[[!inline pages="tagged(seoul)" actions="no" archive="yes"
+feedshow=10]]
