@@ -1,0 +1,4 @@
+[[!meta title="pages tagged cloud"]]
+
+[[!inline pages="tagged(cloud)" actions="no" archive="yes"
+feedshow=10]]
