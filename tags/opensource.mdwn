@@ -1,0 +1,4 @@
+[[!meta title="pages tagged opensource"]]
+
+[[!inline pages="tagged(opensource)" actions="no" archive="yes"
+feedshow=10]]
