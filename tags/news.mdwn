@@ -1,0 +1,4 @@
+[[!meta title="pages tagged news"]]
+
+[[!inline pages="tagged(news)" actions="no" archive="yes"
+feedshow=10]]
