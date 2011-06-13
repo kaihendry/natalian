@@ -1,0 +1,4 @@
+[[!meta title="pages tagged apple"]]
+
+[[!inline pages="tagged(apple)" actions="no" archive="yes"
+feedshow=10]]
