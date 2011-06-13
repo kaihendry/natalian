@@ -1,0 +1,4 @@
+[[!meta title="pages tagged lowspec"]]
+
+[[!inline pages="tagged(lowspec)" actions="no" archive="yes"
+feedshow=10]]
