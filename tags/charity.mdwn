@@ -1,0 +1,4 @@
+[[!meta title="pages tagged charity"]]
+
+[[!inline pages="tagged(charity)" actions="no" archive="yes"
+feedshow=10]]
