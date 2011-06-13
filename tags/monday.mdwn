@@ -1,0 +1,4 @@
+[[!meta title="pages tagged monday"]]
+
+[[!inline pages="tagged(monday)" actions="no" archive="yes"
+feedshow=10]]
