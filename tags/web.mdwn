@@ -1,0 +1,4 @@
+[[!meta title="pages tagged web"]]
+
+[[!inline pages="tagged(web)" actions="no" archive="yes"
+feedshow=10]]
