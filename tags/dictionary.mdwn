@@ -1,0 +1,4 @@
+[[!meta title="pages tagged dictionary"]]
+
+[[!inline pages="tagged(dictionary)" actions="no" archive="yes"
+feedshow=10]]
