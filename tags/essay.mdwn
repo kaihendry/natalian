@@ -1,0 +1,4 @@
+[[!meta title="pages tagged essay"]]
+
+[[!inline pages="tagged(essay)" actions="no" archive="yes"
+feedshow=10]]
