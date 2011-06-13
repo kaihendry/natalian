@@ -1,0 +1,4 @@
+[[!meta title="pages tagged other"]]
+
+[[!inline pages="tagged(other)" actions="no" archive="yes"
+feedshow=10]]
