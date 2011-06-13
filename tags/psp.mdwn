@@ -1,0 +1,4 @@
+[[!meta title="pages tagged psp"]]
+
+[[!inline pages="tagged(psp)" actions="no" archive="yes"
+feedshow=10]]
