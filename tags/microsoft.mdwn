@@ -1,0 +1,4 @@
+[[!meta title="pages tagged microsoft"]]
+
+[[!inline pages="tagged(microsoft)" actions="no" archive="yes"
+feedshow=10]]
