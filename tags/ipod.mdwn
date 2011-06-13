@@ -1,0 +1,4 @@
+[[!meta title="pages tagged ipod"]]
+
+[[!inline pages="tagged(ipod)" actions="no" archive="yes"
+feedshow=10]]
