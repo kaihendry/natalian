@@ -1,0 +1,4 @@
+[[!meta title="pages tagged android"]]
+
+[[!inline pages="tagged(android)" actions="no" archive="yes"
+feedshow=10]]
