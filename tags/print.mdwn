@@ -1,0 +1,4 @@
+[[!meta title="pages tagged print"]]
+
+[[!inline pages="tagged(print)" actions="no" archive="yes"
+feedshow=10]]
