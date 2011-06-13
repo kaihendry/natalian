@@ -1,0 +1,4 @@
+[[!meta title="pages tagged postfix"]]
+
+[[!inline pages="tagged(postfix)" actions="no" archive="yes"
+feedshow=10]]
