@@ -347,7 +347,7 @@ websetup_show_unsafe: 0
 # base of the archives hierarchy
 #archivebase: archives
 # PageSpec of pages to include in the archives; used by ikiwiki-calendar command
-archive_pagespec: page(posts/*) and !*/Discussion
+archive_pagespec: page(archives/*/*/*/*)
 
 # listdirectives plugin
 # directory in srcdir that contains directive descriptions
