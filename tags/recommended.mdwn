@@ -1,0 +1,4 @@
+[[!meta title="pages tagged recommended"]]
+
+[[!inline pages="tagged(recommended)" actions="no" archive="yes"
+feedshow=10]]
