@@ -1,7 +1,7 @@
 [[!inline pages="internal(planet/twitter/*)" template="microblog" show=1 feeds=no]]
 
-[[!inline pages="page(./archives/*/*/*) and !*/Discussion" show="10" postform=no
-actions=yes rootpage="archives"]]
+[[!inline pages="page(./archives/*/*/*) and !*/Discussion" show="10"
+actions=no rootpage="archives"]]
 
 Thank you for [[commenting|comments]] !
 
