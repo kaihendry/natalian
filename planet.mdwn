@@ -2,6 +2,7 @@
 
 [[!inline pages="internal(planet/*) and !*/Discussion" show=55]]
 
+* [[!aggregate expirecount=25 name="geekout" feedurl="http://geekout.org.uk/index.rss" url="http://geekout.org.uk/"]]
 * [[!aggregate expirecount=25 name="twitter" feedurl="http://twitter.com/statuses/user_timeline/14742294.rss" url="http://twitter.com/kaihendry"]]
 * [[!aggregate expirecount=25 name="dabase" feedurl="http://dabase.com/index.rss" url="http://dabase.com/blog/archives/"]]
 * [[!aggregate expirecount=25 name="tips" feedurl="http://dabase.com/index.atom2" url="http://dabase.com/blog/archives/"]]
