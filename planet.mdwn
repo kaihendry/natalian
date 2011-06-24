@@ -2,6 +2,8 @@
 
 [[!inline pages="internal(planet/*) and !*/Discussion" show=55]]
 
+* [[!aggregate expirecount=25 name="audioboos" feedurl="http://audioboo.fm/users/103429/boos.rss" url="http://audioboo.fm/users/103429"]]
+* [[!aggregate expirecount=25 name="flickr" feedurl="http://api.flickr.com/services/feeds/activity.gne?user_id=16105436@N00" url="http://www.flickr.com/photos/hendry/"]]
 * [[!aggregate expirecount=25 name="geekout" feedurl="http://geekout.org.uk/index.rss" url="http://geekout.org.uk/"]]
 * [[!aggregate expirecount=25 name="twitter" feedurl="http://twitter.com/statuses/user_timeline/14742294.rss" url="http://twitter.com/kaihendry"]]
 * [[!aggregate expirecount=25 name="dabase" feedurl="http://dabase.com/index.rss" url="http://dabase.com/blog/archives/"]]
