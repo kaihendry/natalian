@@ -1,39 +1,39 @@
 For those new to the mobile operator world, you might find the glossary of
 terminology I've collected over my time at Vodafone Group helpful:
 
-	"""I'm listening to music and I don't have a chair""" -- no one has dialled into the teleconference except you
-	(deep) dive -- throwing yourselves into an action without much preparation
-	ROM -- rough order of magnitude
-	alignment -- get our shit together
-	analytics -- impressive graphs
-	deck -- a presentation
-	drilling -- detailing
-	drop off -- hang up on the teleconference call
-	e-learning -- learning how to use a computer
-	end of play or C.O.D. or C.O.B. -- end of the working day (or before start of next working day)
-	escalate this -- let your manager speak to your colleague's manager
-	exco -- Group Executive Committee
-	flat -- very little (or none)
-	gatekeeper -- self-important person who solely controls a process
-	good question -- i have no idea
-	KPI -- key performance indicators (what a bonus is probably tied to)
-	leverage -- use of a tool or contact to do something
-	loop in -- mail everyone again (annoyingly) adding another participant
-	manage expectations -- work out how to fuddle goals
-	onboarding -- integrating a system (usually a very very painful because it doesn't work)
-	one to one (or face-to-face) -- a private meeting between two people
-	owning a decision -- figuring out who is to blame
-	push back -- say no, resist a decision or action
-	quick win -- "low hanging fruit", solve the easier problems, do this first without thinking
-	ramp up - bring up to speed on events or issues
-	reach out -- talk to someone
-	rolling off the project -- being fired
-	schedule a meeting -- schedule a time wasting teleconference with Outlook without an agenda
-	screen protectors -- facebook filter
-	slipped -- missed a target
-	sync up -- lets get together
-	take this offline -- take it off the voice conference or talk later
-	that's TBD -- I don't know
-	to go nuclear -- last resort / worse case scenario
-	touch base -- get in touch (not about cocaine)
-	WFH -- "working" from home or as one colleague suggests "Watching daytime TV" or doing house renovations
+* """I'm listening to music and I don't have a chair""" -- no one has dialled into the teleconference except you
+* (deep) dive -- throwing yourselves into an action without much preparation
+* ROM -- rough order of magnitude
+* alignment -- get our shit together
+* analytics -- impressive graphs
+* deck -- a presentation
+* drilling -- detailing
+* drop off -- hang up on the teleconference call
+* e-learning -- learning how to use a computer
+* end of play or C.O.D. or C.O.B. -- end of the working day (or before start of next working day)
+* escalate this -- let your manager speak to your colleague's manager
+* exco -- Group Executive Committee
+* flat -- very little (or none)
+* gatekeeper -- self-important person who solely controls a process
+* good question -- i have no idea
+* KPI -- key performance indicators (what a bonus is probably tied to)
+* leverage -- use of a tool or contact to do something
+* loop in -- mail everyone again (annoyingly) adding another participant
+* manage expectations -- work out how to fuddle goals
+* onboarding -- integrating a system (usually a very very painful because it doesn't work)
+* one to one (or face-to-face) -- a private meeting between two people
+* owning a decision -- figuring out who is to blame
+* push back -- say no, resist a decision or action
+* quick win -- "low hanging fruit", solve the easier problems, do this first without thinking
+* ramp up - bring up to speed on events or issues
+* reach out -- talk to someone
+* rolling off the project -- being fired
+* schedule a meeting -- schedule a time wasting teleconference with Outlook without an agenda
+* screen protectors -- facebook filter
+* slipped -- missed a target
+* sync up -- lets get together
+* take this offline -- take it off the voice conference or talk later
+* that's TBD -- I don't know
+* to go nuclear -- last resort / worse case scenario
+* touch base -- get in touch (not about cocaine)
+* WFH -- "working" from home or as one colleague suggests "Watching daytime TV" or doing house renovations
