@@ -2,6 +2,8 @@
 [[!calendar pages="page(./archives/*) and !*/Discussion"]]
 """]]
 
+[Follow me on twitter @kaihendry](http://twitter.com/#!/kaihendry)
+
 [[Recent Comments|comments]]
 
 [[Archives]]
