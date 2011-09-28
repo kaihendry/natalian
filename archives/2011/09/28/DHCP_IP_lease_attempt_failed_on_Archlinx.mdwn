@@ -1,0 +1,28 @@
+If you routinely use Archlinux's `sudo wifi-select wlan0` UI to get online, you
+might have seen this dreaded error message:
+
+	DHCP IP lease attempt failed.
+
+After Googling I found these two links interesting:
+
+* <https://bbs.archlinux.org/viewtopic.php?id=120230>
+* <https://bugs.launchpad.net/ubuntu/+source/linux/+bug/305338>
+
+# Solutions to try
+
+## Clear dhcpcd leases
+
+Nuke leaeses in `/var/lib/dhcpcd`
+
+	rm /var/lib/dhcpcd/*
+
+## Switch to dhclient (providing you have it installed)
+
+Add `DHCLIENT=yes`
+
+	hendry@x201 network.d$ cat /etc/network.d/Fluent\ Space | grep DHCLIENT
+	DHCLIENT=yes
+
+There is a bunch of [Archlinux wireless quirk switches to try
+too](https://wiki.archlinux.org/index.php/Netcfg#Driver_quirks) and of course
+bumping up the TIMEOUT value.
