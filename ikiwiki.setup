@@ -61,7 +61,8 @@ add_plugins:
   - theme
   - aggregate
 # plugins to disable
-disable_plugins: []
+disable_plugins:
+  - htmlscrubber
 # additional directory to search for template files
 templatedir: /usr/share/ikiwiki/templates
 # base wiki source location
@@ -81,7 +82,7 @@ discussion: 0
 # name of Discussion pages
 discussionpage: Discussion
 # generate HTML5?
-html5: 0
+html5: 1
 # only send cookies over SSL connections?
 sslcookie: 0
 # extension to use for new pages
@@ -274,8 +275,8 @@ po_link_to: default
 
 ######################################################################
 # web plugins
-#   (404, attachment, comments, editdiff, edittemplate, getsource, google,
-#    goto, mirrorlist, remove, rename, repolist, search, theme, userlist,
+#   (404, attachment, comments, editdiff, edittemplate, google, goto,
+#    mirrorlist, remove, rename, repolist, search, theme, userlist,
 #    websetup, wmd)
 ######################################################################
 
@@ -298,10 +299,6 @@ comments_pagename: comment_
 #comments_allowauthor: 0
 # commit comments to the VCS
 comments_commit: 1
-
-# getsource plugin
-# Mime type for returned source.
-#getsource_mimetype: text/plain; charset=utf-8
 
 # mirrorlist plugin
 # list of mirrors
@@ -430,7 +427,7 @@ recentchangesnum: 100
 
 # sidebar plugin
 # show sidebar page on all pages?
-global_sidebars: 0
+global_sidebars: 1
 
 # tag plugin
 # parent page tags are located under
