@@ -8,6 +8,4 @@
 
 [[Archives]]
 
-[[Tags]]:
-
-[[!pagestats style="list" pages="./tags/*" among="./archives/*"]]
+[[Tags]]
