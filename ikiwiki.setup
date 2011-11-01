@@ -60,6 +60,7 @@ add_plugins:
   - version
   - theme
   - aggregate
+  - rawhtml
 # plugins to disable
 disable_plugins:
   - htmlscrubber
