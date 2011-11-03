@@ -4,3 +4,5 @@
 <p>I hope to see Debian move away from <span class="caps">GPG</span> authenticated uploads to where contributions are processed something like a <strong>Wiki</strong>.</p>
 
 <p>Depending on <span class="caps">GPG</span> and its daft <a href="http://blog.madduck.net/geek/2006.05.24-tr-id-at-keysigning">Web of trust</a> is silly.</p>
+
+Update: I like to think I was right and ahead of my time <http://www.nicosphere.net/why-aur-is-part-of-the-arch-linux-success-2529/> ;)
