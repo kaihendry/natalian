@@ -1,0 +1,69 @@
+<a href="http://www.flickr.com/photos/hendry/6326386734/" title="Fixed msata by Kai Hendry, on Flickr"><img src="http://farm7.static.flickr.com/6052/6326386734_c699194eef_z.jpg" width="640" height="428" alt="Fixed msata"></a>
+
+Upgraded to a Thinkpad X220 model 4287CTO from a X201.
+
+A 64bit Archlinux install on a 166GBP OCZ 120GB Nocti SSD - mSATA SATA-II - Read
+280MB/s Write 260MB/s from [Ebuyer](http://www.ebuyer.com/284727-ocz-120gb-nocti-ssd-msata-sata-ii-read-280mb-s-write-260mb-s-noc-msata-120g) went well. I can't verify the [SSDs speeds](https://wiki.archlinux.org/index.php/SSD_Benchmarking), but they are much faster than the Seagate 500GB Momentus XT Hybrid SSD in my [[archives/2011/01/16/Archlinux_SSD_upgrade_from_Ubuntu|X201 with Archlinux]].
+
+I opted for syslinux and I can boot into Windows using a chainload stanza or by
+using the Thinkpad own BIOS boot menu. No more bloated Grub for me, and
+syslinux does allow to alter the cmdline.
+
+With `MODULES=(acpi-cpufreq cpufreq_ondemand cpufreq_powersave)` and
+`/etc/conf.d/cpufreq:governor="ondemand"` configured, I do drop down to 800mhz
+on all 4 processors. However the fan unlike my X201 is pretty much permamently
+on. Argh! **NOISE** It is pretty hot on the side, so the X220 seems to exhibit
+some cooling issues. :( I'm not sure who to turn to. I don't think there is any
+point trying to turn off the noisy fan if it feels hot to the touch!
+
+Another problem is the wifi. `wifi-select wlan0` doesn't seem to want to join
+an open network. The problem seems similar to issue documented with my X201 and
+[[archives/2011/09/28/DHCP_IP_lease_attempt_failed_on_Archlinx/]]. I've also
+found general complaints about the [Intel iwalgn
+driver](https://lkml.org/lkml/2011/10/15/107).  My workaround is to `sudo
+iwconfig wlan0 essid praze`, `sudo iwconfig wlan0 key off` & `sudo dhcpcd
+wlan0` manually to get connected!
+
+Another issue is the card reader. `mmcblk0: timed out sending r/w cmd
+command, card status 0x700`, sdhci/mmcblk0 b0rks with errors and `REGISTER
+DUMP (mmc0)` all over the shop when I put in an sdcard, which works
+**fine** on the X201. No idea what to do here. :(
+
+The 9 cell battery only seems to get 4.5hrs out of it. There is probably some
+tweaking I can do. Doesn't help that `powertop` doesn't work because it isn't
+ported to /sysfs IIUC. :( The 9 cell upgrade wasn't much money, but I think I
+would have gone for the smaller battery now, knowing what I do now.
+
+<a href="http://www.flickr.com/photos/hendry/6327353154/" title="X201 versus X220 showing tmux by Kai Hendry, on Flickr"><img src="http://farm7.static.flickr.com/6119/6327353154_b6928d5850_z.jpg" width="640" height="428" alt="X201 versus X220 showing tmux"></a>
+
+I like the new wider & clearer screen. It suits me well with a [tiling window
+manager dwm](http://dwm.suckless.org/). The little webcam (HD 720p) is also an
+improvement over the one embedded in the screen in the X201. I also think the
+keyboard is slightly better too, with the fat ESC & Delete keys that suit a
+**vim** user well.
+
+Of course I disabled the Trackpad in favour of the trackpoint in the BIOS, but
+it is a unnerving to accidentally depress it from time to time. I think the
+case is falling apart.
+
+Occassionally the Windows hard drive spins up and makes a funny noise, even
+though it's not in use. Not sure what I can do about this... perhaps I should
+take it out. ;)
+
+I must say buying a laptop from <http://shop.lenovo.com/> (powered by Digital River) was a little insane. It exhibited a myriad of problems, most of which I've cleared my mind off, less I go insane.
+* Timing out (joy at having to pick all the parts I want again ...)
+* Failed to login (I think my login is for the US site which doesn't work in the UK site), ended up ordering without an account, completely daft
+* Awful, god awful forms
+* Conflicting information about the on-site warranty, needed to call up
+
+[Lenovo UK on twitter](https://twitter.com/#!/lenovo_uk) thankfully were slightly useful.
+
+The [UPS](http://www.ups.com/) shipment progress was also pretty rediculous. The laptop started in China on 11/03/2011, then it went to:
+* Castle Donnington, United Kingdom
+* Back to Shanghai, China (w.t.f!)
+* Incheon, Korea, Republic of
+* Almaty, Kazakhstan
+* Warsaw, Poland
+* Koeln, Germany
+* Castle Donnington, United Kingdom
+* Exeter, United Kingdom 11/08/2011
