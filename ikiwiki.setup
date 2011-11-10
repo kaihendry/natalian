@@ -428,7 +428,7 @@ recentchangesnum: 100
 
 # sidebar plugin
 # show sidebar page on all pages?
-global_sidebars: 1
+global_sidebars: 0
 
 # tag plugin
 # parent page tags are located under
