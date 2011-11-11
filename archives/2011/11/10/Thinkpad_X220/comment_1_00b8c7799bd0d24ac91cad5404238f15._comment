@@ -1,0 +1,8 @@
+[[!comment format=mdwn
+ username="http://jamiek.it/"
+ nickname="Jamie Kitson"
+ subject="comment 1"
+ date="2011-11-11T10:07:09Z"
+ content="""
+Did you try netcfg? It is very slow, but it's designed to do the hard work for you.
+"""]]
