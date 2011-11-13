@@ -1,0 +1,48 @@
+<a href="http://www.flickr.com/photos/hendry/6340023319/" title="Iphone4 and NexusS by Kai Hendry, on Flickr"><img src="http://farm7.static.flickr.com/6095/6340023319_7bf2758f94.jpg" width="500" height="334" alt="Iphone4 and NexusS"></a>
+
+I must confess I started using an Iphone4 whilst on the [2011 Mongol
+Rally](http://geekout.org.uk). I had the phone through work, though I didn't
+have a good reason to use the Iphone until on the trip.
+
+The Iphone4 feature I fell in love with with its **camera**. It also take
+excellent videos too and it was pure joy to look back on them in the Photos
+application and the places was a sheer bonus.
+
+I ditched my [[Canon_IXUS_1000_HS|archives/2010/10/11/Canon_IXUS_1000_HS]]
+months ago because it sucked. The Iphone or NexusS feature I can't live without
+is [Geotagging](http://en.wikipedia.org/wiki/Geotagging). I did come across a
+[small Canon camera with a geotagging
+feature](http://www.flickr.com/photos/hendry/6190494723/), but the sales person
+said you need to use special software to enable it. Fuck that! Even if the
+sales person was wrong, a [GPS lock
+wait](http://www.cameralabs.com/reviews/Canon_PowerShot_SX230_HS/) seems to be
+the case. Again the Iphone4 seems really fast, faster than the Android NexusS
+for geotagging an image. In fact, what I love about the Iphone4, it doesn't
+even show it's geotagging. It just does it, so it's just one less thing to
+worry about.
+
+This Tuesday I have to return my work Iphone4 since I am moving to Malaysia and
+I will have to return to using the Nexus S was has a long list of faults.
+
+It's incredibly sluggish, like walking through mud when using it. The Android
+keyboard is almost unusable next to the Iphone4's.
+
+The NexusS battery is insanely bad. It's half way when the Iphone4 would be 80%
+doing more things. The Iphone4 also seems to charge incredibly quickly, unlike
+the NexusS.
+
+The screen on the Iphone4 feels bigger. Using the NexusS is like using a screen
+that's half this size... the NexusS feels claustrophic next to the Iphone4.
+
+Some things about the Iphone4 that sucked are:
+* Had to get operator to allow the wifi spot feature which I could never get my laptop connected to
+* Apple's Mail client sucks
+* You can't tether and that just super sucks. Android tehtering is a joy.
+* Don't understand notifications on Ios5. For e.g. it tells me I have FB update, but it's sluggish to open FB app and then I have to update again to see the message. w.t.f.? (Still it's better than say tweetdeck falling over all the time on Android)
+* [Mounting the Iphone4 filesystem from Archlinux](https://wiki.archlinux.org/index.php/IPod) broke on the ios5 update which seriously pissed me off. So I had to email off all the pictures I took which is frankly unworkable going forward.
+
+Besides those complaints I will seriously miss the Iphone4. I hate to sound like a complete fan boy, but I don't think I can cope without it. :(
+
+NexusS takes horrible pictures and just the sluggish UI will piss me of no end.
+Android 3 seems even slower than the 2.3.6 I have already so this feels
+seriously like a down grade.
