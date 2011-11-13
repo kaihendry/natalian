@@ -22,10 +22,10 @@ even show it's geotagging. It just does it, so it's just one less thing to
 worry about.
 
 This Tuesday I have to return my work Iphone4 since I am moving to Malaysia and
-I will have to return to using the Nexus S was has a long list of faults.
+I will have to return to using the Nexus S which has a long list of faults.
 
-It's incredibly sluggish, like walking through mud when using it. The Android
-keyboard is almost unusable next to the Iphone4's.
+The Android Nexus S is incredibly sluggish, like walking through mud when using
+it. The Android keyboard is almost unusable next to the Iphone4's. :(
 
 The NexusS battery is insanely bad. It's half way when the Iphone4 would be 80%
 doing more things. The Iphone4 also seems to charge incredibly quickly, unlike
@@ -37,8 +37,8 @@ that's half this size... the NexusS feels claustrophobic next to the Iphone4.
 Some things about the Iphone4 that sucked are:
 
 * Had to get operator to allow the wifi spot feature which I could never get my laptop connected to
-* Apple's Mail client sucks
-* You can't tether and that just super sucks. Android tehtering is a joy.
+* Apple's Mail client sucks, search seemed broken
+* You can't tether on Iphone in Arch (at least I could not figure it out) and that just super sucks. Android tehtering is a joy.
 * Don't understand notifications on Ios5. For e.g. it tells me I have FB update, but it's sluggish to open FB app and then I have to update again to see the message. w.t.f.? (Still it's better than say tweetdeck falling over all the time on Android)
 * [Mounting the Iphone4 filesystem from Archlinux](https://wiki.archlinux.org/index.php/IPod) broke on the ios5 update which seriously pissed me off. So I had to email off all the pictures I took which is frankly unworkable going forward.
 
@@ -49,5 +49,5 @@ end.  Android 3 seems even slower than the 2.3.6... so this feels seriously
 like a down grade and I don't see Android rectifying their sucky trajectory.
 
 I want to keep with a more "open phone" like Android, but tbh I also like to
-argue I care about the browser. For me in the mobile Web industry, I feel
+argue I care really about the browser. For me in the mobile Web industry, I feel
 Safari on Iphone is the browser to target.
