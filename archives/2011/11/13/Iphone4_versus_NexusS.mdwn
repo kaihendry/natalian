@@ -35,6 +35,7 @@ The screen on the Iphone4 feels bigger. Using the NexusS is like using a screen
 that's half this size... the NexusS feels claustrophic next to the Iphone4.
 
 Some things about the Iphone4 that sucked are:
+
 * Had to get operator to allow the wifi spot feature which I could never get my laptop connected to
 * Apple's Mail client sucks
 * You can't tether and that just super sucks. Android tehtering is a joy.
