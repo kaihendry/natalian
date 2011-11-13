@@ -10,16 +10,16 @@ application and the places was a sheer bonus.
 
 I ditched my [[Canon_IXUS_1000_HS|archives/2010/10/11/Canon_IXUS_1000_HS]]
 months ago because it sucked. The Iphone or NexusS feature I can't live without
-is [Geotagging](http://en.wikipedia.org/wiki/Geotagging). I did come across a
-[small Canon camera with a geotagging
+is [Geotagging](http://en.wikipedia.org/wiki/Geotagged_photograph). I did come
+across a [small Canon camera with a geotagging
 feature](http://www.flickr.com/photos/hendry/6190494723/), but the sales person
 said you need to use special software to enable it. Fuck that! Even if the
-sales person was wrong, a [GPS lock
-wait](http://www.cameralabs.com/reviews/Canon_PowerShot_SX230_HS/) seems to be
-the case. Again the Iphone4 seems really fast, faster than the Android NexusS
-for geotagging an image. In fact, what I love about the Iphone4, it doesn't
-even show it's geotagging. It just does it, so it's just one less thing to
-worry about.
+sales person was wrong, a [long GPS acquisition
+time](http://www.cameralabs.com/reviews/Canon_PowerShot_SX230_HS/) seems to be
+the case for camera without a data SIM card. Again the Iphone4 seems really
+fast, faster than the Android NexusS for geotagging an image. In fact, what I
+love about the Iphone4, it doesn't even show it's geotagging. It just does it
+(with good results), so it's just one less thing to worry about.
 
 This Tuesday I have to return my work Iphone4 since I am moving to Malaysia and
 I will have to return to using the Nexus S which has a long list of faults.
