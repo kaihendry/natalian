@@ -1,0 +1,8 @@
+[[!comment format=mdwn
+ username="http://jamiek.it/"
+ nickname="Jamie Kitson"
+ subject="GPT/UEFI?"
+ date="2011-11-16T11:12:43Z"
+ content="""
+Did you partition the mSATA using GPT? If you're using syslinux then you can't be using UEFI, but I couldn't get my GPT SSD to boot on the X220 without using UEFI. If you didn't use GPT did you make sure to align the partition?
+"""]]
