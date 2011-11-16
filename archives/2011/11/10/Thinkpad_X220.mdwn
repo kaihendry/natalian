@@ -1,5 +1,9 @@
 <a href="http://www.flickr.com/photos/hendry/6326386734/" title="Fixed msata by Kai Hendry, on Flickr"><img src="http://farm7.static.flickr.com/6052/6326386734_c699194eef_z.jpg" width="640" height="428" alt="Fixed msata"></a>
 
+The TL;DR version is that I'm having an embarrasing non-sensical emotional
+break down since I'm having to switch back to using a Nexus S after using a
+Iphone4 secretly for the past few months. My principles are in a mess.
+
 Upgraded to a Thinkpad X220 model 4287CTO from a X201. Kinda prompted by [Jamie
 purchasing a
 X220](http://blog.jamiek.it/2011/10/arch-linux-on-thinkpad-x220.html) too.
@@ -15,9 +19,11 @@ cmdline. Bonus.
 With `MODULES=(acpi-cpufreq cpufreq_ondemand cpufreq_powersave)` and
 `/etc/conf.d/cpufreq:governor="ondemand"` configured, I do drop down to 800mhz
 on all 4 processors. However the fan unlike my X201 is pretty much permanently
-on. Argh! **NOISE**... It is pretty hot on the side, so the X220 seems to exhibit
-some cooling issues. :( I'm not sure who to turn to. I don't think there is any
-point trying to turn off the noisy fan if it feels hot to the touch!
+on. Argh! **NOISE**... It is pretty hot on the side, so the X220 seems to
+exhibit some cooling issues. :( I'm not sure who to turn to. I don't think
+there is any point trying to turn off the noisy fan if it feels hot to the
+touch! I did find a ridiculously long [forum thread on the X220 fan's
+issues](http://forums.lenovo.com/t5/X-Series-ThinkPad-Laptops/X220-fan-constantly-on-revving-up-and-down/td-p/425965).
 
 Another problem is the "Intel Corporation Centrino Advanced-N 6205 (rev 34)"
 wireless. Arch's `wifi-select wlan0` doesn't seem to want to join an open
