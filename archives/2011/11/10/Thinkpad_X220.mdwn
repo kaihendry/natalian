@@ -1,9 +1,5 @@
 <a href="http://www.flickr.com/photos/hendry/6326386734/" title="Fixed msata by Kai Hendry, on Flickr"><img src="http://farm7.static.flickr.com/6052/6326386734_c699194eef_z.jpg" width="640" height="428" alt="Fixed msata"></a>
 
-The TL;DR version is that I'm having an embarrasing non-sensical emotional
-break down since I'm having to switch back to using a Nexus S after using a
-Iphone4 secretly for the past few months. My principles are in a mess.
-
 Upgraded to a Thinkpad X220 model 4287CTO from a X201. Kinda prompted by [Jamie
 purchasing a
 X220](http://blog.jamiek.it/2011/10/arch-linux-on-thinkpad-x220.html) too.
