@@ -62,6 +62,7 @@ add_plugins:
   - theme
   - aggregate
   - rawhtml
+  - userlist
 # plugins to disable
 disable_plugins:
   - htmlscrubber
