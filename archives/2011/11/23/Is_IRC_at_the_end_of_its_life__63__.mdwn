@@ -57,7 +57,7 @@ get all of them to use tmux/screen & irssi can I?!
 
 Furthermore I have the problem where the usual shell I run `irssi` in the UK is
 just too slow from Malaysia. So what now? Get a new VPS and re-configure stuff
-like IP masks? What a massive PITA.
+like IP masks? What a massive & _expensive_ PITA.
 
 So with the problems outlayed above, I think IRC is seriously in trouble. It
 really rang true for me as the co-working space in Malaysia, full of smart
