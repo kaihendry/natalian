@@ -30,12 +30,12 @@ driver](https://lkml.org/lkml/2011/10/15/107).  My workaround is to `sudo
 iwconfig wlan0 essid praze`, `sudo iwconfig wlan0 key off` & `sudo dhcpcd
 wlan0` manually to get connected!
 
-Another issue is the card reader. `mmcblk0: timed out sending r/w cmd command,
+<strike>Another issue is the card reader. `mmcblk0: timed out sending r/w cmd command,
 card status 0x700`, sdhci/mmcblk0 b0rks with errors and `REGISTER DUMP (mmc0)`
 all over the shop when I put in an sdcard, which works **fine** on the X201.
 Found an [Arch post of the same
 topic](https://bbs.archlinux.org/viewtopic.php?id=125813), which says the
-problem might be fixed in Linux 3.1. I'm running `Linux x220 3.1.0-4-ARCH #1 SMP PREEMPT Mon Nov 7 22:47:18 CET 2011 x86_64 Intel(R) Core(TM) i7-2620M CPU @ 2.70GHz GenuineIntel GNU/Linux` atm. :/
+problem might be fixed in Linux 3.1. I'm running `Linux x220 3.1.0-4-ARCH #1 SMP PREEMPT Mon Nov 7 22:47:18 CET 2011 x86_64 Intel(R) Core(TM) i7-2620M CPU @ 2.70GHz GenuineIntel GNU/Linux` atm. :/</strike> Works now fine in `3.1.1-1-ARCH`.
 
 The 9 cell battery only seems to get 4.5hrs out of it. There is probably some
 tweaking I can do. Doesn't help that `powertop` doesn't work because it isn't

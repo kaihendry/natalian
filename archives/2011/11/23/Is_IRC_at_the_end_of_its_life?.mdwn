@@ -1,0 +1,53 @@
+I've been using IRC for years. Since the [South African
+BBS](http://www.africa.upenn.edu/BBS_Internet/South_Africa_11689.html) days, on
+ZAnet #durban.
+
+During 6th form I took a break from all things Internet, but by Bath University
+I was back... this time on Quakenet. Thanks to Quake & QWTF clans. There is a
+chat channel on Quakenet with a few hardcore [BUNCS](http://www.buncs.com/)
+members from 1998 that we are still on.
+
+Since University I've had a VPS and enjoyed a screen & irssi session on
+Freenode to complement most of my working activities. I've lurked on #whatwg
+since its inception and I've asked countless stupid questions on a variety
+channels like #bash with familiar regulars like greycat & twkm.
+
+I've also been on OFTC for years, mainly because of Debian projects like Debian
+Live & lately ikiwiki.
+
+I like to think I've introduced some folks to IRC and I was quite pleased to
+get 3 collegues recently on IRC. In my previous workplace we sat around the
+table and we were all on Gtalk, so there was no need for a company IRC channel.
+
+So the four of us on a Freenode channel was immediately controversial. Freenode
+is **only** for "Free and Open Source Software communities" and we at the
+company were mainly communicating tbh about company type bullshit. So where do
+you go if you want an IRC channel for your company? Beats me.
+
+The barrier to entry is outrageously high for businesses.
+
+Firstly setting up the channel with a password or rather to limit a certain IP
+range is non-trivial.
+
+Next a distributed network probably requires some sort of nick registration.
+Took me personally ages to bother to register my nick.
+
+Then there is question of users who join from their local machines and
+basically drop off when they change between wlan0 and eth0, hence missing out
+on messages. My collegues are smart people, but I can't get all of them to use
+tmux/screen & irssi can I?
+
+Furthermore I have the problem where the usual shell I run `irssi` in the UK is
+just too slow from Malaysia. So what now?
+
+So with these problems outlayed above, I think IRC is seriously in trouble. It
+really rang true for me as the co-working space in Malaysia, full of smart
+people... I'm the only person on IRC. They prefer Stackoverflow or Gtalk for
+discussions.
+
+I like to think IRC could pull through well into 21st century if they solved
+the back channel (reconnect) problem and it had a **decent** Web front end.
+Freenode's [webchat seems broken](http://blog.freenode.net/category/webchat/)
+half the time.
+
+Else is it the end of IRC? You did fare well.
