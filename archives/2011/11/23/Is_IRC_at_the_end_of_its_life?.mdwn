@@ -1,16 +1,19 @@
-I've been using IRC for years. Since the [South African
-BBS](http://www.africa.upenn.edu/BBS_Internet/South_Africa_11689.html) days, on
-ZAnet #durban.
+<a href="http://www.flickr.com/photos/hendry/6389250293/" title="Web IRC clients by Kai Hendry, on Flickr"><img src="http://farm7.staticflickr.com/6219/6389250293_7245be0e1a.jpg" width="500" height="281" alt="Web IRC clients"></a>
 
-During 6th form I took a break from all things Internet, but by Bath University
-I was back... this time on Quakenet. Thanks to Quake & QWTF clans. There is a
-chat channel on Quakenet with a few hardcore [BUNCS](http://www.buncs.com/)
-members from 1998 that we are still on.
+I've been using IRC for years. Since the [South African
+BBS](http://www.africa.upenn.edu/BBS_Internet/South_Africa_11689.html)
+Connectix days, on ZAnet #durban.
+
+During boarding school I took a break from all things Internet, but by Bath
+University I was back... this time on Quakenet. Thanks to Quake & QWTF clans.
+There is a chat channel on Quakenet with a few hardcore
+[BUNCS](http://www.buncs.com) members from 1998 that we are still on.
 
 Since University I've had a VPS and enjoyed a screen & irssi session on
-Freenode to complement most of my working activities. I've lurked on #whatwg
-since its inception and I've asked countless stupid questions on a variety
-channels like #bash with familiar regulars like greycat & twkm.
+Freenode to complement most of my working activities. I've lurked on
+[#whatwg](http://wiki.whatwg.org/wiki/IRC) since its inception and I've asked
+countless stupid questions on a variety channels like #bash with familiar
+regulars like greycat & twkm.
 
 I've also been on OFTC for years, mainly because of Debian projects like Debian
 Live & lately ikiwiki.
@@ -34,7 +37,7 @@ Took me personally ages to bother to register my nick.
 
 Then there is question of users who join from their local machines and
 basically drop off when they change between wlan0 and eth0, hence missing out
-on messages. My collegues are smart people, but I can't get all of them to use
+on messages. My colleagues are smart people, but I can't get all of them to use
 tmux/screen & irssi can I?
 
 Furthermore I have the problem where the usual shell I run `irssi` in the UK is
@@ -43,7 +46,7 @@ just too slow from Malaysia. So what now?
 So with these problems outlayed above, I think IRC is seriously in trouble. It
 really rang true for me as the co-working space in Malaysia, full of smart
 people... I'm the only person on IRC. They prefer Stackoverflow or Gtalk for
-discussions.
+discussions. Lack of Asian servers is also a little worrying.
 
 I like to think IRC could pull through well into 21st century if they solved
 the back channel (reconnect) problem and it had a **decent** Web front end.
