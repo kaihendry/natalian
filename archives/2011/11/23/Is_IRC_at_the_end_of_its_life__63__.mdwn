@@ -18,6 +18,12 @@ regulars like greycat & twkm.
 I've also been on OFTC for years, mainly because of Debian projects like Debian
 Live & lately ikiwiki.
 
+Refreshingly the [W3C](http://www.w3.org) as a organisation use
+[IRC](http://www.w3.org/wiki/InternetRelayChat) to facilitate meetings. It has
+a rather excellent [bot](http://www.w3.org/2001/12/zakim-irc-bot) to help
+scribe and produce minutes of meetings on the Web. Really would like to see
+more of this.
+
 I like to think I've introduced some folks to IRC and I was quite pleased to
 get 3 collegues recently on IRC. In my previous workplace we sat around the
 table and we were all on Gtalk, so there was no need for a company IRC channel.
@@ -25,7 +31,9 @@ table and we were all on Gtalk, so there was no need for a company IRC channel.
 So the four of us on a Freenode channel was immediately controversial. Freenode
 is **only** for "Free and Open Source Software communities" and we at the
 company were mainly communicating tbh about company type bullshit. So where do
-you go if you want an IRC channel for your company? Beats me.
+you go if you want an IRC channel for your company? Beats me. Update: Friends
+tell me their companies run an ircd at their workplace... yikes... another
+hurdle!
 
 The barrier to entry to the world of IRC communication is outrageously high for
 businesses.
@@ -48,8 +56,9 @@ like IP masks? What a massive PITA.
 
 So with the problems outlayed above, I think IRC is seriously in trouble. It
 really rang true for me as the co-working space in Malaysia, full of smart
-people... I'm the only person on IRC. They prefer Stackoverflow or Gtalk for
-discussions. Lack of Asian IRC servers is also a little worrying.
+people... I'm the only person on IRC. They prefer
+[Stackoverflow](http://stackoverflow.com) or Gtalk for discussions. Lack of
+Asian IRC servers is also a little worrying.
 
 I like to think IRC could pull through well into 21st century if they solved
 the back channel (reconnect) problem and if IRC had a **decent** Web front end.
