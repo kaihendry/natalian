@@ -82,3 +82,9 @@ During a fun IRC discourse on [#suckless](http://suckless.org/community),
 kfx recalls the defunct project
 [irc+](http://web.archive.org/web/20100204101713/http://www.irc-plus.org/en/),
 where he said it died because "nobody gives a shit".
+
+Update: I guess there is no such thing as original thought! [via tokeiihto](http://twitter.com/#!/tokeiihto/status/139635419963867136):
+
+* <https://grove.io/about> is a step I was thinking of
+* <http://blog.leahculver.com/2011/02/convore-group-chat-for-everyone.html>
+* <https://convore.com/>
