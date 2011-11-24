@@ -10,7 +10,7 @@ University I was back... this time on Quakenet. Thanks to Quake & QWTF clans.
 There is a chat channel on Quakenet with a few hardcore
 [BUNCS](http://www.buncs.com) members from 1998 that we are still on.
 
-Since University I've had a VPS and enjoyed a screen & irssi session on
+Since University I've had a VPS and long enjoyed a screen & irssi session on
 Freenode to complement most of my working activities. I've lurked on
 [#whatwg](http://wiki.whatwg.org/wiki/IRC) since its inception and I've asked
 countless stupid questions on a variety channels like #bash with familiar
@@ -51,9 +51,10 @@ Took me personally ages to bother to register my nick on Freenode. Scripting a
 nickserv identify rule for a variety of IRC clients is another PITA.
 
 Then there is question of users who connect from their local machines and
-basically drop off when they change between wlan0 and eth0, hence missing out
-on a potential backlog of messages. My colleagues are smart people, but I can't
-get all of them to use tmux/screen & irssi can I?!
+basically drop off (leaving countless annoying quit and joined messages) when
+they for example change between `wlan0` and `eth0`. Hence **missing out on a
+potential backlog of messages**. My colleagues are smart people, but I can't
+get all of them to use tmux/screen & irssi can I?! It's expensive for a start.
 
 Furthermore I have the problem where the usual shell I run `irssi` in the UK is
 just too slow from Malaysia. So what now? Get a new VPS and re-configure stuff
@@ -70,5 +71,14 @@ the back channel (reconnect) problem and if IRC had a **decent** Web front end.
 Freenode's [webchat seems broken](http://blog.freenode.net/category/webchat/)
 half the time, for example too many connections from one IP.
 
-So is it the end of IRC? You did fare well. Please comment if you have similar
-thoughts.
+During a fun IRC discourse on [#suckless](http://suckless.org/community),
+[cls](http://twitter.com/#!/lubutu) adds:
+
+* no backlogging
+* no good authentication
+* usually sent in plaintext (not utf8 I assume)
+* we have multiple incompatible networks...
+
+kfx recalls the defunct project
+[irc+](http://web.archive.org/web/20100204101713/http://www.irc-plus.org/en/),
+where he said it died because "nobody gives a shit".
