@@ -1,0 +1,13 @@
+[[!comment format=mdwn
+ username="http://hendry.iki.fi/"
+ nickname="hendry"
+ subject="SLOC"
+ date="2011-11-28T01:38:13Z"
+ content="""
+I use a program called [sloccount](http://www.dwheeler.com/sloccount/) which isn't great tbh. Like IIRC it doesn't properly count Ruby code.
+
+So yes sometimes I do use `wc -l`, and \"no\" I don't think it's worse than useless. I am aware of the sweeping generalisations I make! ;)
+
+There was an interesting new proposal to count C by semi-colons and I guess Javascript can be applied the same way;
+<http://lists.suckless.org/dev/1111/10180.html>
+"""]]

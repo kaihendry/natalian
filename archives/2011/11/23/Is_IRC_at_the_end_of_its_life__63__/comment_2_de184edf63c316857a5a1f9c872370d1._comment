@@ -1,0 +1,8 @@
+[[!comment format=mdwn
+ username="http://jamiek.it/"
+ nickname="Jamie Kitson"
+ subject="btw"
+ date="2011-11-25T14:58:43Z"
+ content="""
+When you talk about SLOC do you exclude white space and comments? If not then it's a *terrible* metric to judge code by. Worse than useless imho.
+"""]]

@@ -1,0 +1,8 @@
+[[!comment format=mdwn
+ username="https://www.google.com/accounts/o8/id?id=AItOawn04_4RKBTj_-DReJrxn1j8VJ22vSjARck"
+ nickname="Tim"
+ subject="comment 5"
+ date="2011-11-25T07:31:20Z"
+ content="""
+Is there some reason you don't want to use UEFI? I'm using a SATA SSD (Intel X-25) GPT with UEFI and it works great on Arch. I have had 2 booting issues, however. First is that it pauses for a few seconds then gives me a \"comreset error, errno=16\", and the second is that sometimes it hangs on udev for a while then udev fails and boot continues normally. Neither prevent it from booting but definitely slow down the boot times.
+"""]]
