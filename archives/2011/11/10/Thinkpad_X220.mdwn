@@ -71,6 +71,8 @@ which I've cleared my mind off, less I go mad.
 
 The [UPS](http://www.ups.com/) shipment progress was also pretty ridiculous. The laptop started in China on 11/03/2011, then it went to:
 
+The headphone microphone via the 3.5mm jack sounds awful on Windows and even worse on Linux. :(
+
 * Castle Donnington, United Kingdom
 * Back to Shanghai, China (w.t.f!)
 * Incheon, Korea, Republic of
