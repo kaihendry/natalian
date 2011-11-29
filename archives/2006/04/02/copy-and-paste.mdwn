@@ -20,3 +20,7 @@
 <p>The <strong>real</strong> <a href="http://dabase.com/e/04036/">Unix way of copying and pasting</a> doesn&#8217;t use a mouse and it&#8217;s far too difficult for average users.</p>
 
 <p>This makes me even more convinced that the Desktop should just be the Web browser (Firefox) where <span class="caps">CTRL</span>+C/V/X &#8220;sort of&#8221; works&#8230;</p>
+
+UPDATE: I think I have the best solution whereby [Xterm's default copy behaviour is overridden](http://git.webconverger.org/?p=home.git;a=blob;f=.Xresources;h=e2067b1fb596cd1843428189f453d0a4516a4982;hb=HEAD#l15):
+
+	UXTerm*VT100.translations: #override <Btn1Up>: select-end(PRIMARY, CLIPBOARD, CUT_BUFFER0)
