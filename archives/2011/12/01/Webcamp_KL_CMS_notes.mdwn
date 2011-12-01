@@ -102,4 +102,4 @@ Outstanding issues:
 * Need to figure out how I should rewrite the "archives" bit to make sure my links don't break between for e.g. <http://jekyll.natalian.org/2004/02/01/homecam.html> & <http://natalian.org/archives/2004/02/01/homecam/>
 * How to import the comments? `$ find -name '*._comment' | wc -l` says I have 1358 to worry about
 * Does Jekyll do a calendar? gah, I don't care.
-* I expect URLs like http://jekyll.natalian.org/2011/04/ to look a little nicer, not sure how to solve this
+* I expect URLs like <http://jekyll.natalian.org/2011/04/> (all post from April 2011) to look a little nicer, not sure how to solve this
