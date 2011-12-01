@@ -1,0 +1,101 @@
+Firstly I did [Webcamp KL](http://webcamp.my) last night. Though I think we
+need a bigger venue and food/drink next [Wu Han](http://twitter.com/#!/ngeow).
+:)
+
+So Wordpress, Drupal & Joomla were stuck off my list for being firstly bloated,
+probably requiring mysql and full of crappy 3rd party plugins / modules.
+
+A friend Simon Waters comments on this 3rd party nightmare:
+
+	Some of what I see is module authors trying to poke too hard, when what they
+	are doing might be better done by extending the system itself rather than as a
+	module. Some of it no doubt is just incompetence. I don't seem to have problems
+	with Drupal plugins in the same way as much, but that might be luck, or it
+	might be that Drupal has so much basic functionality is implemented as modules
+	that the handling of them is more mature?
+
+[MongoPress](http://www.mongopress.org) looked interesting, but I thought it
+looked too fresh to try. It's worringly 26k of PHP with a rewrite coming.
+
+So I'm not your typical CMS user. I don't need a nice interface. I want my
+content sensibly in git and to generate static content. Much like I am
+[doing](http://natalian.org/) [already](http://geekout.org.uk/).
+
+[Jekyll](http://jekyllrb.com/) introduced by
+[Lim](http://twitter.com/#!/bearwithclaws) of [Hacker
+Monthly](http://hackermonthly.com/) fame took my fancy. The problem I have
+[ikiwiki](http://ikiwiki.info/) & suckless's
+[werc](http://hg.suckless.org/werc-garbeam/) is they don't do
+[pagination](http://ikiwiki.info/todo/Pagination_next_prev_links/) which I'm a
+fan of when it comes to navigation.
+
+ I'm wondering how easy
+it is to migrate my markdown [ikiwiki
+sources](http://source.natalian-org.branchable.com/?p=source.git;) to a Jekyll
+produced site?
+
+`yaort ruby-jekyll` and off we go:
+
+	==> ruby-jekyll dependencies:
+	 - ruby (package found)
+	 - ruby-albino>=1.3.2 (building from AUR)
+	 - ruby-classifier>=1.3.1 (building from AUR)
+	 - ruby-directory_watcher>=1.1.1 (building from AUR)
+	 - ruby-kramdown-last>=0.13.2 (building from AUR)
+	 - ruby-liquid>=1.9.0 (building from AUR)
+	 - ruby-maruku>=0.5.9 (building from AUR)
+	 - ruby-redcloth>=4.2.1 (building from AUR)
+	 - rubygems (package found)
+
+This takes ages to install on Archlinux. I'm never too such if I should rely on
+Archlinux packages. I do seriously resent having to run `gem update --system`
+or whatever it is along with `yaourt -Syua`. Dumb ass.
+
+I do moan about Jekyll dependencies, but I guess [ikiwiki's
+dependencies](http://packages.debian.org/source/unstable/ikiwiki) are just as
+many. It's just that I don't notice them much when I do a `apt-get install
+ikiwiki`.
+
+My first run of Jekyll looks like:
+
+	x220:/tmp/foobar$ jekyll 
+	/usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require': iconv will be deprecated in the future, use String#encode instead.
+	WARNING: Could not read configuration. Using defaults (and options).
+			No such file or directory - /tmp/foobar/_config.yml
+	Building site: /tmp/foobar -> /tmp/foobar/_site
+	Successfully generated site: /tmp/foobar -> /tmp/foobar/_site
+	x220:/tmp/foobar$ ls _site
+	ls: cannot access _site: No such file or directory
+
+Er, wtf? [Usage](https://github.com/mojombo/jekyll/wiki/Usage) docs aren't
+inspiring me. Need to use YML (urgh), rename my posts to a
+"YEAR-MONTH-DATE-title.MARKUP", ok... I can do that. Luckily I got unstuck by
+using some [Jekyll site sources](https://github.com/mojombo/jekyll/wiki/Sites).
+
+	find ~/wikis/natalian-org.branchable.com/archives -name '*.mdwn' | grep -E '20[0-9][0-9]/[0-9][0-9]/[0-9][0-9]' | while read blog
+	do
+		IFS=/
+		set -- $blog
+		postname=$(basename ${10} .mdwn)
+		dest=./$7-$8-$9-$postname.md
+		IFS=""
+	cat <<END > $dest
+	---
+	layout: post
+	title: $(echo $postname | tr '_' ' ')
+	---
+	END
+		cat $blog >> $dest
+	done
+
+Wow, Jekyll has forced me to correct my posture. It's so fast compared to
+ikiwiki (could be my new [SSD](http://natalian.org/archives/2011/11/10/Thinkpad_X220/) though).
+[Pagination](https://github.com/mojombo/jekyll/wiki/template-data) works! I like the clean layout.
+
+So far I am very impressed with the output at <http://jekyll.natalian.org>! :)
+
+Outstanding issues:
+
+* [Related posts](https://groups.google.com/forum/#!searchin/jekyll-rb/Related$20Posts/jekyll-rb/coFvolhPbD4/9rJCL56ebZQJ) don't work. Oh well, a feature I don't need.
+* Need to figure out how I should rewrite the "archives" bit to make sure my links don't break between for e.g. <http://jekyll.natalian.org/2004/02/01/homecam.html> & <http://natalian.org/archives/2004/02/01/homecam/>
+* How to import the comments? `$ find -name '*._comment' | wc -l` says I have 1358 to worry about
