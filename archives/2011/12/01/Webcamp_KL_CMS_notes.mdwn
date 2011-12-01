@@ -24,14 +24,15 @@ content sensibly in git and to generate static content. Much like I am
 
 [Jekyll](http://jekyllrb.com/) introduced by
 [Lim](http://twitter.com/#!/bearwithclaws) of [Hacker
-Monthly](http://hackermonthly.com/) fame took my fancy. The problem I have
-[ikiwiki](http://ikiwiki.info/) & suckless's
+Monthly](http://hackermonthly.com/) fame took my fancy. The problem I have with
+[ikiwiki](http://ikiwiki.info/) & [suckless](http://suckless.org)'s
 [werc](http://hg.suckless.org/werc-garbeam/) is they don't do
 [pagination](http://ikiwiki.info/todo/Pagination_next_prev_links/) which I'm a
 fan of when it comes to navigation.
 
- I'm wondering how easy
-it is to migrate my markdown [ikiwiki
+ I'm wondering how easy it is to [migrate to
+Jekyll](https://github.com/mojombo/jekyll/wiki/blog-migrations) from my ikiwiki
+markdown [ikiwiki
 sources](http://source.natalian-org.branchable.com/?p=source.git;) to a Jekyll
 produced site?
 
