@@ -50,9 +50,10 @@ produced site?
 	 - rubygems (package found)
 
 This takes ages to install on Archlinux. I'm never too sure if I should rely on
-Archlinux packages... though I would seriously resent having to run `gem update
---system` or whatever it is as well as Arch's `yaourt -Syua`. I blame MacOSX
-for having a "non-package" management system.
+[Archlinux packages or gem](https://wiki.archlinux.org/index.php/Ruby)...
+though I would seriously resent having to run `gem update --system` or whatever
+it is as well as Arch's `yaourt -Syua`. I blame MacOSX for having a
+"non-package" management system.
 
 I do moan about Jekyll dependencies, but I guess [ikiwiki's
 dependencies](http://packages.debian.org/source/unstable/ikiwiki) are just as
