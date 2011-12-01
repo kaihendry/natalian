@@ -1,0 +1,8 @@
+[[!comment format=mdwn
+ username="https://www.google.com/accounts/o8/id?id=AItOawlugOHpVWdgyuy1HPiBkJJ64dimdf0M2qE"
+ nickname="Paul Sander"
+ subject="wrapping quotes"
+ date="2011-12-01T11:08:15Z"
+ content="""
+Looks very smooth. Look into line wrapping in quotes though, as lines are currently going outside the quote div in FF8 and Chromium on Ubuntu.
+"""]]
