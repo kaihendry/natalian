@@ -25,7 +25,7 @@ content sensibly in git and to generate static content. Much like I am
 [Jekyll](http://jekyllrb.com/) introduced by
 [Lim](http://twitter.com/#!/bearwithclaws) of [Hacker
 Monthly](http://hackermonthly.com/) fame took my fancy. The problem I have with
-[ikiwiki](http://ikiwiki.info/) & [suckless](http://suckless.org)'s
+[ikiwiki](http://ikiwiki.info/) or [suckless](http://suckless.org)'s
 [werc](http://hg.suckless.org/werc-garbeam/) is they don't do
 [pagination](http://ikiwiki.info/todo/Pagination_next_prev_links/) which I'm a
 fan of when it comes to navigation.
