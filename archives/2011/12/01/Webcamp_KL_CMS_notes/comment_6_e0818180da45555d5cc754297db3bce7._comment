@@ -1,0 +1,8 @@
+[[!comment format=mdwn
+ username="http://hendry.iki.fi/"
+ nickname="hendry"
+ subject="Markup"
+ date="2011-12-02T06:26:16Z"
+ content="""
+I should probably use different markup depending whether it's a code or quotation. Jekyll using a dizzying depedency called <http://pygments.org/demo/> just for this task. Not sure how to solve this problem yet.
+"""]]

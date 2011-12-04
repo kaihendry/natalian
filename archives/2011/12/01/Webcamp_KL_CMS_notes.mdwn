@@ -2,7 +2,7 @@ Firstly I did greatly enjoy [Webcamp KL](http://webcamp.my) last night. Though
 I think we need a bigger venue and food/drink next time [Wu
 Han](http://twitter.com/#!/ngeow).  :)
 
-So Wordpress, Drupal & Joomla were stuck off my list for being firstly bloated,
+So Wordpress, Drupal & Joomla were struck off my list for being firstly bloated,
 probably requiring mysql and full of crappy 3rd party plugins / modules. Hell
 noes!
 

@@ -1,0 +1,20 @@
+[[!comment format=mdwn
+ username="https://www.google.com/accounts/o8/id?id=AItOawlugOHpVWdgyuy1HPiBkJJ64dimdf0M2qE"
+ nickname="Paul Sander"
+ subject="code"
+ date="2011-12-01T22:18:42Z"
+ content="""
+I'd still want the code to wrap at the div's edge, too, though, as it does in your old setup. Not like this:
+
+http://www.dumpt.com/img/viewer.php?file=v5ocsdzlkxsg6s5qh4ti.png
+
+The quote does wrap but only about five ems outside the div:
+
+http://www.dumpt.com/img/viewer.php?file=quizlodcgpiyli5n1lhf.png
+
+That's in FF, not in Chromium unless I ctrl++, but it will still fail to wrap the code. Not sure what's up with my configuration that this shows here but not in either of your environments. Font display size is at default. Ah but there's this line in the css:
+
+    font: 13.34px helvetica, arial, clean, sans-serif;
+
+I do have a big Helvetica ttf package installed iirc.
+"""]]
