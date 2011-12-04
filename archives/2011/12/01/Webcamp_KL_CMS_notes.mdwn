@@ -8,12 +8,12 @@ noes!
 
 A friend Simon Waters comments on this 3rd party nightmare:
 
-	Some of what I see is module authors trying to poke too hard, when what they
-	are doing might be better done by extending the system itself rather than as a
-	module. Some of it no doubt is just incompetence. I don't seem to have problems
-	with Drupal plugins in the same way as much, but that might be luck, or it
-	might be that Drupal has so much basic functionality is implemented as modules
-	that the handling of them is more mature?
+> Some of what I see is module authors trying to poke too hard, when what they
+> are doing might be better done by extending the system itself rather than as a
+> module. Some of it no doubt is just incompetence. I don't seem to have problems
+> with Drupal plugins in the same way as much, but that might be luck, or it
+> might be that Drupal has so much basic functionality is implemented as modules
+> that the handling of them is more mature?
 
 [MongoPress](http://www.mongopress.org) looked interesting, but I thought it
 looked too fresh to try. It's worringly 26k of PHP with a rewrite coming.
