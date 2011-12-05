@@ -1,0 +1,14 @@
+[[!comment format=mdwn
+ username="http://jamiek.it/"
+ nickname="Jamie Kitson"
+ subject="Note"
+ date="2011-12-05T20:56:47Z"
+ content="""
+> you must re-run xrdb ~/.Xresources every time you change the file.
+
+> If you do not use a desktop environment, you probably need to add the following line to your ~/.xinitrc:
+
+> xrdb -merge ~/.Xresources
+
+<a href=\"https://wiki.archlinux.org/index.php/X_resources\">https://wiki.archlinux.org/index.php/X_resources</a>
+"""]]
