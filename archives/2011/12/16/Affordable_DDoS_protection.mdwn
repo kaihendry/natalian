@@ -21,8 +21,9 @@ I called Neustar on behalf of the client asking:
 * Why can't you (Neustar) deal with it?
 * Why didn't you have some sort of cap so the customer doesn't get charged, lets say 10000 USD unexpectedly?
 
-On the day they said there wasn't much we could do, because we weren't on the
-more expensive "DNS DDOS protection" plan.
+On the day Neustar said there wasn't much they could do, because we weren't on
+the more expensive "DNS DDOS protection" plan. Cue frantic calls to the
+"account manager" and "high level" negotiations.
 
 On the client side, thinking of what to do... we removed the DNS record (this
 record was for a domain the client didn't even use!!) and according to Neustar
