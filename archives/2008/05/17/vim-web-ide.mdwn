@@ -5,7 +5,8 @@
 <video width="640" height="360" controls src="http://static.natalian.org/2010-10-24/html5-vim.ogv" />
 
 To follow this little screencast tutorial on editing Web applications, take a
-deep breath and read <http://wiki.whatwg.org/wiki/IDE>.
+deep breath and read <http://wiki.whatwg.org/wiki/IDE> or
+<https://github.com/kaihendry/vim-html5>.
 
 Screencast was recorded using the helpful
 [recordmydesktop](http://recordmydesktop.sourceforge.net/about.php) script.
@@ -16,3 +17,5 @@ sorry for the sideline 2:30 mins in the [older VIM HTML
 video](http://www.youtube.com/watch?v=Y45EbTLZGF0). :)  Finally also
 &#8220;checkout&#8221; <a href="http://ejohn.org/blog/google-doctype/">Google
 doctype</a>.
+
+
