@@ -31,6 +31,6 @@ we created even more problems for a reason I wish I knew.
 
 What a joke. This is DNS folks. It's not that hard!!
 
-I would like to think since they are Nuestar UltraDNS, they are probably more
+I would like to think since they are Neustar UltraDNS, they are probably more
 prone to DDOS attacks then any other provider. Hence I really can't recommend
 Neustar UltraDNS. Avoid.
