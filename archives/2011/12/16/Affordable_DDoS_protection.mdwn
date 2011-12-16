@@ -2,7 +2,7 @@ I had to laugh when I saw a newsletter titled [Advanced, affordable DDoS
 protection](http://www.ultradns.com/ddos-protection/siteprotect/what-is-siteprotect)
 in my inbox from Neustar.
 
-I think it was only recently they actually publicly advertised their [basic
+I think it was only recently Neustar actually publicly advertised their [basic
 package fees](http://www.ultradns.com/dns-services/ultradns/packages). Usually
 Neustar has the business model of evaluating how much you think DNS is worth
 and charging you as much as possible for it.
@@ -10,24 +10,26 @@ and charging you as much as possible for it.
 Lets assume you're on the basic DNS package of a million queries a month.
 
 Now if you go over a million queries a month, you get charged. They don't tell
-you how much, but I know from being on a customer site who was "attacked" (for
-the first time, for no motive what-so-ever), and who went millions over that
-quota were charged something like 10k USD. Which is frankly madness.
+you how much on their Web page, but I know from being on a customer site who
+was "attacked" (for the first time, for no motive what-so-ever), and who went
+millions over that quota were charged something like 10k USD. Which is frankly
+madness.
 
 I called Neustar on behalf of the client asking:
 
 * Why didn't you inform the customer that they were being attacked?
-* Why can't you deal with it?
+* Why can't you (Neustar) deal with it?
 * Why didn't you have some sort of cap so the customer doesn't get charged, lets say 10000 USD unexpectedly?
 
 On the day they said there wasn't much we could do, because we weren't on the
 more expensive "DNS DDOS protection" plan.
 
-On the client side, thinking of what to do... we removed the DNS record and
-according to Neustar we created even more problems for a reason I wish I knew.
+On the client side, thinking of what to do... we removed the DNS record (this
+record was for a domain the client didn't even use!!) and according to Neustar
+we created even more problems for a reason I wish I knew.
 
 What a joke. This is DNS folks. It's not that hard!!
 
 I would like to think since they are Nuestar UltraDNS, they are probably more
 prone to DDOS attacks then any other provider. Hence I really can't recommend
-Neustar UltraDNS.
+Neustar UltraDNS. Avoid.
