@@ -1,0 +1,15 @@
+[[!comment format=mdwn
+ username="https://www.google.com/accounts/o8/id?id=AItOawlw9mrqNoQBfwM6UwAWLvNntcYzdfgQvkk"
+ nickname="Daniel"
+ subject="On Enterprise Social Networking Tools"
+ date="2011-12-27T15:20:17Z"
+ content="""
+Regarding: \"Haven't played with \"Enterprise social networking tools\" such as Chatter, Salesforce, Yammer or Jive. I like to think a company's heartbeat is Bugzilla or Pivotal tracker. I'm guessing these are dumbed down or perhaps better focused on sales (the bottom line). Combat my ignorance, someone please.\"
+
+Actually, I'd say Bugzilla and Pivotal tracker are very tactical and project management, whereas, these tools focus on communication, workflow, and knowledge management. If anything, I'd say Bugzill is pretty \"dumb\" - in that the focus is extremely narrow (which also makes it highly efficient). A common example given for these class to tools is that say a scientist/research/developer can ask her colleagues in 23 other offices worldwide if even one else is working on the same problem, and connect with other co-workers she never knew existed but are working on the same problem. 
+
+Another early example of this is that in the US, US Intelligence agencies (there's more than 10 of them) started a private wiki where all of analysts from various agencies can contribute what they know of a given topic. During the early days of Iraq War, there was an example of this too - some US Solidier started a wiki/forum to trade tips with other solders and from there it went viral and later taken in-house.
+
+There are plenty more examples of this and it is very interesting to see the impact of enterprise social networking software on CRM systems and knowledge management in very large organizations.
+
+"""]]
