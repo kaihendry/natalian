@@ -13,7 +13,7 @@ pushing its [kindle Fire](http://en.wikipedia.org/wiki/Kindle_Fire)  et al.
 Firstly I think the _Honeycomb release_ bombed (funnily it's not used on the
 "Fire" AFAICT) and I don't think Googlers are interested in the tablet form
 factor anymore. They would rather concentrate on mobile devices. Also I think
-the Android based Kindles _suck_ compared to their own unamed OS.
+the Android based Kindles _suck_ compared to Amazon's own un-named OS.
 
 Didn't realise RIM were in such a bad state.
 [7.44BN](http://www.google.com/finance?q=RIM) market cap isn't great for this
@@ -34,9 +34,9 @@ competitors are completely retarded, so... I guess I will have to defer to Apple
 3D printing has a nice mention. Check out <http://www.tinkercad.com/> if you
 haven't already.
 
-I do find Zynga quite interesting. Especially since it's titles like "Word for
-friends" sucks compared to [Wordfued](http://wordfeud.com). I guess Zynga has
-the platform which has value... even though it's a sharecropper to Facebook.
+I do find Zynga quite interesting. Especially since its titles like "Word for
+friends" suck compared to [Wordfued](http://wordfeud.com). I guess Zynga has
+the platform which has value... even though it's a sharecropper to Facebook...
 Right?  The quote "Zynga has probably 50-60% of the social gaming market.  The
 biggest company in mobile gaming has a 1.5% share." sounds like bullshit. 1.5%
 of what platform exactly?
@@ -58,6 +58,6 @@ table?
 
 I would like to predict a year where Internet users start to shun services like
 Facebook & twitter and even Gmail. I.e. folks start running their own
-distributed standardised services. Unfortunately I think we are still a few
-years off that, so I predict things will just get worse. FB, twitter &
-incumbents like Google will just get more and more annoying.
+distributed (de-centralised) standardised services. Unfortunately I think we
+are still a few years off that, so I predict things will just get worse. FB,
+twitter & incumbents like Google will just get more and more annoying.
