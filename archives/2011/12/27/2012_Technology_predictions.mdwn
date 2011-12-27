@@ -4,15 +4,16 @@ commenting of items out of context.
 
 Haven't played with "Enterprise social networking tools" such as Chatter,
 Salesforce, Yammer or Jive. I like to think a company's heartbeat is Bugzilla
-or Pivotal tracker.  I'm guessing these are dumbed down or perhaps focus
-exclusively on sales. Combat my ignorance, someone please.
-
+or Pivotal tracker.  I'm guessing these are dumbed down or perhaps better
+focused on sales (the bottom line). Combat my ignorance, someone please.
 
 "Another thing to watch for is that Google may lose control of Android." is a
 comment I guess because Amazon has usurped the tablet side of things for
-pushing it's kindle. Firstly I think the _Honeycomb release_ bombed and I don't
-think Googlers are interested in that form factor anymore. Rather concentrate
-on mobile devices. Also I think the Android based Kindle _suck_.
+pushing its [kindle Fire](http://en.wikipedia.org/wiki/Kindle_Fire)  et al.
+Firstly I think the _Honeycomb release_ bombed (funnily it's not used on the
+"Fire" AFAICT) and I don't think Googlers are interested in the tablet form
+factor anymore. They would rather concentrate on mobile devices. Also I think
+the Android based Kindles _suck_ compared to their own unamed OS.
 
 Didn't realise RIM were in such a bad state.
 [7.44BN](http://www.google.com/finance?q=RIM) market cap isn't great for this
@@ -20,7 +21,7 @@ cruel industry. I don't see what RIM can offer. It's too entrenched in their
 [retarded enterprise model](http://shkspr.mobi/blog/index.php/2011/03/the-death-of-the-blackberry/).
 
 NFC is something I've thought a lot about and I'm still a bit dubious. Is
-"wireless payments" the one killer app? Sounds lame to me. I think a VISA
+"wireless payments" the one killer app? Sounds **lame** to me. I think a VISA
 chip&pin card is far more versatile.
 
 "big data" sounds like a new word to describe an old problem like "data
@@ -28,7 +29,7 @@ mining". Bollocks.
 
 Ipad/Apple/Iphone ... what will that do next... I find this technology
 deferment to Apple fucking irritating to say the least. Sad thing is Apple's
-competitors are completely retarded, so... I guess I will have to defer too.
+competitors are completely retarded, so... I guess I will have to defer to Apple too.
 
 3D printing has a nice mention. Check out <http://www.tinkercad.com/> if you
 haven't already.
@@ -38,7 +39,7 @@ friends" sucks compared to [Wordfued](http://wordfeud.com). I guess Zynga has
 the platform which has value... even though it's a sharecropper to Facebook.
 Right?  The quote "Zynga has probably 50-60% of the social gaming market.  The
 biggest company in mobile gaming has a 1.5% share." sounds like bullshit. 1.5%
-of what?
+of what platform exactly?
 
 Bring your own device (BYOD) is something I've _always_ done. There is a term
 for it?  I feel sorry for people working under oppressive IT regimes. Get a job
