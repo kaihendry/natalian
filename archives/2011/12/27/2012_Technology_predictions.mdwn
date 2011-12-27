@@ -1,0 +1,62 @@
+I found <http://www.bbc.co.uk/news/business-16288247> quite interesting.
+Firstly I wish I could annotate the page and embed in the blog instead of
+commenting of items out of context.
+
+Haven't played with "Enterprise social networking tools" such as Chatter,
+Salesforce, Yammer or Jive. I like to think a company's heartbeat is Bugzilla
+or Pivotal tracker.  I'm guessing these are dumbed down or perhaps focus
+exclusively on sales. Combat my ignorance, someone please.
+
+
+"Another thing to watch for is that Google may lose control of Android." is a
+comment I guess because Amazon has usurped the tablet side of things for
+pushing it's kindle. Firstly I think the _Honeycomb release_ bombed and I don't
+think Googlers are interested in that form factor anymore. Rather concentrate
+on mobile devices. Also I think the Android based Kindle _suck_.
+
+Didn't realise RIM were in such a bad state.
+[7.44BN](http://www.google.com/finance?q=RIM) market cap isn't great for this
+cruel industry. I don't see what RIM can offer. It's too entrenched in their
+[retarded enterprise model](http://shkspr.mobi/blog/index.php/2011/03/the-death-of-the-blackberry/).
+
+NFC is something I've thought a lot about and I'm still a bit dubious. Is
+"wireless payments" the one killer app? Sounds lame to me. I think a VISA
+chip&pin card is far more versatile.
+
+"big data" sounds like a new word to describe an old problem like "data
+mining". Bollocks.
+
+Ipad/Apple/Iphone ... what will that do next... I find this technology
+deferment to Apple fucking irritating to say the least. Sad thing is Apple's
+competitors are completely retarded, so... I guess I will have to defer too.
+
+3D printing has a nice mention. Check out <http://www.tinkercad.com/> if you
+haven't already.
+
+I do find Zynga quite interesting. Especially since it's titles like "Word for
+friends" sucks compared to [Wordfued](http://wordfeud.com). I guess Zynga has
+the platform which has value... even though it's a sharecropper to Facebook.
+Right?  The quote "Zynga has probably 50-60% of the social gaming market.  The
+biggest company in mobile gaming has a 1.5% share." sounds like bullshit. 1.5%
+of what?
+
+Bring your own device (BYOD) is something I've _always_ done. There is a term
+for it?  I feel sorry for people working under oppressive IT regimes. Get a job
+that doesn't suck.
+
+I really don't believe in the Enterprise "secure the network" intranet
+bullshit.
+
+"internet of things" from Gartner sounds like an old idea, regurgitated for
+today. What do you expect from analysts?
+
+# My predictions
+
+Ok after taking the piss from the "experts", what do I have to bring to the
+table?
+
+I would like to predict a year where Internet users start to shun services like
+Facebook & twitter and even Gmail. I.e. folks start running their own
+distributed standardised services. Unfortunately I think we are still a few
+years off that, so I predict things will just get worse. FB, twitter &
+incumbents like Google will just get more and more annoying.
