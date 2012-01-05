@@ -28,9 +28,9 @@ counter. Why? The PDF doesn't contain the important [Aztec
 code](http://en.wikipedia.org/wiki/Aztec_Code) (see below) and for some bizaare
 reason [Airasia include **four** useless confusing barcodes in the PDF](http://www.flickr.com/photos/hendry/6640306607).
 
-Another crazy element to the page is that checkin [session can
+Another crazy element to the page is that the checkin [session can
 expire](http://www.flickr.com/photos/hendry/6611785225/in/set-72157628661621975).
-Which idiot coded that?
+Which idiot coded that? Weep and start again.
 
 If you go for the SMS option, you will get a URL link like so:
 
