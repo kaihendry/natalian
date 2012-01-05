@@ -9,8 +9,8 @@ online](http://checkin.airasia.com). If you don't check in online, you need to
 pay 10MYR on the counter.
 
 "Checking in" online asks you generally for the same information **again** with
-some clunky forms that will [make it hard **not** to buy
-insurance](http://www.flickr.com/photos/hendry/6611784865/in/set-72157628661621975/):
+some clunky forms that try [trick you into buying their
+Insurance](http://www.flickr.com/photos/hendry/6611784865/in/set-72157628661621975/).
 
 <a href="http://www.flickr.com/photos/hendry/6611784739/" title="A friendly Note. Now click Cancel by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7016/6611784739_131b56eb5c.jpg" width="500" height="281" alt="A friendly Note. Now click Cancel"></a>
 
@@ -27,6 +27,10 @@ showing this PDF from your phone will be **useless** at the baggage drop off
 counter. Why? The PDF doesn't contain the important [Aztec
 code](http://en.wikipedia.org/wiki/Aztec_Code) (see below) and for some bizaare
 reason [Airasia include **four** useless confusing barcodes in the PDF](http://www.flickr.com/photos/hendry/6640306607).
+
+Another crazy element to the page is that checkin [session can
+expire](http://www.flickr.com/photos/hendry/6611785225/in/set-72157628661621975).
+Which idiot coded that?
 
 If you go for the SMS option, you will get a URL link like so:
 
@@ -50,8 +54,9 @@ you need to scan this with one of the (hopefully working) printing machines in
 the airport. From there you get a slip of paper allowing you to proceed to the
 baggage drop off counter.
 
-Dear Airasia, there is a lot of a room for improvement here. How about [hosting
-your site in Malaysia instead of
+Dear Airasia, there is a lot of a room for improvement here. Don't make your
+customers jump through hoops and so blazenly upsell Insurance and holidays. How
+about [hosting your site in Malaysia instead of
 Europe](http://toolbar.netcraft.com/site_report?url=http://www.airasia.com)!?
 Hire someone who knows what they are doing, look at
 [Fluentspace](http://www.facebook.com/fluentspace) for local Malaysian talent.
