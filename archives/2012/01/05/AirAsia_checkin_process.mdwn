@@ -1,0 +1,41 @@
+[Airasia](http://en.wikipedia.org/wiki/AirAsia) like it or not is the cheapest
+way to get around South East Asia. Unfortunately their Website sucks.
+
+Besides their annoyingly slow & frustrating process to purchase a ticket,
+[Airasia also require you to check in online](http://checkin.airasia.com). If
+you don't check in online, you need to pay 10MYR on the counter.
+
+Checking online asks you generally for the same information **again** with some
+clunky forms that will [make it hard **not** to buy insurance](http://www.flickr.com/photos/hendry/6611784865/in/set-72157628661621975/):
+
+<a href="http://www.flickr.com/photos/hendry/6611784739/" title="A friendly Note. Now click Cancel by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7016/6611784739_131b56eb5c.jpg" width="500" height="281" alt="A friendly Note. Now click Cancel"></a>
+
+Once you have checked in online, you then need to print your board pass. Why it
+can't be completely paperless is beyond me. Now you have two equally buggy
+options via this horrible form:
+
+<a href="http://www.flickr.com/photos/hendry/6611785113/" title="Email or SMS by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7153/6611785113_6327884484.jpg" width="500" height="281" alt="Email or SMS"></a>
+
+
+Choosing **Email** will send you a PDF. [Why
+PDF](http://dabase.com/blog/PDF-A_versus_HTML/) instead of HTML, is one of
+life's little mysteries. The PDF must be printed before you get to the Airport,
+showing this PDF from your phone will be **useless** at the baggage drop off
+counter.
+
+If you go for the SMS option, you will get a URL link like so:
+
+<a href="http://www.flickr.com/photos/hendry/6611785293/" title="SMS by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7170/6611785293_1cf067c421.jpg" width="300" height="500" alt="SMS"></a>
+
+Confusingly I couldn't find this SMS at the airport as it uses the same from
+address as my taxi provider.
+
+Hopefully you will manage to follow the <http://m.airasia.com> link to a [Aztec code](http://en.wikipedia.org/wiki/Aztec_Code), that looks like this:
+
+<a href="http://www.flickr.com/photos/hendry/6611798415/" title="Android portrait by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7159/6611798415_536f175976.jpg" width="300" height="500" alt="Android portrait"></a>
+
+You need to scan this with one of the machines in the airport. Hopefully your
+mobile renders it without being
+[clipped](http://www.flickr.com/photos/hendry/6611798473/in/set-72157628661621975/).
+From there you get a slip of paper allowing you to proceed to the baggage drop
+off counter.
