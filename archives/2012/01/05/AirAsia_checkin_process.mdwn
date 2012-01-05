@@ -61,5 +61,5 @@ Europe](http://toolbar.netcraft.com/site_report?url=http://www.airasia.com)!?
 Hire someone who knows what they are doing, look at
 [Fluentspace](http://www.facebook.com/fluentspace) for local Malaysian talent.
 Also please consider deploying a public
-[BTS](http://en.wikipedia.org/wiki/Bug_tracking_system), so customers can file
-bugs with your process and also see some followup.
+[BTS](http://en.wikipedia.org/wiki/Bug_tracking_system) (like <a href="http://www.bugzilla.org/">Bugzilla</a>), so
+customers can file bugs with your process and also see some followup.
