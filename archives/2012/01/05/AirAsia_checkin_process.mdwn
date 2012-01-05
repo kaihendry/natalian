@@ -39,12 +39,15 @@ code](http://en.wikipedia.org/wiki/Aztec_Code), that looks like this:
 
 <a href="http://www.flickr.com/photos/hendry/6611798415/" title="Android portrait by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7159/6611798415_536f175976.jpg" width="300" height="500" alt="Android portrait"></a>
 
-You need to scan this with one of the machines in the airport. Hopefully your
-mobile renders it without being
+Hopefully your mobile renders it without being
 [clipped](http://www.flickr.com/photos/hendry/6611798473/in/set-72157628661621975/).
-From there you get a slip of paper allowing you to proceed to the baggage drop
-off counter.
+Now you need to scan this with one of the machines in the airport. From there
+you get a slip of paper allowing you to proceed to the baggage drop off
+counter.
 
-Phew. Airasia, there is a lot of a room for improvement here. Hire someone who
+Dear Airasia, there is a lot of a room for improvement here. Hire someone who
 knows what they are doing and look at
-[Fluentspace](http://www.facebook.com/fluentspace) for local talent.
+[Fluentspace](http://www.facebook.com/fluentspace) for local talent. Also
+please consider deploying a public
+[BTS](http://en.wikipedia.org/wiki/Bug_tracking_system), so customers can file
+bugs with your process.
