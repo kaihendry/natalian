@@ -24,30 +24,37 @@ Choosing **Email** will send you a PDF. [Why
 PDF](http://dabase.com/blog/PDF-A_versus_HTML/) instead of HTML, is one of
 life's little mysteries. The PDF must be printed before you get to the Airport,
 showing this PDF from your phone will be **useless** at the baggage drop off
-counter.
+counter. Why? The PDF doesn't contain the important [Aztec
+code](http://en.wikipedia.org/wiki/Aztec_Code) (see below) and for some bizaare
+reason [Airasia include **four** useless confusing barcodes in the PDF](http://www.flickr.com/photos/hendry/6640306607).
 
 If you go for the SMS option, you will get a URL link like so:
 
 <a href="http://www.flickr.com/photos/hendry/6611785293/" title="SMS by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7170/6611785293_1cf067c421.jpg" width="300" height="500" alt="SMS"></a>
 
 Confusingly I couldn't find this SMS at the airport as it uses the same from
-address as my taxi provider.
+address as my taxi provider. I don't know how dumbphones are supposed to handle
+the URL, I expected some sort of booking code to be delivered by SMS... sigh.
 
-Hopefully you will manage to follow the WAP (yes, seriously, in 2012)
-<http://m.airasia.com> site link to a [Aztec
-code](http://en.wikipedia.org/wiki/Aztec_Code), that looks like this:
+Hopefully you will manage to follow "barcode link" the WAP (yes, seriously, in
+2012) <http://m.airasia.com> site link to a [Aztec
+code](http://en.wikipedia.org/wiki/Aztec_Code) (not a barcode), that looks like
+this:
 
 <a href="http://www.flickr.com/photos/hendry/6611798415/" title="Android portrait by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7159/6611798415_536f175976.jpg" width="300" height="500" alt="Android portrait"></a>
 
 Hopefully your mobile renders it without being
-[clipped](http://www.flickr.com/photos/hendry/6611798473/in/set-72157628661621975/).
-Now you need to scan this with one of the machines in the airport. From there
-you get a slip of paper allowing you to proceed to the baggage drop off
-counter.
+[clipped](http://www.flickr.com/photos/hendry/6611798473/in/set-72157628661621975/)
+due to large silly header "Scan 2D barcode in exchange for Boarding Pass".  Now
+you need to scan this with one of the (hopefully working) printing machines in
+the airport. From there you get a slip of paper allowing you to proceed to the
+baggage drop off counter.
 
-Dear Airasia, there is a lot of a room for improvement here. Hire someone who
-knows what they are doing and look at
-[Fluentspace](http://www.facebook.com/fluentspace) for local talent. Also
-please consider deploying a public
+Dear Airasia, there is a lot of a room for improvement here. How about [hosting
+your site in Malaysia instead of
+Europe](http://toolbar.netcraft.com/site_report?url=http://www.airasia.com)!?
+Hire someone who knows what they are doing, look at
+[Fluentspace](http://www.facebook.com/fluentspace) for local Malaysian talent.
+Also please consider deploying a public
 [BTS](http://en.wikipedia.org/wiki/Bug_tracking_system), so customers can file
-bugs with your process.
+bugs with your process and also see some followup.
