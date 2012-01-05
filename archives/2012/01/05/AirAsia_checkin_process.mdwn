@@ -55,11 +55,14 @@ the airport. From there you get a slip of paper allowing you to proceed to the
 baggage drop off counter.
 
 Dear Airasia, there is a lot of a room for improvement here. Don't make your
-customers jump through hoops and so blazenly upsell Insurance and holidays. How
-about [hosting your site in Malaysia instead of
+customers jump through hoops and so callously upsell Insurance and holidays
+(adds misery on a currently **poor user experience**).
+
+How about [hosting your site in Malaysia instead of
 Europe](http://toolbar.netcraft.com/site_report?url=http://www.airasia.com)!?
 Hire someone who knows what they are doing, look at
 [Fluentspace](http://www.facebook.com/fluentspace) for local Malaysian talent.
 Also please consider deploying a public
-[BTS](http://en.wikipedia.org/wiki/Bug_tracking_system) (like <a href="http://www.bugzilla.org/">Bugzilla</a>), so
-customers can file bugs with your process and also see some followup.
+[BTS](http://en.wikipedia.org/wiki/Bug_tracking_system) (like <a
+href="http://www.bugzilla.org/">Bugzilla</a>), so customers can file bugs with
+your process and also see some followup.
