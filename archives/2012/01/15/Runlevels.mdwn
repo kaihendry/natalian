@@ -1,0 +1,38 @@
+<a href="http://www.flickr.com/photos/hendry/6693769093/" title="Trying S100 HDR in low light by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7018/6693769093_ea8269e03e.jpg" width="500" height="375" alt="Trying S100 HDR in low light"></a>
+
+Runlevels is one of those things that struck me when first using Linux as a bit
+weird, only later to discover in life that it's one of those over engineered
+elements from UNIX that one just ends up ignoring instead of doing anything
+about it.
+
+	Runlevels:
+	0    Halt
+	1(S)       Single-user
+	2    Not used
+	3    Multi-user
+	4    Not used
+	5    X11
+	6    Reboot
+
+In `/etc/inittab` I actually bother to use runlevel 5, like so:
+
+	x:5:once:/bin/su - -- hendry -l -c '/usr/bin/startx </dev/null >/dev/null 2>&1'
+
+To boot into runlevel 5, you need to append '5' to your Linux boot
+`/proc/cmdline`, like so in my `/boot/syslinux/syslinux.cfg`:
+
+	# (0) Arch Linux
+	LABEL arch
+		MENU LABEL Arch Linux
+		LINUX ../vmlinuz-linux
+		APPEND root=/dev/sdb1 ro 5
+		INITRD ../initramfs-linux.img
+
+As you can see this is quite the nightmare to script if you wanted your new
+machine to be automatically configured with your [config from
+git](http://git.webconverger.org/?p=home.git;). So I am making a note of this,
+so I have a reference when I spend the customary day setting up my Archlinux
+box once purchasing a new machine.
+
+If you run `runlevel`, you can confirm which runlevel you're in. You can run
+`init 6` to reboot and `init 0` to halt, just so you know.
