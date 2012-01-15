@@ -35,4 +35,5 @@ so I have a reference when I spend the customary day setting up my Archlinux
 box once purchasing a new machine.
 
 If you run `runlevel`, you can confirm which runlevel you're in. You can run
-`init 6` to reboot and `init 0` to halt, just so you know.
+`init 6` to reboot and `init 0` to halt. `init 1` is to boot into an odd mode
+without networking IIRC, still don't actually know what it's all about.
