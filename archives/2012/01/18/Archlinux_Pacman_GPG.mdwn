@@ -85,9 +85,9 @@ the [AUR](http://aur.archlinux.org/), but I fear `falconindy` just says
 developer's GPG key is compromised.
 
 I fear people will think, "oh it has a valid signature, it must be safe" and it
-doesn't need _preventative_ review culture might come in. GPG sets up such an
-obstacles, that even if you found a problem, only the signer can apply the
-patch. Debian style _stagnation_ results.
+corrupts _preventative_ review culture. GPG sets up such obstacles, that even
+if you found a problem, only the signer can apply the patch. Debian style
+_stagnation_ results.
 
 Please convince me otherwise security folks. Please avoid the adhominem attacks
 and lets have a sensible debate. :)
