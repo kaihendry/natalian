@@ -5,7 +5,7 @@ It's no secret, [I don't like
 GPG](http://natalian.org/archives/2006/05/26/no-gpg/) and I long for a
 _lightweight_ solution. However engaging in a security debate with "security
 experts" always seems to get heated. Armed with an asbestos suit and repeated
-calls for me to attend  "Go take a security course", lets try understand this
+calls for me to "Go take a security course", lets try understand this
 nonsense.
 
 If you update Archlinux, GPG signing is turned on default. You need to:
@@ -59,7 +59,7 @@ packages.
 I've informally proposed using the secure transport of HTTPS to distribute
 hashes (which I don't think is that <a
 href="https://bbs.archlinux.org/viewtopic.php?pid=333982#p333982">server
-straining<a>) to simply see if something has gone awry. This is criticized as
+straining</a>) to simply see if something has gone awry. This is criticized as
 it gives one massive failure point on the server. Is someone manages to
 manipulate the hashes or rather sneaks in a rooted package at the server, you
 are fucked. But, I'd rather have one castle. At least it (HTTPS) protects **man
@@ -81,13 +81,13 @@ I'm still struggling to understand how these "layers" work.
 
 I'm all _for_ layers, in the sense PKGBUILDs are reviewed again and again, like
 the [AUR](http://aur.archlinux.org/), but I fear `falconindy` just says
-"layers" as a false way of defending that a serious compromise can happen with
-GPG.
+"layers" as a deflecting that a serious compromise can happen after a
+developer's GPG key is compromised.
 
 I fear people will think, "oh it has a valid signature, it must be safe" and it
-doesn't need review culture might come in. GPG sets up such an obstacles, that
-even if you found a problem, only the signer can apply the patch. Debian style
-stagnation results.
+doesn't need _preventative_ review culture might come in. GPG sets up such an
+obstacles, that even if you found a problem, only the signer can apply the
+patch. Debian style _stagnation_ results.
 
 Please convince me otherwise security folks. Please avoid the adhominem attacks
-and lets have a sensible debate.
+and lets have a sensible debate. :)
