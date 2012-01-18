@@ -1,0 +1,93 @@
+So I'm not impressed that [Archlinux has gone down the
+GPG](http://twitter.com/#!/kaihendry/status/159229493846867968) route.
+
+It's no secret, [I don't like
+GPG](http://natalian.org/archives/2006/05/26/no-gpg/) and I long for a
+_lightweight_ solution. However engaging in a security debate with "security
+experts" always seems to get heated. Armed with an asbestos suit and repeated
+calls for me to attend  "Go take a security course", lets try understand this
+nonsense.
+
+If you update Archlinux, GPG signing is turned on default. You need to:
+
+	sudo cp /etc/pacman.conf.pacnew /etc/pacman.conf
+
+Copy in the "default config" to disable it. A little confusing, I know.
+
+# GPG stinks
+
+Firstly GPG based package signing and verification is **complex**.
+
+Secondly I don't like the whole [Web of
+trust](http://www.gnupg.org/gph/en/manual.html#AEN554) bullshit. Do I want to
+trust Eric Belanger? Do I want to attend GPG signing parties to establish some
+sort of link to Eric? **NO**
+
+I want to trust the team behind Archlinux ideally. An Archlinux security team,
+that somehow look out for integrity issues in packages.
+
+I **do not** want to trust individuals and therefore trust their individual
+handling of their private keys.
+
+Individuals rarely follow good key practices like rotating their keys.
+Revocation is a PITA. What happens if a compromised package gets uploaded?
+People focus on all these GPG key procedures, but what the FUCK happens when a
+rootkit is installed on a machine?
+
+`falconindy` argues that lots of people having private keys distributes risk.
+That compromising one key doesn't compromise _everything_. In my binary world,
+either the machine is compromised or it isn't. Having >5 individuals with
+private keys and the ability to upload rootkit packages increases the attack
+surface area.
+
+It's HARD to maintain one's own private (ssh) key in a safe manner. Oh no, you
+can't have it on a server. Oh, but can you leave your private laptop
+un-attended? So **WHAT** if it has a password protecting it?
+
+Sucky GPG procedures raises the barrier to entry for core developers. Now you
+don't just need to be good at packaging, you have to learn the whole key
+handling rigmarole. PAIN.
+
+# What's the alternative solution?
+
+Whilst criticizing GPG, a common retort is ask me what my alternative solution
+is on the spot. That's not the point. The point here is GPG stinks.
+
+So, Archlinux probably needs a way of securely verifying the integrity of
+packages.
+
+I've informally proposed using the secure transport of HTTPS to distribute
+hashes (which I don't think is that <a
+href="https://bbs.archlinux.org/viewtopic.php?pid=333982#p333982">server
+straining<a>) to simply see if something has gone awry. This is criticized as
+it gives one massive failure point on the server. Is someone manages to
+manipulate the hashes or rather sneaks in a rooted package at the server, you
+are fucked. But, I'd rather have one castle. At least it (HTTPS) protects **man
+in the middle attack** and one disciplined team proactively maintaining
+security is **simple** and accountable.
+
+I asked what would happen if a compromised GPG upload took place and I had the
+reply:
+
+	04:37 <falconindy> hendry: _if_ a key is compromised, the attacker still needs
+	to get a package built and onto the servers, which requires getting through
+	more layer of security. ideally in that time period, its revoked and we have a
+	new key in place
+
+Reading the [Archlinux news
+item](http://allanmcrae.com/2011/12/pacman-package-signing-4-arch-linux/) &
+[package signing wiki](https://wiki.archlinux.org/index.php/Package_signing),
+I'm still struggling to understand how these "layers" work.
+
+I'm all _for_ layers, in the sense PKGBUILDs are reviewed again and again, like
+the [AUR](http://aur.archlinux.org/), but I fear `falconindy` just says
+"layers" as a false way of defending that a serious compromise can happen with
+GPG.
+
+I fear people will think, "oh it has a valid signature, it must be safe" and it
+doesn't need review culture might come in. GPG sets up such an obstacles, that
+even if you found a problem, only the signer can apply the patch. Debian style
+stagnation results.
+
+Please convince me otherwise security folks. Please avoid the adhominem attacks
+and lets have a sensible debate.
