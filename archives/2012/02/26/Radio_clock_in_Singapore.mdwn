@@ -10,9 +10,10 @@ are.  4095.2m in that case.
 
 After moving to Singapore, again my clock failed to sync during the night until
 I (like the directions suggest) took off my watch one night and left it on the
-window sill. It synced at 2012-02-22T03:04+08:00.
+window sill. It synced at 2012-02-22T03:04+08:00 in the Mount Sophia area of
+Singapore.
 
-So **yes** you can pick up [low frequency](http://en.wikipedia.org/wiki/Low_frequency) time signals in Singapore.
+So **yes** you can pick up [low frequency](http://en.wikipedia.org/wiki/Low_frequency) time signals in Singapore!
 
 However it must be patchy since I visited a Casio G-shock store in [Harbour Front](http://en.wikipedia.org/wiki/HarbourFront)
 and enquired about their Radio clock range. They don't sell any Radio clock
