@@ -1,0 +1,19 @@
+<a href="http://www.flickr.com/photos/hendry/6580452171/" title="Awesome picture of Jutta &amp; I at the Mt Kinabalu summit by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7004/6580452171_cc3f70102d.jpg" width="334" height="500" alt="Awesome picture of Jutta &amp; I at the Mt Kinabalu summit"></a>
+
+When reaching the summit of Mount Kinabalu in the early morning after spending
+almost 2 months in Kuala Lumpur without a time update to GW-M5600-1ER, I was
+surprised to see it syncing.
+
+This made my think that perhaps [Radio
+clock](http://en.wikipedia.org/wiki/Radio_clock) works better, the high you
+are.  4095.2m in that case.
+
+After moving to Singapore, again my clock failed to sync during the night until
+I (like the directions suggest) took off my watch one night and left it on the
+window sill.
+
+So **yes** you can pick up [low frequency](http://en.wikipedia.org/wiki/Low_frequency) time siganls in Singapore.
+
+However it must be patchy since I visit a Casio G-shock store in [Harbour Front](http://en.wikipedia.org/wiki/HarbourFront)
+and enquired about their Radio clock range. They don't sell any Radio clock
+products!
