@@ -57,13 +57,16 @@ improvement over the one embedded in the screen in the X201. I also think the
 keyboard is slightly better too, with the fat ESC & Delete keys that suit a
 **vim** user well.
 
-Of course I disabled the Trackpad in favour of the Trackpoint in the BIOS, but
+Of course I disabled the touchpad/Trackpad in favour of the Trackpoint "nipple" in the BIOS, but
 it is unnerving to accidentally depress it from time to time as I think the
 case is falling apart (which it isn't).
 
 Occasionally the Windows hard drive spins up and makes a funny noise, even
 though it's not in use. Not sure what I can do about this... perhaps I should
-take it out. ;)
+take it out. ;) Update: I just removed it and saved some weight. Running solely off mSata.
+
+Volume on the X220 is quite low, compared to the X201. Almost too low to watch
+a movie.
 
 I must say buying a laptop from <http://shop.lenovo.com/> (powered by Digital
 River) was a little frustrating. It exhibited a myriad of problems, most of
@@ -77,8 +80,6 @@ which I've cleared my mind off, less I go mad.
 [Lenovo UK on twitter](https://twitter.com/#!/lenovo_uk) thankfully were slightly useful.
 
 The [UPS](http://www.ups.com/) shipment progress was also pretty ridiculous. The laptop started in China on 11/03/2011, then it went to:
-
-The headphone microphone via the 3.5mm jack sounds awful on Windows and even worse on Linux. :(
 
 * Castle Donnington, United Kingdom
 * Back to Shanghai, China (w.t.f!)
