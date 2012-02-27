@@ -21,6 +21,13 @@ there is any point trying to turn off the noisy fan if it feels hot to the
 touch! I did find a ridiculously long [forum thread on the X220 fan's
 issues](http://forums.lenovo.com/t5/X-Series-ThinkPad-Laptops/X220-fan-constantly-on-revving-up-and-down/td-p/425965).
 
+UPDATE: Appending `i915.i915_enable_rc6=1` to /proc/cmdline seems to make my
+X220's temperature `/sys/class/thermal/thermal_zone0/temp` fall almost 10C! Why
+the hell isn't this enabled by default is beyond me. The authoritative resource
+is tidbits buried in <http://intellinuxgraphics.org/> and
+<http://www.thinkwiki.org/wiki/Installing_Gentoo_on_a_ThinkPad_X220> also seems
+like a nice X220 resource.
+
 Another problem is the "Intel Corporation Centrino Advanced-N 6205 (rev 34)"
 wireless. Arch's `wifi-select wlan0` doesn't seem to want to join an open
 network. The problem seems similar to an issue documented with my X201 and
