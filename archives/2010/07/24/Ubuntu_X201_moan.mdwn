@@ -16,7 +16,6 @@ The automatic one resized the hibernation partition for Ubuntu to sit in a
 ~20GB partition. Bit lame, thankfully the advanced setup allowed me to set it
 up like so:
 
-
 	hendry@x201 ~$ cat /proc/partitions
 	major minor  #blocks  name
 
@@ -44,7 +43,6 @@ Whose bright idea was that?
 
 Things not working:
 
-* Sound after `sudo /etc/acpi/sleep.sh`, [fixed](http://git.webconverger.org/?p=home.git;a=blob;f=.bashrc;h=8ba57b877e31a03c5f0b1675b42f747d81dd31ad;hb=2a74168bc9562b441232bc38d2dd7a5f72c11002#l31)
 * Some times USB (no power) after `sudo /etc/acpi/sleep.sh`
 * Some times completely fails to wake up after `sudo /etc/acpi/sleep.sh`
 * Only ~5hrs on 9cell
