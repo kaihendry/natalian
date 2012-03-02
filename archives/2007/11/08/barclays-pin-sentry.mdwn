@@ -1,7 +1,9 @@
 [[!meta title="Barclays PIN sentry" ]]
 [[!meta date="2007-11-08 12:52:00" ]]
 [[!tag banking barclays pinsentry visa General]]
-<img src="http://www.barclays.co.uk/pinsentry/images/00_sentry.gif" />
+
+<a href="http://www.flickr.com/photos/hendry/2248084983/" title="The card is not accepted by Kai Hendry, on Flickr"><img src="http://farm3.staticflickr.com/2337/2248084983_b02bf93557.jpg" width="500" height="375" alt="The card is not accepted"></a>
+
 
 <p>Last August I lost my <span class="caps">VISA</span> debit card. So I ordered a new one.</p>
 
