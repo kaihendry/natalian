@@ -1,0 +1,49 @@
+I've been a Dreamhost customer since July 2005 and I've been a happy camper for the most part.
+
+
+However I don't know if it's because I'm more reliant on them, or because they
+are beginning to suck, though there has been a few unresolved issues with their
+services that's really pissing me off.
+
+# DNS control fail
+
+Bitfolk changed their IP and I had to update the IP on a number of domains,
+[managed by
+Dreamhost](https://panel.dreamhost.com/index.cgi?tree=domain.manage&).
+
+Dreamhost's panel is has always been slow and when you need update umpteen
+domains it's unworkable. There is no bulk edit or search & replace. Result?
+Down time on several sites, as I slowly worked out which sites were wrong.
+
+Perhaps there is a trick to get the whole zone file, but I don't know it.
+
+# [Site statistics](https://panel.dreamhost.com/index.cgi?tree=status.stats&)
+
+My username **kaihendry** has different passwords on different domains. There
+is no way to reset them all. This totally sucks.
+
+# No 1-click unsubscribe on [Dreamhost Announcement Mailing List](http://wiki.dreamhost.com/Announcement_Mailing_List)
+
+I run an [announce list from
+Dreamhost](https://panel.dreamhost.com/index.cgi?tree=mail.list&) since 2007
+with a couple of hundred users. The publishing UI sucks and worst of all, the
+is no 1-click unsubscribe which is almost "de rigueur" in this marketing
+medium.
+
+Right now unsubscribe bizarrely works by asking subscribers to go back to
+Website where they subscribed from. This is too taxing for folks. Hence I end
+up fielding from time to time, "how do I get off this list" type emails.
+
+After a long painful trawl through [duplicate
+suggestions](https://panel.dreamhost.com/index.cgi?tree=home.sugg&) and a
+support back & forth with Brian, Tyler and Heckman to end with:
+
+	> Be good if there was an open bug to point to here. Otherwise I feel it
+	> will just get buried.
+
+	I will try to get that task associated with your account once I'm able to
+	locate it. Keep in mind, however, that what my colleague said was not
+	simply a dismissal. Still, even though I believe he was being completely
+	honest, I'm going to still make sure you get that reassurance, since it
+	may seem the higher priority issues are pushing this one down in the pile
+	(which is, frankly, not small)
