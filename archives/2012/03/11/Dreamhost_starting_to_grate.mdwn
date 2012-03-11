@@ -3,11 +3,11 @@ I've been a Dreamhost customer since July 2005 and I've been a happy camper for 
 
 However I don't know if it's because I'm more reliant on them, or because they
 are beginning to suck, though there has been a few unresolved issues with their
-services that's really pissing me off.
+services that pissing me off, hence the rant. :/
 
 # DNS control fail
 
-Bitfolk changed their IP and I had to update the IP on a number of domains,
+[Bitfolk](http://bitfolk.com/) [renumbered my VPS IP](https://tools.bitfolk.com/wiki/Renumbering_for_customers) and I had to update the IP on a number of domains,
 [managed by
 Dreamhost](https://panel.dreamhost.com/index.cgi?tree=domain.manage&).
 
@@ -15,7 +15,7 @@ Dreamhost's panel is has always been slow and when you need update umpteen
 domains it's unworkable. There is no bulk edit or search & replace. Result?
 Down time on several sites, as I slowly worked out which sites were wrong.
 
-Perhaps there is a trick to get the whole zone file, but I don't know it.
+Perhaps there is a trick to get the whole zone file, so I can better manage my handful of domains but I don't know it.
 
 # [Site statistics](https://panel.dreamhost.com/index.cgi?tree=status.stats&)
 
@@ -32,10 +32,10 @@ medium.
 
 Right now unsubscribe bizarrely works by asking subscribers to go back to
 Website where they subscribed from. This is too taxing for folks. Hence I end
-up fielding from time to time, "how do I get off this list" type emails.
+up fielding from time to time, depressing "how do I get off this list?" type emails.
 
 After a long painful trawl through [duplicate
-suggestions](https://panel.dreamhost.com/index.cgi?tree=home.sugg&) and a
+suggestions](https://panel.dreamhost.com/index.cgi?tree=home.sugg&) and a long
 support back & forth with Brian, Tyler and Heckman to end with:
 
 	> Be good if there was an open bug to point to here. Otherwise I feel it
