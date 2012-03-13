@@ -1,0 +1,11 @@
+[[!comment format=mdwn
+ username="http://hendry.iki.fi/"
+ nickname="hendry"
+ subject="thanks for the condescending remark"
+ date="2012-03-13T01:02:10Z"
+ content="""
+CNAMES is probably the right way to go. For example with http://webconverger.org/servers I have R-named them by the country code they sit in. So I could just CNAME various names to those.
+
+
+Nonetheless the fact the dreamhost don't have some bulk UI to do it it kinda SUCK-Y.
+"""]]
