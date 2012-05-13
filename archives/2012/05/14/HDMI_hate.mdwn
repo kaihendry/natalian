@@ -1,0 +1,29 @@
+<a href="http://www.flickr.com/photos/hendry/6902997817/" title="HDMI cable connectors by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7206/6902997817_5afe89592f_n.jpg" width="320" height="240" alt="HDMI cable connectors"></a>
+
+[HDMI](http://en.wikipedia.org/wiki/HDMI) or "hit-me" as I like to call it, is
+one step forward and two steps **backwards** because:
+
+# You cannot hotplug HDMI
+
+Initialisation of connected HDMI only happens on (cold) boot. So if you switch
+or connect HDMI devices it probably won't correctly negotiate the mode.
+
+That sucks.
+
+# Displays cannot detect HDMI sources
+
+Maybe it's our Samsung UE46C6530 TV, though if you search the interwebs many
+other devices seem to suffer with this auto switching "problem".
+
+You end up having to **manually** choose the input device. Awkward.
+
+# Furthermore
+
+It's a bit annoying that on my X220 Thinkpad
+[DisplayPort](http://en.wikipedia.org/wiki/DisplayPort) to HDMI, that it
+doesn't supply the audio channel along with the signal. Probably should blame
+Lenovo, but why doesn't work? Incompatities?
+
+Confusingly:
+
+	> DisplayPort 1.2 is the future interface for PC monitors, along with HDMI 1.4a for TV connectivity.
