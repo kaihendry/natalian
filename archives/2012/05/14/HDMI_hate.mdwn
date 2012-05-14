@@ -24,7 +24,7 @@ You end up having to **manually** choose the input device. Awkward.
 It's a bit annoying that on my X220 Thinkpad
 [DisplayPort](http://en.wikipedia.org/wiki/DisplayPort) to HDMI, that it
 doesn't supply the audio channel along with the signal. Probably should blame
-Lenovo, but why doesn't work? Incompatities?
+Lenovo, but why doesn't it work? Incompatibilities?
 
 Confusingly:
 
