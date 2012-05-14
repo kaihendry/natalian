@@ -10,6 +10,8 @@ or connect HDMI devices it probably won't correctly negotiate the mode.
 
 That sucks.
 
+UPDATE: This just might be the case for MY hardware, not [others](http://twitter.com/#!/Ngeow/status/201852431036985344) for which it might "just work"
+
 # Displays cannot detect HDMI sources
 
 Maybe it's our Samsung UE46C6530 TV, though if you search the interwebs many
