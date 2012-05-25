@@ -1,13 +1,14 @@
 [[!meta title="Comparing Microsoft Word renderings with PDF export" ]]
 [[!meta date="2006-07-14 16:51:06" ]]
 [[!tag microsoft office]]
+
 <a href="http://www.flickr.com/photos/hendry/188626785/" title="Photo Sharing"><img src="http://static.flickr.com/73/188626785_173e5e910a_m.jpg" width="240" height="180" alt="Comparing Office document renderings" /></a>
 
 <p>Sometime ago I came up with the idea of automated comparison of how different Office applications render Microsoft documents. Here is some output and thoughts.</p>
 
-<p># Export test file to <span class="caps">PDF</span> from application<br />
- # `convert` (imagemagick) <span class="caps">PDF</span> to <span class="caps">TIFF</span><br />
- # <a href="http://packages.debian.org/unstable/graphics/findimagedupes">findimagedupes</a> $MICROSOFT_TIFF $COMPETITOR_TIFF</p>
+* Export test file to <span class="caps">PDF</span> from application<br />
+* `convert` (imagemagick) <span class="caps">PDF</span> to <span class="caps">TIFF</span><br />
+* <a href="http://packages.debian.org/unstable/graphics/findimagedupes">findimagedupes</a> $MICROSOFT_TIFF $COMPETITOR_TIFF</p>
 
 <pre>
 office2007beta2/4-1-1-23.tiff abiword/4-1-1-23.tiff:  89.45% similar.
@@ -22,17 +23,17 @@ office2007beta2/2-19-14-7.tiff OO/2-19-14-7.tiff:  99.22% similar.
 office2007beta2/4-1-1-23.tiff OO/4-1-1-23.tiff:  88.28% similar.
 </pre>
 
-<p># Abiword 2.4.4 failed to generate PDFs that imagemagick&#8217;s convert could work on, except in one case. Btw the rendering in that case is completely <strong>wrong</strong>. Notice though how it scored a 89.45% similarity.<br />
- # Chart <span class="caps">PDF</span> test files that MSOffice2007beta2 outputted would make imagemagick&#8217;s convert choke ! :( Hence, I had to compare them by hand. <br />
- # <a href="http://neevia.com">Neevia</a> and <a href="http://www.freepdfconvert.com/">freepdfconvert</a> do very high quality <span class="caps">PDF</span> conversion compared to MS Office 2007.<br />
- # Converting test files to <span class="caps">PDF</span> in each application is <strong>extremely laborious</strong><br />
- # OpenOffice 2.0.3 does well, except minor details in the rendering such as font size and alignment<br />
- # I did try <a href="http://www.pdfonline.com/">other</a> &#8220;online&#8221; <span class="caps">PDF</span> convertors. Neevia and freepdfconvert were the only two to pass my basic <span class="caps">CJK</span> test.<br />
- # <a href="http://qa.openoffice.org/servlets/ReadMsg?listName=dev&amp;msgNo=6512">Reference <span class="caps">PDF</span> conversion with OO can be automated</a><br />
- # Of course I assume that the <span class="caps">PDF</span> export is the same as the on screen rendering. This isn&#8217;t strictly true. For example Word documents with a coloured background won&#8217;t come out in a <span class="caps">PDF</span>.<br />
- # Imagemagick&#8217;s compare and <a href="http://pdiff.sourceforge.net/">pdiff</a> can help<br />
- # I tried <a href="http://www.softmaker.com/english/tml_en.htm">Softmaker&#8217;s Textmaker 2002 linux edition.</a> Couldn&#8217;t render any of my doc tests. The new 2006 Textmaker version for Windows renders my tests well, though it seems unable to export to <span class="caps">PDF</span>. Doh!<br />
- # <a href="http://www.livingwithoutmicrosoft.org/2006/06/04/pdf-in-ms-office/">Microsoft are doing away with <span class="caps">PDF</span> export</a><br />
- # The similarity index can only be used as a rough guide to flag possible problems. OO renderings are often below 90%, but the information is there.</p>
+* Abiword 2.4.4 failed to generate PDFs that imagemagick&#8217;s convert could work on, except in one case. Btw the rendering in that case is completely <strong>wrong</strong>. Notice though how it scored a 89.45% similarity.<br />
+* Chart <span class="caps">PDF</span> test files that MSOffice2007beta2 outputted would make imagemagick&#8217;s convert choke ! :( Hence, I had to compare them by hand. <br />
+* <a href="http://neevia.com">Neevia</a> and <a href="http://www.freepdfconvert.com/">freepdfconvert</a> do very high quality <span class="caps">PDF</span> conversion compared to MS Office 2007.<br />
+* Converting test files to <span class="caps">PDF</span> in each application is <strong>extremely laborious</strong><br />
+* OpenOffice 2.0.3 does well, except minor details in the rendering such as font size and alignment<br />
+* I did try <a href="http://www.pdfonline.com/">other</a> &#8220;online&#8221; <span class="caps">PDF</span> convertors. Neevia and freepdfconvert were the only two to pass my basic <span class="caps">CJK</span> test.<br />
+* <a href="http://qa.openoffice.org/servlets/ReadMsg?listName=dev&amp;msgNo=6512">Reference <span class="caps">PDF</span> conversion with OO can be automated</a><br />
+* Of course I assume that the <span class="caps">PDF</span> export is the same as the on screen rendering. This isn&#8217;t strictly true. For example Word documents with a coloured background won&#8217;t come out in a <span class="caps">PDF</span>.<br />
+* Imagemagick&#8217;s compare and <a href="http://pdiff.sourceforge.net/">pdiff</a> can help<br />
+* I tried <a href="http://www.softmaker.com/english/tml_en.htm">Softmaker&#8217;s Textmaker 2002 linux edition.</a> Couldn&#8217;t render any of my doc tests. The new 2006 Textmaker version for Windows renders my tests well, though it seems unable to export to <span class="caps">PDF</span>. Doh!<br />
+* <a href="http://www.livingwithoutmicrosoft.org/2006/06/04/pdf-in-ms-office/">Microsoft are doing away with <span class="caps">PDF</span> export</a><br />
+* The similarity index can only be used as a rough guide to flag possible problems. OO renderings are often below 90%, but the information is there.</p>
 
 <p>If there is a way to hack Microsoft Office 2007beta2 to create (correct) PDFs from them command (cmd) line, then this technique has a hope. I can&#8217;t be bothered to go through hundreds of test cases. Since Neevia and &#8220;freepdfconvert&#8221; are so close to Microsoft Office2007 renderings in my tests, perhaps they could be used as a base reference.</p>
