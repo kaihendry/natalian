@@ -1,5 +1,4 @@
-In a similar vein to my [[daily electricity
-cost|archives/2008/06/29/daily-electricity-cost]] investigations 4 years ago, I
+In a similar vein to my [[daily electricity cost|archives/2008/06/29/daily-electricity-cost]] investigations 4 years ago, I
 thought I should work out the costs for <http://prazefarm.co.uk/>.
 
 This is a big issue for our family since oil prices have rocketed left us
@@ -31,4 +30,26 @@ It's in PDF which sucks. There is unsurprisingly no API and the delay is very
 long. For example I logged onto <http://www.edfenergy.com/> on 2012-05-27 to
 find the latest bill from 2012-01-12, almost 5 months ago.
 
-<img src="/archives/2012/05/27/electricity_cost/curve.png">
+<img src="/archives/2012/05/27/electricity_cost/curve.png" alt="direct debit balance curve">
+
+It might be more convenient to pay a regular sum for budgeting, but again this
+obfuscates what you consumption actually is. I think you need at the very least
+a summer versus winter perspective.
+
+<img src="/archives/2012/05/27/electricity_cost/your-energy-usage.png" alt="coarse energy usage">
+
+17.5 kW/h per day is the average I assume. This figure is practically useless.
+If we knew day to day our kW/h consumption then we could act upon this
+information.
+
+<img src="/archives/2012/05/27/electricity_cost/your-charges.png" alt="Charge breakdown">
+
+I think in our case the cost per kW/h is 9.73p. But just by my experience
+[[before|archives/2008/06/29/daily-electricity-cost]], it's probably an
+incorrect assumption when you factor in the confusing "standing charge".
+
+I don't why [EDF](http://en.wikipedia.org/wiki/EDF_Energy) have rediculous
+Tariff names like [Fixed S@ver
+v2](http://www.ukpower.co.uk/gas_electricity_suppliers/edf-energy/fixed-sver-v2-before-august-2011)
+which is very hard to find clear information about. My mother allegedly had to
+"fight" to this rate. Not sure why.
