@@ -1,3 +1,5 @@
+[[!meta title="South West electricity cost" ]]
+
 In a similar vein to my [[daily electricity cost|archives/2008/06/29/daily-electricity-cost]] investigations 4 years ago, I
 thought I should work out the costs for <http://prazefarm.co.uk/>.
 
