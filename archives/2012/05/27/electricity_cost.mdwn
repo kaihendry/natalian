@@ -44,13 +44,38 @@ information.
 
 <img src="/archives/2012/05/27/electricity_cost/your-charges.png" alt="Charge breakdown">
 
-I think in our case the cost per kW/h is **9.73 pence**. But just by my
-experience [[before|archives/2008/06/29/daily-electricity-cost]], it's probably
-an incorrect assumption when you factor in the confusing "standing charge". My
-mother understand the "standing charge" is the same as BT's line rental.
+I think in our case the cost per kW/h is **9.73 pence** (10.22pence including
+VAT). But just by my experience
+[[before|archives/2008/06/29/daily-electricity-cost]], it's probably an
+incorrect assumption when you factor in the confusing "standing charge". My
+mother understand the "standing charge" is the same as BT's line rental. In
+that case we get charged about 30 pence per day for having electricity running
+to us.
 
 I also don't understand why [EDF](http://en.wikipedia.org/wiki/EDF_Energy) have
 ridiculous tariff names like [Fixed S@ver
 v2](http://www.ukpower.co.uk/gas_electricity_suppliers/edf-energy/fixed-sver-v2-before-august-2011)
 that change every season which is very hard to find clear information about. My
 mother allegedly had to "fight" to this rate. Not sure why.
+
+This "Fixed S@ver Version 2" tariff end on 30 September 2012 and we don't
+actually know what the price will be from then.
+
+# Add confusion about competitors
+
+Evidently there is a new law that electricity providers must tell you about a
+cheaper provider. I'm not sure how this works because they are all probably in
+"cahoots with each other". All the infrastructure in our part of Cornwall is
+maintained by [SWEB](http://en.wikipedia.org/wiki/SWEB_Energy). We know this
+because we have a small pylon on our farm and we get paid by SWEB to have it
+across our property. Even though EDF discontinued the 'SWEB' brandname on 5
+June 2006.
+
+Maybe you simply need to move to get cheaper electricity. The cheapest
+electricity according to the "Fixed S@ver Version 2" booklet which isn't
+seemingly online anywhere is Yorkshire.
+
+# Conclusion
+
+I hope you agree that electricity utilities are not any clearer to 4 years ago,
+making it incredibly difficult to make informed decisions about energy.
