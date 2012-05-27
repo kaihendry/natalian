@@ -7,9 +7,9 @@ testing our brains trying to work out questions like:
 1. Is it cheaper to do hot water with electricity?
 2. Is a immersion heater the way to go or are there more efficient options?
 
-For general heating we do recently bring out a Japanese style electric heater,
-but we struggle to compare it the cost of oil based heating since it's really
-quite hard to work out the efficiency and consumption of our
+For general heating we have recently brought out a Japanese style electric
+heater, but we struggle to compare it the cost of oil based heating since it's
+really quite hard to work out the efficiency and consumption of our
 [Rayburn](http://www.rayburn-web.co.uk/).
 
 Back to electricity and I'm really quite disappointed the way electricity bills
@@ -17,12 +17,12 @@ are done still. If electricity bills and reporting were done well, I can't help
 but feel people will make much better decisions.
 
 For example how many people go nuts nowadays when someone leaves a light bulb
-on? Lets assume you leave 5 20W (energy saving bulbs) running 12 hours. Lets
+on? Lets assume you leave 5x20W (energy saving bulbs) running 12 hours. Lets
 assume you are charged 10p per kW/h.
 
-	0.100W*12*10= 12 pence for the day
+	0.100kW*12hrs*10pence= 12 pence for the day
 
-Is it really worth going nuts over 12 pence? No.
+Is it really worth going nuts over 12 pence? **No** !!
 
 # The EDF bill
 
@@ -49,7 +49,7 @@ I think in our case the cost per kW/h is 9.73p. But just by my experience
 incorrect assumption when you factor in the confusing "standing charge".
 
 I don't why [EDF](http://en.wikipedia.org/wiki/EDF_Energy) have rediculous
-Tariff names like [Fixed S@ver
+tariff names like [Fixed S@ver
 v2](http://www.ukpower.co.uk/gas_electricity_suppliers/edf-energy/fixed-sver-v2-before-august-2011)
 which is very hard to find clear information about. My mother allegedly had to
 "fight" to this rate. Not sure why.
