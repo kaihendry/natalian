@@ -31,4 +31,4 @@ It's in PDF which sucks. There is unsurprisingly no API and the delay is very
 long. For example I logged onto <http://www.edfenergy.com/> on 2012-05-27 to
 find the latest bill from 2012-01-12, almost 5 months ago.
 
-<img src="curve.png">
+<img src="/archives/2012/05/27/electricity_cost/curve.png">
