@@ -1,0 +1,23 @@
+[[!meta title="Will Aliens be able to hear us?"]]
+
+I notice stories like this [Alien Hunters story on BBC
+News](http://www.bbc.co.uk/news/science-environment-16273512). For example:
+
+	I Love Lucy signals are more than 50 light years away, and our nearest stars have already received Simpsons broadcasts
+
+I see a problem with this. The way broadcasting has gone in my mind is this:
+
+1. 80 odd years of terrestrial analogue broadcast. Lets face it, 80 years in the age of the Universe isn't very long at all.
+2. Everything going [digital](http://en.wikipedia.org/wiki/Digital_terrestrial_television) - making it very difficult to decode, surely?
+
+Since with digital terrestrial television, high definition is not as easy to do
+as with [satellite](http://en.wikipedia.org/wiki/Satellite_television),
+therefore most people switch to satellite and the popularity of digital
+terrestrial wanes.
+
+And finally the trend prevails were most people just watch "TV" off the
+Internet. Making Digital terrestrial television even more irrelevant along with
+with Satellite television.
+
+So if broadcasting is replaced with the Internet how do aliens actually hear
+us? Wifi signals? I severely doubt they can travel into space!
