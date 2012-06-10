@@ -2,7 +2,7 @@ I found [Terence's HTTP code for
 censorship](http://shkspr.mobi/blog/index.php/2012/06/there-is-no-http-code-for-censorship-but-perhaps-there-should-be/#comments)
 post and especially the comments interesting.
 
-Without entering the debate, I'm 100% against censorship since I think it's a
+Without entering the debate, I'm against censorship since I think it's a
 slippery slope, though I find recently observed [German way of doing
 things](http://en.wikipedia.org/wiki/Censorship_in_germany) most disturbing.
 i.e. the subversive way "media control" is conducted Germany.
@@ -27,7 +27,12 @@ more "transparent" (ironically) way of blocking access. I prefer this simple
 block this over being later threatened, which is far more scary. Worse is when
 you are not aware you are being censored.
 
+The workaround Germans are using is surprisingly reminiscent of the way
+Iranians I found were circumventing censorship. Iranians IIRC use Canadian VPN
+providers and I've heard of Germans using Slovakian ones. Worryingly
+inefficient use of bandwidth!
+
 Another interesting aspect to politics is how surprisingly well the [Pirate
-party](http://en.wikipedia.org/wiki/Pirate_Party_Germany) fare in this country.
+party](http://en.wikipedia.org/wiki/Pirate_Party_Germany) fare in Germany.
 
 There is definitely an issue worthy of discussion here.
