@@ -19,13 +19,19 @@ basically claiming you were using illegally file sharing and tells you to pay
 The consequences if you do not pay, is that you will be sued. Many Germans have
 been subjected to this "scam" (empty threat) and find it difficult to talk
 about. Perhaps I'm too biased using the word "scam", since I really don't see
-how you can realistically prove this in a court of law.
+how you can realistically prove this in a court of law. Of course, their letter
+is carefully crafted to make you confess.
 
-I'm starting to think just [blocking TPB in
+I'm starting to think <a
+href="http://en.wikipedia.org/wiki/Cleanfeed_(content_blocking_system)">Cleanfeed</a>'s
+[blocking TPB in
 England](http://en.wikipedia.org/wiki/The_pirate_bay#United_Kingdom) is a much
 more "transparent" (ironically) way of blocking access. I prefer this simple
-block this over being later threatened, which is far more scary. Worse is when
-you are not aware you are being censored.
+block this over being later threatened, which is far more **scary**. Worse is
+when you are not aware you are being censored. UK's Cleanfeed IMO should
+disclose their blacklist, so society can scrutinise it, like [Google does in
+their transparency
+report](http://www.google.com/transparencyreport/removals/copyright/domains/?r=last-month).
 
 The workaround Germans are using is surprisingly reminiscent of the way
 Iranians I found were circumventing censorship. Iranians IIRC use Canadian VPN
