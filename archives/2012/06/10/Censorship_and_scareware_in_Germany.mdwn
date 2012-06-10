@@ -9,21 +9,24 @@ i.e. the subversive way "media control" is conducted Germany.
 
 For example you are free to use site like
 [TPB](http://en.wikipedia.org/wiki/The_pirate_bay), however your ISP is liable
-to identify you. I'm not sure how they do this, I guess there are "honey traps"
-commissioned by lawyers in Germany and then once they know your IP, they
+to identify you IIUC. I'm not sure how they do this, I guess there are "honey traps"
+commissioned by lawyers in Germany and then once they know your (German) IP, they
 contact you with "scareware". The scareware is a letter basically claiming you
 were using illegally file sharing and tells you to pay ~1000EUR. An admission
 of guilt, gets the charge dropped to ~300EUR.
 
 The consequences if you do not pay, is that you will be sued. Many Germans have
-been subjected to this scam and find it difficult to talk about.
+been subjected to this "scam" (empty threat) and find it difficult to talk
+about. Perhaps I'm too biased using the word "scam", since I really don't see
+how you can realistically prove this in a court of law.
 
-I'm starting to think just blocking TPB in England is a much more "transparent"
-(ironically) way of blocking access. I prefer this simple block this over being
-later threatened, which is far more scary. Worse is when you are not aware you
-are being censored.
+I'm starting to think just [blocking TPB in
+England](http://en.wikipedia.org/wiki/The_pirate_bay#United_Kingdom) is a much
+more "transparent" (ironically) way of blocking access. I prefer this simple
+block this over being later threatened, which is far more scary. Worse is when
+you are not aware you are being censored.
 
 Another interesting aspect to politics is how surprisingly well the [Pirate
 party](http://en.wikipedia.org/wiki/Pirate_Party_Germany) fare in this country.
 
-This defintely a problem here.
+There is defintely a problem here.
