@@ -9,11 +9,12 @@ i.e. the subversive way "media control" is conducted Germany.
 
 For example you are free to use site like
 [TPB](http://en.wikipedia.org/wiki/The_pirate_bay), however your ISP is liable
-to identify you IIUC. I'm not sure how they do this, I guess there are "honey traps"
-commissioned by lawyers in Germany and then once they know your (German) IP, they
-contact you with "scareware". The scareware is a letter basically claiming you
-were using illegally file sharing and tells you to pay ~1000EUR. An admission
-of guilt, gets the charge dropped to ~300EUR.
+to identify you IIUC. I'm not sure how they do this, I guess there are "honey
+traps" commissioned by lawyers in Germany and then once they know your (German)
+IP, the lawyers then contact you with
+[scareware](http://en.wikipedia.org/wiki/Scareware). The scareware is a letter
+basically claiming you were using illegally file sharing and tells you to pay
+~1000EUR. An admission of guilt, gets the charge dropped to ~300EUR.
 
 The consequences if you do not pay, is that you will be sued. Many Germans have
 been subjected to this "scam" (empty threat) and find it difficult to talk
@@ -29,4 +30,4 @@ you are not aware you are being censored.
 Another interesting aspect to politics is how surprisingly well the [Pirate
 party](http://en.wikipedia.org/wiki/Pirate_Party_Germany) fare in this country.
 
-There is defintely a problem here.
+There is definitely an issue worthy of discussion here.
