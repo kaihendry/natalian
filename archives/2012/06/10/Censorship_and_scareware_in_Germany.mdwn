@@ -1,0 +1,29 @@
+I found [Terence's HTTP code for
+censorship](http://shkspr.mobi/blog/index.php/2012/06/there-is-no-http-code-for-censorship-but-perhaps-there-should-be/#comments)
+post and especially the comments interesting.
+
+Without entering the debate, I'm 100% against censorship since I think it's a
+slippery slope, though I find recently observed [German way of doing
+things](http://en.wikipedia.org/wiki/Censorship_in_germany) most disturbing.
+i.e. the way "media control" conducted.
+
+For example you are free to use site like
+[TPB](http://en.wikipedia.org/wiki/The_pirate_bay), however your ISP is liable
+to identify you. I'm not sure how they do this, I guess there are "honey traps"
+commissioned by lawyers in Germany and then once they know your IP, they
+contact you with "scareware". The scareware is a letter basically claiming you
+were using illegally file sharing and tells you to pay ~1000EUR. An admission
+of guilt, gets the charge dropped to ~300EUR.
+
+The consequences if you do not pay, is that you will be sued. Many Germans have
+been subjected to this scam and find it difficult to talk about.
+
+I'm starting to think just blocking TPB in England is a much more "transparent"
+(ironically) way of blocking access. I prefer this simple block this over being
+later threatened, which is far more scary. Worse is when you are not aware you
+are being censored.
+
+Another interesting aspect to politics is how surprisingly well the [Pirate
+party](http://en.wikipedia.org/wiki/Pirate_Party_Germany) fare in this country.
+
+This defintely a problem here.
