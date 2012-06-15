@@ -15,6 +15,7 @@ adminemail: hendry@iki.fi
 adminuser:
   - http://hendry.iki.fi/
   - http://jamiek.it/
+  - https://www.google.com/accounts/o8/id?id=AItOawl699qPx-vl_R9tRPPU9THiNKWk75hbLRw
 # users who are banned from the wiki
 banned_users: []
 # where the source of the wiki is located
