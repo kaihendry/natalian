@@ -1,7 +1,46 @@
 [[!meta title="Discover your daily electricity cost" ]]
 [[!meta date="2008-06-29 12:45:33" ]]
 [[!tag electricity environment opera whatwg General]]
+
+
 <a href="http://www.flickr.com/photos/hendry/2508376346/" title="Electricity bill by Kai Hendry, on Flickr"><img src="http://farm3.static.flickr.com/2080/2508376346_5b0770522a.jpg" width="354" height="500" alt="Electricity bill" /></a>
+
+
+<script>
+function roundTo(n, decimals) {
+    var d = Math.pow(10, decimals);
+    return Math.round(n * d)/d;
+}
+</script>
+
+<form oninput="x.value = roundTo(parseFloat(price.value)*parseInt(quantity.value)*(parseInt(wattage.value)/1000)*(parseInt(minutes.value)/60),1);">
+
+<p>
+Unit price aka <a href="http://www.flickr.com/photos/hendry/2508376346/in/set-72157605153273216/">price per kiloWatt hour</a>
+<input name="price" type="number" title="Price per kiloWatt hour" step="0.1" value="12.2"/> pence
+</p>
+
+<table>
+<thead>
+<tr>
+<th>Quantity</th>
+<th>Wattage (average)</th>
+<th>Time (minutes)</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+	<td><input required name="quantity" type="number" value="1"></td>
+	<td><input required name="wattage" type="number" step=1  min="1" value="10"></td>
+	<td><input required name="minutes" type="number" min="1" value="1"></td>
+	<td><output name="x" for="price quantity wattage minutes"></output>GBP</td>
+	</tr>
+</tbody>
+</table>
+
+</form>
+
 
 <p>After <a href="http://www.geekyoto.com/">Geekyoto</a> I was trying to figure out how much I spend on electricity. I believe people will change their habits once they <strong>know the cost</strong>.</p>
 
