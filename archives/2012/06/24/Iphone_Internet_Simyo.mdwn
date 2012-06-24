@@ -24,3 +24,57 @@ In Germany [I asked Simyo](http://twitter.com/kaihendry/status/21618815175085260
 After authenticating again, it does send you a SMS link and MMS, accept, accept and BOOM Internet! Was that so hard?
 
 Yes it was.
+
+I ended up spending at least an hour in a two queues in Plaza Singapura for
+getting Starhub settings after emailing and getting this CRAZY response:
+
+
+	Dear Mr Hendry
+
+	Thank you for your e-mail.
+
+	We note that you experienced less-than-ideal internet connections at
+	certain location(s). To better assist you in your query, we will
+	appreciate it if you would share with us the following details during
+	the period when you experienced less-than-ideal coverage.
+
+	01. Subscriber's Name and NRIC/Account/Mobile Number(s):
+	02. Preferred Contact Number and/or Time:
+	03. Specific address and/or locations where weak signal is detected
+	(eg. floor, unit number, postal code etc):
+	04. Date and Time of issue:
+	05. Brand and Model of Mobile:
+	06. Network Type you are connected to:
+	07. What is the Network signal strength of connection? (% or bars):
+	08. What is the APN you are currently using: shwap or shinternet
+	09. Were there any error messages displayed? (include screenshots if
+	necessary):
+	10. What is the IP Address you obtained? (under command prompt, type
+	ipconfig/all):
+	11. Please provide brief description of the issue you are
+	experiencing:
+	12. Did you experience this issue previously or is it only now that
+	you encounters this issue?:
+	13. Did you experience this issue only at a particular location or at
+	all locations?:
+	14. Any Frequent Disconnection occurred on GSM Network (To change
+	network, please refer to Network.txt)
+
+	We look forward to hearing from you so as to assist you with your
+	concerns as soon as possible.
+
+	Should you have any further queries on mobile services, please e-mail
+	us at this address or fax in to (+65) 6720 5000. We will be glad to
+	assist you.
+
+	Yours sincerely
+
+	Kenny Tan
+	Customer Affairs
+
+My response:
+
+	Do you want to know my bloody type and sexual orientation too? That's
+	a crazy way to do customer service.
+
+	The RIGHT ANSWER was to ask me to reset my Iphone's network settings.
