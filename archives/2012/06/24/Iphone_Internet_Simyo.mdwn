@@ -6,17 +6,17 @@ It usually involves:
 
 1) Resetting your network settings by going into Settings -> General -> Reset -> Reset Network Settings
 
-Now you've nuked your 3G settings and all those precious Wifi passwords, hopefully your carrier is SANE enough to support DEFAULT [APN](http://en.wikipedia.org/wiki/Access_Point_Name) settings. Often this isn't the case.
+Now you've nuked your 3G settings and all those precious Wifi passwords, hopefully your carrier is SANE enough to support DEFAULT [APN](http://en.wikipedia.org/wiki/Access_Point_Name) settings. (Whatever they are) Often this isn't the case. :(
 
 <a href="http://www.flickr.com/photos/hendry/7430912568/" title="Simyo 3G Internet setup for Iphone 4S by Kai Hendry, on Flickr"><img src="http://farm6.staticflickr.com/5114/7430912568_6127abd018.jpg" width="500" height="281" alt="Simyo 3G Internet setup for Iphone 4S"></a>
 
 2) Next you need to somehow get your new 3G carrier to send your Iphone the APN
 settings in the form of a MMS message that gets installed as a "Profile". I
-actually prefer Android here, because on Android is straightforward to manually
+actually prefer Android here, because on Android it is straightforward to manually
 update <abbr title="Access Point Name">APN</abbr> settings after Googling for
 your new operator's APN settings.
 
-In Germany [I asked Simyo](http://twitter.com/kaihendry/status/216188151750852609), but no response. Then I delve into the mess of their Website to find two important links:
+In Germany [I asked Simyo](http://twitter.com/kaihendry/status/216188151750852609), but no response. Then I delve into the mess of their Website to eventually find two important links:
 
 * <http://www.simyo.de/mobile-welt/mobiles-internet/handy-einstellungen.html>
 * <https://eplus.smarttrust.com/portal/authsec/portal/ScaPortalsimyo/default/downloadSettingsWindow?messagekey=download_settings.settings_sent&action=2>
