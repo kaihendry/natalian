@@ -1,7 +1,8 @@
-Stuff I didn't like about Betahaus
+[[!meta title="Stuff I didn't like about Betahaus"]]
 
+<a href="http://www.flickr.com/photos/hendry/7465353940/" title="My temp desk @betahaus silent room by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7276/7465353940_bfc309b2e9.jpg" width="500" height="375" alt="My temp desk @betahaus silent room"></a>
 
-* No free coffee
+# No free coffee
 
 Postage system is useful, but I wanted just ONE thing sent to me, a SIM card.
 And I didn't want to pay 25EUR for one month for the facility, just to put my name down
@@ -11,5 +12,32 @@ If you buy coffee, you need to take it up 3 flights of stairs. No delivery. This
 
 There is a 2EUR morning coffee service, but sheesh!
 
+# No drinking water
+
+Every office space needs an easy way to get cold drinking water imo.
+
+# Internet problems
 
 The internet often doesn't work in the cafe and it's not good enough on the 3rd floor.
+
+# PITA to climb the steps everyday
+
+This goes for [co-up](http://co-up.de/) too. Anyway, it's a PITA.
+
+# Silent room has terrible accoustics
+
+Move a chair or table and it reverbs across the room
+
+# No wired access
+
+I need wired access ideally for Internet, since I'm on ssh all day. Wireless latency bites.
+
+# Bad balance
+
+In one room there were visual / marketing types. At least that's the way I've
+categorized them in my brain. I can't afford to overhear conversations on such
+topics I do not care remotely about. So I did prefer the "peace & quiet" of the
+silent room. But then that fealt anti-social since I couldn't meet or talk with
+any other fellow developers
+
+I much prefer [co-up](http://co-up.de/) as a co-working space in Berlin as it's rammed with software **developers**.
