@@ -3,7 +3,7 @@ boring day at school in Marist Brothers, St Henrys. Then and there I knew it
 would be important way of verifying that it was me. So it was important for my
 signature to be distinctive and consistent.
 
-In Finland I thought I would do an experiment, more so to see if shop cashiers
+In Finland I thought I would do an [experiment](http://natalian.org/archives/2004/08/26/forging-signatures/), more so to see if shop cashiers
 would have the guts to question a foreigner (me). I signed my name with a X
 when paying for groceries. This was at a time before
 [Chip&PIN](http://en.wikipedia.org/wiki/Chip_and_PIN). Never once I was
@@ -19,30 +19,36 @@ Fast forward to 2012 and for a lot of business agreements, I would typically get
 
 This one is a badly photocopied one, which I'm supposed to sign. This process is a huge PITA. It normally involves:
 
-1) Printing the PDF - hard if you don't have a printer
-2) Signing it
-3) Scanning it - tricky if you don't have a scanner (camera would probably suffice)
-4) Sending the scan back
+1. Printing the PDF - hard if you don't have a printer
+* Signing it - where is my nice pen?
+* Scanning it - tricky if you don't have a scanner (camera would probably suffice)
+* Sending the scan back
 
 <blockquote class="twitter-tweet"><p>I love it when people send me a PDF to sign. NOT. :( Now wtf do I get a printer and scanner from @<a href="https://twitter.com/co_up">co_up</a> ?</p>&mdash; Kai Hendry (@kaihendry) <a href="https://twitter.com/kaihendry/status/222677924740997120" data-datetime="2012-07-10T13:05:29+00:00">July 10, 2012</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Apparently there is a solution by way of a feature in [Preview.App in
 MacOSX](http://twitter.com/wolframkriesing/status/222678037630693376) or one
-could just [edit the PDF in GIMP and paste in one's signate
+could just [edit the PDF in GIMP and paste in one's signature
 copy](http://twitter.com/edent/status/222678592092508160).
 
-Of course a PNG of your signature sounds a bit dangerous. But in practice, this is what people do!
+Of course a PNG of your signature sounds a bit dangerous. But in practice, this
+is what people do!! It's trivial to copy a signature out a signed document and
+not that much harder to steal a `signature.png`.
 
-It gets even more WEIRD when one can sign using [Echo Sign](http://en.wikipedia.org/wiki/EchoSign) by just typing your full name in a field. Er... this isn't secure now is it?
+It gets even more WEIRD when one can **eSign** using "modern CMS tools" like [Echo
+Sign](http://en.wikipedia.org/wiki/EchoSign) by just typing your full name in a
+field. Er... this isn't secure now is it?
 
 <a href="http://www.flickr.com/photos/hendry/7064697325/" title="Apparently this is legally binding by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7105/7064697325_e78185c2d4.jpg" width="500" height="376" alt="Apparently this is legally binding"></a>
 
-So we've gone from hand written signatures, where I guess a hand writing
-specialist could detect a fraud. To 2012 when if you can type my full name you
-could probably enter me in an agreement.
+So we've gone from hand written signatures, where I guess a "hand writing
+specialist" could detect a fraud, which was probably very rarely used. To the
+year 2012 when if you can type my full name you could probably enter me in an
+agreement if you managed to intercept my unencrypted email!
 
-I can't help but think than legal hawks should think about developing better
-technology for identifying parties in agreements. Then again when we have click
-throughs on 100 page like T&Cs, one has to wonder... how the fuck did we get
-here?
+I can't help but think the legal hawks should think about developing better
+technology for carrying out their trade, like identifying parties in
+agreements. Then again when we have
+[clickwrap](http://en.wikipedia.org/wiki/Clickwrap) agreements on 100+ page
+T&Cs, one has to wonder... how the fuck did we get here? This is wrong!
