@@ -1,0 +1,12 @@
+[[!comment format=mdwn
+ username="https://www.google.com/accounts/o8/id?id=AItOawkIBNipy18ISj9PrKSMltAVS81Xiq43qgY"
+ nickname="Simon"
+ subject="Use GNUPG"
+ date="2012-07-11T19:47:53Z"
+ content="""
+Just use GNUPG to create a signature of the document and send it back.
+
+It is far harder to fake, and more reliable. Your email program may offer a feature for doing this - hopefully transparently - but do make sure it signs the attachment.
+
+Adobe PDF tools offer a digital signature option, but why bother when it is easier to click \"reply\" and type \"I agree to the contract\".
+"""]]
