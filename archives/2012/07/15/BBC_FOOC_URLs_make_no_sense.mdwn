@@ -70,4 +70,4 @@ I'm aware there is a "World Service" version of FOOC for the Radio, but does it
 mean it has to make the Website confusing to navigate? There is no clear
 consistent canonical link to the Mussolini's bunker dispatch for example. 
 
-My favourite programme on the BBC is mess on the Web.
+My favourite programme on the BBC is a mess on the Web.
