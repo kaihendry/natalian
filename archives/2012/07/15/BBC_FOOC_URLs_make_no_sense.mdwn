@@ -30,13 +30,16 @@ http://bbc.co.uk/fooc/2012-07-07#1
 * bbc.co.uk - [no www](http://no-www.org/)
 * <abbr title="From Our Own Correspondent">fooc</abbr> is the abbreviateion for BBC From Our Own Correspondent
 * 2012-07-07 - simple [standardised date](http://en.wikipedia.org/wiki/ISO_8601) representation
-* #1 - for Chapter 1
+* `#1` - for Chapter 1
 
 # No subtitles
 
 I can't find subtitles or transcripts for any episodes of the BBC From Our Own Correspondent programme. :(
 
-Confusingly <http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/> links to stories in the BBC magazine like <http://www.bbc.co.uk/news/magazine-18828612> which are often enough transcripted version of the FOOC dispatch.
+Confusingly <http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/>
+links to stories in the BBC magazine like
+<http://www.bbc.co.uk/news/magazine-18828612> which are often enough articles
+version of the FOOC dispatch.
 
 # Discovery is inconsistent
 
@@ -49,7 +52,7 @@ Confusingly <http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/> 
 
 I did eventaully find a [complete
 list](http://www.bbc.co.uk/programmes/b006qjlq/episodes/player) where some
-programmes have chapters and others don't. **WHY**?
+programmes have chapters and others don't. **WHY**? And why isn't this list on [Iplayer](http://www.bbc.co.uk/iplayer/search?q=From%20Our%20Own%20Correspondent)?
 
 Another inconsitent aspect to the way FOOC content is organised on the BBC is
 again how [BBC News has magazine entries for example of a dispatch on the
@@ -59,5 +62,6 @@ same programme of FOOC on the World Service at
 <http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/archive/default.stm>.
 I'm aware there is a "World Service" version of FOOC for the Radio, but does it
 mean it has to make the Website confusing to navigate? There is no clear
-consistent canonical link to the Mussolini's bunker dispatch for example. It's
-a mess.
+consistent canonical link to the Mussolini's bunker dispatch for example. 
+
+My favourite programme on the BBC is mess on the Web.
