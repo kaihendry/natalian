@@ -1,0 +1,63 @@
+<a href="http://www.flickr.com/photos/hendry/7573465582/" title="Sorry there are no matches for BBC FOOC by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8155/7573465582_2296d3ec17_n.jpg" width="320" height="220" alt="Sorry there are no matches for BBC FOOC"></a>
+
+The BBC Web team are guilty of creating meaningless URLs for resources and
+making it near impossible to find BBC output. It took me more than an hour to
+find a [comprehensive list of BBC FOOC
+episodes](http://www.bbc.co.uk/programmes/b006qjlq/episodes/player).
+
+For example the URL for From Our Own Correspondent from 2012-07-07 is:
+
+<http://www.bbc.co.uk/programmes/b01kjgp3>
+
+Does **b01kjgp3** make any sense to you for this BBC FOOC installment?
+
+It gets worse if you want to link to the individual dispatch, for example if
+you want to share it with a friend:
+
+* Chapter 1: <http://www.bbc.co.uk/programmes/b01kjgp3#p00vw83p>
+* Chapter 2: <http://www.bbc.co.uk/programmes/b01kjgp3#p00vw870>
+* Chapter 3: <http://www.bbc.co.uk/programmes/b01kjgp3#p00vw8bd>
+* Chapter 4: <http://www.bbc.co.uk/programmes/b01kjgp3#p00vw8j9>
+* Chapter 5: <http://www.bbc.co.uk/programmes/b01kjgp3#p00vw8rw>
+* Chapter 6: <http://www.bbc.co.uk/programmes/b01kjgp3#p00vw90k>
+
+Does **p00vw83p** mean Chapter 1 to you? No, it's senseless.
+
+A *good* URL would be something like:
+
+http://bbc.co.uk/fooc/2012-07-07#1
+
+* bbc.co.uk - [no www](http://no-www.org/)
+* <abbr title="From Our Own Correspondent">fooc</abbr> is the abbreviateion for BBC From Our Own Correspondent
+* 2012-07-07 - simple [standardised date](http://en.wikipedia.org/wiki/ISO_8601) representation
+* #1 - for Chapter 1
+
+# No subtitles
+
+I can't find subtitles or transcripts for any episodes of the BBC From Our Own Correspondent programme. :(
+
+Confusingly <http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/> links to stories in the BBC magazine like <http://www.bbc.co.uk/news/magazine-18828612> which are often enough transcripted version of the FOOC dispatch.
+
+# Discovery is inconsistent
+
+* <http://www.bbc.co.uk/search/?q=FOOC> has poor results
+* <http://www.bbc.co.uk/iplayer/search?q=FOOC> does no work at all
+
+<http://www.bbc.co.uk/iplayer/search?q=From%20Our%20Own%20Correspondent> does work, but for example the closest match I could find to the above on [BBC Iplayer](http://www.bbc.co.uk/iplayer) which is a different service to the [BBC podcasts](http://www.bbc.co.uk/podcasts) is:
+
+<http://www.bbc.co.uk/iplayer/episode/p00tzml5/From_Our_Own_Correspondent_Latvia_and_Bush_House_London/>
+
+I did eventaully find a [complete
+list](http://www.bbc.co.uk/programmes/b006qjlq/episodes/player) where some
+programmes have chapters and others don't. **WHY**?
+
+Another inconsitent aspect to the way FOOC content is organised on the BBC is
+again how [BBC News has magazine entries for example of a dispatch on the
+Mussolini's bunker](http://www.bbc.co.uk/news/magazine-18828612) that links to
+same programme of FOOC on the World Service at
+<http://www.bbc.co.uk/programmes/p002vsng> and
+<http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/archive/default.stm>.
+I'm aware there is a "World Service" version of FOOC for the Radio, but does it
+mean it has to make the Website confusing to navigate? There is no clear
+consistent canonical link to the Mussolini's bunker dispatch for example. It's
+a mess.
