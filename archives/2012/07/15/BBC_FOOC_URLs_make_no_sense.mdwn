@@ -28,7 +28,7 @@ A *good* URL would be something like:
 http://bbc.co.uk/fooc/2012-07-07#1
 
 * bbc.co.uk - [no www](http://no-www.org/)
-* <abbr title="From Our Own Correspondent">fooc</abbr> is the abbreviateion for BBC From Our Own Correspondent
+* <abbr title="From Our Own Correspondent">fooc</abbr> is the abbreviation for BBC From Our Own Correspondent
 * 2012-07-07 - simple [standardised date](http://en.wikipedia.org/wiki/ISO_8601) representation
 * `#1` - for Chapter 1
 
@@ -54,7 +54,11 @@ I did eventaully find a [complete
 list](http://www.bbc.co.uk/programmes/b006qjlq/episodes/player) where some
 programmes have chapters and others don't. **WHY**? And why isn't this list on [Iplayer](http://www.bbc.co.uk/iplayer/search?q=From%20Our%20Own%20Correspondent)?
 
-Another inconsitent aspect to the way FOOC content is organised on the BBC is
+Listeners have to think, do I listen to BBC FOOC on Web, or Podcast or on
+Iplayer? Don't make people think! A single reliable URL to each dispatch with
+say HTML5 audio which is accessible to listen to and download is what we need!
+
+Another inconsistent aspect to the way FOOC content is organised on the BBC is
 again how [BBC News has magazine entries for example of a dispatch on the
 Mussolini's bunker](http://www.bbc.co.uk/news/magazine-18828612) that links to
 same programme of FOOC on the World Service at
