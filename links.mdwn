@@ -4,14 +4,9 @@
 <li><a href="http://greptweet.com">Greptweet</a></li>
 <li><a href="http://prazefarm.co.uk/cottage/" title="Praze Farm&#8217;s guest cottage in Cornwall with Wireless internet!">Cornwall cottage</a></li>
 <li><a href="http://prazefarm.co.uk/curtains/" rel="friend met parent" title="My mother&#8217;s curtains business, also offering interior furnishing services">Curtains in Cornwall</a></li>
-<li><a href="http://www.google.com/reader/shared/12969433165429460006" title="What I am reading that I like">Google reader shared items</a></li>
 <li><a href="http://video.natalian.org/" title="Captured with my Canon IXUS">Kai Hendry&#8217;s Videos</a></li>
 <li><a href="http://www.flickr.com/photos/hendry/">Kai&#8217;s flickr account</a></li>
-<li><a href="http://qa.debian.org/developer.php?login=hendry@iki.fi">Kai's debian packages</a></li>
-<li><a href="http://re.dabase.com/">RE tester</a></li>
-<li><a href="http://tail.dabase.com">tail</a></li>
 <li><a href="http://dabase.com/tips/">Tips&amp;Tricks</a></li>
-<li><a href="http://www.w3.org/2008/06/mobile-test/" title="http://www.w3.org/2008/06/mobile-test/">WCTMB</a></li>
 <li><a href="http://webconverger.com/" title="Web kiosk">Webconverger.com</a></li>
 <li><a href="http://maps.natalian.org/">Where in the world is Kai?</a></li>
 <li><a href="http://letterly.com">Write a Letter!</a></li>
