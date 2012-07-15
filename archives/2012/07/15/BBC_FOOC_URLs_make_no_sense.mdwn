@@ -1,3 +1,5 @@
+[[!meta title="BBC From Our Own Correspondent URLs make no sense"]]
+
 <a href="http://www.flickr.com/photos/hendry/7573465582/" title="Sorry there are no matches for BBC FOOC by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8155/7573465582_2296d3ec17_n.jpg" width="320" height="220" alt="Sorry there are no matches for BBC FOOC"></a>
 
 The BBC Web team are guilty of creating meaningless URLs for resources and
