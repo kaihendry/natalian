@@ -20,7 +20,7 @@ connected to a network without having Internet access." as
 link state**, there is no way to tell the difference between an 'offline'
 network and a highly latent one. Again **physical link state** doesn't help you
 if your cable connected to your router is offline or you use wireless.
-Microsoft determines Internet connectivity is by pinging one of their
+Microsoft determines Internet connectivity by pinging one of their
 servers(!).
 
 It gets worse if you are a <abbr title="linux user">luser</abbr> because if you
