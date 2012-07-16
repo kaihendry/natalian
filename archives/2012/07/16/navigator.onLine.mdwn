@@ -45,6 +45,8 @@ the case of spotty internet connectivity.
 
 After writing [Greptweet](http://greptweet.com/) with [Offline HTML
 Appcache](http://www.whatwg.org/specs/web-apps/current-work/multipage/offline.html#offline)
-features, I don't think I need `grep.php` anymore. So another approach is to
-rely on sync using the cache manifest and localStorage, and design your Web
-application not to act on application data remotely.
+features, I don't think I need
+[grep.php](https://github.com/kaihendry/Greptweet/blob/6a68fb722e69a3753bf85ec80b9454077ebf37fb/grep.php)
+anymore. So another approach is to rely on sync using the cache manifest and
+localStorage, and design your Web application not to act on application data
+remotely.
