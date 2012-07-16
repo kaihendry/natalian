@@ -1,7 +1,7 @@
 After several abortive attempts of trying to use [HTML5 Application
 cache](http://developers.whatwg.org/offline.html), I decided to turn
 [Greptweet](http://greptweet.com/) into an offline capable Web application and
-I learnt a ton on along the way.
+I learnt a ton along the way.
 
 If you have [code](https://github.com/kaihendry/Greptweet/blob/86dfd044aa458342c4d8e46b00f1e95dbcb72508/main.js#L24) in your application that looks like:
 
