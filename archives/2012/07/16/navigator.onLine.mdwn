@@ -24,20 +24,24 @@ their servers(!).
 It gets worse if you are a <abbr title="linux user">luser</abbr> because if you
 are sane and shun bloatware like [dbus](http://en.wikipedia.org/wiki/D-Bus) and
 the bonkers [Network Manager](http://projects.gnome.org/NetworkManager/) then
-`navigator.onLine` will simply not work on a typical Linux distribution like
+`navigator.onLine` will simply not report `false` on a typical Linux distribution like
 [Debian](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=681782) or
-[Archlinux](https://bugs.archlinux.org/task/30704). [Linux
+[Archlinux](https://bugs.archlinux.org/task/30704) when offline. [Linux
 Chrome](https://code.google.com/p/chromium/issues/detail?id=137501) for example
 [depends on
 org.freedesktop.NetworkManager](http://src.chromium.org/svn/trunk/src/net/base/network_change_notifier_linux.cc) to work.
 
+Whilst developing under Archlinux, Firefox's "Work offline" feature was a god
+send. Though Chrome's developer tools is much better to examine the Application
+Cache under the Resources section.
 
-So what's the solution? I think individual Web apps need to determine
-`navigator.onLine` themselves by doing a http request and if you don't get a
-200 in x seconds you set your own `navigator.onLine` variable to false. I know
-at least one [Web signage](http://neon.webconverger.com/) application that does
-this already. It's obviously important for a public sign to stay robust and
-work offline in the case of spotty internet connectivity.
+So what's the alternative to using `navigator.onLine`? I think individual Web
+apps need to determine `navigator.onLine` themselves by doing a http request to
+their Web site and if you don't get a 200 in x seconds you set your own
+`navigator.onLine` variable to false. I know at least one [Web
+signage](http://neon.webconverger.com/) application that does this already.
+It's obviously important for a public sign to stay robust and work offline in
+the case of spotty internet connectivity.
 
 After writing [Greptweet](http://greptweet.com/) with [Offline HTML
 Appcache](http://www.whatwg.org/specs/web-apps/current-work/multipage/offline.html#offline)
