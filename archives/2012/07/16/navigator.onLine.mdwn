@@ -18,8 +18,10 @@ connected to a network without having Internet access." as
 <http://developers.whatwg.org/offline.html#browser-state> says and as my
 [suckless](http://suckless.org) compatriots point out: Aside from **physical
 link state**, there is no way to tell the difference between an 'offline'
-network and a highly latent one. Microsoft determines it is by pinging one of
-their servers(!).
+network and a highly latent one. Again **physical link state** doesn't help you
+if your cable connected to your router is offline or you use wireless.
+Microsoft determines Internet connectivity is by pinging one of their
+servers(!).
 
 It gets worse if you are a <abbr title="linux user">luser</abbr> because if you
 are sane and shun bloatware like [dbus](http://en.wikipedia.org/wiki/D-Bus) and
