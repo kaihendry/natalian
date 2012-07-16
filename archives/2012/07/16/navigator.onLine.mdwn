@@ -11,7 +11,7 @@ If you have [code](https://github.com/kaihendry/Greptweet/blob/86dfd044aa458342c
 		// Do something locally
 	}
 
-You are probably doing it wrong. Why?
+You are probably doing it **wrong**. Why?
 
 The `navigator.onLine` attribute is inherently unreliable. "A computer can be
 connected to a network without having Internet access." as
