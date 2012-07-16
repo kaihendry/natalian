@@ -16,15 +16,15 @@ You are probably doing it wrong. Why?
 The `navigator.onLine` attribute is inherently unreliable. "A computer can be
 connected to a network without having Internet access." as
 <http://developers.whatwg.org/offline.html#browser-state> says and as my
-[suckless](http://suckless.org) compatriots point out Aside from **physical
+[suckless](http://suckless.org) compatriots point out: Aside from **physical
 link state**, there is no way to tell the difference between an 'offline'
 network and a highly latent one. Microsoft determines it is by pinging one of
-their servers.
+their servers(!).
 
 It gets worse if you are a <abbr title="linux user">luser</abbr> because if you
 are sane and shun bloatware like [dbus](http://en.wikipedia.org/wiki/D-Bus) and
 the bonkers [Network Manager](http://projects.gnome.org/NetworkManager/) then
-`navigator.onLine` will simply not work on typical Linux distribution like
+`navigator.onLine` will simply not work on a typical Linux distribution like
 [Debian](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=681782) or
 [Archlinux](https://bugs.archlinux.org/task/30704). [Linux
 Chrome](https://code.google.com/p/chromium/issues/detail?id=137501) for example
@@ -35,10 +35,12 @@ org.freedesktop.NetworkManager](http://src.chromium.org/svn/trunk/src/net/base/n
 So what's the solution? I think individual Web apps need to determine
 `navigator.onLine` themselves by doing a http request and if you don't get a
 200 in x seconds you set your own `navigator.onLine` variable to false. I know
-at least one Web signage application that does this already.
+at least one [Web signage](http://neon.webconverger.com/) application that does
+this already. It's obviously important for a public sign to stay robust and
+work offline in the case of spotty internet connectivity.
 
 After writing [Greptweet](http://greptweet.com/) with [Offline HTML
 Appcache](http://www.whatwg.org/specs/web-apps/current-work/multipage/offline.html#offline)
 features, I don't think I need `grep.php` anymore. So another approach is to
-sync using the manifest and localStorage, and don't don't act on application
-data remotely.
+rely on sync using the cache manifest and localStorage, and design your Web
+application not to act on application data remotely.
