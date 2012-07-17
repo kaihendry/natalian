@@ -26,12 +26,14 @@ servers(!).
 It gets worse if you are a <abbr title="linux user">luser</abbr> because if you
 are sane and shun bloatware like [dbus](http://en.wikipedia.org/wiki/D-Bus) and
 the bonkers [Network Manager](http://projects.gnome.org/NetworkManager/) then
-`navigator.onLine` will simply not report `false` on a typical Linux distribution like
+`navigator.onLine` will simply not report `false` on a typical Linux
+distribution like
 [Debian](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=681782) or
 [Archlinux](https://bugs.archlinux.org/task/30704) when offline. [Linux
-Chrome](https://code.google.com/p/chromium/issues/detail?id=137501) for example
-[depends on
-org.freedesktop.NetworkManager](http://src.chromium.org/svn/trunk/src/net/base/network_change_notifier_linux.cc) to work.
+Chrome](https://code.google.com/p/chromium/issues/detail?id=137501)'s
+`navigator.onLine` implementation for example [depends on
+org.freedesktop.NetworkManager](http://src.chromium.org/svn/trunk/src/net/base/network_change_notifier_linux.cc)
+to work.
 
 Whilst developing under Archlinux, Firefox's "Work offline" feature was a god
 send. Though Chrome's developer tools is much better to examine the Application
