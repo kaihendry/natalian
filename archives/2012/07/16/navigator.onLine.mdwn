@@ -52,3 +52,11 @@ features, I don't think I need
 anymore. So another approach is to rely on sync using the cache manifest and
 localStorage, and design your Web application not to act on application data
 remotely.
+
+Update via Twitter of course:
+
+<blockquote class="twitter-tweet" data-in-reply-to="224920345596006401"><p>@<a href="https://twitter.com/kaihendry">kaihendry</a> I've experimented with offline-first approach - always read from offline and sync in a worker thread emitting events @<a href="https://twitter.com/annevk">annevk</a></p>&mdash; Michael Mahemoff (@mahemoff) <a href="https://twitter.com/mahemoff/status/225016860234625024" data-datetime="2012-07-16T23:59:34+00:00">July 16, 2012</a></blockquote>
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-in-reply-to="224920345596006401"><p>@<a href="https://twitter.com/kaihendry">kaihendry</a> Cool. Chrome actually refused to add navigator.online for a long time on the basis it's better to check yourself.</p>&mdash; Michael Mahemoff (@mahemoff) <a href="https://twitter.com/mahemoff/status/225016338102501376" data-datetime="2012-07-16T23:57:30+00:00">July 16, 2012</a></blockquote>
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
