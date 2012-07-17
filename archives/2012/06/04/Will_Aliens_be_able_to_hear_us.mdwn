@@ -25,3 +25,29 @@ television.
 So if broadcasting is replaced with the Internet how do aliens actually hear
 us? WIFI signals? I severely doubt they can travel into space and make any
 sense to decode.
+
+The esteemed Adrian Tiplady from [SKA](http://www.ska.ac.za/) adds over email:
+
+	They won't hear anything intelligible, thats for sure (even analogue, which is
+	based on frequency or amplitude modulation schemes)! However, what aliens would
+	'hear' are the powerful radars (airports, meteorological etc.). That being
+	said, by the time they detect us, many light years away, we would probably have
+	destroyed ourselves so they won't have much to discover :)
+
+If we discover "radar" being used be some far flung civilisation, couldn't it
+just mean a couple of whale like or bat creatures communicating? I.e.
+non-intelligent life form...
+
+	Yeah, but its fun to imagine though. Listen is the wrong term, but be that as
+	it may, one of the key science programs will be to search for extra-terrestrial
+	life. Although searching for artificial radio signatures (like radar) is one
+	way, its more likely that a detection will come from natural radio signatures
+	emitted from gaseous atmospheres (ala CSI).ie. organic molecules will emit
+	radio signatures at a variety of frequencies - the most basic of elements,
+	neutral hydrogen gas, emits a radio signal at 1421 MHz (just below GPS)
+
+	There is a way to determine if something is artificial, or natural - although,
+	its not an exact science! So, listening is bad word - think of it as a very
+	sensitive car radio receiver. We are picking up radio emission. Your car radio
+	demodulates the signal to audible wavelengths, but actually receives in the
+	87.5 - 108 MHz band (definitely not audible)!
