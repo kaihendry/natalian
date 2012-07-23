@@ -1,3 +1,5 @@
+[[!meta title="navigator.onLine considered harmful" ]]
+
 After several abortive attempts of trying to use [HTML5 Application
 cache](http://developers.whatwg.org/offline.html), I decided to turn
 [Greptweet](http://greptweet.com/) into an offline capable Web application and
