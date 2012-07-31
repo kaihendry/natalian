@@ -2,16 +2,18 @@
 
 # st
 
-Great [simple terminal](http://st.suckless.org/), but it does not have scroll back support, aka "scrollbackabilty". :)
+st is a [simple terminal](http://st.suckless.org/) that [sucks
+less](http://suckless.org/), but it does not have scroll back support, aka
+"scrollbackabilty". :)
 
-For remedy this use [tmux](http://tmux.sourceforge.net/).
+To remedy this use [tmux](http://tmux.sourceforge.net/).
 
 # tmux setup in <a href="http://dwm.suckless.org/">dwm</a>'s config.h
 
 	static const char *termcmd[]  = { "st", "-e", "tmux", NULL };
 
 `tmux` has some added bonuses, like keeping the width so for example `tail -f
-/var/log/everything.log` doesn't get truncated when you want to do a copy&paste
+/var/log/everything.log` doesn't get truncated/wrapped when you want to do a copy&paste
 to a new window.
 
 # tmux local and remotely?
