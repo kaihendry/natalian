@@ -2,11 +2,11 @@
 
 # st
 
-Great simple terminal, but it does not have scroll back support, aka "scrollbackabilty". :)
+Great [simple terminal](http://st.suckless.org/), but it does not have scroll back support, aka "scrollbackabilty". :)
 
-For remedy this use tmux.
+For remedy this use [tmux](http://tmux.sourceforge.net/).
 
-# tmux setup in dwm's config.h
+# tmux setup in <a href="http://dwm.suckless.org/">dwm</a>'s config.h
 
 	static const char *termcmd[]  = { "st", "-e", "tmux", NULL };
 
