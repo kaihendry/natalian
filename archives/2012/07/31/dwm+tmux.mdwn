@@ -23,4 +23,39 @@ your commands twice to for example open a new shell on the remote machine, e.g. 
 
 You can work around this like I do by [setting up your local
 tmux](https://github.com/kaihendry/Kai-s--HOME/blob/master/.tmux.conf) to use a
-different prefix, in my case the bloated `GNU screen` prefix, `C-a`.
+different prefix, in my case using the old bloated GNU `screen` prefix, `C-a`.
+
+# pstree
+
+	x220:~$ pstree
+	init─┬─GoogleTalkPlugi───4*[{GoogleTalkPlugi}]
+		 ├─6*[agetty]
+		 ├─bash───chromium─┬─chromium
+		 │                 ├─chromium───2*[{chromium}]
+		 │                 ├─chromium───7*[{chromium}]
+		 │                 ├─chromium───{chromium}
+		 │                 └─22*[{chromium}]
+		 ├─chromium-sandbo───chromium─┬─19*[chromium───3*[{chromium}]]
+		 │                            └─nacl_helper_boo
+		 ├─crond
+		 ├─dbus-daemon
+		 ├─dbus-launch
+		 ├─dhcpcd
+		 ├─httpd───6*[httpd]
+		 ├─ntpd
+		 ├─ssh-agent
+		 ├─sshd
+		 ├─st───tmux
+		 ├─su───bash───startx───xinit─┬─X
+		 │                            └─sh─┬─sh───dwm───3*[st───tmux]
+		 │                                 └─sleep
+		 ├─syslog-ng───syslog-ng
+		 ├─systemd-udevd
+		 ├─tmux─┬─bash───ssh
+		 │      ├─2*[bash]
+		 │      ├─bash───pstree
+		 │      └─bash───vim
+		 ├─usbmuxd
+		 ├─vim
+		 ├─wpa_cli
+		 └─wpa_supplicant
