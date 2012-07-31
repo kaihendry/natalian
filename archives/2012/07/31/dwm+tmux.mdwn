@@ -1,0 +1,24 @@
+<a href="http://www.flickr.com/photos/hendry/7683516878/" title="2012-07-31-134151_1366x768_scrot by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7129/7683516878_3d6858a7aa.jpg" width="500" height="281" alt="2012-07-31-134151_1366x768_scrot"></a>
+
+# st
+
+Great simple terminal, but it does not have scroll back support, aka "scrollbackabilty". :)
+
+For remedy this use tmux.
+
+# tmux setup in dwm's config.h
+
+	static const char *termcmd[]  = { "st", "-e", "tmux", NULL };
+
+`tmux` has some added bonuses, like keeping the width so for example `tail -f
+/var/log/everything.log` doesn't get truncated when you want to do a copy&paste
+to a new window.
+
+# tmux local and remotely?
+
+If you run a default tmux and you log into a remote machine, you need to prefix
+your commands twice to for example open a new shell on the remote machine, e.g. `C-b C-b c`
+
+You can work around this like I do by [setting up your local
+tmux](https://github.com/kaihendry/Kai-s--HOME/blob/master/.tmux.conf) to use a
+different prefix, in my case the bloated `GNU screen` prefix, `C-a`.
