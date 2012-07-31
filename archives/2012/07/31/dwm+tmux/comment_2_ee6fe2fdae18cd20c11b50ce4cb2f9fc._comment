@@ -1,0 +1,8 @@
+[[!comment format=mdwn
+ username="http://hendry.iki.fi/"
+ nickname="hendry"
+ subject="Yes, click to copy does work"
+ date="2012-07-31T12:59:42Z"
+ content="""
+Copying still works, so I guess I should print `.Xresources` and `.Xdefaults` at some point.
+"""]]
