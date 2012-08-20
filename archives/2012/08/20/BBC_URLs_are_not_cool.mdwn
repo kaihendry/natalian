@@ -1,0 +1,25 @@
+Carrying from my earlier moan about the
+[[FOOC_URLs|archives/2012/07/15/BBC_FOOC_URLs_make_no_sense]], here are more
+example of crazy URLs produced by the BBC:
+
+* Old URL: <http://news.bbc.co.uk/2/hi/programmes/more_or_less/>
+* New URL: <http://www.bbc.co.uk/programmes/b006qshd>
+
+Firstly does "b006qshd" make any sense to you? No? Well it should! BBC
+engineers, did you not consider something sensible like
+<http://bbc.co.uk/programmes/more_or_less>?
+
+Secondly if the URL does change, it should seamlessly redirect. Currently you
+need to click the new obfuscated URL to get the latest content for this
+particular programme.
+
+Another example, "Money Box"'s old URL is <http://news.bbc.co.uk/2/hi/programmes/moneybox/default.stm> and the new URL is <http://www.bbc.co.uk/programmes/b006qjnv>.
+
+If you are wondering what the **2** means in the old URL, AFAICT it means
+outside the UK. In the UK you will have a **1** instead of the **2**. Sad to
+see the old URLs built that "Geo" conciousness in their site, so there old URLs
+aren't great either.
+
+Another thing the BBC Web production do badly is dates. This is especially
+annoying when old stories bubble up on **Most Popular** Video/Audio panel on
+the [BBC News](http://www.bbc.co.uk/news/) site.
