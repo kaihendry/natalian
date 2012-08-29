@@ -4,11 +4,12 @@ Label the tables, so I can say, meet me at B6!
 
 ## Expensive food and drink
 
-5EUR for a cheeseburger
-3EUR for a Club Mate with a 50c deposit
-2.50EUR for bottled water
+* 5EUR for a cheeseburger
+* 3EUR for a Club Mate with a 50c deposit
+* 2.50EUR for bottled water
 
-Crazy token system to make it worse.
+Crazy token system to make it worse. And the food was generally pretty poor
+quality. :(
 
 ## No drinking water
 
@@ -31,7 +32,7 @@ Wireless basically did not work from my iPhone. :/
 
 ## Sound acoustics were terrible
 
-Sound quality is awful and nauseating inside
+Sound quality is awful and nauseating inside. Very tiring.
 
 ## No alcohol
 
@@ -43,12 +44,12 @@ Pity they don't use the outdoor space, like encouraging activities like roller s
 
 ## Videos are not that easy to access
 
-You need to login to use them which made them difficult to share. Most videos seems well recorded except:
+You need to login to use them which made them difficult to share. Most videos seemed well recorded except:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/jKZbHx2DHX8" frameborder="0" allowfullscreen></iframe>
 
 A lot of the videos seem poorly labelled.
 
-I don't understand why on the Campus Party player videos from the Campus Party in **EUROPE** are laballed with American flags.
+I don't understand why on the Campus Party player videos from the Campus Party in **EUROPE** are labelled with American flags.
 
 <http://live.campus-party.org/player/load/id/cff1e1ec15764c7a8fc13df3331ffa77>
