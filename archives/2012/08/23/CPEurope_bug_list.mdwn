@@ -1,35 +1,54 @@
-* Hard to find people
+## Hard to find people
 
 Label the tables, so I can say, meet me at B6!
 
-* Expensive food and drink
+## Expensive food and drink
 
 5EUR for a cheeseburger
 3EUR for a Club Mate with a 50c deposit
 2.50EUR for bottled water
 
-Crazy token system.
+Crazy token system to make it worse.
 
-* No drinking water
+## No drinking water
 
-Now you need to buy it at 2.50EUR a pop
+<a href="http://www.flickr.com/photos/hendry/7870842626/" title="Found tap water! by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8302/7870842626_56b073606b.jpg" width="375" height="500" alt="Found tap water!"></a>
 
-* No wireless Internet
+Now you need to buy it at 2.50EUR a pop.
+
+Or you can go to the toilets in the front of the building, a good 10 minutes round trip.
+
+## No wireless Internet
+
+<a href="http://www.flickr.com/photos/hendry/7867623936/" title="I NEED WI-FI by Kai Hendry, on Flickr"><img src="http://farm8.staticflickr.com/7140/7867623936_65b3ee9d55.jpg" width="500" height="375" alt="I NEED WI-FI"></a>
 
 Registration clerk said the venue is too big for wireless. Er really?
 
 Next guy at the computer registration desk said there is two ESSID points but
 only with 1000IPs. 1000 IPs on a ipv6 network .... right...
 
-Wireless basically did not work from my iPhone.
+Wireless basically did not work from my iPhone. :/
 
-* Sound acoustics were awful
+## Sound acoustics were terrible
 
 Sound quality is awful and nauseating inside
 
-* No alcohol
+## No alcohol
 
-I can understand this... but it does suck.
+I can understand this... but it does suck especially in the free city of Berlin.
 
-* Pity they don't use the outdoor space, like encouraging activities like roller skating.
+## Outside space closed off
 
+Pity they don't use the outdoor space, like encouraging activities like roller skating.
+
+## Videos are not that easy to access
+
+You need to login to use them which made them difficult to share. Most videos seems well recorded except:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/jKZbHx2DHX8" frameborder="0" allowfullscreen></iframe>
+
+A lot of the videos seem poorly labelled.
+
+I don't understand why on the Campus Party player videos from the Campus Party in **EUROPE** are laballed with American flags.
+
+<http://live.campus-party.org/player/load/id/cff1e1ec15764c7a8fc13df3331ffa77>
