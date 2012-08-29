@@ -1,0 +1,71 @@
+To improve surveillance I bought another [Y-cam Knight
+S](http://www.y-cam.com/y-cam-knight-s/) as the [Bullet
+HD](http://www.y-cam.com/y-cam-bullet-hd-1080/) was too rich for me at ~400GBP,
+and I figured if my upload is only 0.3 Mb/s, was there any point since HD
+images will probably be much bigger! I did look at other IP cameras, and since
+the camera module for the [Raspberry PI](http://www.raspberrypi.org/) seemed
+nowhere near ready and huge lead times, I opted for the devil I knew.
+
+<a href="http://www.flickr.com/photos/hendry/7887507336/" title="TP-Link TL-WR1043ND with a USB key used as an OpenWRT overlay by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8040/7887507336_659596f7f4.jpg" width="500" height="375" alt="TP-Link TL-WR1043ND with a USB key used as an OpenWRT overlay"></a>
+
+Since the Y-cam's Knights are unable to [sanely upload via
+HTTP](https://github.com/kaihendry/FTP2.0) basically leaving me with FTP, I
+"hacked" my OpenWRT 10.03.1 flashed TP-Link TL-WR1043ND to become an
+intermediary upload hub. I added a USB key and a FTPd, rsync etc and this took
+2 days of life for this.
+
+First day went down to a botched upgrade. OpenWRT 10.03 to 10.03.1 did not go
+well with LuCI going bust `/etc/config/luci seems to be corrupt`.  I basically
+got it going again by relying on the failsafe mode and reset button.
+
+After re-installing 10.03.1, I wasted a lot of time on getting [the ext4
+overlay working because I failed to specify
+**ext4**](https://forum.openwrt.org/viewtopic.php?id=38974).
+
+Once the `/dev/sda1` USB stick overlay was on, I had 8G of breathing space! Wow.
+I installed [syslog-ng3](http://wiki.openwrt.org/doc/howto/log.syslog-ng) to
+get it logging nicely to [papertrail](https://papertrailapp.com/?thank=97e900).
+The logs are helpful, but [not the same as
+`logread`](https://forum.openwrt.org/viewtopic.php?pid=176277) annoyingly.
+
+<a href="http://www.flickr.com/photos/hendry/7887612394/" title="OpenWRT pumping out to Papertrail by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8178/7887612394_0003e09d21.jpg" width="500" height="281" alt="OpenWRT pumping out to Papertrail"></a>
+
+Installing pure-ftpd was a little bit of a pain because `/etc/config/pure-ftpd`
+wasn't enabled and I almost went down a [out of date OpenWRT
+docs](http://wiki.openwrt.org/doc/uci/pure-ftpd) rathole with
+puredb:/etc/pureftpd.pdb. `option authentication   'unix'` is fine!
+
+I bothered creating a ycam user in `/etc/passwd` but I could have easier
+configured my Y-cams to simply upload as root.
+
+Then I replaced dropbear with openssh and friends like `ssh-keygen`. I created a
+key for a new ycam user on one of my servers. Now to configure rsync like so:
+
+	if ! flock -n /var/lock/sync-cctv.lck -c "rsync -a --remove-source-files /home/ycam/ ycam@remote-server:"
+	then
+		logger already syncing
+	fi
+
+I'm a bit wary of using `--remove-source-files` since the files might be still
+being written by pure-ftpd. I tried it a few times and it seems to work.
+
+I also don't quite understand `flock`. It works, but why leave the lock file
+around once finished? I don't quite understand how flock takes a lock and I
+should have fleshed this [lock out in
+bash](http://mywiki.wooledge.org/BashFAQ/045).
+
+Getting the cron in openwrt 10.03.1 working was a bit of PITA since `logread`
+is the only way to see output and it always gives it under a misleading
+`cron.err` title. Basically I found `*/5 * * * * sh /root/sync-cctv.sh` works
+for me.
+
+On the server where the motion detected images are uploaded, I deployed
+software I call [Praze](https://github.com/kaihendry/Praze) with a slightly
+different way to sort the images and of course a user/pass. [See the demo](http://cam.dabase.com)
+
+Issues left:
+
+* [Y-cam Knight cannot look out from an indoor window](http://www.flickr.com/photos/hendry/7882864314)
+* Need to play around with trigger times and determine if my upload channel is getting saturated
+
+<a href="http://www.flickr.com/photos/hendry/7888216726/" title="Need to play around with Trigger settings on the Y-cam by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8304/7888216726_cc0aa070f4.jpg" width="500" height="281" alt="Need to play around with Trigger settings on the Y-cam"></a>
