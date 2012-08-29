@@ -9,13 +9,13 @@ nowhere near ready and huge lead times, I opted for the devil I knew.
 <a href="http://www.flickr.com/photos/hendry/7887507336/" title="TP-Link TL-WR1043ND with a USB key used as an OpenWRT overlay by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8040/7887507336_659596f7f4.jpg" width="500" height="375" alt="TP-Link TL-WR1043ND with a USB key used as an OpenWRT overlay"></a>
 
 Since the Y-cam's Knights are unable to [sanely upload via
-HTTP](https://github.com/kaihendry/FTP2.0) basically leaving me with FTP, I
+HTTP](https://github.com/kaihendry/FTP2.0) leaving me with FTP, I
 "hacked" my OpenWRT 10.03.1 flashed TP-Link TL-WR1043ND to become an
 intermediary upload hub. I added a USB key and a FTPd, rsync etc and this took
 2 days of life for this.
 
 First day went down to a botched upgrade. OpenWRT 10.03 to 10.03.1 did not go
-well with LuCI going bust `/etc/config/luci seems to be corrupt`.  I basically
+well with LuCI going bust `/etc/config/luci seems to be corrupt`.  I 
 got it going again by relying on the failsafe mode and reset button.
 
 After re-installing 10.03.1, I wasted a lot of time on getting [the ext4
@@ -56,16 +56,16 @@ bash](http://mywiki.wooledge.org/BashFAQ/045).
 
 Getting the cron in openwrt 10.03.1 working was a bit of PITA since `logread`
 is the only way to see output and it always gives it under a misleading
-`cron.err` title. Basically I found `*/5 * * * * sh /root/sync-cctv.sh` works
+`cron.err` title. I found `*/5 * * * * sh /root/sync-cctv.sh` works
 for me.
 
 On the server where the motion detected images are uploaded, I deployed
 software I call [Praze](https://github.com/kaihendry/Praze) with a slightly
-different way to sort the images and of course a user/pass. [See the demo](http://cam.dabase.com)
+different way to sort the images and of course a user/pass. [See the demo](http://cam.dabase.com).
 
 Issues left:
 
-* [Y-cam Knight cannot look out from an indoor window](http://www.flickr.com/photos/hendry/7882864314)
+* [Y-cam Knight cannot look out from an indoor window at night](http://www.flickr.com/photos/hendry/7882864314)
 * Need to play around with trigger times and determine if my upload channel is getting saturated
 
 <a href="http://www.flickr.com/photos/hendry/7888216726/" title="Need to play around with Trigger settings on the Y-cam by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8304/7888216726_cc0aa070f4.jpg" width="500" height="281" alt="Need to play around with Trigger settings on the Y-cam"></a>
