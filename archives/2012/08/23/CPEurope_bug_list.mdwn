@@ -1,3 +1,29 @@
+I like the idea of [The Campus Party](http://www.campus-party.eu/2012) as it
+seems be a [EU supported](http://en.wikipedia.org/wiki/European_Commission)
+[LAN party](http://en.wikipedia.org/wiki/Category:LAN_parties). For me, the big
+draw was the good Internet to upload a years worth of video/picture archives.
+
+However the 2012 event in Berlin had some "bugs". Firstly the event venue at
+the defunct [Berlin Tempelhof
+Airport](http://en.wikipedia.org/wiki/Berlin_Tempelhof_Airport) was great,
+however....
+
+## Sound acoustics were terrible
+
+Sound quality is awful and nauseating inside. Very tiring.
+
+Maybe <http://en.wikipedia.org/wiki/Sound_masking> could help.
+
+## Difficult to know the schedule
+
+The [Campus Party 2012 Website](http://www.campus-party.eu/2012) was sadly
+unusable from a mobile, even if you had data.
+
+You basically needed the PDF of the schedule to hand. Each stage should have
+had a schedule clearly on display! At the Campus Party generally you had no
+idea what was on or what was coming up. I generally resigned to watching the
+videos instead of attending any presentations by the second day.
+
 ## Hard to find people
 
 Label the tables, so I can say, meet me at B6!
@@ -15,7 +41,7 @@ quality, with a friend getting sick on the doner. :(
 
 <a href="http://www.flickr.com/photos/hendry/7870842626/" title="Found tap water! by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8302/7870842626_56b073606b.jpg" width="375" height="500" alt="Found tap water!"></a>
 
-Now you need to buy it at 2.50EUR a pop.
+Now you need to buy it at 2.50EUR a small bottle.
 
 Or you can go to the toilets in the front of the building, a good 10 minutes round trip.
 
@@ -29,10 +55,6 @@ Next guy at the computer registration desk said there is two ESSID points but
 only with 1000IPs. 1000 IPs on a ipv6 network .... right...
 
 Wireless basically did not work from my iPhone. :/
-
-## Sound acoustics were terrible
-
-Sound quality is awful and nauseating inside. Very tiring.
 
 ## No alcohol
 
@@ -53,13 +75,3 @@ A lot of the videos seem poorly labelled.
 I don't understand why on the Campus Party player videos from the Campus Party in **EUROPE** are labelled with American flags.
 
 <http://live.campus-party.org/player/load/id/cff1e1ec15764c7a8fc13df3331ffa77>
-
-## Difficult to know the schedule
-
-The [Campus Party 2012 Website](http://www.campus-party.eu/2012) was sadly
-unusable from a mobile, even if you had data.
-
-You basically needed the PDF of the schedule to hand. Each stage should have
-had a schedule clearly on display! At the Campus Party generally you had no
-idea what was on or what was coming up. I generally resigned to watching the
-videos instead of attending any presentations by the second day.
