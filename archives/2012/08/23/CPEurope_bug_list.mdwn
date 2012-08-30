@@ -66,12 +66,15 @@ Pity they don't use the outdoor space, like encouraging healthy outdoor activiti
 
 ## Videos are not that easy to access
 
-You need to login to use them which made them difficult to share. Most videos seemed well recorded except:
+You need to login to use them which made them difficult to share. Most videos seem recorded but with a whole bunch of sounds issues like:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/jKZbHx2DHX8" frameborder="0" allowfullscreen></iframe>
 
-A lot of the videos seem poorly labelled.
+A lot of the videos seem poorly labelled too. :(
 
-I don't understand why on the Campus Party player videos from the Campus Party in **EUROPE** are labelled with American flags.
+It is really crazy that the [Campus Party
+player](http://live.campus-party.org/) videos from the Campus Party in
+**EUROPE** are labelled with American flags supposingly because they are in
+English. <img src="http://live.campus-party.org/application/views/img/icons/langs/1.gif" />
 
 <http://live.campus-party.org/player/load/id/cff1e1ec15764c7a8fc13df3331ffa77>
