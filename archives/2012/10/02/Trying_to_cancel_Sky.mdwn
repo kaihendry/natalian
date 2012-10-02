@@ -1,0 +1,51 @@
+	Welcome to Sky Live Chat Service. A Sky Advisor will be with you shortly. Your chat may be monitored and recorded for training, legal and compliance purposes.
+
+	You are now connected with Johny.
+
+	Johny: Hello, you're chatting with Johny, a Sky advisor, may I take your name please?
+	You: hendry
+	Johny: Hi Hendry, Good Morning.
+	Johny: 
+	You: My account number is XXXXXXXXXXXXX and I wish to cancel please.
+	Johny: I'm sorry to hear that you are looking forward to cancel your account. What has changed you to this decision today?
+	You: too expensive >50GBP
+	You: and a game I wanted to see was not shown live
+	You: so it's expensive and not showing the game I wanted to see. Man U vs Spurs was on ESPN HD which wasn't on my package.
+	You: It's generally just too expensive.
+	Johny: I an understand it can be quite annoying at time when we miss out on the anything programmes that we were looking forward to watch.
+	Johny: It has happened with me as well last year. So definitely know how you feel
+	Johny: Are you a Manchester United fan or the Spurs?
+	You: Spurs of couse
+	You: now i have to wait about 20 odd years
+	Johny: They are a good team..
+	Johny: So, other than this, is there anything else that is making you to want to cancel your Sky?
+	You: the expense
+	Johny: Ok..
+	Johny: Let me get some account details from you and we can explore all the options Sky has for you. If you’re not happy with the options then I will give you all the contact information you need to cancel your account. Is that ok?
+	You: i'm at work, i don't want this to be protracted
+	Johny: Right, I will just check if there was anything that we can do for you.
+	Johny: You have Sky sports, isn't it
+	You: yes, hopefully you know my packages. Can i please cancel now?
+	Johny: We had a offer until last month where we were providing FREE ESPN for 3 months only for Sky sports customers. Any particular reason why you did not opt for that?
+	Johny: As of now I'm not aware the package that you have unless and until I access your account. I can see that you had come on chat on the 29th Sep in order to cancel your account and you were asked to call. Just wanted to check if you did that?
+	You: I want to cancel online without talking voice
+	Johny: Hendry, you will be unable to cancel online as informed to you by my colleague the other day
+	Johny: I can check what best can be done in term of the options Sky has for you. If you are not happy then I will give you all the contact information you need to cancel your account.
+	Johny: You can also send an email to cancel your Sky account by sending an email using your My Sky ID.
+	You: I have emailed twice
+	You: to no reply
+	You: I can cancel online according to your colleague http://twitter.com/SkyHelpTeam/status/252881263340441600
+	Johny: Email correspondence takes time.
+	You: How long?
+	You: 1 week?
+	Johny: Once you send us an email we get in touch with you. I'm not sure of the exact timeframe to be honest so don't want to set any incorrect expectation.
+	Johny: That's why we advise to call as it is immediate.
+	You: But calling requires me to talk voice which I can't do.
+	Johny: Any particular reason behind this Hendry?
+	Johny: If you want I can check if the cancellation request has been actioned but won't be able to cancel your account online. 
+	You: i prefer not to say
+	Johny: That's fine Hendry. Just asked to check if I could help you.
+	Johny: Did you use the My Sky ID to send us an email?
+	Johny: I haven't heard from you for a while.  Are you still there?
+	Johny: Sorry we couldn't finish our chat. As I haven't heard from you for some time I'm going to close this chat.  If you need any help in future, please do not hesitate to chat with us again.
+	Thank you for contacting Sky. Your chat session has been closed by the Sky Advisor.
