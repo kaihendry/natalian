@@ -13,7 +13,7 @@ function roundTo(n, decimals) {
 }
 </script>
 
-<form oninput="x.value = roundTo(parseFloat(price.value)*parseInt(quantity.value)*(parseInt(wattage.value)/1000)*(parseInt(minutes.value)/60),1);">
+<form oninput="x.value = roundTo(parseFloat(price.value)*parseInt(quantity.value)*(parseInt(wattage.value)/1000)*(parseInt(minutes.value)/60),1) / 100;">
 
 <p>
 Unit price aka <a href="http://www.flickr.com/photos/hendry/2508376346/in/set-72157605153273216/">price per kiloWatt hour</a>
