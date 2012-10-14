@@ -31,6 +31,5 @@
 <li>Middle click into uxterm</li>
 </ol>
 
-<p>Btw my window manager is <a href="http://wmii.de/">wmii</a>.</p>
 
-<p>Update: The dream has been realised! Step four is though now a Shift+Middleclick with this <a href="http://svn.natalian.org/home/.Xresources">Xresources</a> configuration for uxterm. Thanks guys&#8230;</p>
+SOLUTION FOUND! Use [autocutsel](http://natalian.org/archives/2006/04/02/copy-and-paste/)

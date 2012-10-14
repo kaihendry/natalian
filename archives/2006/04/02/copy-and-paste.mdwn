@@ -2,6 +2,8 @@
 [[!meta date="2006-04-02 21:31:37" ]]
 [[!tag desktops firefox Debian]]
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/ysWnIR-6BXk" frameborder="0" allowfullscreen></iframe>
+
 <p>The main thing that makes the <a href="http://ask.slashdot.org/askslashdot/04/06/02/1832201.shtml?tid=104&amp;tid=189">Unix Xorg platform so broken is copying and pasting.</a></p>
 
 <p>I&#8217;ve seen this rear its ugly head as I&#8217;ve been teaching someone about the Debian platform. I like to teach how to search for answers and then copy in samples to try. That&#8217;s so <strong>hard</strong> to do on Debian with poor skills it&#8217;s not funny.</p>
@@ -9,7 +11,7 @@
 <ul>
 <li>The &#8220;middle click&#8221; for pasting or pressing left and right mouse buttons together is completely brain dead</li>
 <li>When clicking to focus on another window in windowing environments like <span class="caps">KDE</span> or Gnome, it is very easy to accidentally select text (or rather whitespace) and lose the important information in the clipboard</li>
-<li>Selecting text in a link in Firefox is broken. Try copy some text from this <a href="http://dabase.com/">list</a></li>
+<li>Selecting text in a link in Firefox is broken. Try copy some text from an unordered list</li>
 <li>Pasting into vim? Now spend a couple of minutes cleaning up white space and reformatting without `:nopaste`</li>
 <li>The <strong>Shift+Insert</strong> shortcut! Who came up with that? You need <span class="caps">TWO</span> <span class="caps">HANDS</span> to do that.</li>
 <li>Close the window of what you copied and you'll loose your copied text! ARGHHHHHHHHH</li>
@@ -21,6 +23,7 @@
 
 <p>This makes me even more convinced that the Desktop should just be the Web browser (Firefox) where <span class="caps">CTRL</span>+C/V/X &#8220;sort of&#8221; works&#8230;</p>
 
-UPDATE: I think I have the best solution whereby [Xterm's default copy behaviour is overridden](http://git.webconverger.org/?p=home.git;a=blob;f=.Xresources;h=e2067b1fb596cd1843428189f453d0a4516a4982;hb=HEAD#l15):
-
-	UXTerm*VT100.translations: #override <Btn1Up>: select-end(PRIMARY, CLIPBOARD, CUT_BUFFER0)
+UPDATE: The solution I've found the easier on my brain is sync PRIMARY &
+CLIPBOARD clipboards. I'm using [autocutsel](http://www.nongnu.org/autocutsel/)
+for this task and setting it up in [my
+xinitrc](https://github.com/kaihendry/Kai-s--HOME/blob/master/.xinitrc#L36).
