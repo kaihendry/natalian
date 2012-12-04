@@ -1,0 +1,59 @@
+# Online banking sucks
+
+It's like banking in Europe 10 years ago. Think Internet Explorer. Think
+Javascript scripts timing out. Think Java. Think no way to report bugs. Think
+no acknowledgement of reported bugs. Think if they ever roll out an update to
+fix your issue, they completely break something else. True story.
+
+I'm thinking of starting a blog highlighting the hilariously bad engineering
+going into Singapore made banking Web applications.
+
+# No super convenient ATM network
+
+You have to learn where your banks ATMs are to avoid charges. Good luck!
+
+# Domestic transfers can take THREE DAYS
+
+Transfer done before 12pm on day 1 will arrive either by 6pm on day 2 or 1pm on
+day 3. That's the one that costs no money. If you want a domestic same day
+transfer it costs $20 per transfer.
+
+It's like going back to the 90s in the UK.
+
+# Using a debit card? That's 10% thanks!
+
+<a href="http://www.flickr.com/photos/hendry/8237486310/" title="1.34SGD for paying by direct debit WTF??!? by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8210/8237486310_3c8c5b0d7a_m.jpg" width="180" height="240" alt="1.34SGD for paying by direct debit WTF??!?"></a>
+
+There is a **charge** for using you card. For example it can be charged 10% if you hand over your card to the taxi driver.
+
+One way to lessen the charge is to ask to pay by
+[NETS](http://www.nets.com.sg/), whereby you are only charged 30 cents. Debit
+cards usually incur no costs if you live in Europe, so beware.
+
+Evidently merchants are confused whether you want to be charged by the more
+expensive direct debit or NETS. Ask for NETS, or just pay in cash.
+
+# Confusion over bank codes
+
+You might get a Bank code number like 7144 and a Branch code number like 057.
+These are used in transfers between Singapore and Malaysia typically.
+
+Nonetheless the term **Bank code** is interchangable with the SWIFT code,
+leading to a lot of confusion. Good luck paying your bills!
+
+# Don't change your mobile number
+
+If you change your [number in
+Singapore](http://natalian.org/archives/2012/11/29/Singapore_telecommunications/)
+you might be in for a shock. Most security is tied to your telephone number and
+you have to at the very least go to a branch to get your number changed.
+
+If you are abroad and can't go to a bank, you might have to do what I did.
+Write a letter. Wait a month. Have bank staff tell your number is updated and
+still see old number in the system. Go crazy. Go back to Singapore to go to a
+branch to update the number.
+
+# Paypal UK != Paypal SG
+
+That goes for banks too. If you think it's easier to move money around because
+you have a account with the same company in your country, don't.
