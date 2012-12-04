@@ -1,0 +1,31 @@
+#Mobile
+
+If you are just getting started in Singapore, the best value prepaid seems to
+be Starhub. **BEWARE**: You get charged for incoming calls in Singapore.
+
+Honestly Starhub's 3G doesn't work at times. Worse than Berlin. I've used their
+service on and off for year, with different devices. Problems don't get fixed.
+It's absolutely crazy.
+
+So I've been investigating (their Websites are shit, so I've actually queued up
+at their shops in Bugis) the options and they are not good:
+
+* Singtel (Flexi Lite)
+* M1 who buys capacity from Singtel (iPhone Value+)
+
+Both their entry level contract plans are ... 39SGD pcm. 2GB is included, 4G is
+included if your phone is capable and ~5SGD for extra gig in excess.
+
+M1 is seemingly better because if you take two lines out with them, you can get
+free calls between the two. Also minimum contract with M1 is 3 months, instead
+of 24 months with Singtel.
+
+You can only open a contract if you physically have the full employment pass,
+not a preliminary one.
+
+#Fixed line
+
+You can check if you can Fibre optic here: <http://www.opennet.com.sg/>
+
+If you can't get Fibre Optic, you are usually stuck with 10Mbps ADSL for
+49.90SGD a month.
