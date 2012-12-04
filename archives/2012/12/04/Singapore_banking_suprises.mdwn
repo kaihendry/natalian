@@ -27,11 +27,11 @@ It's like going back to the 90s in the UK.
 There is a **charge** for using you card. For example it can be charged 10% if you hand over your card to the taxi driver.
 
 One way to lessen the charge is to ask to pay by
-[NETS](http://www.nets.com.sg/), whereby you are only charged 30 cents. Debit
-cards usually incur no costs if you live in Europe, so beware.
+[NETS](http://www.nets.com.sg/), whereby you are only charged 30 cents. Compare
+that to Europe where debit cards incur no costs, so don't make assumptions.
 
 Evidently merchants are confused whether you want to be charged by the more
-expensive direct debit or NETS. Ask for NETS, or just pay in cash.
+expensive direct debit or NETS. Ask for NETS, or just pay in cash to play it safe.
 
 # Confusion over bank codes
 
@@ -48,12 +48,16 @@ Singapore](http://natalian.org/archives/2012/11/29/Singapore_telecommunications/
 you might be in for a shock. Most security is tied to your telephone number and
 you have to at the very least go to a branch to get your number changed.
 
-If you are abroad and can't go to a bank, you might have to do what I did.
-Write a letter. Wait a month. Have bank staff tell your number is updated and
-still see old number in the system. Go crazy. Go back to Singapore to go to a
-branch to update the number.
+If you are abroad, you might have to do what I did.  Write a letter. Wait a
+month. Have bank staff tell your number is updated and still see old number in
+the system. Go crazy. Go back to Singapore to go to a branch to update the
+number. Surprise!
 
 # Paypal UK != Paypal SG
 
 That goes for banks too. If you think it's easier to move money around because
 you have a account with the same company in your country, don't.
+
+For example if I want to move <a href="http://webconverger.com/">my
+company's</a> subscribers to Singapore and I have to get each one to re-setup
+in Singapore. Ha ha ha, oh god no.
