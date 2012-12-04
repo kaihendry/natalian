@@ -10,7 +10,7 @@ going into Singapore made banking Web applications.
 
 # No super convenient ATM network
 
-You have to learn where your banks ATMs are to avoid charges. Good luck!
+You have to learn where your bank's ATMs are to avoid charges. Good luck!
 
 # Domestic transfers can take THREE DAYS
 
@@ -38,7 +38,7 @@ expensive direct debit or NETS. Ask for NETS, or just pay in cash to play it saf
 You might get a Bank code number like 7144 and a Branch code number like 057.
 These are used in transfers between Singapore and Malaysia typically.
 
-Nonetheless the term **Bank code** is interchangable with the SWIFT code,
+Nonetheless the term **Bank code** is interchangeable with the SWIFT code,
 leading to a lot of confusion. Good luck paying your bills!
 
 # Don't change your mobile number
@@ -49,7 +49,7 @@ you might be in for a shock. Most security is tied to your telephone number and
 you have to at the very least go to a branch to get your number changed.
 
 If you are abroad, you might have to do what I did.  Write a letter. Wait a
-month. Have bank staff tell your number is updated and still see old number in
+month. Have bank staff tell your number is updated and still see the old number in
 the system. Go crazy. Go back to Singapore to go to a branch to update the
 number. Surprise!
 
