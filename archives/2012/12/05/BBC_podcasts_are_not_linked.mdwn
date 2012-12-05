@@ -15,7 +15,7 @@ and choose to email, the body of the email sent looks like:
 * It links to the RSS which is useless to most people
 * It doesn't link to the actual podcast I'm actually listening to
 
-The popular "Pocket Cast Lite", when sharing the Podcast it emails look like:
+The popular "Pocket Cast Lite", when sharing the Podcast via email, the email body looks like:
 
 	Podcast: Witness
 	Episode: Witness: The Bhopal disaster
@@ -23,8 +23,10 @@ The popular "Pocket Cast Lite", when sharing the Podcast it emails look like:
 	Find out more about the podcast at:
 	http://www.pocketcasts.com/share/Ofzlnt
 
-Their [linked URL](http://www.pocketcasts.com/share/Ofzlnt) does not point to
-the relevant BBC page <http://www.bbc.co.uk/programmes/p0112t3d> about the
-Podcast I'm listening to.
+Slightly better, but their [linked
+URL](http://www.pocketcasts.com/share/Ofzlnt) does not point to the relevant
+BBC page <http://www.bbc.co.uk/programmes/p0112t3d> about the Podcast I'm
+listening to. Only other Iphone users answering their email stand a chance to
+listen to the podcast, which is ridiculous.
 
 Come on BBC. Please fix this!
