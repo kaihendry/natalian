@@ -13,7 +13,7 @@ and choose to email, the body of the email sent looks like:
 	Check out this great Podcast: http://downloads.bbc.co.uk/podcasts/worldservice/witness/rss.xml
 
 * It links to the RSS which is useless to most people
-* It doesn't link to what I'm actually listening to
+* It doesn't link to the actual podcast I'm actually listening to
 
 The popular "Pocket Cast Lite", when sharing the Podcast it emails look like:
 
