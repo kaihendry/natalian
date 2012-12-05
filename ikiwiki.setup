@@ -30,6 +30,10 @@ cgiurl: http://natalian.org/ikiwiki.cgi
 cgi_wrapper: /var/www/b-natalian-org/ikiwiki.cgi
 # mode for cgi_wrapper (can safely be made suid)
 cgi_wrappermode: '0755'
+# number of seconds to delay CGI requests when overloaded
+cgi_overload_delay: ''
+# message to display when overloaded (may contain html)
+cgi_overload_message: ''
 # rcs backend to use
 rcs: git
 # plugins to add to the default configuration
@@ -137,7 +141,7 @@ branchable: '1'
 # Allow anyone to git push verified changes to this site?
 #anonpush: 0
 # Display "Branchable" link on action bar?
-branchable_action: '1'
+branchable_action: 0
 
 # git plugin
 # git hook to generate
@@ -293,6 +297,13 @@ po_link_to: default
 #osm_format: KML
 # the icon attached to a tag, displayed on the map for tagged pages
 #osm_tag_default_icon: icon.png
+# Url for the OpenLayers.js file
+#osm_openlayers_url: http://www.openlayers.org/api/OpenLayers.js
+# Layers to use in the map. Can be either the 'OSM' string or a type option for Google maps (GoogleNormal, GoogleSatellite, GoogleHybrid or GooglePhysical). It can also be an arbitrary URL in a syntax acceptable for OpenLayers.Layer.OSM.url parameter.
+#osm_layers:
+#  OSM: GoogleSatellite
+# Google maps API key, Google layer not used if missing, see https://code.google.com/apis/console/ to get an API key
+#osm_google_apikey: ''
 
 ######################################################################
 # web plugins
@@ -324,6 +335,8 @@ comments_commit: '1'
 # mirrorlist plugin
 # list of mirrors
 #mirrorlist: {}
+# generate links that point to the mirrors' ikiwiki CGI
+#mirrorlist_use_cgi: 1
 
 # repolist plugin
 # URIs of repositories containing the wiki's source
