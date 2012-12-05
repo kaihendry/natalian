@@ -3,7 +3,7 @@
 It's like banking in Europe 10 years ago. Think Internet Explorer. Think
 Javascript scripts timing out. Think Java. Think no way to report bugs. Think
 no acknowledgement of reported bugs. Think if they ever roll out an update to
-fix your issue, they completely break something else. True story.
+fix your issue, they break something else. True story.
 
 I'm thinking of starting a blog highlighting the hilariously bad engineering
 going into Singapore made banking Web applications.
@@ -12,7 +12,7 @@ going into Singapore made banking Web applications.
 
 You have to learn where your bank's ATMs are to avoid charges. Good luck!
 
-# Domestic transfers can take THREE DAYS
+# Domestic transfers take THREE DAYS
 
 Transfer done before 12pm on day 1 will arrive either by 6pm on day 2 or 1pm on
 day 3. That's the one that costs no money. If you want a domestic same day
@@ -31,7 +31,9 @@ One way to lessen the charge is to ask to pay by
 that to Europe where debit cards incur no costs, so don't make assumptions.
 
 Evidently merchants are confused whether you want to be charged by the more
-expensive direct debit or NETS. Ask for NETS, or just pay in cash to play it safe.
+expensive direct debit or NETS. Ask for NETS, then the merchant will probably
+demand cash since remember it takes **3 days** for them to get their money from
+[NETS](http://en.wikipedia.org/wiki/Network_for_Electronic_Transfers).
 
 # Confusion over bank codes
 
