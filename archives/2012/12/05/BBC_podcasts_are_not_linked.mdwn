@@ -1,0 +1,29 @@
+I love the BBC output but I'm annoyed how difficult it is to share their content, previously:
+
+* [[archives/2012/07/15/BBC_FOOC_URLs_make_no_sense]]
+* [[archives/2012/08/20/BBC_URLs_are_not_cool]]
+
+I love the [BBC Witness series](http://www.bbc.co.uk/podcasts/series/witness)
+which has the same problems as <abbr title="From Our Own
+Correspondent">FOOC</abbr> when it comes to their [[URLs|archives/2012/08/20/BBC_URLs_are_not_cool]].
+
+When listening to the Witness podcast using Apple's Podcasts App, if I email the, the body of the email looks like:
+
+	Check out this great Podcast: http://downloads.bbc.co.uk/podcasts/worldservice/witness/rss.xml
+
+* It links to the RSS which is useless to most people
+* It doesn't link to what I'm actually listening to
+
+The popular "Pocket Cast Lite", when sharing the Podcast it emails look like:
+
+	Podcast: Witness
+	Episode: Witness: The Bhopal disaster
+
+	Find out more about the podcast at:
+	http://www.pocketcasts.com/share/Ofzlnt
+
+Their [linked URL](http://www.pocketcasts.com/share/Ofzlnt) does not point to
+the relevant BBC page <http://www.bbc.co.uk/programmes/p0112t3d> about the
+Podcast I'm listening to.
+
+Come on BBC. Please fix this!
