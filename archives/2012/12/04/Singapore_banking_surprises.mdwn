@@ -10,7 +10,7 @@ going into Singapore made banking Web applications.
 
 # No super convenient ATM network
 
-You have to learn where your bank's ATMs are to avoid charges. Good luck!
+You have to learn where your bank's [ATMs](http://en.wikipedia.org/wiki/Automated_teller_machine) are to avoid charges. Good luck!
 
 # Domestic transfers take THREE DAYS
 
@@ -18,7 +18,12 @@ Transfer done before 12pm on day 1 will arrive either by 6pm on day 2 or 1pm on
 day 3. That's the one that costs no money. If you want a domestic same day
 transfer it costs $20 per transfer.
 
-It's like going back to the 90s in the UK. Without the 20SGD charge.
+It's like going back to the [pre-2008 in the
+UK](http://www.ukpayments.org.uk/faster_payments_service/). Without the 20SGD
+charge.
+
+Interestingly the [EU only recently regulated faster payments across
+Europe](http://www.chyp.com/media/blog-entry/did-you-celebrate-d-1-day).
 
 # Using a debit card? That's 10% thanks!
 
