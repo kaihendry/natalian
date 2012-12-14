@@ -68,3 +68,12 @@ you have a account with the same company in your country, don't.
 For example if I want to move <a href="http://webconverger.com/">my
 company's</a> subscribers to Singapore and I have to get each one to re-setup
 in Singapore. Ha ha ha, oh god no.
+
+# Charges are opaque
+
+I received over 100SGD in charges on my account, which looked online like:
+
+	8163    05/12/2012      05/12/2012      Cash fees for: 0337322GR:1307
+
+I emailed my banker asking **what there were exactly**. She said she won't know
+until the **paper bill** arrives. w.t.f.
