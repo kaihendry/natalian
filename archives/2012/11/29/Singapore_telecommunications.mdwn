@@ -30,21 +30,36 @@ You can check if you can Fibre optic here: <http://www.opennet.com.sg/>
 If you can't get Fibre Optic, you are usually stuck with 10Mbps ADSL for
 49.90SGD a month.
 
-It's worth noting that even the alledgely [fastest Fibre in
+It's worth noting that even the allegedly [fastest Fibre in
 Singapore](http://www.flickr.com/photos/hendry/tags/viewqwest/) is probably not
 going to get much better than [100 KB/s to Europe](http://www.flickr.com/photos/hendry/8270641909/).
 
-# Some gotchas with M1 plans
+# Some gotchas with M1 contract plans
+
+There is no online billing until you get your first paper bill and then you
+need to manually switch over.
 
 They won't warn you if you go over the 2GB quota. In order to avoid getting
 charged for going over quote you must go to Settings > General > Usage >
 Cellular usage and remember to reset statistics monthly.
 
-Like [Malaysia](http://natalian.org/archives/2012/01/01/Canon_can_not/), you
-don't have any consumer rights. You can complain to
-[CASE](http://www.case.org.sg/) though. There is no cooling off period to
-evaluate if the network works for you.
+There is a 26.70SGD charge for the SIM itself. Plus a 10.70SGD registration
+charge. They don't tell you this until you sign up. haha ha...
+
+They cannot port a prepaid number.
+
+Do NOT roam on this, is the advice of sales representative in Bugis. Even in
+Malaysia, it's too expensive.
+
+Unlike [[Malaysia|archives/2012/01/01/Canon_can_not]], you do have <a
+href="http://en.wikipedia.org/wiki/Lemon_law#Singapore">'a lemon law'</a>
+protecting your consumer rights for products, but not services. You can
+complain to [CASE](http://www.case.org.sg/) though. There is no cooling off
+period to evaluate if the network works for you.
 
 <a href="http://www.flickr.com/photos/hendry/8271705076/" title="I haz LTE 4G!!! by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8208/8271705076_a4bc5c8912.jpg" width="282" height="500" alt="I haz LTE 4G!!!"></a>
 
-The good news is M1's 4G works quite well.
+The good news is M1's 4G is quite nice when it works. There are some issues.
+Like you can't upload on the IOS6 YouTube in HD which sucks.
+
+Online customer service is non-existent.
