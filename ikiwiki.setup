@@ -69,6 +69,7 @@ add_plugins:
 - userlist
 - google
 - gitpush
+- trail
 # plugins to disable
 disable_plugins:
 - htmlscrubber
@@ -141,7 +142,7 @@ branchable: '1'
 # Allow anyone to git push verified changes to this site?
 #anonpush: 0
 # Display "Branchable" link on action bar?
-branchable_action: 0
+branchable_action: '0'
 
 # git plugin
 # git hook to generate
