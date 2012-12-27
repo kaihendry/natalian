@@ -36,6 +36,7 @@
 <link rel="next" href="<TMPL_VAR NEXTURL>" title="<TMPL_VAR NEXTTITLE>" />
 </TMPL_IF>
 </TMPL_LOOP>
+<script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
 </head>
 <body>
 
@@ -204,7 +205,6 @@ Last edited <TMPL_VAR MTIME>
 <TMPL_IF HTML5></article><TMPL_ELSE></div></TMPL_IF>
 
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-195686-1']);
   _gaq.push(['_trackPageview']);
@@ -215,6 +215,19 @@ Last edited <TMPL_VAR MTIME>
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+
+$(document).ready(function() {
+	$(document).keydown(function(e) {
+		if (e.keyCode == 37) {
+			p = $(".trailprev a")[0].href;
+			if (p) { window.location = p; }
+		}
+		if (e.keyCode == 39) {
+			n = $(".trailnext a")[0].href;
+			if (n) { window.location = n; }
+		}
+	});
+});
 </script>
 
 
