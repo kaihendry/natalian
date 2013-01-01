@@ -59,7 +59,11 @@ period to evaluate if the network works for you.
 
 <a href="http://www.flickr.com/photos/hendry/8271705076/" title="I haz LTE 4G!!! by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8208/8271705076_a4bc5c8912.jpg" width="282" height="500" alt="I haz LTE 4G!!!"></a>
 
-The good news is M1's 4G is quite nice when it works. There are some issues.
-Like you can't upload on the IOS6 YouTube in HD which sucks.
+The good news is M1's 4G is quite nice when it works. Now I can skype, listen
+to BBC radio and watch Youtube videos on the go. However there are some issues.
+Like you can't upload on the IOS6 YouTube in HD which sucks. If you think 4G is
+some how seperate and better than 3G, it's not. <a
+href="http://www.flickr.com/photos/hendry/8332527040/">LTE 4G fell over during
+New Year's Eve celebrations</a>.
 
 Online customer service is non-existent.
