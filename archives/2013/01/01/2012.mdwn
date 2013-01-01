@@ -11,12 +11,14 @@ In February 2012, I moved with Ruth to Singapore to largely "check Singapore
 out". We liked what I saw.
 
 In March 2012 I visited Hong Kong with Ruth which was great to check off. Later
-that month a really good friend visited Singapore which was great.
+that month a really good friend visited Singapore which was fantastic.
 
 April I was slugging it out with my business with Patrick. Very intensive and
-prolific work wise to work with a peer. We forged what Webconverger is today,
-the configuration management, the git based upgrades, which I'm pretty proud
-of.
+prolific work wise with a peer. We forged what Webconverger is today, the
+configuration management, the innovative [git based
+upgrades](http://webconverger.org/upgrade/), which I'm pretty proud of
+achieving with the help of the
+[community](http://webconverger.org/acknowledgements/).
 
 At the end of May I moved back to Europe and then onto Berlin for a pre-planned
 summer in Europe. It was an ambitious dream for Ruth and I, and it amazingly
@@ -31,13 +33,13 @@ I thought it was high time I proposed to Ruth with a especially made ring.
 
 We moved back to Malaysia and
 [[married|archives/2012/10/24/Getting_married_in_Malaysia]] legally on
-2012-11-21. Then we moved back to Singapore since Ruth managed to land a job
+2012-11-21. Then we moved back down to Singapore since Ruth managed to land a job
 there.
 
 This December was spent settling in and then things wound down for the Christmas
-holidays, spent with the in-laws in Kuala Lumpur.
+holidays, spent with the in-laws in Kuala Lumpur eating good food.
 
-Overall I'm pretty torn between Europe and Asia. Though spending Winter in this
+Overall I'm pretty torn between Europe and Asia. Though spending winter in this
 region, enjoying the good food and challenges has been good.
 
 # 2013
@@ -46,9 +48,9 @@ I'm a bit nervous about this year. I've resolved to get up earlier. Get fitter,
 run (at least 4km) & swim (10 laps) twice a week.
 
 Then there is stressful task of growing Webconverger. Also need to help get
-Ruth's UK residence visa which is a ton of paper work. In all honesty I should
-also formulate a plan to get the right to stay in Singapore, which is quite
-tricky if you (and your business) don't fit the mold.
+Ruth's UK residence visa which is a ton of paper work. In all honesty I must
+formulate a plan to get the right to stay in Singapore, which is quite tricky
+if you (and your business) don't fit the mold.
 
 In April I'm back in the UK for my bff Jamie's wedding. Since I can't afford to
 fly back and forth between Singapore, I plan to live, plan & work with my
@@ -59,4 +61,4 @@ Ruth, no.
 After June, we'll move back Singapore, since Ruth is committed to working at
 least a year in Singapore. Winning Ruth has definitely been the highlight of
 2012 and that pervades into 2013. Though after June I hope to keep it exciting
-and plot a new adventure.
+and plot a new adventure. A honeymoon in Japan would be nice!
