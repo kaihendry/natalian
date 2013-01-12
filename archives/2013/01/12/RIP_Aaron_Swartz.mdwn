@@ -3,8 +3,9 @@
 I'm shocked to hear Aaron Swartz took his life today. I honestly I hope it's a
 sick joke.
 
-I had the pleasure to read / follow Aaron's output over the years. My earliest
-email exchange I can find is from 2005 where he replied to a bug I filed on
+I had the pleasure to read / follow Aaron's [output](http://www.aaronsw.com/)
+over the years. My earliest email exchange I can find is from 2005 where he
+replied to a bug I filed on
 [rss2email](http://www.allthingsrss.com/rss2email/). A really decent piece of
 software I've recently started using again.
 
@@ -13,15 +14,18 @@ and timely. I offered to package it for Debian and we worked a little closer
 for a year or two. Although I'm ~8 years older than him, I was learning from
 him. I really liked his minimalistic style and he influenced me.
 
-I went off Python altogether a year or two later and I think he must have done
-well being a co-founder of Reddit et al, which I think was at least initially
-based upon webpy. We met for the photo above somewhere in San Francisco back in
-2007 and I honestly feel like I've had my picture taken with a famous person.
+I went off the Python language altogether a year or two later and I think he
+must have done well being a co-founder of
+[Reddit](http://www.reddit.com/r/pics/comments/16fjjm/aaron_shwartz_reddit_cofounder_rip/)
+et al, which I think was at least initially based upon webpy. We met for the
+photo above somewhere in San Francisco back in 2007 and I honestly feel like
+I've had my picture taken with a famous person.
 
 Of course I was alarmed when I heard he was getting
-[indicted](https://twitter.com/kaihendry/status/93673377025363968). I'm not
-sure why he killed himself. I'm assuming he suffered from depression. I'm not
-afraid to say it affects me too, though thankfully not seriously of late.
+[indicted](https://twitter.com/kaihendry/status/93673377025363968). I have no
+idea why he killed himself. I'm assuming he suffered from depression. I'm not
+afraid to say depression affects me too, though thankfully not seriously of
+late.
 
 So if you are reading this and feel down, cheer up. My best advice is to
 travel. Don't be afraid to ask people like me for help! :)
