@@ -10,7 +10,8 @@ replied to a bug I filed on
 software I've recently started using again.
 
 Then when Aaron released [web.py](http://webpy.org/) which I thought was
-brilliant and timely. I offered to package it for Debian and we worked a little
+brilliant and timely. I offered to [package it for
+Debian](http://packages.qa.debian.org/w/webpy.html) and we worked a little
 closer for a year or two. Although I'm ~8 years older than him, I was learning
 from him. I really liked his minimalistic style and he influenced me.
 
