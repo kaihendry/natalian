@@ -4,6 +4,9 @@
 <blockquote class="twitter-tweet"><p>Is there a way to report Singapore spam calls? @<a href="https://twitter.com/m1_singapore">m1_singapore</a></p>&mdash; Kai Hendry (@kaihendry) <a href="https://twitter.com/kaihendry/status/292512189087109120" data-datetime="2013-01-19T06:01:55+00:00">January 19, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+I also reported this to <http://www.spamcontrol.org.sg/> via their advertised
+email. There is no "report form". I've yet to hear back from them. :(
+
 I just got off the phone with M1. The procedure for reporting SPAM is:
 
 1. Log 5 (yes, FIVE) complaints from the **same number**
@@ -17,3 +20,7 @@ if you are dumb enough to roam abroad with a Singporean SIM card.
 (Samsung) Androids has nice feature of "Add to Reject list" when you long hold
 the number in the recent call list. There is no such feature on IOS as far as I
 know.
+
+I used to think UK OFCOM's complaint procedure to incoming foreign SPAM calls
+was lax. Singapore just shocked me, because the spammers are generally local as
+far as I can tell.
