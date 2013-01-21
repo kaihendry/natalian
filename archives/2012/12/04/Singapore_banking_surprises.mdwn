@@ -76,7 +76,21 @@ I received over 100SGD in charges on my account, which looked online like:
 	8163    05/12/2012      05/12/2012      Cash fees for: 0337322GR:1307
 
 I emailed my banker asking **what there were exactly**. She said she won't know
-until the **paper bill** arrives. w.t.f.
+until the **paper bill** arrives. __forehead slap__
+
+# Good luck working out foreign payments
+
+If you [invoice clients
+abroad](http://config.webconverger.com/invoice-example.pdf), you will need to
+wait an unpredictable amount of days until it arrives in your bank account.
+
+Furthermore when the remittance arrives, you are left with the conundrum of
+working out **who** just paid you.
+
+	050IT13011500224	8835	16/01/2013	16/01/2013	050IT13011500224 1/GEMEINDE GROEB	SGD	 241.89CR
+
+This was painstakingly worked out as a payment of 200USD from a Scottish
+customer. I.e. a very manual task.
 
 # Update: Charges are exorbitant
 
