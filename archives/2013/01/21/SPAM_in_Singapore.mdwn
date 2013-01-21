@@ -1,0 +1,19 @@
+<a href="http://www.flickr.com/photos/hendry/8397992260/" title="Singapore SPAM by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8476/8397992260_50af694bac.jpg" width="282" height="500" alt="Singapore SPAM"></a>
+<a href="http://www.flickr.com/photos/hendry/8400484925/" title="More SPAM by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8336/8400484925_aed20f8c50.jpg" width="282" height="500" alt="More SPAM"></a>
+
+<blockquote class="twitter-tweet"><p>Is there a way to report Singapore spam calls? @<a href="https://twitter.com/m1_singapore">m1_singapore</a></p>&mdash; Kai Hendry (@kaihendry) <a href="https://twitter.com/kaihendry/status/292512189087109120" data-datetime="2013-01-19T06:01:55+00:00">January 19, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I just got off the phone with M1. The procedure for reporting SPAM is:
+
+1. Log 5 (yes, FIVE) complaints from the **same number**
+* Report this to your local police station to get a police report
+* Submit this report to M1
+
+This is absurd. Even more absurd when in [[Singapore you can get charged for
+incoming calls|archives/2012/11/29/Singapore_telecommunications]]. Even worse
+if you are dumb enough to roam abroad with a Singporean SIM card.
+
+(Samsung) Androids has nice feature of "Add to Reject list" when you long hold
+the number in the recent call list. There is no such feature on IOS as far as I
+know.
