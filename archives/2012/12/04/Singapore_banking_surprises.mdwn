@@ -92,6 +92,10 @@ working out **who** just paid you.
 This was painstakingly worked out as a payment of 200USD from a Scottish
 customer. I.e. a very manual task.
 
+# No automation features with company back account
+
+Want to complete standing order online? You can't. More manual work you need to account for.
+
 # Update: Charges are exorbitant
 
 I've since found out the 100SGD charge above (charges are opaque) was for
