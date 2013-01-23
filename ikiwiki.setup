@@ -79,7 +79,7 @@ templatedir: /usr/share/ikiwiki/templates
 # base wiki source location
 underlaydir: /usr/share/ikiwiki/basewiki
 # display verbose messages?
-#verbose: 1
+verbose: 1
 # log to syslog?
 syslog: '1'
 # create output files named page/index.html?
