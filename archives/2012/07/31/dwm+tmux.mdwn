@@ -6,7 +6,8 @@ st is a [simple terminal](http://st.suckless.org/) that [sucks
 less](http://suckless.org/), but it does not have scroll back support, aka
 "scrollbackabilty". :)
 
-To remedy this use [tmux](http://tmux.sourceforge.net/).
+One way to remedy this, is to use [tmux](http://tmux.sourceforge.net/) or GNU
+screen. tmux has a disadvantage in the sense it doesn't [reflow text](http://superuser.com/questions/346408/tmux-refresh-display-after-terminal-width-change/346784#346784).
 
 # tmux setup in <a href="http://dwm.suckless.org/">dwm</a>'s config.h
 
@@ -18,8 +19,9 @@ to a new window.
 
 # tmux local and remotely?
 
-If you run a default tmux and you log into a remote machine, you need to prefix
-your commands twice to for example open a new shell on the remote machine, e.g. `C-b C-b c`
+If you run a default `tmux a -d` and you log into a remote machine, you need to
+prefix your commands twice to for example open a new shell on the remote
+machine, e.g. `C-b C-b c`
 
 You can work around this like I do by [setting up your local
 tmux](https://github.com/kaihendry/Kai-s--HOME/blob/master/.tmux.conf) to use a
