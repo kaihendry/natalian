@@ -1,0 +1,60 @@
+Prompted by people writing slow Websites in Singapore, and obvious tools like
+Google's PageSpeed not catching this class of error, allow me to educate you.
+
+If you serve customers in say Singapore, your Web server (httpd) should be in Singapore. Understood?
+
+ICMP ping times to your host should be ~5ms.
+
+
+If you run a non-optimised **bog standard** Apache2 instance on that host, your
+[httping](http://www.vanheusden.com/httping/) times should be about ~40ms. Understood?
+
+
+	x220:~$ httping sg.hackandtell.org
+	PING sg.hackandtell.org:80 (sg.hackandtell.org):
+	connected to 117.121.241.187:80 (293 bytes), seq=0 time=28.76 ms
+	connected to 117.121.241.187:80 (293 bytes), seq=1 time=31.89 ms
+	connected to 117.121.241.187:80 (293 bytes), seq=2 time=25.64 ms
+	connected to 117.121.241.187:80 (293 bytes), seq=3 time=23.24 ms
+	^CGot signal 2
+	--- sg.hackandtell.org ping statistics ---
+	4 connects, 4 ok, 0.00% failed
+	round-trip min/avg/max = 23.2/27.4/31.9 ms
+
+Now if you are Google, you have machines all over the world and a clever DNS
+system that makes sure you can served by the closest machine. I.e. if you are
+in Singapore, you get your search query answered by a server in Singapore.
+
+	x220:~$ httping www.google.com
+	PING www.google.com:80 (www.google.com):
+	connected to 74.125.235.49:80 (768 bytes), seq=0 time=74.84 ms
+	connected to 74.125.235.49:80 (768 bytes), seq=1 time=32.56 ms
+	connected to 74.125.235.49:80 (768 bytes), seq=2 time=42.33 ms
+	connected to 74.125.235.49:80 (768 bytes), seq=3 time=42.97 ms
+	^CGot signal 2
+	--- www.google.com ping statistics ---
+	4 connects, 4 ok, 0.00% failed
+	round-trip min/avg/max = 32.6/48.2/74.8 ms
+
+
+Now if your site has http ping times greater than 40ms, you have FUCKED UP.
+
+	x220:~$ httping hackerspace.sg
+	PING hackerspace.sg:80 (hackerspace.sg):
+	connected to 208.97.177.38:80 (395 bytes), seq=0 time=1832.28 ms
+	connected to 208.97.177.38:80 (395 bytes), seq=1 time=1865.23 ms
+	connected to 208.97.177.38:80 (395 bytes), seq=2 time=1550.14 ms
+	^CGot signal 2
+	--- hackerspace.sg ping statistics ---
+	3 connects, 3 ok, 0.00% failed
+	round-trip min/avg/max = 1550.1/1749.2/1865.2 ms
+
+Yes, you can deploy all range of caching tricks to improve load times, but that
+only happens if you have VISITED THE WEB PAGE BEFORE.
+
+Please make the initial load times of your Webpage <40ms. If you can't afford
+to have a httpd in every country of the world like Google, I recomend [Amazon
+CloudFront](http://aws.amazon.com/cloudfront/). Not
+[Cloudflare](https://www.cloudflare.com/) which do have servers in lots of
+countries, but they don't cache on that http level, they only reverse proxy
+making their service slow, i.e. httpings >200ms.
