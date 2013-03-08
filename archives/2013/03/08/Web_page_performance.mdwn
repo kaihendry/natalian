@@ -54,8 +54,10 @@ Yes, you can deploy all range of caching tricks to improve load times, but that
 only happens if you have VISITED THE WEB PAGE BEFORE.
 
 Please make the initial load times of your Webpage <40ms. If you can't afford
-to have a httpd in every country of the world like Google, I recomend [Amazon
+to have a httpd in every country of the world like Google, I recommend [Amazon
 CloudFront](http://aws.amazon.com/cloudfront/). Not
 [Cloudflare](https://www.cloudflare.com/) which do have servers in lots of
 countries, but they don't cache on that http level, they only reverse proxy
-making their service slow, i.e. httpings >200ms.
+through their optimising bells&whistles network making their service slow, i.e.
+httpings
+>200ms.
