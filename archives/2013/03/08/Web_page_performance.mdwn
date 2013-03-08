@@ -6,7 +6,7 @@ If you serve (the majority of your) customers in say Singapore, your Web server 
 ICMP ping times to your host should be ~5ms.
 
 
-If you run a non-optimised **bog standard** Apache2 instance on that host, your
+If you run a non-optimised **bog standard** Apache2 httpd instance on that host, your
 [httping](http://www.vanheusden.com/httping/) times should be about ~40ms. Understood?
 
 If you don't want to install `httping`, you could use something like `time curl -I "http://sg.hackandtell.org"`.
