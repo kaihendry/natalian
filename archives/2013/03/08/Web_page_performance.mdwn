@@ -58,6 +58,4 @@ to have a httpd in every country of the world like Google, I recommend [Amazon
 CloudFront](http://aws.amazon.com/cloudfront/). Not
 [Cloudflare](https://www.cloudflare.com/) which do have servers in lots of
 countries, but they don't cache on that http level, they only reverse proxy
-through their optimising bells&whistles network making their service slow, i.e.
-httpings
->200ms.
+through their optimising bells&whistles network making their service slow, i.e.  httpings >200ms.
