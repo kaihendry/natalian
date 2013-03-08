@@ -23,8 +23,8 @@ If you don't want to install `httping`, you could use something like `time curl 
 	round-trip min/avg/max = 23.2/27.4/31.9 ms
 
 Now if you are Google, you have machines all over the world and a clever DNS
-system that makes sure you can served by the closest machine. I.e. if you are
-in Singapore, you get your search query answered by a server in Singapore.
+system that makes sure you are served by the closest machine. I.e. if you are
+in Singapore, you get your search query answered by a httpd server in Singapore.
 
 	x220:~$ httping www.google.com
 	PING www.google.com:80 (www.google.com):
