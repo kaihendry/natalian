@@ -1,5 +1,5 @@
 Prompted by people writing slow Websites in Singapore, and obvious tools like
-Google's PageSpeed not catching this class of error, allow me to educate you.
+[Google's PageSpeed](https://developers.google.com/speed/pagespeed/) not catching this class of error, allow me to educate you.
 
 If you serve customers in say Singapore, your Web server (httpd) should be in Singapore. Understood?
 
