@@ -3,7 +3,7 @@ Prompted by people writing slow Websites in Singapore, and obvious tools like
 
 If you serve (the majority of your) customers in say Singapore, your Web server (httpd) should be in Singapore. Understood?
 
-ICMP ping times to your host should be ~10ms.
+ICMP ping times to your host should be <10ms.
 
 
 If you run a non-optimised **bog standard** Apache2 httpd instance on that host, your
