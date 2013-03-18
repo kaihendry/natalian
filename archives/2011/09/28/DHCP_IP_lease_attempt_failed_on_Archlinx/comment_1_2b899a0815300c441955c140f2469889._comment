@@ -1,0 +1,10 @@
+[[!comment format=mdwn
+ username="https://www.google.com/accounts/o8/id?id=AItOawlasc8D_eI1sTS0glpzoqUnLvs1Es5Mldc"
+ nickname="Johan"
+ subject="Thanks!"
+ date="2013-03-18T16:44:13Z"
+ content="""
+Installing and adding DHCLIENT=yes to my home network in /etc/network.d did it!
+
+Thanks alot!
+"""]]
