@@ -5,7 +5,7 @@
 Since I'm back in Cornwall with my parents, who are getting old, I think a lot
 about preserving family history.
 
-<audio controls autoplay >
+<audio controls>
 <source src="test-recording.ogg">
 <source src="test-recording.mp3">
 </audio>
