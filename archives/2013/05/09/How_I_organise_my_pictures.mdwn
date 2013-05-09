@@ -3,32 +3,41 @@
 1. Take photos with iPhone
 * Upload with Dropbox App on the Iphone
 * On my VPS "~/Dropbox/Camera Uploads", I have a script `dropper.sh` which moves photos to <http://static.natalian.org/> (saving space on Dropbox)
-* From <http://static.natalian.org/> I have another script `flickr.sh` to upload the images to Flickr
+* From <http://static.natalian.org/> I have another script `flickr.sh` to upload the images to [Flickr](http://www.flickr.com/photos/hendry/)
 * I tag/title images upon Flickr, which takes a lot of effort with Flick's dated <http://www.flickr.com/photos/organize> tool
 
 ## Pros
 
-* I have a back up my photos upon http://static.natalian.org/ which is hosted by Dreamhost
+* I have a back up my photos upon <http://static.natalian.org/> which is hosted by [Dreamhost](http://www.dreamhost.com/r.cgi?104617)
 
 ## Cons
 
-When I [backup from Flickr](http://hsivonen.iki.fi/photobackup/), the images and their metadata is separate. :/ I need to write a script to keep the metadata in the image.
+When I [backup from Flickr](http://hsivonen.iki.fi/photobackup/), the images
+and their metadata is separate. :/ I need to write a script to keep the
+metadata in the image. I want to back up from Flickr as the years of Metadata
+I've uploaded is worth a LOT to me.
 
-Don't have a good way of handling **videos** yet. I do mean to ffmpeg them for <http://video.natalian.org/> upon <http://static.natalian.org/>, but I keep running into rotation problems <https://ffmpeg.org/trac/ffmpeg/ticket/515>
+Don't have a good way of handling **videos** yet. I do mean to [convert them to
+HTML5
+video](https://github.com/kaihendry/recordmydesktop2.0/blob/master/htmlvideo)
+for <http://video.natalian.org/> upon <http://static.natalian.org/>, but I keep
+running into rotation problems <https://ffmpeg.org/trac/ffmpeg/ticket/515>
 
 I don't think Flickr should handle videos.
 
-I generally try to upload videos to Youtube as its fairly easy from the Iphone and it gets maximum exposure.
+I generally try to upload videos to Youtube as its fairly easy from the Iphone and it gets maximum exposure. Again I don't have a way of downloading the metadata I add to the videos there.
 
 I have a LOT of duplicates on Flickr and elsewhere which puts me off uploading
 really old stuff which I think isn't on Flickr. I can't really tell, especially
 since Flickr has no de-duplication feature.
 
+Of course I don't own the Flickr and Youtube URIs, and I can't make them redirect.
+
 # My parents photo flow
 
-They are in Apple land and with the purchase of a Macbook Air, it's truly fucked up.
+They are in Apple land with a Macbook and with the introduction of a Macbook Air, it's truly fucked up.
 
-A lot of the "Apple photo management" problems are raised upon <https://news.ycombinator.com/item?id=5673628>. For example:
+A lot of the "Apple photo management" problems are raised upon <https://news.ycombinator.com/item?id=5673628>. To add:
 
 * Hosting an iPhoto library on the Time capsule even on a good network is pretty much unusable
 * iPhoto wants to upgrade the iPhoto library? Or you have two different versions of iPhoto accessing the same library? You're basically screwed.
@@ -44,7 +53,7 @@ their existing huge iPhoto collection, which is taking me forever. :/
 
 I'm re-purposing my [linux
 rig](http://natalian.org/archives/2009/09/06/linux_i7_rig/) to an Archlinux
-powered NAS to store backup of all the photos on a mirrored 1TB soft raid
+powered <abbr title="Network Attached Storage">NAS</abbr> to store backup of all the photos on a mirrored 1TB soft raid
 setup.
 
 I'm keeping all of the [photos in a git
@@ -65,9 +74,9 @@ something a bit more robust here.
 
 The canonical copy of the photos will be the NAS, in git.
 
-I mount the NAS share in NFSv4 and do my scripting and editing. The I commit.
+I mount the NAS share in NFSv4 and do my scripting and editing. Then I commit the changes.
 It's a lot of effort on my part since I'm the only one who can use my
-[sxiv](https://github.com/muennich/sxiv) image viewer and metadata scripts.
+[sxiv](https://github.com/muennich/sxiv) image viewer and metadata scripts. I've sunk countless hours into it and I don't think any member of my family appreciates the herculean effort that's required. :(
 
 Exporting Photos out of iPhoto to the NAS is so painful. I can't have NFS and
 [AFP](http://en.wikipedia.org/wiki/Apple_Filing_Protocol) services running
