@@ -1,0 +1,76 @@
+# My workflow
+
+1. Take photos with iPhone
+* Upload with Dropbox App on the Iphone
+* On my VPS "~/Dropbox/Camera Uploads", I have a script `dropper.sh` which moves photos to <http://static.natalian.org/> (saving space on Dropbox)
+* From <http://static.natalian.org/> I have another script `flickr.sh` to upload the images to Flickr
+* I tag/title images upon Flickr, which takes a lot of effort with Flick's dated <http://www.flickr.com/photos/organize> tool
+
+## Pros
+
+* I have a back up my photos upon http://static.natalian.org/ which is hosted by Dreamhost
+
+## Cons
+
+When I [backup from Flickr](http://hsivonen.iki.fi/photobackup/), the images and their metadata is separate. :/ I need to write a script to keep the metadata in the image.
+
+Don't have a good way of handling **videos** yet. I do mean to ffmpeg them for <http://video.natalian.org/> upon <http://static.natalian.org/>, but I keep running into rotation problems <https://ffmpeg.org/trac/ffmpeg/ticket/515>
+
+I don't think Flickr should handle videos.
+
+I generally try to upload videos to Youtube as its fairly easy from the Iphone and it gets maximum exposure.
+
+I have a LOT of duplicates on Flickr and elsewhere which puts me off uploading
+really old stuff which I think isn't on Flickr. I can't really tell, especially
+since Flickr has no de-duplication feature.
+
+# My parents photo flow
+
+They are in Apple land and with the purchase of a Macbook Air, it's truly fucked up.
+
+A lot of the "Apple photo management" problems are raised upon <https://news.ycombinator.com/item?id=5673628>. For example:
+
+* Hosting an iPhoto library on the Time capsule even on a good network is pretty much unusable
+* iPhoto wants to upgrade the iPhoto library? Or you have two different versions of iPhoto accessing the same library? You're basically screwed.
+* The iPhoto library is just insane-ware. It's really really hard to export photos with its metadata embedded in it.
+
+If you do the right thing by trying to take it out of iPhoto, it makes viewing
+your collection of Photos on Apple TV / iPad almost impossible. :(
+
+Right now my parents are not taking pictures because I'm trying to sanitise
+their existing huge iPhoto collection, which is taking me forever. :/
+
+# Moving forward
+
+I'm re-purposing my [linux
+rig](http://natalian.org/archives/2009/09/06/linux_i7_rig/) to an Archlinux
+powered NAS to store backup of all the photos on a mirrored 1TB soft raid
+setup.
+
+I'm keeping all of the [photos in a git
+repository](http://stackoverflow.com/questions/3618447/using-git-for-images),
+sorted by year.
+
+I'm endeavouring to keep metadata in the image. E.g.
+
+	exiv2 -M"add Iptc.Application2.Keywords String $tag" $image
+
+I plan to backup in the mornings over months the photos to one of my VPSes,
+probably Hetzner. Then I sync to Dreamhost slowly. Need to come up with
+something a bit more robust here.
+
+<img src=http://speedtest.net/result/2681911156.png alt="My upload speed is quite low">
+
+	(200 GB) / (0.7 * (Mbit / sec)) = 27.0899471 days
+
+The canonical copy of the photos will be the NAS, in git.
+
+I mount the NAS share in NFSv4 and do my scripting and editing. The I commit.
+It's a lot of effort on my part since I'm the only one who can use my
+[sxiv](https://github.com/muennich/sxiv) image viewer and metadata scripts.
+
+Exporting Photos out of iPhoto to the NAS is so painful. I can't have NFS and
+[AFP](http://en.wikipedia.org/wiki/Apple_Filing_Protocol) services running
+simultaneously for example. Apple does not support Samba/NFS IIUC. So I have
+ton of work running around trying to ensure iPhoto is putting photos in the
+"family memories NAS".
