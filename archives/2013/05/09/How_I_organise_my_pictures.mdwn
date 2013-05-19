@@ -13,8 +13,8 @@
 ## Cons
 
 When I [backup from Flickr](http://hsivonen.iki.fi/photobackup/), the images
-and their metadata is separate. :/ I need to write a script to keep the
-metadata in the image. I want to back up from Flickr as the years of Metadata
+and their metadata is separate. :/ I need to write a script to **keep the
+metadata in the image**. I want to back up from Flickr as the years of Metadata
 I've uploaded is worth a LOT to me.
 
 Don't have a good way of handling **videos** yet. I do mean to [convert them to

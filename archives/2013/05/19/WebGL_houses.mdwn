@@ -1,0 +1,35 @@
+<a href="http://www.flickr.com/photos/hendry/8754304149/" title="Bosch PLR 25 by Kai Hendry, on Flickr"><img src="http://farm3.staticflickr.com/2805/8754304149_b1e8d82e19.jpg" width="375" height="500" alt="Bosch PLR 25"></a>
+
+Since my wife Ruth is an interior designer and I have a good friend who is an
+architect, it frustrates me that their work can't be easily viewed on the Web.
+
+Furthermore when someone books my parent's
+[cottage](http://www.prazefarm.co.uk/cottage/) or when I book accommodation
+myself, you generally do not have a good idea of the physical space except for
+a gallery picture.
+
+Another use case is maintaining a building. It would be great to be able to
+document how network cables run, how heating is zoned, how different electrical
+circuits are isolated.
+
+With that in mind I bought my wife a Bosch PLR 25 Digital Laser Range Finder,
+to measure [Praze Farm](http://www.prazefarm.co.uk/)'s dimensions, and that
+project was a little harder than previously imagined.
+
+First step for Ruth was take loads of measurements and then step 2 re-draw the
+building in [SketchUp](http://www.sketchup.com/). She used the previous
+photo-copied floor plans as a guide, though it turns out in our "Grade 2"
+[listed building](http://en.wikipedia.org/wiki/Listed_building) the walls were
+not level. In the end it was so complex and tedious she gave up, much to my
+disappointment.
+
+Now with a dose of Science Fiction and Google's driverless cars pushing
+[LIDAR](http://en.wikipedia.org/wiki/LIDAR) technology, one can imagine a
+device that can scan a building. The 3D data LIDAR collects could be
+transformed in the 3D model. Great, two steps in one, with only detailing and
+annotation of the design left to do!
+
+Though what encapsulated format would this be in? Obviously we need something
+that can be translated into WebGL with ease. So any browser equipped device can
+explore and be informed by the detailed model. So far I don't think this
+functionality exists, so isn't there a wonderful opportunity for development?
