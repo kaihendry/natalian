@@ -39,7 +39,7 @@ Want a fast connection for just 6 months? Sorry, you're screwed.
 
 # All paths lead to OpenNET/Singtel
 
-If though there is a couple of ISPs in Singapore, they all end up on the same
+Even though there is a couple of ISPs in Singapore, they all end up on the same
 OpenNET/[Singtel](http://en.wikipedia.org/wiki/SingTel) infrastructure I'm told. There is effectively no competition or
 innovation.
 
