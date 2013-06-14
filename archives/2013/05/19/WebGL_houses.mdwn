@@ -33,3 +33,7 @@ Though what encapsulated format would this be in? Obviously we need something
 that can be translated into WebGL with ease. So any browser equipped device can
 explore and be informed by the detailed model. So far I don't think this
 functionality exists, so isn't there a wonderful opportunity for development?
+
+* <http://www.bbc.co.uk/news/world-africa-21516664>
+* <http://www.colbybrownphotography.com/can-photo-spheres-change-the-way-we-experience-the-world/>
+* <http://www.web3d.org/x3d/workgroups/cad/>

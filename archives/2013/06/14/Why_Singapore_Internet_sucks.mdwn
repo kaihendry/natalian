@@ -1,0 +1,47 @@
+<img src="internal-speedtest.png">
+
+Wait, you are probably looking at that Speedtest and salivating?
+
+That Speedtest is only testing the [OpenNET](http://www.opennet.com.sg/) local to Singapore.
+
+What about Malaysia?
+
+<img src="singapore-malaysia.png">
+
+What about Hong Kong?
+
+<img src="singapore-hk.png">
+
+And now San Francisco?
+
+<img src="singapore-sf.png">
+
+And finally London
+
+<img src="singapore-uk.png">
+
+These were taken on a Friday evening on the **best** M1 Fibre product you can
+buy, here in Singapore.  Business line. Fiber BizPac 100M for almost 300SGD a
+month or ~220USD.
+
+# European transits go across North America
+
+Basically if you dealing with Europe, you are at the end of the World. There is
+routing west of Singapore. Lines typically go upto Hong Kong, then Tokyo, then
+across North America. If you get better than 5Mbps to London you are doing VERY
+well.
+
+# Contract lengths are usually 24 months
+
+Want a fast connection for just 6 months? Sorry, you're screwed.
+
+# All paths lead to OpenNET/Singtel
+
+If though there is a couple of ISPs in Singapore, they all end up on the same
+OpenNET/Singtel infrastructure I'm told. There is effectively no competition or
+innovation.
+
+# No customer service
+
+Want to complain to someone sane about Packet Loss? Fat chance. No ISP in
+Singapore is on Twitter either and you've got to ask yourself why.
