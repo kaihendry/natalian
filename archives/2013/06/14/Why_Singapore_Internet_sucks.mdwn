@@ -1,10 +1,10 @@
-Following up from [[archives/2012/11/29/Singapore_telecommunications]]
+Following up from [[archives/2012/11/29/Singapore_telecommunications]].
 
 <img src="/archives/2013/06/14/Why_Singapore_Internet_sucks/internal-speedtest.png">
 
 Wait, you are probably looking at that Speedtest and salivating?
 
-That Speedtest is only testing the [OpenNET](http://www.opennet.com.sg/) local to Singapore.
+That Speedtest is only testing [OpenNET fibre connection](http://www.opennet.com.sg/) local to Singapore.
 
 What about Malaysia?
 
@@ -40,10 +40,16 @@ Want a fast connection for just 6 months? Sorry, you're screwed.
 # All paths lead to OpenNET/Singtel
 
 If though there is a couple of ISPs in Singapore, they all end up on the same
-OpenNET/Singtel infrastructure I'm told. There is effectively no competition or
+OpenNET/[Singtel](http://en.wikipedia.org/wiki/SingTel) infrastructure I'm told. There is effectively no competition or
 innovation.
 
 # No customer service
 
 Want to complain to someone sane about Packet Loss? Fat chance. No ISP in
 Singapore is on Twitter either and you've got to ask yourself why.
+
+# [Censorship in Singapore](http://en.wikipedia.org/wiki/Censorship_in_Singapore)
+
+Porn and Gambling sites are filtered by the [Media Development Authority](http://www.mda.gov.sg).
+
+Adding filtering from a purely technical standpoint makes the Internet slow.
