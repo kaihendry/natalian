@@ -1,6 +1,6 @@
 Following up from [[archives/2012/11/29/Singapore_telecommunications]]
 
-<img src="internal-speedtest.png">
+<img src="/archives/2013/06/14/Why_Singapore_Internet_sucks/internal-speedtest.png">
 
 Wait, you are probably looking at that Speedtest and salivating?
 
@@ -8,19 +8,19 @@ That Speedtest is only testing the [OpenNET](http://www.opennet.com.sg/) local t
 
 What about Malaysia?
 
-<img src="singapore-malaysia.png">
+<img src="/archives/2013/06/14/Why_Singapore_Internet_sucks/singapore-malaysia.png">
 
 What about Hong Kong?
 
-<img src="singapore-hk.png">
+<img src="/archives/2013/06/14/Why_Singapore_Internet_sucks/singapore-hk.png">
 
 And now San Francisco?
 
-<img src="singapore-sf.png">
+<img src="/archives/2013/06/14/Why_Singapore_Internet_sucks/singapore-sf.png">
 
 And finally London
 
-<img src="singapore-uk.png">
+<img src="/archives/2013/06/14/Why_Singapore_Internet_sucks/singapore-uk.png">
 
 These were taken on a Friday evening on the **best** M1 Fibre product you can
 buy, here in Singapore.  Business line. Fiber BizPac 100M for almost 300SGD a
