@@ -1,0 +1,20 @@
+[[!comment format=mdwn
+ username="https://www.google.com/accounts/o8/id?id=AItOawkIBNipy18ISj9PrKSMltAVS81Xiq43qgY"
+ nickname="Simon"
+ subject="What is Speedtest actually measuring?"
+ date="2013-06-15T21:02:21Z"
+ content="""
+Coming to the UK the wrong way around the world is admittedly a bad idea in terms of latency, but latency isn't bandwidth.
+
+Latency affects bandwidth, in that by default a single TCP connection will send acknowledgments, and this delays the number of outstanding packets on a given link (along with other factors). I suspect this is what you are seeing, go look at any resource on tuning TCP. I think you are seeing the effect of a big world on TCP connections, obviously coming the wrong way round makes the world look bigger.
+
+But if what you need is bandwidth, rather than low latency, there are ways and means to obtain it, either through tuning TCP settings (particularly if you control both ends), opening multiple TCP connections, or using protocols other than TCP.
+
+What are you actually trying to get from Europe than needs more than 5Mbps?
+
+Censorship need not slow the connection down, it can create other problems, but in the UK is it usually implemented by routing allegedly bad IP addresses to a proxy (which can then selectively filter sites, or individual images, or protocols), since those routing decisions happen anyway, the impact is likely to be negligible, at least when no censored IP addresses are involved in a connection. 
+
+That I know this shows that censorship in the UK fails to be transparent, especially when I have to explain to the routing engineers at the ISP involved that the servers in my problematic traceroute is their censorship proxy (sigh).
+
+
+"""]]
