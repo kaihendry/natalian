@@ -28,10 +28,10 @@ month or ~220USD.
 
 # European transits go across North America
 
-Basically if you dealing with Europe, you are at the end of the World. There is
-routing west of Singapore. Lines typically go upto Hong Kong, then Tokyo, then
-across North America. If you get better than 5Mbps to London you are doing VERY
-well.
+Basically if you are dealing with Europe, you are at the end of the World.
+There is no routing west of Singapore. Lines typically go upto Hong Kong, then
+Tokyo, then across North America. If you get better than 5Mbps to London you
+are doing **very well**.
 
 # Contract lengths are usually 24 months
 
@@ -45,8 +45,10 @@ innovation.
 
 # No customer service
 
-Want to complain to someone sane about Packet Loss? Fat chance. No ISP in
-Singapore is on Twitter either and you've got to ask yourself why.
+Want to complain to your Singaporean ISP about Packet Loss on their end
+discovered by <a href="http://en.wikipedia.org/wiki/MTR_(software)">My
+Traceroute</a>? Fat chance. No issue trackers here! No sane email response. No
+ISP in Singapore is on Twitter either and you've got to ask yourself why.
 
 # [Censorship in Singapore](http://en.wikipedia.org/wiki/Censorship_in_Singapore)
 
