@@ -48,8 +48,7 @@ innovation.
 Want to complain to your Singaporean ISP about Packet Loss on their end
 discovered by <a href="http://en.wikipedia.org/wiki/MTR_(software)">My
 Traceroute</a>? Fat chance. No status pages or issue trackers here! No sane
-email response. No ISP in Singapore is on Twitter either and you've got to ask
-yourself why.
+email responses.
 
 # [Censorship in Singapore](http://en.wikipedia.org/wiki/Censorship_in_Singapore)
 
