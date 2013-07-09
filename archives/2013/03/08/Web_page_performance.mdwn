@@ -1,5 +1,6 @@
-Prompted by people writing slow Websites in Singapore, and obvious tools like
-[Google's PageSpeed](https://developers.google.com/speed/pagespeed/) not catching this class of error, allow me to educate you.
+Summary: Cloudflare is not nearly as fast as Cloudfront. Use `httping` to measure performance **NOT ping**.
+
+Update: [Google's PageSpeed](https://developers.google.com/speed/pagespeed/) now capture my bugbear under [Improve server response time](http://s.natalian.org/2013-07-09/1373329523_1366x768.png).
 
 If you serve (the majority of your) customers in say Singapore, your Web server (httpd) should be in Singapore. Understood?
 
