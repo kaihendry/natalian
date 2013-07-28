@@ -1,0 +1,10 @@
+<https://www.irccloud.com/faq>
+
+* No way to export logs
+* No search
+* No way to kill account
+* Quite a heavy Web app
+
+Nice try though. I wish the developers luck.
+
+I'm back to tmux+irssi. Works on IOS pretty well with [prompt](http://panic.com/prompt/).

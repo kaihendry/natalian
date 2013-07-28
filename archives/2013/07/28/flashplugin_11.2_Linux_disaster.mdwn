@@ -1,0 +1,13 @@
+The Adobe Flash plugin for Linux 11.2.202.297 is completely unstable. :(
+
+[Flash crashes in Firefox](http://s.natalian.org/2013-07-28/1374982247_1366x768.png)
+
+[Flash crashes in Chromium](http://s.natalian.org/2013-07-28/1374992068_1366x768.png)
+
+The workaround I use is to use Google's "Pepper Flash":
+
+	google-chrome-dev /opt/google/chrome/PepperFlash/libpepflashplayer.so
+
+Which only works in the Google branded Chromium "google-chrome" product. It
+isn't free software. This is a complete disaster, since Flash used to work fine
+in Linux. Now Flash 11.2 series crashes without fail and has become unusable.
