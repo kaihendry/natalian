@@ -1,0 +1,46 @@
+So I'm attempting to migrate my emails from Gmail to <https://www.fastmail.fm>.
+
+Why? I don't like the privacy implications with Gmail and especially the new
+[Gmail Compose UI](https://twitter.com/NewComposeSux).
+
+So I signed up for a Fastmail trial and the thing that bothers me is that you
+don't get support unless you pay. But I don't want to pay until I know I can
+successfully "on board" to Fastmail.
+
+Sadly [fastmail do not do customer service over twitter](http://greptweet.com/u/kaihendry/#fastmail).
+
+The first annoyance I ran into is the ridiculous default fastmail footer, which I promptly removed.
+
+Next more serious issue is the **Migrate IMAP** UI wasn't friendly. Initially I wrongly used imap.google.com instead of imap.gmail.com and this message confused me:
+
+	Could not connect to remote IMAP server SSL imap.google.com: Invalid
+	argument at /home/mod_perl/hm/ME/ImapMigrate.pm line 269.
+
+The Gmail seemed to refuse access to the account because it came from a New
+York IP. This was eventually resolved, but it took some time. It's a bit
+unnerving that Fastmail is hosted in the US, though I wrote to
+privacy@fastmail.fm asking about it and they say although the "NSA" can
+physically seize their hardware, they would have to go through Australian law
+to access your account through Fastmail.
+
+# After "Migrate IMAP"
+
+So this is a "one-time only action" and it doesn't do anything clever like
+keeping your emails in sync with Gmail. So if I don't switch my forwards, my
+emails will get more out of sync as everyday passes.
+
+While the "Migrate IMAP" is happening, it looks rather strange, emails are
+constantly being injected into the DOM. However once this "one time" process
+finishes, I **can't find my Gmail labels/folders of my mail**!
+
+# No addressbook
+
+I expected Fastmail to migrate the addressbook. But it doesn't. And it doesn't
+seem to gleam email addresses from my Gmail migrated mails. So now I'm
+wondering how to do this.
+
+# Support replies not by email
+
+If you get a reply from support, you will be shocked to see **DO NOT REPLY TO
+THIS EMAIL. REPLIES WILL NOT BE MONITORED.** in their email body. You need to
+click the link to use another form to reply. Weird.

@@ -1,0 +1,28 @@
+In Singapore payment processes are still stuck in 90s. You need to raise an
+invoice.  The payer typically writes a cheque. Cheque is typically sent by post
+which takes two working days. And then it's cashed.
+
+For personal accounts there is a recurring payments feature generally available
+with online banking.
+
+However if you have a business account, recurring payments are generally not
+available with  online banking. YMMV
+
+<a href="http://www.flickr.com/photos/hendry/9454119901/" title="Giro 10SGD setup by Kai Hendry, on Flickr"><img src="http://farm4.staticflickr.com/3744/9454119901_2d86e530c4.jpg" width="500" height="375" alt="Giro 10SGD setup"></a>
+
+You have to go to your banking branch and take out either a:
+
+1. [Standing order](http://www.standardchartered.com.sg/useful-forms/en/_pdf/application-form-for-standing-instruction.pdf)
+2. [Giro](http://www.standardchartered.com.sg/useful-forms/en/_pdf/application-form-for-card-giro.pdf)
+
+The standing order is for a fixed amount, and it costs 10SGD to setup. This makes it unpopular.
+
+The Giro can take a month to setup and you get charged 10SGD for any amendments.
+
+Giro grants the payee the right to debit the payer's account and is typically
+used for things like utility bills which, because they have an unpredictable
+component, can't be settled with a fixed monthly payment set up by the payer.
+
+GIRO payments are instigated by the payer which needs to be a [GIRO billing
+organisation](http://www.dbs.com.sg/personal/payments/additionalinfo/giro/girocorps/default.page),
+not the payee, in order to "pull" money out of the payer's account.
