@@ -15,7 +15,9 @@ successfully "on board" to Fastmail.
 
 Sadly [fastmail do not do customer service over twitter](http://greptweet.com/u/kaihendry/#fastmail).
 
-The first annoyance I ran into is the ridiculous default fastmail footer, which I promptly removed.
+The first annoyance I ran into is the ridiculous default fastmail footer, which
+I promptly removed. To those who have the same footer as defined your From:
+address. You're an idiot.
 
 Next more serious issue is the **Migrate IMAP** UI wasn't friendly. Initially I wrongly used imap.google.com instead of imap.gmail.com and this message confused me:
 
