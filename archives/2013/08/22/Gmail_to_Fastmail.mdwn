@@ -7,6 +7,12 @@ So I signed up for a Fastmail trial and the thing that bothers me is that you
 don't get support unless you pay. But I don't want to pay until I know I can
 successfully "on board" to Fastmail.
 
+	PLEASE NOTE that we can *not* provide technical support to guest and
+	member-level accounts; if you require technical support (other than
+	billing/pre-sales support) with one of these accounts please click
+	Options and then Upgrade Account to upgrade to Full, Enhanced or
+	Premier level.
+
 Sadly [fastmail do not do customer service over twitter](http://greptweet.com/u/kaihendry/#fastmail).
 
 The first annoyance I ran into is the ridiculous default fastmail footer, which I promptly removed.
@@ -19,9 +25,10 @@ Next more serious issue is the **Migrate IMAP** UI wasn't friendly. Initially I 
 The Gmail seemed to refuse access to the account because it came from a New
 York IP. This was eventually resolved, but it took some time. It's a bit
 unnerving that Fastmail is hosted in the US, though I wrote to
-privacy@fastmail.fm asking about it and they say although the "NSA" can
-physically seize their hardware, they would have to go through Australian law
-to access your account through Fastmail.
+privacy@fastmail.fm asking about it and they say although the <abbr
+title="National Security Agency">NSA</abbr> can physically seize their
+hardware, they would have to go through Australian law to access your account
+through Fastmail.
 
 # After "Migrate IMAP"
 
@@ -33,7 +40,7 @@ While the "Migrate IMAP" is happening, it looks rather strange, emails are
 constantly being injected into the DOM. However once this "one time" process
 finishes, I **can't find my Gmail labels/folders of my mail**!
 
-# No addressbook
+# No addressbook migration :/
 
 I expected Fastmail to migrate the addressbook. But it doesn't. And it doesn't
 seem to gleam email addresses from my Gmail migrated mails. So now I'm
@@ -44,3 +51,7 @@ wondering how to do this.
 If you get a reply from support, you will be shocked to see **DO NOT REPLY TO
 THIS EMAIL. REPLIES WILL NOT BE MONITORED.** in their email body. You need to
 click the link to use another form to reply. Weird.
+
+The [password field on support tickets is also quite
+jarring](http://s.natalian.org/2013-08-22/1377141130_1366x768.png) to me. I
+should be logged in already!?
