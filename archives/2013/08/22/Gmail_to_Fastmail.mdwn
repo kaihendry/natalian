@@ -46,7 +46,8 @@ finishes, I **can't find my Gmail labels/folders of my mail**!
 
 I expected Fastmail to migrate the addressbook. But it doesn't. And it doesn't
 seem to gleam email addresses from my Gmail migrated mails. So now I'm
-wondering how to do this.
+wondering how to [move my addressbook from Gmail to
+Fastmail](https://www.fastmail.fm/html/?MLS=SU-*&STZ-TH=b054c299&STZ-TI=363101&u=148c411e&MSignal=TZ-**362785*48d2e245)
 
 # Support replies not by email
 
