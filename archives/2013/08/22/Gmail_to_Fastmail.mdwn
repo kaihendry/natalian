@@ -58,3 +58,7 @@ click the link to use another form to reply. Weird.
 The [password field on support tickets is also quite
 jarring](http://s.natalian.org/2013-08-22/1377141130_1366x768.png) to me. I
 should be logged in already!?
+
+# [Shift+PGDN does not work](https://www.fastmail.fm/html/?MSignal=TZ-**363177*1cde45b9&u=148c411e)
+
+Have to use `shift+alt+down` instead.
