@@ -1,3 +1,5 @@
+<img src="http://natalian.org/archives/2013/08/22/Gmail_to_Fastmail.png" alt="Gmail to Fastmail">
+
 So I'm attempting to migrate my emails from Gmail to <https://www.fastmail.fm>.
 
 Why? I don't like the privacy implications with Gmail and especially the new
@@ -42,12 +44,16 @@ While the "Migrate IMAP" is happening, it looks rather strange, emails are
 constantly being injected into the DOM. However once this "one time" process
 finishes, I **can't find my Gmail labels/folders of my mail**!
 
-# No addressbook migration :/
+# No automatic addressbook migration :/
 
 I expected Fastmail to migrate the addressbook. But it doesn't. And it doesn't
-seem to gleam email addresses from my Gmail migrated mails. So now I'm
-wondering how to [move my addressbook from Gmail to
+seem to gleam email addresses from my Gmail migrated mails. So at first I 
+wondered how best to [move my addressbook from Gmail to
 Fastmail](https://www.fastmail.fm/html/?MLS=SU-*&STZ-TH=b054c299&STZ-TI=363101&u=148c411e&MSignal=TZ-**362785*48d2e245)
+
+I've exported my contacts from <https://www.fastmail.fm/contacts/> using vCard
+standard and imported them into <https://www.fastmail.fm/contacts/>. I have
+something like 6k+ contacts thanks to Gmail's automagic adding of contacts.
 
 # Support replies not by email
 
