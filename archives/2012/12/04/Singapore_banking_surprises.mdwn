@@ -8,15 +8,25 @@ fix your issue, they break something else. True story.
 I'm thinking of starting a blog highlighting the hilariously bad engineering
 going into Singapore made banking Web applications.
 
+# 20SGD per page of statements
+
+Want your statements re-issued because they were sent to the wrong address?
+Missed exporting your PDF statements online every 3 months?
+
+Prepare to fork out 20SGD for every **page** of transactions you need to pass
+onto your accountant, come the company return time.
+
 # No super convenient ATM network
 
-You have to learn where your bank's [ATMs](http://en.wikipedia.org/wiki/Automated_teller_machine) are to avoid charges. Good luck!
+You have to learn where your bank's
+[ATMs](http://en.wikipedia.org/wiki/Automated_teller_machine) are to avoid
+charges. Good luck!
 
 # Domestic transfers take THREE DAYS
 
 Transfer done before 12pm on day 1 will arrive either by 6pm on day 2 or 1pm on
 day 3. That's the one that costs no money. If you want a domestic same day
-transfer it costs $20 per transfer.
+transfer it costs 20SGD per transfer.
 
 It's like going back to the [pre-2008 in the
 UK](http://www.ukpayments.org.uk/faster_payments_service/). Without the 20SGD
@@ -95,6 +105,14 @@ customer. I.e. a very manual task.
 # No automation features with company back account
 
 Want to complete standing order online? You can't. More manual work you need to account for.
+
+# Want your relationship manager to do something?
+
+Write a letter. If you expect you can book an appointment or just breeze into
+the branch hoping to speak to a sane human, be prepared to be turned away.
+Write a letter and don't post it; come back to the branch and drop it off.
+
+Oh it must have a letterhead. Don't have one? Go get one.
 
 # Update: Charges are exorbitant
 
