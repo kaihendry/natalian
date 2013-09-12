@@ -5,9 +5,11 @@ So I'm attempting to migrate my emails from Gmail to <https://www.fastmail.fm>.
 Why? I don't like the privacy implications with Gmail and especially the new
 [Gmail Compose UI](https://twitter.com/NewComposeSux).
 
+# Need some support
+
 So I signed up for a Fastmail trial and the thing that bothers me is that you
-don't get support unless you pay. But I don't want to pay until I know I can
-successfully "on board" to Fastmail.
+apparently don't get support unless you pay. But I don't want to pay until I
+know I can successfully "on board" to Fastmail.
 
 	PLEASE NOTE that we can *not* provide technical support to guest and
 	member-level accounts; if you require technical support (other than
@@ -17,9 +19,13 @@ successfully "on board" to Fastmail.
 
 Sadly [fastmail do not do customer service over twitter](http://greptweet.com/u/kaihendry/#fastmail).
 
+Tbh **fastmail support have come through for me**, despite not paying them yet!
+
+# Annoyances
+
 The first annoyance I ran into is the ridiculous default fastmail footer, which
 I promptly removed. To those who have the same footer as defined your From:
-address. You're an idiot.
+address, you're are creating noise.
 
 Next more serious issue is the **Migrate IMAP** UI wasn't friendly. Initially I wrongly used imap.google.com instead of imap.gmail.com and this message confused me:
 
@@ -44,16 +50,34 @@ While the "Migrate IMAP" is happening, it looks rather strange, emails are
 constantly being injected into the DOM. However once this "one time" process
 finishes, I **can't find my Gmail labels/folders of my mail**!
 
+# Hello Spam
+
+Despite using Fastmail's [Global Bayes
+database](http://s.natalian.org/2013-09-12/1378976530_1366x768.png), I am
+getting a lot of spam.  Annoyingly sometimes from the SAME X-Mail-from:
+address. Fastmail argue after time your personal database will become trained.
+
+It's a shame that somehow when you move away from Gmail you can't bring along
+your own "Bayes database".
+
+# Goodbye filters, hello Rules
+
+Gmail's filters work really well. I love the fact you can test and then apply them on email after the fact.
+
+My experience with [Fastmail's Rules has not been good!](https://www.fastmail.fm/html/?MSignal=TZ-**370133*20ad96a2&u=148c411e) :(
+
 # No automatic addressbook migration :/
 
 I expected Fastmail to migrate the addressbook. But it doesn't. And it doesn't
-seem to gleam email addresses from my Gmail migrated mails. So at first I 
-wondered how best to [move my addressbook from Gmail to
+seem to be able to gleam email addresses from my Gmail migrated mails. So at
+first I wondered how best to [move my addressbook from Gmail to
 Fastmail](https://www.fastmail.fm/html/?MLS=SU-*&STZ-TH=b054c299&STZ-TI=363101&u=148c411e&MSignal=TZ-**362785*48d2e245)
 
 I've exported my contacts from <https://www.fastmail.fm/contacts/> using vCard
 standard and imported them into <https://www.fastmail.fm/contacts/>. I have
 something like 6k+ contacts thanks to Gmail's automagic adding of contacts.
+
+A lot of the contacts could be pruned, but there is no sane UI to do that.
 
 # Support replies not by email
 
@@ -68,3 +92,8 @@ should be logged in already!?
 # [Shift+PGDN does not work](https://www.fastmail.fm/html/?MSignal=TZ-**363177*1cde45b9&u=148c411e)
 
 Have to use `shift+alt+down` instead.
+
+# Things that Fastmail has that Gmail seemingly doesn't
+
+* I find the keyboard shortcuts much more usable on Fastmail
+* You can easily the **oldest emails**, so I can see the first email between my wife and I from Aug 5 2005 in Melbourne!
