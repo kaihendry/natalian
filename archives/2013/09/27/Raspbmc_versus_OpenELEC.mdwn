@@ -1,0 +1,36 @@
+Since I bought a [Raspberry PI](http://www.raspberrypi.org/) from
+<http://12geeks.com/> in Singapore, I was impressed when [Michael
+Cheng](http://coderkungfu.com/) showed me at <http://hackerspace.sg/> you can
+play back videos with it.
+
+Yes! A way to easily watch my downloads on a big screen, which was basically
+impossible to do on an Apple TV.
+
+First I tried [Raspbmc](http://www.raspbmc.com/) when Michael was using. IIUC
+it's a port of [XMBC](http://xbmc.org/) 12.2 "Frodo" to the PI. I quickly found a few issues:
+
+* UI is a bit crap. Why are pictures, movies and TV shows seperated? The mind boggles.
+* IOS7 doesn't work
+* No bug tracker, only the dreaded [Web forum](http://forum.stmlabs.com/)
+* Fails to pick up .srt subtitle, e.g. foo_eng.srt isn't found from foo_.mp4
+* When I try playback videos on my Samsung UE46C6530 TV, the TV loses signal, later solved by a re-install
+* Zeroconf fails to show Web sites, have to add them manually
+
+Later I found <http://openelec.tv/> prompted by a [tweet](https://twitter.com/Raspberry_Pi/status/383330713489002496)
+
+Open Embedded Linux Entertainment Center (OpenELEC) at least has a decent [github powered issue tracker](https://github.com/OpenELEC/OpenELEC.tv/issues). Nonetheless both raspbmc and OpenELEC rely on [XBMC](https://github.com/xbmc/xbmc). Nonetheless OpenELEC's support / IRC channel seems much healthier than the Raspbmc project.
+
+* Annoyingly the Web interface isn't enabled by default, so I had to plug in a USB mouse instead of controlling it from my iPhone
+* HDMI CEC works with my Samsung UE46C6530 TV nicely. Not sure why Raspbmc fell short here.
+* Plugging in a USB stick in the top port causes the PI to reboot, same as Raspbmc
+* Zeroconf does not work like Raspbmc, Web sites aren't shown but can by manually added in the horrible UI
+
+	OpenELEC:~ # avahi-browse -at | grep http
+	+   eth0 IPv4 XBMC (OpenELEC)                               _http._tcp           local
+	+   eth0 IPv4 x220                                          _http._tcp           local
+
+* Doesn't automatically mount ExFAT formatted USB sticks. I found a [fix in a pull](https://github.com/OpenELEC/OpenELEC.tv/pull/2597) but I have no idea when it will be deployed or how to use this particular revision
+* For subtitles, I've discovered the amazing XBMC subtitles that goes off and downloads the subtitles
+* [Zeroconf fails to show Websites](https://github.com/OpenELEC/OpenELEC.tv/issues/2641)
+
+Anyway, both projects stem from XBMC which has a ton of usability issues, however I really like their potential. I wish Chromecast was better supported, but after looking at it briefly, you get the same functionality by just pointing XBMC to the content as suggested in thin this [JSONRPC post](http://forum.stmlabs.com/showthread.php?tid=10690&pid=81594#pid81594).
