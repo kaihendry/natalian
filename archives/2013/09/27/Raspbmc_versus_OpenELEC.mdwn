@@ -16,7 +16,7 @@ it's a port of [XMBC](http://xbmc.org/) 12.2 "Frodo" to the PI. I quickly found 
 * When I try playback videos on my Samsung UE46C6530 TV, the TV loses signal, later solved by a re-install
 * Zeroconf fails to show Web sites, have to add them manually
 
-Later I found <http://openelec.tv/> prompted by a [tweet](https://twitter.com/Raspberry_Pi/status/383330713489002496)
+Later I found <http://openelec.tv/> prompted by a [tweet](https://twitter.com/Raspberry_Pi/status/383330713489002496).
 
 Open Embedded Linux Entertainment Center (OpenELEC) at least has a decent [github powered issue tracker](https://github.com/OpenELEC/OpenELEC.tv/issues). Nonetheless both raspbmc and OpenELEC rely on [XBMC](https://github.com/xbmc/xbmc). Nonetheless OpenELEC's support / IRC channel seems much healthier than the Raspbmc project.
 
@@ -34,3 +34,11 @@ Open Embedded Linux Entertainment Center (OpenELEC) at least has a decent [githu
 * [Zeroconf fails to show Websites](https://github.com/OpenELEC/OpenELEC.tv/issues/2641)
 
 Anyway, both projects stem from XBMC which has a ton of usability issues, however I really like their potential. I wish Chromecast was better supported, but after looking at it briefly, you get the same functionality by just pointing XBMC to the content as suggested in thin this [JSONRPC post](http://forum.stmlabs.com/showthread.php?tid=10690&pid=81594#pid81594).
+
+I can't help but think though, if it was easier to connect my laptop or desktop
+to my big screen TV, it would probably be a better solution overall. Basically
+I like to flick through my photo collection at lightning speed. You need SSD,
+fast CPU and latest codec support like that for WebP. Nonethless I still think
+the PI presents a pretty good low cost dedicated media solution. It's better
+than the Apple TV, if you can live without Airplay Mirroring (which is so damn
+nice tbh).
