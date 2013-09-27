@@ -33,7 +33,11 @@ Open Embedded Linux Entertainment Center (OpenELEC) at least has a decent [githu
 * For subtitles, I've discovered the amazing XBMC subtitles that goes off and downloads the subtitles
 * [Zeroconf fails to show Websites](https://github.com/OpenELEC/OpenELEC.tv/issues/2641)
 
-Anyway, both projects stem from XBMC which has a ton of usability issues, however I really like their potential. I wish Chromecast was better supported, but after looking at it briefly, you get the same functionality by just pointing XBMC to the content as suggested in thin this [JSONRPC post](http://forum.stmlabs.com/showthread.php?tid=10690&pid=81594#pid81594).
+Anyway, both projects stem from XBMC which has a ton of usability issues,
+however I really like their potential. I wish Chromecast was better supported,
+but after looking at it briefly, you get the same functionality by just
+pointing XBMC to the content as suggested in this [JSONRPC
+post](http://forum.stmlabs.com/showthread.php?tid=10690&pid=81594#pid81594).
 
 I can't help but think though, if it was easier to connect my laptop or desktop
 to my big screen TV, it would probably be a better solution overall. Basically
