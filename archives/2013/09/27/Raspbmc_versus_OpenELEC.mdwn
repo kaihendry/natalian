@@ -42,7 +42,8 @@ post](http://forum.stmlabs.com/showthread.php?tid=10690&pid=81594#pid81594).
 I can't help but think though, if it was easier to connect my laptop or desktop
 to my big screen TV, it would probably be a better solution overall. Basically
 I like to flick through my photo collection at lightning speed. You need SSD,
-fast CPU and latest codec support like that for WebP. Nonethless I still think
-the PI presents a pretty good low cost dedicated media solution. It's better
-than the Apple TV, if you can live without Airplay Mirroring (which is so damn
-nice tbh).
+fast CPU, a [suckless image viewer](https://github.com/muennich/sxiv) and the
+latest codec support like that for WebP. Nonethless I still think the PI
+presents a pretty good low cost dedicated media solution. It's better than the
+Apple TV, if you can live without Airplay Mirroring (which is so damn nice
+tbh).
