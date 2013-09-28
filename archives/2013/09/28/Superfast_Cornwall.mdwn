@@ -37,7 +37,7 @@ Putting out ISP cost at 35GBP a month. This is about twice the cost of ADSL when
 
 Looking around, the monopoly BT offers [BT infinity for 15GBP](http://www.productsandservices.bt.com/products/broadband/packages) a month, but:
 
-* I do not want to support a monopoly
+* I do not want to support the BT monopoly
 * BT are probably getting a special price from BT Openreach
 * BT product is subsidised by the fact that they usually manage to sell you loads of other crap too
 * Dynamic IP / no IPv6, so it's useless if you want to have a home cloud server
@@ -63,5 +63,5 @@ something is earnestly done about [broadband in
 Britain](http://webconverger.org/blog/entry/UK_Internet/). There are still many
 villages with mobile connectivity, let alone broadband. Considering the costs
 to consumers, together with 100s of millions of European funding support to aid
-the BT monopoly, it's a [scandal and I'm not the only one to see thinks
+the BT monopoly, it's a [scandal and I'm not the only one to think
 so](http://www.bbc.co.uk/news/technology-24227096).
