@@ -1,6 +1,6 @@
 Pre-2013, at <http://www.prazefarm.co.uk/> we had an ADSL connection.
 
-The very best connection we could achieve is 6.26Mb/s down and 0.36Mb/s up.
+The very best broadband speed we could achieve is 6.26Mb/s down and 0.36Mb/s up.
 It's useless for big uploads.
 
 If you ignore the BT line rental tax of ~150GBP a year, we were paying about
@@ -30,10 +30,16 @@ up](http://s.natalian.org/2013-04-14/1365979405_1366x768.png) speeds.
 
 Our internet speed just about doubled, however so did our **costs**. Ignoring the BT line rental tax:
 
-* Home::1 Internet Access is now 25GBP
-* Home::1 Add-On: Fibre to the cabinet line, for having Superfast Internet costs 10GBP extra a month
+* [Home::1 Internet Access](http://www.aa.net.uk/broadband-home1.html) is now 25GBP
+* Home::1 Add-On: <abbr title="Fibre to the Cabinet">FTTC</abbr> line, for having Superfast Internet costs **10GBP extra a month**
 
 Putting out ISP cost at 35GBP a month. This is about twice the cost of ADSL when you factor in the 100GBP installation cost.
+
+Looking around, the monopoly BT offers [BT infinity for 15GBP](http://www.productsandservices.bt.com/products/broadband/packages) a month, but:
+* I do not want to support a monopoly
+* BT are probably getting a special price from BT Openreach
+* BT product is subsidised by the fact that they usually manage to sell you loads of other crap too
+* Dynamic IP / no IPv6, so it's useless if you want to have a home cloud server
 
 To add to my woes the connection seems unstable at times. We've called out BT
 several times who just run a line check and leave. They make no effort to deal
@@ -47,8 +53,8 @@ I've spoken to directly with <http://www.cornwalldevelopmentcompany.co.uk/> and
 they say "Having looked at your location this is the sort of speed that I would
 expect over that distance of copper." I can't help but think this technology is
 inappropriate for rural settings since you can't expect people to live close to
-a cabinet! If you are lucky enough to live close to a cabinet, you are probably
-laughing, otherwise this technology is not fit for purpose.
+a cabinet! If you are lucky enough to live very close to a cabinet, you are
+probably laughing, otherwise this **technology is not fit for purpose**.
 
 I intend on complaining and participating in [broadband
 studies](http://s.natalian.org/2013-09-28/1380371434_1366x768.png) until
