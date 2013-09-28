@@ -36,13 +36,14 @@ Our internet speed just about doubled, however so did our **costs**. Ignoring th
 Putting out ISP cost at 35GBP a month. This is about twice the cost of ADSL when you factor in the 100GBP installation cost.
 
 Looking around, the monopoly BT offers [BT infinity for 15GBP](http://www.productsandservices.bt.com/products/broadband/packages) a month, but:
+
 * I do not want to support a monopoly
 * BT are probably getting a special price from BT Openreach
 * BT product is subsidised by the fact that they usually manage to sell you loads of other crap too
 * Dynamic IP / no IPv6, so it's useless if you want to have a home cloud server
 
-To add to my woes the connection seems unstable at times. We've called out BT
-several times who just run a line check and leave. They make no effort to deal
+To add to my woes our new FTTC connection seems unstable at times. We've called out BT
+several times via AAISP who just run a line check and leave. They make no effort to deal
 with the instability or slow speeds. One engineer speculated that the copper
 wires running from the cabinet are probably in bad shape, however BT will not
 work on them.
