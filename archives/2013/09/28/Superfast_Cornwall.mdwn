@@ -1,11 +1,11 @@
-Pre-2013, at <http://www.prazefarm.co.uk/> we had an ADSL connection.
+Pre-2013, at <http://www.prazefarm.co.uk/> we had a "20CN" ADSL connection.
 
-The very best broadband speed we could achieve is 6.26Mb/s down and 0.36Mb/s up.
-It's useless for big uploads.
+The very best broadband speed we could achieve is 6.26Mb/s down and 0.36Mb/s
+up.  It's useless for uploads.
 
 If you ignore the BT line rental tax of ~150GBP a year, we were paying about
-20GBP a month for Internet via our ISP <a href="http://aaisp.net/"><abbr title="Andrews &
-Arnold">AA</abbr></a>.
+20GBP a month for Internet via our esteemed ISP <a href="http://aaisp.net/"><abbr title="Andrews &
+Arnold">A&A</abbr></a>.
 
 <img src="http://www.speedtest.net/result/1349407734.png">
 
@@ -13,8 +13,7 @@ Arnold">AA</abbr></a>.
 
 <a href="http://www.flickr.com/photos/hendry/8636259701/" title="ERDF Broadband infrastructure in Cornwall by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8540/8636259701_4ec8d0de3e.jpg" width="375" height="500" alt="ERDF Broadband infrastructure in Cornwall"></a>
 
-After a big nervous wait, we finally got <abbr title="Fibre to the
-Cabinet">FTTC</abbr> about a mile away from our property. Much closer than the
+After a long nervous wait, we finally got <abbr title="Fibre to the Cabinet">FTTC</abbr> about a mile away from our property. Much closer than the
 previous [Cardinham
 exchange](http://www.flickr.com/photos/16105436@N00/5652770045/in/photolist-9BvVAv-eaa68k).
 
@@ -22,27 +21,27 @@ The cost of the upgrade was 100GBP with a 12 month minimum contract and we
 received [two new modems](http://www.flickr.com/photos/hendry/8676832125/). My
 heart sank when we got the first new readings of our Superfast line. About
 10Mb/sec down and 0.5Mb/s up. Useless for uploads. I thought this must be a
-horrible error, since these new FTTC readings are a fraction of the predicted
+horrible error, since these new <abbr title="Fibre to the Cabinet">FTTC</abbr> readings are a fraction of the predicted
 "upto" [24.1 Mb/s down and 5.6Mb/s
 up](http://s.natalian.org/2013-04-14/1365979405_1366x768.png) speeds.
 
 <img src="http://speedtest.net/result/2684978451.png">
 
-Our internet speed just about doubled, however so did our **costs**. Ignoring the BT line rental tax:
+Our internet speed just about doubled, however so did our **costs**. Ignoring the BT line rental tax of ~150GBP:
 
 * [Home::1 Internet Access](http://www.aa.net.uk/broadband-home1.html) is now 25GBP
 * Home::1 Add-On: <abbr title="Fibre to the Cabinet">FTTC</abbr> line, for having Superfast Internet costs **10GBP extra a month**
 
-Putting out ISP cost at 35GBP a month. This is about twice the cost of ADSL when you factor in the 100GBP installation cost.
+Putting our Internet cost at 35GBP a month. This is about twice the cost of ADSL when you factor in the 100GBP installation cost.
 
 Looking around, the monopoly BT offers [BT infinity for 15GBP](http://www.productsandservices.bt.com/products/broadband/packages) a month, but:
 
 * I do not want to support the BT monopoly
 * BT are probably getting a special price from BT Openreach
 * BT product is subsidised by the fact that they usually manage to sell you loads of other crap too
-* Dynamic IP / no IPv6, so it's useless if you want to have a home cloud server
+* Dynamic IP / no IPv6, so BT's product is useless if you want to have a home cloud server
 
-To add to my woes our new FTTC connection seems unstable at times. We've called out BT
+To add to my woes our new <abbr title="Fibre to the Cabinet">FTTC</abbr> connection seems unstable at times. We've called out BT
 several times via AAISP who just run a line check and leave. They make no effort to deal
 with the instability or slow speeds. One engineer speculated that the copper
 wires running from the cabinet are probably in bad shape, however BT will not
