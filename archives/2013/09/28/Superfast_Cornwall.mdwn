@@ -1,6 +1,6 @@
 Pre-2013, at <http://www.prazefarm.co.uk/> we had a "20CN" ADSL connection.
 
-The very best broadband speed we could achieve is 6.26Mb/s down and 0.36Mb/s
+The very best broadband speed we could achieve was 6.26Mb/s down and 0.36Mb/s
 up.  It's useless for uploads.
 
 If you ignore the BT line rental tax of ~150GBP a year, we were paying about
