@@ -97,3 +97,5 @@ Have to use `shift+alt+down` instead.
 
 * I find the keyboard shortcuts much more usable on Fastmail
 * You can easily the **oldest emails**, so I can see the first email between my wife and I from Aug 5 2005 in Melbourne!
+* The [Fastmail.fm blog](http://blog.fastmail.fm/) is a very good read
+* Their [servers are in the US](http://blog.fastmail.fm/2013/10/07/fastmails-servers-are-in-the-us-what-this-means-for-you/), but they are looking into ways of offering their service from non-US servers

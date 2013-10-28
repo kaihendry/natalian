@@ -106,13 +106,25 @@ customer. I.e. a very manual task.
 
 Want to complete standing order online? You can't. More manual work you need to account for.
 
-# Want your relationship manager to do something?
+# Want your "relationship manager" to do something?
 
 Write a letter. If you expect you can book an appointment or just breeze into
 the branch hoping to speak to a sane human, be prepared to be turned away.
 Write a letter and don't post it; come back to the branch and drop it off.
 
 Oh it must have a letterhead. Don't have one? Go get one.
+
+# Good luck setting up a GIRO!
+
+If you want to setup a GIRO so that a supplier can take a certain amount of
+money out of your account every month, the process is kafka-esque.
+
+Hopefully it won't be like my experience. Fill in form with Ipad. Get it
+rejected since the signature must be inked.
+
+Go find a print service to print form. Finally send off the filled in form and
+inked signature. Wait. Ask bank what's happened to the GIRO. Wait some more.
+Eventually bank says the GIRO must be lost. :(
 
 # Update: Charges are exorbitant
 
