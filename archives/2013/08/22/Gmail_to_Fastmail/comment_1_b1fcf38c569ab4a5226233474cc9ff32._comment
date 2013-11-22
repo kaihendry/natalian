@@ -1,0 +1,27 @@
+[[!comment format=mdwn
+ username="http://jamiek.it/"
+ nickname="Jamie"
+ subject="comment 1"
+ date="2013-11-22T15:05:32Z"
+ content="""
+I made the switch and seemed to have much less trouble than you.
+
+> No automatic addressbook migration
+
+I seem to remember reading somewhere that they are working on this, I think there's some standard which will allow them to integrate with smart phone/exchange servers..?
+
+> I can't find my Gmail labels/folders of my mail
+
+This is odd, all mine came through. I wonder if it's because Gmail uses labels where each mail can have multiple labels and FM uses folders where you can only have one per email.
+
+> if I don't switch my forwards, my emails will get more out of sync as everyday passes.
+
+Not sure what you mean by this, if you set up FM to fetch (ie, no forward involved) your Gmail emails I don't see a problem.
+
+A few issues that I have with FM that you haven't mentioned:
+
+* You can setup alternate logins, but you can't remove/disable your main username/password and force the use of the alternate logins, like you can force two step authentication with Gmail.
+* It does seem a bit silly that you have to manually setup the bayes learning of spam and non-spam, once I'd done this my spam filtering was much improved, but I don't get why this isn't done automatically.
+* There's no \"pinned\" view, like Gmail's starred view. The best you can do is set pinned to the top, but then you can't see your new mail, and this is slow.
+* By default messages sent using their SMTP server [will not get added to your Sent folder](http://www.emaildiscussions.com/showthread.php?t=67315).
+"""]]
