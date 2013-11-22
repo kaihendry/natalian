@@ -17,8 +17,6 @@ know I can successfully "on board" to Fastmail.
 	Options and then Upgrade Account to upgrade to Full, Enhanced or
 	Premier level.
 
-Sadly [fastmail do not do customer service over twitter](http://greptweet.com/u/kaihendry/#fastmail).
-
 Tbh **fastmail support have come through for me**, despite not paying them yet!
 
 # Annoyances
@@ -60,11 +58,13 @@ address. Fastmail argue after time your personal database will become trained.
 It's a shame that somehow when you move away from Gmail you can't bring along
 your own "Bayes database".
 
+Update: After using Fastmail for more than a month now, I can honestly say it's improved a lot, but not quite as perfect as Gmail... yet.
+
 # Goodbye filters, hello Rules
 
 Gmail's filters work really well. I love the fact you can test and then apply them on email after the fact.
 
-My experience with [Fastmail's Rules has not been good!](https://www.fastmail.fm/html/?MSignal=TZ-**370133*20ad96a2&u=148c411e) :(
+My experience with [Fastmail's Rules has not been good!](https://www.fastmail.fm/html/?MSignal=TZ-**370133*20ad96a2&u=148c411e) :( Gmail's UX is better.
 
 # No automatic addressbook migration :/
 
@@ -83,15 +83,46 @@ A lot of the contacts could be pruned, but there is no sane UI to do that.
 
 If you get a reply from support, you will be shocked to see **DO NOT REPLY TO
 THIS EMAIL. REPLIES WILL NOT BE MONITORED.** in their email body. You need to
-click the link to use another form to reply. Weird.
+click the link to use another form to reply. *Face palm*
 
 The [password field on support tickets is also quite
 jarring](http://s.natalian.org/2013-08-22/1377141130_1366x768.png) to me. I
 should be logged in already!?
 
+Furthermore tickets are archived after 30 DAYS. Sorry for all the broken links. :(
+
 # [Shift+PGDN does not work](https://www.fastmail.fm/html/?MSignal=TZ-**363177*1cde45b9&u=148c411e)
 
 Have to use `shift+alt+down` instead.
+
+# Mail app push does not work
+
+<blockquote>
+Push on iOS is currently only possible using ActiveSync, a proprietary protocol
+from Microsoft that you have to pay licensing fees to use. We don't currently
+support ActiveSync and have no immediate plans to do so.
+
+This is all really annoying, because there is a way for IMAP to support push,
+but Apple don't want to support it. Additionally Apple apparently have their
+own proprietary IMAP extension to do IMAP push
+(http://www.dovecot.org/list/dovecot/2012-August/067682.html), but it's not
+officially documented so attempting to use it might just end up in our servers
+being blocked.
+
+So at the moment, I'm afraid a 3rd party service is required to do true email push:
+
+<http://blog.fastmail.fm/2009/07/20/nuevasync-com-imap-push-email-phones/>
+
+Having said all that, we're looking at another option, which is to create our
+own FastMail app which could support our own push protocol. Hopefully we'll
+have something by the end of the year.
+</blockquote>
+
+# Fastmail Notes are not compatible with notes from IOS
+
+The "Notes" on the iPhone is a different thing and is not related to our notes
+in the webinterface. At the moment, we don't support the "Notes" sync feature
+on the iPhone. Its also not something we plan to support in the near future.
 
 # Things that Fastmail has that Gmail seemingly doesn't
 
@@ -99,3 +130,4 @@ Have to use `shift+alt+down` instead.
 * You can easily the **oldest emails**, so I can see the first email between my wife and I from Aug 5 2005 in Melbourne!
 * The [Fastmail.fm blog](http://blog.fastmail.fm/) is a very good read
 * Their [servers are in the US](http://blog.fastmail.fm/2013/10/07/fastmails-servers-are-in-the-us-what-this-means-for-you/), but they are looking into ways of offering their service from non-US servers
+* Fastmail listens to you. Their support mechanism could be better and they also could be better with [twitter support](http://greptweet.com/u/fastmailfm/fastmailfm.txt) too
