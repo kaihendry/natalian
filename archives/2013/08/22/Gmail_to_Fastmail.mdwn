@@ -97,26 +97,26 @@ Have to use `shift+alt+down` instead.
 
 # Mail app push does not work
 
-<blockquote>
-Push on iOS is currently only possible using ActiveSync, a proprietary protocol
-from Microsoft that you have to pay licensing fees to use. We don't currently
-support ActiveSync and have no immediate plans to do so.
+From Fastmail's support:
 
-This is all really annoying, because there is a way for IMAP to support push,
-but Apple don't want to support it. Additionally Apple apparently have their
-own proprietary IMAP extension to do IMAP push
-(http://www.dovecot.org/list/dovecot/2012-August/067682.html), but it's not
-officially documented so attempting to use it might just end up in our servers
-being blocked.
+	Push on iOS is currently only possible using ActiveSync, a proprietary protocol
+	from Microsoft that you have to pay licensing fees to use. We don't currently
+	support ActiveSync and have no immediate plans to do so.
 
-So at the moment, I'm afraid a 3rd party service is required to do true email push:
+	This is all really annoying, because there is a way for IMAP to support push,
+	but Apple don't want to support it. Additionally Apple apparently have their
+	own proprietary IMAP extension to do IMAP push
+	(http://www.dovecot.org/list/dovecot/2012-August/067682.html), but it's not
+	officially documented so attempting to use it might just end up in our servers
+	being blocked.
 
-<http://blog.fastmail.fm/2009/07/20/nuevasync-com-imap-push-email-phones/>
+	So at the moment, I'm afraid a 3rd party service is required to do true email push:
 
-Having said all that, we're looking at another option, which is to create our
-own FastMail app which could support our own push protocol. Hopefully we'll
-have something by the end of the year.
-</blockquote>
+	<http://blog.fastmail.fm/2009/07/20/nuevasync-com-imap-push-email-phones/>
+
+	Having said all that, we're looking at another option, which is to create our
+	own FastMail app which could support our own push protocol. Hopefully we'll
+	have something by the end of the year.
 
 # Fastmail Notes are not compatible with notes from IOS
 
