@@ -39,15 +39,17 @@ Europe](http://www.chyp.com/media/blog-entry/did-you-celebrate-d-1-day).
 
 <a href="http://www.flickr.com/photos/hendry/8237486310/" title="1.34SGD for paying by direct debit WTF??!? by Kai Hendry, on Flickr"><img src="http://farm9.staticflickr.com/8210/8237486310_3c8c5b0d7a_m.jpg" width="180" height="240" alt="1.34SGD for paying by direct debit WTF??!?"></a>
 
-There is a **charge** for using you card. For example it can be charged 10% if you hand over your card to the taxi driver.
+There is a **charge** for using you card. For example it can be charged 10% if
+you hand over your card to the taxi driver.
 
 One way to lessen the charge is to ask to pay by
 [NETS](http://www.nets.com.sg/), whereby you are only charged 30 cents. Compare
 that to Europe where debit cards incur no costs, so don't make assumptions.
 
 Evidently merchants are confused whether you want to be charged by the more
-expensive direct debit or NETS. Ask for NETS, then the merchant will probably
-demand cash since remember it takes **3 days** for them to get their money from
+expensive direct debit or NETS. ALWAYS ask for NETS, then the merchant will
+probably demand cash since remember it takes **3 days** for them to get their
+money from
 [NETS](http://en.wikipedia.org/wiki/Network_for_Electronic_Transfers).
 
 # Confusion over bank codes
@@ -126,6 +128,9 @@ Go find a print service to print form. Finally send off the filled in form and
 inked signature. Wait. Ask bank what's happened to the GIRO. Wait some more.
 Eventually bank says the GIRO must be lost. :(
 
+Update: After resubmitting the GIRO, Standard Chartered says their GIRO form
+changed last month and I need to re-submit. :( OMFG
+
 # Update: Charges are exorbitant
 
 I've since found out the 100SGD charge above (charges are opaque) was for
@@ -141,4 +146,4 @@ you need to attend **in person** at a counter in Clarke Quay area, where they
 charge something like 5SGD instead of the online bank's 100SGD to get your
 money transferred.
 
-I'm shocked.
+BEWARE OF SINGAPOREAN BANKS
