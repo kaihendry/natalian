@@ -25,12 +25,12 @@ The first annoyance I ran into is the ridiculous default fastmail footer, which
 I promptly removed. To those who have the same footer as defined your From:
 address, you're are creating noise.
 
-Next more serious issue is the **Migrate IMAP** UI wasn't friendly. Initially I wrongly used imap.google.com instead of imap.gmail.com and this message confused me:
+A more serious issue is the **Migrate IMAP** UI wasn't friendly. Initially I wrongly used imap.google.com instead of imap.gmail.com and this message confused me:
 
 	Could not connect to remote IMAP server SSL imap.google.com: Invalid
 	argument at /home/mod_perl/hm/ME/ImapMigrate.pm line 269.
 
-The Gmail seemed to refuse access to the account because it came from a New
+The Gmail server seemed to refuse access to the account because it came from a New
 York IP. This was eventually resolved, but it took some time. It's a bit
 unnerving that Fastmail is hosted in the US, though I wrote to
 privacy@fastmail.fm asking about it and they say although the <abbr
@@ -95,7 +95,7 @@ Furthermore tickets are archived after 30 DAYS. Sorry for all the broken links. 
 
 Have to use `shift+alt+down` instead.
 
-# Mail app push does not work
+# Mail iOS app push does not work
 
 Btw their [mobile Web client](http://blog.fastmail.fm/2013/10/21/faster-than-native-introducing-fastmails-new-mobile-web-interface/) is pretty damn good!
 
@@ -130,7 +130,7 @@ on the iPhone. Its also not something we plan to support in the near future.
 # Things that Fastmail has that Gmail seemingly doesn't
 
 * I find the keyboard shortcuts much more usable on Fastmail
-* You can easily the **oldest emails**, so I can see the first email between my wife and I from Aug 5 2005 in Melbourne!
+* You can easily find the **oldest emails**, so I can see the first email between my wife and I from Aug 5 2005 in Melbourne!
 * The [Fastmail.fm blog](http://blog.fastmail.fm/) is a very good read
 * Their [servers are in the US](http://blog.fastmail.fm/2013/10/07/fastmails-servers-are-in-the-us-what-this-means-for-you/), but they are looking into ways of offering their service from non-US servers
 * Fastmail listens to you. However their support mechanism could be better and they also could be better with [twitter support](http://greptweet.com/u/fastmailfm/fastmailfm.txt) too.
