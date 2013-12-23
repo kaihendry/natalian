@@ -13,7 +13,7 @@ I guess they are more "affordable" now then ever, though the deal breaker for me
 
 The mouse keys feel terrible. I've always disabled the Trackpad, preferring
 instead the [nipple](https://en.wikipedia.org/wiki/Pointing_stick), and now the
-buttons are part of the Trackpad. They feel terrible.
+buttons are part of the Trackpad. They feel awkward.
 
 The once famed keyboard has changed to a cheap [chiclet
 style](https://en.wikipedia.org/wiki/Chiclet_keyboard) keyboard.
@@ -22,7 +22,7 @@ Astonishingly Lenovo changed the power connector AGAIN:
 
 <iframe src="http://www.flickr.com/photos/hendry/11509452945/player/" width="375" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-Old spare Thinkpad chargers can be thrown away.
+Old spare Thinkpad chargers can be thrown away...
 
 # What next for running Archlinux?
 
