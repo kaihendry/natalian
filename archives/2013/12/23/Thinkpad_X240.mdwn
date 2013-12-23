@@ -11,7 +11,7 @@ I guess they are more "affordable" now then ever, though the deal breaker for me
 
 <iframe src="http://www.flickr.com/photos/hendry/11509481734/player/" width="500" height="375" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-The mouse keys feel terrible. I've always disable the Trackpad, preferring
+The mouse keys feel terrible. I've always disabled the Trackpad, preferring
 instead the [nipple](https://en.wikipedia.org/wiki/Pointing_stick), and now the
 buttons are part of the Trackpad. They feel terrible.
 
@@ -22,11 +22,15 @@ Astonishingly Lenovo changed the power connector AGAIN:
 
 <iframe src="http://www.flickr.com/photos/hendry/11509452945/player/" width="375" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
+Old spare Thinkpad chargers can be thrown away.
+
 # What next for running Archlinux?
 
 Options are pretty thin:
 
 I heard good things about the Samsung Series 9, but then Samsung annoyingly
 changed the name to ATIV Book 9 Plus and added a touch screen. Really unsure.
+No track point.
 
-Macbook Air, then I'll have to juggle keeping a version of MacOSX running to do firmware updates.
+Macbook Air, then I'll have to juggle keeping a version of MacOSX running to do
+firmware updates.
