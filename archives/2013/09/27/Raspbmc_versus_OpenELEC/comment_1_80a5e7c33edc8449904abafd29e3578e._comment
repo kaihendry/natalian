@@ -1,0 +1,17 @@
+[[!comment format=mdwn
+ username="https://www.google.com/accounts/o8/id?id=AItOawlrIcLSGCeZZFPiSVuKanoa84AnEoQ33To"
+ nickname="Alex"
+ subject="comment 1"
+ date="2013-12-30T09:08:23Z"
+ content="""
+>Plugging in a USB stick in the top port causes the PI to reboot, same as Raspbmc
+
+the problem is not the OS, but the hardware. when you plug a device to RPI it reboots because of the voltage drop.
+
+you'll need a powered usb hub to avoid such problems.
+
+I stick to openelec, because it worked out of box.
+
+Regards, 
+Alex
+"""]]
