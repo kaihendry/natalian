@@ -2,12 +2,12 @@ Since living in Europe most of my adult life, I've enjoyed free of cost
 emergency medical care.
 
 Since I have a dependent pass in Singapore, I'm looking into the options.
-Normally expats enjoy free medical care via their workplace, though since I'm a
-Entrepreneur. Different story of pain.
+Normally expatriates enjoy free medical care via their workplace, though since
+I'm a Entrepreneur. Different story of pain.
 
 <http://www.expatinsurance.com.sg/> seem to be the experts and conveniently
 located in 20 Upper Circular Road where <abbr title="Ministry of
-Manpower">MOM</a> is, the guys that issue passes.
+Manpower">MOM</abbr> is, the Singapore government department that issue passes.
 
 Travel insurance plans aside, the two options they proposed were:
 
@@ -15,7 +15,7 @@ Travel insurance plans aside, the two options they proposed were:
 * MSIG Platinum for 1080SGD
 
 I prefer [MSIG](https://www.msig.com.sg/) so far, since it's cheaper, though
-the basic outpatient service all have a 100SGD excess for course of treatment.
+the basic outpatient service all have a 100SGD excess for a _course of treatment_.
 Tbh seeing an **expensive** doctor in Singapore privately costs no more than
 100SGD.
 
@@ -30,7 +30,7 @@ looking through several only a fraction offer personal medical insurance.
 I learnt about the [International Medical
 Centre](http://www.imc-healthcare.com/) via some AXA travel related literature.
 Their cashless system like IIRC the South African system MediCare sounded VERY
-ATTRACTIVE BECAUSE IT IS SUPER CONVENIENT. On their
+ATTRACTIVE because it is super convenient. On their
 <http://www.imc-healthcare.com/insurance> page they indicate other insurers as:
 
 * [Bupa](http://www.bupa-medical.com/)
@@ -43,4 +43,4 @@ I will try make enquiries with them and their awful websites, if they offer onli
 I'm a bit confused by the utility of <abbr title=International Mediacal
 Centre>IMC</abbr> since Singaporean hospitals and polyclinics are upto a
 Western standard. <abbr title=International Mediacal Centre>IMC</abbr> seem to
-target just expats which sounds a bit inefficient.
+target just expats which sounds worryingly inefficient.
