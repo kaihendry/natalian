@@ -11,13 +11,13 @@ Manpower">MOM</abbr> is, the Singapore government department that issue passes.
 
 Travel insurance plans aside, the two options they proposed were:
 
-* AXA Elite for 1342SGD
-* MSIG Platinum for 1080SGD
+* AXA Elite for 1342SGD annual premium
+* MSIG Platinum for 1080SGD annual premium
 
 I prefer [MSIG](https://www.msig.com.sg/) so far, since it's cheaper, though
-the basic outpatient service all have a 100SGD excess for a _course of treatment_.
-Tbh seeing an **expensive** doctor in Singapore privately costs no more than
-100SGD.
+the basic outpatient service all have a 100SGD excess (deductible claim) for a
+_course of treatment_.  Tbh seeing an **expensive** doctor in Singapore
+privately costs no more than 100SGD.
 
 A big annoying down side for both options is that they require **Claims filing
 by Post**. A paper nightmare procedure if you want to claim back any money.
@@ -29,8 +29,8 @@ looking through several only a fraction offer personal medical insurance.
 
 I learnt about the [International Medical
 Centre](http://www.imc-healthcare.com/) via some AXA travel related literature.
-Their cashless system like IIRC the South African system MediCare sounded VERY
-ATTRACTIVE because it is super convenient. On their
+Their cashless system like IIRC the South African system MediCare **card**
+sounded VERY ATTRACTIVE because it is super convenient. On their
 <http://www.imc-healthcare.com/insurance> page they indicate other insurers as:
 
 * [Bupa](http://www.bupa-medical.com/)
