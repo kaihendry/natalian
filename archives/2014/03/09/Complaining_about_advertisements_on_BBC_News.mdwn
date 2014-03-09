@@ -1,0 +1,45 @@
+<video controls width=640 height=360>
+<source src=http://r2d2.webconverger.org/2014-02-22/BBC_news_crashing_ads.mp4 type=video/mp4>
+</video>
+
+So I complained online a couple of weeks ago about the crashing flash and
+advertisements while trying to watch BBC News videos in Singapore.
+
+I didn't seem to get a copy of my original complaint, but I did make a video above.
+
+Making a complaint on BBC news Website is a bit too hard IMHO. Had to go
+through a myriad of hoop jumping forms.
+
+I got a reply on March 7th:
+
+<blockquote>
+Dear Mr Hendry
+
+Reference CAS-2586580-DKLK6N
+
+Thanks for contacting us about video advertising before a video clip.
+
+We are currently seeking to improve our delivery system to limit users’ exposure to repetitive advertising. We are also examining technical means of ensuring short clips are preceded by short adverts or no advertising at all.
+
+I appreciate your concern and can assure you that the issue is being addressed.
+
+I very much hope you will continue to enjoy using our website.
+
+Thanks once again for takign the time to
+
+Kind Regards
+
+Marie-Therese Gibson
+
+BBC Audience Services
+
+www.bbc.co.uk/faqs/
+
+NB This is sent from an outgoing account only which is not monitored. You cannot reply to this email address but if necessary please contact us via our webform quoting any case number we provided.
+</blockquote>
+
+After replying to <bbc_faq_website@bbc.co.uk>, asking for my original
+complaint, I got a [Undelivered Mail Returned to
+Sender](http://s.natalian.org/2014-03-09/bbc_faq_reply_fail.txt).
+
+Could be a LOT better BBC. :/
