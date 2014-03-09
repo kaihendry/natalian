@@ -12,7 +12,7 @@ through a myriad of hoop jumping forms.
 
 I got a reply on March 7th:
 
-<blockquote>
+<pre>
 Dear Mr Hendry
 
 Reference CAS-2586580-DKLK6N
@@ -36,10 +36,12 @@ BBC Audience Services
 www.bbc.co.uk/faqs/
 
 NB This is sent from an outgoing account only which is not monitored. You cannot reply to this email address but if necessary please contact us via our webform quoting any case number we provided.
-</blockquote>
+</pre>
 
 After replying to <bbc_faq_website@bbc.co.uk>, asking for my original
 complaint, I got a [Undelivered Mail Returned to
 Sender](http://s.natalian.org/2014-03-09/bbc_faq_reply_fail.txt).
+
+I have no idea how to find the **webform** again. _Sigh_
 
 Could be a LOT better BBC. :/
