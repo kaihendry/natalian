@@ -22,7 +22,9 @@ You have to learn where your bank's
 [ATMs](http://en.wikipedia.org/wiki/Automated_teller_machine) are to avoid
 charges. Good luck!
 
-# Domestic transfers take THREE DAYS
+# Domestic transfers <strike>take THREE DAYS</strike> are INSTANT SINCE 2014!
+
+Update: <https://twitter.com/kaihendry/status/445401703894892544>
 
 Transfer done before 12pm on day 1 will arrive either by 6pm on day 2 or 1pm on
 day 3. That's the one that costs no money. If you want a domestic same day
