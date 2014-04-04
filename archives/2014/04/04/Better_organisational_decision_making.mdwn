@@ -1,0 +1,50 @@
+It's bother me that last night, the Hackerspace.sg plenum exhibited various
+qualities about meetings I just hated. Not to single out Hackerspace, I've been
+in other societies and worked in other companies where the "group" decision
+making is just as dysfunctional in my opinion.
+
+* Meetings are synchronous
+* Decisions are made by the people who show up
+* If person can't attend the meeting, the person can't contribute to discussion or vote
+* Exercising [Robert's rules](http://en.wikipedia.org/wiki/Robert's_Rules_of_Order) can be slow
+* Discussing any point synchronously is slow
+* Making a speech or ensuring all the points are clearly recorded is near impossible
+* Longer the meeting goes or the more issues addressed, the harder it becomes to garner focus and make good decisions
+* Lots of time wasting, no set limit to arguments
+* Things can go in circles, especially if someone did not **listen** carefully
+
+# Solutions
+
+## The leader
+
+Ideally there is some designated leader just listening and calling the shots.
+That's honestly my preference.
+
+## My technological ideas for group decision making
+
+* Force discussions to happen on a mailing list, identified by URL
+* Summarise salient points of discussion on mailing list, by highlighting text at URL
+* Have an online voting system where absentee votes can be cast
+
+As for synchronous meetings, they probably still need to happen. Email debates
+are rarely effective, especially if any participate has poor email etiquette or
+uses intentionally or not, some disruptive tactic.
+
+For meetings, a very orderly, time limited debate English parliamentary debate
+could be organised for **big issues**. At least two people, on each side of
+clearly defined topic with 3-5 minute speaking slots.
+
+Again, an online voting system would be used, but the voting window is short,
+i.e 10 minutes after the synchronous debate.
+
+## What are synchronous meetings good for?
+
+Matters of discipline or some other urgency or crises is probably the best fit.
+
+I doubt even summarising is a good use of everyone's time at a meeting.
+Summarising points is best done asynchronously and can be very tedious.
+
+Nominal issues must be addressed and recorded by email, identified by URL.
+
+A meeting must address some communication break down, which is fairly common by
+email or other recorded mediums like IRC.
