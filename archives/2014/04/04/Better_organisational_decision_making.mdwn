@@ -1,7 +1,7 @@
-It's bother me that last night, the Hackerspace.sg plenum exhibited various
-qualities about meetings I just hated. Not to single out Hackerspace, I've been
-in other societies and worked in other companies where the "group" decision
-making is just as dysfunctional in my opinion.
+It bothers me that last night, the Hackerspace.sg plenum exhibited various
+qualities about meetings I just hated. Not to single out Hackerspace.sg, I've
+been in other societies and worked in other companies where the "group"
+decision making is just as dysfunctional in my opinion.
 
 * Meetings are synchronous
 * Decisions are made by the people who show up
@@ -18,7 +18,7 @@ making is just as dysfunctional in my opinion.
 ## The leader
 
 Ideally there is some designated leader just listening and calling the shots.
-That's honestly my preference.
+That's honestly my preference. See [BDFL](http://en.wikipedia.org/wiki/Benevolent_Dictator_for_Life)
 
 ## My technological ideas for group decision making
 
@@ -27,22 +27,24 @@ That's honestly my preference.
 * Have an online voting system where absentee votes can be cast
 
 As for synchronous meetings, they probably still need to happen. Email debates
-are rarely effective, especially if any participate has poor email etiquette or
-uses intentionally or not, some disruptive tactic.
+are rarely effective, especially if any participant has poor email etiquette or
+employs intentionally or not, some disruptive tactic.
 
-For meetings, a very orderly, time limited debate English parliamentary debate
+For meetings, a very orderly, time limited "English parliamentary" style debate
 could be organised for **big issues**. At least two people, on each side of
-clearly defined topic with 3-5 minute speaking slots.
+clearly defined topic with 3-5 minute speaking slots, which is broad casted or
+at least recorded.
 
 Again, an online voting system would be used, but the voting window is short,
 i.e 10 minutes after the synchronous debate.
 
 ## What are synchronous meetings good for?
 
-Matters of discipline or some other urgency or crises is probably the best fit.
+Matters of discipline or some other urgency or crises is probably a good fit.
 
 I doubt even summarising is a good use of everyone's time at a meeting.
-Summarising points is best done asynchronously and can be very tedious.
+Summarising points is best done asynchronously, independently of bias and can
+be very tedious.
 
 Nominal issues must be addressed and recorded by email, identified by URL.
 
