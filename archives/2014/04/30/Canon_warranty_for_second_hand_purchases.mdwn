@@ -11,6 +11,7 @@ card, but the original receipt from [Challenger](http://www.challenger.com.sg/pr
 In an ideal world, the Canon's serial number printed at the bottom would be
 enough. No fiddly bits of paper to worry about.
 
+<iframe src="https://www.flickr.com/photos/hendry/13885397858/player/" width="320" height="240" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 Then when signing up for the warranty, the awfully implemented form at
 <https://warranty.canon.com.sg/> said my serial number was invalid.
