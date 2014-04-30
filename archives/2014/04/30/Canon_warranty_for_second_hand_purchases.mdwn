@@ -11,7 +11,7 @@ card, but the original receipt from [Challenger](http://www.challenger.com.sg/pr
 In an ideal world, the Canon's serial number printed at the bottom would be
 enough. No fiddly bits of paper to worry about.
 
-<iframe src="https://www.flickr.com/photos/hendry/13885397858/player/" width="320" height="240" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<a href="https://www.flickr.com/photos/hendry/13885397858" title="Canon S120 serial number by Kai Hendry, on Flickr"><img src="https://farm6.staticflickr.com/5002/13885397858_e51f206b72.jpg" width="500" height="375" alt="Canon S120 serial number"></a>
 
 Then when signing up for the warranty, the awfully implemented form at
 <https://warranty.canon.com.sg/> said my serial number was invalid.
