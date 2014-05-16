@@ -1,0 +1,25 @@
+I've long moaned and bitched about Certificate Authorities and the cost of SSL,
+and recently I think I've seen the light at the end of the tunnel.
+
+It's called DNS-based Authentication of Named Entities aka <abbr
+title="DNS-based Authentication of Named Entities">DANE</abbr> and Domain Name
+System Security Extensions aka <abbr title="Domain Name System Security
+Extensions">DNSSEC</abbr>.
+
+This will as I understand it, put the multi-million "Certificate Authority"
+industry out of business. Goodbye Verisign, Thawte, Geotrust, RapidSSL.
+
+I've archived a list of the [trusted Mozilla
+CAs](http://www.mozilla.org/en-US/about/governance/policies/security-group/certs/included/)
+currently shipped in Firefox
+[here](http://s.natalian.org/2014-05-16/Mozilla-CAS-2014-05.html) for future
+prosperity.
+
+Folks in the future might think, it's amazing that we had a system that allowed
+the Turkish government to impersonate any SSL secured Website.
+
+In order to make this sea change possible, I urge you to lobby your DNS service
+to support
+[DNSSEC](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)
+and get experimenting with
+[DANE](https://en.wikipedia.org/wiki/DNS-based_Authentication_of_Named_Entities).
