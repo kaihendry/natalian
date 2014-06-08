@@ -1,0 +1,44 @@
+I anticipated that this might be difficult, so I called Barclays beforehand to
+ensure my Debit card would work for a start and then I get the best rates.
+
+They advised I use only [Global Alliance atms](https://en.wikipedia.org/wiki/Global_ATM_Alliance).
+
+So whilst in Italy, I sought out the BNL atms, which was a little awkward at
+times. Time was wasted.
+
+# Problem 1 - no idea how much my withdrawal limit is
+
+I want to withdraw a large amount of EUROs to minimize the transaction fee. Unfortunately it didn't allow me to withdraw 500EUR.
+Or 400EUR.
+So in order not to upset the person behind me, I reached for the 250EUR mark.
+
+
+	-£209.00
+	Cash Withdrawal
+	ITALY
+	AMOUNT IN EUR 250.00 ON 25 MAY VISA FX RATE 1.231981 FINAL GBP AMOUNT INCLUDES NON-STERLING TRANS FEE £6.07 ATM
+
+# Problem 2 - fixed % fee of I don't know what
+
+Yikes, that's a 6GBP fee.
+
+It gets worse:
+
+	-£251.87
+	Cash Withdrawal
+	ITALY
+	AMOUNT IN EUR 300.00 ON 28 MAY VISA FX RATE 1.22669 FINAL GBP AMOUNT INCLUDES NON-STERLING TRANS FEE £7.31 ATM
+
+There is a fixed percentage, ontop of these bad GBP-EUR conversions.
+
+	£176.27
+	Cash Withdrawal
+	ITALY
+	AMOUNT IN EUR 210.00 ON 31 MAY VISA FX RATE 1.226989 FINAL GBP AMOUNT INCLUDES NON-STERLING TRANS FEE £5.12 ATM
+
+I called up Barclays to complain, and they say they advise holiday makers to bring cash. [Post office cash](https://twitter.com/kaihendry/status/469150973685145600) at 1.16 EUR to the GBP isn't a lot better.
+
+I can't get the credit card deals <http://travelmoney.moneysavingexpert.com/>
+recommends since I'm self-employed. One can get better deals by ordering EUR
+cash in advance in England, but it involves a rigmarole. What a PITA. Times
+like these I'd rather UK have the EURO.
