@@ -15,8 +15,10 @@ branch, reveals that my backup account is considered "dormant" because I have
 Later it turns out I was sent a letter on the 17 December from "Mr D Wass"
 warning me that "Your current account has not been used for some time". It
 instructed me to call Barclays by the 10th of March 2014. Since I'm **terrible
-with post**, I failed to read this single warning letter.  And now my account is **dormant**.
-Barclays refers me to <http://www.barclays.co.uk/dormantandlostaccounts>.
+with post**, I failed to read this single warning letter.  And now my account
+is [dormant](http://www.barclays.co.uk/dormantandlostaccounts). This letter was
+**not found** upon Document Management service "Barclays Cloud It", which I think
+it should be.
 
 At the branch I'm given a long <https://www.bba.org.uk/> form to fill in. I've
 already wasted many hours on this, and now I need to provide personal details to
