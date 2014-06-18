@@ -17,7 +17,7 @@ warning me that "Your current account has not been used for some time". It
 instructed me to call Barclays by the 10th of March 2014. Since I'm **terrible
 with post**, I failed to read this single warning letter.  And now my account
 is [dormant](http://www.barclays.co.uk/dormantandlostaccounts). This letter was
-**not found** upon Document Management service "Barclays Cloud It", which I think
+**not found** upon their Document Management service "Barclays Cloud It", which I think
 it should be.
 
 At the branch I'm given a long <https://www.bba.org.uk/> form to fill in. I've
