@@ -10,12 +10,12 @@ I called up Barclays quoting the account number and sort code printed on the
 bottom of the card... at first the "customer service representative" worryingly
 could not tell me what has happened. Two phone calls later and a visit to my
 branch, reveals that my backup account is considered "dormant" because I have
-not used it for a year.
+**not used it for a year**.
 
 Later it turns out I was sent a letter on the 17 December from "Mr D Wass"
 warning me that "Your current account has not been used for some time". It
 instructed me to call Barclays by the 10th of March 2014. Since I'm **terrible
-with post**, I failed to read this letter.  And now my account is **dormant**.
+with post**, I failed to read this single warning letter.  And now my account is **dormant**.
 Barclays refers me to <http://www.barclays.co.uk/dormantandlostaccounts>.
 
 At the branch I'm given a long <https://www.bba.org.uk/> form to fill in. I've
@@ -29,7 +29,19 @@ accounts team. I've now just spent half an hour filling a form in
 <https://www.mylostaccount.org.uk/>, which could have a better [SSL
 support](https://www.ssllabs.com/ssltest/analyze.html?d=mylostaccount.org.uk).
 
+	Thank you for completing the mylostaccount online form.
+
+	Your enquiry will be dealt with by the following organisation/s in the coming weeks:
+
+	IF NO ORGANISATION IS LISTED BELOW THIS CLAIM HAS NOT BEEN SUBMITTED. PLEASE START AGAIN OR TELEPHONE 020 7216 8909 FOR HELP.
+
+	Barclays Bank Plc
+
+	BBA reference id: 503731
+
+	To carry out a full check of all the institutions listed may take up to 12 weeks.
+
 I am still waiting to get my money back. I also want to lobby Barclays to:
 
 1. Inform me of account changes on the online banking application which I use regularly and not post
-2  Stop this insane practice. Why the HELL wasn't MY MONEY put into my other current account at the **VERY LEAST**?
+* Stop this insane practice. Why the HELL wasn't MY MONEY put into my other current account at the **VERY LEAST**?
