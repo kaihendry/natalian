@@ -15,7 +15,9 @@ Cornwall tout can well be an expensive waste of time. The cheaper older ADSL
 can be better than FTTC in distances greater than 2km!!
 
 To add to the confusion of my FTTC "superfast" install, we are told our line
-length is 3400m, even though I can drive to the cabinet in a mile.
+length is 3400m, even though I can drive to the cabinet in a mile. Combine that
+with line instability (we lose carrier upto several times a day), we have a
+very poor experience with this "upgrade".
 
 Rural Cornwall connectivity looks bleak. BT Openreach probably won't lay fibre
 or allow folks like me to pull fibre through their conduits. My ISP says the
