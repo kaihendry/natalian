@@ -1,7 +1,7 @@
 I've complained about <a
 href="http://natalian.org/archives/2013/09/28/Superfast_Cornwall/">Superfast
-Cornwall</a> rural broadband rollout technology being a poor choice for rural
-locations before.
+Cornwall rural broadband rollout technology being a poor choice for rural
+locations before</a>.
 
 Now I have a nice graph to illustrate the point:
 
@@ -10,20 +10,21 @@ Now I have a nice graph to illustrate the point:
 The image is from <http://nbnmyths.wordpress.com/> which is site devoted to
 outing the scandal of the "next generation" Australian broadband roll out.
 
-So unless you live ontop of a cabinet, FTTC, the product that Superfast
-Cornwall tout can well be an expensive waste of time. ADSL is better than FTTC
-in distances greater than 2km.
+So unless you live ontop of a cabinet, FTTC (VDSL), the product that Superfast
+Cornwall tout can well be an expensive waste of time. The cheaper older ADSL
+can be better than FTTC in distances greater than 2km!!
 
 To add to the confusion of my FTTC "superfast" install, we are told our line
 length is 3400m, even though I can drive to the cabinet in a mile.
 
 Rural Cornwall connectivity looks bleak. BT Openreach probably won't lay fibre
 or allow folks like me to pull fibre through their conduits. My ISP says the
-best I can do is buy another line and consider bonding them.
+best I can do is buy another line and consider bonding them, doubling again my
+ISP costs to ~100GBP per month.
 
 <iframe src="https://www.flickr.com/photos/hendry/14295998320/in/photolist-nMhJeE-4jzkkA-6athVZ-4E5fvc-5RF2jA-8WKv2y-9hAytS-2du4xe-do9U7J-jQLKr2-ktZKeS-eZi4QN-5JQY3o-5TpW2w-cAAHd-4wywYy-3vMbnc-2JkA2i-w7fyL-bP2Cpg-bEua7F-dfkBpM-brkT9c-dtwWPU-dnLgRh-2yR2uG-gredC2-5FkskF-4qr9ci/player/" width="500" height="334" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 3G might come along. I could perhaps consider long range wifi with a neighbour
-who lives closer to the exchange. But those options have high latency.
+who lives closer to the exchange. But those options will have high latency.
 
 What a disaster. :(
