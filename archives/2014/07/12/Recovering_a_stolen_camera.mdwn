@@ -1,0 +1,39 @@
+Well strictly speaking I left the [450SGD Canon S120](http://natalian.org/archives/2014/04/30/Canon_warranty_for_second_hand_purchases/) on the Airport bus (I think). I was so tired
+that day. I realised this and contacted the Palermo Airport bus company hours
+later to no avail. Also contacted Palermo Airport itself. No dice.
+
+So I was thinking how I could avoid this situation or better find it in future.
+I did have my name and twitter id on a sticker on the camera. Obviously this
+wasn't enough for it to me returned to me. :(
+
+<a href="https://www.flickr.com/photos/hendry/14094833648" title="On the train to Naples by Kai Hendry, on Flickr"><img src="https://farm3.staticflickr.com/2919/14094833648_437703f0b0.jpg" width="500" height="375" alt="On the train to Naples"></a>
+
+# Searching by serial number
+
+First off, the [Canon's serial number of the camera](https://www.flickr.com/photos/hendry/13885397858) is NOT embedded in the images it takes.
+
+	/home/hendry/Downloads$ strings 14094833648_7703bd9cbd_o.jpg | grep PowerShot
+	Canon PowerShot S120
+	IMG:PowerShot S120 JPEG
+	/home/hendry/Downloads$ strings 14094833648_7703bd9cbd_o.jpg | grep 71805
+
+
+# Engraving it
+
+Casey Neistat [engraves his camera](https://www.youtube.com/watch?v=ddL-ycOksHM#t=192) using a [Dremel](https://en.wikipedia.org/wiki/Dremel). I wish I did this since the photos / videos I took are worth more to me than the resale value of the camera.
+
+# Ibeacon whatever
+
+I noticed <http://www.thetileapp.com/> but I don't see how that would work. The
+tile itself could only be attached clumsily. And only people RUNNING THE TILE
+APP ON AN IPHONE in very close vicinity (0% chance) could ever possibly report
+this back to me.
+
+# Invisible markers and stuff
+
+I think this stuff rubs off and the fact that it's invisible is a bit dumb. UK
+police say they use this to identify stolen goods, but I doubt its utility.
+
+# Stolen database of stuff
+
+AFAIK there is no place to say XYZ serial of equipment is stolen. Wish there was.
