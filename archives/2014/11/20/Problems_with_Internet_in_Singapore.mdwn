@@ -1,26 +1,46 @@
-An update on 1.5 years ago with [[archives/2013/06/14/Why_Singapore_Internet_sucks]]. This is in the context of <a href=http://hackerspace.sg/><abbr title="Hackerspace Singpaore">HSG</abbr></a>
+An update on 1.5 years ago with
+[[archives/2013/06/14/Why_Singapore_Internet_sucks]]. This is in the context of
+<a href=http://hackerspace.sg/><abbr title="Hackerspace
+Singpaore">HSG</abbr></a>.
 
-HSG is stuck with M1 until **2016-02-09**, since we were connected after 3+ month
-delay due to OpenNET 'capacity issues' on 2014-02-10.
+HSG is stuck with M1 until **2016-02-09**, since we were connected after 3+
+month delay due to OpenNET 'capacity issues' on 2014-02-10.
+
+(The other day I heard of a company waiting FIVE MONTHS for an OpenNET connection)
 
 ## Switching cost far too high
 
-Locked into a recurring two year contract. We tried to switch but M1 said we renewed per contract which as a Hackerspace we were unaware of (until it was too late) and we can't get out of. To compound the issue, we are unable to upgrade from 100Mbps to 1Gbps IIUC until 1 year has elapsed of our recurring contract.
+Locked into a recurring two year contract. We tried to switch but M1 said we
+renewed per contract which as a Hackerspace we were unaware of (until it was
+too late) and we can't get out of. To compound the issue, we are unable to
+upgrade from 100Mbps to 1Gbps IIUC until 1 year has elapsed of our recurring
+contract.
 
 ## Business versus residential line cost
 
-Same service, 2+ times price difference, that's if you can get a clearly priced business package. Usually it has to be negotiated down from some crazy price.
+Same service, 2+ times price difference, that's if you can get a clearly priced
+business package. Usually it has to be negotiated down from some crazy price.
 
-## No status page / no accountability
+## Singapore ISPs have no status page / no accountability
 
 {M1,Singtel,Starhub} do not have a status page like <https://aastatus.net/> or <http://status.aws.amazon.com/#AP_block>
 
-We never know what service quality we are getting, whether it is getting worse or better. (International) Bandwidth is another matter entirely which seems variable and opaque.
+We never know what service quality we are getting, whether it is getting worse
+or better. (International) Bandwidth is another matter entirely which seems
+variable and opaque.
 
 ## No static IPs / IP allocation service / IPv6
 
-Making home/office hosting dependent on unreliable dynamic IP aliasing... Therefore any reliable Internet service is forced to _centralise_ onto "the Cloud" which is [usually much more expensive](http://dabase.com/blog/How_much_does_it_cost_to_run_an_Archlinux_mirror_on_EC2/) despite what AWS et al would like you to believe.
+Making home/office hosting dependent on unreliable dynamic IP aliasing...
+Therefore any reliable Internet service is forced to _centralise_ onto "the
+Cloud" which is [usually much more
+expensive](http://dabase.com/blog/How_much_does_it_cost_to_run_an_Archlinux_mirror_on_EC2/)
+despite what <abbr title="Amazon Web Services">AWS</abbr> et al would like you to believe.
 
 # Conclusion
 
-As a Hackerspace we are locked for years with uncompetitive Internet and we are unable to reasonably host any project at the Hackerspace.
+As a Hackerspace we are locked for years with uncompetitive Internet and we are
+unable to reasonably host any project at the Hackerspace.
+
+We are forced to beg for Cloud credit and we are unable to run anything
+bandwidth intensive.
