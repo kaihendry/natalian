@@ -16,6 +16,8 @@ too late) and we can't get out of. To compound the issue, we are unable to
 upgrade from 100Mbps to 1Gbps IIUC until 1 year has elapsed of our recurring
 contract.
 
+Update: 930SGD pcm for 1Gbps Internet <http://s.natalian.org/2014-11-25/M1-quote-1Gbps.pdf>
+
 ## Business versus residential line cost
 
 Same service, 2+ times price difference, that's if you can get a clearly priced
