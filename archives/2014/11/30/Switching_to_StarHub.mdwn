@@ -61,3 +61,26 @@ Furthermore, you need to call and setup E-billing.
 Porting the number takes one or two days. The StarHub staff implies the switch
 should be smooth and we shouldn't be double charged. We lay in wait for the
 next M1 bill!
+
+## M1 versus StarHub
+
+I heard from a couple of sources that StarHub is currently the most modern
+network and the first and only operator supporting [HD
+voice](http://www.starhub.com/hdvoice) in Singapore. 
+
+What's HD voice? It's actually an interesting 4G VOIP implementation locked to
+the carrier, so you can't SIP away sadly.  An easy way to tell if you have it
+or not, is to make a call and watch the 4G symbol. Did the call drop to 3G data
+speeds? You don't have HD then!
+
+4G atm seems roughly the same, about 40mbit/sec down.
+
+Therefore it takes roughly just **11 minutes of full speed downloading** to
+blow the 3GB monthly included data. Each extra 1GB is charged at 10.70SGD,
+which caps at 168SGD.
+
+## The $$$ saving
+
+My wife calculated that through switching we should save about **96SGD** for
+the year, compared to just re-contracting with M1. Is that worth an afternoon
+in a Starhub shop? I'll let you decide. ;)
