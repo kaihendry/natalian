@@ -1,0 +1,62 @@
+Switching to a better mobile deal is quite tricky in Singapore.
+
+I compared Singtel, M1 & StarHub by their 3GB plans, but there are some hidden costs.
+
+<blockquote class="twitter-tweet" lang="en-gb"><p>The postpaid 4G 3GB plan with <a href="https://twitter.com/M1_Singapore">@M1_Singapore</a> is 41SGD monthly, <a href="https://twitter.com/SingTel">@Singtel</a> 62.90 &amp; <a href="https://twitter.com/StarHub">@StarHub</a> 34.32…</p>&mdash; Kai Hendry (@kaihendry) <a href="https://twitter.com/kaihendry/status/538999959752683520">November 30, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Firstly, you need take a chunk of time out of your day to re-contract. Despite
+what [StarHub might
+say](https://twitter.com/StarHubCares/status/533528914258178048), to open your
+new line, you need to go to a StarHub job. I darkly predicted a [3hr mission to
+Bugis](https://twitter.com/kaihendry/status/538934717236531200). I was not far
+wrong. The wait, signup and payment took almost exactly 90 minutes. Though we
+are now exhausted!
+
+## Things you need in order to switch
+
+* A Singaporean Identity Card with at least 6 months of validity
+* Proof of address, ideally a bill
+
+You need to ensure you are "not contracted" still if you are switching. The
+terminology is very confusing in Singapore. Since **on some plans** after an
+initial 1 year contract, you automatically get migrated by your current
+operator/carrier to a typically more expensive "**rolling contract**".
+
+A **rolling contract** means you are **not contracted**. If you are **not
+contracted** StarHub can take care of the switch, but they can't tell if you
+are contracted or not contracted. You **must** find out beforehand, or risk
+losing your money.
+
+## The little gotchas
+
+The StarHub 4G "3" plan we switched to from M1 is 34.32, but **Caller Display**
+... a fundamental feature is astonishingly a 5.35SGD a month addon. So your
+bill ends up being 40.09SGD a month.
+
+The other **big gotcha** is that you need to pay for the new  SIM cards +
+"activation cost". So this **the switching cost** to look out for. So that is
+37.45SGD per line. So for my wife and I, out came the cash card, nervous looks
+and a painful swallow for 74.90SGD.
+
+After 12 months, the line loses the initial 20% discount and ramps up. **So
+every year**, to save 20%, *you should recontract**. I.e. spend an afternoon in
+a Starhub shop.
+
+While you are signing up aka the assistant typing in all your details into a
+barouque PDF form, you can and should ask for:
+
+
+* No advertisements
+* No to reselling information
+* No to voicemail
+
+## The next few days
+
+Previously we had free calls between each other, and StarHub has a similar
+feature, however you need to call customer services to nominate the numbers in
+their **HappyTalk** scheme. You can't do this online.
+
+Furthermore, you need to call and setup Ebilling.
+
+Porting the number takes one or two days.
