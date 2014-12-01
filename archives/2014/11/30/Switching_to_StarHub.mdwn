@@ -58,7 +58,8 @@ Previously we had free calls between each other, and StarHub has a similar
 feature, however you need to call customer services to nominate the numbers in
 their **HappyTalk** scheme. You can't do this online.
 
-Furthermore, you need to call and setup E-billing.
+Furthermore, you need to call and setup E-billing. Bit of a shame they can't
+setup an online account there and then in the shop.
 
 Porting the number takes one or two days. The StarHub staff implies the switch
 should be smooth and we shouldn't be double charged. We lay in wait for the
