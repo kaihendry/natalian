@@ -44,11 +44,13 @@ every year**, to save 20%, **you should recontract**. I.e. spend an afternoon in
 a Starhub shop.
 
 While you are signing up aka the assistant typing in all your details into a
-baroque PDF form, you can and should ask for:
+baroque PDF form (since they use PDF for their business processes, I think this
+proves they don't use Web forms / i.e. an online process yet), you can and
+should ask for:
 
 * No advertisements
 * No to reselling information
-* No to voicemail
+* No to voicemail - accidentally dialling voicemail on your iPhone costs about 20c / per minute
 
 ## The next few days
 
@@ -62,20 +64,22 @@ Porting the number takes one or two days. The StarHub staff implies the switch
 should be smooth and we shouldn't be double charged. We lay in wait for the
 next M1 bill!
 
-<a href="https://www.flickr.com/photos/hendry/15726456998" title="Where you sign 6 times without seeing what you are signing by Kai Hendry, on Flickr"><img src="https://farm8.staticflickr.com/7478/15726456998_f71bde41c0.jpg" width="375" height="500" alt="Where you sign 6 times without seeing what you are signing"></a>
+<a href="https://www.flickr.com/photos/hendry/15726456998" title="Where you sign 6 times without seeing what you are signing by Kai Hendry, on Flickr"><img src="https://farm8.staticflickr.com/7478/15726456998_f71bde41c0_n.jpg" width="240" height="320" alt="Where you sign 6 times without seeing what you are signing"></a>
 
 ## M1 versus StarHub
 
 I heard from a couple of sources that StarHub is currently the most modern
 network and the first and only operator supporting [HD
-voice](http://www.starhub.com/hdvoice) in Singapore. 
+voice](http://www.starhub.com/hdvoice) in Singapore.
 
 What's HD voice? It's actually an interesting 4G VOIP implementation locked to
-the carrier, so you can't SIP away sadly.  An easy way to tell if you have it
-or not, is to make a call and watch the 4G symbol. Did the call drop to 3G data
-speeds? You don't have HD then!
+the carrier, so you can't "SIP2SIM" away to a 3rd party sadly.  An easy way to
+tell if you have it or not, is to make a call and watch the 4G symbol. Did the
+call drop to 3G data speeds? Yes? You don't have HD then!
 
-4G atm seems roughly the same, about 40mbit/sec down.
+[4G speeds atm from Geylang](https://www.flickr.com/photos/hendry/15732400419/)
+seems roughly the same, about 40mbit/sec down. However StarHub's upload seems a
+little more capped than M1.
 
 Therefore it takes roughly just **11 minutes of full speed downloading** to
 blow the 3GB monthly included data. Each extra 1GB is charged at 10.70SGD,
@@ -84,5 +88,5 @@ which caps at 168SGD.
 ## The $$$ saving
 
 My wife calculated that through switching we should save about **96SGD** for
-the year, compared to just re-contracting with M1. Is that worth an afternoon
-in a Starhub shop? I'll let you decide. ;)
+the year, compared to just re-contracting with M1 for the 3GB plan. Is that
+worth an afternoon in a Starhub shop? I'll let you decide. ;)
