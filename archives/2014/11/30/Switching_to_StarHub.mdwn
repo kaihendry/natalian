@@ -67,6 +67,13 @@ next M1 bill!
 
 <a href="https://www.flickr.com/photos/hendry/15726456998" title="Where you sign 6 times without seeing what you are signing by Kai Hendry, on Flickr"><img src="https://farm8.staticflickr.com/7478/15726456998_f71bde41c0_n.jpg" width="240" height="320" alt="Where you sign 6 times without seeing what you are signing"></a>
 
+The last and probably most annoying thing, is that to setup a UK style "Direct
+Debit" or **Giro** as it is called here in Singapore, you need to do some
+legwork with your bank.  It's not an automated process, and StarHub doesn't do
+sane things like present you with a prefilled bank instruction. Which is
+surprising, because that means StarHub won't know when they will get paid and
+leads to all sorts of other costs like sending reminder letters to pay. _sigh_
+
 ## M1 versus StarHub
 
 I heard from a couple of sources that StarHub is currently the most modern
