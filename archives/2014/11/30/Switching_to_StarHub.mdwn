@@ -34,7 +34,7 @@ The StarHub 4G "3" plan we switched to from M1 is 34.32, but **Caller Display**
 ... a fundamental feature is astonishingly a 5.35SGD a month addon /
 "Value-Added Service". So your bill ends up being **40.09SGD a month**.
 
-The other **big gotcha** is that you need to pay for the new  SIM cards +
+The other **big gotcha** is that you need to pay for the new SIM cards +
 "activation cost". So this **the switching cost** to look out for. So that is
 37.45SGD per line. So for my wife and I, out came the cash card, nervous looks
 and a painful swallow for 74.90SGD.
@@ -56,7 +56,10 @@ should ask for:
 
 Previously we had free calls between each other, and StarHub has a similar
 feature, however you need to call customer services to nominate the numbers in
-their **HappyTalk** scheme. You can't do this online.
+their **HappyTalk** scheme. You can't do this online. Update: Since we get 150
+free minutes a month, I don't think we need HappyTalk which I later figured out
+[cost 10SGD to
+activate](https://twitter.com/kaihendry/status/539619773567361024).
 
 Furthermore, you need to call and setup E-billing. Bit of a shame they can't
 setup an online account there and then in the shop.
@@ -64,8 +67,9 @@ setup an online account there and then in the shop.
 Update: The porting was announced via SMS on M1, that it would happen on the
 1st Dec. I noticed about midnight on the 1st no service on the M1 card so we
 switched to the StarHub SIM card. We tried calling each other, but it failed.
-In the morning, however is working fine! I think **I can hear the HD difference**.
-Btw there was no confirmation SMS that the port was successful.
+In the morning, however is working fine! I think **I can hear the HD
+difference**.  There was a confirmation SMS that the port was successful at
+9AM.
 
 The StarHub staff implies the switch should be smooth and we shouldn't be
 double charged. We lay in wait for the next M1 bill!
@@ -75,7 +79,7 @@ double charged. We lay in wait for the next M1 bill!
 The last and probably most annoying thing, is that to setup a UK style "Direct
 Debit" or **Giro** as it is called here in Singapore, you need to do some
 legwork with your bank.  It's not an automated process, and StarHub doesn't do
-sane things like present you with a prefilled bank instruction. Which is
+sane things like present you with a pre-filled bank instruction. Which is
 surprising, because that means StarHub won't know when they will get paid and
 leads to all sorts of other costs like sending reminder letters to pay. _sigh_
 
@@ -97,6 +101,9 @@ little more capped than M1.
 Therefore it takes roughly just **11 minutes of full speed downloading** to
 blow the 3GB monthly included data. Each extra 1GB is charged at 10.70SGD,
 which caps at 168SGD.
+
+StarHub might be on Twitter, but whoever is handling the account is absolutely
+useless: <http://greptweet.com/u/starhubcares/#kaihendry>
 
 ## The $$$ saving
 

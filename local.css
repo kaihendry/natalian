@@ -2,17 +2,8 @@
 
 .actions:hover { opacity: 1 }
 
-#vcs li
-{
-	float: right;
-	text-align: right;
-	display: inline;
-	list-style-type: none;
-	padding-right: 1em;
-}
-
 body { border-top: solid thick #FF970F; border-bottom: solid thick #FF970F;
-	font-family : sans-serif;
+	font-family : "Gill Sans", "Calibri", sans-serif;
 	font-size: 90%;
 	margin: 0em;
 	padding: 2em;
@@ -26,13 +17,16 @@ pre { font: 1.3em monospace; color: white; background: black; overflow: auto; wh
 
 article { /* HTML5 */
 	display: block;
-	-moz-border-radius: 1em;
-	-webkit-border-radius: 1em;
-	border-radius: 1em;
+	border-radius: 0.5em;
 	border: thick solid #1EA2FF;
 	padding: 1.5em;
 	margin: 0.5em;
-	background: #FFDD73;
+	background: linear-gradient(to bottom, #FFDD73 , white); 
 }
 
 .inlinepage { border: none; }
+
+.pageheader {
+	background-repeat: no-repeat;
+	text-transform: capitalize;
+}

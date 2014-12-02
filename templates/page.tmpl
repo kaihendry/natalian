@@ -1,9 +1,5 @@
-<TMPL_IF HTML5><!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-<TMPL_ELSE><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-</TMPL_IF>
 <head>
 <TMPL_IF DYNAMIC>
 <TMPL_IF FORCEBASEURL><base href="<TMPL_VAR FORCEBASEURL>" /><TMPL_ELSE>
@@ -12,6 +8,7 @@
 </TMPL_IF>
 <TMPL_IF HTML5><meta charset="utf-8" /><TMPL_ELSE><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></TMPL_IF>
 <title><TMPL_VAR TITLE></title>
+<TMPL_IF RESPONSIVE_LAYOUT><meta name="viewport" content="width=device-width, initial-scale=1" /></TMPL_IF>
 <link rel="shortcut icon" href="/natal.png">
 <link rel="stylesheet" href="<TMPL_VAR BASEURL>style.css" type="text/css" />
 <TMPL_IF LOCAL_CSS>
@@ -19,6 +16,8 @@
 <TMPL_ELSE>
 <link rel="stylesheet" href="<TMPL_VAR BASEURL>local.css" type="text/css" />
 </TMPL_IF>
+
+<TMPL_UNLESS DYNAMIC>
 <TMPL_IF EDITURL>
 <link rel="alternate" type="application/x-wiki" title="Edit this page" href="<TMPL_VAR EDITURL>" />
 </TMPL_IF>
@@ -34,7 +33,8 @@
 <link rel="next" href="<TMPL_VAR NEXTURL>" title="<TMPL_VAR NEXTTITLE>" />
 </TMPL_IF>
 </TMPL_LOOP>
-<script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+</TMPL_UNLESS>
+
 </head>
 <body>
 
@@ -55,9 +55,11 @@
 </TMPL_IF>
 </span>
 </span>
+<TMPL_UNLESS DYNAMIC>
 <TMPL_IF SEARCHFORM>
 <TMPL_VAR SEARCHFORM>
 </TMPL_IF>
+</TMPL_UNLESS>
 <TMPL_IF HTML5></header><TMPL_ELSE></div></TMPL_IF>
 
 <TMPL_IF HAVE_ACTIONS>
@@ -111,25 +113,35 @@
 <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
 </TMPL_IF>
 
+<TMPL_UNLESS DYNAMIC>
+<TMPL_VAR TRAILS>
+</TMPL_UNLESS>
+
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
+<TMPL_UNLESS DYNAMIC>
 <TMPL_IF SIDEBAR>
 <TMPL_IF HTML5><aside class="sidebar"><TMPL_ELSE><div class="sidebar"></TMPL_IF>
 <TMPL_VAR SIDEBAR>
 <TMPL_IF HTML5></aside><TMPL_ELSE></div></TMPL_IF>
 </TMPL_IF>
+</TMPL_UNLESS>
 
 <div id="pagebody">
 
-<TMPL_IF HTML5><section id="content"><TMPL_ELSE><div id="content"></TMPL_IF>
+<TMPL_IF HTML5><section<TMPL_ELSE><div</TMPL_IF> id="content" role="main">
 <TMPL_VAR CONTENT>
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
-<TMPL_VAR TRAILS>
+<TMPL_IF ENCLOSURE>
+<TMPL_IF HTML5><section id="enclosure"><TMPL_ELSE><div id="enclosure"></TMPL_IF>
+<a href="<TMPL_VAR ENCLOSURE>">Download</a>
+<TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
+</TMPL_IF>
 
 <TMPL_UNLESS DYNAMIC>
 <TMPL_IF COMMENTS>
-<TMPL_IF HTML5><section id="comments"><TMPL_ELSE><div id="comments"></TMPL_IF>
+<TMPL_IF HTML5><section<TMPL_ELSE><div</TMPL_IF> id="comments" role="complementary">
 <TMPL_VAR COMMENTS>
 <TMPL_IF ADDCOMMENTURL>
 <div class="addcomment">
@@ -144,9 +156,11 @@
 
 </div>
 
-<TMPL_IF HTML5><footer id="footer" class="pagefooter"><TMPL_ELSE><div id="footer" class="pagefooter"></TMPL_IF>
+<TMPL_IF HTML5><footer<TMPL_ELSE><div</TMPL_IF> id="footer" class="pagefooter" role="contentinfo">
 <TMPL_UNLESS DYNAMIC>
 <TMPL_IF HTML5><nav id="pageinfo"><TMPL_ELSE><div id="pageinfo"></TMPL_IF>
+
+<TMPL_VAR TRAILS>
 
 <TMPL_IF TAGS>
 <TMPL_IF HTML5><nav class="tags"><TMPL_ELSE><div class="tags"></TMPL_IF>
@@ -202,7 +216,8 @@ Last edited <TMPL_VAR MTIME>
 
 <TMPL_IF HTML5></article><TMPL_ELSE></div></TMPL_IF>
 
-<script type="text/javascript">
+<script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+<script>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-195686-1']);
   _gaq.push(['_trackPageview']);
