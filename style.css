@@ -347,10 +347,10 @@ legend {
 	float: left;
 	margin: 2px 0;
 }
-label.block {    
-	display: block;   
+label.block {
+	display: block;
 }
-label.inline {    
+label.inline {
 	display: inline;
 }
 input#openid_identifier {
@@ -639,7 +639,7 @@ body{text-align:left;}
 .page {margin:auto;text-align:left;width:57.69em;*width:56.25em;min-width:750px;}
 
 /* #doc3{margin:auto 10px;width:auto;} */
-.page {margin:auto 10px;width:auto;}
+.page {margin:auto 0;width:auto;}
 
 #pagebody, .sidebar{position:relative;}
 #pagebody, .sidebar{_position:static;}
@@ -788,7 +788,7 @@ body {
 
 .pageheader .header .title, .pageheader .header .parentlinks, .pageheader .actions ul li, .pageheader .header span, .pageheader #otherlanguages ul li, .pageheader .trailprev, .pageheader .trailnext, .pageheader .trailup {
 	padding: 0.25em 0.25em 0.25em 0.25em;
-	background-image: url('background_darkness.png');
+	background: linear-gradient(to left, rgba(172, 186, 174, 1), rgba(0, 0, 0, 0));
 	background-repeat: repeat;
 	color: white;
 }
