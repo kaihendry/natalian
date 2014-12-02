@@ -61,9 +61,14 @@ their **HappyTalk** scheme. You can't do this online.
 Furthermore, you need to call and setup E-billing. Bit of a shame they can't
 setup an online account there and then in the shop.
 
-Porting the number takes one or two days. The StarHub staff implies the switch
-should be smooth and we shouldn't be double charged. We lay in wait for the
-next M1 bill!
+Update: The porting was announced via SMS on M1, that it would happen on the
+1st Dec. I noticed about midnight on the 1st no service on the M1 card so we
+switched to the StarHub SIM card. We tried calling each other, but it failed.
+In the morning, however is working fine! I think **I can hear the HD difference**.
+Btw there was no confirmation SMS that the port was successful.
+
+The StarHub staff implies the switch should be smooth and we shouldn't be
+double charged. We lay in wait for the next M1 bill!
 
 <a href="https://www.flickr.com/photos/hendry/15726456998" title="Where you sign 6 times without seeing what you are signing by Kai Hendry, on Flickr"><img src="https://farm8.staticflickr.com/7478/15726456998_f71bde41c0_n.jpg" width="240" height="320" alt="Where you sign 6 times without seeing what you are signing"></a>
 
