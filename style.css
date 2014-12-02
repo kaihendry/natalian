@@ -1,0 +1,308 @@
+/*    bzed theme for ikiwiki
+ *
+ *    Copyright (C) 2010 Bernd Zeimetz
+ *       Licensed under same license as ikiwiki: GPL v2 or later
+ *
+ *     Parts of this file are based on the awesome YUI,
+ *     these parts will stay under the BSD license,
+ *     but you're free to apply the GPLv2 to them, of course.
+ */
+
+
+
+/* -------------------------------------------------------------------------------------------------
+Based on reset-fonts-grids.css from yui.
+Copyright (c) 2008, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.5.1
+*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,legend,p,blockquote,th,td{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;}
+img{border:0;}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}
+li{list-style:none;}
+caption,th{text-align:left;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+q:before,q:after{content:'';}
+abbr,acronym {border:0;font-variant:normal;}
+sup {vertical-align:text-top;}
+sub {vertical-align:text-bottom;}
+input,textarea,select{font-family:inherit;font-size: 13px/1.23;font-weight:normal;}
+input,textarea,select{*font-size:100%;}
+legend{color:#000;}
+/* body {font:13px/1.231 arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small;} */
+body {font:13px/1.231 "Lucida Grande",Verdana,Lucida,Helvetica,Arial,sans-serif;*font-size:small;*font:x-small;}
+table {font-size:inherit;font:100%;}
+pre,code,kbd,samp,tt{font-family:monospace;}
+
+
+body{text-align:left;}
+.inlinefooter{clear:both;}
+
+/* #doc,#doc2,#doc3,#doc4,.yui-t1,.yui-t2,.yui-t3,.yui-t4,.yui-t5,.yui-t6,.yui-t7{margin:auto;text-align:left;width:57.69em;*width:56.25em;min-width:750px;} */
+.page {margin:auto;text-align:left;width:57.69em;*width:56.25em;min-width:750px;}
+
+/* #doc3{margin:auto 10px;width:auto;} */
+.page {margin:auto 10px;width:auto;}
+
+#pagebody, .sidebar{position:relative;}
+#pagebody, .sidebar{_position:static;}
+#pagebody {position:static;}
+.sidebar {float:right;width:16.5em;*width:16em;}
+#pagebody {margin-right:19em;*margin-right:18.5em;}
+/* #content {float:none;width:auto;} */
+#pagebody:after, .sidebar:after, .page:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.page f{zoom:1;}
+
+/* ------------------------------------------------------------------------------------------------
+ * Taken from base.css, part of YUI's CSS Foundation
+ * Copyright (c) 2008, Yahoo! Inc. All rights reserved.
+ * Code licensed under the BSD License:
+ * http://developer.yahoo.net/yui/license.txt
+ * version: 2.5.1
+*/
+h1 {
+	/*18px via YUI Fonts CSS foundation*/
+	font-size:138.5%;
+}
+h2 {
+	/*16px via YUI Fonts CSS foundation*/
+	font-size:123.1%;
+}
+h3 {
+	/*14px via YUI Fonts CSS foundation*/
+	font-size:108%;
+}
+h1,h2,h3 {
+	/* top & bottom margin based on font size */
+	margin:1em 0;
+}
+h1,h2,h3,h4,h5,h6,strong {
+	/*bringing boldness back to headers and the strong element*/
+	font-weight:bold;
+}
+abbr,acronym {
+	/*indicating to users that more info is available */
+	border-bottom:1px dotted #000;
+	cursor:help;
+}
+em {
+	/*bringing italics back to the em element*/
+	font-style:italic;
+}
+blockquote,ul,ol,dl {
+	/*giving blockquotes and lists room to breath*/
+	margin:1em;
+}
+ol,ul,dl {
+	/*bringing lists on to the page with breathing room */
+	margin-left:2em;
+}
+ol li {
+	/*giving OL's LIs generated numbers*/
+	list-style: decimal outside;
+}
+ul li {
+	/*giving UL's LIs generated disc markers*/
+	list-style: disc outside;
+}
+dl dd {
+	/*giving UL's LIs generated numbers*/
+	margin-left:1em;
+}
+th,td {
+	/*borders and padding to make the table readable*/
+	border:1px solid #000;
+	padding:.5em;
+}
+th {
+	/*distinguishing table headers from data cells*/
+	font-weight:bold;
+	text-align:center;
+}
+caption {
+	/*coordinated margin to match cell's padding*/
+	margin-bottom:.5em;
+	/*centered so it doesn't blend in to other content*/
+	text-align:center;
+}
+p,fieldset,table,pre {
+	/*so things don't run into each other*/
+	margin-bottom:1em;
+}
+
+#searchbox {
+	width:21.5em;*width:21em;
+}
+
+
+
+/* ------------------------------------------------------------------------------------------------
+ * All CSS below is
+ * Copyright (C) 2010 Bernd Zeimetz
+ * Licensed under same license as ikiwiki: GPL v2 or later */
+
+.page, .pageheader, .sidebar, #content, #enclosure, #comments, .inlinepage, .recentchanges, .pageheader .actions ul, #pagebody {
+	border: none;
+}
+
+html, body {
+	color:#000;
+	/* background-image: url('body_background.png');
+	background-repeat: repeat; */
+	background-color: #8da1b8;
+}
+
+body {
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.page {
+	background: #fff;
+	border: outset #ccc;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-top: 1em;
+}
+
+.pageheader {
+	background-image: url('header_background.png');
+	background-repeat: repeat-x;
+	height: 100px;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+
+.pageheader .header {
+	text-align: top;
+	clear: both;
+}
+
+.pageheader .header form {
+	padding: 0em 0em 0em 0em;
+	float: right;
+	margin-top: 0.5em;
+}
+
+.pageheader .header .title, .pageheader .header .parentlinks,
+ .inlinepage .inlineheader,
+ h1, h2, h3, h4, h5, h6 {
+	margin-top: 1em;
+	font-weight: bold;
+}
+
+.pageheader .header .title, .pageheader .header .parentlinks, .pageheader .actions ul li, .pageheader .header span, .pageheader #otherlanguages ul li, .pageheader .trailprev, .pageheader .trailnext, .pageheader .trailup {
+	padding: 0.25em 0.25em 0.25em 0.25em;
+	background-image: url('background_darkness.png');
+	background-repeat: repeat;
+	color: white;
+}
+
+.pageheader .header span a, .pageheader .actions ul li a, .pageheader .header .parentlinks a, .pageheader #otherlanguages ul li a, .pageheader a, .pageheader .trail a {
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+}
+
+.pageheader .actions {
+	text-align: right;
+	vertical-align: bottom;
+	clear: both;
+}
+
+#pagebody {
+	padding-right: 1em;
+	padding-bottom: 2em;
+	border-right: ridge #eee;
+	clear: none;
+}
+
+#content a, #enclosure a, #comments a, .sidebar a {
+	color: #315485;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.sidebar h2 {
+	border-bottom: ridge #eee;
+	padding-right: 0;
+}
+
+.sidebar .menu {
+	margin-left: 1em;
+}
+
+
+.inlinepage, .recentchanges, div.recentchanges {
+	clear: none !important;
+	margin-bottom: 2em;
+}
+
+.inlinefooter {
+	border-top: 1px dotted #315485;
+}
+
+.inlinefooter .pagedate, .inlinefooter .tags {
+	display: inline;
+	clear: none;
+	margin-right: 2em;
+}
+
+.calendar .month-calendar th, .calendar .month-calendar td {
+	padding: 0.22em;
+}
+
+@media print {
+	.sidebar, .page .pageheader .header .parentlinks {
+		content:".";
+		display:block;
+		height:0;
+		visibility:hidden;
+	}
+	.page {
+		padding: 1em 1em 1em 1em;
+	}
+	.pageheader .header span a, .pageheader .actions ul li a, .pageheader .header .parentlinks a {
+		color #315485;
+	}
+	#content, #enclosure, #comments, #pagebody {
+		margin-right: 0;
+		*margin-right: 0;
+		border-right: none;
+	}
+
+}
+
+/* lose the border on mobile */
+@media (max-width: 600px) {
+	body {
+		padding: 0;
+	}
+	.page {
+		border: none;
+		margin: 0;
+	}
+	#pagebody {
+		margin: auto;
+		border: none;
+		padding: 0.5em;
+	}
+	#footer {
+		padding: 0.5em;
+	}
+}
+
+/* cancel the minimum width if it would mean scrollbars */
+@media (max-width: 850px) {
+	.page {
+		width: auto;
+		min-width: 0;
+		padding: 0;
+	}
+}
