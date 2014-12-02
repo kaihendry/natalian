@@ -742,12 +742,6 @@ p,fieldset,table,pre {
 	border: none;
 }
 
-html, body {
-	color:#000;
-	/* background-image: url('body_background.png');
-	background-repeat: repeat; */
-	background-color: #8da1b8;
-}
 
 body {
 	padding-left: 5%;
