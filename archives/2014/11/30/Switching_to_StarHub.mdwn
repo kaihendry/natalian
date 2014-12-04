@@ -67,9 +67,8 @@ setup an online account there and then in the shop.
 Update: The porting was announced via SMS on M1, that it would happen on the
 1st Dec. I noticed about midnight on the 1st no service on the M1 card so we
 switched to the StarHub SIM card. We tried calling each other, but it failed.
-In the morning, however is working fine! I think **I can hear the HD
-difference**.  There was a confirmation SMS that the port was successful at
-9AM.
+In the morning, however is working fine! There was a confirmation SMS that the
+port was successful at 9AM.
 
 The StarHub staff implies the switch should be smooth and we shouldn't be
 double charged. We lay in wait for the next M1 bill!
@@ -93,6 +92,10 @@ What's HD voice? It's actually an interesting 4G VOIP implementation locked to
 the carrier, so you can't "SIP2SIM" away to a 3rd party sadly.  An easy way to
 tell if you have it or not, is to make a call and watch the 4G symbol. Did the
 call drop to 3G data speeds? Yes? You don't have HD then!
+
+UPDATE: I've noticed my reception dropping to 3G when taking calls, so AFAICT
+StarHub have messed up HD audio on my new line. I'm trying to get through to
+someone sane in support and failing.
 
 [4G speeds atm from Geylang](https://www.flickr.com/photos/hendry/15732400419/)
 seems roughly the same, about 40mbit/sec down. However StarHub's upload seems a
