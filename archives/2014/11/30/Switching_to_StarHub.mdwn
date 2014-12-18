@@ -1,5 +1,7 @@
 [[!meta description="Switching to StarHub for HD calling is a waste of time. It does not work." ]]
 
+Update: 2014-12-18 FINALLY StarHub flicked the switch! You can tell VoLTE works by [Tapping About&rarr;Carrier](http://s.natalian.org/2014-12-18/volte-ios-click-carrier.png)
+
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/ljtaEVGYNoE?rel=0" frameborder="0" allowfullscreen></iframe>
 
