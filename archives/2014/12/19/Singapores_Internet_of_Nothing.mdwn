@@ -24,11 +24,15 @@ besides... it's one way & non-IP so lacking in versatility.
 
 ## And no IPv6
 
-Even if you are somehow get inexpensively connected to the Internet in
-Singapore.  You won't have IPv6. You won't be addressable. No Internet service
-I've found does IPv6 natively in Singapore, leading to horrible stop gaps like
+Even if you somehow get inexpensively connected to the Internet in Singapore.
+You won't have IPv6. You won't be addressable. No Internet service I've found
+does IPv6 natively in Singapore, leading to horrible stop gaps like
 <http://pi.dabase.com/> where I have to keep an expensive socket connection
 open just to be able to get at my device.
+
+IPv6 workarounds like [HENET](https://ipv6.he.net/) aren't great because they
+are usually very slow, expensive and badly routed. IPv6 needs to be natively
+supported by ISPs and routes need to be constantly tested and maintained.
 
 ## Conclusion
 
