@@ -1,9 +1,9 @@
 Since I work at <http://hackerspace.sg/>, occasionally the topic arises about
 how to keep your embedded device connected to the Internet in Singapore.
 
-Basically it's a huge PITA.
+Basically it's a huge <abbr title="Pain in the Ass">PITA</abbr>.
 
-Wireless@SG doesn't work reliably. It's a long running joke. If some
+Wireless@SG doesn't work reliably. It's a long running joke. If you
 miraculously authenticate and get online, you will probably be kicked off it.
 
 Getting connected on **4G LTE** is expensive and a HUGE PITA. The cheapest way
