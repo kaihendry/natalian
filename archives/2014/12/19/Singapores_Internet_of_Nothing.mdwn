@@ -40,4 +40,4 @@ So above connectivity challenges really need to be sorted out for Singapore to
 have a "Internet of Things" revolution. Initiatives like "Next Generation
 Nationwide Broadband Network (Next Gen NBN)" & "Wireless@SG" sound awesome. But
 the **devil is in the details**. A lot more work & consideration must be made
-to make them usable.
+to get the **Internet of Things** sanely online and addressable.
