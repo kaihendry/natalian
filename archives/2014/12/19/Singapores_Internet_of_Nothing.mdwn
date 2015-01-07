@@ -1,17 +1,17 @@
-Since I work at <http://hackerspace.sg/>, occasionally the topic arises about
+Since I work at <http://hackerspace.sg/>, occasionally the topic arises of
 how to keep your embedded device connected to the Internet in Singapore.
 
 Basically it's a huge <abbr title="Pain in the Ass">PITA</abbr>.
 
 Wireless@SG doesn't work reliably. It's a long running joke. If you
-miraculously authenticate and get online, you will probably be kicked off it.
+miraculously authenticate and get online, you will probably be kicked off.
 
 Getting connected on **4G LTE** is expensive and a HUGE PITA. The cheapest way
-I've discovered so far is to do it get a "Long expiry plan". The longest being
+I've discovered so far is to get a "Long expiry plan". The longest being
 30 days for 1GB for 20SGD,
 <http://info.singtel.com/personal/singtel-prepaid-data-plans>. You have to
 manually renew it every month from the device itself. Good luck scripting the
-SMS to top up! No one I've known managed it.
+SMS to top up! No one I know has managed it.
 
 Getting **wired** connected for a little thingie is generally impractical.
 OpenNET aka [NetLinkTrust](http://www.netlinktrust.com/) can take MONTHS to get
@@ -37,7 +37,7 @@ supported by ISPs and routes need to be constantly tested and maintained.
 ## Conclusion
 
 So the above connectivity challenges really need to be sorted out for Singapore to
-have a "Internet of Things" revolution. Initiatives like "Next Generation
+have an "Internet of Things" revolution. Initiatives like "Next Generation
 Nationwide Broadband Network (Next Gen NBN)" & "Wireless@SG" sound awesome. But
-the **devil is in the details**. A lot more work & consideration must be made
+the **devil is in the detail**. A lot more work & consideration must be made
 to get the **Internet of Things** sanely online and addressable.
