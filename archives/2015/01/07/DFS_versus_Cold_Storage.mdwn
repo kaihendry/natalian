@@ -6,7 +6,7 @@ So I bought some wine & beer returning from the Philippines at <abbr title="Duty
 
 <a href="https://www.flickr.com/photos/hendry/16195511736" title="48.95SGD for Oyster Bay at Cold Storage by Kai Hendry, on Flickr"><img src="https://farm8.staticflickr.com/7464/16195511736_b3f486446d_n.jpg" width="240" height="320" alt="48.95SGD for Oyster Bay at Cold Storage"></a>
 
-DFS prices correspond to that on their Website
+<abbr title="Duty Free Shop">DFS</abbr> prices correspond to that on their Website
 <http://www.dfs.com/en/airport-singapore/featured-brands/oyster-bay/oyster-bay-sauvignon-blanc-2011-2012-75cl-70000138048>,
 that is 36.20SGD for 0.75L of Oyster Bay Sauvignon Blanc.
 
@@ -21,4 +21,16 @@ If you don't buy spirits, you can buy 2x3 cans of beer. 2x6.30SGD of the cheapes
 
 # So how much is tax?
 
-Urm, I'm not sure.
+In Singapore, duty on alcohol is $88.00 per litre of alcohol.
+
+So for a 13% alcohol, 0.75L bottle of wine, it's $8.58. Goods & Services Tax is
+$3.20 per bottle. 48.95-8.58-3.20=37.17SGD. So ignoring tax, <abbr title="Duty
+Free Shop">DFS</abbr> is still a dollar cheaper than Cold Storage.
+
+# What about the UK?
+
+[Oyster Bay Sauvignon Blanc 75Cl at
+Tesco](http://www.tesco.com/groceries/product/details/?id=260222846) is
+11.19GBP, which at best is 22.62SGD. That's with UK tax.
+
+That's almost a 50% saving on Singapore duty free prices. Crazy.
