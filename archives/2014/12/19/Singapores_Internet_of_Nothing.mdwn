@@ -36,6 +36,9 @@ supported by ISPs and routes need to be constantly tested and maintained.
 
 ## Conclusion
 
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/kaihendry">@kaihendry</a> I&#39;m sorry but we do not have static IP services for residential customers.</p>&mdash; Yong En (@Singtel_YongEn) <a href="https://twitter.com/Singtel_YongEn/status/559958661741957120">January 27, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 So the above connectivity challenges really need to be sorted out for Singapore to
 have an "Internet of Things" revolution. Initiatives like "Next Generation
 Nationwide Broadband Network (Next Gen NBN)" & "Wireless@SG" sound awesome. But
