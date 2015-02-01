@@ -1,0 +1,64 @@
+As mentioned on <http://hendry.iki.fi/about/>, my computer for last couple of
+years has been a X220 and I've been using Thinkpads since 2001, erm 14 years!?
+
+I resisted the X230 upgrade because of the inferior looking [chiclet
+keyboard](http://en.wikipedia.org/wiki/Chiclet_keyboard) and the X240 had a
+serious issue with the mouse pad, so that was a no go.
+
+Like many, I've been hanging on <http://www.reddit.com/r/thinkpad> feeling a
+bit miserable. Almost accepting that my next computer would have to be a Intel
+from Apple. Though the comparable models like the Macbook Air, which [I
+extensively tested](http://dabase.com/blog/Macbook_Air_Early_2014_Archlinux/)
+runs Archlinux... I really didn't like the keyboard and most importantly lack
+of [Trackpoint](http://en.wikipedia.org/wiki/Pointing_stick).
+
+# Waited long enough
+
+Lately I've been [developing an Android app](http://dabase.com/android). My 4GB
+of RAM of my X220 is simply not enough. I need an upgrade to be productive!
+
+Seriously.
+
+# Generation 2015
+
+<img src=http://i.imgur.com/8nFQMvB.png alt="Thinkpad Keyboards now with physical mouse buttons">
+
+Thankfully Lenovo reversed their earlier poor design decision and re-introduced
+physical mouse buttons across their Laptop product line up, [which I have been studying](http://www.lenovo.com/psref/pdf/tabook.pdf).
+
+Naturally I wanted to upgrade from my X220 to the X250, but on closer inspection I'm put off by the X240's:
+
+* Glass-Fiber Reinforced Plastic
+* Still the same 1366x768, 12.5"
+
+Aesthetically disappointed that Lenovo can't make a Thinkpad where there aren't
+huge bezels on the side of screen and keyboard. Shame they can't make it flush
+and like the original design intention of a Bento box.
+
+# X220 to ThinkPad X1 Carbon (3rd Gen) ?
+
+The Intel Broadwell based ThinkPad X1 Carbon (3rd Gen) i5-5300U or i7-5500U looks like the one.
+
+* Carbon X1 re-assuring is made of Magnesium/Aluminum on bottom.
+* The 14" sized displays starts at FHD 1920x1080, not sure I want to take the leap to  WQHD 2560x1440.
+
+Can't help but think a high resolution screen 2560x1440 will be an absolute
+pain to setup with Xorg and also likely to drain my battery faster.
+
+My concerns with going for the X1 Carbon is that the hard drive is not
+replaceable AFAICT. I inevitably want to upgrade the hard drive like I've done
+on every Thinkpad I've owned. I'm worried that the external Ethernet is just a
+[poor performing USB3 to Gigabit
+adaptor](https://www.flickr.com/photos/hendry/14472901454/). I prefer to work
+on a wired connection.
+
+# What next
+
+I'm thinking of waiting what obviously better designed hardware [Apple will
+update their product line to](http://buyersguide.macrumors.com/#Mac). They
+might be getting better hardware from Intel than what Lenovo can.
+
+Nonetheless even though I'm a ashamedly happy IOS iPhone6 user, I do want to
+use the best alternative to Apple hardware and software. Got to Think different!
+
+Will that be the X1 Carbon Gen 3 & Archlinux? I'll let you know.
