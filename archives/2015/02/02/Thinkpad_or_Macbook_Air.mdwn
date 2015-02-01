@@ -39,11 +39,12 @@ and like the original design intention of a Bento box.
 
 The Intel Broadwell based ThinkPad X1 Carbon (3rd Gen) i5-5300U or i7-5500U looks like the one.
 
-* Carbon X1 re-assuring is made of Magnesium/Aluminum on bottom.
-* The 14" sized displays starts at FHD 1920x1080, not sure I want to take the leap to  WQHD 2560x1440.
+* Carbon X1 re-assuring is made of Magnesium/Aluminum, and hence I'm assuming a better build quality than the X250
+* The 14" sized displays starts at FHD 1920x1080, not sure I want to take the leap to WQHD 2560x1440.
+* Actually like the HDMI port instead of the VGA port
 
 Can't help but think a high resolution screen 2560x1440 will be an absolute
-pain to setup with Xorg and also likely to drain my battery faster.
+pain to setup with Xorg and likely to drain my battery faster.
 
 My concerns with going for the X1 Carbon is that the hard drive is not
 replaceable AFAICT. I inevitably want to upgrade the hard drive like I've done
@@ -54,11 +55,18 @@ on a wired connection.
 
 # What next
 
-I'm thinking of waiting what obviously better designed hardware [Apple will
-update their product line to](http://buyersguide.macrumors.com/#Mac). They
-might be getting better hardware from Intel than what Lenovo can.
+I'm thinking of waiting what obviously better designed hardware, when [Apple
+will update their product line to](http://buyersguide.macrumors.com/#Mac)
+Intel's delayed Broadwell generation. They might be getting better Broadwell
+reference hardware from Intel than what Lenovo can or have some other hardware
+innovation. I like Apple's charger cables and that would make like easier
+around my family since all have Apple hardware.
 
 Nonetheless even though I'm a ashamedly happy IOS iPhone6 user, I do want to
 use the best alternative to Apple hardware and software. Got to Think different!
 
-Will that be the X1 Carbon Gen 3 & Archlinux? I'll let you know.
+Will that be the X1 Carbon Gen 3 & Archlinux? I'll let you know. A lot will
+depend on reviews and price points of the Air vs X250 vs X1 Carbon Gen 3. I can
+tell you I'm not looking forward to ordering it on [Lenovo's horrible
+Website](http://www.lenovo.com/sg/en/) and I won't be purchasing an extra plan
+since Lenovo are absolutely hopeless at service & support.
