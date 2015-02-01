@@ -55,15 +55,14 @@ on a wired connection.
 
 # What next
 
-I'm thinking of waiting what obviously better designed hardware, when [Apple
-will update their product line to](http://buyersguide.macrumors.com/#Mac)
-Intel's delayed Broadwell generation. They might be getting better Broadwell
-reference hardware from Intel than what Lenovo can or have some other hardware
-innovation. I like Apple's charger cables and that would make like easier
-around my family since all have Apple hardware.
+[Apple have yet to update their product line to Intel's delayed Broadwell
+generation](http://buyersguide.macrumors.com/#Mac) They might be getting better
+Broadwell reference hardware from Intel than Lenovo... or have some other
+hardware innovation. I really like Apple's charger cables and that would make
+like easier around my family since all have Apple hardware.
 
 Nonetheless even though I'm a ashamedly happy IOS iPhone6 user, I do want to
-use the best alternative to Apple hardware and software. Got to Think different!
+use the best alternative to Apple hardware and software. Got to **Think different**!
 
 Will that be the X1 Carbon Gen 3 & Archlinux? I'll let you know. A lot will
 depend on reviews and price points of the Air vs X250 vs X1 Carbon Gen 3. I can
