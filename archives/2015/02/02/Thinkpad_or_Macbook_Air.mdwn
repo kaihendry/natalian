@@ -26,14 +26,14 @@ Seriously.
 Thankfully Lenovo reversed their earlier poor design decision and re-introduced
 physical mouse buttons across their Laptop product line up, [which I have been studying](http://www.lenovo.com/psref/pdf/tabook.pdf).
 
-Naturally I wanted to upgrade from my X220 to the X250, but on closer inspection I'm put off by the X240's:
+Naturally I wanted to upgrade from my X220 to the X250, but on closer inspection I'm put off by the X250's:
 
 * Glass-Fiber Reinforced Plastic
 * Still the same 1366x768, 12.5"
 
-Aesthetically disappointed that Lenovo can't make a Thinkpad where there aren't
-huge bezels on the side of screen and keyboard. Shame they can't make it flush
-and like the original design intention of a Bento box.
+I'm sore that Lenovo seem unable to make a Thinkpad where there aren't **huge
+bezels** on the side of screen and keyboard. Shame they can't make it flush and
+like the original design intention of a Bento box. :/
 
 # X220 to ThinkPad X1 Carbon (3rd Gen) ?
 
