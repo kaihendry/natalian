@@ -48,10 +48,14 @@ pain to setup with Xorg and likely to drain my battery faster.
 
 My concerns with going for the X1 Carbon is that the hard drive is not
 replaceable AFAICT. I inevitably want to upgrade the hard drive like I've done
-on every Thinkpad I've owned. I'm worried that the external Ethernet is just a
-[poor performing USB3 to Gigabit
-adaptor](https://www.flickr.com/photos/hendry/14472901454/). I prefer to work
-on a wired connection.
+on every Thinkpad I've owned. 
+
+<strike>I'm worried that the external Ethernet is just a [poor performing USB3
+to Gigabit
+adaptor](https://www.flickr.com/photos/hendry/14472901454/)</strike>. I'm
+assured the [ethernet port is a real
+one](http://www.reddit.com/r/thinkpad/comments/2ug3no/thinkpad_x1_carbon_gen_3_or_wait_for_new_macbook/co8bivm).
+I prefer to work on a wired connection.
 
 # What next
 
