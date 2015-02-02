@@ -39,9 +39,9 @@ like the original design intention of a Bento box. :/
 
 The Intel Broadwell based ThinkPad X1 Carbon (3rd Gen) i5-5300U or i7-5500U looks like the one.
 
-* Carbon X1 re-assuring is made of Magnesium/Aluminum, and hence I'm assuming a better build quality than the X250
+* Carbon X1 re-assuringly is made of Magnesium/Aluminum, and hence I'm assuming a better build quality than the X250
 * The 14" sized displays starts at FHD 1920x1080, not sure I want to take the leap to WQHD 2560x1440.
-* Actually like the HDMI port instead of the VGA port
+* I prefer the HDMI port instead of the VGA port, since all my screens around my house are HDMI compatible, since 2010 ;)
 
 Can't help but think a high resolution screen 2560x1440 will be an absolute
 pain to setup with Xorg and likely to drain my battery faster.
