@@ -46,8 +46,8 @@ The Intel Broadwell based ThinkPad X1 Carbon (3rd Gen) i5-5300U or i7-5500U look
 Can't help but think a high resolution screen 2560x1440 will be an absolute
 pain to setup with Xorg and likely to drain my battery faster.
 
-My concerns with going for the X1 Carbon is that the hard drive is not
-replaceable AFAICT. I inevitably want to upgrade the hard drive like I've done
+My concerns with going for the X1 Carbon is that the <strike>hard drive is not
+replaceable AFAICT</strike>. A [reddit user says the hard drive is a standard M2](http://www.reddit.com/r/thinkpad/comments/2ug3no/thinkpad_x1_carbon_gen_3_or_wait_for_new_macbook/co8cljf) and therefore should be replacable. I inevitably want to upgrade the hard drive like I've done
 on every Thinkpad I've owned. 
 
 <strike>I'm worried that the external Ethernet is just a [poor performing USB3
