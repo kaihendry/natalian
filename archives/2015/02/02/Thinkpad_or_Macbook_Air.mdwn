@@ -76,3 +76,5 @@ Website](http://www.lenovo.com/sg/en/) and I won't be purchasing an extra plan
 since Lenovo are absolutely hopeless at service & support.
 
 Update: Although [Dell's Broadwell Ultrabook, the XPS 13 lacks a Trackpoint](http://hothardware.com/reviews/dell-xps-13-2015-ultrabook-hothardwares-full-review), it looks worthy of a mention. Carbon fibre and the low bezel screen looks amazing.
+
+Update: [DoubleDown](http://en.wikipedia.org/wiki/Skylake_%28microarchitecture%29) pointed out that Intel's next next generation [Skylake](http://en.wikipedia.org/wiki/Skylake_%28microarchitecture%29) is due in a few months (Q2) since **Broadwell has been so delayed**.
