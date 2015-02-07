@@ -149,3 +149,24 @@ charge something like 5SGD instead of the online bank's 100SGD to get your
 money transferred.
 
 BEWARE OF SINGAPOREAN BANKS
+
+# Account numbers are not what they seem
+
+Example given for account 50978XXXX001, the Branch Code should be 509 and the
+Account No. should be 78XXXX001. Yes, drop the first 3 digits of the account
+number! Isn't that obvious?! Actually it can be different from account type to
+account type.
+
+Next, you need to look up the **Payee Bank Code** & **Payee Bank Local Clearing
+Code**. If you think the Payee Web form is going to help you, you will be
+mistaken. If you make a mistake, money will go out. Maybe come back in about 3
+days with a 0.45SGD fee. That means you got it wrong.
+
+Try again! There is perpetual confusion over account numbers in Singapore.
+Despite having a body called the [Association of Banks
+Singapore](http://abs.org.sg/) allegedly trying to clarify the situation with
+these PDFs like:
+<http://www.abs.org.sg/pdfs/Newsroom/PressReleases/2014/FAST_FS_20140320.pdf>.
+
+It makes the 8 digit account numbers and 6 digits sorting codes of Britain seem
+like UTTER GENIUS.
