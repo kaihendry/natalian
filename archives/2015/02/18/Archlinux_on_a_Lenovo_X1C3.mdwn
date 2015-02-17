@@ -40,9 +40,17 @@ Rating: 2 of 5 stars
 
 # Installing Archlinux
 
-Sadly I found the Archlinux documentation a bit lacking. I was going to attempt
-dual boot, but I couldn't understand how to resize the Windows NTFS partitions.
-So I just gave up.
+Sadly I found the [Archlinux dual boot
+documentation](https://wiki.archlinux.org/index.php/Windows_and_Arch_dual_boot)
+a bit lacking. I was going to attempt dual boot, but I couldn't understand how
+to resize the Windows NTFS partitions.  So I just gave up.
+
+I was hoping that Lenovo would include some sort of recovery USB stick, instead
+of their [weird
+partitioning](https://www.flickr.com/photos/hendry/16371358329/) they ship
+with. Bye bye Windows and
+[shitty](https://www.flickr.com/photos/hendry/16531626476/) [preloaded Lenovo
+software](https://www.flickr.com/photos/hendry/16370184810/) !
 
 I went for the "modern" [GPT
 method](https://wiki.archlinux.org/index.php/Partitioning#Using_GPT_-_modern_method)
@@ -58,11 +66,20 @@ I found <https://aur.archlinux.org/packages/xf86-input-evdev-trackpoint/> to fix
 ## Odd interface names
 
 Somewhat annoyingly my wifi0 is called `wlp4s0` and my eth0 is called
-`enp0s25`. Got to thanks
+`enp0s25`. Got to thank
 [systemd](http://www.freedesktop.org/wiki/Software/systemd/PredictableNetworkInterfaceNames/)
 for that.
 
 ## Keyboard
 
 Different spacing to the X220. I don't like the grease marks my sweat leaves
-behind. Thankfully this machine runs cool, like 42C atm, so already that's way way more comfortable than my old Thinkpad.
+behind. Thankfully this machine runs cool, like 42C atm, so already that's way
+way more comfortable than my old Thinkpad.
+
+I'm now also using a US keyboard layout `setxkbmap -model thinkpad -layout us -option ctrl:nocaps` from `setxkbmap -layout gb -option ctrl:nocaps`.
+
+## Screen
+
+Loving the 1920x1080 screen so far. Didn't have to do anything special so far
+to resize anything.`google-chrome-unstable` and st's `static char font[] =
+"Terminus:pixelsize=18";` is serving me well!
