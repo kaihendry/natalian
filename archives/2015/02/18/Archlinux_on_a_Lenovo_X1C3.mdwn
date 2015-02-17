@@ -148,4 +148,4 @@ I actually need to backup a [nearly broken
 exfat](https://groups.google.com/forum/#!msg/exfat/upu-rfEnQ0o/hHGK5ezSu-oJ)
 1TB USB3 drive to a newer USB3 2TB drive formatted in glorious ext4. Using
 `sudo rsync -Part --exclude=".*" --exclude ".*/" .  /mnt/2tb/recovery/` I'm
-getting 90mb/sec across the USB3 bus.
+getting 90Mb/sec across the USB3 bus.
