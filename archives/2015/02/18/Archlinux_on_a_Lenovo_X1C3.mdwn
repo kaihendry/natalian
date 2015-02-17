@@ -4,6 +4,8 @@ It arrived 2015-02-17 after ordering it on the 2015-02-09. It feels like bloody 
 
 # Identification
 
+<iframe src="https://www.flickr.com/photos/hendry/16556984891/player/" width="240" height="180" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 The model number on the order is 20BTCTO1WW. Lenovo's Safety and Setup Guide refer to this as Machine Types: 20BS and 20BT. Serial number is R90F6C3B which is confirmed by `/sys/devices/virtual/dmi/id/product_serial`.
 
 	# for i in /sys/devices/virtual/dmi/id/*; do echo $i: $(cat $i); done
@@ -71,6 +73,8 @@ I found <https://aur.archlinux.org/packages/xf86-input-evdev-trackpoint/> to fix
 
 Thanks to: <https://bbs.archlinux.org/viewtopic.php?id=192875>
 
+I've also [disabled the trackpad](https://www.flickr.com/photos/hendry/15938481073/in/photostream/) since it was resulting in odd selections. I wonder if I can configure it **just to scroll** ?
+
 ## Annoying network interface names
 
 Somewhat annoyingly my wifi0 is called `wlp4s0` and my eth0 is called
@@ -79,6 +83,8 @@ Somewhat annoyingly my wifi0 is called `wlp4s0` and my eth0 is called
 for that.
 
 Both interfaces "just work" and perform great!
+
+Hint if `/var/run/systemd/resolve/resolv.conf` is missing, you need `sudo systemctl status systemd-resolved` and then enable it.
 
 ## Keyboard
 
@@ -107,6 +113,8 @@ However when I slouch, I noticed the viewing angle is not very good. Maybe this 
 
 ### GL performance
 
-I installed [quake3 from aur](https://aur.archlinux.org/packages/quake3/)
+<iframe src="https://www.flickr.com/photos/hendry/16556986261/player/" width="240" height="240" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+I installed [quake3 from AUR](https://aur.archlinux.org/packages/quake3/)
 hoping to gauge Intel Broadwell performance. However the FPS seems capped to 60 fps
 and it doesn't go fullscreen. Bother.
