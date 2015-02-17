@@ -59,6 +59,12 @@ just one big partition formatted with ext4:
 
 	/dev/sda1   2048 500118158 500116111 238.5G Linux filesystem
 
+[Syslinux](https://wiki.archlinux.org/index.php/Syslinux) install was also a
+little confusing. Do I run it in the `arch-chroot` or not?
+`syslinux-install_update -i -a -m` worked from within the chroot, but the
+default `grep root /boot/syslinux/syslinux.cfg` was `APPEND root=/dev/sda3 rw`
+and not **/dev/sda1**.
+
 ## X1C3 mouse buttons not working
 
 I found <https://aur.archlinux.org/packages/xf86-input-evdev-trackpoint/> to fix the physical mouse buttons.
@@ -80,7 +86,8 @@ Different spacing to the X220. I don't like the grease marks my sweat leaves
 behind. Thankfully this machine runs cool, like 42C atm, so already that's way
 way more comfortable than my old Thinkpad.
 
-I'm now also using a US keyboard layout `setxkbmap -model thinkpad -layout us -option ctrl:nocaps` from `setxkbmap -layout gb -option ctrl:nocaps`.
+I'm now also using a US keyboard layout `setxkbmap -model thinkpad -layout us
+-option ctrl:nocaps` from `setxkbmap -layout gb -option ctrl:nocaps`. Need to report back how it goes...
 
 ## Screen
 
