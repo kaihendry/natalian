@@ -149,3 +149,6 @@ exfat](https://groups.google.com/forum/#!msg/exfat/upu-rfEnQ0o/hHGK5ezSu-oJ)
 1TB USB3 drive to a newer USB3 2TB drive formatted in glorious ext4. Using
 `sudo rsync -Part --exclude=".*" --exclude ".*/" .  /mnt/2tb/recovery/` I'm
 getting 90Mb/sec across the USB3 bus.
+
+Actually it seemed to speed up since it copied the 400+GB in 2 hrs, not the
+calculated 11. Any ideas how to better calculate this?
