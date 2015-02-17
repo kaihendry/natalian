@@ -28,15 +28,15 @@ The model number on the order is 20BTCTO1WW. Lenovo's Safety and Setup Guide ref
 
 # Delivery
 
-The purchase and [delivery](https://twitter.com/kaihendry/status/567531336764628992) UX was frankly terrible. Really not forward to every [communicating with Lenovo](http://greptweet.com/u/kaihendry/#lenovo_sg), in the case there is some issue that requires customer service.
+The purchase and [delivery](https://twitter.com/kaihendry/status/567531336764628992) UX was frankly terrible. Really not looking forward to [communicating with Lenovo](http://greptweet.com/u/kaihendry/#lenovo_sg), in the case there is some issue that requires customer service. :/
 
 # Unboxing
 
 Usual bunch of stupid pieces of paper and [ugly fingerprints](https://www.flickr.com/photos/hendry/16556531822/)!
 
-It's well packed though. The X1C3 feels like it might not survive a drop as well as my X220. It also sadly doesn't have spillage holes.
+It's well packed though. The X1C3 feels like it might not survive a drop as well as my X220. It also worryingly doesn't have spillage holes.
 
-I am wondering about a sleeve to put it in, in order to prevent scratches and the sort!!
+I am wondering about a sleeve to put it in, in order to prevent scratches and the sort whilst it travels in my pannier.
 
 # Installing Archlinux
 
@@ -85,7 +85,7 @@ I'm now also using a US keyboard layout `setxkbmap -model thinkpad -layout us -o
 ## Screen
 
 Loving the 1920x1080 screen so far. Didn't have to do anything special so far
-to resize anything.`google-chrome-unstable` and <a href=http://st.suckless.org/>st</a>'s `static char font[] =
+to resize anything. `google-chrome-unstable` and <a href=http://st.suckless.org/>st</a>'s `static char font[] =
 "Terminus:pixelsize=18";` is serving me well!
 
 This is [how much bigger my irssi/tmux session is now](https://www.flickr.com/photos/hendry/16556331001/) compared to my X220!
