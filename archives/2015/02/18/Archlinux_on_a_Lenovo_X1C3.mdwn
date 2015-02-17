@@ -65,12 +65,14 @@ I found <https://aur.archlinux.org/packages/xf86-input-evdev-trackpoint/> to fix
 
 Thanks to: <https://bbs.archlinux.org/viewtopic.php?id=192875>
 
-## Odd interface names
+## Annoying network interface names
 
 Somewhat annoyingly my wifi0 is called `wlp4s0` and my eth0 is called
 `enp0s25`. Got to thank
 [systemd](http://www.freedesktop.org/wiki/Software/systemd/PredictableNetworkInterfaceNames/)
 for that.
+
+Both interfaces "just work" and perform great!
 
 ## Keyboard
 
@@ -89,3 +91,9 @@ to resize anything.`google-chrome-unstable` and <a href=http://st.suckless.org/>
 This is [how much bigger my irssi/tmux session is now](https://www.flickr.com/photos/hendry/16556331001/) compared to my X220!
 
 I dare say the colours are better [side by side against the X220](https://www.flickr.com/photos/hendry/16370553040).
+
+### GL performance
+
+I installed [quake3 from aur](https://aur.archlinux.org/packages/quake3/)
+hoping to gauge Intel Broadwell performance. However the FPS seems capped to 60 fps
+and it doesn't go fullscreen. Bother.
