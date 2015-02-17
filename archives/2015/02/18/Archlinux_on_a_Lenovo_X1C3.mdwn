@@ -1,0 +1,68 @@
+So I bought the [[X1 Carbon Generation 3|archives/2015/02/02/Thinkpad_or_Macbook_Air]] !
+
+# Identification
+
+The model number on the order is 20BTCTO1WW. Lenovo's Safety and Setup Guide refer to this as Machine Types: 20BS and 20BT. Serial number is R90F6C3B which is confirmed by `/sys/devices/virtual/dmi/id/product_serial`.
+
+	# for i in /sys/devices/virtual/dmi/id/*; do echo $i: $(cat $i); done
+	/sys/devices/virtual/dmi/id/bios_date: 12/01/2014
+	/sys/devices/virtual/dmi/id/bios_vendor: LENOVO
+	/sys/devices/virtual/dmi/id/bios_version: N14ET25W (1.03 )
+	/sys/devices/virtual/dmi/id/board_asset_tag: Not Available
+	/sys/devices/virtual/dmi/id/board_name: 20BTCTO1WW
+	/sys/devices/virtual/dmi/id/board_serial: W1KS52410G3
+	/sys/devices/virtual/dmi/id/board_vendor: LENOVO
+	/sys/devices/virtual/dmi/id/board_version: SDK0E50510 WIN
+	/sys/devices/virtual/dmi/id/chassis_asset_tag: No Asset Information
+	/sys/devices/virtual/dmi/id/chassis_serial: R90F6C3B
+	/sys/devices/virtual/dmi/id/chassis_type: 10
+	/sys/devices/virtual/dmi/id/chassis_vendor: LENOVO
+	/sys/devices/virtual/dmi/id/chassis_version: None
+	/sys/devices/virtual/dmi/id/product_name: 20BTCTO1WW
+	/sys/devices/virtual/dmi/id/product_serial: R90F6C3B
+	/sys/devices/virtual/dmi/id/product_uuid: 01DA4854-B754-CB11-BF15-8F9604DEA04D
+	/sys/devices/virtual/dmi/id/product_version: ThinkPad X1 Carbon 3rd
+
+
+# Delivery
+
+The purchase and [delivery](https://twitter.com/kaihendry/status/567531336764628992) UX was frankly terrible. Really not forward to every [communicating with Lenovo](http://greptweet.com/u/kaihendry/#lenovo_sg), in the case there is some issue that requires customer service.
+
+Rating: 2 of 5 stars
+
+# Unboxing
+
+Usual bunch of stupid pieces of paper and [ugly fingerprints](https://www.flickr.com/photos/hendry/16556531822/)!
+
+It's well packed though.
+
+Rating: 2 of 5 stars
+
+# Installing Archlinux
+
+Sadly I found the Archlinux documentation a bit lacking. I was going to attempt
+dual boot, but I couldn't understand how to resize the Windows NTFS partitions.
+So I just gave up.
+
+I went for the "modern" [GPT
+method](https://wiki.archlinux.org/index.php/Partitioning#Using_GPT_-_modern_method)
+of partitioning and admittedly I have no clue what **GPT** means. I now have
+just one big partition formatted with ext4:
+
+	/dev/sda1   2048 500118158 500116111 238.5G Linux filesystem
+
+## Mouse not working
+
+I found <https://aur.archlinux.org/packages/xf86-input-evdev-trackpoint/> to fix the physical mouse buttons.
+
+## Odd interface names
+
+Somewhat annoyingly my wifi0 is called `wlp4s0` and my eth0 is called
+`enp0s25`. Got to thanks
+[systemd](http://www.freedesktop.org/wiki/Software/systemd/PredictableNetworkInterfaceNames/)
+for that.
+
+## Keyboard
+
+Different spacing to the X220. I don't like the grease marks my sweat leaves
+behind. Thankfully this machine runs cool, like 42C atm, so already that's way way more comfortable than my old Thinkpad.
