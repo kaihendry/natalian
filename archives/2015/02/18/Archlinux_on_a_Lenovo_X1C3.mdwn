@@ -69,11 +69,14 @@ and not **/dev/sda1**.
 
 ## X1C3 mouse buttons not working
 
-I found <https://aur.archlinux.org/packages/xf86-input-evdev-trackpoint/> to fix the physical mouse buttons.
+	# echo "options psmouse proto=imps" > /etc/modprobe.d/psmouse.conf
 
 Thanks to: <https://bbs.archlinux.org/viewtopic.php?id=192875>
 
-I've also [disabled the trackpad](https://www.flickr.com/photos/hendry/15938481073/in/photostream/) since it was resulting in odd selections. I wonder if I can configure it **just to scroll** ?
+I've also [disabled the
+trackpad](https://www.flickr.com/photos/hendry/15938481073/in/photostream/)
+since it was resulting in odd selections. I wonder if I can configure it **just
+to scroll** ?
 
 ## Annoying network interface names
 
@@ -115,6 +118,10 @@ However when I slouch, I noticed the viewing angle is not very good. Maybe this 
 
 <iframe src="https://www.flickr.com/photos/hendry/16556986261/player/" width="240" height="240" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-I installed [quake3 from AUR](https://aur.archlinux.org/packages/quake3/)
-hoping to gauge Intel Broadwell performance. However the FPS seems capped to 60 fps
-and it doesn't go fullscreen. Bother.
+[ioquake-git](https://aur.archlinux.org/packages/ioquake3-git) works better than [quake3 from AUR](https://aur.archlinux.org/packages/quake3/).
+
+	seta r_mode "-1"
+	seta r_customwidth "1920"
+	seta r_customheight "1080"
+
+At least I can go full screen now. Just that my mouse doesn't work.
