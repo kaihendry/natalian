@@ -89,6 +89,10 @@ way more comfortable than my old Thinkpad.
 I'm now also using a US keyboard layout `setxkbmap -model thinkpad -layout us
 -option ctrl:nocaps` from `setxkbmap -layout gb -option ctrl:nocaps`. Need to report back how it goes...
 
+shift+ctrl+end in Chrome is a bit awkward... that's the only keystroke I know
+to select to the end of a textarea. The issue is that **End** is an unintuitive
+spot along the top right row.
+
 ## Screen
 
 Loving the 1920x1080 screen so far. Didn't have to do anything special so far
@@ -98,6 +102,8 @@ to resize anything. `google-chrome-unstable` and <a href=http://st.suckless.org/
 This is [how much bigger my irssi/tmux session is now](https://www.flickr.com/photos/hendry/16556331001/) compared to my X220!
 
 I dare say the colours are better [side by side against the X220](https://www.flickr.com/photos/hendry/16370553040).
+
+However when I slouch, I noticed the viewing angle is not very good. Maybe this will force me to sit upright!
 
 ### GL performance
 
