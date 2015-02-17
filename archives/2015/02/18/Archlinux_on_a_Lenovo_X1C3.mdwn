@@ -34,7 +34,9 @@ Rating: 2 of 5 stars
 
 Usual bunch of stupid pieces of paper and [ugly fingerprints](https://www.flickr.com/photos/hendry/16556531822/)!
 
-It's well packed though.
+It's well packed though. The X1C3 feels like it might not survive a drop as well as my X220. It also sadly doesn't have spillage holes.
+
+I am wondering about a sleeve to put it in, in order to prevent scratches and the sort!!
 
 Rating: 2 of 5 stars
 
@@ -63,6 +65,8 @@ just one big partition formatted with ext4:
 
 I found <https://aur.archlinux.org/packages/xf86-input-evdev-trackpoint/> to fix the physical mouse buttons.
 
+Thanks to: <https://bbs.archlinux.org/viewtopic.php?id=192875>
+
 ## Odd interface names
 
 Somewhat annoyingly my wifi0 is called `wlp4s0` and my eth0 is called
@@ -81,5 +85,9 @@ I'm now also using a US keyboard layout `setxkbmap -model thinkpad -layout us -o
 ## Screen
 
 Loving the 1920x1080 screen so far. Didn't have to do anything special so far
-to resize anything.`google-chrome-unstable` and st's `static char font[] =
+to resize anything.`google-chrome-unstable` and <a href=http://st.suckless.org/>st</a>'s `static char font[] =
 "Terminus:pixelsize=18";` is serving me well!
+
+This is [how much bigger my irssi/tmux session is now](https://www.flickr.com/photos/hendry/16556331001/) compared to my X220!
+
+I dare say the colours are better [side by side against the X220](https://www.flickr.com/photos/hendry/16370553040).
