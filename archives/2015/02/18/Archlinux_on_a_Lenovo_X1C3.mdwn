@@ -1,5 +1,7 @@
 So I bought the [[X1 Carbon Generation 3|archives/2015/02/02/Thinkpad_or_Macbook_Air]] !
 
+It arrived 2015-02-17 after ordering it on the 2015-02-09. It feels like bloody Christmas !!
+
 # Identification
 
 The model number on the order is 20BTCTO1WW. Lenovo's Safety and Setup Guide refer to this as Machine Types: 20BS and 20BT. Serial number is R90F6C3B which is confirmed by `/sys/devices/virtual/dmi/id/product_serial`.
@@ -28,8 +30,6 @@ The model number on the order is 20BTCTO1WW. Lenovo's Safety and Setup Guide ref
 
 The purchase and [delivery](https://twitter.com/kaihendry/status/567531336764628992) UX was frankly terrible. Really not forward to every [communicating with Lenovo](http://greptweet.com/u/kaihendry/#lenovo_sg), in the case there is some issue that requires customer service.
 
-Rating: 2 of 5 stars
-
 # Unboxing
 
 Usual bunch of stupid pieces of paper and [ugly fingerprints](https://www.flickr.com/photos/hendry/16556531822/)!
@@ -37,8 +37,6 @@ Usual bunch of stupid pieces of paper and [ugly fingerprints](https://www.flickr
 It's well packed though. The X1C3 feels like it might not survive a drop as well as my X220. It also sadly doesn't have spillage holes.
 
 I am wondering about a sleeve to put it in, in order to prevent scratches and the sort!!
-
-Rating: 2 of 5 stars
 
 # Installing Archlinux
 
@@ -61,7 +59,7 @@ just one big partition formatted with ext4:
 
 	/dev/sda1   2048 500118158 500116111 238.5G Linux filesystem
 
-## Mouse not working
+## X1C3 mouse buttons not working
 
 I found <https://aur.archlinux.org/packages/xf86-input-evdev-trackpoint/> to fix the physical mouse buttons.
 
