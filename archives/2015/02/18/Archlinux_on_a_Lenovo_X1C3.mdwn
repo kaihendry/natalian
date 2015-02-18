@@ -51,6 +51,8 @@ documentation](https://wiki.archlinux.org/index.php/Windows_and_Arch_dual_boot)
 a bit lacking. I was going to attempt dual boot, but I couldn't understand how
 to resize the Windows NTFS partitions.  So I just gave up.
 
+Also I was put confused by the UEFI BIOS stuff. Oh well.
+
 I was hoping that Lenovo would include some sort of recovery USB stick, instead
 of their [weird
 partitioning](https://www.flickr.com/photos/hendry/16371358329/) they ship
@@ -71,6 +73,10 @@ little confusing. Do I run it in the `arch-chroot` or not?
 default `grep root /boot/syslinux/syslinux.cfg` was `APPEND root=/dev/sda3 rw`
 and not **/dev/sda1**.
 
+<a href=http://ix.io/gp5>
+	Startup finished in 1.547s (kernel) + 519ms (userspace) = 2.066s
+</a>
+
 ## X1C3 mouse buttons not working
 
 	# echo "options psmouse proto=imps" > /etc/modprobe.d/psmouse.conf
@@ -83,6 +89,15 @@ since it was resulting in odd selections. I wonder if I can configure it **just
 to scroll** ?
 
 ## Annoying network interface names
+
+	X1C3:~$ networkctl
+	IDX LINK             TYPE               OPERATIONAL SETUP
+	  1 lo               loopback           carrier     configured
+	  2 wlp4s0           wlan               routable    configured
+	  3 enp0s25          ether              no-carrier  configuring
+
+	3 links listed.
+
 
 Somewhat annoyingly my wifi0 is called `wlp4s0` and my eth0 is called
 `enp0s25`. Got to thank
@@ -128,11 +143,9 @@ This is [how much bigger my irssi/tmux session is now](https://www.flickr.com/ph
 
 I dare say the colours are better [side by side against the X220](https://www.flickr.com/photos/hendry/16370553040).
 
-However when I slouch, I noticed the viewing angle is not very good. Maybe this will force me to sit upright!
+However when I slouch, I noticed the **viewing angle is not very good**. Maybe this will force me to sit upright!
 
 ### GL performance
-
-<iframe src="https://www.flickr.com/photos/hendry/16556986261/player/" width="240" height="240" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 [ioquake-git](https://aur.archlinux.org/packages/ioquake3-git) works better than [quake3 from AUR](https://aur.archlinux.org/packages/quake3/).
 
