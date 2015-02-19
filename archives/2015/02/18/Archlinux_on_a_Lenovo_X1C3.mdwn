@@ -2,6 +2,8 @@ So I bought the [[X1 Carbon Generation 3|archives/2015/02/02/Thinkpad_or_Macbook
 
 It arrived 2015-02-17 after ordering it on the 2015-02-09. It feels like bloody Christmas !!
 
+I love how quiet this machine is.
+
 # Identification
 
 <iframe src="https://www.flickr.com/photos/hendry/16556984891/player/" width="240" height="180" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
@@ -27,6 +29,15 @@ The model number on the order is 20BTCTO1WW. Lenovo's Safety and Setup Guide ref
 	/sys/devices/virtual/dmi/id/product_uuid: 01DA4854-B754-CB11-BF15-8F9604DEA04D
 	/sys/devices/virtual/dmi/id/product_version: ThinkPad X1 Carbon 3rd
 
+	X1C3:~$ hostnamectl
+	   Static hostname: X1C3
+			 Icon name: computer-laptop
+			   Chassis: laptop
+			Machine ID: 2e68738c559147e2a181d4fb70f030c5
+			   Boot ID: a6f72f88e4e443e1898be5a4f615c16a
+	  Operating System: Arch Linux
+				Kernel: Linux 3.18.6-1-ARCH
+		  Architecture: x86-64
 
 # Delivery
 
@@ -112,7 +123,7 @@ Hint if `/var/run/systemd/resolve/resolv.conf` is missing, you need `sudo system
 
 Different spacing to the X220. I don't like the grease marks my sweat leaves
 behind. Thankfully this machine runs cool, like 42C atm, so already that's way
-way more comfortable than my old Thinkpad.
+way more comfortable than my old X220 Thinkpad.
 
 I'm now also using a US keyboard layout `setxkbmap -model thinkpad -layout us
 -option ctrl:nocaps` from `setxkbmap -layout gb -option ctrl:nocaps`. Need to report back how it goes...
