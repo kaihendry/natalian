@@ -69,7 +69,7 @@ of their [weird
 partitioning](https://www.flickr.com/photos/hendry/16371358329/) they ship
 with. Bye bye Windows and
 [shitty](https://www.flickr.com/photos/hendry/16531626476/) [preloaded Lenovo
-software](https://www.flickr.com/photos/hendry/16370184810/) !
+software](https://www.flickr.com/photos/hendry/16370184810/) ! [Confirmed by HN](https://news.ycombinator.com/item?id=9072424)
 
 I went for the "modern" [GPT
 method](https://wiki.archlinux.org/index.php/Partitioning#Using_GPT_-_modern_method)
@@ -119,6 +119,8 @@ Both interfaces "just work" and perform great!
 
 Hint if `/var/run/systemd/resolve/resolv.conf` is missing, you need `sudo systemctl status systemd-resolved` and then enable it.
 
+I've experienced a [wireless issue](https://bugzilla.kernel.org/show_bug.cgi?id=93471), but I think it's more a TP-LINK AP issue.
+
 ## Keyboard
 
 Different spacing to the X220. I don't like the grease marks my sweat leaves
@@ -156,6 +158,14 @@ I dare say the colours are better [side by side against the X220](https://www.fl
 
 However when I slouch, I noticed the **viewing angle is not very good**. Maybe this will force me to sit upright!
 
+### HDMI
+
+Can't get sound to output on it.
+
+When I attach my iPhone headphones, the voice recordings are awful. Wish I could figure out a way to hear what I'm recording in pulseaudio.
+
+
+
 ### GL performance
 
 [ioquake-git](https://aur.archlinux.org/packages/ioquake3-git) works better than [quake3 from AUR](https://aur.archlinux.org/packages/quake3/).
@@ -164,7 +174,7 @@ However when I slouch, I noticed the **viewing angle is not very good**. Maybe t
 	seta r_customwidth "1920"
 	seta r_customheight "1080"
 
-At least I can go full screen now. Just that my mouse doesn't work.
+At least I can go full screen now. Just that my [mouse doesn't work](https://github.com/ioquake/ioq3/issues/113).
 
 ## USB 3 performance
 
