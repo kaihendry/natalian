@@ -109,7 +109,6 @@ to scroll** ?
 
 	3 links listed.
 
-
 Somewhat annoyingly my wifi0 is called `wlp4s0` and my eth0 is called
 `enp0s25`. Got to thank
 [systemd](http://www.freedesktop.org/wiki/Software/systemd/PredictableNetworkInterfaceNames/)
@@ -148,8 +147,10 @@ But not the volume or brightness buttons AFAICT.
 
 ## Screen
 
-Loving the 1920x1080 screen so far. Didn't have to do anything special so far
-to resize anything. `google-chrome-unstable` and <a href=http://st.suckless.org/>st</a>'s `static char font[] =
+I'm enjoying the 1920x1080 screen so far, especially since I more room to tile
+two windows side by side in [dwm](http://dwm.suckless.org/). Didn't have to do
+anything special so far to resize anything. `google-chrome-unstable` and <a
+href=http://st.suckless.org/>st</a>'s `static char font[] =
 "Terminus:pixelsize=18";` is serving me well!
 
 This is [how much bigger my irssi/tmux session is now](https://www.flickr.com/photos/hendry/16556331001/) compared to my X220!
@@ -162,9 +163,8 @@ However when I slouch, I noticed the **viewing angle is not very good**. Maybe t
 
 Can't get sound to output on it.
 
-When I attach my iPhone headphones, the voice recordings are awful. Wish I could figure out a way to hear what I'm recording in pulseaudio.
-
-
+When I attach my iPhone headphones, the voice recordings are awful. Wish I
+could figure out a way to hear what I'm recording in pulseaudio.
 
 ### GL performance
 
@@ -174,11 +174,13 @@ When I attach my iPhone headphones, the voice recordings are awful. Wish I could
 	seta r_customwidth "1920"
 	seta r_customheight "1080"
 
-At least I can go full screen now. Just that my [mouse doesn't work](https://github.com/ioquake/ioq3/issues/113).
+At least I can go full screen now. Just that my [mouse doesn't
+work](https://github.com/ioquake/ioq3/issues/113). It seems to be locked to
+60fps and I haven't worked out how to turn off vsync.
 
 ## USB 3 performance
 
-I actually need to backup a [nearly broken
+I needed to backup a [nearly broken
 exfat](https://groups.google.com/forum/#!msg/exfat/upu-rfEnQ0o/hHGK5ezSu-oJ)
 1TB USB3 drive to a newer USB3 2TB drive formatted in glorious ext4. Using
 `sudo rsync -Part --exclude=".*" --exclude ".*/" .  /mnt/2tb/recovery/` I'm
