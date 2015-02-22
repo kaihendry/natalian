@@ -53,7 +53,7 @@ I am wondering about a sleeve to put it in, in order to prevent scratches and th
 
 The rectangular yellow power supply connection is a bit of a disappointment.
 Feels stiff, fallible and why is it so similar to have USB connector? Brain
-dead.
+dead. I also miss the loud BEEP when I gain or lose mains power. :/
 
 # Installing Archlinux
 
@@ -118,6 +118,8 @@ Both interfaces "just work" and perform great!
 
 Hint if `/var/run/systemd/resolve/resolv.conf` is missing, you need `sudo systemctl status systemd-resolved` and then enable it.
 
+Tethering from my iPhone6 works once `usbmuxd` is is installed, the interface name is `enp0s20u1c4i2`.
+
 I've experienced a [wireless issue](https://bugzilla.kernel.org/show_bug.cgi?id=93471), but I think it's more a TP-LINK AP issue.
 
 ## Keyboard
@@ -129,10 +131,6 @@ way more comfortable than my old X220 Thinkpad.
 I'm now also using a US keyboard layout `setxkbmap -model thinkpad -layout us
 -option ctrl:nocaps` from `setxkbmap -layout gb -option ctrl:nocaps`. Need to report back how it goes...
 
-shift+ctrl+end in Chrome is a bit awkward... that's the only keystroke I know
-to select to the end of a textarea. The issue is that **End** is an unintuitive
-spot along the top right row.
-
 I've discovered I need function lock on, enabled by Esc+Fn with a green light
 coming on on the Fn, in order to use the function keys.
 
@@ -143,7 +141,11 @@ Function is not enabled the:
 * wifi kill button works
 * Mute works
 
-But not the volume or brightness buttons AFAICT.
+But not the volume or brightness buttons AFAICT. :/
+
+<a href="https://www.flickr.com/photos/hendry/16607185822" title="X220 to X1C3 keyboard remapping by Kai Hendry, on Flickr"><img src="https://farm9.staticflickr.com/8602/16607185822_cc8a42ed49.jpg" width="500" height="500" alt="X220 to X1C3 keyboard remapping"></a>
+
+I've [remapped the Thinkpad keys](https://www.flickr.com/photos/hendry/16607185822/) as above using [Xmodmap](https://github.com/kaihendry/dotfiles/blob/master/.Xmodmap).
 
 ## Screen
 
