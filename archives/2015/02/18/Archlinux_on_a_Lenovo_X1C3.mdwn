@@ -145,7 +145,7 @@ But not the volume or brightness buttons AFAICT. :/
 
 <a href="https://www.flickr.com/photos/hendry/16607185822" title="X220 to X1C3 keyboard remapping by Kai Hendry, on Flickr"><img src="https://farm9.staticflickr.com/8602/16607185822_cc8a42ed49.jpg" width="500" height="500" alt="X220 to X1C3 keyboard remapping"></a>
 
-I've [remapped the Thinkpad keys](https://www.flickr.com/photos/hendry/16607185822/) as above using [Xmodmap](https://github.com/kaihendry/dotfiles/blob/master/.Xmodmap).
+I've overrided [mapping the Thinkpad keys](https://www.flickr.com/photos/hendry/16607185822/) as above using [Xmodmap](https://github.com/kaihendry/dotfiles/blob/master/.Xmodmap) to help me find the Home/End keys better.
 
 ## Screen
 
@@ -157,16 +157,22 @@ href=http://st.suckless.org/>st</a>'s `static char font[] =
 
 This is [how much bigger my irssi/tmux session is now](https://www.flickr.com/photos/hendry/16556331001/) compared to my X220!
 
-I dare say the colours are better [side by side against the X220](https://www.flickr.com/photos/hendry/16370553040).
+Here you can maybe see the colour reproduction difference with a [side by side
+comparison against the X220](https://www.flickr.com/photos/hendry/16370553040).
+Tbh, I'm not that happy with the way the X1C3 reproduces yellow. It's way too
+close to white.
 
-However when I slouch, I noticed the **viewing angle is not very good**. Maybe this will force me to sit upright!
+When I slouch, I notice the **viewing angles are not good**.
 
-### HDMI
+### Sound
 
-Can't get sound to output on it.
+Can't get sound to output on HDMI.
 
-When I attach my iPhone headphones, the voice recordings are awful. Wish I
-could figure out a way to hear what I'm recording in pulseaudio.
+When I attach my iPhone headphones, the voice recordings are awful. I've even
+tried my Rode SmartLav+. There is just no sweet spot on `pavucontrol` to get
+noise/levels properly adjusted for a clear recording.  I suspected windows
+employs some high pass filtering and that's why no one complains about the
+microphone under Windows. :/
 
 ### GL performance
 
