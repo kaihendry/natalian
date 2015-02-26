@@ -186,7 +186,7 @@ At least I can go full screen now. Just that my [mouse doesn't
 work](https://github.com/ioquake/ioq3/issues/113). It seems to be locked to
 60fps and I haven't worked out how to turn off vsync.
 
-## USB 3 performance
+### USB 3 performance
 
 I needed to backup a [nearly broken
 exfat](https://groups.google.com/forum/#!msg/exfat/upu-rfEnQ0o/hHGK5ezSu-oJ)
@@ -196,3 +196,7 @@ getting 90Mb/sec across the USB3 bus.
 
 Actually it seemed to speed up since it copied the 400+GB in 2 hrs, not the
 calculated 11. Any ideas how to better calculate this?
+
+### Other issues
+
+I ran into this Archlinux [slow DNS resolving bug](https://bbs.archlinux.org/viewtopic.php?pid=1387264#p1387264)
