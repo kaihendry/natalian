@@ -61,5 +61,5 @@ competitiveness of our wonderful Internet!
 
 Further links:
 
-I noticed a now somewhat [stagnant project called
-redecentralize](http://redecentralize.org/about/) that echoes my sentiments.
+I noticed a [project called redecentralize](http://redecentralize.org/about/)
+that echoes my sentiments.
