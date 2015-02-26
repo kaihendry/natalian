@@ -21,7 +21,7 @@ Some examples:
 ### Email
 
 **Gmail** is not opensource. It's incredibly centralised so that if an enemy had
-access to Gmail, and lets assume most people use at as their email client, by
+access to Gmail, and lets imagine most people use Gmail as their email client, by
 and large that enemy could read your email. Gmail does make it possible to get
 your data out, so score is 1 of 3.
 
@@ -36,9 +36,9 @@ Ideally I would host my own email, but it takes too much effort for me.
 
 ### Chat
 
-A lot of people lately are saying, lets chat on Slack! Fail! AFAIK it doesn't
-allow you to get your data out, it's obviously centralised and it's not
-opensource. Why even consider it?
+A lot of people lately are saying, lets chat on [Slack](https://slack.com/)!
+Fail! AFAIK it doesn't allow you to get your data out, it's obviously
+centralised and it's not opensource. Why even consider it?
 
 The alternative is clear in my book. <abbr title="Inter Relay Chat">IRC</abbr>, which is 3 of 3. Though don't expect
 private communication.
@@ -55,6 +55,11 @@ point: <http://greptweet.com/>
 ## Final word
 
 An online life is complex. I tried to keep these 3 principles; Open Access,
-Decentralisation & Opensource as simple as possible, to help me and hopefully
+**Decentralisation** & Opensource as simple as possible, to help me and hopefully
 you make better decisions that should aid privacy and increase competitiveness
 of our wonderful Internet!
+
+Further links:
+
+I noticed a now somewhat [stagnant project called
+[redecentralize](http://redecentralize.org/about/) that echoes my sentiments.
