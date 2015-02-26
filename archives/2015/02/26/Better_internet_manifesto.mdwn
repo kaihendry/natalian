@@ -1,10 +1,10 @@
 Recently I feel inspired by [Internet's Own
 Boy](http://www.imdb.com/title/tt3268458/) and
 [Citizenfour](http://www.imdb.com/title/tt4044364), enough to pen my thoughts
-on how I view and judge Internet services. Much like Aaron Swartz did we his
-thoughts on [Open
-Access](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt),
-but hopefully not making me a target of the US government.
+on how I view and judge Internet services. Much like Aaron Swartz did when he
+shared his thoughts on [Open
+Access](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt).
+
 
 There are three guiding principles for me:
 
