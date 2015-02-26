@@ -55,11 +55,11 @@ point: <http://greptweet.com/>
 ## Final word
 
 An online life is complex. I tried to keep these 3 principles; Open Access,
-**Decentralisation** & Opensource as simple as possible, to help me and hopefully
-you make better decisions that should aid privacy and increase competitiveness
-of our wonderful Internet!
+**Decentralisation** & Opensource as simple as possible, to help me and
+hopefully you make better decisions that should aid privacy and increase
+competitiveness of our wonderful Internet!
 
 Further links:
 
 I noticed a now somewhat [stagnant project called
-[redecentralize](http://redecentralize.org/about/) that echoes my sentiments.
+redecentralize](http://redecentralize.org/about/) that echoes my sentiments.
