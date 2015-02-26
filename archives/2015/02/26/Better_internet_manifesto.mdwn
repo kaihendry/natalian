@@ -8,9 +8,9 @@ Access](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu
 
 There are three guiding principles for me:
 
-1. Open data - Choose services where I can get the data out and is it in a usable format?
+1. Open data - Choose services where I can get the data out and is it in a usable format? (ideally [git](http://en.wikipedia.org/wiki/Git_%28software%29) interface allowing pull **and push**)
 2. Decentralised - **Avoid services** where there is an obvious concentration of power
-3. Opensource - Choose software where I can transparently see changes, has manageable source code so that it can be forked
+3. Opensource - Choose software where I can transparently see changes, has manageable source code so that it can be forked (ideally using git with full history)
 
 Notice that I haven't requested some encryption adoption or privacy here. I
 feel if things are **sufficiently decentralised**, that would satisfy me for
