@@ -11,8 +11,8 @@ I wish to define three guiding principles for a better Internet:
 3. Opensource - Choose software where I can transparently see changes, has manageable source code so that it can be forked - using git with full history
 
 Notice that I haven't requested some encryption adoption or privacy here. I
-feel if things are **sufficiently decentralised**, that would **satisfy** me for
-needs of **privacy**.
+feel if things are **sufficiently decentralised**, that would **satisfy** me
+for needs of **privacy**, since it raises the cost of mass surveillance.
 
 Some examples:
 
