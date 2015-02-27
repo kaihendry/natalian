@@ -164,6 +164,8 @@ close to white.
 
 When I slouch, I notice the **viewing angles are not good**.
 
+* [glxinfo output](http://ix.io/gAt)
+
 ### Sound
 
 Can't get sound to output on HDMI.
