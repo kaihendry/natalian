@@ -26,11 +26,12 @@ your data out, so score is 1 of 3.
 What is the alternative? Using another email provider. Email is an open
 standard designed to be decentralised, so this should be an easy task. Sadly
 most email providers suck. I've chosen <https://www.fastmail.fm/>, since they
-aren't as big as Gmail (this is decentralised in my book) and their Web client
-is comparable in terms of features with Gmail. So Fastmail gets a score of 2 of
-3.
+aren't as big as Gmail. This is decentralised in my book, since it raises the
+cost of mass surveillance, since now NSA/GCHQ has to work with Fastmail to read
+people's email. So Fastmail gets a score of 2 of 3.
 
-Ideally I would host my own email, but it takes too much effort for me.
+Ideally I would host my own (and my for friends&family) email, but it takes too
+much effort for me.
 
 ### Chat
 
@@ -57,7 +58,5 @@ An online life is complex. I tried to keep these 3 principles; Open Access,
 hopefully you make better decisions that should aid privacy and increase
 competitiveness of our wonderful Internet!
 
-Further links:
-
-I noticed a [project called redecentralize](http://redecentralize.org/about/)
+Further links: I noticed a [project called redecentralize](http://redecentralize.org/about/)
 that echoes my sentiments.
