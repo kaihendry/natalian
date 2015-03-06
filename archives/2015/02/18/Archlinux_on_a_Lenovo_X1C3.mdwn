@@ -124,10 +124,7 @@ I've experienced a [wireless issue](https://bugzilla.kernel.org/show_bug.cgi?id=
 
 ## Keyboard
 
-
-
 <a href="https://www.flickr.com/photos/hendry/16101234823" title="Key popped out from my new X1C3 2015 :( by Kai Hendry, on Flickr"><img src="https://farm9.staticflickr.com/8680/16101234823_27197d5b55.jpg" width="500" height="500" alt="Key popped out from my new X1C3 2015 :("></a>
-
 
 Different spacing to the X220. I don't like the grease marks my sweat leaves
 behind. Thankfully this machine runs cool, like 42C atm, so already that's way

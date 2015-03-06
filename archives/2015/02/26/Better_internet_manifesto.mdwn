@@ -6,8 +6,8 @@ view and judge Internet services.  Just as Aaron Swartz called us to action on
 Access](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt),
 I wish to define three guiding principles for a better Internet:
 
-1. Open data - Choose services where I can get the data out and is it in a usable format? - [git](http://en.wikipedia.org/wiki/Git_%28software%29) interface allowing pull and ideally push (write!) too
-2. Decentralised - **Avoid services** where there is an obvious concentration of power
+1. Open data - Choose services where I can get the data out quickly and is it in a usable format? - [git](http://en.wikipedia.org/wiki/Git_%28software%29) interface allowing pull and ideally push (write!) too
+2. Decentralised - **Avoid services** where there is a concentration of power
 3. Opensource - Choose software where I can transparently see changes, has manageable source code so that it can be forked - using git with full history
 
 Notice that I haven't requested some encryption adoption or privacy here. I
@@ -36,11 +36,12 @@ much effort for me.
 ### Chat
 
 A lot of people lately are saying, lets chat on [Slack](https://slack.com/)!
-Fail! AFAIK it doesn't allow you to get your data out, it's obviously
-centralised and it's not opensource. Why even consider it?
+Fail! Although Slack [does allow you to get your data
+out](http://s.natalian.org/2015-03-06/slack.png), it's obviously
+**centralised** and it's not opensource. Why even consider it?
 
-The alternative is clear in my book. <abbr title="Inter Relay Chat">IRC</abbr>, which is 3 of 3. Though don't expect
-private communication.
+The alternative is clear in my book. <abbr title="Inter Relay Chat">IRC</abbr>,
+which is 3 of 3. Though don't expect private communication.
 
 ### Social networks
 
