@@ -41,6 +41,7 @@ just two options:
 
 * <http://www.dexteralabs.com/inogeni/> at 400USD
 * Slightly dubious looking [FEBON198 USB3.0 UVC HDMI Grabber Card](http://febon.blogspot.com/2014/08/febon198-usb30-uvc-hdmi-grabber-card.html>) at 150USD
+* Update: [Magewell XI100DUSB-HDMI](http://www.magewell.com/hardware/dongles/xi100dusb-hdmi/xi100dusb-hdmi_features.html?lang=en) as listed upon this [UVC](http://www.ideasonboard.org/uvc/) page with one [promising review](http://www.amazon.com/review/R31KFJ54WHGHCI/ref=cm_cr_pr_perm?ie=UTF8&ASIN=B00I16VQOY) of several
 
 The **INOGENI 4K2USB3 4K HDMI to USB 3.0 Converter** looks perfect. It's just that it is quite expensive.
 
