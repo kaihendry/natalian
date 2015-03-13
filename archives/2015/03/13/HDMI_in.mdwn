@@ -12,10 +12,10 @@ camera, like my GoPro Hero 4, into my computer.
 
 ## Adobe Premiere Pro and FCPX
 
-Initially I looked to how my favourite videos editors expected me to import
-video frames. In a very non-standard awkward manner. Often requiring special
-equipment and their own drivers. I have no idea why they don't support
-standards.
+Initially I looked to how popular video editors expected me to import video
+frames. In a very non-standard awkward manner. Often requiring special
+equipment and their own proprietary drivers. I have no idea why they don't
+support standards.
 
 ## Capture products
 
@@ -57,3 +57,6 @@ should work seamlessly with FFMPEG and other opensource tools on my
 [[archives/2015/02/18/Archlinux_on_a_Lenovo_X1C3]]. It's great that there is
 such a product, but I'm almost mystified why there is just one product that
 does this, and cameras like Canon do not implement UVC.
+
+Is there something glaringly wrong with <abbr title="USB video device
+class">UVC</abbr> that I don't know about?
