@@ -1,0 +1,59 @@
+I have been researching for months now, how to get a live HDMI feed in from a
+camera, like my GoPro Hero 4, into my computer.
+
+# Why?
+
+* live broadcasting e.g. <http://www.reddit.com/r/WatchPeopleCode>
+* better Webcam ... I want to allow my parents to see me through a **good camera**, not the crappy 480p on the inbuilt camera in my laptop lid!!
+* better sound, I should be able to mux in audio into a HDMI feed from my camera source
+* optimising video editing work flows - if it is recorded, doing it live as much as possible is such a time saver
+
+# The solutions or lack thereof
+
+## Adobe Premiere Pro and FCPX
+
+Initially I looked to how my favourite videos editors expected me to import
+video frames. In a very non-standard awkward manner. Often requiring special
+equipment and their own drivers. I have no idea why they don't support
+standards.
+
+## Capture products
+
+I've tried:
+
+* <http://gamerzone.avermedia.com//game_capture/live_gamer_portable>
+* <https://www.blackmagicdesign.com/sg/products/intensity>
+
+They only work with own special drivers on MacOSX or Windows. In fact, to my
+surprise the Live Gamer Portable was simple unable to stream via
+<https://obsproject.com/> to <http://www.twitch.tv/> on MacOSX, but it can on
+Windows. Special driver nightmare.
+
+## The video input standards (I think)
+
+When I plug in a video source I expect to come up on my Archlinux system as
+simple as `vlc v4l2:///dev/video0`. A lot of Web cams implement this under the
+moniker of [UVC](http://en.wikipedia.org/wiki/USB_video_device_class).
+
+So after a search for <abbr title="USB video device class">UVC</abbr> and <abbr
+title='High-Definition Multimedia Interface'>HDMI</abbr> miracously I found
+just two options:
+
+* <http://www.dexteralabs.com/inogeni/> at 400USD
+* Slightly dubious looking [FEBON198 USB3.0 UVC HDMI Grabber Card](http://febon.blogspot.com/2014/08/febon198-usb30-uvc-hdmi-grabber-card.html>) at 150USD
+
+The **INOGENI 4K2USB3 4K HDMI to USB 3.0 Converter** looks perfect. It's just that it is quite expensive.
+
+The **FEBON198** guy from Taiwan seems to think it won't work in Linux, do
+interlaced input and of course offers no refund. However since I'm in
+Singapore, I doubt I realistically get a refund from
+[B&H](http://www.bhphotovideo.com/c/product/1073122-REG/inogeni_4k2usb3_4k_hdmi_to_usb.html).
+
+# Conclusion
+
+After months of research... seriously, there seems just to be one standard
+driver-less solution, the [Inogeni](http://www.dexteralabs.com/inogeni/), which
+should work seamlessly with FFMPEG and other opensource tools on my
+[[archives/2015/02/18/Archlinux_on_a_Lenovo_X1C3]]. It's great that there is
+such a product, but I'm almost mystified why there is just one product that
+does this, and cameras like Canon do not implement UVC.
