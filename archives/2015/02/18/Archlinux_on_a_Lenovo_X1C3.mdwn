@@ -171,6 +171,7 @@ close to white.
 When I slouch, I notice the **viewing angles are not good**.
 
 * [glxinfo output](http://ix.io/gAt)
+* [Disable IPS is you get crazy scrolling behaviour](https://www.youtube.com/watch?v=sv4DRkSiiWk)
 
 ### Sound
 
