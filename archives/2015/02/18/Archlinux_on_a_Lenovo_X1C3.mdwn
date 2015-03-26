@@ -120,7 +120,11 @@ Hint if `/var/run/systemd/resolve/resolv.conf` is missing, you need `sudo system
 
 Tethering from my iPhone6 works once `usbmuxd` is is installed, the interface name is `enp0s20u1c4i2`.
 
-I've experienced a [wireless issue](https://bugzilla.kernel.org/show_bug.cgi?id=93471), but I think it's more a TP-LINK AP issue.
+I've experienced a [wireless
+issue](https://bugzilla.kernel.org/show_bug.cgi?id=93471), but I think it's
+more a TP-LINK AP issue. Update: Frequently get thrown off the wireless
+network, so I'm relying on the [ThinkPad Ethernet Expansion
+Cable](https://www.flickr.com/photos/hendry/16769857511/) heavily.
 
 ## Keyboard
 
