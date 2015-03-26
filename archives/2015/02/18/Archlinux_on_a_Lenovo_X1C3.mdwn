@@ -207,4 +207,6 @@ calculated 11. Any ideas how to better calculate this?
 
 ### Other issues
 
-I ran into this Archlinux [slow DNS resolving bug](https://bbs.archlinux.org/viewtopic.php?pid=1387264#p1387264)
+I ran into this Archlinux [slow DNS resolving bug](https://bbs.archlinux.org/viewtopic.php?pid=1387264#p1387264). Since disabled ipv6.
+
+Other resources: <https://wiki.archlinux.org/index.php/Lenovo_ThinkPad_X1_Carbon_(Gen_3)>
