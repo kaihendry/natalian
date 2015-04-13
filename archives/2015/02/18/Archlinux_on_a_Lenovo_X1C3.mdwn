@@ -92,12 +92,16 @@ and not **/dev/sda1**.
 
 	# echo "options psmouse proto=imps" > /etc/modprobe.d/psmouse.conf
 
+WARNING: Will disable `synclient`! `Couldn't find synaptics properties. No synaptics driver loaded?`
+
 Thanks to: <https://bbs.archlinux.org/viewtopic.php?id=192875>
 
 I've also [disabled the
 trackpad](https://www.flickr.com/photos/hendry/15938481073/in/photostream/)
 since it was resulting in odd selections. I wonder if I can configure it **just
 to scroll** ?
+
+UPDATE: Synclient might actually work in [Linux 4.0](http://who-t.blogspot.com.au/2015/01/lenovos-x1-carbon-3rd-touchpad-woes.html)
 
 ## Annoying network interface names
 

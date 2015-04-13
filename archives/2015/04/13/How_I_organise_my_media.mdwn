@@ -1,0 +1,21 @@
+Following up from [[archives/2013/05/09/How_I_organise_my_pictures]], there has been some changes.
+
+* I don't like running the proprietary blob of the Dropbox client
+* static.natalian.org is now on [AWS S3](http://aws.amazon.com/s3/)
+
+So this is the current workflow (or plan since I haven't got in the rhythm yet):
+
+1. Dump media in ~/media/{iphone6,gopro} - I use a lightning cable & `ifuse` for getting my iPhone media off onto Archlinux
+*  Run [datemedia.sh](http://s.natalian.org/2015-04-13/datemedia.sh) to put things in a YYYY-MM-DD organised staging area called **uploadme**
+* **uploadme** is actually also managed by [git-annex](https://git-annex.branchable.com/) and currently backing up two external hard drives
+* Using [htmlvideo](https://github.com/kaihendry/recordmydesktop2.0/blob/master/htmlvideo) to convert iphone6/*.mov to uploadme/YYYY-DD-MM/*.mp4
+* Uploading photos to flickr: `flickcurl upload /tmp/foo.png title "Just a test" description "Just testing" public tags "foo, bar" 1`
+* Uploading MP4s to S3.. since I want to resurrect <http://video.natalian.org/>
+
+# Notes
+
+I hoped to actually organise my images on Flickr, but that's proving to be a
+huge PITA since their site often feels like molasses and there isn't a sane way
+to delete photos quickly whilst viewing the image in full screen. So I need to
+come up with a workflow with [sxiv](https://github.com/muennich/sxiv) to at
+least get rid of the duds!
