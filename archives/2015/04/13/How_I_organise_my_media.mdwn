@@ -5,7 +5,7 @@ Following up from [[archives/2013/05/09/How_I_organise_my_pictures]], there has 
 
 So this is the current workflow (or plan since I haven't got in the rhythm yet):
 
-1. Dump media in ~/media/{iphone6,gopro} - I use a lightning cable & `ifuse` for getting my iPhone media off onto Archlinux
+1. Dump media in ~/media/{iphone6,gopro} - I use a lightning cable & <a href=http://dabase.com/blog/Archiving_iPhone_images_with_Archlinux_and_ifuse/>`ifuse` for getting my iPhone media off onto Archlinux</a>
 *  Run [datemedia.sh](http://s.natalian.org/2015-04-13/datemedia.sh) to put things in a YYYY-MM-DD organised staging area called **uploadme**
 * **uploadme** is actually also managed by [git-annex](https://git-annex.branchable.com/) and currently backing up two external hard drives
 * Using [htmlvideo](https://github.com/kaihendry/recordmydesktop2.0/blob/master/htmlvideo) to convert iphone6/*.mov to uploadme/YYYY-DD-MM/*.mp4
