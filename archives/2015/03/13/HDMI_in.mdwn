@@ -1,3 +1,5 @@
+UPDATE: I bought nearly 600SGD worth of XI100DUSB-HDMI & the ATR2100-USB and here is my [first video](http://s.natalian.org/2015-04-22/supersmash.mp4) using [obs-studio](https://aur.archlinux.org/packages/obs-studio/)!
+
 I have been researching for months now, how to get a live HDMI feed in from a
 camera, like my GoPro Hero 4, into my computer.
 

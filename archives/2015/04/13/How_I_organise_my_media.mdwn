@@ -9,7 +9,7 @@ So this is the current workflow (or plan since I haven't got in the rhythm yet):
 *  Run [datemedia.sh](http://s.natalian.org/2015-04-13/datemedia.sh) to put things in a YYYY-MM-DD organised staging area called **uploadme**
 * **uploadme** is actually also managed by [git-annex](https://git-annex.branchable.com/) and currently backing up two external hard drives
 * Using [htmlvideo](https://github.com/kaihendry/recordmydesktop2.0/blob/master/htmlvideo) to convert iphone6/*.mov to uploadme/YYYY-DD-MM/*.mp4
-* Uploading photos to flickr: `flickcurl upload /tmp/foo.png title "Just a test" description "Just testing" public tags "foo, bar" 1`
+* Uploading photos to flickr: `flickcurl upload /tmp/foo.png title "Just a test" description "Just testing" public tags "foo, bar"`
 * Uploading MP4s to S3.. since I want to resurrect <http://video.natalian.org/>
 
 # Notes
