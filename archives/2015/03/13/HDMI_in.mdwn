@@ -1,4 +1,4 @@
-UPDATE: I bought nearly 600SGD worth of XI100DUSB-HDMI & the ATR2100-USB and here is my [first video](http://s.natalian.org/2015-04-22/supersmash.mp4) using [obs-studio](https://aur.archlinux.org/packages/obs-studio/)!
+UPDATE: I bought nearly 600SGD worth of [XI100DUSB-HDMI](http://www.magewell.com/hardware/dongles/xi100dusb-hdmi/xi100dusb-hdmi_features.html?lang=en) & the ATR2100-USB and here is my [first video](http://s.natalian.org/2015-04-22/supersmash.mp4) using [obs-studio](https://aur.archlinux.org/packages/obs-studio/)!
 
 I have been researching for months now, how to get a live HDMI feed in from a
 camera, like my GoPro Hero 4, into my computer.
@@ -43,7 +43,7 @@ just two options:
 
 * <http://www.dexteralabs.com/inogeni/> at 400USD
 * Slightly dubious looking [FEBON198 USB3.0 UVC HDMI Grabber Card](http://febon.blogspot.com/2014/08/febon198-usb30-uvc-hdmi-grabber-card.html>) at 150USD
-* Update: [Magewell XI100DUSB-HDMI](http://www.magewell.com/hardware/dongles/xi100dusb-hdmi/xi100dusb-hdmi_features.html?lang=en) as listed upon this [UVC](http://www.ideasonboard.org/uvc/) page with one [promising review](http://www.amazon.com/review/R31KFJ54WHGHCI/ref=cm_cr_pr_perm?ie=UTF8&ASIN=B00I16VQOY) of several
+* Update: [Magewell XI100DUSB-HDMI](http://www.magewell.com/hardware/dongles/xi100dusb-hdmi/xi100dusb-hdmi_features.html?lang=en) as listed upon this [UVC](http://www.ideasonboard.org/uvc/) page with a [couple of](https://youtu.be/s6V_oyWRTLY) [promising review](http://www.amazon.com/review/R31KFJ54WHGHCI/ref=cm_cr_pr_perm?ie=UTF8&ASIN=B00I16VQOY) of several
 * Update: A [StarTech.com USB2 device](http://www.amazon.de/StarTech-com-USB-Gaming-Video-Aufzeichnungsger%C3%A4t/dp/B00DVS8TL0/ref=sr_1_fkmr1_2?ie=UTF8&qid=1426273671&sr=8-2-fkmr1&keywords=UVC+HDMI+grabber#productDetails) pointed out to me by a German no less. Has he tried it? No.
 
 The **INOGENI 4K2USB3 4K HDMI to USB 3.0 Converter** looks perfect. It's just that it is quite expensive.
