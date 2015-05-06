@@ -1,0 +1,64 @@
+Every major city has its own renting horror stories. I've rented all my life,
+and I must say our recent move in Singapore had points of note. Lets start with
+most annoying:
+
+# No standard contract (or deposit scheme)
+
+Contracts are often negotiated, copied and pasted from somewhere and basically
+not seen or properly analysed until a **letter of consent** is done. Lets just
+say the basic Singapore contract is not consumer friendly, much like any buying
+experience in Singapore. For example a typical landlord's contract states: if
+you are renting for two years and if you don't like the place, you basically
+can't get out of it. Rationale is the agent/landlord are preventing you from
+renting some place cheaper in the next two years.
+
+What's the **letter of consent**? That's an initial deposit made by you the
+tenant to basically put a block on the property for a week. You should get the
+deposit back if negotiation of finer points of the contract fail (e.g. you
+might want to negotiate diplomatic clause / cancellation, right to sublet), but
+that's often not clear at all either.
+
+# Agents & agents
+
+In Europe you typically deal direct with the Landlord.
+
+In Singapore, you generally always deal via agents.
+
+If you are very unlucky you can go through TWO agents. I.e.:
+
+* (your) agent who found the property for you
+* the landlord's agent who represents the landlord
+
+Typically an agent's fee is one month of rent. A friend of mine actually got
+done for TWO months of rent finding his property a year ago when the market was
+a bit more difficult.
+
+If you manage to negotiate an early termination clause, typically agents will
+pro-rata bill their fee in to you, the tenant, since landlord's do not want to
+pay it.
+
+I guess it's just a cultural difference here in Singapore. Landlord's seem very
+hands off and greedy which is very worrying. Have PLENTY of patience for a
+negotiation and take the initiative and WRITE DOWN WHAT YOU WANT. Do not let
+them write down the clause if possible. Even it goes your way, it's not unusual
+for it to be re-negotiated again and again since they have the control over the
+words.
+
+# Racism
+
+Yes, racism is legal in Singapore. Basically if you are a foreigner / expat you
+might not get access to HDB properties (quota system). Expats are largely
+treated as fair game by property agencies and landlords.
+
+# Finding a property
+
+There is <http://www.propertyguru.com.sg/> where most agents list & dotCom
+darlings like <https://www.99.co/> basically just plot their data on a map.
+
+In practice it's very far from comprehensive and you end up constantly dealing
+with very little information and if you're organised, your own spreadsheet. For
+example layout plans are very rare. It's only when you have taken the trouble
+to make an appointment with an agent and time off you can actually figure out
+what they mean by "two bedroom".
+
+Forget doing stuff efficiently asynchronously over email.
