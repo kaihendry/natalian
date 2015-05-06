@@ -15,8 +15,10 @@ renting some place cheaper in the next two years.
 What's the **letter of consent**? That's an initial deposit made by you the
 tenant to basically put a block on the property for a week. You should get the
 deposit back if negotiation of finer points of the contract fail (e.g. you
-might want to negotiate diplomatic clause / cancellation, right to sublet), but
+might want to negotiate diplomatic / break clause, right to sublet), but
 that's often not clear at all either.
+
+Update: I've come to notice <https://www.case.org.sg/pdf/Model%20Tenancy%20Agreement.pdf> [Backup](http://s.natalian.org/2015-05-06/Model%20Tenancy%20Agreement.pdf). Section 9c and (removing) 6c is of interest to me.
 
 # Agents & agents
 
