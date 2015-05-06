@@ -5,14 +5,14 @@ most annoying:
 # No standard contract (or deposit scheme)
 
 Contracts are often negotiated, copied and pasted from somewhere and basically
-not seen or properly analysed until a **letter of consent** is done. Lets just
+not seen or properly analysed until a **letter of intent** is done. Lets just
 say the basic Singapore contract is not consumer friendly, much like any buying
 experience in Singapore. For example a typical landlord's contract states: if
 you are renting for two years and if you don't like the place, you basically
 can't get out of it. Rationale is the agent/landlord are preventing you from
 renting some place cheaper in the next two years.
 
-What's the **letter of consent** aka [Goodfaith Deposit (booking
+What's the **letter of intent** aka [Goodfaith Deposit (booking
 deposit)](http://www.singaporeexpats.com/guides-for-expats/procedure-for-rental.htm)?
 That's an initial deposit made by you the tenant to basically put a block on
 the property for a week. You should get the deposit back if negotiation of
@@ -32,9 +32,8 @@ If you are very unlucky you can go through TWO agents. I.e.:
 * (your) agent who found the property for you
 * the landlord's agent who represents the landlord
 
-Typically an agent's fee is one month of rent. A friend of mine actually got
-done for TWO months of rent finding his property a year ago when the market was
-a bit more difficult.
+Typically an agent's fee is half month for a one year lease. A friend of mine
+actually got done for twice for agent fees.
 
 If you manage to negotiate an early termination clause, typically agents will
 pro-rata bill their fee in to you, the tenant, since landlord's do not want to
@@ -62,6 +61,6 @@ In practice it's very far from comprehensive and you end up constantly dealing
 with very little information and if you're organised, your own spreadsheet. For
 example layout plans are very rare. It's only when you have taken the trouble
 to make an appointment with an agent and time off you can actually figure out
-what they mean by "two bedroom".
+what they mean by "two room".
 
 Forget doing stuff efficiently asynchronously over email.
