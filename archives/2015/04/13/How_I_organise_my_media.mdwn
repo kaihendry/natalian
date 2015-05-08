@@ -1,21 +1,15 @@
-Following up from [[archives/2013/05/09/How_I_organise_my_pictures]], there has been some changes.
+Following up from [[archives/2013/05/09/How_I_organise_my_pictures]], there has been some changes:
 
-* I don't like running the proprietary blob of the Dropbox client
+* I don't like running the proprietary blob of the Dropbox client, not btsync
 * static.natalian.org is now on [AWS S3](http://aws.amazon.com/s3/)
 
 So this is the current workflow (or plan since I haven't got in the rhythm yet):
 
-1. Dump media in ~/media/{iphone6,gopro} - I use a lightning cable & <a href=http://dabase.com/blog/Archiving_iPhone_images_with_Archlinux_and_ifuse/>`ifuse` for getting my iPhone media off onto Archlinux</a>
-*  Run [datemedia.sh](http://s.natalian.org/2015-04-13/datemedia.sh) to put things in a YYYY-MM-DD organised staging area called **uploadme**
-* **uploadme** is actually also managed by [git-annex](https://git-annex.branchable.com/) and currently backing up two external hard drives
+1. Dump media in ~/media/{iphone6,gopro} - I use an Apple lightning cable & <a href=http://dabase.com/blog/Archiving_iPhone_images_with_Archlinux_and_ifuse/>`ifuse` for getting my iPhone media off onto Archlinux</a> - `rsync -Part --exclude ".*/" /mnt/iphone/DCIM /home/hendry/media/iphone6`
+*  Run [datemedia.sh](http://s.natalian.org/2015-05-08/datemedia.sh) to put things in a YYYY-MM-DD organised staging area called **uploadme/**
+* `git annex add` my media in **uploadme/**, see [git-annex](https://git-annex.branchable.com/)
+* Run [sxiv](https://github.com/muennich/sxiv) with [~/.config/sxiv/exec/key-handler](http://s.natalian.org/2015-05-08/key-handler), using C-x C-d to [delete images](http://dabase.com/e/17006/)
+* **uploadme/** media is archived to 2 external hard drives
 * Using [htmlvideo](https://github.com/kaihendry/recordmydesktop2.0/blob/master/htmlvideo) to convert iphone6/*.mov to uploadme/YYYY-DD-MM/*.mp4
 * Uploading photos to flickr: `flickcurl upload /tmp/foo.png title "Just a test" description "Just testing" public tags "foo, bar"`
-* Uploading MP4s to S3.. since I want to resurrect <http://video.natalian.org/>
-
-# Notes
-
-I hoped to actually organise my images on Flickr, but that's proving to be a
-huge PITA since their site often feels like molasses and there isn't a sane way
-to delete photos quickly whilst viewing the image in full screen. So I need to
-come up with a workflow with [sxiv](https://github.com/muennich/sxiv) to at
-least get rid of the duds!
+* Uploading MP4s to S3.. since I want to resurrect <http://video.natalian.org/> sometime in the future
