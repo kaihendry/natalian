@@ -76,7 +76,7 @@ Forget doing stuff efficiently asynchronously over email. Tip: Try to get the
 landlord's email / telephone without the agent involved, since agents are often
 slow down the entire process.
 
-## Some random tips I am throwing in here
+## <span style="text-decoration: blink;">Some random tips I am throwing in here</span>
 
 Many landlords view the deposit as a way to refresh their apartment’s paint and
 curtains every 2 years or so. So **take a lot of pictures** as you move in.
@@ -85,3 +85,6 @@ Some expats honestly advise simply not paying the last month's rent.
 Agreements often state that if an item above ~150SGD needs repair, the landlord
 pays. Though some agreements are quite shifty in the sense that if your fridge
 dies, you need to pay the first 150SGD or the landlord only pays 150SGD.
+
+Some bus and SMRT lines are simply not practical to commute in with. For
+example: Bus 67 & the Green line are usually overcrowded in peak times.
