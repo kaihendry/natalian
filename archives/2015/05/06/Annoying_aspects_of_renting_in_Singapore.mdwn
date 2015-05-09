@@ -4,7 +4,7 @@ most annoying:
 
 # No standard contract (or deposit scheme)
 
-Contracts are often negotiated, copied and pasted from somewhere and basically
+Contracts are often one sided, copied and pasted from somewhere and basically
 not seen or properly analysed until a **letter of intent** is done. Lets just
 say the basic Singapore contract is not consumer friendly, much like any buying
 experience in Singapore. For example a typical landlord's contract states: if
@@ -54,15 +54,34 @@ are largely treated as fair game by property agencies and landlords. The
 reverse can be true, 'Ang mohs' might get preferential treatment. It just feels
 a bit weird to me.
 
+Also realise that most Singaporeans don't rent. Only foreigners do. The odds
+are not in your favour.
+
 # Finding a property
 
 There is <http://www.propertyguru.com.sg/> where most agents list & dotCom
 darlings like <https://www.99.co/> basically just plot their data on a map.
+<https://keylocation.sg/> is a good site if you are relatively new to Singapore
+and you are looking to minimise your commute. Singapore is quite strange in the
+sense that even fairly central places can be VERY difficult to commute from due
+to no or poorly placed bus lines or SMRT links.
 
-In practice it's very far from comprehensive and you end up constantly dealing
-with very little information and if you're organised, your own spreadsheet. For
-example layout plans are very rare. It's only when you have taken the trouble
-to make an appointment with an agent and time off you can actually figure out
-what they mean by "two room".
+In practice these services are very far from comprehensive and you end up
+constantly dealing with very little information and if you're organised, your
+own spreadsheet. For example layout plans are very rare. It's only when you
+have taken the trouble to make an appointment with an agent and time off you
+can actually figure out what they mean by "two room".
 
-Forget doing stuff efficiently asynchronously over email.
+Forget doing stuff efficiently asynchronously over email. Tip: Try to get the
+landlord's email / telephone without the agent involved, since agents are often
+slow down the entire process.
+
+## Some random tips I am throwing in here
+
+Many landlords view the deposit as a way to refresh their apartment’s paint and
+curtains every 2 years or so. So **take a lot of pictures** as you move in.
+Some expats honestly advise simply not paying the last month's rent.
+
+Agreements often state that if an item above ~150SGD needs repair, the landlord
+pays. Though some agreements are quite shifty in the sense that if your fridge
+dies, you need to pay the first 150SGD or the landlord only pays 150SGD.
