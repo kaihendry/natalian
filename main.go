@@ -87,18 +87,30 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	fmt.Fprintln(os.Stderr, p)
+
+	//fmt.Fprintln(os.Stderr, p)
 
 	posts := Posts{p}
 	sort.Sort(sort.Reverse(posts))
-	t, err := template.New("foo").Funcs(funcMap).Parse(`
+	t, err := template.New("foo").Funcs(funcMap).Parse(`<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Kai Hendry's blog</title>
+</head>
+<body>
+
 {{ range $i,$e := . }}
 {{ if newYear (.PostDate.Format "2006")}}
-{{ if gt $i 0 }}</ul>{{end}}
+{{ if gt $i 0 }}</ol>{{end}}
 <h1>{{ .PostDate.Format "2006" }}</h1>
-<ul>{{ end }}
-<li><time datetime="{{ .PostDate }}">{{ .PostDate.Format "2006 Jan 02" }}</time>&raquo;<a href="{{ .URL }}">{{ .Title }}</a></li>{{end}}
-</ul>`)
+<ol>{{ end }}
+<li><time datetime="{{ .PostDate.Format "2006-01-02" }}">{{ .PostDate.Format "Jan 2" }}</time>&raquo;<a href="{{ .URL }}">{{ .Title }}</a></li>{{end}}
+</ol>
+<p><a href=https://github.com/kaihendry/natalian/blob/mk/Makefile>Generated with a Makefile</a> and a piece of <a href=https://github.com/kaihendry/natalian/blob/mk/main.go>Golang</a></p>
+</body>
+</html>
+`)
 
 	if err != nil {
 		panic(err)

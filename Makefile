@@ -3,20 +3,20 @@ OUTPUT = /srv/www/natalian
 OUTFILES = $(INFILES:.mdwn=/index.html)
 LIST=$(addprefix $(OUTPUT)/, $(OUTFILES))
 
-all: $(LIST)
+all: $(LIST) $(OUTPUT)/index.html
 
 $(OUTPUT)/%/index.html: %.mdwn
 	@echo $< '→' $@
 	@mkdir -p $(shell dirname $@ || true) || true
 	@cmark $< > $@
 
-index: all
+$(OUTPUT)/index.html: all main.go
 	go run main.go > $(OUTPUT)/index.html
 
 watch:
-	while ! inotifywait -e modify *.mdwn; do make; done
+	while ! inotifywait -r -e modify .; do make; done
 
-upload: index
+upload: $(OUTPUT)/index.html
 	s3cmd sync -F -rr --delete-removed -P $(OUTPUT)/ s3://natalian.org/
 
 clean:
