@@ -96,6 +96,7 @@ func main() {
 <html>
 <head>
 <meta charset="utf-8" />
+<link href="/style.css" rel="stylesheet">
 <title>Kai Hendry's blog</title>
 </head>
 <body>
