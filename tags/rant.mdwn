@@ -1,4 +1,0 @@
-[[!meta title="pages tagged rant"]]
-
-[[!inline pages="tagged(rant)" actions="no" archive="yes"
-feedshow=10]]

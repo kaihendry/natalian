@@ -1,4 +1,0 @@
-[[!meta title="pages tagged korea"]]
-
-[[!inline pages="tagged(korea)" actions="no" archive="yes"
-feedshow=10]]

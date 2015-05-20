@@ -1,4 +1,0 @@
-[[!meta title="pages tagged mwc2008"]]
-
-[[!inline pages="tagged(mwc2008)" actions="no" archive="yes"
-feedshow=10]]

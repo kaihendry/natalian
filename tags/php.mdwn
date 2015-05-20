@@ -1,4 +1,0 @@
-[[!meta title="pages tagged php"]]
-
-[[!inline pages="tagged(php)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,1 +1,0 @@
-[[!inline pages="link(archives/tag/mwi)" actions=no]]

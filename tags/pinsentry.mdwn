@@ -1,4 +1,0 @@
-[[!meta title="pages tagged pinsentry"]]
-
-[[!inline pages="tagged(pinsentry)" actions="no" archive="yes"
-feedshow=10]]

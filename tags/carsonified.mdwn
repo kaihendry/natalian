@@ -1,4 +1,0 @@
-[[!meta title="pages tagged carsonified"]]
-
-[[!inline pages="tagged(carsonified)" actions="no" archive="yes"
-feedshow=10]]

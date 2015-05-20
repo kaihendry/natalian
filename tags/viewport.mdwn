@@ -1,4 +1,0 @@
-[[!meta title="pages tagged viewport"]]
-
-[[!inline pages="tagged(viewport)" actions="no" archive="yes"
-feedshow=10]]

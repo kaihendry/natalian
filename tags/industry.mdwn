@@ -1,4 +1,0 @@
-[[!meta title="pages tagged industry"]]
-
-[[!inline pages="tagged(industry)" actions="no" archive="yes"
-feedshow=10]]

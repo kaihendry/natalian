@@ -1,1 +1,0 @@
-[[!inline pages="link(archives/tag/flickr)" actions=no]]

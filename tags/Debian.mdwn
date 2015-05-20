@@ -1,4 +1,0 @@
-[[!meta title="pages tagged Debian"]]
-
-[[!inline pages="tagged(Debian)" actions="no" archive="yes"
-feedshow=10]]

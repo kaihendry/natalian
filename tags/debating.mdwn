@@ -1,4 +1,0 @@
-[[!meta title="pages tagged debating"]]
-
-[[!inline pages="tagged(debating)" actions="no" archive="yes"
-feedshow=10]]

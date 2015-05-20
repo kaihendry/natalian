@@ -1,4 +1,0 @@
-[[!meta title="pages tagged dreamhost"]]
-
-[[!inline pages="tagged(dreamhost)" actions="no" archive="yes"
-feedshow=10]]

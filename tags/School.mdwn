@@ -1,4 +1,0 @@
-[[!meta title="pages tagged School"]]
-
-[[!inline pages="tagged(School)" actions="no" archive="yes"
-feedshow=10]]

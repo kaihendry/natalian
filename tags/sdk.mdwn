@@ -1,4 +1,0 @@
-[[!meta title="pages tagged sdk"]]
-
-[[!inline pages="tagged(sdk)" actions="no" archive="yes"
-feedshow=10]]

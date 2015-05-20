@@ -1,4 +1,0 @@
-[[!meta title="pages tagged tax"]]
-
-[[!inline pages="tagged(tax)" actions="no" archive="yes"
-feedshow=10]]

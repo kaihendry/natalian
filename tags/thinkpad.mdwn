@@ -1,4 +1,0 @@
-[[!meta title="pages tagged thinkpad"]]
-
-[[!inline pages="tagged(thinkpad)" actions="no" archive="yes"
-feedshow=10]]

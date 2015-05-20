@@ -1,4 +1,0 @@
-[[!meta title="pages tagged netbook"]]
-
-[[!inline pages="tagged(netbook)" actions="no" archive="yes"
-feedshow=10]]

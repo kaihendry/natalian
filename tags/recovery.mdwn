@@ -1,4 +1,0 @@
-[[!meta title="pages tagged recovery"]]
-
-[[!inline pages="tagged(recovery)" actions="no" archive="yes"
-feedshow=10]]

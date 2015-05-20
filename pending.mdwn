@@ -1,1 +1,0 @@
-[[!inline  pages="comment_pending(*)" template=comment]]

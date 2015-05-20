@@ -1,4 +1,0 @@
-[[!meta title="pages tagged windows"]]
-
-[[!inline pages="tagged(windows)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,4 +1,0 @@
-[[!meta title="pages tagged gnome2"]]
-
-[[!inline pages="tagged(gnome2)" actions="no" archive="yes"
-feedshow=10]]

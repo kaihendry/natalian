@@ -1,4 +1,0 @@
-[[!meta title="pages tagged aplix"]]
-
-[[!inline pages="tagged(aplix)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,4 +1,0 @@
-[[!meta title="pages tagged lightbox"]]
-
-[[!inline pages="tagged(lightbox)" actions="no" archive="yes"
-feedshow=10]]

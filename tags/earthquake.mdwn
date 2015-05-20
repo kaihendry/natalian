@@ -1,4 +1,0 @@
-[[!meta title="pages tagged earthquake"]]
-
-[[!inline pages="tagged(earthquake)" actions="no" archive="yes"
-feedshow=10]]

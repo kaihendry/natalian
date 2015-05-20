@@ -1,4 +1,0 @@
-[[!meta title="pages tagged letter"]]
-
-[[!inline pages="tagged(letter)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,4 +1,0 @@
-[[!meta title="pages tagged blogs"]]
-
-[[!inline pages="tagged(blogs)" actions="no" archive="yes"
-feedshow=10]]

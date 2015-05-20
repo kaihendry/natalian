@@ -1,4 +1,0 @@
-[[!meta title="pages tagged widgets"]]
-
-[[!inline pages="tagged(widgets)" actions="no" archive="yes"
-feedshow=10]]

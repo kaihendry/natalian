@@ -1,4 +1,0 @@
-[[!meta title="pages tagged firmware"]]
-
-[[!inline pages="tagged(firmware)" actions="no" archive="yes"
-feedshow=10]]

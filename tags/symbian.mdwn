@@ -1,4 +1,0 @@
-[[!meta title="pages tagged symbian"]]
-
-[[!inline pages="tagged(symbian)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,4 +1,0 @@
-[[!meta title="pages tagged svg"]]
-
-[[!inline pages="tagged(svg)" actions="no" archive="yes"
-feedshow=10]]

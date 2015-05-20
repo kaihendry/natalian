@@ -1,4 +1,0 @@
-[[!meta title="pages tagged recycling"]]
-
-[[!inline pages="tagged(recycling)" actions="no" archive="yes"
-feedshow=10]]

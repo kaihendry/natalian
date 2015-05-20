@@ -1,1 +1,0 @@
-[[!inline pages="link(archives/tag/psp)" actions=no]]

@@ -1,4 +1,0 @@
-[[!meta title="pages tagged ds"]]
-
-[[!inline pages="tagged(ds)" actions="no" archive="yes"
-feedshow=10]]

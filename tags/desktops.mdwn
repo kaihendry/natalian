@@ -1,4 +1,0 @@
-[[!meta title="pages tagged desktops"]]
-
-[[!inline pages="tagged(desktops)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,4 +1,0 @@
-[[!meta title="pages tagged gphone"]]
-
-[[!inline pages="tagged(gphone)" actions="no" archive="yes"
-feedshow=10]]

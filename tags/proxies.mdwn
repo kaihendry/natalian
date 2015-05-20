@@ -1,4 +1,0 @@
-[[!meta title="pages tagged proxies"]]
-
-[[!inline pages="tagged(proxies)" actions="no" archive="yes"
-feedshow=10]]

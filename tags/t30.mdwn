@@ -1,4 +1,0 @@
-[[!meta title="pages tagged t30"]]
-
-[[!inline pages="tagged(t30)" actions="no" archive="yes"
-feedshow=10]]

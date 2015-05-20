@@ -1,4 +1,0 @@
-[[!meta title="pages tagged prince"]]
-
-[[!inline pages="tagged(prince)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,4 +1,0 @@
-[[!meta title="pages tagged webkit"]]
-
-[[!inline pages="tagged(webkit)" actions="no" archive="yes"
-feedshow=10]]

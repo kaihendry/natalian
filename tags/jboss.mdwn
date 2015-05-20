@@ -1,4 +1,0 @@
-[[!meta title="pages tagged jboss"]]
-
-[[!inline pages="tagged(jboss)" actions="no" archive="yes"
-feedshow=10]]

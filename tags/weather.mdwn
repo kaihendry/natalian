@@ -1,4 +1,0 @@
-[[!meta title="pages tagged weather"]]
-
-[[!inline pages="tagged(weather)" actions="no" archive="yes"
-feedshow=10]]

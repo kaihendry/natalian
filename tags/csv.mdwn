@@ -1,4 +1,0 @@
-[[!meta title="pages tagged csv"]]
-
-[[!inline pages="tagged(csv)" actions="no" archive="yes"
-feedshow=10]]

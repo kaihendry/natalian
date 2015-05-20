@@ -1,4 +1,0 @@
-[[!meta title="pages tagged Helsinki"]]
-
-[[!inline pages="tagged(Helsinki)" actions="no" archive="yes"
-feedshow=10]]

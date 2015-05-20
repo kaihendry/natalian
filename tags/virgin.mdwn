@@ -1,4 +1,0 @@
-[[!meta title="pages tagged virgin"]]
-
-[[!inline pages="tagged(virgin)" actions="no" archive="yes"
-feedshow=10]]

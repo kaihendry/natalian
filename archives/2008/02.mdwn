@@ -1,5 +1,0 @@
-[[!sidebar content="""
-[[!calendar type=month month=02 year=2008 pages="page(archives/*/*/*/*)"]]
-"""]]
-
-[[!inline pages="creation_month(02) and creation_year(2008) and page(archives/*/*/*/*)" show=0 feeds=no reverse=yes]]

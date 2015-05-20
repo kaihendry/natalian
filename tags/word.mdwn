@@ -1,4 +1,0 @@
-[[!meta title="pages tagged word"]]
-
-[[!inline pages="tagged(word)" actions="no" archive="yes"
-feedshow=10]]

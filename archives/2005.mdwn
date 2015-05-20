@@ -1,1 +1,0 @@
-[[!calendar type=year year=2005 pages="page(archives/*/*/*/*)"]]

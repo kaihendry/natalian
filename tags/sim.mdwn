@@ -1,4 +1,0 @@
-[[!meta title="pages tagged sim"]]
-
-[[!inline pages="tagged(sim)" actions="no" archive="yes"
-feedshow=10]]

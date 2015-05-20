@@ -1,4 +1,0 @@
-[[!meta title="pages tagged mail"]]
-
-[[!inline pages="tagged(mail)" actions="no" archive="yes"
-feedshow=10]]

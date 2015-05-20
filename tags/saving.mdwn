@@ -1,4 +1,0 @@
-[[!meta title="pages tagged saving"]]
-
-[[!inline pages="tagged(saving)" actions="no" archive="yes"
-feedshow=10]]

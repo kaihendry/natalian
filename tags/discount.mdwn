@@ -1,4 +1,0 @@
-[[!meta title="pages tagged discount"]]
-
-[[!inline pages="tagged(discount)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,4 +1,0 @@
-[[!meta title="pages tagged hotspots"]]
-
-[[!inline pages="tagged(hotspots)" actions="no" archive="yes"
-feedshow=10]]

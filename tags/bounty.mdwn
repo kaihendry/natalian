@@ -1,4 +1,0 @@
-[[!meta title="pages tagged bounty"]]
-
-[[!inline pages="tagged(bounty)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,1 +1,0 @@
-[[!inline pages="link(archives/tag/Mobile)" actions=no atom=yes feedpages=created_after(archives/2009/02/03/dabase-is-the-place-to-be)]]

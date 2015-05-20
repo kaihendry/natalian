@@ -1,4 +1,0 @@
-[[!meta title="pages tagged crocs"]]
-
-[[!inline pages="tagged(crocs)" actions="no" archive="yes"
-feedshow=10]]

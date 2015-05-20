@@ -1,4 +1,0 @@
-[[!meta title="pages tagged international"]]
-
-[[!inline pages="tagged(international)" actions="no" archive="yes"
-feedshow=10]]

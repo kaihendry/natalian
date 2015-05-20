@@ -1,4 +1,0 @@
-[[!meta title="pages tagged krgyzstan"]]
-
-[[!inline pages="tagged(krgyzstan)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,4 +1,0 @@
-[[!meta title="pages tagged trac"]]
-
-[[!inline pages="tagged(trac)" actions="no" archive="yes"
-feedshow=10]]

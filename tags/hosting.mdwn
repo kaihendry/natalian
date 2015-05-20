@@ -1,4 +1,0 @@
-[[!meta title="pages tagged hosting"]]
-
-[[!inline pages="tagged(hosting)" actions="no" archive="yes"
-feedshow=10]]

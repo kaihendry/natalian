@@ -1,4 +1,0 @@
-[[!meta title="pages tagged network"]]
-
-[[!inline pages="tagged(network)" actions="no" archive="yes"
-feedshow=10]]

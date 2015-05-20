@@ -1,4 +1,0 @@
-[[!meta title="pages tagged cctv"]]
-
-[[!inline pages="tagged(cctv)" actions="no" archive="yes"
-feedshow=10]]

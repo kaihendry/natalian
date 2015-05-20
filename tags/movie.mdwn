@@ -1,4 +1,0 @@
-[[!meta title="pages tagged movie"]]
-
-[[!inline pages="tagged(movie)" actions="no" archive="yes"
-feedshow=10]]

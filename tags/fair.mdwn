@@ -1,4 +1,0 @@
-[[!meta title="pages tagged fair"]]
-
-[[!inline pages="tagged(fair)" actions="no" archive="yes"
-feedshow=10]]

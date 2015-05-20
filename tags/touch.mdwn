@@ -1,4 +1,0 @@
-[[!meta title="pages tagged touch"]]
-
-[[!inline pages="tagged(touch)" actions="no" archive="yes"
-feedshow=10]]

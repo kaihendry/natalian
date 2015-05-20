@@ -1,4 +1,0 @@
-[[!meta title="pages tagged rails"]]
-
-[[!inline pages="tagged(rails)" actions="no" archive="yes"
-feedshow=10]]

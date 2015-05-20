@@ -1,4 +1,0 @@
-[[!meta title="pages tagged bbc"]]
-
-[[!inline pages="tagged(bbc)" actions="no" archive="yes"
-feedshow=10]]

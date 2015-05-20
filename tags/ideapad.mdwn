@@ -1,4 +1,0 @@
-[[!meta title="pages tagged ideapad"]]
-
-[[!inline pages="tagged(ideapad)" actions="no" archive="yes"
-feedshow=10]]

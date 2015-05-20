@@ -1,4 +1,0 @@
-[[!meta title="pages tagged zyb"]]
-
-[[!inline pages="tagged(zyb)" actions="no" archive="yes"
-feedshow=10]]

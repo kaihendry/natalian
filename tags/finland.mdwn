@@ -1,4 +1,0 @@
-[[!meta title="pages tagged finland"]]
-
-[[!inline pages="tagged(finland)" actions="no" archive="yes"
-feedshow=10]]

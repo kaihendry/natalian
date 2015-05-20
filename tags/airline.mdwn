@@ -1,4 +1,0 @@
-[[!meta title="pages tagged airline"]]
-
-[[!inline pages="tagged(airline)" actions="no" archive="yes"
-feedshow=10]]

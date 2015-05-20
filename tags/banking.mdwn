@@ -1,4 +1,0 @@
-[[!meta title="pages tagged banking"]]
-
-[[!inline pages="tagged(banking)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,4 +1,0 @@
-[[!meta title="pages tagged win32"]]
-
-[[!inline pages="tagged(win32)" actions="no" archive="yes"
-feedshow=10]]

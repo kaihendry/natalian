@@ -1,4 +1,0 @@
-[[!meta title="tag mobile"]]
-
-[[!inline pages="tagged(mobile)" actions="no" archive="yes"
-feedshow=10]]

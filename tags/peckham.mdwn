@@ -1,4 +1,0 @@
-[[!meta title="pages tagged peckham"]]
-
-[[!inline pages="tagged(peckham)" actions="no" archive="yes"
-feedshow=10]]

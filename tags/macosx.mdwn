@@ -1,4 +1,0 @@
-[[!meta title="pages tagged macosx"]]
-
-[[!inline pages="tagged(macosx)" actions="no" archive="yes"
-feedshow=10]]

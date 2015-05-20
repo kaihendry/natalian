@@ -1,4 +1,0 @@
-[[!meta title="pages tagged location"]]
-
-[[!inline pages="tagged(location)" actions="no" archive="yes"
-feedshow=10]]

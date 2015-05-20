@@ -1,4 +1,0 @@
-[[!meta title="pages tagged ldap"]]
-
-[[!inline pages="tagged(ldap)" actions="no" archive="yes"
-feedshow=10]]

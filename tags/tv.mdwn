@@ -1,4 +1,0 @@
-[[!meta title="pages tagged tv"]]
-
-[[!inline pages="tagged(tv)" actions="no" archive="yes"
-feedshow=10]]

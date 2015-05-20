@@ -1,4 +1,0 @@
-[[!meta title="pages tagged whatwg"]]
-
-[[!inline pages="tagged(whatwg)" actions="no" archive="yes"
-feedshow=10]]

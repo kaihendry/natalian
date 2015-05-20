@@ -1,4 +1,0 @@
-[[!meta title="pages tagged livecd"]]
-
-[[!inline pages="tagged(livecd)" actions="no" archive="yes"
-feedshow=10]]

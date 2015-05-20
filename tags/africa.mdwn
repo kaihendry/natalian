@@ -1,4 +1,0 @@
-[[!meta title="pages tagged africa"]]
-
-[[!inline pages="tagged(africa)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,4 +1,0 @@
-[[!meta title="pages tagged lifestyle"]]
-
-[[!inline pages="tagged(lifestyle)" actions="no" archive="yes"
-feedshow=10]]

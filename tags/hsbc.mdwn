@@ -1,4 +1,0 @@
-[[!meta title="pages tagged hsbc"]]
-
-[[!inline pages="tagged(hsbc)" actions="no" archive="yes"
-feedshow=10]]

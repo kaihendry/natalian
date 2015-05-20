@@ -1,4 +1,0 @@
-[[!meta title="pages tagged gadgets"]]
-
-[[!inline pages="tagged(gadgets)" actions="no" archive="yes"
-feedshow=10]]

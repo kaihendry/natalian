@@ -1,4 +1,0 @@
-[[!meta title="pages tagged south"]]
-
-[[!inline pages="tagged(south)" actions="no" archive="yes"
-feedshow=10]]

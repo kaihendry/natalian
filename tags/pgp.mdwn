@@ -1,4 +1,0 @@
-[[!meta title="pages tagged pgp"]]
-
-[[!inline pages="tagged(pgp)" actions="no" archive="yes"
-feedshow=10]]

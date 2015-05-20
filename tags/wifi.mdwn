@@ -1,4 +1,0 @@
-[[!meta title="pages tagged wifi"]]
-
-[[!inline pages="tagged(wifi)" actions="no" archive="yes"
-feedshow=10]]

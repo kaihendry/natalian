@@ -1,4 +1,0 @@
-[[!meta title="pages tagged transcoding"]]
-
-[[!inline pages="tagged(transcoding)" actions="no" archive="yes"
-feedshow=10]]

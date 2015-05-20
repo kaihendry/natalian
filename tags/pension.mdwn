@@ -1,4 +1,0 @@
-[[!meta title="pages tagged pension"]]
-
-[[!inline pages="tagged(pension)" actions="no" archive="yes"
-feedshow=10]]

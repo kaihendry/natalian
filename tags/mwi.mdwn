@@ -1,4 +1,0 @@
-[[!meta title="pages tagged mwi"]]
-
-[[!inline pages="tagged(mwi)" actions="no" archive="yes"
-feedshow=10]]

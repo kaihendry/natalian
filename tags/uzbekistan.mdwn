@@ -1,4 +1,0 @@
-[[!meta title="pages tagged uzbekistan"]]
-
-[[!inline pages="tagged(uzbekistan)" actions="no" archive="yes"
-feedshow=10]]

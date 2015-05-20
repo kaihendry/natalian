@@ -1,4 +1,0 @@
-[[!meta title="pages tagged fifa"]]
-
-[[!inline pages="tagged(fifa)" actions="no" archive="yes"
-feedshow=10]]

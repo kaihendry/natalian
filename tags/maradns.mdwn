@@ -1,4 +1,0 @@
-[[!meta title="pages tagged maradns"]]
-
-[[!inline pages="tagged(maradns)" actions="no" archive="yes"
-feedshow=10]]

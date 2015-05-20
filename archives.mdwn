@@ -1,3 +1,0 @@
-Here is a full list of archives to the [[blog|index]].
-
-[[!inline pages="page(./archives/*/*/*/*) and !*/Discussion" archive=yes]]

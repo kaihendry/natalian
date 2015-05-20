@@ -1,4 +1,0 @@
-[[!meta title="pages tagged whiteband"]]
-
-[[!inline pages="tagged(whiteband)" actions="no" archive="yes"
-feedshow=10]]

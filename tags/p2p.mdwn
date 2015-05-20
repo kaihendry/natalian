@@ -1,4 +1,0 @@
-[[!meta title="pages tagged p2p"]]
-
-[[!inline pages="tagged(p2p)" actions="no" archive="yes"
-feedshow=10]]

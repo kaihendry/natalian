@@ -1,4 +1,0 @@
-[[!meta title="pages tagged SSL"]]
-
-[[!inline pages="tagged(SSL)" actions="no" archive="yes"
-feedshow=10]]

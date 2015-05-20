@@ -1,4 +1,0 @@
-[[!meta title="pages tagged nahant"]]
-
-[[!inline pages="tagged(nahant)" actions="no" archive="yes"
-feedshow=10]]

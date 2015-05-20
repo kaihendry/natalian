@@ -1,4 +1,0 @@
-[[!meta title="pages tagged fonts"]]
-
-[[!inline pages="tagged(fonts)" actions="no" archive="yes"
-feedshow=10]]

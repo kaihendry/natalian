@@ -1,4 +1,0 @@
-[[!meta title="pages tagged mep"]]
-
-[[!inline pages="tagged(mep)" actions="no" archive="yes"
-feedshow=10]]

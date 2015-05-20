@@ -1,4 +1,0 @@
-[[!meta title="pages tagged forums"]]
-
-[[!inline pages="tagged(forums)" actions="no" archive="yes"
-feedshow=10]]

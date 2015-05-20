@@ -1,4 +1,0 @@
-[[!meta title="pages tagged shitlist"]]
-
-[[!inline pages="tagged(shitlist)" actions="no" archive="yes"
-feedshow=10]]

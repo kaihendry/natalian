@@ -1,4 +1,0 @@
-[[!meta title="pages tagged bookmarks"]]
-
-[[!inline pages="tagged(bookmarks)" actions="no" archive="yes"
-feedshow=10]]

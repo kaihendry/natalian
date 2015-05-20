@@ -1,4 +1,0 @@
-[[!meta title="pages tagged contracting"]]
-
-[[!inline pages="tagged(contracting)" actions="no" archive="yes"
-feedshow=10]]

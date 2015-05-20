@@ -1,4 +1,0 @@
-[[!meta title="pages tagged abuse"]]
-
-[[!inline pages="tagged(abuse)" actions="no" archive="yes"
-feedshow=10]]

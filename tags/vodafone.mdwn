@@ -1,4 +1,0 @@
-[[!meta title="pages tagged vodafone"]]
-
-[[!inline pages="tagged(vodafone)" actions="no" archive="yes"
-feedshow=10]]

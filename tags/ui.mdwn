@@ -1,4 +1,0 @@
-[[!meta title="pages tagged ui"]]
-
-[[!inline pages="tagged(ui)" actions="no" archive="yes"
-feedshow=10]]

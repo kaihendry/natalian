@@ -1,4 +1,0 @@
-[[!meta title="pages tagged paris"]]
-
-[[!inline pages="tagged(paris)" actions="no" archive="yes"
-feedshow=10]]

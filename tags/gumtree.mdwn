@@ -1,4 +1,0 @@
-[[!meta title="pages tagged gumtree"]]
-
-[[!inline pages="tagged(gumtree)" actions="no" archive="yes"
-feedshow=10]]

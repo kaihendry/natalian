@@ -1,4 +1,0 @@
-[[!meta title="pages tagged identity"]]
-
-[[!inline pages="tagged(identity)" actions="no" archive="yes"
-feedshow=10]]

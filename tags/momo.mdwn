@@ -1,4 +1,0 @@
-[[!meta title="pages tagged momo"]]
-
-[[!inline pages="tagged(momo)" actions="no" archive="yes"
-feedshow=10]]

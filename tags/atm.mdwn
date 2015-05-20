@@ -1,4 +1,0 @@
-[[!meta title="pages tagged atm"]]
-
-[[!inline pages="tagged(atm)" actions="no" archive="yes"
-feedshow=10]]

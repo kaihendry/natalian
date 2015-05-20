@@ -1,4 +1,0 @@
-[[!meta title="pages tagged rewrite"]]
-
-[[!inline pages="tagged(rewrite)" actions="no" archive="yes"
-feedshow=10]]

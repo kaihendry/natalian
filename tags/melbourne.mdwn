@@ -1,4 +1,0 @@
-[[!meta title="pages tagged melbourne"]]
-
-[[!inline pages="tagged(melbourne)" actions="no" archive="yes"
-feedshow=10]]

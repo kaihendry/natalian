@@ -1,4 +1,0 @@
-[[!meta title="pages tagged flickr"]]
-
-[[!inline pages="tagged(flickr)" actions="no" archive="yes"
-feedshow=10]]

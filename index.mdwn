@@ -1,9 +1,0 @@
-[[!inline pages="page(./archives/*/*/*) and !*/Discussion" show="10" trail=yes]]
-
-Thank you for [[commenting|comments]] !
-
-[[!if test="enabled(sidebar)" then="""
-[[!sidebar]]
-""" else="""
-[[!inline pages=sidebar raw=yes]]
-"""]]
