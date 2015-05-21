@@ -1,0 +1,24 @@
+time {
+	display : inline-block;
+	width : 5em;
+	text-align: right;
+}
+
+body {
+	margin-left: auto;
+	margin-right: auto;
+	width: 30em;
+	font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+	letter-spacing: .01rem;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 22px;
+	line-height: 1.5;
+}
+
+h1, h2, h3, h4 {
+	font-family: "jaf-bernino-sans","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+	letter-spacing: -0.02em;
+	font-weight: 700;
+	font-style: normal;
+}

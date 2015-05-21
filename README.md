@@ -1,15 +1,12 @@
 # Kai's own suckless blog
 
-Keeping it simple.
+Keeping it simple. <http://natalian.org.s3-website-ap-southeast-1.amazonaws.com/>
 
 # Front Matter
 
 * <http://gohugo.io/content/front-matter/> offers TOML, YAML & JSON
-* <http://jekyllrb.com/docs/frontmatter/> offers YAML
-* <https://ikiwiki.info/ikiwiki/directive/meta/>  offers in
-
-	[[!meta  field="value"]]
-	[[!meta  field="value" param="value" param="value"]]
+* <http://jekyllrb.com/docs/frontmatter/> comes in YAML
+* <https://ikiwiki.info/ikiwiki/directive/meta/> which my source mdwn uses, uses `[[!meta field="value"]]`
 
 ## Scraper / index / link friendly
 

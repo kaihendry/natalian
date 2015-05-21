@@ -3,26 +3,29 @@ OUTPUT = /srv/www/natalian
 OUTFILES = $(INFILES:.mdwn=/index.html)
 LIST=$(addprefix $(OUTPUT)/, $(OUTFILES))
 
-all: $(LIST) $(OUTPUT)/index.html style.css
+all: $(LIST) $(OUTPUT)/index.html $(OUTPUT)/style.css
 
 $(OUTPUT)/%/index.html: %.mdwn header.inc footer.inc
 	@mkdir -p $(shell dirname $@ || true) || true
 	@cat header.inc > $@
 	@cmark $< >> $@
 	@cat footer.inc >> $@
+	@gzip $@
+	@mv $@.gz $@
 	@echo $< '→' $@
 
 $(OUTPUT)/index.html: all main.go
-	go run main.go > $(OUTPUT)/index.html
+	@go run main.go | gzip > $@
 
 $(OUTPUT)/style.css: style.css
-	cp style.css $(OUTPUT)/style.css
+	@echo "AddEncoding gzip .html .css" > $(OUTPUT)/.htaccess
+	@gzip -c style.css > $(OUTPUT)/style.css
 
 watch:
 	while ! inotifywait -r -e modify .; do make; done
 
 upload: $(OUTPUT)/index.html $(OUTPUT)/style.css
-	s3cmd sync -F -rr --delete-removed -P $(OUTPUT)/ s3://natalian.org/
+	@s3cmd sync --add-header 'Content-Encoding:gzip' -rr --delete-removed -P $(OUTPUT)/ s3://natalian.org/
 
 clean:
-	rm -rf $(OUTPUT)
+	@rm -rf $(OUTPUT)
