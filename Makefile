@@ -5,11 +5,11 @@ LIST=$(addprefix $(OUTPUT)/, $(OUTFILES))
 
 all: $(LIST) $(OUTPUT)/index.html $(OUTPUT)/style.css
 
-$(OUTPUT)/%/index.html: %.mdwn header.inc footer.inc
+$(OUTPUT)/%/index.html: %.mdwn header footer.sh
 	@mkdir -p $(shell dirname $@ || true) || true
-	@cat header.inc > $@
+	@./header $< > $@
 	@cmark $< >> $@
-	@cat footer.inc >> $@
+	@./footer.sh $< >> $@
 	@gzip $@
 	@mv $@.gz $@
 	@echo $< '→' $@

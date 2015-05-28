@@ -7,8 +7,8 @@ import (
 	"strings"
 )
 
-func main() {
-	file, err := os.Open("./file.dat")
+func getKey(key string, mdwn string) (value string) {
+	file, err := os.Open(mdwn)
 
 	if err != nil {
 		fmt.Println(err)
@@ -30,7 +30,16 @@ func main() {
 		item := strings.TrimPrefix(line, `[[!meta `)
 		splitItem := strings.Split(item, "=\"")
 		splitItem[1] = strings.TrimSuffix(splitItem[1], "\" ]]")
-		fmt.Println(splitItem[0], splitItem[1])
+
+		if splitItem[0] == key {
+			return splitItem[1]
+		}
 
 	}
+	return ""
+}
+
+func main() {
+	title := getKey("title", "test.dat")
+	fmt.Println("Title:", title)
 }
