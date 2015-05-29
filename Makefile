@@ -5,17 +5,21 @@ LIST=$(addprefix $(OUTPUT)/, $(OUTFILES))
 
 all: $(LIST) $(OUTPUT)/index.html $(OUTPUT)/style.css
 
-$(OUTPUT)/%/index.html: %.mdwn header footer.sh
+godeps:
+	go get github.com/kaihendry/blog/header
+	go get github.com/kaihendry/blog/index
+
+$(OUTPUT)/%/index.html: %.mdwn
 	@mkdir -p $(shell dirname $@ || true) || true
-	@./header $< > $@
-	@cmark $< >> $@
+	@header $< > $@
+	@sed '/^\[\[/ d' $< | cmark >> $@
 	@./footer.sh $< >> $@
 	@gzip $@
 	@mv $@.gz $@
 	@echo $< '→' $@
 
-$(OUTPUT)/index.html: all main.go
-	@go run main.go | gzip > $@
+$(OUTPUT)/index.html: all
+	@index | gzip > $@
 
 $(OUTPUT)/style.css: style.css
 	@echo "AddEncoding gzip .html .css" > $(OUTPUT)/.htaccess
