@@ -29,7 +29,7 @@ watch:
 	while ! inotifywait -r -e modify .; do make; done
 
 upload: $(OUTPUT)/index.html $(OUTPUT)/style.css
-	@s3cmd sync --add-header 'Content-Encoding:gzip' -rr --delete-removed -P $(OUTPUT)/ s3://natalian.org/
+	@s3cmd -c ~/.s3cfg-hsg sync --add-header 'Content-Encoding:gzip' -rr --delete-removed -P $(OUTPUT)/ s3://natalian.org/
 
 clean:
 	@rm -rf $(OUTPUT)
