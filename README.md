@@ -2,7 +2,7 @@
 
 Keeping it simple. <http://natalian.org.s3-website-ap-southeast-1.amazonaws.com/>
 
-Use a [[Makefile]] !
+Uses a [Makefile](Makefile) like a sane project should !!
 
 # Front Matter
 
