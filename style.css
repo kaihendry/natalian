@@ -1,5 +1,6 @@
 time {
 	display : inline-block;
+	font-family: monospace;
 	width : 5em;
 	text-align: right;
 }
