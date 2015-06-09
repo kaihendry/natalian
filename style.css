@@ -2,7 +2,13 @@ time {
 	display : inline-block;
 	font-family: monospace;
 	width : 5em;
+	color: grey;
+	font-size: smaller;
 	text-align: right;
+}
+
+ol.index {
+	color: silver;
 }
 
 body {
