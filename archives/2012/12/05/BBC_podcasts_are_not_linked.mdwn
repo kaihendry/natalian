@@ -1,7 +1,7 @@
 I love the BBC output but I'm annoyed how difficult it is to share their content, previously:
 
-* [[archives/2012/07/15/BBC_FOOC_URLs_make_no_sense]]
-* [[archives/2012/08/20/BBC_URLs_are_not_cool]]
+* [BBC From Our Own Correspondent URLs make no sense](/archives/2012/07/15/BBC_FOOC_URLs_make_no_sense/)
+* [BBC URLs are not cool](/archives/2012/08/20/BBC_URLs_are_not_cool/)
 
 I love the [BBC Witness series](http://www.bbc.co.uk/podcasts/series/witness)
 which has the same problems as <abbr title="From Our Own

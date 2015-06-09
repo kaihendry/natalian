@@ -81,7 +81,7 @@ threads to speed up it's checksumming operation.
 I just took a random `iotop` reading which I thought was representative of the
 transfer rates I was seeing.
 
-For more details on the hardware please view [[archives/2009/09/06/linux_i7_rig]].
+For more details on the hardware please view [Linux i7 rig](/archives/2009/09/06/linux_i7_rig).
 
 # Tried out xfs
 

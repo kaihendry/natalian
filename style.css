@@ -11,6 +11,12 @@ ol.index {
 	color: silver;
 }
 
+.update {
+	padding: 1em;
+	background-color: #FFFFCC;
+	box-shadow: 0 0 2px #3C790A;
+}
+
 body {
 	margin-left: auto;
 	margin-right: auto;

@@ -7,7 +7,8 @@ particular, the possible gains are limited by the fraction of the software that
 can be parallelized to run on multiple cores simultaneously
 </blockquote>
 
-Since I have a [[archives/2009/09/06/linux_i7_rig]] featuring 8 [multi-core
+Since I have a [Linux i7 rig](/archives/2009/09/06/linux_i7_rig) featuring 8
+[multi-core
 processors](http://en.wikipedia.org/wiki/Multi-core_%28computing%29) on the
 [Intel i7](http://en.wikipedia.org/wiki/Intel_Core_i7), I wondered how to best
 take advantage of its power.

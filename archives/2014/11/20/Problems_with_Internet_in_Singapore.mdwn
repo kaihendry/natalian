@@ -1,6 +1,6 @@
-An update on 1.5 years ago with
-[[archives/2013/06/14/Why_Singapore_Internet_sucks]]. This is in the context of
-<a href=http://hackerspace.sg/><abbr title="Hackerspace
+An **update** on 1.5 years ago with [Why Singapore Internet
+sucks](/archives/2013/06/14/Why_Singapore_Internet_sucks). This is in the
+context of <a href=http://hackerspace.sg/><abbr title="Hackerspace
 Singpaore">HSG</abbr></a>.
 
 HSG is stuck with M1 until **2016-02-09**, since we were connected after 3+

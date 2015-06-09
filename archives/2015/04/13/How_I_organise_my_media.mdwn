@@ -1,4 +1,6 @@
-Following up from [[archives/2013/05/09/How_I_organise_my_pictures]], there has been some changes:
+Following up from [How I organise my
+pictures](archives/2013/05/09/How_I_organise_my_pictures), there has been some
+changes:
 
 * I don't like running the proprietary blob of the Dropbox client, not btsync
 * static.natalian.org is now on [AWS S3](http://aws.amazon.com/s3/)

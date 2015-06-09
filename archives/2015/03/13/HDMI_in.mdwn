@@ -61,10 +61,10 @@ Singapore, I doubt I realistically get a refund from
 
 After months of research... seriously, there seems just to be one standard
 driver-less solution, the [Inogeni](http://www.dexteralabs.com/inogeni/), which
-should work seamlessly with FFMPEG and other opensource tools on my
-[[archives/2015/02/18/Archlinux_on_a_Lenovo_X1C3]]. It's great that there is
-such a product, but I'm almost mystified why there is just one product that
-does this, and cameras like Canon do not implement UVC.
+should work seamlessly with FFMPEG and other opensource tools on my [Archlinux
+on a Lenovo X1C3](archives/2015/02/18/Archlinux_on_a_Lenovo_X1C3). It's great
+that there is such a product, but I'm almost mystified why there is just one
+product that does this, and cameras like Canon do not implement UVC.
 
 Is there something glaringly wrong with <abbr title="USB video device
 class">UVC</abbr> that I don't know about?

@@ -5,7 +5,7 @@ purchasing a
 X220](http://blog.jamiek.it/2011/10/arch-linux-on-thinkpad-x220.html) too.
 
 A 64bit Archlinux install on a 166GBP OCZ 120GB Nocti SSD - mSATA SATA-II - Read
-280MB/s Write 260MB/s from [Ebuyer](http://www.ebuyer.com/284727-ocz-120gb-nocti-ssd-msata-sata-ii-read-280mb-s-write-260mb-s-noc-msata-120g) went well. I can't verify the [SSDs speeds](https://wiki.archlinux.org/index.php/SSD_Benchmarking), but they are much faster than the Seagate 500GB Momentus XT Hybrid SSD in my [[archives/2011/01/16/Archlinux_SSD_upgrade_from_Ubuntu]].
+280MB/s Write 260MB/s from [Ebuyer](http://www.ebuyer.com/284727-ocz-120gb-nocti-ssd-msata-sata-ii-read-280mb-s-write-260mb-s-noc-msata-120g) went well. I can't verify the [SSDs speeds](https://wiki.archlinux.org/index.php/SSD_Benchmarking), but they are much faster than the Seagate 500GB Momentus XT Hybrid SSD in my [Archlinux SSD upgrade from Ubuntu](/archives/2011/01/16/Archlinux_SSD_upgrade_from_Ubuntu).
 
 I opted for syslinux and I can boot into Windows uncommenting a chainload
 stanza in `/boot/syslinux/syslinux.cfg` or by using the Thinkpad own BIOS boot
@@ -31,8 +31,9 @@ like a nice X220 resource.
 Another problem is the "Intel Corporation Centrino Advanced-N 6205 (rev 34)"
 wireless. Arch's `wifi-select wlan0` doesn't seem to want to join an open
 network. The problem seems similar to an issue documented with my X201 and
-[[archives/2011/09/28/DHCP_IP_lease_attempt_failed_on_Archlinx/]]. I've also
-found general complaints about the [Intel iwalgn
+[DHCP IP lease attempt failed on
+Archlinux](/archives/2011/09/28/DHCP_IP_lease_attempt_failed_on_Archlinx/).
+I've also found general complaints about the [Intel iwalgn
 driver](https://lkml.org/lkml/2011/10/15/107).  My workaround is to `sudo
 iwconfig wlan0 essid praze`, `sudo iwconfig wlan0 key off` & `sudo dhcpcd
 wlan0` manually to get connected!

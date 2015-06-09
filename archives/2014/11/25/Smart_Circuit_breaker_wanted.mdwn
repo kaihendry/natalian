@@ -6,7 +6,7 @@ Breaker">MCB</abbr> that could fit in a typical circuit switch board, but with
 two additional features:
 
 1. Wifi <abbr title="Internet of Things">IoT</abbr> connectivity so I can _at least_ TURN OFF that switch
-1. An API to read out of how much power the circuit is pulling in kilowatts, like [[archives/2007/02/21/wireless-electricity-meter-idea]]
+1. An API to read out of how much power the circuit is pulling in kilowatts, like [Wireless electricity meter idea](/archives/2007/02/21/wireless-electricity-meter-idea)
 
 <a href="https://www.flickr.com/photos/hendry/15613669779" title="Close up of MCBs by Kai Hendry, on Flickr"><img src="https://farm8.staticflickr.com/7520/15613669779_2a5bdd09d0.jpg" width="500" height="375" alt="Close up of MCBs"></a>
 
