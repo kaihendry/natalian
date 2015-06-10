@@ -29,10 +29,11 @@
 <li>A lot of the Apple software just sucks!</li>
 </ul>
 
-<p>There are some things I quite like about the <span class="caps">MBP</span> compared to the X40:<br />
-* Bigger screen 1024&#215;768 -> 1440&#215;900<br />
-* Wifi that remembers the connection details<br />
-* Faster bootups<br />
-* I actually like the glossy screen (when there are no reflections on it)</p>
+There are some things I quite like about the <span class="caps">MBP</span> compared to the X40:
+
+* Bigger screen 1024&#215;768 -> 1440&#215;900
+* Wifi that remembers the connection details
+* Faster bootups
+* I actually like the glossy screen (when there are no reflections on it)
 
 <p>Currently I remain not totally convinced about the Apple <span class="caps">MBP</span>. I&#8217;ll keep my Debian X40 my personal machine and the <span class="caps">MBP</span> for work. Now I can <a href="http://webkit.org/building/build.html">compile Webkit on Apple <span class="caps">OSX</span></a>  <a href="http://packages.qa.debian.org/w/webkit.html">(Debian can too)</a> and see what&#8217;s happening in Ubuntu.</p>
