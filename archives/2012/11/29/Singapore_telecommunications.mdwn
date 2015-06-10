@@ -23,7 +23,7 @@ of 24 months with Singtel.
 You can only open a contract if you physically have the full employment pass,
 not a preliminary one.
 
-Update: [[archives/2014/11/30/Switching_to_StarHub]]
+Update: [Switching to StarHub](/archives/2014/11/30/Switching_to_StarHub)
 
 # Fixed line
 
@@ -53,7 +53,7 @@ They cannot port a prepaid number.
 Do NOT roam on this, is the advice of sales representative in Bugis. Even in
 Malaysia, it's too expensive.
 
-Unlike [[Malaysia|archives/2012/01/01/Canon_can_not]], you do have <a
+Unlike [Malaysia](/archives/2012/01/01/Canon_can_not), you do have <a
 href="http://en.wikipedia.org/wiki/Lemon_law#Singapore">'a lemon law'</a>
 protecting your consumer rights for products, but not services. You can
 complain to [CASE](http://www.case.org.sg/) though. There is no cooling off

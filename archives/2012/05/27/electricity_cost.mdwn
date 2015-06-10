@@ -1,7 +1,8 @@
 [[!meta title="South West electricity cost" ]]
 
-In a similar vein to my [[daily electricity cost|archives/2008/06/29/daily-electricity-cost]] investigations 4 years ago, I
-thought I should work out the costs for <http://prazefarm.co.uk/>.
+In a similar vein to my [daily electricity
+cost](/archives/2008/06/29/daily-electricity-cost) investigations 4 years ago,
+I thought I should work out the costs for <http://prazefarm.co.uk/>.
 
 This is a big issue for our family since oil prices have rocketed leaving us
 testing our brains trying to work out questions like:
@@ -48,7 +49,7 @@ information.
 
 I think in our case the cost per kW/h is **9.73 pence** (10.22pence including
 VAT). But just by my experience
-[[before|archives/2008/06/29/daily-electricity-cost]], it's probably an
+[before](/archives/2008/06/29/daily-electricity-cost), it's probably an
 incorrect assumption when you factor in the confusing "standing charge". My
 mother understands the "standing charge" is the same as BT's line rental. In
 that case we get charged about 30 pence per day for having electricity running

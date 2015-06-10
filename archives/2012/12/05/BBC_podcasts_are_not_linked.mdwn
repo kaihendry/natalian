@@ -5,7 +5,8 @@ I love the BBC output but I'm annoyed how difficult it is to share their content
 
 I love the [BBC Witness series](http://www.bbc.co.uk/podcasts/series/witness)
 which has the same problems as <abbr title="From Our Own
-Correspondent">FOOC</abbr> when it comes to their [[URLs|archives/2012/08/20/BBC_URLs_are_not_cool]].
+Correspondent">FOOC</abbr> when it comes to their
+[URLs](/archives/2012/08/20/BBC_URLs_are_not_cool).
 
 When listening to the Witness podcast using Apple's Podcasts App, if I share
 and choose to email, the body of the email sent looks like:

@@ -1,5 +1,5 @@
 Carrying from my earlier moan about the
-[[FOOC_URLs|archives/2012/07/15/BBC_FOOC_URLs_make_no_sense]], here are more
+[FOOC_URLs](/archives/2012/07/15/BBC_FOOC_URLs_make_no_sense), here are more
 example of crazy URLs produced by the BBC:
 
 * Old URL: <http://news.bbc.co.uk/2/hi/programmes/more_or_less/>

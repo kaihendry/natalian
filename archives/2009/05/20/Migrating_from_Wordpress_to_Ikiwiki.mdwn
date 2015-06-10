@@ -1,4 +1,4 @@
-I previously [[pleaded_for_a_solution|archives/2009/02/03/dabase-is-the-place-to-be]] to help import my
+I previously [pleaded_for_a_solution](/archives/2009/02/03/dabase-is-the-place-to-be) to help import my
 Wordpress posts to
 [Ikiwiki](http://ikiwiki.info/tips/Importing_posts_from_Wordpress/).
 
@@ -16,9 +16,9 @@ have just pulled from the
 language</a> on my previous Wordpress blog. Hence I've run all my posts through
 a textile filter and dumped the resulting HTML into .mdwn files.
 
-So if you look through Natalian's [[archives]], you'll see this blog stretches
-back now more than 6 years to 2003-04-27. That's a **long time** for a blog and
-the link rot shows.
+So if you look through Natalian's archives, you'll see this blog stretches back
+now more than 6 years to 2003-04-27. That's a **long time** for a blog and the
+link rot shows.
 
 For example I used to host pictures on **pictures.natalian.org** and referenced
 them in my blogs:
@@ -30,8 +30,8 @@ That service does not exist anymore, since my my pictures are now all on
 [Flickr](http://www.flickr.com/photos/hendry/) and
 <http://static.natalian.org/>.
 
-There is still some issues I need to resolve, such as [[tags|archives/tag]]. One
-has to manually create the tags files which is a major PITA.
+There is still some issues I need to resolve, such as tags. One has to manually
+create the tags files which is a major PITA.
 
 So far I like where I am now with [Ikiwiki.info](http://packages.qa.debian.org/i/ikiwiki.html). Though I am keen to possibly
 try a [suckless](http://suckless.org) approach with [werc](http://werc.cat-v.org/).

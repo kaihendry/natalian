@@ -7,6 +7,10 @@ time {
 	text-align: right;
 }
 
+.posturl {
+	font-size: small
+}
+
 ol.index {
 	color: silver;
 }
@@ -15,6 +19,10 @@ ol.index {
 	padding: 1em;
 	background-color: #FFFFCC;
 	box-shadow: 0 0 2px #3C790A;
+}
+
+footer {
+	border-top: thin black solid;
 }
 
 body {

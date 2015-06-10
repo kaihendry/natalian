@@ -1,6 +1,6 @@
 <a href="http://www.flickr.com/photos/hendry/3889643583/" title="My newly assembled i7 rig by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3465/3889643583_29a0b4efbb.jpg" width="500" height="375" alt="My newly assembled i7 rig" /></a>
 
-I ordered the [[component_list|archives/2009/08/21/Building_a_PC]] on Friday
+I ordered the [component list](/archives/2009/08/21/Building_a_PC) on Friday
 (28/8) and I picked up the components from work on Saturday (5/9) after
 returning from
 [Edinburgh](http://www.flickr.com/photos/hendry/tags/edinburgh/).
@@ -145,7 +145,7 @@ The hard drive is not noisy and it seems fast. I now have a [1TB
 drive](http://www.dabs.com/products/western-digital-1tb-caviar-black-7200rpm-32mb-sata-3-5--57Q3.html)
 to go with it.
 
-Incidentally the [[1TB_disk|archives/2009/10/07/One_Terabyte]] seems just as fast according to `hdparm`.
+Incidentally the [1TB_disk](/archives/2009/10/07/One_Terabyte) seems just as fast according to `hdparm`.
 
 # Sensors
 

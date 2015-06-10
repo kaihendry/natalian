@@ -13,8 +13,8 @@ I just got off the phone with M1. The procedure for reporting SPAM is:
 * Report this to your local police station to get a police report
 * Submit this report to M1
 
-This is absurd. Even more absurd when in [[Singapore you can get charged for
-incoming calls|archives/2012/11/29/Singapore_telecommunications]]. Even worse
+This is absurd. Even more absurd when in [Singapore you can get charged for
+incoming calls](/archives/2012/11/29/Singapore_telecommunications). Even worse
 if you are dumb enough to roam abroad with a Singporean SIM card.
 
 (Samsung) Androids has nice feature of "Add to Reject list" when you long hold
