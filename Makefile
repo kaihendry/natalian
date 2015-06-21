@@ -39,7 +39,7 @@ watch:
 	while ! inotifywait -r -e modify .; do make; done
 
 upload: $(OUTPUT)/index.html $(OUTPUT)/style.css
-	@aws --profile hsgpower s3 sync --content-encoding gzip --storage-class REDUCED_REDUNDANCY --acl public-read $(OUTPUT)/ s3://natalian.org/
+	@aws --profile hsgpower s3 sync --content-encoding gzip --size-only --storage-class REDUCED_REDUNDANCY --acl public-read $(OUTPUT)/ s3://natalian.org/
 	@curl -I http://natalian.org.s3-website-ap-southeast-1.amazonaws.com/style.css
 
 clean:
