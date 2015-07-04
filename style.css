@@ -164,28 +164,3 @@ blockquote {
 	padding: 0;
 	-moz-padding-start: 16px;
 }
-
-ul,
-ol {
-	padding: 0;
-}
-
-ul {
-	-moz-padding-start: 30px;
-	list-style: disc;
-}
-
-ol {
-	-moz-padding-start: 30px;
-	list-style: decimal;
-}
-
-/* Hide elements with common "hidden" class names */
-.visually-hidden,
-.visuallyhidden,
-.hidden,
-.invisible,
-.sr-only {
-	display: none;
-}
-
