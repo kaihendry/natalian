@@ -39,7 +39,8 @@ footer {
 }
 
 body {
-	margin-left: auto;
+	/* auto has no margin whatsoever */
+	margin-left: 1em;
 	margin-right: auto;
 	width: 30em;
 	font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
@@ -72,8 +73,6 @@ p::selection {
 	background:rgba(255, 255, 125, 0.99);
 	color:#032764;
 }
-
-
 
 /* This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,

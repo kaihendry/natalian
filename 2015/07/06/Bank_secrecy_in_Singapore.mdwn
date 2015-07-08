@@ -1,0 +1,55 @@
+I've always wondered if government tax departments like
+[HMRC](https://en.wikipedia.org/wiki/HM_Revenue_and_Customs) or the
+[IRS](https://en.wikipedia.org/wiki/Internal_Revenue_Service) could pry into my
+personal or business bank accounts. Just to make sure company returns (reports)
+were accurate and if I'm paying the right tax.
+
+Obviously this would be a huge privacy infringement if they could without
+"probable cause" or warrant. It would be just as invasive as being able to read
+my email. With stronger metadata to show **where I am** and my "capabilities"
+(my money!) if you will.
+
+Now after chatting to an anonymous accountant, he's informed me since 2009 US &
+European banks by order of their governments have made every transaction
+**trace-able**.  Why? **Strict anti-money laundering**, **"War on terror"** and
+recent efforts of **clamping down on the unscrupulous practices of the banking
+industry** (it's government money that bailed out the banks after all).
+
+Now I've yet to see Snowden-esque concrete proof of this _privacy infringement
+of Western governments viewing Western bank accounts_ claim.  Though I find it
+shocking if true.
+
+Furthermore, I'm told that Singapore does not participate in this dragnet and
+therefore there is **private banking in Singapore**, and this is why it's such
+a popular financial hub. Again, I've yet to find proof that this is true.
+
+Even **if** there was private banking in Singapore, I'm told that in order to do
+business with US banks you must release data (what that is exactly, I don't
+know). Therefore even if you had your banking privacy, the minute you interact
+with an US/EU the bank, your privacy might have to be given up by your bank!
+
+Most people I've spoken to involved in the financial industry are resigned
+("it's hopeless!"), or take the "I've got nothing to hide" argument or complain
+that people are just zombies and won't understand the **grave consequences**
+until too late.
+
+Nonetheless I'm writing the blog in the hope that people can hopefully gather
+evidence and information about these banking privacy violations. Right now it's
+hearsay on my part. I like to think that if a country like **Singapore came out
+and affirmed that it respects the privacy of business** in their country, then it
+would make it an _even more_ attractive place to do business in.
+
+Sidenote: I had the thought that maybe everyone's financials dealings should be
+public, like Tax records IIUC in Norway. This transparency would catch out
+[corruption](http://www.wsj.com/articles/malaysia-probe-says-it-has-found-documents-tied-to-alleged-transfers-to-premier-1436018753),
+however I can't help but feel it's too much of a slippery slope. Ultimately
+governments (although largely incompetent & susceptible to leaks) control the
+information flow and that's far too much power in one place.
+
+Update: I've since discovered this topic is called "Bank Secrecy". I've changed
+the name of the blog from "Private banking in Singapore", which means something
+different: an arrangement with a bank where you are given personal care of your
+financial assets.
+
+* <http://www.rodyk.com/usermedia/documents/Rodyk_Reportersept14-Business%20Bulletin%201.pdf>
+* <https://en.wikipedia.org/wiki/Bank_secrecy>
