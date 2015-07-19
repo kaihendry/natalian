@@ -101,8 +101,6 @@ trackpad](https://www.flickr.com/photos/hendry/15938481073/in/photostream/)
 since it was resulting in odd selections. I wonder if I can configure it **just
 to scroll** ?
 
-UPDATE: Synclient might actually work in [Linux 4.0](http://who-t.blogspot.com.au/2015/01/lenovos-x1-carbon-3rd-touchpad-woes.html)
-
 ## Annoying network interface names
 
 	X1C3:~$ networkctl
@@ -151,7 +149,7 @@ Function is not enabled the:
 * wifi kill button works
 * Mute works
 
-But not the volume or brightness buttons AFAICT. :/
+I have figured out how to bind the volume and brightness controls in my [dwm configuration](https://github.com/kaihendry/dwm).
 
 <a href="https://www.flickr.com/photos/hendry/16607185822" title="X220 to X1C3 keyboard remapping by Kai Hendry, on Flickr"><img src="https://farm9.staticflickr.com/8602/16607185822_cc8a42ed49.jpg" width="500" height="500" alt="X220 to X1C3 keyboard remapping"></a>
 
@@ -159,7 +157,7 @@ I've overrided [mapping the Thinkpad keys](https://www.flickr.com/photos/hendry/
 
 ## Screen
 
-I'm enjoying the 1920x1080 screen so far, especially since I more room to tile
+I'm enjoying the 1920x1080 (aka **1080p** aka <abbr title="Full High Definition">FHD</abbr>) screen so far, especially since I more room to tile
 two windows side by side in [dwm](http://dwm.suckless.org/). Didn't have to do
 anything special so far to resize anything. `google-chrome-unstable` and <a
 href=http://st.suckless.org/>st</a>'s `static char font[] =
@@ -186,6 +184,8 @@ tried my Rode SmartLav+. There is just no sweet spot on `pavucontrol` to get
 noise/levels properly adjusted for a clear recording.  I suspected windows
 employs some high pass filtering and that's why no one complains about the
 microphone under Windows. :/
+
+Update: I've bought a condenser microphone to compensate for the poor onboard microphone. See [Screencasting from Archlinux gotchas](http://dabase.com/blog/Screencasting_from_Archlinux_gotchas/) for details
 
 ### GL performance
 

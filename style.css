@@ -1,7 +1,7 @@
 time {
 	display : inline-block;
 	font-family: monospace;
-	width : 5em;
+	width : 4em;
 	color: grey;
 	font-size: smaller;
 	text-align: right;
@@ -9,15 +9,15 @@ time {
 
 blockquote { background-color: #FFFFCC; padding: 1em;
 
-border-left-style: solid;
-border-left-width: 8px;
-border-right-color: rgb(68, 68, 68);
-border-right-style: none;
-border-right-width: 0px;
-border-top-color: rgb(68, 68, 68);
-border-top-style: none;
-border-top-width: 0px;
-box-shadow: rgba(0, 0, 0, 0.498039)
+	border-left-style: solid;
+	border-left-width: 8px;
+	border-right-color: rgb(68, 68, 68);
+	border-right-style: none;
+	border-right-width: 0px;
+	border-top-color: rgb(68, 68, 68);
+	border-top-style: none;
+	border-top-width: 0px;
+	box-shadow: rgba(0, 0, 0, 0.498039)
 }
 
 .posturl {
@@ -26,7 +26,11 @@ box-shadow: rgba(0, 0, 0, 0.498039)
 
 ol.index {
 	color: silver;
+	list-style-type: none;
+	padding: 0;
 }
+
+.index { white-space: nowrap; }
 
 .update {
 	padding: 1em;
@@ -38,9 +42,9 @@ footer {
 	border-top: thin black solid;
 }
 
-body {
+* {
 	/* auto has no margin whatsoever */
-	margin-left: 1em;
+	margin-left: auto;
 	margin-right: auto;
 	width: 30em;
 	font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
@@ -61,77 +65,42 @@ h1, h2, h3, h4 {
 	font-style: normal;
 }
 
-p::-moz-selection {
-	background:rgba(255, 255, 125, 0.99);
-	color:#032764;
-}
-p::-webkit-selection {
-	background:rgba(255, 255, 125, 0.99);
-	color:#032764;
-}
-p::selection {
-	background:rgba(255, 255, 125, 0.99);
-	color:#032764;
+h1,
+h2,
+h3 {
+	font-weight: bold;
 }
 
-/* This Source Code Form is subject to the terms of the Mozilla Public
- * License, v. 2.0. If a copy of the MPL was not distributed with this file,
- * You can obtain one at http://mozilla.org/MPL/2.0/. */
+h1 {
+	font-size: 1.6em;
+	line-height: 1.25em;
+}
 
-	#moz-reader-content {
-		display: none;
-		font-size: 1em;
-		line-height: 1.6em;
-	}
+h2 {
+	font-size: 1.2em;
+	line-height: 1.51em;
+}
 
-	h1,
-	h2,
-	h3 {
-		font-weight: bold;
-	}
+h3 {
+	font-size: 1em;
+	line-height: 1.66em;
+}
 
-	h1 {
-		font-size: 1.6em;
-		line-height: 1.25em;
-	}
+a {
+	text-decoration: underline;
+	font-weight: normal;
+}
 
-	h2 {
-		font-size: 1.2em;
-		line-height: 1.51em;
-	}
-
-	h3 {
-		font-size: 1em;
-		line-height: 1.66em;
-	}
-
-	a {
-		text-decoration: underline;
-		font-weight: normal;
-	}
-
-	a,
-	a:visited,
-	a:hover,
-	a:active {
-		color: #0095dd;
-	}
+a,
+a:visited,
+a:hover,
+a:active {
+	color: #0095dd;
+}
 
 * {
 	max-width: 100%;
 	height: auto;
-}
-
-p,
-code,
-pre,
-blockquote,
-ul,
-ol,
-li,
-figure,
-.wp-caption {
-	margin: 0 0 30px 0;
 }
 
 p > img:only-child,
@@ -154,12 +123,30 @@ figcaption {
 	font-style: italic;
 }
 
-code,
-pre {
-	white-space: pre-wrap;
-}
-
 blockquote {
 	padding: 0;
 	-moz-padding-start: 16px;
 }
+
+p { margin-left: 0.3em; }
+
+abbr[title], acronym[title] {
+	     border-bottom: dotted 1px;
+		    }
+
+
+code, samp, kbd {
+	font-family: monospace;
+	color: white;
+	background-color: black;
+	}
+pre {
+	padding: 0.1em 0.5em 0.3em 0.7em;
+	border-left: 11px solid #ccc;
+	margin: 1.7em 0 1.7em 0.3em;
+	overflow: auto;
+	width: 93%;
+	color: white;
+	background-color: black;
+
+	}
