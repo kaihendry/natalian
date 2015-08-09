@@ -42,9 +42,10 @@ would make it an _even more_ attractive place to do business in.
 Sidenote: I had the thought that maybe everyone's financials dealings should be
 public, like Tax records IIUC in Norway. This transparency would catch out
 [corruption](http://www.wsj.com/articles/malaysia-probe-says-it-has-found-documents-tied-to-alleged-transfers-to-premier-1436018753),
-however I can't help but feel it's too much of a slippery slope. Ultimately
-governments (although largely incompetent & susceptible to leaks) control the
-information flow and that's far too much power in one place.
+however I can't help but feel it doesn't really solve the problem of having
+checks and balances between a state and its people. Ultimately governments
+(although largely incompetent & susceptible to leaks) control the information
+flow and that's far too much power in one place.
 
 Update: I've since discovered this topic is called "Bank Secrecy". I've changed
 the name of the blog from "Private banking in Singapore", which means something
@@ -53,3 +54,11 @@ financial assets.
 
 * <http://www.rodyk.com/usermedia/documents/Rodyk_Reportersept14-Business%20Bulletin%201.pdf>
 * <https://en.wikipedia.org/wiki/Bank_secrecy>
+
+Update: I've heard that if the Singapore government was interested in your
+Singapore hosted account, your account details would be handed over in a flash.
+That seems to be the case around the world. So I guess my general take away
+about the world banking system is that **if you want your privacy, you need to
+host it in a country you have nothing to do with**, one that doesn't see you as
+a threat to their local affairs. This is why Singapore is a pretty popular
+choice for foreigners and neighbours!
