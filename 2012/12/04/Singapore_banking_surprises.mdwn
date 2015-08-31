@@ -106,7 +106,7 @@ working out **who** just paid you.
 This was painstakingly worked out as a payment of 200USD from a Scottish
 customer. I.e. a very manual task.
 
-# No automation features with company back account
+# No automation features with Standard Chartered's company bank account
 
 Want to complete standing order online? You can't. More manual work you need to account for.
 
@@ -170,3 +170,13 @@ these PDFs like:
 
 It makes the 8 digit account numbers and 6 digits sorting codes of Britain seem
 like UTTER GENIUS.
+
+UPDATE: FAST bank account numbers seem to have 9 digits. But they might be
+written like XXX-XXXXX-X and prepare for forms to choke on those dashes!
+
+# Can't find that POSB savings account ?
+
+When paying someone with a POSB account, you actually need to select <abbr title="Development Bank of Singapore">DBS</abbr> in forms.
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/kaihendry">@kaihendry</a> Hi Kai Hendry! If you&#39;ll be transferring funds, simply choose DBS Bank LTD from the drop down list. Hope this info helps! ~je</p>&mdash; POSB (@posb) <a href="https://twitter.com/posb/status/624569110618370048">July 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

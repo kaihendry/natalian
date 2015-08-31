@@ -1,0 +1,148 @@
+Hiring a <abbr title="Foreign Domestic Worker">FDW</abbr> in Singapore tested
+my abilities to cope with bureaucracy, an unclear process and forms that only
+work in Internet Explorer. The good news for you, is that the <a href=http://www.mom.gov.sg/eservices/services/wp-online-for-employers-of-fdws><abbr title="Work Permit Online">WPOL</abbr></a> is about to be replaced in  6 months I'm told by friends
+who work at [neo](http://neo.com/). Lets hope it gets better.
+
+Let me try summarise what you need to in order to hire a **transfer maid**. I
+found mine via [Anisya](http://anisya.com/). You can pay an agency to conduct
+these steps for you.
+
+There is a <abbr title="Foreign Domestic Worker">FDW</abbr> Employers'
+Orientation Programme you MUST conduct as an online course at
+<http://www.sp.edu.sg/>. Be sure that the person who does this course is the
+same as the employer. i.e. decide between you and your spouse who is going to
+be tackling the bureaucracy. You cannot share the load as a couple.
+
+The course is terribly implemented and only seems to work in Internet Explorer.
+There are some tests, but I don't think you can fail them. You will probably
+get more out of watching the [Ministry of Manpower's Youtube
+channel](https://www.youtube.com/user/MOMsingapore). It's a shame they don't
+improve their videos or have a
+[playlist](https://www.youtube.com/user/MOMsingapore/playlists) for <abbr
+title="Foreign Domestic Worker">FDW</abbr>.
+
+# First step: <abbr title="In-Principle Approval">IPA</abbr>
+
+At this stage you must have good contact with the current employer of your
+<abbr title="Foreign Domestic Worker">FDW</abbr> and you need **all the
+particulars** of your <abbr title="Foreign Domestic Worker">FDW</abbr>. DOB,
+passport details, issuance dates, expiry dates.
+
+Next you need a valid Singpass and a Singapore bank accounts that's able to do
+an online NETs payment.
+
+Getting all these ducks in a row can actually be quite difficult. With any luck
+you had a successful application and you will get an email like:
+
+	Dear Sir/Madam,
+
+		XXXX XXXX XXXXXXX, Work permit no: 0 00000000
+		Applied on: 19/08/2015 is approved on 20/08/2015.
+
+	Yours faithfully,
+	Work Pass Division
+
+	This is a system generated email. Please do not reply to this email
+	address.
+
+Next you will need to log back into <a
+href=http://www.mom.gov.sg/eservices/services/wp-online-for-employers-of-fdws><abbr
+title="Work Permit Online">WPOL</abbr></a> and download the:
+
+1.  <abbr title="In-Principle Approval">IPA</abbr> PDF
+2.  **APPLICATION FOR A WORK PERMIT FOR A DOMESTIC WORKER** PDF
+
+I recommend you read them.
+
+# 2nd step: Buy insurance (security bond)
+
+In the <abbr title="In-Principle Approval">IPA</abbr> PDF, you will find the
+**SB Transmission Ref No**. This is the main "gotcha" from filling in my
+insurance application online via [NTUC Foreign Maid
+Insurance](http://www.income.com.sg/insurance/home-lifestyle-insurance/foreign-maid-insurance).
+
+Again prepare your self for a torturous form filling affair with terrible
+design. Another tip that I failed to do, is you might want to adjust the
+effective date to be one or two days earlier, since this will allow you to
+submit the application earlier too. Confusingly in the <abbr
+title="In-Principle Approval">IPA</abbr> PDF it will give you a deadline which
+is impossible to meet unless you have insurance effective from that date.
+
+Don't panic, the <abbr title="In-Principle Approval">IPA</abbr> is actually
+valid for at least a week after that **Submission of Documents to Process Work
+Permit** deadline passes.
+
+If everything goes well with your insurance application, you will receive an email like so:
+
+	We confirm acceptance of your Foreign Maid Insurance
+	proposal.  You will receive your policy document by post
+	within 5 working days.
+
+	Policy Number - 0000000000
+
+	Period of Insurance - 01-09-2015 to 31-10-2016
+
+Btw, it's not clear on NTUC's awfully designed Website & form but when you buy
+insurance you also effectively take out a **security bond** as well as her
+**medical insurance**.
+
+Don't worry about the "policy document by post". What they don't tell you, is
+that NTUC has a system that **automatically tells** <abbr title="Work Permit
+Online">WPOL</abbr> you have taken out insurance. You can check this yourself
+in <abbr title="Work Permit Online">WPOL</abbr>'s Enquire &rarr; Security Bond
+Status menu.  Hopefully they will replace this byzantine menu with thoughtful &
+operator friendly URLs like https://wponline.mom.gov.sg/status/bond...
+
+# 3rd step: Apply for work permit
+
+Two important things you remember is the **effective date of your application**
+and the work permit number which starts with a ZERO SPACE.  This needs to be
+correct else you will get a mysterious error message like:
+
+	OLISM001:       Invalid combination. Please enter a valid combination of search parameters.
+
+I signed the **APPLICATION FOR A WORK PERMIT FOR A DOMESTIC WORKER** PDF with
+CudaSign on my Iphone and then you need to email current employer of your <abbr
+title="Foreign Domestic Worker">FDW</abbr> to sign. The <abbr title="Foreign
+Domestic Worker">FDW</abbr> also needs to sign a couple of sections including
+one to prevent her from gambling. For me, they signed the printed documents and
+then photographed each page and emailed me back 6 JPEGs. I then joined then
+with:
+
+	for i in *.jpeg; do convert $i $i.pdf; done
+	pdfunite *.pdf /tmp/filled-in-wp-application.pdf
+
+Fill in the [Application For Inter-Bank GIRO (Foreign Worker Levy
+Payment)](http://www.mom.gov.sg/~/media/mom/documents/services-forms/passes/giro_appln_form.pdf)
+and post it. You [can't do this
+online](https://twitter.com/kaihendry/status/636381386304155648). I don't know
+why.
+
+Remember you cannot **Issue Work Permit** on <abbr title="Work Permit
+Online">WPOL</abbr> until the Period of Insurance date is effective
+(**01-09-2015** in my case). Else you will be greeted by an error message like:
+
+	OLIS2A014D:	eIssuance not allowed as the Insurance / Banker's Guarantee for the Security Bond is not effective yet. If you require clarification, please print this screen and write your name, contact number and fax number on it. You can fax this screen to the Work Pass Division (WPD) at Fax No. 65320795. WPD will contact you shortly.
+
+# Final notes
+
+The Employment contract between you (the employer) and your <abbr
+title="Foreign Domestic Worker">FDW</abbr> isn't actually a requirement. Sadly,
+there is no template provided by <abbr title="Ministry of Manpower">MOM</abbr>,
+though the [contract provided by the Philipine
+embassy](http://www.philippine-embassy.org.sg/wp-content/uploads/SECD.pdf)
+seems fine ([Backup copy](http://s.natalian.org/2015-08-31/SECD.pdf)).
+
+This process, although online... will take you more than one day and lots of
+strong coffee and patience.
+
+SingPass loves to log you out and for some reason my browser refuses to
+remember the login and password details.
+
+If you get stuck call <a href=http://www.mom.gov.sg/><abbr title="Ministry of
+Manpower">MOM</abbr></a>. They are actually quite good on the phone! 6438
+5122's telephone menu is a nightmare, though I found *# to get to the menu and
+1, 1 and then 0 to get an operator the most efficient way. Email exchanges with
+<abbr title="Ministry of Manpower">MOM</abbr> sadly were terrible. They take at
+least 3 days to respond and for me, both occassions didn't seem to understand
+what I was asking for.
