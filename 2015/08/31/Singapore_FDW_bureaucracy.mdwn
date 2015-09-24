@@ -1,3 +1,7 @@
+<img alt="MOM's Work Permit Online Web application in 2015" src=http://s.natalian.org/2015-09-04/wpol.png>
+
+Note: Correct as of time of writing. I have **NO PLANS** to keep it up to date and this information will likely be out of date within six months!
+
 Hiring a <abbr title="Foreign Domestic Worker">FDW</abbr> in Singapore tested
 my abilities to cope with bureaucracy, an unclear process and forms that only
 work in Internet Explorer. The good news for you, is that the <a
@@ -8,7 +12,7 @@ touched since the 90s!
 
 Let me try summarise what you need to in order to hire a **transfer maid**. I
 found mine via [Anisya](http://anisya.com/). You can pay an agency to conduct
-these steps for you.
+these steps for you. Doing them yourself can save you >500SGD!
 
 There is a <abbr title="Foreign Domestic Worker">FDW</abbr> Employers'
 Orientation Programme you MUST conduct as an online course at
@@ -17,7 +21,7 @@ same as the employer. i.e. decide between you and your spouse who is going to
 be tackling the bureaucracy. You cannot share the load as a couple.
 
 The course is terribly implemented and only seems to work in Internet Explorer.
-There are some tests, but I don't think you can fail them. You will probably
+There are some quizzes, but I don't think you can fail them. You will probably
 get more out of watching the [Ministry of Manpower's Youtube
 channel](https://www.youtube.com/user/MOMsingapore). It's a shame they don't
 improve their videos or have a
@@ -31,11 +35,23 @@ At this stage you must have good contact with the current employer of your
 particulars** of your <abbr title="Foreign Domestic Worker">FDW</abbr>. DOB,
 passport details, issuance dates, expiry dates.
 
+<div style="color: #E50000; background: white; border: solid red; padding:
+0.5em; margin: 1em 0;"> 100SGD GOTCHA: Note on transfer your helper's 6 month
+medical will reset.  Somewhere on the MOM Website it is noted that the current
+employer (the one your are transferring from) will be obligated to pay. On a
+successful <abbr title="In-Principle Approval">IPA</abbr> the current employer
+will get a letter from MOM requesting the employer to send the helper to a
+medical. If the employer does not do this by the time the transfer is complete,
+the problem then becomes yours.  So you MUST press the employer to get the
+helper's medical done before applying for the final work permit.  </div>
+
 Next you need a valid Singpass and a Singapore bank accounts that's able to do
 an online NETs payment.
 
 Getting all these ducks in a row can actually be quite difficult. With any luck
-you had a successful application and you will get an email like:
+you had a successful application from <a
+href=http://www.mom.gov.sg/eservices/services/wp-online-for-employers-of-fdws><abbr
+title="Work Permit Online">WPOL</abbr></a> and you will get an email like:
 
 	Dear Sir/Madam,
 
@@ -115,11 +131,10 @@ with:
 	for i in *.jpeg; do convert $i $i.pdf; done
 	pdfunite *.pdf /tmp/filled-in-wp-application.pdf
 
-Fill in the [Application For Inter-Bank GIRO (Foreign Worker Levy
+Either fill in the [Application For Inter-Bank GIRO (Foreign Worker Levy
 Payment)](http://www.mom.gov.sg/~/media/mom/documents/services-forms/passes/giro_appln_form.pdf)
-and post it. You [can't do this
-online](https://twitter.com/kaihendry/status/636381386304155648). I don't know
-why.
+and post it. Or you can do this **ONLINE** with OCBC (only). The **Bill
+reference no.** is your **FIN number**.
 
 Remember you cannot **Issue Work Permit** on <abbr title="Work Permit
 Online">WPOL</abbr> until the Period of Insurance date is effective
@@ -127,12 +142,26 @@ Online">WPOL</abbr> until the Period of Insurance date is effective
 
 	OLIS2A014D:	eIssuance not allowed as the Insurance / Banker's Guarantee for the Security Bond is not effective yet. If you require clarification, please print this screen and write your name, contact number and fax number on it. You can fax this screen to the Work Pass Division (WPD) at Fax No. 65320795. WPD will contact you shortly.
 
+Typically on the first day of your insurance period you will progress in the Issue Work Permit form with:
+
+1. <http://www.mom.gov.sg/~/media/mom/documents/services-forms/passes/fw_sb_form.pdf> where you will need a witness to sign it (Tip: Printing the form from <abbr title="Work Permit Online">WPOL</abbr>, will have the initial parts already filled in )
+2. **APPLICATION FOR A WORK PERMIT FOR A DOMESTIC WORKER** PDF signed by yourself the new employer, the old employer and your new helper
+	* Make sure you have / <s>have not</s> Part 1(A) point C and Part II(A) point F is striked out correctly!
+3. Details of your helper's current passport
+
+After some torturous forms, you will be asked to pay 30SGD. Once that's done,
+the process sort of ends. If you click continue you will be making payment
+again and you will get a later error warning your about duplicate payments. Anti-climax.
+
+After waiting nervously for 3 days I received an email with the subject "Card
+delivery details" which basically means the Work Permit has been issued! 
+
 # Final notes
 
 The Employment contract between you (the employer) and your <abbr
 title="Foreign Domestic Worker">FDW</abbr> isn't actually a requirement. Sadly,
 there is no template provided by <abbr title="Ministry of Manpower">MOM</abbr>,
-though the [contract provided by the Philipine
+though the [contract provided by the Philippine
 embassy](http://www.philippine-embassy.org.sg/wp-content/uploads/SECD.pdf)
 seems fine ([Backup copy](http://s.natalian.org/2015-08-31/SECD.pdf)).
 
