@@ -8,8 +8,6 @@ Uses a [Makefile](Makefile) like a sane project should !!
 
 # TODO
 
-## 404 page
-
 ## Scraper / index / link friendly
 
 I should try support these ridiculous <a href=http://ogp.me/><abbr title="Open
