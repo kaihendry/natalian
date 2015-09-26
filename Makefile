@@ -40,7 +40,8 @@ watch:
 
 upload: $(OUTPUT)/index.html $(OUTPUT)/style.css
 	@aws --profile hsgpower s3 sync --content-encoding gzip --size-only --storage-class REDUCED_REDUNDANCY --acl public-read $(OUTPUT)/ s3://natalian.org/
-	@curl -I http://natalian.org.s3-website-ap-southeast-1.amazonaws.com/style.css
+	@#curl -I http://natalian.org.s3-website-ap-southeast-1.amazonaws.com/style.css
+	@aws --profile hsgpower cloudfront create-invalidation --distribution-id E306XHF91A6XT0 --invalidation-batch "{ \"Paths\": { \"Quantity\": 1, \"Items\": [ \"/*\" ] }, \"CallerReference\": \"$(shell date +%s)\" }"
 
 clean:
 	@rm -rf $(OUTPUT) index.rss index.atom

@@ -2,10 +2,28 @@ abbr[title], acronym[title] { border-bottom: dotted 1px; }
 pre { white-space: pre-wrap; }
 img { max-width: 80%; }
 body { font-family: sans-serif; }
+h1 { font-family: serif; }
+
+.posturl { font-size: 2em; }
 
 ol.index li {
-  display: flex;
+	display: flex;
+	line-height:1.8;
 }
 time {
-  min-width: 4em;
+	min-width: 4em;
 }
+
+p:first-child { initial-letter: 3 3; }
+p::first-letter { initial-letter: 2; }
+
+article {
+	max-width: 50em;
+	position: relative;
+	margin: 0 auto 0;
+	padding: 0 1.5em 3%;
+	transition: all 250ms;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+footer { display: flex; justify-content: space-around; font-size: 0.8em; }
