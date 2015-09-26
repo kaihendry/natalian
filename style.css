@@ -1,10 +1,10 @@
 abbr[title], acronym[title] { border-bottom: dotted 1px; }
 pre { white-space: pre-wrap; }
 img { max-width: 80%; }
-body { font-family: sans-serif; }
-h1 { font-family: serif; }
+body { font-family: "Seravek", sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: "Athelas", serif; }
 
-.posturl { font-size: 2em; }
+#headline { font-size: 2em; }
 
 ol.index li {
 	display: flex;
