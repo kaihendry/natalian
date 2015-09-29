@@ -14,8 +14,7 @@ time {
 	min-width: 4em;
 }
 
-p:first-child { initial-letter: 3 3; }
-p::first-letter { initial-letter: 2; }
+article > p:first-of-type::first-letter { -webkit-initial-letter: 2; initial-letter: 2; }
 
 article {
 	max-width: 50em;
@@ -26,4 +25,8 @@ article {
 	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
-footer { display: flex; justify-content: space-around; font-size: 0.8em; }
+article > * { max-width: inherit; }
+
+iframe { max-width: 100%; }
+
+footer { width: 50%; align-items: center; display: flex; justify-content: space-around; font-size: 0.8em; border-top: thin solid black; margin-left: auto; margin-right: auto; }
