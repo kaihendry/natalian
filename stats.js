@@ -6,8 +6,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-195686-1', 'auto');
 ga('send', 'pageview');
 
-// Trigger like so
-function trackJavaScriptError(e) {
+function trackError(e) {
 	console.debug(e);
 	var ie = window.event || {};
 	errMsg = e.message || ie.errorMessage || "404 errror on " + window.location;
@@ -15,17 +14,18 @@ function trackJavaScriptError(e) {
 	ga('send', 'event', 'Error', errMsg, errSrc, { 'nonInteraction': 1 });
 }
 
-window.addEventListener('error', trackJavaScriptError, true);
+// Triggering an error in the console:
+// You have to use something like setTimeout(function() { notThere(); }, 0);
+window.addEventListener('error', trackError, true);
 
 greet = function() {
-	var now = new Date();
-	var hours = now.getHours();
-	if (hours >= 18)
-		return "Good Evening!";
-	else if (hours >= 12)
+	var hours = new Date().getHours();
+	if (hours < 12)
+		return "Good Morning!";
+	else if (hours < 18)
 		return "Good Afternoon!";
 	else
-		return "Good Morning!";
+		return "Good Evening!";
 };
 
 
