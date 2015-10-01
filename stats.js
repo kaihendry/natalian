@@ -7,7 +7,7 @@ ga('create', 'UA-195686-1', 'auto');
 ga('send', 'pageview');
 
 function trackError(e) {
-	console.debug(e);
+	// console.debug(e);
 	var ie = window.event || {};
 	errMsg = e.message || ie.errorMessage || "404 errror on " + window.location;
 	var errSrc = (e.filename || ie.errorUrl) + ': ' + (e.lineno || ie.errorLine);
@@ -31,5 +31,7 @@ greet = function() {
 
 document.addEventListener("DOMContentLoaded", function() {
 	var g = document.getElementById("greet");
+	if (g) {
 	g.innerHTML = greet();
+	}
 });
