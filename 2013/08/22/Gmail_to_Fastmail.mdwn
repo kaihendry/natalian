@@ -1,4 +1,4 @@
-<img src="http://natalian.org/archives/2013/08/22/Gmail_to_Fastmail.png" alt="Gmail to Fastmail">
+<img src="http://s.natalian.org/2013-08-22/Gmail_to_Fastmail.png" alt="Gmail to Fastmail">
 
 So I'm attempting to migrate my emails from Gmail to <https://www.fastmail.fm>.
 

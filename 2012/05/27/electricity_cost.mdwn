@@ -33,23 +33,23 @@ It's in PDF which sucks. There is unsurprisingly no API and the delay is very
 long. For example I logged onto <http://www.edfenergy.com/> on 2012-05-27 to
 find the latest bill from 2012-01-12, almost 5 months ago.
 
-<img src="/archives/2012/05/27/electricity_cost/curve.png" alt="direct debit balance curve">
+<img src="http://s.natalian.org/2012-05-27/curve.png" alt="direct debit balance curve">
 
 It might be more convenient to pay a regular sum for budgeting, but again this
 obfuscates what your consumption actually is. I think you need at the very
 **least** a summer versus winter perspective.
 
-<img src="/archives/2012/05/27/electricity_cost/your-energy-usage.png" alt="coarse energy usage">
+<img src="http://s.natalian.org/2012-05-27/your-energy-usage.png" alt="coarse energy usage">
 
 17.5 kW/h per day is the average I assume. This figure is practically useless.
 If we knew day to day our kW/h consumption then we could act upon this
 information.
 
-<img src="/archives/2012/05/27/electricity_cost/your-charges.png" alt="Charge breakdown">
+<img src="http://s.natalian.org/2012-05-27/your-charges.png" alt="Charge breakdown">
 
 I think in our case the cost per kW/h is **9.73 pence** (10.22pence including
 VAT). But just by my experience
-[before](/archives/2008/06/29/daily-electricity-cost), it's probably an
+[before](/2008/06/29/daily-electricity-cost), it's probably an
 incorrect assumption when you factor in the confusing "standing charge". My
 mother understands the "standing charge" is the same as BT's line rental. In
 that case we get charged about 30 pence per day for having electricity running
