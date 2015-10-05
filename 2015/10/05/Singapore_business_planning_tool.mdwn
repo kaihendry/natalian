@@ -1,5 +1,3 @@
-# Singapore business planning tool
-
 Implemented the idea at El cactus Port Dickson on Saturday 3rd of October with
 Stephan February using [JSBIN](http://jsbin.com/votuna/edit?html,js,output).
 
