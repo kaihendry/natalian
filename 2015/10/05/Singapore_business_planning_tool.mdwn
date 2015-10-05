@@ -20,6 +20,7 @@ Slide the range bar below to find out!
 <label>Monthly Volume
 <input name=ivolume min="0" max="5000" type=range step=1>
 <output name=volume></output>
+</label>
 <label>Volume per day
 <output name=dvolume></output>
 </label>
