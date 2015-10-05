@@ -11,24 +11,24 @@ Slide the range bar below to find out!
 
 
 <form onsubmit="return false" oninput="doCalc(this)">
-<label>Rent
+<label>Monthly Rent
 <input name=irent type=number step=1 min=0 placeholder=Rent value=5000>
 </label>
-<label>Cost of widget
+<label>Cost of item
 <input name=icost min=0 type=number step=0.01 placeholder=Cost value=3.00>
 </label>
-<label>Volume
-<input name=ivolume min="0" max="5000" type=range step=1 placeholder=Volume>
-<output name=volume for=""></output>
+<label>Monthly Volume
+<input name=ivolume min="0" max="5000" type=range step=1>
+<output name=volume></output>
 <label>Volume per day
-<output name=dvolume for=""></output>
+<output name=dvolume></output>
 </label>
 </label>
-<label>Price
+<label>Price of item
 <input min=0 name=iprice type=number step=0.01 placeholder=Price value=5>
 </label>
-<label>PROFIT
-<output name=o for=""></output>
+<label style="font-size: large">PROFIT
+<output name=o></output>
 </label>
 </form>
 
