@@ -1,0 +1,45 @@
+# Singapore business planning tool
+
+Implemented the idea at El cactus Port Dickson on Saturday 3rd of October with
+Stephan February using [JSBIN](http://jsbin.com/votuna/edit?html,js,output).
+
+## Use case
+
+Renting a stall in Singapore for 5000SGD a month. A Chicken Rice cost price
+is 3SGD. You are selling the Chicken rice for 5SGD. How many do you have to
+sell before you make rent?
+
+Slide the range bar below to find out!
+
+
+<form onsubmit="return false" oninput="doCalc(this)">
+<label>Rent
+<input name=irent type=number step=1 min=0 placeholder=Rent value=5000>
+</label>
+<label>Cost of widget
+<input name=icost min=0 type=number step=0.01 placeholder=Cost value=3.00>
+</label>
+<label>Volume
+<input name=ivolume min="0" max="5000" type=range step=1 placeholder=Volume>
+<output name=volume for=""></output>
+<label>Volume per day
+<output name=dvolume for=""></output>
+</label>
+</label>
+<label>Price
+<input min=0 name=iprice type=number step=0.01 placeholder=Price value=5>
+</label>
+<label>PROFIT
+<output name=o for=""></output>
+</label>
+</form>
+
+<style>label { display: block; }</style>
+
+<script>
+function doCalc(el) {
+el.o.value = el.iprice.valueAsNumber * el.ivolume.valueAsNumber - (el.irent.valueAsNumber + el.icost.valueAsNumber * el.ivolume.valueAsNumber);
+el.volume.value = el.ivolume.valueAsNumber;
+el.dvolume.value = (el.ivolume.valueAsNumber / 30).toFixed(0);
+}
+</script>
