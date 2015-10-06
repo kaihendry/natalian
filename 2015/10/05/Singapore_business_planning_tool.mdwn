@@ -24,7 +24,6 @@ Slide the range bar below to find out!
 <label>Volume per day
 <output name=dvolume></output>
 </label>
-</label>
 <label>Price of item
 <input min=0 name=iprice type=number step=0.01 placeholder=Price value=5>
 </label>

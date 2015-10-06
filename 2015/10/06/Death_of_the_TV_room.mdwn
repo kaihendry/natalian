@@ -1,0 +1,53 @@
+# Can't simply power on your TV room
+
+Look how much effort it [requires just to make everything turn on one fell swoop!!](https://samgentle.com/posts/2015-10-02-mixing-signals)
+
+# Can't auto select input
+
+Plug in your console and turn it on. Now spend the next 5 minutes hunting for
+the right source. That's if HDMI negotiation worked, which it probably didn't.
+
+HDMI is a broken consumer technology. Their designers seem to divide their time
+making it non-hot pluggable and adding anti features like content protection.
+
+# Too much waiting
+
+Even if you manage to turn it on, waiting for a "SMART" TV to boot can take minutes!!
+
+# Way way too complicated interaction
+
+The Android TV has a crazy menu. I have not figured out how to Chrome cast to
+it.
+
+Never mind the startup wizard asking you to agree to pages and pages of T&Cs and
+asking sign in to Google.
+
+# Shout at your TV
+
+Both Google & Apple seem to now want you to talk to your TV. Putting the
+**serious privacy implications** aside ... it is an absolutely ridiculous UX
+trying to do a Youtube search by voice. Whoever came up with this probably need
+some time getting the shit kicked out of them.
+
+# Can't do simple things
+
+Use case: Playback an MP4 from a Web URL.
+
+Apple TV has no way to do this.
+
+On an Android TV, bizarrely I have to use the Opera browser to load a URL and
+then be default enjoy a small window playback.
+
+<img src=http://s.natalian.org/2015-10-06/opera-mp4.jpg alt="MP4 playback on Opera browser">
+
+There is a tiny little mouse driven UI to make it full screen that escaped me
+initially.  Good luck seeking around or coming back to a part where you left
+of.
+
+# Don't buy a SMART TV!
+
+Looking around my local electronics store, there is no large "DUMB" TV screens
+on offer! I can only assume all the big manufacturers are positioning
+themselves to control the platform. What a disaster zone.
+
+Goodbye TV room. I'm thinking [big monitor](http://blog.codinghorror.com/our-brave-new-world-of-4k-displays/) or [syncing small screens](https://twitter.com/kaihendry/status/648863577688772611).
