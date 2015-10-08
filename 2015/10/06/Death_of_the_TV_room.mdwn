@@ -16,11 +16,20 @@ Even if you manage to turn it on, waiting for a "SMART" TV to boot can take minu
 
 # Way way too complicated interaction
 
-The Android TV has a crazy menu. I have not figured out how to Chrome cast to
-it.
+The Android TV has a crazy menu. <s>I have not figured out how to Chrome cast to
+it.</s> Update: Use the Youtube app from an iPhone to cast to it, but it's slow. :/
 
-Never mind the startup wizard asking you to agree to pages and pages of T&Cs and
-asking sign in to Google.
+Never mind the startup wizard asking you to agree to pages and pages of T&Cs
+and asking sign in to Google.
+
+# Profiling
+
+So if you do not sign in, Youtube seems unable to remember last searches or
+display a history of last played videos.
+
+This obviously harms to usability of the SMART TV until you sign in. I really
+don't understand how this is supposed to work in a family setting with anyone's
+Youtube account signed in.
 
 # Shout at your TV
 
@@ -44,10 +53,20 @@ There is a tiny little mouse driven UI to make it full screen that escaped me
 initially.  Good luck seeking around or coming back to a part where you left
 of.
 
+# Google casting
+
+Upon the Sony KDL-55W800C it seems to drop frames like crazy casting from a
+mobile or laptop device. Resulting in near unwatchable sluggish slow playback
+especially from Youtube. The ugly workaround is to painstakingly use the
+awkward to input Youtube app which plays back videos smoothly.
+
+I do not understand how Google cast is failing since IIUC it just provides a
+Chrome browser a URL to start rendering.
+
 # Don't buy a SMART TV!
 
 Looking around my local electronics store, there is no large "DUMB" TV screens
 on offer! I can only assume all the big manufacturers are positioning
 themselves to control the platform. What a disaster zone.
 
-Goodbye TV room. I'm thinking [big monitor](http://blog.codinghorror.com/our-brave-new-world-of-4k-displays/) or [syncing small screens](https://twitter.com/kaihendry/status/648863577688772611).
+Goodbye TV room. I'm thinking [big monitor](http://blog.codinghorror.com/our-brave-new-world-of-4k-displays/) or [syncing small screens](https://twitter.com/kaihendry/status/648863577688772611) instead.

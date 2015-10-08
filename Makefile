@@ -1,4 +1,4 @@
-INFILES = $(shell shopt -s globstar; for i in **/*.mdwn; do echo $$i; done)
+INFILES = $(shell find . -name '*.mdwn' -type f)
 OUTPUT = /srv/www/natalian
 OUTFILES = $(INFILES:.mdwn=/index.html)
 GZ = gzip --best
@@ -35,7 +35,7 @@ $(OUTPUT)/index.rss:
 	feeds
 	@$(GZ) -c index.rss > $@
 
-$(OUTPUT)/index.html: all
+$(OUTPUT)/index.html: $(LIST)
 	@index | $(GZ) > $@
 
 $(OUTPUT)/style.css: style.css

@@ -1,6 +1,4 @@
 abbr[title], acronym[title] { border-bottom: dotted 1px; }
-pre { white-space: pre-wrap; }
-img { max-width: 80%; }
 body { font-family: "Seravek", sans-serif; }
 h1, h2, h3, h4, h5, h6 { font-family: "Athelas", serif; }
 
@@ -25,8 +23,6 @@ article {
 	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
-article > * { max-width: inherit; overflow: auto; -webkit-overflow-scrolling: touch; }
-
-iframe { max-width: 100%; }
+article * { max-width: 100%; overflow: auto; -webkit-overflow-scrolling: touch; }
 
 footer { width: 50%; align-items: center; display: flex; justify-content: space-around; font-size: 0.8em; border-top: thin solid black; margin-left: auto; margin-right: auto; }

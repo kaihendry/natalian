@@ -1,0 +1,47 @@
+"Linux on the Desktop" has become a messed up cliché so let me define it as Linux on the workstation.
+
+It's a workstation, so it's not pandering to some whizz bang graphical Desktop.
+
+<img src=http://dwm.suckless.org/screenshots/dwm-20100318s.png alt="dwm linux desktop">
+
+I've observed over the last few years it's becoming increasingly difficult to run Linux upon laptops.
+
+Why? Linux has great hardware compatibility except when it comes to **touch
+inputs**.
+
+## No input means no computer
+
+I personally cannot use [my laptops trackpad](/2015/02/18/Archlinux_on_a_Lenovo_X1C3/). It's unusable.
+
+Dirty secret is the [TouchPad
+Synaptics](https://wiki.archlinux.org/index.php/Touchpad_Synaptics) driver is a
+**train wreck UX** compared to Apple or Microsoft drivers. Closed source touch
+screen drivers like EETI eGalax drivers also pale in comparison to an iPad
+experience.
+
+Lets face it, the modern interpretation of the touch pad with **5-point
+multitouch** is innovative yet very complex. Apple/Microsoft employ teams of
+people making sure it's perfect. Linux distros don't have these resources.
+
+Especially assuming that the relationship between the hardware and driver needs
+to be extremely tight to get the best experience.
+
+"Innovative" input hardware manufacturers are just not interested in targeting
+Linux users.
+
+## Workaround
+
+<img src=http://s.natalian.org/2015-10-07/thinkpad-nipple.jpg alt="Thinkpad trackpoint">
+
+The workaround I use for have no usable trackpad is the "Thinkpad trackpoint"
+which I admit is antiquated compared to my wife's use of her Macbook's large
+and functional trackpad.
+
+Either that or an external USB mouse. 😢
+
+## Looking into the future
+
+I don't see anyone going to solve this problem on Linux anytime soon. However,
+I should study the Google Chrome books to see exactly what they do.
+
+Update: I've been told to check out <http://freedesktop.org/wiki/Software/libinput/>. Maybe it's not all doom and gloom! 😂
