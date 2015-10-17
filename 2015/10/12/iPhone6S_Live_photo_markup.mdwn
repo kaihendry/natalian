@@ -1,0 +1,4 @@
+<video src=http://s.natalian.org/2015-10-12/IMG_9020.mp4 poster=http://s.natalian.org.s3.amazonaws.com/2015-10-12/IMG_9020.JPG>
+
+
+I incidentally made a [video describing how to playback the video upon IOS9 photos](https://www.youtube.com/watch?v=bTzS0-YtAuU)

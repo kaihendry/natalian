@@ -29,9 +29,7 @@ greet = function() {
 };
 
 
-document.addEventListener("DOMContentLoaded", function() {
-	var g = document.getElementById("greet");
-	if (g) {
+var g = document.getElementById("greet");
+if (g) {
 	g.innerHTML = greet();
-	}
-});
+}
