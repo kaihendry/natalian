@@ -1,3 +1,5 @@
+[[!meta description="Current Linux distributions on PC hardware offer awful Trackpad experiences compared to Apple/Microsoft"]]
+
 "Linux on the Desktop" has become a messed up cliché so let me define it as Linux on the workstation.
 
 It's a workstation, so it's not pandering to some whizz bang graphical Desktop.

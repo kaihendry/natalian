@@ -1,4 +1,24 @@
-<video src=http://s.natalian.org/2015-10-12/IMG_9020.mp4 poster=http://s.natalian.org.s3.amazonaws.com/2015-10-12/IMG_9020.JPG>
+<video id=lv controls src==http://s.natalian.org/2015-10-12/IMG_9020.mp4 poster=http://s.natalian.org.s3.amazonaws.com/2015-10-12/IMG_9020.JPG></video>
 
+I incidentally made a [video describing how to playback the video upon IOS9 photos](https://www.youtube.com/watch?v=bTzS0-YtAuU).
 
-I incidentally made a [video describing how to playback the video upon IOS9 photos](https://www.youtube.com/watch?v=bTzS0-YtAuU)
+<script>
+// http://stackoverflow.com/a/20954695/4534
+var v = document.getElementById('lv');
+v.addEventListener(
+		'play',
+		function() {
+		v.play();
+		},
+		false);
+
+v.onclick = function() {
+	if (v.paused) {
+		v.play();
+	} else {
+		v.pause();
+	}
+
+	return false;
+};
+</script>

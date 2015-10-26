@@ -1,3 +1,5 @@
+[[!meta description="Governments are nosy, but how nosy are they in Singapore?"]]
+
 I've always wondered if government tax departments like
 [HMRC](https://en.wikipedia.org/wiki/HM_Revenue_and_Customs) or the
 [IRS](https://en.wikipedia.org/wiki/Internal_Revenue_Service) could pry into my

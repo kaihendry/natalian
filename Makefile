@@ -24,7 +24,7 @@ $(OUTPUT)/%/index.html: %.mdwn
 	@mv $@.gz $@
 	@echo $< '→' $@
 
-$(OUTPUT)/index.atom:
+$(OUTPUT)/index.atom: $(LIST)
 	feeds
 	@$(GZ) -c index.atom > $@
 
@@ -35,7 +35,7 @@ $(OUTPUT)/index.rss:
 	feeds
 	@$(GZ) -c index.rss > $@
 
-$(OUTPUT)/index.html: $(LIST)
+$(OUTPUT)/index.html: $(LIST) godeps
 	@index | $(GZ) > $@
 
 $(OUTPUT)/style.css: style.css
@@ -43,9 +43,9 @@ $(OUTPUT)/style.css: style.css
 	@$(GZ) --best -c style.css > $(OUTPUT)/style.css
 
 upload: $(OUTPUT)/index.html $(OUTPUT)/style.css
-	@aws --profile hsgpower s3 website s3://natalian.org/ --index-document index.html --error-document 404.html
-	@aws --profile hsgpower s3 sync --content-encoding gzip --size-only --exclude .htaccess --cache-control="max-age=86400" --storage-class REDUCED_REDUNDANCY --acl public-read $(OUTPUT)/ s3://natalian.org/
-	@aws --profile hsgpower cloudfront create-invalidation --distribution-id E306XHF91A6XT0 --invalidation-batch "{ \"Paths\": { \"Quantity\": 1, \"Items\": [ \"/*\" ] }, \"CallerReference\": \"$(shell date +%s)\" }"
+	@aws s3 website s3://natalian/ --index-document index.html --error-document 404.html
+	@aws s3 sync --content-encoding gzip --size-only --exclude .htaccess --cache-control="max-age=86400" --storage-class REDUCED_REDUNDANCY --acl public-read $(OUTPUT)/ s3://natalian/
+	@aws cloudfront create-invalidation --distribution-id E2AXSD6P2TRMEA --invalidation-batch "{ \"Paths\": { \"Quantity\": 1, \"Items\": [ \"/*\" ] }, \"CallerReference\": \"$(shell date +%s)\" }"
 
 clean:
 	@rm -rf $(OUTPUT) index.rss index.atom

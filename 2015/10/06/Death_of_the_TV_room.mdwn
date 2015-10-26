@@ -1,3 +1,5 @@
+[[!meta description="The TV room has become too much of a technical burden"]]
+
 # Can't simply power on your TV room
 
 Look how much effort it [requires just to make everything turn on one fell swoop!!](https://samgentle.com/posts/2015-10-02-mixing-signals)
@@ -23,6 +25,8 @@ Never mind the startup wizard asking you to agree to pages and pages of T&Cs
 and asking sign in to Google.
 
 # Profiling
+
+<img src=http://s.natalian.org/2015-10-25/signintogoogle.webp alt="You might be identified to continue">
 
 So if you do not sign in, Youtube seems unable to remember last searches or
 display a history of last played videos.
