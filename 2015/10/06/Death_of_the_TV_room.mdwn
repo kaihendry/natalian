@@ -59,7 +59,7 @@ of.
 
 # Google casting
 
-Upon the Sony KDL-55W800C it seems to drop frames like crazy casting from a
+Upon the Sony KDL-55W800C (Software version: PKG2.601.0052PAA) it seems to drop frames like crazy casting from a
 mobile or laptop device. Resulting in near unwatchable sluggish slow playback
 especially from Youtube. The ugly workaround is to painstakingly use the
 awkward to input Youtube app which plays back videos smoothly.
