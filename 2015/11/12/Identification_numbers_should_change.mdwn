@@ -1,0 +1,30 @@
+<blockquote cite="https://en.wikipedia.org/wiki/Britannic_Majesty">Her Britannic Majesty's Secretary of State Requests and requires in the Name of
+Her Majesty all those whom it may concern to allow the bearer to pass freely
+without let or hindrance, and to afford the bearer such assistance and
+protection as may be necessary.
+</blockquote>
+
+<img src="http://s.natalian.org/2015-11-12/ukpassport.jpg" alt="UK passport cover">
+
+Seven odd years ago I lamented the [UK identity system after becoming a victim
+of fraud](/2007/11/06/security-through-obscurity/).
+
+After some experience with other identity schemes, I've actually started to
+think the UK system is the best.
+
+Why? Because your identity number **CHANGES** when your passport is renewed.
+
+"Key rotation" is a good thing. It allows you to start fresh and actually shrug
+off any compromise.
+
+Compare that with almost every other identity scheme in the world where you are
+stuck with a number you cannot change. A static identity hanging around your
+neck like a noose.
+
+However there is a con of an identity number changing is some countries. For
+example in Malaysia **EVERYTHING** hinges on an **IC number**. For foreigners
+in Malaysia this is your passport number. If your passport number changes, the
+whole system comes crumbling down. Your credit score is reset. You almost
+should apply for a new contract for everything.
+
+And despite this, it's still worth it. Well done Britain.

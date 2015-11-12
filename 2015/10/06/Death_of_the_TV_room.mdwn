@@ -42,6 +42,10 @@ Both Google & Apple seem to now want you to talk to your TV. Putting the
 trying to do a Youtube search by voice. Whoever came up with this probably need
 some time getting the shit kicked out of them.
 
+To make the whole experience even more terrible, the Sony Bravia doesn't seem
+to actually come with a microphone. No amount of shouting will prompt a voice
+interaction.
+
 # Can't do simple things
 
 Use case: Playback an MP4 from a Web URL.
@@ -49,7 +53,7 @@ Use case: Playback an MP4 from a Web URL.
 Apple TV has no way to do this.
 
 On an Android TV, bizarrely I have to use the Opera browser to load a URL and
-then be default enjoy a small window playback.
+then be default enjoy a small window playback (until manually resized).
 
 <img src=http://s.natalian.org/2015-10-06/opera-mp4.jpg alt="MP4 playback on Opera browser">
 
@@ -59,13 +63,30 @@ of.
 
 # Google casting
 
-Upon the Sony KDL-55W800C (Software version: PKG2.601.0052PAA) it seems to drop frames like crazy casting from a
-mobile or laptop device. Resulting in near unwatchable sluggish slow playback
-especially from Youtube. The ugly workaround is to painstakingly use the
-awkward to input Youtube app which plays back videos smoothly.
+Update: "No Cast devices found" Chromecast has completely disappeared. SOLUTION: [USE NETWORK TIME](https://sony-paa-pa-en-web--paa.custhelp.com/app/answers/detail/a_id/113870/session/L3RpbWUvMTQ0NjA5ODAzNS9zaWQvbVhRdFI3QW0%3D)
 
-I do not understand how Google cast is failing since IIUC it just provides a
-Chrome browser a URL to start rendering.
+Sometimes on the Sony KDL-55W800C (Software version: PKG2.601.0052PAA) it
+seems to drop frames like crazy casting from a mobile or laptop device.
+Resulting in near unwatchable sluggish slow playback especially from Youtube.
+The ugly workaround is to painstakingly use the awkward native Youtube app to
+play back videos smoothly.
+
+# Region locked and Play store catalogue curated
+
+I've discovered that our particular Sony KDL-55W800C is for the Asia Pacific
+market. As a result, Apps like Netflix cannot be downloaded or installed. In
+fact a lot of Apps like VPN Apps are just simply not available.
+
+I tried to download the North America image with the intention to reflash the
+device via USB. Unfortunately it disallows me to do this with a ["System
+software cannot be updated using the USB
+device."](http://s.natalian.org/2015-10-27/system-software-update.webp) message.
+Sickening.
+
+Oddly Chromecasting Netflix from a device I've VPNed to the US, results in a
+[Please update the Netflix application on your mobile
+device](http://s.natalian.org/2015-11-02/netflix.webp) message. Sony obviously
+have made it as difficult as possible to playback "region locked" content.
 
 # Don't buy a SMART TV!
 

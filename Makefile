@@ -42,6 +42,7 @@ $(OUTPUT)/style.css: style.css
 	@echo "AddEncoding $(GZ) .html .css .js .rss .atom" > $(OUTPUT)/.htaccess
 	@$(GZ) --best -c style.css > $(OUTPUT)/style.css
 
+# http://natalian.s3-website-ap-southeast-1.amazonaws.com/
 upload: $(OUTPUT)/index.html $(OUTPUT)/style.css
 	@aws s3 website s3://natalian/ --index-document index.html --error-document 404.html
 	@aws s3 sync --content-encoding gzip --size-only --exclude .htaccess --cache-control="max-age=86400" --storage-class REDUCED_REDUNDANCY --acl public-read $(OUTPUT)/ s3://natalian/

@@ -90,16 +90,12 @@ and not **/dev/sda1**.
 
 ## X1C3 mouse buttons not working
 
-	# echo "options psmouse proto=imps" > /etc/modprobe.d/psmouse.conf
+Both the Trackpoint & **TrackPad** now work with `xf86-input-libinput` and kernel 4.3!
 
-WARNING: Will disable `synclient`! `Couldn't find synaptics properties. No synaptics driver loaded?`
+* N: Name="SynPS/2 Synaptics TouchPad"
+* N: Name="TPPS/2 IBM TrackPoint"
 
-Thanks to: <https://bbs.archlinux.org/viewtopic.php?id=192875>
-
-I've also [disabled the
-trackpad](https://www.flickr.com/photos/hendry/15938481073/in/photostream/)
-since it was resulting in odd selections. I wonder if I can configure it **just
-to scroll** ?
+Make sure you purge any old stuff in `/etc/modprobe.d/psmouse.conf`!
 
 ## Annoying network interface names
 
