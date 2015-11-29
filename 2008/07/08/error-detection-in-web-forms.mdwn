@@ -1,6 +1,7 @@
 [[!meta title="Error detection in Web forms" ]]
 [[!meta date="2008-07-08 20:40:05" ]]
 [[!tag forms Mobile web accessibility General]]
+
 <p>Can you quickly spot the typo between a form field value &#8221;+2731284325&#8221; and &#8221;+2731294325&#8221;?</p>
 
 <a href="http://www.flickr.com/photos/hendry/2650817954/" title="nocue by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3166/2650817954_10d2c3e579_o.png" width="708" height="134" alt="nocue" /></a>
@@ -9,19 +10,20 @@
 
 <a href="http://www.flickr.com/photos/hendry/2650817958/" title="withcue by Kai Hendry, on Flickr"><img src="http://farm4.static.flickr.com/3149/2650817958_56f27d10fd_o.png" width="708" height="140" alt="withcue" /></a>
 
-<p>16 Colours provide instant visual feedback that there is a difference between the two form fields. That&#8217;s a <a href="http://q.dabase.com">4 bit Web form error detection using md5</a>.</p>
+Colours provide instant visual feedback that there is a difference between the two form fields.
 
-<p>When you enter the same data again and again in form fields like your:<br />
-* username<br />
-* email<br />
-* birth date<br />
-* credit card number</p>
+When you enter the same data again and again in form fields like your:
+
+* username
+* email
+* birth date
+* credit card number
 
 <p>Each one of these &#8220;datums&#8221; could be associated with a cue. So you would subconsciously over time recognise you entered your details correctly.</p>
 
 <p>This cue idea is useful for accessibility. People who are prone to making typos could use a cue (an additional band/channel) to quickly find mistakes.</p>
 
-<p>I initially thought of form error detection, checksums &amp; cues when I accidentally mistyped a number from a business card <strong>three times</strong> into my mobile. If that business card had a &#8220;checksum&#8221;, with the number (for e.g.) underlined with the according <a href="http://pajhome.org.uk/crypt/md5/">md5</a> colour <em>chances are</em> I would have entered that number in correctly first time into my addressbook. Saved the cost of the misdirected texts and saved an awful lot of time.</p>
+<p>I initially thought of form error detection, checksums &amp; cues when I accidentally mistyped a number from a business card <strong>three times</strong> into my mobile. If that business card had a &#8220;checksum&#8221;, with the number (for e.g.) mapped to a colour **hash** <em>chances are</em> I would have entered that number in correctly first time into my addressbook. Saved the cost of the misdirected texts and saved an awful lot of time.</p>
 
 <p>So a cue is especially applicable in mobile environs. Anywhere I imagine were copy&amp;paste is not easy to do.</p>
 
@@ -30,5 +32,3 @@
 <p>So I encourage you to please try my initial implementation called <a href="http://q.dabase.com/">&#8220;Get a cue&#8221;</a> with Web form input elements. For the developers amongst you, please look at the <a href="http://git.webconverger.org/?p=cue.git"><span class="caps">BSD</span> licensed code</a>. <a href="http://hendry.iki.fi/">Feedback and patches are very welcome.</a></p>
 
 <p>Hopefully a defacto &#8216;cue&#8217; <a href="http://en.wikipedia.org/wiki/Category:Error_detection_and_correction">error detection algorithm</a> rises to the top that will help everyone improve their input quality.</p>
-
-<h4><a href="javascript:var%20s=document.createElement('script');s.setAttribute('src','http://q.dabase.com/getacue.js');document.getElementsByTagName('body')[0].appendChild(s);void(s);">get a cue</a></h4>

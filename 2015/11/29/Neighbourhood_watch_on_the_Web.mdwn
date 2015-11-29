@@ -1,0 +1,74 @@
+Since my mother-in-law was robbed a few months back and since I've observed
+security in our neighbourhood to be lacklustre, I have been thinking of a
+simple alarm system.
+
+In my mind this incident could have been mitigated if there was a **quick** and
+easy way to notify the local guard house. Currently finding the number, calling
+it and telling who you are is far too time consuming and difficult. Ideally as
+simple as a single button press & a responder will be at your house within 2
+minutes.
+
+First I took [pen to paper to flesh out the problem](https://www.youtube.com/watch?v=kdw0xnZYQdI).
+
+Then I created a "mock up" of how I imagine the pivotal "management page" to look like:
+
+<a class="jsbin-embed" href="https://jsbin.com/teyowi/embed?output">First responders on jsbin.com</a><script src="https://static.jsbin.com/js/embed.min.js?3.35.4"></script>
+
+# Implementation challenges
+
+## Sessions
+
+The hardest problem in my mind is determining **who is on duty** to send the
+notification too.  Since that pretty much requires some sort of [time and
+attendance](https://en.wikipedia.org/wiki/Time_and_attendance) system. I'm
+going to assume that security personal aka "responders" have access to a mobile
+browser. So the problem boils down to **session management** on the back end.
+Tbh I've _never_ found this trivial. Options included:
+
+* golang [gorilla sessions](http://www.gorillatoolkit.org/pkg/sessions) looks a bit too weak but hopefully workable
+* [php sessions](http://php.net/manual/en/function.session-set-save-handler.php) - probably the most mature
+* nodejs & .. express? the Redis examples make me want to throw up
+* django ... just too heavyweight and Python!
+* rails ... urgh ... again just way too heavyweight
+
+## Notifications themselves
+
+I am assuming there is a reliable, **fast** and inexpensive SMS gateway in
+Malaysia. Tbh I have doubts! So complementary ways need to be implemented.
+
+* Eventsource on the Web page to update with events
+* Raspberry PI in the guard house to trigger an audible alarm?
+* Chrome notifications?
+* <https://pushover.net/>
+
+## Text log
+
+I think it's important to have a "chat like" log of every incident. And that
+sort of requires an interactive 2 way chat system between the home owner & the
+responders. Web sockets? Urgh! Complexity. Non-trivial.
+
+## Human factors
+
+Registering and signing up every house to the system will be a great challenge.
+I personally would like to avoid passwords. So each home owner would need to go
+through a procedure like:
+
+1. Home owner registers upon http://uptown.watch.my/ filling in **name, address, telephone number**, submit form to be redirected to a special page
+2. (optional?) Management calls number to confirm registration
+3. Home owner saves special page to homescreen (simplest way on IOS/Android)
+
+So the alarm is **raised with a GET request** (can't POST from homescreen can
+you?). People could accidentally click the home screen icon and trigger an
+incident. On the page that is loaded, there will be a textarea and button to
+indicate an incident has been resolved.
+
+In future I would like to see management sell wireless connected buttons
+capable of performing a GET request with the correct parameters. Unlocking a
+phone to click a home screen icon will be too hard for the old & very young.
+
+There needs to buy in. Management needs to drive this initiative. Train the
+security staff. **Run drills**!! And most importantly in my mind... ensure the
+response times are consistently low.
+
+I'm confident I can write a working prototype, in which I will be always
+ensuring the system as **simple as possible**.
