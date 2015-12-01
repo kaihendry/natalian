@@ -1,7 +1,5 @@
 # Kai's own suckless blog
 
-Keeping it simple: <http://natalian.org.s3-website-ap-southeast-1.amazonaws.com/>
-
 Uses a [Makefile](Makefile) like a sane project should !!
 
 * <https://ikiwiki.info/ikiwiki/directive/meta/> which my source mdwn uses, uses `[[!meta field="value"]]`

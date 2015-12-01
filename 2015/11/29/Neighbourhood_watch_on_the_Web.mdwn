@@ -4,13 +4,13 @@ simple alarm system.
 
 In my mind this incident could have been mitigated if there was a **quick** and
 easy way to notify the local guard house. Currently finding the number, calling
-it and telling who you are is far too time consuming and difficult. Ideally as
-simple as a single button press & a responder will be at your house within 2
-minutes.
+it and telling who you are is far too time consuming and difficult. My goal is
+to have a system as **simple** as a button press to call a guard to your house
+within **2 minutes**.
 
 First I took [pen to paper to flesh out the problem](https://www.youtube.com/watch?v=kdw0xnZYQdI).
 
-Then I created a "mock up" of how I imagine the pivotal "management page" to look like:
+Then I created a "mock up" of how I imagine the "management page" to look like:
 
 <a class="jsbin-embed" href="https://jsbin.com/teyowi/embed?output">First responders on jsbin.com</a><script src="https://static.jsbin.com/js/embed.min.js?3.35.4"></script>
 
@@ -34,18 +34,20 @@ Tbh I've _never_ found this trivial. Options included:
 ## Notifications themselves
 
 I am assuming there is a reliable, **fast** and inexpensive SMS gateway in
-Malaysia. Tbh I have doubts! So complementary ways need to be implemented.
+Malaysia. Need to evaluate [Twilio](https://www.twilio.com/),
+[Clickatell](https://www.clickatell.com/) & [Nexmo](https://www.nexmo.com/).
+Tbh I have doubts! So complementary ways need to be implemented.
 
-* Eventsource on the Web page to update with events
+* Eventsource on the Web page to update with events or [browser notifications](https://developers.google.com/web/updates/2015/03/push-notifications-on-the-open-web?hl=en)
 * Raspberry PI in the guard house to trigger an audible alarm?
-* Chrome notifications?
 * <https://pushover.net/>
 
 ## Text log
 
 I think it's important to have a "chat like" log of every incident. And that
 sort of requires an interactive 2 way chat system between the home owner & the
-responders. Web sockets? Urgh! Complexity. Non-trivial.
+responders. Web sockets? Urgh! Complexity. Non-trivial. I heard a lot of
+communities have an **"SOS WhatsApp"** group for this very use case.
 
 ## Human factors
 
@@ -68,7 +70,8 @@ phone to click a home screen icon will be too hard for the old & very young.
 
 There needs to buy in. Management needs to drive this initiative. Train the
 security staff. **Run drills**!! And most importantly in my mind... ensure the
-response times are consistently low.
+**response times are consistently low**.
 
 I'm confident I can write a working prototype, in which I will be always
-ensuring the system as **simple as possible**.
+ensuring the system as **simple as possible**. Please let me know about
+existing solutions out there and if there was anything I overlooked.
