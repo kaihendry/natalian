@@ -1,0 +1,48 @@
+[[!meta title="What is good security?" ]]
+[[!meta description="True stories of malaligned security from Malaysia"]]
+
+Consider these two scenarios:
+
+# Scenario 1 - the office
+
+A worker enters his 30 storey office building in a hurry to join a client
+meeting. His key card fails to open the barriers and since the lobby is busy
+registering visitors, he quickly decides to step over the barriers.
+
+A security guard on the far side observes him jumping the barrier and initiates
+security protocols that sets off an alarm, locks the lifts and locks all the
+doors in the lobby. The worker is accosted by security and seconds later the
+alarm is lifted.
+
+Is this good security?
+
+What if I told you, that the man was "the boss" and effectively paying for an
+entire floor's worth of rent in a building with own 50% occupancy?
+
+In my opinion good security would have been for the security guard to greet the
+boss. If the boss had any trouble with his authentication token, the guard
+would quickly help him overcome the check. And if the boss decided to jump over
+the barrier? Perhaps a polite compliment about the agility of the boss?
+
+Good security is about relationships!
+
+# Scenario 2 - the home
+
+A house has been secured with security gate, screen door, door lock and alarm.
+It takes someone who is familiar with the system at least 3 minutes to open or
+close the 4 layers of protection.
+
+However in practice the process is much slower because two hands and several
+keys are required. The gate needs an electronic button. The screen door requires
+you lift the handle as you are unlocking it. The door lock requires a double
+twist. The alarm requires a keycode.
+
+In practice at least one of these layers are left "unlocked" for convenience.
+In practice if there was an intruder it would take too long to lock any one of
+these layers.
+
+This in my opinion, this is poor security. I prefer doors that lock as you
+close them. I prefer one door. I prefer cameras to log events. I prefer panic
+buttons to raise alerts.
+
+Good security is about convenience!

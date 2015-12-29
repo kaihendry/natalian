@@ -1,0 +1,83 @@
+[[!meta description="Whilst internal network speeds in Singapore are great, outside to Europe are a fraction of the speed"]]
+
+In order to better grasp Internet speed issues, I've penned [iperf3charts](https://github.com/kaihendry/iperf3chart).
+
+Lets run through some real examples. The target `sg.dabase.com` (temporarily
+running `iperf3 -s` for me, not you) is running on [Digital Ocean
+Singapore](https://www.digitalocean.com/?refcode=37b3b1850b32) and this shows
+you I am maxing out my 2Gbps Gigabit [ViewQwest](http://www.viewqwest.com/)
+connection. Max since I can only do 1Gbps (~100 MB/sec) at one time from my
+wired laptop network port!
+
+<img src=http://s.natalian.org/2015-12-28/sg.dabase.com_2015-12-28_enp0s25.svg alt="viewqwest to Digital Ocean Singapore">
+
+Now on [AC wireless](https://en.wikipedia.org/wiki/IEEE_802.11ac) between my
+X1C3 & my TPLINK Archer C7 v2, the best throughput I can get when I am very
+close to the AP is ~26MB/sec. So a quarter of my 1Gbps port when wireless. Here
+I am testing in my LAN:
+
+<img src=http://s.natalian.org/2015-12-28/nuc.local_2015-12-28_wlp4s0.svg alt="Intel Corporation Wireless 7265 to Archer C7 V2">
+
+Here is the same wireless test targeting my local Digital Ocean droplet:
+
+<img src=http://s.natalian.org/2015-12-28/sg.dabase.com_2015-12-27_wlp4s0.svg alt="Wireless to local droplet does not drop speed">
+
+Roughly the same, so we can conclude connecting to a Singapore droplet is as
+fast my Singapore LAN! That's rather good!
+
+# Going abroad
+
+But what about **outside Singapore**??
+
+So my 2Gbps connection to say the Netherlands in an ideal world would be
+100MB/sec (1Gbps). But it's travelling up through Asia, across the US and one
+can expect to be curtailed here and there. It's a testament to your ISP if your
+outbound connections are high quality as this is what usually costs a lot of
+money, time & effort to arrange. Sadly, the max I seem to eek from ViewQwest in
+Singapore out of my Dutch droplet is ~2MB/sec. 1% of my advertised 2Gbps
+connection speed.
+
+<img src=http://s.natalian.org/2015-12-28/nl.webconverger.com_2015-12-28_wlp4s0.svg alt="Singapore to Europe Internet speeds in in 2015">
+
+Incidentally from my Singapore droplet, I tested the speed to my Dutch droplet:
+
+<img src=http://s.natalian.org/2015-12-28/nl.webconverger.com_2015-12-28_eth0.svg alt="Singapore to Netherlands droplet">
+
+Roughly 8MB/sec connection. Not great, but 4x better than my consumer connection.
+
+If you are curious to know what kind of Internet connection speed Digital Ocean
+has in Singapore, you can actually find out by looking at the size of their
+ports at your local exchange. For example, at the Singapore Internet Exchange,
+Digital Ocean has a 10G (1000MB/sec) port:
+
+<img src=http://s.natalian.org/2015-12-28/1451300626_1918x1058.png alt="Digital Ocean on SGIX">
+
+According to <https://beta.peeringdb.com/net/6494> they have 10G ports in
+Amsterdam, but they note they operate independent networks, so there is no
+telling what their guarantees there make between their deployments. In my
+experience AWS have pretty solid connectivity between their "availability
+zones", but again they make no guarantees.
+
+# Evaluating your ISP
+
+Again using [PeeringDB](https://www.peeringdb.com/) you can get a better
+picture of your ISPs "peering" or connections at different exchanges in the
+world.
+
+<a href=https://beta.peeringdb.com/net/2252>
+<img src=http://s.natalian.org/2015-12-28/1451301477_1918x1058.png alt="ViewQwest peering">
+</a>
+
+Singtel or StarHub might have better or the same ports. But their traffic
+levels are much higher so your service will probably be worse than
+[ViewQwest](http://www.viewqwest.com/) who I still recommend despite these
+depressing statistics.
+
+I encourage you to run your own tests using [iperf3charts](https://github.com/kaihendry/iperf3chart)! If you need an iperf server to target,
+contact me. Else just [spawn a
+droplet](https://www.digitalocean.com/?refcode=37b3b1850b32) or an AWS EC2
+instance and get `iperf3 -s` running on it.
+
+UPDATE: ViewQwest are **responsive** which already beats all other Singaporean
+ISPs and they told me: "For NL, redo your tests in February. We have a 10G link
+SG-Amsterdam direct coming up which is taking almost 3 months to be ready."
