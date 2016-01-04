@@ -1,0 +1,27 @@
+[[!meta title="Rode VideoMic Me Directional Microphone review"]]
+[[!meta description="After a week of use, I'm a bit disappointed by this directional microphone for my iPhone6S"]]
+
+I excitedly bought the [Rode VideoMic Me Directional Microphone for iPhone and
+iPad](http://www.rode.com/microphones/videomicme) from Amazon UK for £48.91, hoping that it would solve the issue of
+recording clean audio from >1 person facing the camera.
+
+After using it for a week, I have discovered a couple of issues:
+
+1. static/crackles in non-windy environments (I guess just by moving it about)
+2. the dead cat seems to be needed almost all the time (bit ridiculous)
+3. captures electrical noise whilst being charged by lightning cable
+4. was hoping I could monitor sound whilst recording but you can't from the rear headphone jack
+5. if you click/plug it in whilst recording, I found you can get crazy mis-aligned audio!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K6R-K_rCKjo" frameborder="0" allowfullscreen></iframe>
+
+* [Example test recording of an interview with the RØDE VideoMic Me without the dead cat](https://www.youtube.com/watch?v=VWn4iPUyqrc)
+* [Example recording of being outside on a still night without dead cat](https://www.youtube.com/watch?v=jjuZeBaAPzs)
+* [Best VideoMic Me recording I've made so far without the dead cat](https://www.youtube.com/watch?v=EWgejHHfsUo)
+* More about the [Magewell USB3 capture](/2015/03/13/HDMI_in/)
+* More about my [Archlinux recording setup](http://dabase.com/blog/Screencasting_from_Archlinux_gotchas/)
+
+So my rating is 2/5 atm. Disappointed.
+
+UPDATE: I should have read [B&H reviews before ordering from Amazon
+UK](http://www.bhphotovideo.com/c/product/1186598-REG/rode_videomic_me_directional_mic.html).

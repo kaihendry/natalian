@@ -23,3 +23,18 @@ injection $49.31 (include GST)+$30 (procedure).
 
 Can cheaper be found in Singapore or is this the stark reality of raising a
 child in Singapore?
+
+UPDATE: A reader pointed out that the [child vaccination should be ~40% cheaper
+at a
+Polyclinic](https://www.nhgp.com.sg/faq.aspx?id=720dda1c60b242a2999b475c0438ba78).
+However after investigating, the major issue with this option is:
+
+* needs to be booked (we were hoping to do a walk-in vaccination)
+* booking people seem unsure of the fees (training issue perhaps)
+* & **most importantly** child must be registered before with [National Immunisation Registry](https://www.nir.hpb.gov.sg/)
+
+In [KKH](http://www.kkh.com.sg/) they told me over the phone they fax all
+required particulars to the [NI Registry](https://www.nir.hpb.gov.sg/) on your
+appointment date, so **no need** to register in advance. So as my reader
+states: "As with all things Singapore, premiums are charged for dubiously
+better/faster service."
