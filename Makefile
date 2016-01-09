@@ -16,7 +16,7 @@ $(OUTPUT)/404.html: 404.html
 	$(GZ) -c $< > $@
 
 $(OUTPUT)/%/index.html: %.mdwn
-	@mkdir -p $(shell dirname $@ || true) || true
+	@mkdir -p $(@D)
 	@header $< > $@
 	@sed '/^\[\[/ d' $< | cmark >> $@
 	@footer $< >> $@
@@ -40,7 +40,7 @@ $(OUTPUT)/index.html: $(LIST) godeps
 
 $(OUTPUT)/style.css: style.css
 	@echo "AddEncoding $(GZ) .html .css .js .rss .atom" > $(OUTPUT)/.htaccess
-	@$(GZ) --best -c style.css > $(OUTPUT)/style.css
+	@$(GZ) -c style.css > $(OUTPUT)/style.css
 
 # http://natalian.s3-website-ap-southeast-1.amazonaws.com/
 upload: $(OUTPUT)/index.html $(OUTPUT)/style.css
