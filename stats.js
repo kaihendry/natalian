@@ -7,7 +7,7 @@ function trackError(e) {
 
 function mailme(data) {
 	var xhr = new XMLHttpRequest();
-	xhr.open("POST", "http://feedback.dabase.com/feedback/feedback.php");
+	xhr.open("POST", "https://feedback.dabase.com/feedback/feedback.php");
 	xhr.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
 	xhr.send(JSON.stringify({msg: data}));
 }

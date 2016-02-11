@@ -31,7 +31,7 @@ $(OUTPUT)/index.atom: $(LIST)
 $(OUTPUT)/stats.js: stats.js
 	$(GZ) -c $< > $@
 
-$(OUTPUT)/index.rss:
+$(OUTPUT)/index.rss: $(LIST)
 	feeds
 	@$(GZ) -c index.rss > $@
 
