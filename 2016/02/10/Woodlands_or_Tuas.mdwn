@@ -1,0 +1,83 @@
+[[!meta description="The drive each way between Singapore and Kuala Lumpur during Chinese New Year was 11 hours of pain. Don't do it."]]
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Regret not going to Woodlands. Held up on Malaysian side of Tuas. 😅 <a href="https://t.co/ehOeRNVzLe">pic.twitter.com/ehOeRNVzLe</a></p>&mdash; Kai Hendry (@kaihendry) <a href="https://twitter.com/kaihendry/status/695851282603470848">February 6, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+So since we didn't make travel arrangements in advance for <abbr title="Chinese
+New Year">CNY</abbr>, I drove to <abbr title="Kuala Lumpur">KL</abbr> from
+Singapore on the 6th of February 2016 and returned on the 9th.  It was hell on
+earth.
+
+The main issue was the land border crossing. I knew this would be a problem,
+but I [wrongly heaped the blame on Singapore's ICA in this video](https://www.youtube.com/watch?v=vGKbvzA2IYM).
+
+Though my request still stands, there needs to be some metric for which border
+crossings can be judged, so bottle necks & delays can be identified and
+resolved.
+
+# Issues crossing from Singapore at Tuas (aka second link)
+
+It shouldn't be a surprise at all that the Singapore side was fast & efficient
+letting cars through to Malaysia. So when once we crossed the causeway we were
+in a massive 3 lane queue to Malaysia's checkpoint. There were a number of
+issues:
+
+* the two right most lanes were moving the slowest
+* the left lane and emergency lane (also the domain of buses) were moving fastest
+* at times the lanes were unclear
+* it got so hot and there is zero facilities
+* we inched for 3 hours
+* emergency lane was constantly abused and not enforced leading to temperatures rising
+* when we got to the Malaysian booths on a fraction of them were operating
+* some of them were operating more in the left lanes instead of the right ones
+* this explains a lot why some lanes were moving so slowly compared to others!
+
+I had the feeling after getting our documents checked finally that the
+Malaysians authorities just didn't care. Our Malaysian immigration officer
+asked how long we waited; We replied three hours. And she was sympathetic..
+"yes, this is **Chinese New Year**". I refrained from blurting back, why not
+better manage this fiasco by treating lanes equally and getting more staff on
+duty!?
+
+I could have crossed at Woodlands instead of Tuas, but I had no idea in advance
+which Malaysian side was processing cars quicker. Again it would be awesome if
+there some API to measure the progress. If I was going to do the Tuas crossing
+again, I would almost definitely used the left most or emergency lane since it
+was flowing unlike the middle lane I was stuck in.
+
+# Issues crossing from Johor to Singapore
+
+Sadly the second day of CNY on Malaysia roads down from KL were not as
+uncongested as I was hoping. <http://plus.com.my/> administer the toll
+roads and do provide some real time information about congestion, but since
+there is basically just one road, you can't really act on this information. If
+there was some historical information, I could have maybe made alternative
+plans not to drive down when I did!
+
+The main screw up was actually **Google maps as we approached the junction
+between Woodlands or Tuas**. At first it recommends Tuas and then recommended
+Woodlands. I think it does this on the basis of the red line congestion on the roads.
+
+We heeded its advice and went to Johor Bahru, but the Woodlands entrance was
+completely jammed. We couldn't even enter the queue!! Google maps was reporting
+an orange line for a queue that simply was **not moving**. So we wasted at
+least an hour and ending up turning back to Tuas!! To make matters worse when
+we navigated to Tuas Checkpoint, **Google Maps redirected us back to
+Woodlands**!! We had to navigate to Tuas from the overview screen!!
+
+At Tuas, once again the familiar jam, with confusing lanes and zero
+enforcement. I think it took about 2 hours of inching forward in the darkness
+to cross. Once again far too many stalls were unmanned.
+
+My recommendation to the Malaysia side:
+
+1. Keep more stalls manned (tracking this would be good!)
+2. Keep it fair by disallowing cars from using the emergency lane
+
+Bonus points:
+
+* Measure throughput
+
+The drive each way between Singapore and Kuala Lumpur during Chinese New Year
+was 11 hours of pain. Don't do it. Information provided by both Singapore and
+Malaysia is insufficient.

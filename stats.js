@@ -1,8 +1,15 @@
 function trackError(e) {
 	var ie = window.event || {};
-	errMsg = e.message || ie.errorMessage || "404 errror on " + window.location;
+	var errMsg = e.message || ie.errorMessage || "404 error on " + window.location;
 	var errSrc = (e.filename || ie.errorUrl) + ': ' + (e.lineno || ie.errorLine);
-	console.log('send', 'event', 'Error', errMsg, errSrc, { 'nonInteraction': 1 });
+	mailme([errMsg, errSrc]);
+}
+
+function mailme(data) {
+	var xhr = new XMLHttpRequest();
+	xhr.open("POST", "http://feedback.dabase.com/feedback/feedback.php");
+	xhr.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
+	xhr.send(JSON.stringify({msg: data}));
 }
 
 // Triggering an error in the console:
@@ -21,6 +28,4 @@ greet = function() {
 
 
 var g = document.getElementById("greet");
-if (g) {
-	g.innerHTML = greet();
-}
+if (g) { g.innerHTML = greet(); }
