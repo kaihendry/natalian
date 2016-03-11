@@ -25,10 +25,10 @@ issues:
 * the two right most lanes were moving the slowest
 * the left lane and emergency lane (also the domain of buses) were moving fastest
 * at times the lanes were unclear
-* it got so hot and there is zero facilities
+* it got so hot and there are zero facilities
 * we inched for 3 hours
 * emergency lane was constantly abused and not enforced leading to temperatures rising
-* when we got to the Malaysian booths on a fraction of them were operating
+* when we got to the Malaysian booths only a fraction of them were operating
 * some of them were operating more in the left lanes instead of the right ones
 * this explains a lot why some lanes were moving so slowly compared to others!
 
@@ -42,8 +42,8 @@ duty!?
 I could have crossed at Woodlands instead of Tuas, but I had no idea in advance
 which Malaysian side was processing cars quicker. Again it would be awesome if
 there some API to measure the progress. If I was going to do the Tuas crossing
-again, I would almost definitely used the left most or emergency lane since it
-was flowing unlike the middle lane I was stuck in.
+again, I would almost definitely use the left most or emergency lane since it
+was flowing, unlike the middle lane I was stuck in.
 
 # Issues crossing from Johor to Singapore
 
