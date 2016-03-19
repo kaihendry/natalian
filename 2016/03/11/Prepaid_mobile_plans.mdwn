@@ -1,3 +1,6 @@
+[[!meta title="Incomparable Prepaid mobile plans"]]
+[[!meta description="Prepaid mobile contracts are complex by design. Nightmare."]]
+
 I noticed a trend in Singapore and Malaysia, where mobile operators make it
 incredibly complex to maintain connectivity without a contract.
 
@@ -8,13 +11,17 @@ href="https://en.wikipedia.org/wiki/Average_revenue_per_user"><abbr
 title="Average revenue per user">ARPU</abbr></a>!
 
 Consider a typical 2GB prepaid offer that Hotlink (Maxis) sell in Malaysia:
+* Depends on whether you bought the older/regular Hotlink SIM card 10MYR or the new "Hotlink Fast 4G" for 15MYR (both do 4G, but plans are different)
 * Only valid for 2 weeks
 * You have to maintain call credit
 * You get 1GB of 4G "FAST" Internet
 * You get 1GB of 3G "slow" Internet
 
-Then there are other factors. Some like Hotlink give you better deals if you
-have their adware App installed. Or if you collect loyalty points.
+Sidenote: speculated that [what happens when you run out of 3G bandwidth in a
+3G zone?](https://twitter.com/kaihendry/status/703505303581519876)
+
+Then there are other factors. Hotlink give you better deals if you have their
+adware App installed. Or if you collect loyalty points.
 
 Of course operators have different levels of coverage which are very difficult
 to gauge. In Singapore, you can pretty much expect blanket coverage from the
@@ -24,10 +31,16 @@ goes, whilst Maxis is better in the city.
 Then you have to consider their network and bandwidth they are providing from
 particular locations. [I measured it and I was
 surprised](https://twitter.com/kaihendry/status/677323663188750336). But Celcom
-I've found sometimes gives me "No service" in PJ, so WTF?! **Reliability** is
-another factor.
+I've found sometimes gives me "No service" in <abbr title="Petaling
+Jaya">PJ</abbr>, so WTF?! **Reliability** is another factor which is difficult
+to measure.
 
-Also speculated that [what happens when you run out of 3G bandwidth in a 3G
-zone?](https://twitter.com/kaihendry/status/703505303581519876)
+Of course I haven't it begun to wade through the complexity of call costs &
+SMS. In Singapore they charge you for incoming calls!
 
-# Scenario A: how much does 2GB of 4G cost in Malaysia for a week?
+Best attempt to compare mobile plans I've seen in Malaysia:
+<https://www.savemoney.my/technology/cheapest-prepaid-plans-comparison-of-prepaid-plans-in-malaysia/>
+
+In Singapore, I recommend you go [post paid with the 25SGD SIM only
+plan](http://www.starhub.com/personal/mobile/postpaid-plans/sim-only-plans.html)
+at time of writing. Prepaid is just way too difficult.
