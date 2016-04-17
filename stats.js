@@ -1,8 +1,11 @@
 function trackError(e) {
-	var ie = window.event || {};
-	var errMsg = e.message || ie.errorMessage || "404 error on " + window.location;
-	var errSrc = (e.filename || ie.errorUrl) + ': ' + (e.lineno || ie.errorLine);
-	mailme([errMsg, errSrc]);
+	console.log("Error detected");
+	console.debug(e);
+
+	console.log("Path", e.path);
+	console.log("Line number", e.lineNumber);
+	console.log(JSON.stringify(error));
+	// mailme([errMsg, errSrc]);
 }
 
 function mailme(data) {

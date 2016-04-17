@@ -1,0 +1,66 @@
+[[!meta title="Slogans to develop up"]]
+[[!meta description="Little tidbits of development advice reflecting my philosophy to coding"]]
+
+* don't be a share cropper
+* can you copy and paste quickly and effectively? do you have a search-able history?
+* does your terminal/shell history work? make it work.
+* removed code is debugged code
+* always use a `Makefile`
+* always keep your `README.md` an excellent overview
+* don't be afraid to point out project short comings in your documentation
+* have goals
+* <s>A bad workman blames his tools</s>
+* meet is murder, however if you are going to have a meeting:
+	* have an agenda (aka come prepared)
+	* take minutes
+	* have a chairman that is carefully watching time and making sure people get fair time to speak
+	* follow up on the action points
+* the person that takes minutes controls everything
+* be proud of your work. shame shit work. take criticism. debate merits. play devil's advocate. grow some balls.
+* the person that writes controls the process. Don't know who should write the terms? It should be you if you want control.
+* keep asynchronous work flows (clue: use email)
+* [good bug house keeping](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines)
+	* what version?
+	* steps to reproduce a bug
+	* what happened, what should have happened
+	* include a screenshot (even better: video)
+	* include a URL
+	* include a trace
+	* when fixing the bug, provide a debrief and link to the commit fix!
+* share as much information with your colleagues by using a archived (messages are linkable) mailing list
+* keep your iterations fast!! measure how quick it is to roll out a update. can it be faster?
+* build in one step (clue: use a `Makefile`)
+* deploy in one step (clue: use a `Makefile`)
+* maintain your production env using Docker for reproducibility, ease of deployment and security
+* make sure you know how to update your software stack and roll back
+* monitor with <http://prometheus.io/>
+* keep dependencies at a minimum and have an escape plan (have options)
+* track SLOC
+* SUCK LESS
+* have excellent email etiquette
+	* keep to plain text (utf8)
+	* use links instead of attachments
+	* do not top post
+	* when replying remove noise (multiple levels of quotes, signatures and greetings) and take time to summarise!
+	* if you are in a bad mood, TAKE A BREAK & write the email when calmer
+* do one thing and do it well
+* make sure you provide users of your software a VERY easy way to give feedback, remember your job is to solve their problems
+* make sure you provide an easy way for users to find the version of the software they are running
+* everyone at your company must test your company's product
+* developers should be able to script a test the triggers a previous bug
+* prioritise bugs before writing new features
+* take time to refactor
+* always have your servers close to your customers
+* make your frontend FAST! <https://developers.google.com/speed/pagespeed/insights/>
+* ALWAYS VALIDATE YOUR FRONT END <https://validator.nu/>
+* Learn `vim`
+* know how to roll back (clue: use git)
+* consider maintaining your test data in git too, so you can see what's changed when it gets manipulated
+* consider not using a database
+* be social: Attend local meetups, use stack overflow, use upstream community channels (mailing list) and use IRC
+* Use a pen & paper
+* weigh up the options. discuss the options.
+* Good design is all about reducing complexity
+* remove words that are unnecessary and potentially confusing
+* Learn by doing. Quick iterations. Prototype before integrating.
+* KISS

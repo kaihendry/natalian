@@ -1,0 +1,36 @@
+[[!meta title="Singapore Airlines booking rigmarole"]]
+[[!meta description="Singapore airlines Website still sucks"]]
+
+I moved from the UK to Singapore about 4 years ago and every year I like to
+take my family back to Europe.
+
+My initial flight is a return from the UK, however my wife's ticket is a return
+from Singapore, therefore **every year** I have an ordeal.
+
+1. Get my wife to book her return flight from SIN to LHR & record her booking reference
+2. Synchronise my return to her outbound flight & pay fees
+3. Make sure our seats are next to each other
+4. Book my outbound (return) flight from LHR and make sure my flight is same as wife's return
+5. Make sure our seats are next to each other
+
+<audio src=http://s.natalian.org/2016-04-17/sia-callcenter.mp3 controls></audio>
+
+This doesn't sound _that complicated_, but the major issue is that you can't do
+half these tasks upon their [slow SIA Website](http://www.singaporeair.com/).
+Changes & enquiries have to be done by calling their **call center** and enduring
+poor voice quality, a strong Indian accent and generally an average 30 minute
+call.
+
+For example today I made the mistake of booking the wrong return flight since I
+got the dates mixed up since the departure & arrival date are a day apart.
+Booking itself can feel like an accomplishment since current & "beta" Website
+can [fail for no good
+reason](https://twitter.com/kaihendry/status/720510187803688960).
+
+This is an easy mistake to make since **Singapore Airlines** Website gives no
+way to get the [itinerary](http://s.natalian.org/2016-04-17/itinerary.png) out
+to a sane interoperable [iCalendar](https://en.wikipedia.org/wiki/ICalendar)
+format. Plain text to copy & paste would be glorious, but currently it's just
+an non-standard HTML file.
+
+This booking ordeal saps a good weekend's productive hours.
