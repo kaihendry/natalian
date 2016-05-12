@@ -1,6 +1,8 @@
 [[!meta title="Singapore Airlines booking rigmarole"]]
 [[!meta description="Singapore airlines Website still sucks"]]
 
+<img src=http://s.natalian.org/2016-04-19/sia-return.webp alt="Crude whiteboard graphic explaining the issue">
+
 I moved from the UK to Singapore about 4 years ago and every year I like to
 take my family back to Europe.
 
@@ -13,7 +15,7 @@ from Singapore, therefore **every year** I have an ordeal.
 4. Book my outbound (return) flight from LHR and make sure my flight is same as wife's return
 5. Make sure our seats are next to each other
 
-<audio src=http://s.natalian.org/2016-04-17/sia-callcenter.mp3 controls></audio>
+<audio preload=none src=http://s.natalian.org/2016-04-17/sia-callcenter.mp3 controls></audio>
 
 This doesn't sound _that complicated_, but the major issue is that you can't do
 half these tasks upon their [slow SIA Website](http://www.singaporeair.com/).
@@ -33,4 +35,5 @@ to a sane interoperable [iCalendar](https://en.wikipedia.org/wiki/ICalendar)
 format. Plain text to copy & paste would be glorious, but currently it's just
 an non-standard HTML file.
 
-This booking ordeal saps a good weekend's productive hours.
+This booking ordeal saps a good weekend's productive hours. It's such a shame
+SQ can't sort out their Website since it's a really good Airline otherwise.
