@@ -1,0 +1,31 @@
+[[!meta title="Keeping your helper"]]
+[[!meta description="We enjoy our domestic help and here's a note how to extend her work permit."]]
+
+Since I've blogged about [hiring a helper in
+Singapore](/2015/08/31/Singapore_FDW_bureaucracy/) & even nuances like the
+[Indonesian helper contract](/2016/03/06/Indonesian_FDW_contract/), I thought I
+might as well blog about **renewing a helpers permit**.
+
+<http://www.mom.gov.sg/renew-helper> is the authoritative source.
+
+First you should receive "the renewal letter" which isn't just a reminder it's
+actually marks an important step in this bureaucratic process. Firstly it means
+you can carry on having a helper, which can be tricky if you own pass doesn't
+meet certain requirements.
+
+The most important step is to ensure insurance aka "the security bond" is in
+place for the next year. Unfortunately renewing insurance at least with NTUC is
+non-trivial at least with their online Web form which is a terrible UX.
+
+So to save you sanity refilling in the Web form with all your details and
+getting the start/end dates correct for the 14 month extensions they sell, I
+advise you to take some time out and **call them**.
+
+The next little gotcha is that it takes AT LEAST a working day (more like 3
+days) for the insurer to inform <abbr title="Ministry of Manpower">MOM</abbr>
+that you have renewed the insurance. So don't expect to do this in the last
+minute!!
+
+The new Web form is quite slick, but it currently doesn't prompt you to enter
+the new details of her passport. So if she's had her passport renewed, watch
+out for that.
