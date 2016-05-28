@@ -1,0 +1,86 @@
+{Android, Apple, Samsung} Pay AFAICT all implement NFC contactless payments
+(aka **Paywave**) in a similar way, so that people can pay from their mobile
+device, instead of their plastic card.
+
+For the public and well myself, this offers me convenience as I don't need to
+physically carry my brittle plastic Visa card around with me. One less thing to
+worry about.  Furthermore, I'm going to assume that since it's paying through
+my mobile, the mobile can keep records of purchases, which is really difficult
+to do with my bank's online banking application.
+
+For {Google, Apple, Samsung} this is awesome since they inject themselves in
+this lucrative payment process. The reason AFAIK why they have taken so long to
+launch is that they have been busy negotiating with banks on their fees for the
+convenient value their mobile platforms provide. It's a fantastic money spinner
+for the platform owners, and all they have to do is collect the customers
+credit card information and relay it via NFC come payment! I'm willing to bet
+they won't let any App developer get a piece of this pie by blocking access to
+the NFC.
+
+# Concerns
+
+## Is it any more secure?
+
+Tbh, I thought contactless payments were based on _something you have_ and it
+would appear that this is not the case. {Android, Apple, Samsung} Pay just need
+to **know** your credit card details and away they go.
+
+UPDATE: I'm told there is some token exchange with Visa or the bank but I can't
+find clear description of this. The token itself is stored on the "secure
+keychain" (aka "trusted store") of the mobile device, and can only be unlocked
+with your fingerprint.
+
+## What about merchants themselves?
+
+I feel **small business** are the ones that really suffer here. Even for those
+who rent an [expensive compliant
+terminal](https://support.apple.com/en-sg/HT205747), they often do not accept
+small ticket items under 20SGD (which btw violates their agreement with Visa).
+Why? Because the bank fees are just too high.
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/kaihendry">@kaihendry</a> for large merchant debit is about 8p I think, for small merchants could be as much as 25p or so?</p>&mdash; Dave Birch ︎ (@dgwbirch) <a href="https://twitter.com/dgwbirch/status/735650783090249728">May 26, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+For big merchants like Starbucks, this is not an issue, but for small merchants
+who are selling an item for 5SGD... about 50c, i.e. their profit can be
+swallowed up by a contactless payment fee!!
+
+# What I'd like to see
+
+## Clearer competition
+
+It doesn't help that no bank has clear pricing on their payment terminals and
+it's usually up for negotiation. But since the whole B2B sales process of
+onboarding can take weeks and is incredibly painful, by then as a small
+business you might be too exhausted to negotiate.
+
+It also doesn't help that the [way terminals are
+sold](http://bigspoon.sg/blog/choosing-card-payment-terminal-fb-outlet-singapore/)
+is extremely complex. There are setup fees, rental fees, minimum fees,
+percentage fees. It can be incredibly difficult to work out and it desperately
+needs simplifying.
+
+## Better security
+
+Maybe there is security I'm unaware of in the {Android, Apple, Samsung} Wallet.
+My concern is that anyone can copy my card and start using it in their Wallet
+app. Please tell me it's not that easy!!
+
+UPDATE: I'm told there is **one card for one wallet**, though I can't find
+clear description of the security of this.
+
+## Terminals that are mobile phones
+
+A lot of terminals still do dial up verification which takes too long. I don't
+see why a 4G enabled iPhone or Android phone can't be used instead of a
+terminal to help the small business to take payment!
+
+Help small businesses !
+
+## No Visa / Mastercard
+
+AFAICT {Google, Apple, Samsung} ride ontop of Visa/Mastercard's network for
+integration. Why can't they skip them all together?
+
+Costs ultimately for small businesses to take convenient payment are not
+decreasing AFAICT.
