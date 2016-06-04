@@ -1,0 +1,17 @@
+I hate editing [Adobe Premiere Pro
+CC (2015)](http://www.adobe.com/sea/products/premiere.html) on Windows 10!
+
+* Export locks up Premiere Pro
+* Slow on my T460s with nvidia
+* Loses my edits if I don't save carefully
+* Youtube upload fails me
+
+# An Web video editor
+
+1. No Android or iPhone app
+* Completely opensource
+* Mark in and out points from a [HTML video element](https://html.spec.whatwg.org/multipage/embedded-content.html#the-video-element)
+* Creates a JSON file of all your edits... your in and out points
+* Your footage & JSON file are then submitted to my opensource video compiler based on FFMPEG and a fast H264 accelerated machine
+* Out comes your final cut which your view again from your browser
+* If you like, one click to upload to Youtube!
