@@ -1,6 +1,9 @@
-{Android, Apple, Samsung} Pay AFAICT all implement NFC contactless payments
-(aka **Paywave**) in a similar way, so that people can pay from their mobile
-device, instead of their plastic card.
+[[!meta title="Small business and contactless payments"]]
+[[!meta description="Payment terminals for small business are too expensive and not transparently priced. I don't want to spend my money with big business for the sake of convenience."]]
+
+{Android, Apple, Samsung} Pay <abbr title="As Far As I Can Tell">AFAICT</abbr>
+all implement NFC contactless payments (aka **Paywave**) in a similar way, so
+that people can pay from their mobile device, instead of their plastic card.
 
 For the public and well myself, this offers me convenience as I don't need to
 physically carry my brittle plastic Visa card around with me. One less thing to
@@ -16,6 +19,8 @@ for the platform owners, and all they have to do is collect the customers
 credit card information and relay it via NFC come payment! I'm willing to bet
 they won't let any App developer get a piece of this pie by blocking access to
 the NFC.
+
+<img src=http://s.natalian.org/2016-05-28/wallet.png alt="Apple pay wallet in Singapore">
 
 # Concerns
 

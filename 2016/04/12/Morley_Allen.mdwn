@@ -1,7 +1,10 @@
 [[!meta title="Morley Allen, man of the moor"]]
 [[!meta description="Grieving for a family friend Morley Allen"]]
 
-<img src=http://s.natalian.org/2016-04-12/morley.webp alt="Morley Allen on the Bodmin moor">
+<picture>
+<source type="image/webp" srcset="http://s.natalian.org/2016-04-12/morley.webp">
+<img src="http://s.natalian.org/2016-04-12/morley.jpg" alt="Morley Allen is missed">
+</picture>
 
 My family & I have been grieving for the loss of Morley Allen of Fore Downs,
 Cardinham who died on Sunday evening 10th of April 2016.

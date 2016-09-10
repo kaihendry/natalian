@@ -1,17 +1,23 @@
+[[!meta title="Opensource Web video editor wanted"]]
+[[!meta description="Editing with Premiere Pro under Windows is super frustrating. Surely an online Web video editor would be better."]]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kgmUtiTE6S4" frameborder="0" allowfullscreen></iframe>
+
 I hate editing [Adobe Premiere Pro
 CC (2015)](http://www.adobe.com/sea/products/premiere.html) on Windows 10!
 
 * Export locks up Premiere Pro
 * Slow on my T460s with nvidia
 * Loses my edits if I don't save carefully
-* Youtube upload fails me
+* Youtube upload fails me from Premiere Pro
 
-# An Web video editor
+# An opensource Web video editor
 
 1. No Android or iPhone app
-* Completely opensource
-* Mark in and out points from a [HTML video element](https://html.spec.whatwg.org/multipage/embedded-content.html#the-video-element)
-* Creates a JSON file of all your edits... your in and out points
-* Your footage & JSON file are then submitted to my opensource video compiler based on FFMPEG and a fast H264 accelerated machine
-* Out comes your final cut which your view again from your browser
-* If you like, one click to upload to Youtube!
+2. Completely opensource
+3. [Upload footage to S3](https://s3up.dabase.com/)
+4. Mark in and out points from a [HTML video element](https://html.spec.whatwg.org/multipage/embedded-content.html#the-video-element)
+5. Creates a JSON file of all your edits... your in and out points
+6. Your footage & JSON file are then submitted to my opensource video compiler based on [FFMPEG](https://ffmpeg.org/) and a fast H264 accelerated machine
+7. Out comes your final cut which your view again from your browser
+8. If you like, one click to upload to Youtube!

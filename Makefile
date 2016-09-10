@@ -4,7 +4,7 @@ OUTFILES = $(INFILES:.mdwn=/index.html)
 GZ = gzip --best
 LIST=$(addprefix $(OUTPUT)/, $(OUTFILES))
 
-all: $(LIST) $(OUTPUT)/index.html $(OUTPUT)/style.css $(OUTPUT)/index.rss $(OUTPUT)/index.atom $(OUTPUT)/404.html $(OUTPUT)/stats.js
+all: $(LIST) $(OUTPUT)/index.html $(OUTPUT)/style.css $(OUTPUT)/index.rss $(OUTPUT)/index.atom $(OUTPUT)/sitemap.txt $(OUTPUT)/404.html $(OUTPUT)/stats.js
 
 godeps:
 	go get github.com/kaihendry/blog/header
@@ -31,6 +31,9 @@ $(OUTPUT)/index.atom: $(LIST)
 $(OUTPUT)/stats.js: stats.js
 	$(GZ) -c $< > $@
 
+$(OUTPUT)/sitemap.txt: $(LIST)
+	sitemap | $(GZ) > $@
+
 $(OUTPUT)/index.rss: $(LIST)
 	feeds
 	@$(GZ) -c index.rss > $@
@@ -45,7 +48,7 @@ $(OUTPUT)/style.css: style.css
 # http://natalian.s3-website-ap-southeast-1.amazonaws.com/
 upload: $(OUTPUT)/index.html $(OUTPUT)/style.css
 	@aws s3 website s3://natalian/ --index-document index.html --error-document 404.html
-	@aws s3 sync --content-encoding gzip --size-only --exclude .htaccess --cache-control="max-age=86400" --storage-class REDUCED_REDUNDANCY --acl public-read $(OUTPUT)/ s3://natalian/
+	@aws s3 sync --content-encoding gzip --size-only --exclude .htaccess --cache-control="max-age=86400" --storage-class STANDARD_IA --acl public-read $(OUTPUT)/ s3://natalian/
 	@aws cloudfront create-invalidation --distribution-id E2AXSD6P2TRMEA --invalidation-batch "{ \"Paths\": { \"Quantity\": 1, \"Items\": [ \"/*\" ] }, \"CallerReference\": \"$(shell date +%s)\" }"
 
 clean:

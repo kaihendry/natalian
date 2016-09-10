@@ -1,0 +1,33 @@
+[[!meta title="MacOS sucks compared to Linux"]]
+
+A friend dared to ask me why I thought MacOSX sucked.
+
+# No sane way to mount EXT filesystem
+
+[Deal breaker](http://apple.stackexchange.com/questions/210198/mount-ext4-on-el-capitan).
+
+# No sane package management system
+
+Brew is a kludge. Compared to Archlinux's `pacman` and AUR, MacOSX is a failzone.
+
+# MacOSX is obscenely large
+
+An Archlinux system with all the tools I use is typically less than 1GB.
+
+# MacOSX's window management sucks
+
+What a horrible inefficient window manager. I've seen Mac users do all sorts of
+crazy things to try optimise it. You could just switch to using
+[dwm](http://dwm.suckless.org/) which is much faster and easy to script or
+modify.
+
+# Does MacOSX do anything better?
+
+Ignoring a Mac's typical superior hardware design over PCs (except for the
+missing LAN port). Ignoring Apps like FCPX than only run on Mac. Ignoring
+native development. There is nothing Mac does better as a developer
+workstation.
+
+In fact with SystemD and Docker, there is some things now that work much better
+on Linux. And if you are not using tools like these in your development of
+services, you are sucking as a developer.
