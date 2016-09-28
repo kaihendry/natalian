@@ -1,0 +1,17 @@
+[[!meta title="Finally Fintech in Singapore"]]
+[[!meta description="Recent developments have confirmed Singapore as an Asian Fintech hub"]]
+
+Moving to Singapore about four years ago, I was [frustrated by
+Singapore's](/2012/12/04/Singapore_banking_surprises/) banking sector.
+
+But lately, I can count quite few Fintech innovations that has made life
+better:
+
+1. [TransferWise](https://transferwise.com/u/14091) is available in Singapore - [ok, it does require a silly F2F process for MAS](https://transferwise.com/help/article/2443263/australia-and-asia-pacific-transfers/singapore-verification-payment-proof#/F2F) but finally I don't have to take cash to Malaysia!!
+2. [Singtel Dash](https://www.youtube.com/watch?v=bpbnZ_ab4Gc) makes remittances easier for my helper
+3. [Ez Pay](http://home.ezlink.com.sg/ezpay) which IIUC allows linking topups to your bank account
+4. [Singapore FAST payments](https://www.abs.org.sg/consumer-banking/fast) instant bank transfers
+5. [Apple Pay](http://www.apple.com/sg/apple-pay/) - no need to carry my tired OCBC Visa card with me
+6. [Stripe Singapore](https://stripe.com/sg/pricing) finally launching
+
+It feels like all of a sudden, Singapore really is Asia's Fintech hub!

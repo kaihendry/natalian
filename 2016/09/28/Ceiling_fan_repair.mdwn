@@ -1,0 +1,40 @@
+[[!meta description="Angmo here tired of being ripped off by ceiling fan maintenance services"]]
+
+
+<style>
+blockquote.twitter-tweet {
+  display: inline-block;
+  padding: 16px;
+  margin: 10px 0;
+  max-width: 468px;
+  border: #ddd 1px solid;
+  border-top-color: #eee;
+  border-bottom-color: #bbb;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+  font: bold 14px/18px Helvetica, Arial, sans-serif;
+  color: #000;
+}
+ 
+blockquote.twitter-tweet p {
+  font: normal 18px/24px Georgia, "Times New Roman", Palatino, serif;
+  margin: 0 5px 10px 0;
+}
+ 
+blockquote.twitter-tweet a[href^="https://twitter.com"] {
+  font-weight: normal;
+  color: #666;
+  font-size: 12px;
+}
+</style>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Got charged 25SGD for a capacitor to fix a noisy overhead fan 😤 <a href="https://t.co/EyyrzWG9og">pic.twitter.com/EyyrzWG9og</a></p>&mdash; Kai Hendry (@kaihendry) <a href="https://twitter.com/kaihendry/status/753939548565012481">July 15, 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">120SGD to service a noisy ceiling fan with 2 condensers that look like capacitors to me 😱(they wanted to charge 245SGD) <a href="https://t.co/kYbXcxUntD">pic.twitter.com/kYbXcxUntD</a></p>&mdash; Kai Hendry (@kaihendry) <a href="https://twitter.com/kaihendry/status/780712841271730176">September 27, 2016</a></blockquote>
+
+So I've had issues with all the ceiling fans in my rented maisonette. Repairing
+the noisy fan in my bedroom cost me 25SGD and the noisy fan in my living cost
+me unbelievably 120SGD. So I am now determined to fix my defunct dining room
+fan.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dyCgUBTkDeo" frameborder="0" allowfullscreen></iframe>

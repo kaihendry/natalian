@@ -1,6 +1,6 @@
 abbr[title], acronym[title] { border-bottom: dotted 1px; }
-body { font-family: "Seravek", sans-serif; }
-h1, h2, h3, h4, h5, h6 { font-family: "Athelas", serif; }
+body { font-family: "Segoe UI", "Seravek", sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: "Noto Serif", "Athelas", "Palatino", serif; }
 
 #headline { font-size: 2em; }
 

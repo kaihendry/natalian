@@ -1,3 +1,5 @@
+[[!meta description="A simple way to notify guards by SMS is devised and implemented"]]
+
 UPDATE: Implementation: <https://github.com/kaihendry/myresponder>
 
 Since my mother-in-law was robbed a few months back and since I've observed
