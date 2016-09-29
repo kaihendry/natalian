@@ -1,6 +1,5 @@
 [[!meta description="Angmo here tired of being ripped off by ceiling fan maintenance services"]]
 
-
 <style>
 blockquote.twitter-tweet {
   display: inline-block;
@@ -33,8 +32,12 @@ blockquote.twitter-tweet a[href^="https://twitter.com"] {
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">120SGD to service a noisy ceiling fan with 2 condensers that look like capacitors to me 😱(they wanted to charge 245SGD) <a href="https://t.co/kYbXcxUntD">pic.twitter.com/kYbXcxUntD</a></p>&mdash; Kai Hendry (@kaihendry) <a href="https://twitter.com/kaihendry/status/780712841271730176">September 27, 2016</a></blockquote>
 
 So I've had issues with all the ceiling fans in my rented maisonette. Repairing
-the noisy fan in my bedroom cost me 25SGD and the noisy fan in my living cost
-me unbelievably 120SGD. So I am now determined to fix my defunct dining room
-fan.
+the noisy fan in my bedroom cost me 25SGD and the noisy fan in my living room
+cost me unbelievably 120SGD. So I am now determined to fix my defunct dining
+room fan.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyCgUBTkDeo" frameborder="0" allowfullscreen></iframe>
+
+3.50SGD later and it's fixed!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v0u2xL83Vk4" frameborder="0" allowfullscreen></iframe>

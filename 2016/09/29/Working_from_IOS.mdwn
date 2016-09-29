@@ -1,0 +1,12 @@
+[[!meta description="IOS10 with a bluetooth keyboard kinda sucks"]]
+
+It's not really possible since it's not possible to switch (Alt-Tab) quickly between SSH
+session and Web browser.
+
+<video controls src=http://s.natalian.org/2016-09-26/iphone-camera-capture.mp4></video>
+<video controls src=http://s.natalian.org/2016-09-26/iphone7-screencast.mp4></video>
+
+Sidenote: Anyone know how I can do PIP and synchronous playback between these two angles in JS?
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/kaihendry">@kaihendry</a> Thanks for reaching out. There aren&#39;t any shortcuts at this time. However, you can submit feedback here: <a href="https://t.co/eTPVYVFyd8">https://t.co/eTPVYVFyd8</a></p>&mdash; Apple Support (@AppleSupport) <a href="https://twitter.com/AppleSupport/status/780412715445682176">September 26, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
