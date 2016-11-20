@@ -1,0 +1,58 @@
+[[!meta title="Visiting the USA after Iran"]]
+[[!meta description="The process of getting permission to travel in the US if you've visited Iran is very frustrating."]]
+
+<img src="http://s.natalian.org/2016-11-20/ds-160-fullpage.png" alt="Screenshot of the DS-160 Web form">
+
+Marking that one has [visited Iran](http://geekout.org.uk/tags/iran/) in light of the ridiculous [Terrorist Travel
+Prevention Act of 2015](http://www.state.gov/r/pa/prs/ps/2016/01/251577.htm)
+should not ask your for payment whilst filling in the <abbr title="Visa Waiver
+Program">VWP</abbr>! IT WILL FAIL. Lost time and money.
+
+It's not clear what to do from a "TRAVEL NOT AUTHORIZED" <abbr
+title="Electronic System for Travel Authorization">ESTA</abbr> status. It
+should have said you now have to fill in a **Online Nonimmigrant Visa
+Application (DS-160)**.
+
+Doesn't use failed <abbr title="Electronic System for Travel
+Authorization">ESTA</abbr> (VWP) application as basis for the DS-160. So be
+mentally prepared to fill in the forms AGAIN.
+
+Appointment system doesn't recognise my @iki.fi email address as an email
+address.
+
+<img src=http://s.natalian.org/2016-11-02/stuck.png alt="Email not recognised">
+
+Makes assumptions about phone numbers.
+
+Fails with photo upload. Solution: Works the next day. 
+
+<img src=http://s.natalian.org/2016-11-01/1478011290_2558x1404.png alt="An error occurred whilst processing your photo.">
+
+Has some issue with cookies and it fails to retrieve a previous application. So
+had to start again.
+
+Paying the "non-refundable, non-transferable visa application fee" <abbr title="Machine Readable Visa">MRV</abbr> of 160USD at Singpost is a <abbr title="PAIN IN THE ASS">PITA</abbr>. [Online Form registration doesn't
+work.](http://s.natalian.org/2016-11-01/1477990791_2558x1404.png) You have
+physically go down to the post office.
+
+Going to the embassy **requires print outs**.
+
+[Really quite silly questions](http://s.natalian.org/2016-11-01/1478010489_2558x1404.png)
+* countries you been in the last 5 years (thankfully Mongol Rally was >5 years ago)
+* start and end dates for the times I've previously been in the US (I've been several times years ago)
+
+Gigantic delay in email sending confirmation (8 hours?)
+
+Appointment form duplicates the DS-160 form. You're not going mad. Fill in the same information again!
+
+Strange repeated appointment confirmations...
+
+# At the embassy
+
+1. Queue for security
+2. Queue to use booth 2 to drop off passport
+3. Queue to get your biometrics taken
+4. Queue for the interview
+5. Overhearing people being interviewed, like answering how much money they earn
+
+All very exhausting and degrading.

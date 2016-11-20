@@ -1,0 +1,41 @@
+[[!meta title="Foreigner Singapore 2FA"]]
+[[!meta description="Singapore's 2FA rollout is pretty theatrical waste of time, especially for EP holders"]]
+
+I'm keen on two factor authentication (2FA) to improve account security. I use
+Google Authenticator and I must have ported over about 10 accounts to it.
+
+So when Singapore government **online identity system** "Singpass" announced
+they are making <abbr title="two factor authentication">2FA</abbr> mandatory, I
+was fine with it.
+
+But after looking into it and effectively being locked out my account since I
+was not registered by a deadline, I have a bitter taste in my mouth about it.
+
+There is so much confusing information online. This is what I wish I knew as
+Employment Pass (EP) holder.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendry/31087063476/in/datetaken/" title="Onekey"><img src="https://c5.staticflickr.com/6/5691/31087063476_4c311dd542_z.jpg" width="640" height="427" alt="Onekey"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+* Auto-registration is not actually automatic
+* Auto-registration is put through by your employer
+* You must be mailed a PIN
+* The address will be your employers office and that can lead to confusion
+* SMS is just part of the process
+* Once you register you have a "NAF" which IIUC is a identity provider for Singpass, so it's kindof confusing with two accounts
+
+To conclude my registration issues came down to my PIN not being issued to me.
+I switched jobs in June and I think that may have caused the confusion over a
+period of a month.
+
+So once registering with 2FA and logging in a "OTP" is sent over SMS. My number
+was correct at the beginning of the process so I am not quite sure what were
+the merits of going through this error prone PIN mailer process.
+
+<img src=http://s.natalian.org/2016-11-12/2fa.png>
+
+I believe you can upgrade for 10 or 20 dollars to a physical token instead of
+receiving an insecure SMS which obviously will never work when abroad, but I'm
+really not motivated to upgrade. Especially when I know virtual 2FA via Google
+Authenticator is the sane way to do it.
+
+All & all a very poor experience with <a href=https://www.flickr.com/photos/hendry/30756038700>Singapore's Government Technology Agency (GovTech)</a>.

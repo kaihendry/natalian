@@ -1,6 +1,4 @@
-Update: <https://www.crowdsupply.com/numato-lab/opsis> looks really interesting
-
-UPDATE: I bought nearly 600SGD worth of [XI100DUSB-HDMI](http://www.magewell.com/hardware/dongles/xi100dusb-hdmi/xi100dusb-hdmi_features.html?lang=en) & the ATR2100-USB and here is my [first video](http://s.natalian.org/2015-04-22/supersmash.mp4) using [obs-studio](https://aur.archlinux.org/packages/obs-studio/)!
+UPDATE: I bought nearly 600SGD worth of [XI100DUSB-HDMI](http://www.magewell.com/hardware/dongles/xi100dusb-hdmi/xi100dusb-hdmi_features.html?lang=en) & the ATR2100-USB and here is my [first video](http://s.natalian.org/2015-04-22/supersmash.mp4) using [obs-studio](https://www.archlinux.org/packages/community/x86_64/obs-studio/)!
 
 * [ffmpeg -f v4l2 -list_formats all -i /dev/video1](http://s.natalian.org/2015-05-03/ffmpeg_v4l2.txt)
 * [v4l2-ctl --list-formats-ext -d /dev/video1](http://s.natalian.org/2015-05-03/v4l2-ctl.txt)
@@ -64,7 +62,7 @@ Singapore, I doubt I realistically get a refund from
 After months of research... seriously, there seems just to be one standard
 driver-less solution, the [Inogeni](http://www.dexteralabs.com/inogeni/), which
 should work seamlessly with FFMPEG and other opensource tools on my [Archlinux
-on a Lenovo X1C3](archives/2015/02/18/Archlinux_on_a_Lenovo_X1C3). It's great
+on a Lenovo X1C3](/2015/02/18/Archlinux_on_a_Lenovo_X1C3). It's great
 that there is such a product, but I'm almost mystified why there is just one
 product that does this, and cameras like Canon do not implement UVC.
 

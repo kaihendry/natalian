@@ -42,7 +42,6 @@ $(OUTPUT)/index.html: $(LIST) godeps
 	@index | $(GZ) > $@
 
 $(OUTPUT)/style.css: style.css
-	@echo "AddEncoding $(GZ) .html .css .js .rss .atom" > $(OUTPUT)/.htaccess
 	@$(GZ) -c style.css > $(OUTPUT)/style.css
 
 # http://natalian.s3-website-ap-southeast-1.amazonaws.com/

@@ -8,7 +8,9 @@ incredibly complex to maintain connectivity without a contract.
 
 Why? For a higher <a
 href="https://en.wikipedia.org/wiki/Average_revenue_per_user"><abbr
-title="Average revenue per user">ARPU</abbr></a>!
+title="Average revenue per user">ARPU</abbr></a>! I predict this unscrupulous
+business strategy will [bite operators when they want to become
+banks](https://twitter.com/kaihendry/status/777353135492780033), see [DASH](https://www.youtube.com/watch?v=bpbnZ_ab4Gc).
 
 Consider a typical 2GB prepaid offer that Hotlink (Maxis) sell in Malaysia:
 * Depends on whether you bought the older/regular Hotlink SIM card 10MYR or the new "Hotlink Fast 4G" for 15MYR (both do 4G, but plans are different)
@@ -43,4 +45,8 @@ Best attempt to compare mobile plans I've seen in Malaysia:
 
 In Singapore, I recommend you go [post paid with the 25SGD SIM only
 plan](http://www.starhub.com/personal/mobile/postpaid-plans/sim-only-plans.html)
-at time of writing. Prepaid is just way too difficult.
+at time of writing. **Prepaid in Singapore is just way too difficult**.
+
+Sidenote: Do NOT ROAM WITH YOUR SINGAPORE SIM CARD. For example [Starhub charge
+19SGD per day](http://s.natalian.org/2016-09-30/1475205484_1406x1404.png) for
+data in Malaysia, where it typically costs 1SGD. Don't get ripped off!
