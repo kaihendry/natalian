@@ -21,7 +21,7 @@ Employment Pass (EP) holder.
 * You must be mailed a PIN
 * The address will be your employers office and that can lead to confusion
 * SMS is just part of the process
-* Once you register you have a "NAF" which IIUC is a identity provider for Singpass, so it's kindof confusing with two accounts
+* Once you register you have a "<abbr title="National Authentication Framework">NAF</abbr>" which IIUC is a identity provider for Singpass, so it's kindof confusing with two accounts
 
 To conclude my registration issues came down to my PIN not being issued to me.
 I switched jobs in June and I think that may have caused the confusion over a

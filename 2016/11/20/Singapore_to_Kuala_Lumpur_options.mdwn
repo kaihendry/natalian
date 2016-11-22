@@ -1,0 +1,78 @@
+[[!meta title="Travelling to Petaling Jaya from Singapore"]]
+[[!meta description="Bridging the gap between Malaysia and Singapore capitals is quite an awful commuting experience"]]
+
+Since my wife is Malaysian, we travel from Singapore to [Petaling
+Jaya](https://en.wikipedia.org/wiki/Petaling_Jaya) (PJ) quite often for family
+events and such.
+
+Over the years of living in Singapore I have noticed the time and money to
+journey the **350km** seems to increase.
+
+<img src="http://s.natalian.org/2016-11-20/sg-pj.png" alt="Malaysian Peninsular">
+
+# Bus
+
+Bus is the cheapest at 60SGD return and for example
+[FirstCoach](http://www.firstcoach.com.my/schedule.php) is our current choice.
+However as we found out when we travelled with our baby boy the long hours in
+the bus for an infant is very difficult.
+
+Journey time: between 6 and 9 hours. Holiday traffic like CNY is just a
+nightmare.
+
+The causeway crossing at Tuas is a painful experience, especially with a baby
+who can't use the biometric express queues until the child is four years old.
+
+# Flights
+
+There are about 40 flights a day between Singapore (SIN) to Kuala Lumpur,
+Malaysia (KUL).
+
+Journey time: 4.5 hours in best case
+
+Price: Varies tremendously, but typically in the 150-250SGD range for a return
+fee booked weeks in advance. 3x the cost of a bus and lets not forget the taxis
+to and fro the airports! (~20 SGD + 120MYR) * 2
+
+Annoyingly KLIA airport is actually really quite far from Petaling Jaya.  Since
+we travel as a group of three, the Uber at ~120MYR is still cheaper than the
+KLIA Ekspres which is 55MYR x 3 people = 165MYR and of course doesn't get you
+to PJ.
+
+There is a smaller airport [Subang
+Airport](https://en.wikipedia.org/wiki/Sultan_Abdul_Aziz_Shah_Airport), but
+only [Firefly operate at the
+terminal](https://www.google.com.sg/search?q=flights+sin+szb) and you need to
+book long in advance for a reasonable price.
+
+# Car
+
+Crossing at Tuas or Woodlands in traffic is an absolute nightmare. Buses are
+expedited, not cars. It's not a fun drive. Renting a car from Singapore to
+travel to Malaysia is expensive.
+
+# Train
+
+Presently the train to KL takes umpteen hours (overnight usually), however there is a new
+[Singapore-Kuala Lumpur High Speed
+Rail](https://en.wikipedia.org/wiki/Kuala_Lumpur%E2%80%93Singapore_High_Speed_Rail)
+proposed but it won't be ready until **2026**.
+
+Another annoying aspect is proposed new the train terminates in Jurong East,
+not downtown Singapore. Since I live in East Singapore, it can easily take upto
+an hour to get home from Jurong!!
+
+Journey time (once completed in 10 years time): 99 minutes plus 1 hr from Eunos-Jurong & 1 hr between KL & PJ =~ 4 hours
+
+# Conclusion
+
+In my mind, the overland route with the crowded and chaotic causeway border
+crossing makes it not an option for us anymore. Would be nice if
+[ICA](https://www.ica.gov.sg/) published some metrics on their performance to
+give us some confidence. The new proposed train line is very welcome, but if
+they don't do sensible things like check passports on the train I feel
+potential any time savings will be lost.
+
+At this point of time, I am left having to carefully plan my trips to Malaysia
+and booking flights in advance. All options are equally inflexible. If you need
+to make a last minute change, you basically lose a lot of money.
