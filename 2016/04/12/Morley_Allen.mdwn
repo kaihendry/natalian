@@ -2,8 +2,8 @@
 [[!meta description="Grieving for a family friend Morley Allen"]]
 
 <picture>
-<source type="image/webp" srcset="http://s.natalian.org/2016-04-12/morley.webp">
-<img src="http://s.natalian.org/2016-04-12/morley.jpg" alt="Morley Allen is missed">
+<source type="image/webp" srcset="https://s.natalian.org/2016-04-12/morley.webp">
+<img src="https://s.natalian.org/2016-04-12/morley.jpg" alt="Morley Allen is missed">
 </picture>
 
 My family & I have been grieving for the loss of Morley Allen of Fore Downs,
