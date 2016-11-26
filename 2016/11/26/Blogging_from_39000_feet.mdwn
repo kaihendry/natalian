@@ -1,0 +1,46 @@
+<img src=https://res.cloudinary.com/hendry/image/fetch/f_auto/https://s.natalian.org/2016-11-26/39000feet.JPG alt="Flight information">
+
+My curiosity got the better of me and 4hrs into my trip I paid 21.95USD for
+wifi for the entire journey from SIN to SFO.
+
+This is the first time I've had Internet on a plane and I feel like I am living
+in the future!
+
+                                                  Packets               Pings
+ Host                                            Loss%   Snt   Last   Avg  Best  Wrst StDev
+ 1. ns.singaporeair-krisworld.com                 0.0%  2181    1.4   3.2   1.0 338.7  14.5
+ 2. 10.50.41.1                                    1.1%  2181    2.4   5.3   1.7 428.0  17.0
+ 3. 172.18.14.37                                  2.2%  2181  555.2 591.7 534.5 3040.  95.9
+    172.18.14.42
+ 4. 172.18.14.34                                  2.2%  2181  557.7 594.1 535.4 3035. 103.4
+ 5. ???
+ 6. 10.6.8.4                                      2.7%  2181  639.1 681.6 623.5 1925.  83.3
+ 7. 10.6.9.2                                      2.7%  2181  637.1 684.6 625.0 1974.  90.4
+ 8. ???
+
+
+It surprisingly works. Though it wasn't easy to purchase the subscription.
+
+The age old buying Internet problem which I've yet to see anyone solve well
+from a wifi capture/redirect. Chrome didn't work, but Safari did once I
+navigated manually to `172.19.248.1`.
+
+<img src=https://s.natalian.org/2016-11-26/krisworld-ap.png alt="KrisWorld open wifi AP">
+
+Next I tried to pay with Paypal, but that didn't work because it wanted to SMS my iPhone in Airplane mode.🤔
+
+<img src=https://s.natalian.org/2016-11-26/paypal-sms-from-39000feet.png alt="Paypal trying to SMS whilst over the Pacific">
+
+So next I tried my OCBC Visa card and that request timed out.
+
+<img src=https://s.natalian.org/2016-11-26/timed-out.png alt="Second payment fail">
+
+I tried again, and this time I finally made a purchase!!
+
+<img src=https://s.natalian.org/2016-11-26/purchase.png alt="WIFI purchased on board SQ32!">
+
+Sadly I couldn't WhatsApp because <https://web.whatsapp.com/> wanted to chat to my phone whilst it was in Airplane mode. Sigh!
+
+Good news is that I did manage to Imessage and chat to my wife:
+
+<img src=https://s.natalian.org/2016-11-26/call-to-my-wife.png alt="My first voice call from a airplane">
