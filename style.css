@@ -12,9 +12,13 @@ h1, h2, h3, h4, h5, h6 { font-family: "Noto Serif", "Athelas", "Palatino", serif
 
 aside { -webkit-text-size-adjust: auto }
 
-#headline { font-size: 2em; }
+p { margin: 0; }
 
-ol.index li {
+pre { overflow: auto; }
+
+.headline { font-size: 2em; }
+
+.index li {
 	display: flex;
 	line-height:1.8;
 }
@@ -34,7 +38,7 @@ article {
 	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
-article * { max-width: 100%; }
+article img { max-width: 100%; }
 
 footer { width: 50%; align-items: center; display: flex; justify-content: space-around; font-size: 0.8em; margin-left: auto; margin-right: auto; }
 
