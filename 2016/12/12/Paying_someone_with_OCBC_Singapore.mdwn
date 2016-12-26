@@ -1,6 +1,25 @@
 [[!meta title="Paying someone with OCBC online in Singapore"]]
 [[!meta description="Paying someone with OCBC online is ridiculously hard"]]
 
+
+<div style="background-color: #FFFFCC">
+
+**tl;dr**
+
+* the transfer process in unrelated to the value of the transfer so a $500,000
+  transfer would require the same convoluted process as a $0.05 transfer
+* [OCBC recommend their Pay Anyone
+  service](https://twitter.com/OCBCBank/status/808488319072014336), which seems
+to require an App install and to be connected to the recipient by mobile number
+which sounds really awful to me. They say it's good for [microtransactions on
+Carousell](https://twitter.com/OCBCBank/status/808529237900689408) but even
+people I know who work on Carousell have never heard of anyone using this.
+Totally delusional and I wish they would fix their Web app flow.
+
+</div>
+
+
+
 On the ground [OCBC](https://www.ocbc.com/group/group-home.html) are quite a
 good bank especially with their ATM availability.  Online it is a bit of a
 nightmare.

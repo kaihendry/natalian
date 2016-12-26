@@ -1,0 +1,32 @@
+[[!meta title="Fluorescent tubes to LED in a Singapore HDB"]]
+[[!meta description="LED lighting technology seems like a watershed moment for lighting"]]
+
+Prompted by flicker in my videos, I have replaced a couple of [T8 Fluorescent
+lamps](https://en.wikipedia.org/wiki/Fluorescent-lamp_formats) with LED based
+ones. I am very impressed as I didn't even know such products existed!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XM9GUIt1RKQ" frameborder="0" allowfullscreen></iframe>
+
+However I couldn't find circular LED bulb tubes (like the T9) commonly found in
+HDBs in Sim Lim tower.
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2016-12-18/round-bulbs.jpg" alt="Round tubes, 30cm &amp; 40cm">
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2016-12-18/LED-tray.jpg" alt="LED tray to replace round tube">
+
+Later I realised with some help that I needed to replace the tube with a **LED
+tray** with magnets. Out came the heavy ballast and starter.
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2016-12-18/t9-bulb-out.jpg" alt="Bulb removed">
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2016-12-18/what-came-out.jpg" alt="Removed legacy crap">
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2016-12-18/led-tray-in.jpg" alt="LED tray in">
+
+LED is an incredible technology, compared to [Fluorescent
+lamps](https://en.wikipedia.org/wiki/Fluorescent_lamp), LED is:
+
+* cheaper
+* faster to start
+* less components (no starter or ballast)
+* lasts longer
+* safer
+* brighter
+* more power efficient
