@@ -1,5 +1,6 @@
 html { background-color: blue; }
 abbr[title], acronym[title] { border-bottom: dotted 1px; }
+
 body {
 	/* https://www.youtube.com/watch?v=299RZ0d1LQY */
 	font-family: "Segoe UI", "Seravek", sans-serif;
@@ -11,8 +12,6 @@ body {
 h1, h2, h3, h4, h5, h6 { font-family: "Noto Serif", "Athelas", "Palatino", serif; }
 
 aside { -webkit-text-size-adjust: auto }
-
-p { margin: 0; }
 
 pre { overflow: auto; }
 
@@ -43,4 +42,3 @@ article img { max-width: 100%; }
 footer { width: 50%; align-items: center; display: flex; justify-content: space-around; font-size: 0.8em; margin-left: auto; margin-right: auto; }
 
 li { list-style-position:inside; }
-
