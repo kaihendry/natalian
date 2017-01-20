@@ -1,6 +1,9 @@
 [[!meta title="Subversion homedir" ]]
 [[!meta date="2005-05-27 16:15:07" ]]
 [[!tag subversion Travel Debian]]
+
+UPDATE: My $HOME for my dotfiles is now <https://github.com/kaihendry/dotfiles>
+
 <p>Inspired by <a href="http://www.kitenet.net/~joey/svnhome.html">Joey Hess</a> in the past couple of years I have had my homedir in a subversion repositry. I <a href="http://dabase.com/e/01060/">tipped</a> about this a while back, but I thought I should give the topic some blog treatment.</p>
 
 <p>When I move to a new machine in $HOME:</p>
@@ -37,7 +40,7 @@ svn co svn+ssh://<a href="mailto:hendry@hendry.iki.fi">hendry@hendry.iki.fi</a>/
 
 <p>I don&#8217;t keep my Maildir (mail archives) in the repo because I filter mails through Gmail and use offlineimap/mairix dumps from my  <span class="caps">IMAP</span> server on whatever machine I read mail from. So there tends to be copies or backups of my Mail.</p>
 
-<p>Browse my <a href="http://svn.natalian.org">public repository</a> to learn more.</p>
+<p>Browse my <a href="https://github.com/kaihendry">public repository</a> to learn more.</p>
 
 <p>It isn&#8217;t perfect.</p>
 
@@ -47,7 +50,7 @@ svn co svn+ssh://<a href="mailto:hendry@hendry.iki.fi">hendry@hendry.iki.fi</a>/
 <li>Subversion can&#8217;t handle symlinks. Arse. (Update: Oh, it can now)</li>
 </ul>
 
-<p>I had some awful problems keeping .mozilla in there, in order to maintain my bookmarks. Now I am keeping them with <a href="http://del.icio.us/hendry">delicious.</a></p>
+<p>I had some awful problems keeping .mozilla in there, in order to maintain my bookmarks. Now I am keeping them with <strike><a href="http://del.icio.us/hendry">delicious.</a></strike> <a href=https://pinboard.in/u:hendry>Pinboard!</a></p>
 
 <p>I don&#8217;t keep binary files like porn or mp3s in there. I back them up occasionally with rsync like so:<br />
 <pre><br />

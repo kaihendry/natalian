@@ -1,14 +1,16 @@
 [[!meta title="md5sum rss feed" ]]
 [[!meta date="2005-12-21 14:25:51" ]]
 [[!tag Debian]]
-<p>Idea: Upstream publishes md5sums of releases which Debian can check with.</p>
 
-<p>Pros<br />
-* This makes it easier for maintainers<br />
-* Better security for users<br />
-* Piece of mind for upstream</p>
+Idea: Upstream publishes md5sums of releases which Debian can check with.
 
-<p>Cons<br />
-* Upstream will probably need some tool to generate the <span class="caps">RSS</span><br />
-* Non-trivial to parse <span class="caps">RSS</span><br />
-* Version number mismatch</p>
+## Pros
+* This makes it easier for maintainers
+* Better security for users
+* Piece of mind for upstream
+
+## Cons
+
+* Upstream will probably need some tool to generate the <a href="https://en.wikipedia.org/wiki/RSS">RSS</a>
+* Non-trivial to parse <a href="https://en.wikipedia.org/wiki/RSS">RSS</a>
+* Version number mismatch
