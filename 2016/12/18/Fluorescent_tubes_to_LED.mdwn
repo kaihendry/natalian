@@ -30,3 +30,9 @@ lamps](https://en.wikipedia.org/wiki/Fluorescent_lamp), LED is:
 * safer
 * brighter
 * more power efficient
+
+Cons:
+
+* Not dimmable
+* Limited colour ranges (more warm in my experience)
+* Little LEDs can look a little odd in [g24d LED configurations](https://www.youtube.com/watch?v=y9nL2z3cCXc)

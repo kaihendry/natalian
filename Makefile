@@ -46,9 +46,9 @@ $(OUTPUT)/style.css: style.css
 
 # http://natalian.s3-website-ap-southeast-1.amazonaws.com/
 upload: $(OUTPUT)/index.html $(OUTPUT)/style.css
-	@aws s3 website s3://natalian/ --index-document index.html --error-document 404.html
-	@aws s3 sync --content-encoding gzip --size-only --exclude .htaccess --cache-control="max-age=86400" --storage-class STANDARD_IA --acl public-read $(OUTPUT)/ s3://natalian/
-	@aws cloudfront create-invalidation --distribution-id E2AXSD6P2TRMEA --invalidation-batch "{ \"Paths\": { \"Quantity\": 1, \"Items\": [ \"/*\" ] }, \"CallerReference\": \"$(shell date +%s)\" }"
+	@aws s3 --profile mine website s3://natalian/ --index-document index.html --error-document 404.html
+	@aws s3 --profile mine sync --content-encoding gzip --size-only --exclude .htaccess --cache-control="max-age=86400" --storage-class STANDARD_IA --acl public-read $(OUTPUT)/ s3://natalian/
+	@aws --profile mine cloudfront create-invalidation --distribution-id E2AXSD6P2TRMEA --invalidation-batch "{ \"Paths\": { \"Quantity\": 1, \"Items\": [ \"/*\" ] }, \"CallerReference\": \"$(shell date +%s)\" }"
 
 clean:
 	@rm -rf $(OUTPUT) index.rss index.atom
