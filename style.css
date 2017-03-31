@@ -1,5 +1,4 @@
 html { background-color: blue; }
-abbr[title], acronym[title] { border-bottom: dotted 1px; }
 
 body {
 	/* https://www.youtube.com/watch?v=299RZ0d1LQY */
@@ -28,6 +27,9 @@ time {
 
 article > p:first-of-type::first-letter { -webkit-initial-letter: 2; initial-letter: 2; }
 
+/* Don't let images overflow */
+img { max-width: 100%; height: auto; }
+
 article {
 	max-width: 50em;
 	position: relative;
@@ -36,7 +38,6 @@ article {
 	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
-article > * { max-width: 100%; }
 article video { width: 100% }
 
 footer { width: 50%; align-items: center; display: flex; justify-content: space-around; font-size: 0.8em; margin-left: auto; margin-right: auto; }
