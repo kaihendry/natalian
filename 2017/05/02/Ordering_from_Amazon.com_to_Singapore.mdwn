@@ -1,0 +1,25 @@
+[[!meta title="Notes for ordering Amazon products from Singapore"]]
+[[!meta description="There are quite a few gotchas to ordering things abroad from Singapore"]]
+
+1. [Choose items that can be shipped](https://www.amazon.com/gp/help/customer/display.html?nodeId=201117930)
+2. Import & Customs
+3. Currency conversion
+4. [Shipping and handling](https://www.amazon.com/gp/help/customer/display.html?nodeId=202053180)
+
+# Import fees
+
+Amazon asks this up front in the form of a [Import fees
+deposit](https://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-1?ie=UTF8&nodeId=201910710&qid=1493693725&sr=1-1),
+which is an estimation, when your value goes above 400SGD (including shipping).
+
+You must [spend less than 400SGD to be granted GST relief](https://www.customs.gov.sg/businesses/importing-goods/import-procedures/importing-by-post-or-courier-service).
+
+# Shipping and handling
+
+AmazonGlobal standard shipping seems to take about 2 weeks on my experience.
+You might be eligible for free shipping if the total order is above 125USD.
+
+# Conclusion
+
+Use Amazon when you can afford to wait two weeks, and spend > 125USD but not
+more than 400SGD (~285USD).
