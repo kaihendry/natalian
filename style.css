@@ -41,5 +41,3 @@ article {
 article video { width: 100% }
 
 footer { width: 50%; align-items: center; display: flex; justify-content: space-around; font-size: 0.8em; margin-left: auto; margin-right: auto; }
-
-li { list-style-position:inside; }
