@@ -1,14 +1,15 @@
 [[!meta title="AWS annoyances"]]
-[[!meta description="List of issues I have was AWS currently"]]
+[[!meta description="List of issues I have was Amazon Web Services currently"]]
 
 
 1. Unpredictable region roll out. When will Singapore get AWS Batch for e.g.?
 
-1. Wrapping your head around regions first... how some things like ACM only seems to work in us-east-1.
+1. Wrapping your head around regions first... how some things like ACM only
+   seems to work in us-east-1. $SERVICE/$REGION might have been a better structure.
 
 1. Autoscaling and load balancer seem poorly connected, no CloudWatch Per Autoscaling Group
 
-1. No way to track [memory exhaustion](https://twitter.com/kaihendry/status/876657690780598272)
+1. No way to track [memory exhaustion](https://twitter.com/kaihendry/status/876657690780598272) .. I have found [AWS mon-scripts](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/mon-scripts.html) but I wish it was easier than this...
 
 1. [Launch time != Uptime](https://twitter.com/kaihendry/status/876658250485248000)
 
@@ -17,9 +18,9 @@
 
 1. You can't seem to query CloudWatch metrics by tag
 
-1. Amazon Linux doesn't support SystemD
+1. Amazon Linux doesn't support [SystemD](https://en.wikipedia.org/wiki/Systemd)
 
-1. Amazon Linux only updates on boot, so you probably need to rotate out your service
+1. Amazon Linux only updates on boot, so you must plan to rotate out your service.
 
 1. Cloud Formation lag, making it difficult to orchestrate stuff. By the time it
    does come available, you've long forgotten about your manual process.
@@ -32,16 +33,22 @@
 service to tighten IAM policies based on usage is sorely needed.
 
 1. AMIs should be more like Docker images, i.e. infra as code, treated like
-	cattle. AMI snapshots and **systems manager services** patching doesn't
-seem to make sense to me.
+   _cattle_. AMI snapshots and **systems manager services** patching seems like treating your infra like _pets_ to me.
 
-1. Redirects in S3 can be quite unreasonably painful. Same goes for setting up
-	CORS. Or cloudfront for that matter. Should be far more streamlined.
+1. Redirects in S3 can be quite unreasonably painful. Same goes for setting up CORS. Or cloudfront for that matter. Should be far more streamlined. AWS@Edge will hopefully paste over these cracks.
 
-1. Debugging Lambda is such an incredible pain right now.
+1. Debugging Lambda is such an **incredible pain** right now. Better Cloudwatch
+   integration (error in Lambda? show me the exact log for the corresponding
+request id!!!) and at least storing events for replaying would be nice.
 
-1. AWS Marketplace sellers only available to US incorporated business
+1. AWS Marketplace sellers only available to US incorporated business and it is (currently)
+   not suited for a range of [solutions on the AWS platform](https://github.com/apex/up/issues/3#issuecomment-311531145)..
 
-1. AWS has a lot of services which are probably best done by third parties and they should focus on core commodified services.
+1. AWS has a lot of services (code build stuff that rivals github/travis that
+   comes to mind) which are probably best left to third parties (at least
+properly encourage an ecosystem!) and they should focus on core commodified
+services (like a better DynamoDB/S3).
 
-1. I've had a terrible experience with AWS ECS. Could I be coaxed to give it another try?
+1. I've had a [terrible experience with AWS
+   ECS](https://github.com/aws/amazon-ecs-cli/issues/136). Could I be coaxed to
+give it another try?
