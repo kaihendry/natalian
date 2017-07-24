@@ -1,0 +1,24 @@
+[[!meta title="Please do not kill email"]]
+[[!meta description="Businesses often pollute email communication, & move to other proprietary platforms like Facebook or IOS notifications."]]
+
+You'll miss email when it's gone. Replaced with some proprietary messaging like
+Facebook or Twitter.
+
+Businesses must use email better!
+
+* Allow for attachments or better still, use clean URLs. There have been times
+  when I've communicated with customer services who are unable to open
+attachments.
+
+* Do not use auto-responders, they pollute with noise.
+
+* Reply QUICKLY. Singapore government seem to think 2 weeks is OK for email, but 2 hours is used with Facebook. WHY?
+
+* Ensure the text counterpart of an email exists! Or better still, just keep it
+  in plain text. Don't pollute with noisy HTML and nonsense graphics and
+footers.
+
+* Teach your employees basic email etiquette. Sometimes emails are quoted and
+  replied inline if they contain several points. There have been times when
+I've received a reply saying my email is empty, though what I did was quote and
+reply!

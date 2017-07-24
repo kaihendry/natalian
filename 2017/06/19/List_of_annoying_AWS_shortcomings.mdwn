@@ -1,6 +1,9 @@
 [[!meta title="AWS annoyances"]]
 [[!meta description="List of issues I have was Amazon Web Services currently"]]
 
+AWS is the very best Cloud platform out there, but that mean I can't whine, right?
+
+<img src="https://s.natalian.org/2017-06-29/AmazonWebservices_Logo.svg" alt="Amazon Web services logo">
 
 1. Unpredictable region roll out. When will Singapore get AWS Batch for e.g.?
 
@@ -27,7 +30,10 @@
 
 1. DynamoDB throughput exceeded... this happens even on autoscaled managed instances in my experience!
 
-1. [DynamoDB JSON](https://stackoverflow.com/questions/44535445/unmarshall-dynamodb-json) Why... WHY!?
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My DynamoDB <a href="https://twitter.com/hashtag/awswishlist?src=hash">#awswishlist</a><br>1. filter THEN limit during query/scan<br>2. unique secondary indexes<br>3. no provisioned throughput</p>&mdash; Rich Buggy (@richbuggy) <a href="https://twitter.com/richbuggy/status/880325372092465152">June 29, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+11. [DynamoDB JSON](https://stackoverflow.com/questions/44535445/unmarshall-dynamodb-json) Why... WHY!?
 
 1. [IAM policies are a total PITA](https://twitter.com/kaihendry/status/857777338632646657). An ongoing
 service to tighten IAM policies based on usage is sorely needed.
@@ -52,3 +58,6 @@ services (like a better DynamoDB/S3).
 1. I've had a [terrible experience with AWS
    ECS](https://github.com/aws/amazon-ecs-cli/issues/136). Could I be coaxed to
 give it another try?
+	* Clusters are limited by initial machine type choice
+	* Difficult to gauge what the limits are, esp on high load systems
+	* The task placement and service abstraction is over engineered. I want to **simply map docker images onto EC2 resources**!!
