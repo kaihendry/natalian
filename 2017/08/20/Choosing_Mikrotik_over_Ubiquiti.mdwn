@@ -55,32 +55,58 @@ Attractively [Mikrotik does have the ability to kick off
 clients](https://blog.linitx.com/howto-improved-capsman-wireless-client-roaming/)
 but I didn't have time to try it.
 
-# TODO
+# Update: QoS
 
-Figure out **queues** so I can make sure my upload line doesn't get fully
-saturated. And somehow prioritise Facetime.
+Thanks to Paul Hendry who contacted me over email and introduced [Queue
+tree](https://wiki.mikrotik.com/wiki/Manual:Queue#Queue_Tree) to me. I have
+turned this A&A control graph:
 
 <img src="https://s.natalian.org/2017-08-14/blue-flame.png" alt="Saturated line">
 
-I wish it was easier to set up QoS. Doesn't help that my line syncs at
-different speeds depending which way the wind blows!
+to
 
-	4 Aug 15:13:50		Tx rate (adjusted) 17647481 to 18889294 (rx 1396000)
-	2 Aug 01:20:05		Tx rate (adjusted) 18281640 to 17647481 (rx 1488000)
-	31 Jul 14:18:49		Tx rate (adjusted) 18332687 to 18281640 (rx 1488000)
-	31 Jul 12:41:27		Tx rate (adjusted) 17420715 to 18332687 (rx 1396000)
-	31 Jul 04:37:44		Tx rate (adjusted) 18208015 to 17420715 (rx 1492000)
-	29 Jul 00:00:53		Tx rate (adjusted) 18912854 to 18208015 (rx 1416000)
+<img src="https://s.natalian.org/2017-12-08/under-control.png" alt="QoS line">
+
+Crucially I always thought a modem could work out when and where it's being
+saturated with the upstream (max-limit), but Paul points out:
+
+	QoS only kicks in when a link is being saturated. The router thinks it has a
+	100mb ethernet port to play with so would never queue traffic going out to your
+	DSL modem.
+
+
+So I know my parent's line is syncing with an upstream like so:
+
+	2017-11-09 Down:20.8 (20.7/20.8/23.1) Up:1.4 (1.4/1.4/1.5)
+	2017-09-04 Down:19.0 (18.7/18.9/19.0) Up:1.5 (1.2/1.4/1.4)
+	2017-08-15 Down:19.3 (18.0/19.0/19.2) Up:1.4 (1.3/1.4/1.4)
+
+With Paul's help I've successfully sorted out my Apple Facetime issues with:
+
+	/queue tree
+	add max-limit=1448k name=Upload parent=AAISP queue=default
+	add limit-at=800k max-limit=800k name=Upload-UDP packet-mark=UDP parent=Upload
+	add name=Upload-Else packet-mark=Else parent=Upload queue=default
+
+This is explained by Paul as:
+
+	The (above) will set a maximum upload of 1.4Mbps on your PPPoE interface and
+	allow everyone to upload to the full 1.4M except when UDP wants to upload then
+	UDP gets up to 800Kbps whilst everyone else gets throttled back to what's left.
+
+[My full Mikrotik configuration](https://s.natalian.org/2017-12-08/config.txt)
 
 ## Accounting
 
-Create a "passthrough" firewall to keep a counter on each IP's bandwidth usage.
+My dream would to have a table of each named client and their usage. Currently
+I'm torching and matching the IP with the DHCP client table manually. What an
+utter PITA!
 
 # Conclude
 
 I wish Mikrotik software was more open & didn't have this license weirdness..
 Hopefully that would reshape the community and its software. For example, a
-consumer device with [ Bottleneck Bandwidth and Round-trip propagation time
+consumer device with [Bottleneck Bandwidth and Round-trip propagation time
 Congestion
 Control](https://www.reddit.com/r/mikrotik/comments/6t8zpi/does_mikrotik_have_any_congestion_control_like_bbr/)
 would be.. nice!
