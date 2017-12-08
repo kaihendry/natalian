@@ -1,0 +1,93 @@
+[[!meta title="Choosing Mikrotik over Ubiquiti for a roaming setup"]]
+[[!meta description="Notes on Praze Farm's Mikrotik setup."]]
+
+<img src="https://s.natalian.org/2017-08-20/1503221661_2558x1438.png" alt="Mikrotik Caps Manager">
+
+Mikrotik unexpectedly cost me many hours of experimenting and learning to
+setup. Was it worth it over using Ubiquiti?
+
+Probably not, though I did learn a lot more about networking in the process.
+
+Here is the [configuration that took me a long time to create for Praze
+Farm](https://www.reddit.com/r/mikrotik/comments/6rq85t/aa_hap_lite_configuration_for_home/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FnVU0LMtv18?rel=0" frameborder="0" allowfullscreen></iframe>
+
+# Winbox
+
+<img src="https://s.natalian.org/2017-08-20/winbox.png" alt="Winbox on Archlinux">
+
+You can get `wine /usr/share/winbox/winbox.exe` running under Archlinux, and
+you need to use this tool if your device has some issue getting an IP address.
+
+I do prefer to use a Web interface, but if you find the Web interface doesn't
+work, do quickly try Winbox, you might be surprised that it works better!
+
+# Avoid Quickset
+
+Mikrotik's [modes are not sufficiently well
+documented](https://wiki.mikrotik.com/wiki/Manual:Quickset) and I have had bad
+experiences where I've applied them and it messed up my configuration in an
+unexpected way.
+
+# Firewall interface sucks
+
+Even the cheapest routers have an easier to use Firewall interface than
+Mikrotik. Would be good if that had some sane wizard at the very least to get
+you up and running and your port 22 protected!
+
+# <abbr title="Power over Ethernet ">PoE</abbr> is cool
+
+Stringing along another access point without the need to worry about powering
+it, is useful. However I do wish there was PoE camera hardware offered by
+Mikrotik too.
+
+# Roaming
+
+My wifi at home is open and you don't need to authenticate. So I am not if
+Ubiquiti's claims of [Fast
+roaming](https://help.ubnt.com/hc/en-us/articles/115004662107-UniFi-Fast-Roaming)
+have merit. Apple [seems to say it is all a client side
+decision](https://support.apple.com/en-sg/HT203068) how to move between Access
+Point stations.
+
+Attractively [Mikrotik does have the ability to kick off
+clients](https://blog.linitx.com/howto-improved-capsman-wireless-client-roaming/)
+but I didn't have time to try it.
+
+# TODO
+
+Figure out **queues** so I can make sure my upload line doesn't get fully
+saturated. And somehow prioritise Facetime.
+
+<img src="https://s.natalian.org/2017-08-14/blue-flame.png" alt="Saturated line">
+
+I wish it was easier to set up QoS. Doesn't help that my line syncs at
+different speeds depending which way the wind blows!
+
+	4 Aug 15:13:50		Tx rate (adjusted) 17647481 to 18889294 (rx 1396000)
+	2 Aug 01:20:05		Tx rate (adjusted) 18281640 to 17647481 (rx 1488000)
+	31 Jul 14:18:49		Tx rate (adjusted) 18332687 to 18281640 (rx 1488000)
+	31 Jul 12:41:27		Tx rate (adjusted) 17420715 to 18332687 (rx 1396000)
+	31 Jul 04:37:44		Tx rate (adjusted) 18208015 to 17420715 (rx 1492000)
+	29 Jul 00:00:53		Tx rate (adjusted) 18912854 to 18208015 (rx 1416000)
+
+## Accounting
+
+Create a "passthrough" firewall to keep a counter on each IP's bandwidth usage.
+
+# Conclude
+
+I wish Mikrotik software was more open & didn't have this license weirdness..
+Hopefully that would reshape the community and its software. For example, a
+consumer device with [ Bottleneck Bandwidth and Round-trip propagation time
+Congestion
+Control](https://www.reddit.com/r/mikrotik/comments/6t8zpi/does_mikrotik_have_any_congestion_control_like_bbr/)
+would be.. nice!
+
+Better support. Ubiquiti's support surprisingly has fast, responsive support
+compared to emailing Mikrotik. Perhaps tools that were able to load a
+`supout.rif` and to simulate RouterOS could help troubleshoot problems without
+requiring a "consultant"?
+
+Mikrotik, how about having a public <abbr title="Bug Tracking System">BTS</abbr>?

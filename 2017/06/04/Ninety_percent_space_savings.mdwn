@@ -1,6 +1,7 @@
 [[!meta title="Ninety two percent space savings"]]
 [[!meta description="Finding ffmpegs re-encoding can result in remarkable space savings, but what is lost?"]]
 
+
 Using my script
 [htmlvideo](https://github.com/kaihendry/recordmydesktop2.0/blob/master/htmlvideo)
 around the amazing [ffmpeg project's binary](https://ffmpeg.org/):
@@ -13,10 +14,11 @@ file](http://www.adobe.com/devnet/video/articles/mp4_movie_atom.html).
 
 [input ffprobe](https://s.natalian.org/2017-06-04/input.txt)
 
-<video src=https://s.natalian.org/2017-06-04/MVI_4827.mp4 controls></video>
+<amp-video poster=https://s.natalian.org/2017-10-06/poster.jpg
+width=1920 height=1080 layout="responsive" src=https://s.natalian.org/2017-06-04/MVI_4827.mp4 controls></amp-video>
 [output ffprobe](https://s.natalian.org/2017-06-04/output.txt)
 
-<img src=https://s.natalian.org/2017-06-04/diff.png alt="vimdiff">
+<amp-img layout="responsive" width=2560 height=1440 src=https://s.natalian.org/2017-06-04/diff.png alt="vimdiff"></amp-img>
 
 bitrate: 35115 kb/s &rarr; bitrate: 3037 kb/s, using the default Constant Rate
 Factor of 23. Additionally `-crf 20 -preset veryslow -tune film` might make

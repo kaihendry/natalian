@@ -1,16 +1,20 @@
-html { background-color: blue; }
+html { background-color: #F0F8FF; }
 
 body {
 	/* https://www.youtube.com/watch?v=299RZ0d1LQY */
 	font-family: "Segoe UI", "Seravek", sans-serif;
 	background-color: white;
-	margin: 0;
 	min-height: 100vh;
 	position: relative;
 }
+
+@media screen and (min-width: 800px) {
+	body { padding: 7vmin; }
+}
+
 h1, h2, h3, h4, h5, h6 { font-family: "Noto Serif", "Athelas", "Palatino", serif; }
 
-aside { -webkit-text-size-adjust: auto }
+aside { -webkit-text-size-adjust: auto; overflow: hidden; }
 
 pre { overflow: auto; }
 
@@ -37,6 +41,8 @@ article {
 	padding: 0 1.5em 3%;
 	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
+
+a { text-decoration: none !important; }
 
 article video { width: 100% }
 

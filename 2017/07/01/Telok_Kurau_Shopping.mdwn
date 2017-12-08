@@ -1,6 +1,10 @@
 [[!meta title="Telok Kurau shopping"]]
 [[!meta description="Notes on purchasing food in the East of Singapore"]]
 
+
+<script async custom-element="amp-instagram" src="https://cdn.ampproject.org/v0/amp-instagram-0.1.js"></script>
+
+
 This is an update of [Singapore home
 cooking](https://natalian.org/2015/06/09/Singapore_home_cooking/). I'm now
 living in the fabulous Telok Kurau area. Easy access to the city. **Quiet**.
@@ -26,6 +30,14 @@ salmon](https://www.ohdeli.com.sg/shop-now/fresh-fish-smoked-fish.html).
 
 However Oh Deli do pretty amazing Smoked salmon.
 
+# Honey
+
+I buy from the same place the RedMart buys from
+<https://www.nature2000.com.sg/>.
+
+Order [over 100SGD and get delivery
+free](https://s.natalian.org/2017-09-15/honeyorder.png).
+
 # Bread
 
 Farmer's bread loaf from German bakery <http://www.wernersoven.com.sg/> is still the family
@@ -45,11 +57,16 @@ gelato](http://momolato.com/) which is unnervingly incredible.
 
 # Meat
 
-Service is good at Oh Deli, but I've heard Foodie Market Place is now
-conveniently open at 313 Tanjong Katong Road Singapore 437096.
+Service is good at Oh Deli, though Foodie Market Place is now conveniently open
+at 313 Tanjong Katong Road Singapore 437096 and their Black Angus is AWESOME.
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BWuo-45FxDJ/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">OhDeli beef prices beaten!</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by Kai Hendry (@kaihendry) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-07-19T12:50:06+00:00">Jul 19, 2017 at 5:50am PDT</time></p></div></blockquote>
-<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+<amp-instagram
+    data-shortcode="BWuo-45FxDJ"
+    data-captioned
+    width="400"
+    height="400"
+    layout="responsive">
+</amp-instagram>
 
 I have been meaning to order <https://hubers.com.sg/> online, but I found it
 too difficult to choose. I wish I could set a budget of say 100SGD a week and
@@ -73,13 +90,16 @@ despite their online service being a fiasco. It's got to the point where I just
 WhatsApp an employee named John instead of dealing with their [broken online
 plans](http://www.papapalheta.com/mustdrinkcoffee/plans) and the fact their
 online system seems to forget about my request to grind the beans every second
-order. Nevermind the fact no one seems to answer their email there. Their
+order. Never mind the fact no one seems to answer their email there. Their
 product is excellent, so I am reluctant to try something else.
 
 # Wish list
 
-I've heard a rumour AmazonFresh is coming to Singapore and that will no doubt
-be awesome. I honestly don't understand why anyone would shop at
+[Amazon Prime Now](https://www.amazon.com.sg/primenow) are here, but I don't
+like how the ordering process is App only. I need the Web and its links to
+approve my purchases with my wife!
+
+I honestly don't understand why anyone would shop at
 <https://coldstorage.com.sg/> since their products and prices are simply
 uncompetitive for me. I do day dream about a German competitor like Aldi or
 Lidl entering the market. Yes, I actually like their products and price points
