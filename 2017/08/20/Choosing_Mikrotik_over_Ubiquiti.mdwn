@@ -1,6 +1,12 @@
 [[!meta title="Choosing Mikrotik over Ubiquiti for a roaming setup"]]
 [[!meta description="Notes on Praze Farm's Mikrotik setup."]]
 
+<blockquote
+cite="https://www.youtube.com/watch?v=FnVU0LMtv18&lc=UgwYMTyhzHe-7olEAz54AaABAg.8WpDlmU6uCA8XFQo3amDEV">MikroTik
+devices provide a very poor configuration experience, as there is not really a
+"right way" to do something but rather everything feels like a
+workaround.</blockquote>
+
 <img src="https://s.natalian.org/2017-08-20/1503221661_2558x1438.png" alt="Mikrotik Caps Manager">
 
 Mikrotik unexpectedly cost me many hours of experimenting and learning to
@@ -74,7 +80,6 @@ saturated with the upstream (max-limit), but Paul points out:
 	100mb ethernet port to play with so would never queue traffic going out to your
 	DSL modem.
 
-
 So I know my parent's line is syncing with an upstream like so:
 
 	2017-11-09 Down:20.8 (20.7/20.8/23.1) Up:1.4 (1.4/1.4/1.5)
@@ -88,6 +93,10 @@ With Paul's help I've successfully sorted out my Apple Facetime issues with:
 	add limit-at=800k max-limit=800k name=Upload-UDP packet-mark=UDP parent=Upload
 	add name=Upload-Else packet-mark=Else parent=Upload queue=default
 
+IIUC this guarantees (800k) UDP traffic to Apple Facetime!
+
+Could it be better?
+
 This is explained by Paul as:
 
 	The (above) will set a maximum upload of 1.4Mbps on your PPPoE interface and
@@ -95,6 +104,18 @@ This is explained by Paul as:
 	UDP gets up to 800Kbps whilst everyone else gets throttled back to what's left.
 
 [My full Mikrotik configuration](https://s.natalian.org/2017-12-08/config.txt)
+
+Sidenote: Other Mikrotik users recommened I just prioritise the traffic instead of limiting. This is the wrong approach! Paul explains:
+
+	The problem with using priority is it doesn't guarantee the traffic, it just
+	increases the probability. Both child queues have to refer to the parent queue
+	to make the decision. Also, a child queue with no packet mark won't match any
+	packets so all the below will do is limit only UDP and allow everything else to
+	max the line out. Kinda the opposite of what you are looking to do ;)
+
+There seems to be a [vast amount of ways of doing QoS in
+Mikrotik](https://youtu.be/DLB2pG26dhk?t=592), though thankfully the Queue tree
+above seems to be working!
 
 ## Accounting
 
