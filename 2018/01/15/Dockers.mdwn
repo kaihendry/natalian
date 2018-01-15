@@ -1,0 +1,73 @@
+[[!meta title="Deciphering Dockers designs"]]
+[[!meta description="Quest to get reproducible clothing going"]]
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendry/39670623972/in/datetaken/" title="Smartphone pocket"><img src="https://farm5.staticflickr.com/4716/39670623972_fb61a866b1_z.jpg" width="640" height="361" alt="Smartphone pocket"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+So I'm one of those tame chumps who always has a pair of khaki shorts and
+pants to hand.
+
+I'm not loyal to Dockers or Levi Strauss for that matter, but the choice for
+sub-100SGD options that don't suck are slim. I quite enjoyed a Uniqlo pair, but
+when I last looked in, they don't have this **basic** in stock (might they in
+stock in Spring?). [Ralph Lauren](https://www.ralphlauren.asia/en/) I find are
+way too expensive, especially since I generally screw up my pants since I cycle
+in them and what not. Their fabrics and finishings are a little too fine.
+
+So I've noticed [Docker do have a Website in Singapore](http://www.dockers.com.sg/SG/en_GB/) but it seems mostly broken.
+Also [Lazada host a Dockers store](https://www.lazada.sg/dockers/) which should be more reliable.
+
+# Shorts
+
+59SGD which at the time of writing is about 45USD
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2018-01-15/shorts.jpeg" alt="Shorts">
+
+[Same price on Lazada](https://www.lazada.sg/dockers-the-perfect-short-classic-fit-sand-dune-94561473.html), however the colour looks a bit brighter. Couldn't find the exact colour after searching for "shorts dockers classic fit".
+
+What frustrates me is Lazada's identifiers
+* SKU DO210FAABKAS3LSGAMZ-124972205
+* MODEL 35412
+
+Does not correspond to the 345120662 or 9602653375662 barcode, or any of the labels inside the shorts. What gives?!
+
+Has anyone managed to decipher Docker's code?
+
+# Trousers or pants
+
+I'm not a fan of slim fits. Straight fit seems the most sensible. The roomier "Classic" has pleats which puts 10 years on me.
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2018-01-15/pants.jpeg" alt="Pants">
+
+"THIS PRODUCT IS NO LONGER AVAILABLE." on [Docker official
+Website](http://www.dockers.com.sg/SG/en_GB/category/men/pants/fit/straight/)
+... whoa no Dockers at Dockers!
+
+On Lazada they are listed as 39SGD! A 65% saving on the _in store price_ of 109SGD. Unfortunately despite having two listings:
+* <https://www.lazada.sg/dockers-signature-khaki-straight-pants-british-khaki-26604722.html> only 30", 31" or 32" waist
+* <https://www.lazada.sg/dockers-signature-khaki-straight-pants-british-khaki-31463574.html> only 29" waist
+
+Bugger! I need 36"!
+
+I found the [style
+476990008](http://www.dockers.com.sg/US/en_US/men/p/476990008) on the US store
+for 43USD, which is about 60SGD. Whoa, this is almost half the price of what it
+is in Singapore!
+
+# Cotton mix
+
+So they're adding [Spandex](https://en.wikipedia.org/wiki/Spandex) to trousers
+now. I'm interested but I think since it clings too my chunky legs and I'm
+often a sweaty mess in Singapore, I reckon I should give them a miss.
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2018-01-15/workday.jpeg" alt="Workday khaki">
+
+And they are more expensive. I do like the zipped pocket though. That's super useful when riding.
+
+I found them on [Lazada](https://www.lazada.sg/dnkrdockers-mens-straight-fit-workday-khaki-smart-360-flex-pants-d2-new-british-khakistretch-36w-x-32l-intl-80204732.html) with a search for [workday dockers](https://www.lazada.sg/shop-men-chinos/?q=workday+dockers&from=input). However the store [is not Dockers](https://www.lazada.sg/dnkr-shop/?spm=a2o42.prod.0.0.2789915DYbdp1) and they have no stock.
+
+Sigh. Online shopping fail.
+
+After Googling around I did succeed in finding the Style number:
+[362720001](http://www.dockers.com/US/en_US/dockers/p/362720001). Now I pray
+they keep these styles consistent. Unfortunately I don't think it's in their
+best interests to do that.

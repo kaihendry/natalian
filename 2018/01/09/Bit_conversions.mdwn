@@ -1,0 +1,39 @@
+[[!meta title="Computer units"]]
+[[!meta description="Writeup of a common point of confusion for me with Computer units"]]
+
+A common source of confusion for me is conversions of units in Computer science.
+
+It also doesn't help that Google interprets [kilobit per
+second](https://en.wikipedia.org/wiki/Data_rate_units#Kilobit_per_second) kb/s
+incorrectly as [kilobyte per
+second](https://en.wikipedia.org/wiki/Data_rate_units#Kilobyte_per_second).
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">WAIT A MINUTE, 33729 kb/s to Mbps is ~33 Mbps... How do people distinguish between Megabit and Megabyte !?! <a href="https://t.co/yX3gV6cLzT">pic.twitter.com/yX3gV6cLzT</a></p>&mdash; Kai Hendry 🇸🇬 (@kaihendry) <a href="https://twitter.com/kaihendry/status/950532227242307586?ref_src=twsrc%5Etfw">January 9, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# How to cope
+
+There are 8 bits in a byte. Always (ref IEC 80000-13). Use bytes. I prefer
+[decimal units of
+bytes](https://en.wikipedia.org/wiki/Data_rate_units#Decimal_multiples_of_bytes)
+as a rule, but unfortunately some markets like
+[video](https://support.google.com/youtube/answer/1722171?hl=en) and internet
+speeds commonly use bits.
+
+# Why are they using bits?
+
+Because way back in the day stuff ran so slowly that you measured stuff in
+bits. And to add to the confusion, in the 80s, 1 byte wasn't definitely 8 bits.
+So using bits was more absolute.
+
+Bigger numbers sound more impressive in bits unfortunately. 100Mbps sounds way
+more impressive than 12.5MBps. Though in reality you care about how many
+**megabytes** a second you are shifting. Btw there are 1000 Megabytes in a
+Gigabyte.
+
+# Be aware of the confusion threshold
+
+Have a look at these [bitrate
+examples](https://en.wikipedia.org/wiki/Data_rate_units#Examples_of_bit_rates).
+
+Notice we go from Gbit/s (BITS!) to MB/s (8*BITS=BYTES!). Be aware!
