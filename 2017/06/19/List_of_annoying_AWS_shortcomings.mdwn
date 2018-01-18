@@ -61,3 +61,5 @@ give it another try?
 	* Clusters are limited by initial machine type choice
 	* Difficult to gauge what the limits are, esp on high load systems
 	* The task placement and service abstraction is over engineered. I want to **simply map docker images onto EC2 resources**!!
+	* Need to change Dockerfile's port? Prepare to completely redo your service
+	* [Slow to deploy](https://twitter.com/kaihendry/status/946741502914342912) versus almost instant Lambda update
