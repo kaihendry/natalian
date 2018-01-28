@@ -1,0 +1,37 @@
+[[!meta title="DO Spaces versus AWS S3 in Singapore"]]
+[[!meta description="Comparing object storage in Singapore with the incumbent and the new comer"]]
+
+<img src="https://natalian.sgp1.digitaloceanspaces.com/2018-01-27/signup.png" alt="Spaces signup">
+
+Currently I have about 115GB upon **s.natalian.org** hosted in a public AWS S3
+bucket, prefixed my YYYY-MM-DD.  On average ~1GB is downloaded from it
+everyday. It hosts my screenshots and anything I'd like to share by URL.
+
+I don't allow file listings, so you need to know the full URL to object in
+order to view it.
+
+There is a lifecycle rule for the entire bucket to become Standard <abbr title="Infrequent access">IA</abbr>, which is
+[priced at](https://aws.amazon.com/s3/pricing/) $0.02 per GB per month. This
+works out to be 2.3USD a month.
+
+To complicate matters, I have Cloudfront in front of my bucket which often
+costs 5x more that the S3 storage costs. I prefer it since it allows me to
+distribute from the <https://s.natalian.org> SSL vanity URL and ensure a [fast
+experience for my worldwide audience](https://youtu.be/UtW26z0aTtY).
+
+# Enter Digital Ocean's spaces
+
+So currently I'm trailing Digital Ocean's 5USD dollar a month Spaces which
+includes 250GB and 1TB of outbound transfer. So it's already looking like 2x
+the 2.3USD I pay for AWS S3. Essentially the cost of storing data seems exactly
+the same as Standard-IA at **$0.02 per GB**, however <abbr title="Digital
+Ocean">DO</abbr> price in tiers. So you effectively pay up front unlike AWS's
+pay as you go.
+
+Nonetheless I am going to give it a go, since I feel like it will be the
+[_second_ fastest redundant S3 option I'll have in
+Singapore](https://blog.digitalocean.com/spaces-available-in-sgp1).
+
+Please click on my [digital ocean referral code](https://m.do.co/c/37b3b1850b32) if you are keen to give it a try too.
+
+I'll add information about how I will attempt to sync them up.
