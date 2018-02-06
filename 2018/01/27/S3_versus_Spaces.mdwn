@@ -49,24 +49,38 @@ Spaces and they recommended:
 
 However it doesn't work.
 
-rclone v1.39
-- os/arch: linux/amd64
-- go version: go1.9.2
+	rclone v1.39
+	- os/arch: linux/amd64
+	- go version: go1.9.2
 
-$ rclone ls spaces:natalian/
-2018/02/05 15:42:31 ERROR : 2018-01-27/: Entry doesn't belong in directory "2018-01-27" (same as directory) - ignoring
+	$ rclone ls spaces:natalian/
+	2018/02/05 15:42:31 ERROR : 2018-01-27/: Entry doesn't belong in directory "2018-01-27" (same as directory) - ignoring
 
-I am hitting https://github.com/ncw/rclone/issues/1816
+I am hitting: <https://github.com/ncw/rclone/issues/1816>
 
-
-time rclone sync s3:s.natalian.org spaces:natalian
-2018/02/05 15:39:54 ERROR : favicon.gif: Failed to copy: InvalidArgument:
-        status code: 400, request id: tx00000000000000000c8c0-005a780a4a-1a74a-sgp1a, host id:
+	time rclone sync s3:s.natalian.org spaces:natalian
+	2018/02/05 15:39:54 ERROR : favicon.gif: Failed to copy: InvalidArgument:
+			status code: 400, request id: tx00000000000000000c8c0-005a780a4a-1a74a-sgp1a, host id:
 
 and <https://forum.rclone.org/t/rclone-migration-error-from-amazon-s3-to-digital-ocean-spaces/4192/6>
 
-I've since filed this bug: https://github.com/ncw/rclone/issues/2049
+I've since filed this bug: <https://github.com/ncw/rclone/issues/2049>
 
 Using the `acl = private` workaround, it would appear I am copying via my local machine and sadly not direct! :(
 
 <img src=https://s.natalian.org/2018-02-05/copy.png>
+
+# Outbound transfer
+
+So I noticed whilst running `rclone sync -v s3:s.natalian.org spaces:natalian`,
+my AWS bill hit an alert. It looks like it will cost me 115 x $0.120= ~14USD to
+transfer all my data out of my bucket, for the initial backup. I worry for
+subsequent syncs, this also might be rather expensive!
+
+<img src="https://s.natalian.org/2018-02-06/1517904999_2558x1406.png" alt="S3 cost spike due to outbound transfer">
+
+And on closer inspection of [Digital Ocean pricing](https://www.digitalocean.com/pricing/), I surprisingly noticed, it's MUCH cheaper to transfer away!
+
+They give you 1TB free transfer and $0.01 per additional GB transferred! I am
+surprised they don't highlight this startling **price difference** between AWS S3 and DO
+Spaces.
