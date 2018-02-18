@@ -1,6 +1,12 @@
 [[!meta title="DO Spaces versus AWS S3 in Singapore"]]
 [[!meta description="Comparing object storage in Singapore with the incumbent and the new comer"]]
 
+<blockquote>
+DO are preying on the "people who pay for stuff but don't use it" market, whereas AWS is more the "pay for exactly what you use" market
+— <cite>Anonymous</cite>
+</footer>
+</blockquote>
+
 <img src="https://natalian.sgp1.digitaloceanspaces.com/2018-01-27/signup.png" alt="Spaces signup">
 
 Currently I have about 115GB upon **s.natalian.org** hosted in a public <abbr
