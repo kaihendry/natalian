@@ -1,0 +1,57 @@
+[[!meta title="DBS Ideal Threat detected"]]
+[[!meta description="Do banks actually test their banking applications?"]]
+
+As a SME business owner, I am absolutely dismayed how awful online banking is. How do companies cope?
+
+It's almost a **100 step process to see my balance online** with <abbr
+title="The Development Bank of Singapore">DBS</abbr>! There is no API access,
+except for one that [Xero](https://www.xero.com/sg/) wrangled and sometimes
+their bank feeds are missing transactions due to "pending transactions". So you
+get these wonderful scenarios where your bank balances do not tally up.
+
+UPDATE: I'm told
+[Bank2Xero::DBS](https://www.futureflow.io/shop/bank2xero-dbs/) may help in
+these cases. Or not. Btw Xero is sadly incapable of detecting duplicates
+between an imported and bank feed. :facepalm:
+
+# Ideal OTP
+
+Try to login using their "uniquely broken" OTP (why don't they use a
+standard like Google Authenticator FFS!?!) app and you will probably hit:
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto,h_400/https://s.natalian.org/2018-03-21/threatdetected.png"
+alt="VGuard has detected the following threats"><img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto,h_400/https://s.natalian.org/2018-03-21/vtap.png"
+alt="Failed to start VTap">
+
+The workaround is to re-launch the app on IOS. I did complain to DBS earlier this year, and I received a reply:
+
+> Our technical team has deployed a temporary solution to fix the issue, and
+> will continue to work on the long term fix.
+
+The [app has not been updated for two months](https://s.natalian.org/2018-03-08/mo.png). So I am puzzled when they "deployed a temporary solution" ?
+
+I still have the same problem. I also made a video titled [Payments made
+Simple](https://www.youtube.com/watch?v=UXa7WxsxRP0) about DBS's insane UX.
+
+DBS (a week later of course) then replied again to say:
+
+> With regards to our email to you on 6 Mar 2018, please be informed that this
+> issue is related to the security policies in our server and not our app
+> build. Hence there are no updates to the app version.
+
+> We are sorry to hear that you are still encountering this issue. Please
+> kindly provide us with your latest Troubleshooting Logs from the IDEAL Mobile
+> App for our further investigation.
+
+(I asked how am I supposed to do this?!)
+
+> As we have enhanced the security of IDEAL Mobile to prevent unauthorised
+> transactions from malware and phishing attacks, some device configurations
+> and 3rd party apps will pose security risks and will not be compatible with
+> IDEAL Mobile App. Please be assured that our development team is working to
+> improve device compatibility without compromising security.
+
+I think the "Fintech" company behind this crazy false negative is
+<https://www.v-key.com/about#about-v-key>. Somebody needs to sit down with DBS
+and explain to them Apple's IOS sandboxed security model that makes Apps
+already insulated from malware.

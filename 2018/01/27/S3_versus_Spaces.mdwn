@@ -7,7 +7,7 @@ DO are preying on the "people who pay for stuff but don't use it" market, wherea
 </footer>
 </blockquote>
 
-<img src="https://natalian.sgp1.digitaloceanspaces.com/2018-01-27/signup.png" alt="Spaces signup">
+<img src="https://natalian.sgp1.digitaloceanspaces.com/2018-01-27/1517046984_2558x1406.png" alt="Spaces signup">
 
 Currently I have about 115GB upon **s.natalian.org** hosted in a public <abbr
 title="Amazon Web services simple storage service">AWS S3</abbr> bucket,
