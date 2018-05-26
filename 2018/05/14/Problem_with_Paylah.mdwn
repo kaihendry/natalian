@@ -13,7 +13,7 @@ When you pay for something with Paylah, the only transaction details you see are
 
 <img alt="Paylah transaction report" src=https://s.natalian.org/2018-05-14/paylah-transactions.png>
 
-There is several problems with this.
+There are several **problems** with this.
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">We hear you on your feedback, Kai. Presently, you may view up to 61 days’ worth of transaction history within the app. Thank you. ~fp</p>&mdash; DBS Care (@dbs_care) <a href="https://twitter.com/dbs_care/status/994051582235959296?ref_src=twsrc%5Etfw">May 9, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -26,7 +26,7 @@ So as you can imagine, I still have to hold onto paper receipts to actually
 figure out how my money was spent. This is 2018. This is the Singapore
 #smartnation and this is absolutely dire.
 
-# The balance is seperate to your bank account
+# The balance is separate to your bank account
 
 <img alt="Your virtual wallet balance with Paylah!" src="https://s.natalian.org/2018-05-14/paylah-balance.png">
 
@@ -53,7 +53,7 @@ Who is making this difficult? Why is it difficult? What can be done?
 </blockquote>
 
 [MAS](http://www.mas.gov.sg/) replied asked me to first make an individual
-complaint to each comapany, before coming to them. I then said, surely you're
+complaint to each company, before coming to them. I then said, surely you're
 playing "pass the buck" and MAS concluded with:
 
 <blockquote>
@@ -69,12 +69,22 @@ insulting.
 
 # It gets worse
 
+Sometimes these wallet schemes are defunct and the onus is on you to get money back! Example the National library's defunct [prepaid account closure](https://www.nlb.gov.sg/PrepaidRefund). Hurry, not long left till the [deadline of end of May...](https://www.nlb.gov.sg/NewsAnnouncement/tabid/225/announcementId/271/Default.aspx#.Wv6BPoiWTIU)
+
 When not in physical contact, transactions are based on telephone numbers. This
-is crazy.
+is crazy. Numbers change in Singapore! People travel.
 
 If the receipient you are transferring isn't enrolled in Paylah!, they simply
 won't get the money and you will get refunded after a week.
 
-Non-DBS banks have confusing / incompatible solutions, like [OCBC
+Singaporean banks have incompatible solutions, like [OCBC
 Paynow](https://www.ocbc.com/personal-banking/online-banking/paynow.html)
-causing untold confusion.
+causing untold confusion. Since DBS's own version of Paynow requires me to
+login every two minutes as opposed to Paylah's seamless FaceID login, I am not
+tempted to switch.
+
+Message to bank developers: There is no need to mask OTP input. If you are
+prompting for a telephone number, provide a keypad, not a keyboard. Don't
+demand access to my contacts. Please make it easy to login to at least see
+detailed transaction history. Don't obfuscate or make it difficult to copy and
+paste my account number.
