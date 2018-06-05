@@ -1,6 +1,8 @@
 [[!meta title="DBS Ideal Threat detected"]]
 [[!meta description="Do banks actually test their banking applications?"]]
 
+Update: 2018-06-05, now there is a [prompt to restart the App](https://s.natalian.org/2018-06-05/restart.png)...
+
 As a SME business owner, I am absolutely dismayed how awful online banking is. How do companies cope?
 
 It's almost a **100 step process to see my balance online** with <abbr
