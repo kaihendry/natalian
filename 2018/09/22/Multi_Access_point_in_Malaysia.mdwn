@@ -3,7 +3,7 @@
 
 Assumptions:
 
-* You are using Unifi fibre <img src="https://s.natalian.org/2018-09-22/unifi-logo.svg">
+* You are using Unifi fibre <img src="https://s.natalian.org/2018-09-22/unifi-logo.svg" alt="TM unifi logo">
 * You have a home big enough where the wifi signal from your [Telekom Malaysia](https://www.tm.com.my) supplied <abbr title="Wireless Access Point">AP</abbr> doesn't quite reach or has poor performance
 * You are using HyppTV / Unifi TV / IPTV in a place other than where the fibre terminates, typically in the ONU-FIBERHOME-AN5506-04B GPON modem supplied by [Telekom Malaysia](https://www.tm.com.my)
 
