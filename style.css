@@ -1,8 +1,7 @@
 html { background-color: #F0F8FF; }
 
 body {
-	/* https://www.youtube.com/watch?v=299RZ0d1LQY */
-	font-family: "Segoe UI", "Seravek", sans-serif;
+	font-family: "Open Sans", "Segoe UI", "Seravek", sans-serif;
 	background-color: white;
 	min-height: 100vh;
 	position: relative;

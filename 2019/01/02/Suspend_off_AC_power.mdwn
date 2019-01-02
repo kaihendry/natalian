@@ -1,0 +1,9 @@
+[[!meta title="How to suspend only when off AC power"]]
+[[!meta description="How to make it suspend on lid close only WITHOUT external power"]]
+
+Works on Archlinux using systemd 239.370-1:
+
+	[hendry@t480s ~]$ grep -v ^# /etc/systemd/logind.conf
+	[Login]
+	HandleLidSwitchExternalPower=ignore
+

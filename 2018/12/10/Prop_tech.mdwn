@@ -1,0 +1,64 @@
+[[!meta title="Property technology"]]
+[[!meta description="My working and living arrangements"]]
+
+The last year I have been responsible for the "Devops" side of things with
+[Unee-T](https://unee-t.com/) (a bug tracker for property issues) which
+deserves mention because:
+
+* All the source is opensource <https://github.com/unee-t/>
+* It has been <https://www.remoteonly.org/>, i.e. I have been <abbr title="Working from home">WFH</abbr> in Singapore
+
+It many ways, it has been a dream job. My colleagues are nice. Work is flexible.
+I work with the technologies I enjoy. I work in the open about what I do, I've
+published several aspects of my work on my [Youtube
+channel](https://www.youtube.com/user/kaihendry?sub_confirmation=1) and
+[Twitter](https://twitter.com/kaihendry).
+
+We have a F2F meeting about once a week, depending whether people are in town
+or not.
+
+# Working from home is tiresome
+
+So my little office at home is actually my son's room, but I have made it
+pretty ideal.
+
+Quality Steel Case leap chair, quiet conditions. Quality microphone for
+screencasts and a home studio for video recordings. [10G wired internet](https://www.youtube.com/watch?v=eRmcktDqXlo)
+
+I get out once a day for lunch, though I wish it was longer.
+
+# The problem with Co-working spaces
+
+I used to work from <https://hackerspace.sg/> but I feel the space declined in
+quality. Now there is a plethora of co-working spaces to choose from around
+town, notably [WeWork](https://en.wikipedia.org/wiki/WeWork), but I don't like
+the working environment.
+
+Mainly because co-working environments are far too noisy and distracting!
+
+Establishing an enclosed desk with all my (video) equipment would be... quite
+expensive to say the least. I severely doubt I could sound proof it.
+
+Tbh I seek human interaction, but the people at co-working spaces I find are
+very rarely technical or people I can learn from, in the areas I am keen to learn in.
+
+# So what and where would be better?
+
+I fantasize about sailing around the world or doing the [Annapurna
+Circuit](https://en.wikipedia.org/wiki/Annapurna_Circuit), enjoying the world
+beauty and nature for a portion of the day. Getting a wholesome dose of fresh air.
+And then working maybe 4 hours solidly on something.
+
+Of course this doesn't really make sense.
+
+What about my family? I cannot expect them to come along with me. And I would
+seriously miss them in less than a day. My family is in Singapore.
+
+In "Devops" I am effectively "on call" and I face the threat of being
+interrupted at any time.
+I need very good and reliable Internet access and a desk/chair to basically do my work and
+communicate with people. Infrastructure in Singapore is hard to beat.
+
+# tl;dr conclusion
+
+What I have going in Singapore, is actually pretty good.

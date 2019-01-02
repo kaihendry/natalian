@@ -7,7 +7,7 @@ Assumptions:
 * You have a home big enough where the wifi signal from your [Telekom Malaysia](https://www.tm.com.my) supplied <abbr title="Wireless Access Point">AP</abbr> doesn't quite reach or has poor performance
 * You are using HyppTV / Unifi TV / IPTV in a place other than where the fibre terminates, typically in the ONU-FIBERHOME-AN5506-04B GPON modem supplied by [Telekom Malaysia](https://www.tm.com.my)
 
-# Proposal
+# Proposal, replace the Unifi router!
 
 2x [Mikrotik hAP ac lite](https://mikrotik.com/product/RB952Ui-5ac2nD) should make your home wireless, AWESOME. They are about [240MYR each](https://www.lelong.com.my/mikrotik-wifi-router-hap-ac-lite-rb952ui-5ac2nd-ap-malaysia-sublimegroup-I5959197-2007-01-Sale-I.htm), so the total spend should be about **500MYR**.
 
@@ -45,7 +45,7 @@ I upgrade "Uptown" the managed AP, in my case, "tv", gets upgraded too.
 
 # VLANs, several independent networks in one cable
 
-The way Unifi works is from LAN1 on the ONU, comes two LANs in one cable to "Uptown":
+The way Unifi works is from LAN1 on the ONU, comes two "virtual" LANs in one cable to "Uptown":
 
 * VLAN 500, in which you need to establish a PPPoE connection to bridgeLocal
 * VLAN 600, the IPTV network for the HyppTV
