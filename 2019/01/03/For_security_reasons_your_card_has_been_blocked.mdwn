@@ -1,0 +1,32 @@
+[[!meta title="DBS blocked my business card for security reasons"]]
+[[!meta description="Do you know the vendor Amazon services?"]]
+
+<img src="https://s.natalian.org/2019-01-03/dbs.png" alt="DBS blocked my card">
+
+I received a random SMS saying my card is blocked. It's not my personal card.
+Let me find my business card... oh! It does end in 4938.
+
+Strange. I am not using it, so it must be a card not present transaction. I
+logged in to DBS Ideal (business banking Website). Couldn't see anything
+suspicious, like my card being blocked. I guess I have no choice but to call
+this number +65 63396963 or risk my AWS account not working or something crazy.
+
+I call the number and I am promptly talking to a "customer service representative".
+
+She asks my full name, my IC and begins to explain my card has been blocked due
+to suspicious payments to **Amazon Web Services**. WHAT? YOU MUST BE JOKING?!
+
+That's a transaction that happens EVERY MONTH for years. Why WHY WHY would it
+be flagged now as fraudulent?
+
+Sorry sir, she explains: I will make a note of this incident on your account.
+To proceed to unblock the card, she then asks for the amount of a recent
+transaction (I gave her DIGITALOCEAN.COM's) and how many cards I have to
+unblock the card. I answered to much dismay.
+
+WHAT THE HELL? How does this protect me DBS business banking? The whole
+SMS/call process is flawed. The Website should be providing much more
+information about incidents like this.
+
+I asked for a record on my complaint over email, and she said she's not allowed
+to email. DBS TAKE RESPONSIBILITY for crying wolf!

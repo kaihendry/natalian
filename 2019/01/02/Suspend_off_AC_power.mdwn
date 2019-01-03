@@ -1,6 +1,8 @@
 [[!meta title="How to suspend only when off AC power"]]
 [[!meta description="How to make it suspend on lid close only WITHOUT external power"]]
 
+<img src=https://s.natalian.org/2019-01-02/archlinux-logo-dark-scalable.518881f04ca9.svg alt="Archlinux logo">
+
 Works on Archlinux using systemd 239.370-1:
 
 	[hendry@t480s ~]$ grep -v ^# /etc/systemd/logind.conf

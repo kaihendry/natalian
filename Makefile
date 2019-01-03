@@ -27,7 +27,7 @@ $(OUTPUT)/index.atom: $(LIST)
 	cat index.atom > $@
 
 $(OUTPUT)/stats.js: stats.js
-	$(GZ) -c $< > $@
+	cat $< > $@
 
 $(OUTPUT)/sitemap.txt: $(LIST)
 	sitemap > $@
