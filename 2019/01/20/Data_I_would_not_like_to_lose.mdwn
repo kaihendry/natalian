@@ -1,0 +1,66 @@
+[[!meta title="Data I would not like to lose"]]
+[[!meta description="Documenting my personal backup strategy"]]
+
+<img src="https://s.natalian.org/2019-01-20/icloud.jpeg" alt="iCloud backup">
+
+After reading a [backup failure
+story](https://news.ycombinator.com/item?id=18949484) I thought it was
+time to document my digital footprint.
+
+# When I die
+
+When I die, I guess the most important thing is that family photographs can be
+easily passed on to my wife and kids.
+
+Until about 2010 these are all upon Flickr, with my pal Jamie maintaining a
+copy.
+
+Since then, pretty much all my photographs (and family videos) are stored with
+iPhoto / Apple cloud. I don't really have a local backup. I used to try
+maintain one, but I just don't have the time anymore to tether my phone and try
+sync down everything clumsily using iFuse. iCloud's solution is very attractive
+to me, since we have a Family setup, so if I was to die, I am going to assume
+that all my photos and shares would pass onto my family members. Tbh, I need to
+check this assumption.
+
+Besides photos there are little issues like my account password list which is
+hard for anyone except me to use, ssh private key, bitcoin wallet.dat with a
+couple of hundred bucks. Perhaps Jamie could pick up the pieces, but I doubt it
+would make sense of his time to do so.
+
+Conclusion: Going forward I should make an attempt to import my older Flickr
+images into Apple's iPhoto just for sheer convenience sake. And videos too,
+like my [Wedding video](https://player.vimeo.com/video/68866977).
+
+# Stuff I would not like to lose whilst alive
+
+My home FreeNAS which I am pretty happy with has RAID copies of all my original
+media, a Flickr backup, programming/work files and so forth. The bulk of the
+space is the raw 4K video shot with my GH5 for my [Youtube
+channel](https://www.youtube.com/kaihendry) over the space of a couple of short
+years.
+
+I guess if I lost this FreeNAS, it wouldn't be such a bit deal. I could
+download copies of my produced videos from Youtube, though it wouldn't be
+ideal.
+
+I don't have an offsite backup of my FreeNAS and I probably should, though my concern is:
+
+* privacy
+* if the FreeNAS data corrupted through my own error, the offsite backups would also be corrupted, right?
+* finding a place that can handle about 3TB (most video) affordably
+
+## My online presence
+
+Not so long ago I was kindof adamant that <https://natalian.org/> like
+<http://cat-v.org/> would stay online _forever_. Tbh, I have lost that ambition to
+achieve that, since I realise I would just be burdening my friends and offspring
+for content that doesn't really have any importance to any one except myself.
+
+# Conclusion
+
+So I hope this blog helps explain my thinking with regards to my **digital
+legacy** and hopefully with your feedback it can be improved.
+
+I do have most of my eggs (precious family memories) in Apple's iCloud Photos basket right
+now and I should check my recourse there.
