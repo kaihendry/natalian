@@ -1,0 +1,37 @@
+[[!meta title="Chrome to Firefox means enduring Firefox"]]
+[[!meta description="Firefox Quantum... I have user experience issues with you"]]
+
+<img src="https://s.natalian.org/2019-01-15/firefox-account.png" alt="Firefox account">
+
+Profile or account management should be open. I.e. I could sync with profile
+with passwords somewhere on my LAN. Now since I don't trust having my passwords
+in the cloud, I'm left for protecting my local profile with a "Master password".
+
+Password saving in Chrome mostly "just works". On Firefox I am routinely
+opening up my password file and copying and pasting in credentials for sites
+dumb enough to log me out. <https://bugzilla.mozilla.org/show_bug.cgi?id=1518493>
+
+I also really don't like the Save password dialog, though I have [learned how
+to turn the save password prompt
+off](https://www.reddit.com/r/firefox/comments/aeev6i/if_firefox_saves_logins_by_default_why_am_i/edoqt8k/)
+
+Firefox feels slower. Pages can become unresponsive quicker than Chrome. I have
+no idea why. Render lag and worse of all, input lag. It feels slower to draw
+things.
+
+No way to hide the toolbar. Important whilst taking screenshots. I could hit
+F11 as a workaround, but I don't like hiding the URL bar. Also, I don't like
+the menu redraw, also can be seen with hitting **Alt** (often accidentally).
+
+When you download in Chrome, there is a nice little bar that appears. In
+Firefox nothing happens until you open the weird Ctrl+Shift+Y menu.
+
+The URL bar search is not as good as chrome. Lots of search queries are
+interpreted seemingly as URLs!? Furthermore search queries in autocompletion
+seem prioritised over previously visited URLs.
+
+Same pages just seem to load remarkably slower than Chrome.
+
+The [restart
+behaviour](https://s.natalian.org/2019-01-10/1547133189_2558x1406.png), to
+interrupt a user is a bit daft.
