@@ -17,7 +17,8 @@ off](https://www.reddit.com/r/firefox/comments/aeev6i/if_firefox_saves_logins_by
 
 Firefox feels slower. Pages can become unresponsive quicker than Chrome. I have
 no idea why. Render lag and worse of all, input lag. It feels slower to draw
-things.
+things. Update: Since disabling `layers.acceleration.force-enabled` things are
+much better. No hardware acceleration, but more reliable now.
 
 No way to hide the toolbar. Important whilst taking screenshots. I could hit
 F11 as a workaround, but I don't like hiding the URL bar. Also, I don't like
@@ -30,8 +31,11 @@ The URL bar search is not as good as chrome. Lots of search queries are
 interpreted seemingly as URLs!? Furthermore search queries in autocompletion
 seem prioritised over previously visited URLs.
 
-Same pages just seem to load remarkably slower than Chrome.
+Firefox spell checker does not seem as good as Chrome. And I must concede
+Safari seems to offer the most polished autocorrect UX.
 
 The [restart
 behaviour](https://s.natalian.org/2019-01-10/1547133189_2558x1406.png), to
 interrupt a user is a bit daft.
+
+Update: Some [Redditors have left some helpful comments](https://www.reddit.com/r/firefox/comments/ai5dyb/blog_of_chrome_switcher_summarising_the_pain/)

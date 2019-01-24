@@ -46,3 +46,21 @@ a { text-decoration: none !important; }
 article video { width: 100% }
 
 footer { width: 50%; align-items: center; display: flex; justify-content: space-around; font-size: 0.8em; margin-left: auto; margin-right: auto; }
+
+@keyframes pulse {
+  from {
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.pulse {
+  animation-name: pulse;
+}

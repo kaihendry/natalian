@@ -12,8 +12,8 @@ time to document my digital footprint.
 When I die, I guess the most important thing is that family photographs can be
 easily passed on to my wife and kids.
 
-Until about 2010 these are all upon Flickr, with my pal Jamie maintaining a
-copy.
+Until about 2015 these are all upon Flickr, with my pal Jamie maintaining a
+copy with a convuluted backup script.
 
 Since then, pretty much all my photographs (and family videos) are stored with
 iPhoto / Apple cloud. I don't really have a local backup. I used to try
@@ -40,7 +40,7 @@ space is the raw 4K video shot with my GH5 for my [Youtube
 channel](https://www.youtube.com/kaihendry) over the space of a couple of short
 years.
 
-I guess if I lost this FreeNAS, it wouldn't be such a bit deal. I could
+I guess if I lost my FreeNAS, it wouldn't be such a bit deal. I could
 download copies of my produced videos from Youtube, though it wouldn't be
 ideal.
 
@@ -62,5 +62,9 @@ for content that doesn't really have any importance to any one except myself.
 So I hope this blog helps explain my thinking with regards to my **digital
 legacy** and hopefully with your feedback it can be improved.
 
-I do have most of my eggs (precious family memories) in Apple's iCloud Photos basket right
-now and I should check my recourse there.
+I do have most of my eggs (precious family memories) in Apple's iCloud Photos
+basket right now and I should check my recourse there. Tbh I am little confused
+how unshared photos can be just passed on to my family group and how they can
+sync the whole thing to a local disk from the Cloud.
+
+Update: [Left a link on Reddit to solicit comments](https://www.reddit.com/r/applehelp/comments/ahskfz/how_do_i_ensure_my_photosvideos_on_icloud_photos/), best suggestion there was to create a photo book.
