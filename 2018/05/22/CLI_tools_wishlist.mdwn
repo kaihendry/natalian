@@ -3,3 +3,5 @@
 
 * Tool to detect blurry (unfocused) images
 * Tool to replace bad audio of my mp4 video recording with the good wav recording of my microphone. i.e. auto matches the audio
+
+Update: https://news.ycombinator.com/item?id=19252226

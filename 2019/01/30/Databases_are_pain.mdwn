@@ -13,8 +13,10 @@ perhaps cheated a little bit with symlinks `/2019/user/name/` from time to time.
 # Pain point #1 - treating a <abbr title="Relational Database Management System">RDMS</abbr> like a shared database
 
 I always imagined a database as a shared resource like [12 factor
-App](https://12factor.net/backing-services). Several competing microservices
-interacting with the data. Now I've come to know of [Service Orientated
+App](https://12factor.net/backing-services) implies.. but it seems that several
+competing microservices interacting with the same data is my fantasy.
+
+My colleague has introduced me to [Service Orientated
 Architecture](https://stackoverflow.com/a/8161759) where the Application and
 Database are tightly coupled. Now I cannot access the company's data store
 without going through a primitive RestFUL API.
@@ -43,24 +45,26 @@ structure and the database is just a store?
 Truth is that sometimes it's a mix, i.e. a real mess. Take deletions for
 example. If I delete a Unit, don't you think it's related data should also be
 removed? This can be modelled in SQL with a "cascade delete". Or maybe the
-record should be deleted at all for compliance reasons?
+record should NOT be deleted at all for compliance reasons, and moved to a deleted table? I have no idea what's best practice. I do know recovering data from AWS RDS takes hours.
 
-My thought: If basic logic could be modelled in the database, might them be
-better for microservices consuming the data?  It was so easy when you could
+My thought: If basic logic could be modelled in the database, might that approach be
+better for microservices consuming the data?  It was so easy in my previous life when you could
 just model your data structure in a struct and just dump to a data store.
 
 # Pain point #3 - How do I iterate out of this mess?
 
-	it's always best to design properly to begin with
+<blockquote>
+it's always best to design properly to begin with
+</blockquote>
 
 I believe you iterate towards the solution. You can't possibly design right
 from the start. However what you can do, is make sure your development
 iterations are short and that you can migrate / update your system painlessly
 ... to reach a better design.
 
-I'm totally confounded by the complexity of schema updates. Outside Rail's rake
-migrate, this really hard to do confidently. I've yet to find a good Golang
-based solution.
+I'm totally confounded by the complexity of schema updates. Outside Rail's
+`rake migrate`, this seems really hard to do confidently. I've yet to find a
+good Golang based solution.
 
 Things like an [online schema
 change](https://www.percona.com/doc/percona-toolkit/LATEST/pt-online-schema-change.html)
@@ -82,7 +86,24 @@ toolkit](https://www.percona.com/software/database-tools/percona-toolkit). Gosh
 things are complex. It feels extra stressful when pretty much all the business
 value is inside it.
 
-Does a DBA design or administer? I'm saddled with maintaining AWS RDS.. With
-it's hundreds of parameters and it caveats regarding how they applied, I've had
-to [write a tool](https://github.com/unee-t/dbcheck), just to cope with a
-"managed" RDMS solution.
+Does a DBA design or administer? I'm saddled with maintaining AWS RDS. With
+its hundreds of parameters and nuances regarding how they applied. I've had to
+[write a tool](https://github.com/unee-t/dbcheck), just to cope with a
+"managed" RDMS solution. Yikes.
+
+# Pain point #5 - Too easy for things to go horribly wrong
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Had a torrid day with a database today. Doing a mysqldump brought it to its knees. And then people were saying there was data loss and I could find know evidence of that. What a nightmare.</p>&mdash; Kai Hendry 🇸🇬 (@kaihendry) <a href="https://twitter.com/kaihendry/status/1095976607838220289?ref_src=twsrc%5Etfw">February 14, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+When things do go wrong, unlike flat files is near impossible to quickly check
+the integrity of a large database.
+
+It's also non-trivial to do incremental backups, i.e. take full dumps and
+replay binary logs.
+
+## Comments
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here are some thoughts on the matter.<br>Bottom line: RDBMS are flexible repositories for your data, provided that you are comfortable with how they are organised, and you see SQL as an ally, rather than an enemy. <a href="https://t.co/fhpwb0gmCm">pic.twitter.com/fhpwb0gmCm</a></p>&mdash; Giuseppe Maxia (@datacharmer) <a href="https://twitter.com/datacharmer/status/1090572212032163840?ref_src=twsrc%5Etfw">January 30, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+

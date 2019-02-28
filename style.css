@@ -4,6 +4,7 @@ body {
 	font-family: "Open Sans", "Segoe UI", "Seravek", sans-serif;
 	background-color: white;
 	min-height: 100vh;
+	font-size: 130%;
 	position: relative;
 }
 
