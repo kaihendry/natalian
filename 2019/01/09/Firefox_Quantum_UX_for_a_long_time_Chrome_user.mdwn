@@ -39,3 +39,5 @@ behaviour](https://s.natalian.org/2019-01-10/1547133189_2558x1406.png), to
 interrupt a user is a bit daft.
 
 Update: Some [Redditors have left some helpful comments](https://www.reddit.com/r/firefox/comments/ai5dyb/blog_of_chrome_switcher_summarising_the_pain/)
+
+Update: Most annoyingly, sometimes the dialog after opening a new tab is unresponsive <https://www.reddit.com/r/firefox/comments/auu4zt/firefox_open_tab_and_paste_sometimes_doesnt_work/>

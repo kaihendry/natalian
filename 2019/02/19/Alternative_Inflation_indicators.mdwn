@@ -2,7 +2,8 @@
 [[!meta description=""]]
 
 * Cost of educating a dentist
-* Price of a sandwich
 * Cost of elderly care
 * Cost of child care
 * Cost per GB of mobile data
+* Cost of an aircon service
+* Cost of electricity

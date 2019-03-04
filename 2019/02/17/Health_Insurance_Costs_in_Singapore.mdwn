@@ -1,6 +1,8 @@
 [[!meta title="Health Insurance costs in Singapore"]]
 [[!meta description="tl;dr it's about 10% of our rent"]]
 
+<img src="https://s.natalian.org/2019-03-04/MediShieldLifelogo.png" alt="Singapore MediShieldLife public/private health initiative">
+
 Prompted by a [tweet](https://twitter.com/ehn/status/1096258262192648192) I
 thought I should document clearly how much my nuclear family in Singapore pay.
 
