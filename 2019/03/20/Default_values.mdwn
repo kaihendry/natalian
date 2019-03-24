@@ -1,0 +1,43 @@
+[[!meta title="Default or reset values"]]
+[[!meta description="How does one know the default value?"]]
+
+<img src="https://s.natalian.org/2019-03-19/chrome-default-what-is-it.png" alt="Default value">
+
+The schema in which AWS expresses a configuration value appears to be a comprehensive type system:
+
+	{
+	  "AllowedValues": "1-65535",
+	  "ApplyMethod": "pending-reboot",
+	  "ApplyType": "static",
+	  "DataType": "integer",
+	  "Description": "The number of outstanding connection requests MySQL can have",
+	  "IsModifiable": true,
+	  "MinimumEngineVersion": null,
+	  "ParameterName": "back_log",
+	  "ParameterValue": null,
+	  "Source": "engine-default",
+	  "SupportedEngineModes": null
+	},
+
+However, the current value appears to be **null**. Is that an allowed value? Seemingly
+not. And if it was changed to 10, how would you know the inital value was
+**null**?
+
+	{
+	  "AllowedValues": "0,1",
+	  "ApplyMethod": "immediate",
+	  "ApplyType": "dynamic",
+	  "DataType": "boolean",
+	  "Description": "Enable or disable the slow query log",
+	  "IsModifiable": true,
+	  "MinimumEngineVersion": null,
+	  "ParameterName": "slow_query_log",
+	  "ParameterValue": "1",
+	  "Source": "user",
+	  "SupportedEngineModes": null
+	},
+
+You can tell it was modfied by `Source": "user",`. However once unset I do find
+`"ParameterValue": null,` & `"Source": "engine-default",` to be a bit confusing.
+
+What is the default value for **null**?

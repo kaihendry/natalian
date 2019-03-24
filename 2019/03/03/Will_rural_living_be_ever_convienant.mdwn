@@ -1,7 +1,7 @@
 [[!meta title="Will rural living ever be convenient?"]]
 [[!meta description="City living versus Countryside living seems one sided"]]
 
-tl;dr labour and transport sucks in Countryside. Will that ever change?
+tl;dr labour and transport sucks in the Countryside. Could that ever change?
 
 I was raised in a suburb and my parents later retired to a small holding in
 Cornwall. As an Internet obsessed geek, I've gravitated to cities for better
@@ -34,7 +34,6 @@ So I am left thinking.. will rural living ever be popular again?
 * Loneliness
 * Crap Internet
 * (Quality of) people who didn't make in the city (or rather who didn't leave their rural area for some <abbr title="Overseas Experience">OE</abbr>) / expand their horizons
-* Crime
 * It's much harder to lock up and leave a small holding for a holiday, than say a flat
 * Terrible infrastructure and facilities
 * Requiring the initiative to do most things yourself

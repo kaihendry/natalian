@@ -1,9 +1,11 @@
-[[!meta title=""]]
-[[!meta description=""]]
+[[!meta title="Alternative inflation indicators"]]
+[[!meta description="How to measure inflation?"]]
 
 * Cost of educating a dentist
 * Cost of elderly care
 * Cost of child care
 * Cost per GB of mobile data
-* Cost of an aircon service
+* Cost of an air conditioning service or some other regular require maintenance
 * Cost of electricity
+* Cost of water
+* Prevailing tax rate
