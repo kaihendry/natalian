@@ -41,3 +41,29 @@ You can tell it was modfied by `Source": "user",`. However once unset I do find
 `"ParameterValue": null,` & `"Source": "engine-default",` to be a bit confusing.
 
 What is the default value for **null**?
+
+Update from AWS support:
+
+<blockquote>
+We can see the values of those parameters which either modified by RDS team for the stability ("Source": "system") or modified by the customer for their requirement ("Source": "user"). Remaining all parameter values are set to engine-default and exact value won't be displayed on the console or via CLI. To be precise, we can't see the exact value of the parameter when the source is set to "engine-default".
+
+>> Why can't we see the value Via CLI/Console?
+
+The default values of the variables depends on the DB engine version (both Major and Minor). Depending on the version these values usually change to increase the stability of the product. This is the reason the values are not explicitly mentioned in the console or via CLI.
+
+>> How can we view the value of these variables?
+
+The only way to fetch the values of the parameters is to query the DB engine directly. In case of mysql/MariaDB/Aurora MySQL, we can consider to run query like below to find the value of the particular parameter.
+
+SHOW GLOBAL VARIABLES LIKE '<parameter_name>';
+
+Example: SHOW GLOBAL VARIABLES LIKE 'back_log';
+
+Alternative way is to query the Information_schema.GLOBAL_PARAMETERS table. Example query look like below:
+
+select * from information_schema.global_variables where VARIABLE_NAME='<parameter_name>';
+
+Example:  select * from information_schema.global_variables where VARIABLE_NAME='back_log';
+
+I hope this information is helpful. Please feel free to reach me if you have any further questions or concerns.
+</blockquote>

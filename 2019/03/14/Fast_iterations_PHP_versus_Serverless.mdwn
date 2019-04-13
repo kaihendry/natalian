@@ -1,6 +1,8 @@
 [[!meta title="Fast development iterations: PHP versus Serverless"]]
 [[!meta description="A comparison between LAMP and Serverless"]]
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eRY0Iay7Los" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 I [sell "serverless"](https://goserverless.sg/) by advertising its fast
 development iterations. Typically less than five seconds on a primed system.
 
@@ -27,20 +29,22 @@ myself, warning I'm biased) for several reasons.
 3. The underlying system running PHP probably needs to be maintained, unlike serverless
 4. PHP can't scale very well compared to the seamless nature of serverless
 5. if PHP is compromised the underlying VPS is much more of a prize than a short lived serverless process
-6. PHP's logging is often not properly exported and queriable like serverless
-7. Rsync isn't an immutable deploy, AWS API gateway for example properly (blue/green) switches from one version to another, and facilitates rolling back
+6. PHP's logging is often not properly exported and queriable like serverless good practice
+7. Rsync isn't (really) an immutable deploy, AWS API gateway for example properly (blue/green) switches from one version to another, and facilitates rolling back
 
-# Why PHP is better
+# Why PHP (on a VPS) is better
 
 * No cold starts
 * It's fairly easy to host yourself, no cloud provider needed
 
 # Conclusion
 
-Tbh I am not 100% sure why [PHP is not
+<strike>Tbh I am not 100% sure why [PHP is not
 supported](https://github.com/apex/up/issues/18) on Lambda. Perhaps it's not
-cleanly exposing a request/response interface? Maybe it's runtime is too heavy? 
+cleanly exposing a request/response interface? Maybe it's runtime is too heavy? </strike>
+
+Update: <https://bref.sh/> works on Serverless via **AWS Serverless Application Model**.
 
 Nonetheless things have moved on since PHP. There are better languages. Golang
-as a language is better in a whole host of ways and is well supported as a
-serverless runtime. 
+as a language is better in a whole host of ways (greatly reduced surface area)
+and is well supported as a serverless runtime.
