@@ -20,8 +20,9 @@ ul {
 </ul>
 
 There are many other reasons like political stability, infrastructure, quality
-medical care, food, multicultural et al, but I thought I'd compare with those
-just those arguably more [basic needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) above.
+medical care, affordable help, food, multicultural et al, but I thought I'd
+compare with those just those arguably more [basic
+needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) above.
 
 # Australia
 

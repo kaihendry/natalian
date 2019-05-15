@@ -24,7 +24,7 @@ $(OUTPUT)/thank-you.html: thank-you.html
 $(OUTPUT)/%/index.html: %.mdwn
 	@mkdir -p $(@D)
 	@header $< > $@
-	@sed '/^\[\[/ d' $< | cmark >> $@
+	@sed '/^\[\[/ d' $< | cmark --unsafe >> $@
 	@footer $< >> $@
 	@echo $< '→' $@
 
