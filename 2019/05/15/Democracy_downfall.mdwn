@@ -28,13 +28,13 @@ have a recipe for ruin.
 Since the surprise Brexit vote, [democracy feels
 broken](https://www.youtube.com/watch?v=9YmdzgJAMxk) in the UK.
 
-There wasn't much of a choice to begin with, between Labour and the
-Conservatives. Though the Brexit event has seemingly pulled down the curtain on
+There wasn't much of a choice to begin with, between <span style="color: white; background-color: red; padding: 0.1em; font-weight: bold;">Labour</span> and the
+<span style="color: white; background-color: #00aeef; padding: 0.1em; font-weight: bold;">Conservative party</span>. Though the Brexit event has seemingly pulled down the curtain on
 the inept political class.
 
 Could there be another choice that galvanises the electorate? Doubtful when the
-"third party choice", the Liberal Democrats took a deal with the Conservatives
-which ravaged their integrity.
+"third party choice", the <span style="color: white; background-color: #faa61a; padding: 0.1em; font-weight: bold;">Liberal Democrats</span> took a deal with the Conservatives
+which ravaged their credibility.
 
 Power and politics is so calcified in the UK, that I don't see anything
 changing. The traditional media which the "powers that be" control are having a

@@ -1,0 +1,142 @@
+[[!meta title="Microservices pitfalls"]]
+[[!meta description="The disadvantages of microservices after dev-opsing them"]]
+
+<blockquote cite="https://youtu.be/L43P3DMZwUg?t=502">..do not think of microservices until you have a people problem</blockquote>
+
+I find it **difficult to recommend** microservice Architecture. Here are some
+issues that I've run across.
+
+# Very tricky to co-ordinate sweeping changes
+
+Is it deployed? What version are you running? You need to be able to answer
+these questions quickly and easily amongst all services (not just Lambda
+functions) across different environments and accounts.
+
+It's too easy to [make mistakes](https://www.youtube.com/watch?v=ItOKtKItij8). Now I honestly have a fear of deployment to production since there is so many spinning plates!
+
+# Do not co-ordinate using counters
+
+Are you using an incrementing integer ID counter to identify your records?
+Don't! You need to consider using UUID instead else you will run into
+co-ordination issues as an atomic counter is harder than it sounds.
+
+However when using opaque IDs, realise you probably need to build a map to tell
+whether the payload is a replay so that you don't perform unnecessary (expensive)
+operations!
+
+# Request IDs
+
+You need to be able to identify your payloads. AWS Lambda has Request IDs you could work with:
+
+	ctxObj, ok := lambdacontext.FromContext(ctx)
+	if ok {
+		logWithRequestID = log.WithFields(log.Fields{
+		"requestID": ctxObj.AwsRequestID,
+	})
+	}
+
+But you need to make sure they are incorporated into your logging and often
+your payload itself, else you **will have difficulty** [querying your
+logs](https://www.youtube.com/watch?v=jGOPUBoKSCg) and tracking events.
+
+# Logging is hard
+
+Say you use **CALL mysql.lambda_async** (an AWS Aurora feature I recommend you
+DO NOT USE) to deliver a payload to a lambda function. That then relays it to a
+front end service. Which then interacts with another microservice, that
+interacts with your database via mysql procedures.  All sorts of things can go
+wrong like [chinese whispers](https://en.wikipedia.org/wiki/Chinese_whispers)
+and back pressure in this pipeline.
+
+Can you get a good view what is happening with the changing state between these
+disparate services? It's extremely difficult to do so without consistent
+logging.
+
+Even if you use invest time getting a great logging setup with $AWS_PROFILEs and [saw](https://github.com/TylerBrock/saw), be prepared to hit:
+
+	Error ThrottlingException: Rate exceeded
+
+<img alt="Error ThrottlingException: Rate exceeded support answer" src="https://s.natalian.org/2019-05-16/1557970963_2548x1423.png">
+
+There could be 3rd party solutions for [making sense out of CloudWatch logging](https://twitter.com/simonw/status/1120149757379272706?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1120149757379272706&ref_url=https%3A%2F%2Fnatalian.org%2F2019%2F05%2F16%2FMicroservices_pitfalls%2F)
+
+# Idempotency
+
+<blockquote
+cite="https://docs.aws.amazon.com/lambda/latest/dg/retries-on-errors.html">
+When an error occurs, your code might have run completely, partially, or not at
+all. In most cases, the client or service that invokes your function retries if
+it encounters an error, so your code must be able to process the same event
+repeatedly without unwanted effects. If your function manages resources or
+writes to a database, you need to handle cases where the same request is made
+several times.</blockquote>
+
+You have errors in your logs: A record cannot be created because it has been
+created before. Why? Because the message has been seen before. Is this even an
+error?
+
+It probably shouldn't be in a microservice architecture where duplicate
+messages could be received.
+
+# Asynchronous
+
+Sooner or later you will find synchronicity too hard or too slow or a language
+like Javascript can't accommodate it. You will then architect for asynchronous
+events through out.  Without a synchronous **request and response**, you will find
+it challenging to collate and reason about events.
+
+# Same problem in different microservices
+
+The way how languages like Go and SQL handle null values in JSON payloads can
+be ambiguous. Do all teams/microservices agree on when certain attributes can be omitted and
+what that means?
+
+utf8 or utf8mb4? You need to be strongly consistent and it's really not very
+easy. A maligned collation connection string to your database could render
+indexes useless and cause huge performance issues that are hard to EXPLAIN!
+
+<blockquote>When comparing columns/constants with different character set or collation, indexes can not be used.</blockquote>
+
+# Specific to AWS Lambda implementations of microservices
+
+<img src="https://d1.awsstatic.com/logos/aws/PB_AWS_logo_RGB.jpg" alt="Powered by AWS">
+
+## Timeouts, queues, dead letters
+
+API Gateway timing out? Convert logic to a lambda and an add a queue! Now you
+have ratcheted up the complexity and <strong>locked yourself to the AWS
+ecosystem</strong>. Now you will not be able to sanely run tests on a local
+laptop, because you microservice depends on a queue.
+
+Serverless (Lambda) makes no guarantees. You need to be aware of time outs and
+complex failure cases and how they might retried or not. Can your team analyse
+failed payloads or invocations? Do they know what _DeadLetterErrors_ means? Did
+they test and understand the difference when running async: `aws lambda
+invoke-async`? Do they have the experience to read the copious metrics and
+interpret them accordingly?
+
+<blockquote>..request ID would be the same if the request was unsuccessful
+previously and it's now under retry. This could be a way to identify if the
+request was retried. DLQ can be applied to ensure unsuccessful events that will
+be sent to a SNS topic or SQS queue after retried twice if those events still
+cannot be successful.</blockquote>
+
+I still have not figured out how to analyse a queue between SNS invoking lambda
+when concurrency is limited. There is very little visibility. You could rely on
+CloudWatch metrics maybe to give you a gist, but often you need to inspect
+payloads for that to be useful.
+
+## 💩Cold starts, fine grained permissions, VPCs
+
+	Error 1040: Too many connections
+
+Lambda and SQL is pain. Credentials & fine grained permissions with IAM roles
+are pain. VPCs add extra pain. Multiply by the amount of microservices and
+environments you have.
+
+# Conclusion
+
+Adopting microservices requires often exponential co-ordination and consistency
+challenges. Problems you would rarely see or just see once in monolithic
+architectures. If you integrate with AWS, you will make it practically
+impossible to reproduce your environment on a standalone computer. YMMV.
