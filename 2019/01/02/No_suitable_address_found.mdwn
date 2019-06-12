@@ -1,0 +1,37 @@
+[[!meta title="No suitable address found"]]
+[[!meta description="Your application is defaulting to IPv6"]]
+
+<img src="https://s.natalian.org/2019-01-02/Prometheus_software_logo.svg" alt="Prometheus logo">
+
+If you are [hitting DNS resolution issues](https://groups.google.com/d/msg/prometheus-users/9d-cX5xtUi8/p_NM00FOCwAJ), perhaps some program is defaulting to
+IPv6, instead of IPv4.
+
+	level=warn msg="Error resolving address" err="address example.com: no suitable address found"
+
+Is a typical log message produced by [Prometheus blackbox exporter](https://github.com/prometheus/blackbox_exporter/issues/69).
+
+Solution is edit the awful YAML configuration file with **preferred_ip_protocol: ip4**
+
+	modules:
+	  http_2xx:
+		prober: http
+		http:
+		  preferred_ip_protocol: ip4
+	  http_post_2xx:
+		prober: http
+		http:
+		  method: POST
+		  preferred_ip_protocol: ip4
+	  tcp_connect:
+		prober: tcp
+		tcp:
+		  preferred_ip_protocol: ip4
+	  icmp:
+		prober: icmp
+		icmp:
+		  preferred_ip_protocol: ip4
+
+Notice the insane icmp/icmp indentation.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Why the insane defaults <a href="https://twitter.com/PrometheusIO?ref_src=twsrc%5Etfw">@PrometheusIO</a> ? Hardly robust <a href="https://twitter.com/RobustPerceiver?ref_src=twsrc%5Etfw">@RobustPerceiver</a>  <a href="https://t.co/dWAIWwx64L">https://t.co/dWAIWwx64L</a><br>You cost me an astonishing amount of time.</p>&mdash; Kai Hendry 🇸🇬 (@kaihendry) <a href="https://twitter.com/kaihendry/status/1080347390463209472?ref_src=twsrc%5Etfw">January 2, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

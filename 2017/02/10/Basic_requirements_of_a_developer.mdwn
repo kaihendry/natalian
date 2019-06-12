@@ -1,0 +1,16 @@
+[[!meta title="Requirements of being a developer"]]
+[[!meta description="List of ranked skills that I am looking for in a person when I work with them on projects"]]
+
+* Able to take a screenshot and provide a URL to that screenshot
+* Able to Google the error message
+* Able to write up a useful hyperlink-saturated issue / bug report
+* Able to edit a good README.md for a project overview
+* Able to use git (source control)
+* Able to efficiently use an editor (do you know what a tab or leading whitespace is?)
+* Able to use linting tools like a **spell checker** and <a href="https://www.npmjs.com/package/standard" title="Example linting tool">`standard --fix`</a> and integrate them into your workflow
+* Able to pin point where a regression happened via a binary search e.g. `git bisect`
+* Able to write a basic Makefile, `make` should be able to show off your product
+* Able to understand an assertion and write minimalistic tests with it with a good description of when it fails
+* Able to read and learn from code, e.g. use [github.com/search](https://github.com/search)
+* Able to make a pull request (patch) and iterate on suggested changes based on feedback and comments
+* Able to be social: live (<a href="https://en.wikipedia.org/wiki/Internet_Relay_Chat">irc</a>), contribute and find assistance in the wider developer community, e.g. <http://www.catb.org/~esr/faqs/smart-questions.html>

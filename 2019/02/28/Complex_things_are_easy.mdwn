@@ -1,0 +1,46 @@
+[[!meta title="Simple things are hard, Complex things are easy"]]
+[[!meta description="tl;dr reject complexity"]]
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2019-02-28/da-manifesto-2019.png" alt="82 page montage of the Democratic Alliance Manifesto 2019">
+
+Be annoyed when an idea, concept or service is not broken down to a few **simple statements**.
+
+## Frustratingly bad
+
+The [Democratic Alliance recently produced an 82 page manifesto](https://cdn.da.org.za/wp-content/uploads/2019/02/22160849/A4-Manifesto-Booklet-Digital.pdf) which I find hugely disappointing as a potential voter of such a party. As the [Renegade reports](http://cliffcentral.com/renegade-report/the-renegade-report-progress-sa/)'s [Roman Cabanac](https://twitter.com/RomanCabanac) noted, that's twice as long as the Marxist communist manifesto.
+
+## Better examples
+
+What are good examples of texts where an organisation is setting out to achieve something? I personally point to:
+
+* [MIT license](https://opensource.org/licenses/MIT) short, sweet and understandable unlike the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+* The US constitution and [Bill of Rights](https://en.wikipedia.org/wiki/United_States_Bill_of_Rights) is dated, but fairly accessible and short. Unlike the maddening [South African constitution](http://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf)
+* The Bible's [10 commandments](https://en.wikipedia.org/wiki/Ten_Commandments)
+* The [product of the French revolution](https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citizen)
+* Joel's seminal [12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+
+## The problem is a failure to distill an idea in a clear manner
+
+It's easy to write reams of garbage, but it's difficult to be on point.
+
+The legal profession, government regulatory or insurance environments often
+breed shit storms in the shape of **terms of service**. This must be stopped
+and I commend efforts like [Terms of Service; Didn't Read](https://tosdr.org/).
+
+Complexity that requires interpretation disadvantages the consumer. I would go
+so far as to say this practice is designed to strip away power from the average
+consumer as the language and complexity forms a barrier to entry.
+
+Complexity disenfranchises the consumer.
+
+## If everything was simple
+
+I believe we all would be in a better position if documents were short and sweet.
+
+Nonetheless I am not naive enough to know that even **short texts can be
+manipulated** like what happens in the [Animal
+Farm](https://www.aresearchguide.com/animal-farm-commandments.html).
+
+However unlike a long impenetrable text, **it's clear(er) to see**.
+
+Reject complexity!

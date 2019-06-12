@@ -1,0 +1,25 @@
+[[!meta title="Phase context status code: CLIENT_ERROR Message: no matching artifact paths found"]]
+[[!meta description="An obscure AWS Pipeline error message"]]
+
+<img src="https://d0.awsstatic.com/logos/powered-by-aws.png" alt="Powered by AWS Cloud Computing">
+
+	[Container] 2019/03/19 07:53:24 Expanding artifact file paths for base directory .
+	[Container] 2019/03/19 07:53:24 Assembling file list
+	[Container] 2019/03/19 07:53:24 Expanding imagedefinitions.json
+	[Container] 2019/03/19 07:53:24 Skipping invalid artifact path imagedefinitions.json
+	[Container] 2019/03/19 07:53:24 Phase complete: UPLOAD_ARTIFACTS Success: false
+	[Container] 2019/03/19 07:53:24 Phase context status code: CLIENT_ERROR Message: no matching artifact paths found
+
+# What does it mean?
+
+The "invalid artifact path" error means that it is unable to file the artifact in the current directory.
+
+# Fix
+
+Output artifact to `$CODEBUILD_SRC_DIR`
+
+	> $CODEBUILD_SRC_DIR/imagedefinitions.json
+
+	artifacts:
+	  files: imagedefinitions.json
+

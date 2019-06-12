@@ -1,0 +1,68 @@
+[[!meta title="Health Insurance costs in Singapore"]]
+[[!meta description="tl;dr it's about 10% of our rent"]]
+
+<img src="https://s.natalian.org/2019-03-04/MediShieldLifelogo.png" alt="Singapore MediShieldLife public/private health initiative">
+
+Prompted by a [tweet](https://twitter.com/ehn/status/1096258262192648192) I
+thought I should document clearly how much my nuclear family in Singapore pay.
+
+Note that these [private hospital
+plans](https://www.moh.gov.sg/medishield-life/about-integrated-shield-plans/comparison-of-integrated-shield-plans),
+I think are for **permanent residents** only. There are cheaper government
+options, but they (allegedly) lack convenience.
+
+1.  AIA HealthShield Gold Max A
+2. Aviva MyShield Plan 1
+3. AXA Shield Plan A
+4. Great Eastern Supreme Health P Plus
+5. Income Enhanced IncomeShield Preferred
+6. Income IncomeShield Plan P*
+7. Prudential PruShield A Premier
+8. Raffles Shield Private
+
+Note these [costs go up every year, as much as 68%!](/2019/01/04/Rising_private_Insurance_costs_in_Singapore/)
+
+The aforementioned plans are also increasingly difficult to compare, despite
+the Singapore government defining a _MediShield_ moniker some years ago.
+
+The level of care we are insured for, is basically for emergencies, where
+hospital treatment is required. When visiting the doctor GP, this fee (usually
+~20SGD) is paid out of pocket, same goes for Dentist or Optician. Insurance
+doesn't help with costs of drugs etc.
+
+I refuse to furnish ongoing health information (my steps or
+[Strava](https://www.strava.com/) activity) with Insurer's apps for discounts.
+I think it's far too much of a slippery slope and privacy concern.
+
+# AIA HealthShield
+
+I am on a "AIA HSG MAX A" policy which costs me about 22.5SGD a month, but with
+a 52SGD **rider**, which means I do **not need to pay for any deductables / top up /
+excess fees** when I go for treatment. We pay annually with the bulk coming from
+our governemnt mandated savings: <abbr title="Central Provident Fund">CPF</abbr>.
+
+My 6 month old baby girl costs about 68SGD a month. My 3 year son is on "AIA HealthShield Gold Max" 25SGD policy, with a 43SGD rider PLUS a Star protector for extras which amounts for 27SGD. So about 95SGD a month.
+
+My wife was quoted about 94SGD to get the same cover as me, which costs more
+than me because of the way insurance works. She is currently insured via her
+workplace, and we have no visibility to that cost.
+
+# Summary
+
+So our <abbr title="Permanent Residents">PR</abbr> nuclear family's monthly
+health insurance costs amount to about 333SGD a month. **About 10% of our rent.**
+
+We are super healthy and yet to use any of the services. Unlike say South
+Africa there is no "medicard" system (i.e. no cash / upfront payment required),
+and <abbr title="As far as I can tell">AFAICT</abbr> the process to claim is
+very bureaucratic. You basically have to pay out of pocket until a claim can be
+made (hence the _rider_ fee feels a bit pointless).  Furthermore most private hospitals
+require a "Letter of Guarantee" (LOG), though that process is alleged to be
+simpler, but you need to go an office before getting any treatment. Assuming
+the private hospital has that office open etc. etc.
+
+My hope is that this blog will help highlight options to me for better and more
+importantly convenient medical care in Singapore, whilst I live and work here.
+Retiring in Singapore is another kettle of fish which I won't get into now, but
+do look at the [chart I made
+earlier](https://s.natalian.org/2019-01-05/AIA-2019.svg), which should make you wary.

@@ -1,0 +1,39 @@
+[[!meta title="Telco level customer service"]]
+[[!meta description="Starhub is a good example of the way operators operate their customer service"]]
+
+What's worse than Singaporean ISPs? The mobile operators! Again you can expect
+no status page, no admission of guilt, no guarantee of service but this time
+you are unable to email or call them without losing your mind. Expect to go to
+one of their service centers and kill half a day or have a "Direct Message"
+like this with [StarhubCares](https://twitter.com/StarHubCares):
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Did you restart your handset to see if this helps? DM me your account &amp; email details over and I&#39;ll be in touch to assist. - AL <a href="https://t.co/vGSvl5q0f6">https://t.co/vGSvl5q0f6</a></p>&mdash; StarHub Cares (@StarHubCares) <a href="https://twitter.com/StarHubCares/status/876992280644550656">June 20, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ME: I did toggle airplane mode. No help at the time.
+
+STARHUB: Hi, we would appreciate if you could let us know if you are still facing any issue currently
+
+ME: It was working once I left the area by MRT.
+
+STARHUB: Hi, we would advice you to **turn off the 4G** should the issue still persist. Thank you
+
+ME: Why? I paid for 4G service?
+
+STARHUB: Hi, we will advice you to provide us with the details below for checking
+
+	Date of incident:
+	Time of incident:
+	Location of incident: (please specify the exact location including postal code and unit number)
+	Service ID: (affected mobile number)
+	Phone Model:
+	Network Logon: 4G or 3G
+	Description of issue:
+	Occurrence of issue:
+	Intermittent / Continuous Signal bar and battery bar:
+
+<hr>
+
+There seemed to be like a genuine problem with the station around Kembangan but
+since their complaints procedure is so poor, I guess they will never know.
+Not that anyone cares at [Starhub](https://en.wikipedia.org/wiki/StarHub) to begin with.

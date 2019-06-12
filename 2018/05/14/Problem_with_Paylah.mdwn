@@ -1,0 +1,90 @@
+[[!meta title="The Problem with Paylah"]]
+[[!meta description="Singaporean banks have launched a "low friction" QR code based payments medium which misses the mark"]]
+
+**tl;dr version** is that we are much better off with a crypto currency, since this implementation is a joke.
+
+# Paper receipts are still better
+
+When you pay for something with Paylah, the only transaction details you see are:
+
+1. (truncated) name of the merchant
+2. the date
+3. amount
+
+<img alt="Paylah transaction report" src=https://s.natalian.org/2018-05-14/paylah-transactions.png>
+
+There are several **problems** with this.
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">We hear you on your feedback, Kai. Presently, you may view up to 61 days’ worth of transaction history within the app. Thank you. ~fp</p>&mdash; DBS Care (@dbs_care) <a href="https://twitter.com/dbs_care/status/994051582235959296?ref_src=twsrc%5Etfw">May 9, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* [transaction history is only for 61 days](https://twitter.com/dbs_care/status/994051582235959296?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Ftweetdeck.twitter.com%2F)
+* there is **no details** of what you actually bought
+* there is no API to actually use your digital data
+
+So as you can imagine, I still have to hold onto paper receipts to actually
+figure out how my money was spent. This is 2018. This is the Singapore
+#smartnation and this is absolutely dire.
+
+# The balance is separate to your bank account
+
+<img alt="Your virtual wallet balance with Paylah!" src="https://s.natalian.org/2018-05-14/paylah-balance.png">
+
+I've complained to <abbr title="Monetary Authority of Singapore">MAS</abbr>
+about my money being tied up in "wallets". **Paylah!** isn't the only one to
+hold onto my money in a different account.
+
+<blockquote>
+I have come to notice there are more and more companies offering a "virtual wallet" where you can topup credit.
+
+* Singtel
+* Grab
+* Ezlink
+
+Ezlink has been around for a while, so I've come to accept its quirks.
+
+My complaint is now with other companies are doing the same thing, I assume with your blessing, so more and more of my money is tied up in these individual wallets.
+
+And my biggest complaint is that it is difficult if not impossible to withdraw my money back to SGD from these wallets.
+
+As a consumer if I put SGD credit into a system, I expect to be able to withdraw just as easily.
+
+Who is making this difficult? Why is it difficult? What can be done?
+</blockquote>
+
+[MAS](http://www.mas.gov.sg/) replied asked me to first make an individual
+complaint to each company, before coming to them. I then said, surely you're
+playing "pass the buck" and MAS concluded with:
+
+<blockquote>
+MAS does not approve or prescribe specific measures or procedures to holders
+for the provision of their services and holders are able to implement their own
+refund procedures.  Commercial entities offering stored value facilities are
+therefore best placed to address your concerns on their internal procedures and
+services.
+</blockquote>
+
+Funny how there is Auto-debit offered by DBS, but no Auto-withdraw. I find this
+insulting.
+
+# It gets worse
+
+Sometimes these wallet schemes are defunct and the onus is on you to get money back! Example the National library's defunct [prepaid account closure](https://www.nlb.gov.sg/PrepaidRefund). Hurry, not long left till the [deadline of end of May...](https://www.nlb.gov.sg/NewsAnnouncement/tabid/225/announcementId/271/Default.aspx#.Wv6BPoiWTIU)
+
+When not in physical contact, transactions are based on telephone numbers. This
+is crazy. Numbers change in Singapore! People travel.
+
+If the receipient you are transferring isn't enrolled in Paylah!, they simply
+won't get the money and you will get refunded after a week.
+
+Singaporean banks have incompatible solutions, like [OCBC
+Paynow](https://www.ocbc.com/personal-banking/online-banking/paynow.html)
+causing untold confusion. Since DBS's own version of Paynow requires me to
+login every two minutes as opposed to Paylah's seamless FaceID login, I am not
+tempted to switch.
+
+Message to bank developers: There is no need to mask OTP input. If you are
+prompting for a telephone number, provide a keypad, not a keyboard. Don't
+demand access to my contacts. Please make it easy to login to at least see
+detailed transaction history. Don't obfuscate or make it difficult to copy and
+paste my account number.

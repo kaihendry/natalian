@@ -1,0 +1,54 @@
+[[!meta title="Hardware does not support encoding at size 4992x3744"]]
+[[!meta description="My GH5's 6k feature doesn't appear workable"]]
+
+Like [Apple's Live Photos](https://developer.apple.com/live-photos/), Panasonic
+offer a similiar feature called [6K Photo
+Mode](https://camerajabber.com/panasonic-gh5-6k-photo-mode-explained/).
+
+However the output file, for example <https://s.natalian.org/2019-05-02/P1077291.MP4> as `ffprobe` (part of [ffmpeg](https://ffmpeg.org/)) will tell you:
+
+	Video: hevc (Main 10) (hvc1 / 0x31637668), yuv420p10le(pc, bt709), 4992x3744 [SAR 1:1 DAR 4:3], 187160 kb/s, 29.97 fps, 29.97 tbr, 90k tbn, 59.94 tbc (default)
+
+No application seems to natively playback this video file. Except maybe
+[PotPlayer](https://www.reddit.com/r/GH5/comments/bjeab5/6k_photo_play_workflow/em8d362/),
+but I do not have Windows OS to try. GH5's native OS is just too slow <abbr
+title="in my opinion">IMO</abbr> to pick out a good image on the small display
+screen.
+
+# mpv
+
+The common open video player called [mpv](https://mpv.io/) is unable to play back `P1077291.MP4` smoothly.
+
+<img src=https://s.natalian.org/2019-05-05/1557040932_2560x1440.png>
+
+Normally I would to **expect** to step through this video and hit `s` for screenshot. It works but it's too slow to do on my T480s Thinkpad.
+
+	Audio/Video desynchronisation detected! Possible reasons include too slow
+	hardware, temporary CPU spikes, broken drivers, and broken files. Audio
+	position will not match to the video (see A-V status field).
+
+<img src=https://s.natalian.org/2019-05-05/mpv-shot0004.jpg alt="mpv screenshot">
+
+# ffmpeg
+
+When using hardware accelerated video encoding/decoding <a href="https://en.wikipedia.org/wiki/Video_Acceleration_API">
+<abbr title="Video Acceleration API">VAAPI</abbr></a> you will hit:
+
+	Hardware does not support encoding at size 4992x3744
+
+When trying to re-encode it, it fails:
+
+<https://s.natalian.org/2019-05-02/P1077291.mp4.log>
+
+With hardware features disabled you can [successfully re-encode in software](https://s.natalian.org/2019-05-05/P1077291.mp4.log
+) and vastly more workable video will look like:
+
+<video src="https://s.natalian.org/2019-05-05/P1077291.mp4" controls loop></video>
+
+Notice the fps reported if 30fps, but it certainly doesn't feel like that in playback. Why?
+
+Nonetheless, step {forward,backward} in mpv maxes my 8th gen Intel T480s!!
+
+<img src=https://s.natalian.org/2019-05-05/1557042641_2560x1440.png alt="mpv maxed">
+
+Why?

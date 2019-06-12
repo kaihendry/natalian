@@ -1,0 +1,94 @@
+[[!meta title="So Circles.life sucks"]]
+[[!meta description="The new mobile operators in Singapore also sucks"]]
+
+Since my Starhub SIM-only plan penalises by 10SGD++ every Gig you go over your
+quota, I thought I should investigate the options. I did ask
+[@StarHubCares](https://twitter.com/starhubcares) if I could top up and they
+said basically only in the next bill. This **inflexibility infuriates me**.
+Next they say I should perhaps consider an add on plan like "DataJump" which
+IIUC gives me "Unlimited data" for the weekend. I hate add ons. I hate the
+[deliberate confusion](https://natalian.org/2016/03/11/Prepaid_mobile_plans/).
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2018-02-23/starhub.png" alt="Starhub 6GB bill">
+
+Starhub's obfuscated 6GB per month plan basically costs me 26SGD a month on a
+base level. I've managed to [reverse engineer their Website, to attempt keep track
+of my quota](http://starhub.dabase.com/). As you can see from my bill, I do
+take advantage of their [DataTravel Asia
+Pacific](https://www.starhub.com/personal/mobile/mobile-phones-plans/value-added-services/roaming/postpaid-roaming/data-plans/datatravel.html)
+product. It saves the hassle of swapping out SIMs, but I am starting to think
+it's not worth it. I do not know exactly how roaming works, but it does feel
+like there is more latency on the line, then just picking up a local 4G SIM
+card!!
+
+# Evaluating the Singaporean mobile options
+
+M1 on the retail front seems very lacklustre. Legend has it, that they
+accidentally routed customers to Singapore's emergency services. M1 heads went
+rolling and hence their [MVNO
+strategy](https://en.wikipedia.org/wiki/Mobile_virtual_network_operator) to
+spawn <https://circles.life/>!
+
+From Singtel, the [best no contract
+plan](https://twitter.com/kaihendry/status/966849252990373888) is a [SIM only
+12 month contract for 36.05SGD /
+month](http://www.singtelshop.com/sim-only-10GB/). I would have liked to try
+Singtel, but there doesn't seem to be a way of trying it without a 12 month
+contract. Oh well.
+
+So let me try Circles.life.
+
+# unhappiness@circles.life
+
+The pricing wasn't exactly clear from the outset, nonetheless in good faith I
+bought the no contract plan for 18SGD.
+
+UX issue 1. You choose the order time and since I'm out, I wanted my helper to
+receive the order. No cannot. Must print and fill in a form to delegate that
+responsibility. I don't have a printer. A lot of back of forth with the
+horrible Twitter DM experience.
+
+<blockquote>
+Sorry about this, looks like we're a little tied up at the moment. Don't worry, we'll be with you shortly.
+</blockquote>
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto,h_400/https://s.natalian.org/2018-02-23/number.png" alt="Circles.life number">
+
+UX issue 2. It gets finally delivered, I pop the SIM card in and launch the
+App. It asks me for a number. What number? There is no number on the packaging.
+
+How come it's asking for a number? Don't Circles.life know the number they
+assigned to my account FFS?
+
+Ok, nevermind. I have internet nonetheless. Lets <http://www.speedtest.net/> !
+
+UX issue 3. [Circles.life is slow
+4G](http://www.speedtest.net/result/i/2510470300). The speeds are about the
+same speed as Starhub on 3G. I complained. They asked if I was on 4G? Ask to
+try another place. Basically their customer service was absolutely clueless and
+couldn't begin to fix this.
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto,h_400/https://s.natalian.org/2018-02-23/boost.png">
+
+UX issue 4. 100mb for 1.20SGD... WTF?!
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto,h_400/https://s.natalian.org/2018-02-23/boostboost.png">
+
+Now I thought I had about a 6GB quota with my new Circles.life SIM card. How
+the HELL was a running out of 6GB on like my first day of trying Circles.life
+out?
+
+UX issue 5. Your data is Pro rated, I had to wait until March 1 to receive the 4GB. YOU HAVE GOT TO BE KIDDING ME.
+
+UX issue 6. Cancel. By this time... I was completely fed up. I now want to **end this nightmare** after just 24 hours.
+
+<blockquote>
+Thanks for sharing your feedback. Upon checking, you only received your SIM last February 21. As per Terms and Conditions which you agreed to when you placed your order with us, we require our customers to stay at least the activation month plus 1 month.
+
+In your case, we can only process your termination request on March 31. If you still wish to proceed with the termination request, please do reach out to us again at least 3 business days before month-end, March 31 so we can assist you with the process.
+
+In the meantime, you may opt to try our services and hopefully, you'd decide to stay with us.
+</blockquote>
+
+So now I have to set a calendar event on the 29th of March in order to cancel
+and escape this ordeal. What a horrible [no contract](https://pages.circles.life/no-contract-plan/) trial. Avoid Circles.life.

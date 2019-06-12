@@ -1,0 +1,79 @@
+[[!meta title="Multiple managed access points in Malaysia"]]
+[[!meta description="How I setup two access points with Unifi HyppTV in Malaysia for awesome wireless coverage"]]
+
+Assumptions:
+
+* You are using Unifi fibre <img src="https://s.natalian.org/2018-09-22/unifi-logo.svg" alt="TM unifi logo">
+* You have a home big enough where the wifi signal from your [Telekom Malaysia](https://www.tm.com.my) supplied <abbr title="Wireless Access Point">AP</abbr> doesn't quite reach or has poor performance
+* You are using HyppTV / Unifi TV / IPTV in a place other than where the fibre terminates, typically in the ONU-FIBERHOME-AN5506-04B GPON modem supplied by [Telekom Malaysia](https://www.tm.com.my)
+
+# Proposal, replace the Unifi router!
+
+2x [Mikrotik hAP ac lite](https://mikrotik.com/product/RB952Ui-5ac2nD) should make your home wireless, AWESOME. They are about [240MYR each](https://www.lelong.com.my/mikrotik-wifi-router-hap-ac-lite-rb952ui-5ac2nd-ap-malaysia-sublimegroup-I5959197-2007-01-Sale-I.htm), so the total spend should be about **500MYR**.
+
+<img style="width: 30%" src="https://s.natalian.org/2018-09-22/1413_l.jpg" alt="hAP ac lite">
+<img style="width: 30%" src="https://s.natalian.org/2018-09-22/1413_l.jpg" alt="hAP ac lite">
+
+Unifi is due at writing to [upgrade customers to
+100Mbps](https://www.thestar.com.my/business/business-news/2018/09/18/new-unifi-100mbps-plan-at-rm-129-per-month/)
+and these devices are also limited to 100Mbps. I recommend alternatively the
+[hAP ac²](https://mikrotik.com/product/hap_ac2) if you can afford it. "hAP ac²"
+devices are capable 1000Mbps aka Gigabit speeds. So if you are sharing
+something within your network. It's FAST. However note the cable quality
+between your GPON ONU and HyppTV might be **poor quality CAT5**, i.e. not
+capable of supporting Gigabit speeds.
+
+# Setup
+
+One Mikrotik which I have named "Uptown" by the ONU:
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2018-09-22/ONU-FIBERHOME-AN5506-04B.jpg" alt="ONU-FIBERHOME-AN5506-04B">
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2018-09-22/ONU-FIBERHOME-AN5506-04B-behind-with-hap.jpg" alt="ONU-FIBERHOME-AN5506-04B rear">
+
+Another Mikrotik which I have named "tv" downstairs by the TV:
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2018-09-22/downstairs.JPG" alt="Mikrotik with a hyppTV">
+
+# Managed
+
+[Controlled Access Point system Manager
+(CAPsMAN)](https://wiki.mikrotik.com/wiki/Manual:CAPsMAN) allows centralization
+of wireless network management. I like to set a CAPsMAN up on the "Uptown"
+Mikrotik so when I plug in further Mikrotiks in "CAP mode" (think of it as a
+slave to CAPsMAN), it takes on the configuration of "Uptown". Furthermore when
+I upgrade "Uptown" the managed AP, in my case, "tv", gets upgraded too.
+
+# VLANs, several independent networks in one cable
+
+The way Unifi works is from LAN1 on the ONU, comes two "virtual" LANs in one cable to "Uptown":
+
+* VLAN 500, in which you need to establish a PPPoE connection to bridgeLocal
+* VLAN 600, the IPTV network for the HyppTV
+
+Mikrotik needs to be configured to map these networks on to its ports and bridges.
+
+It gets a little complex as we tag our connected Internet out on the IPTV
+network under VLAN id 592 for the CAP "tv" to untag to its bridgeLocal. There are
+easier ways to do it, but we do it this way in the case the CAP "tv" fails, the
+cable can be directly plugged into the HyppTV and it will still work.
+
+# The Mikrotik configurations
+
+* [uptown](https://s.natalian.org/2018-09-22/uptown.txt)
+* [tv](https://s.natalian.org/2018-09-22/tv.txt)
+
+Unfortunately you cannot just restore these two configurations. You have to use
+them as guide as your login `user=hendry_lc@unifi`, physical mac-addresses,
+essid, wireless passphrase will be different for your deployment. I wrote a
+[detailed explanation on the Mikrotik forum of the
+setup](https://forum.mikrotik.com/viewtopic.php?f=2&t=139462).
+
+I posted a video of how I configured a [CAPsMAN on a
+bridge](https://youtu.be/bgKZMd1-rM4?t=280), which hopefully introduces you how
+to use the Mikrotik GUI. 
+
+Once you have it all setup, you should by able to see using "Airport utility"
+on IOS and using **Wi-Fi Scan** four access points. Why four? Each [Wireless
+AC](https://en.wikipedia.org/wiki/IEEE_802.11ac) capable device has a 2.4 Ghz
+radio as well as often less crowded and more stable 5 Ghz radio. Enjoy your
+super stable Wireless in Malaysia!

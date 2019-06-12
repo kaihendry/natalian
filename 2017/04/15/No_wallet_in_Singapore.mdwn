@@ -1,0 +1,86 @@
+[[!meta title="No wallet in Singapore?"]]
+[[!meta description="Taking the chance to migrate my old back pocket wallet to my phone"]]
+
+On April 5th 2017 I lost my wallet. I am pretty sure it fell out, after quickly
+stuffing it in my front pocket.
+
+I didn't recover it, despite realising my wallet fell out minutes later.
+[Singapore
+police](http://www.police.gov.sg/e-services/report/lost-property-report) were
+not interested since I wasn't too sure it was stolen. My local condo security
+was its usual incompetent self despite having a camera trained on the gate
+where my wallet fell out.
+
+The wallet had about 200SGD in it, which is almost half the monthly salary of a
+worker, so I am going to guess this opportunistic crime was just too tempting
+for someone. Btw I not 100% sure I had a business card in there, but if you
+Google "Kai Hendry"... you will find me.
+
+# What my old wallet looked like
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto/https://s.natalian.org/2017-04-15/oldwallet.JPG" alt="My old leather wallet">
+
+1. OCBC ATM card - for withdrawing cash, paying by NETS & VISA (including Pay Wave)
+2. Cash ... I actually usually carry MYR and SGD in cash since I am often in Malaysia.
+3. Condo gate key - simple RFID based one, trivial to duplicate
+4. [Ezlink card](https://en.wikipedia.org/wiki/EZ-Link) for public transport and can be used rarely elsewhere.. like for [ActiveSG](https://www.myactivesg.com/)
+5. The [Singapore identity card](https://en.wikipedia.org/wiki/National_Registration_Identity_Card), <strike>which is an offence not to carry</strike>, which I have [just learnt is not required to carry the card on the person](https://twitter.com/bytebot/status/853140564954435585)
+
+I sometimes carry business cards but I often give them out at various
+Singaporean meetups and quickly exhaust them.
+
+# What I want my wallet to look like
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto/https://s.natalian.org/2017-04-15/newwallet.JPG" alt="What I want my new wallet to look like">
+
+Sidenote: The last four digits of my Visa updated overnight from 1753 to
+**replacement 6041** in my Apple wallet after I reported my previous Visa as
+lost. HOW COOL IS THAT?!
+
+With my OCBC Visa in my Apple Pay wallet, I don't have to carry the **OCBC ATM
+card** unless I need to withdraw cash.
+
+As for cash, I keep it at the back of my phone inside my [iPhone 7+ Quadlock
+case](https://www.quadlockcase.com/collections/iphone-7-plus). However the
+issue with this is that 50SGD notes does not fit!! Even the 10SGD almost goes
+over the camera. So I am left carrying the smaller [2SGD & 5SGD notes](https://s.natalian.org/2017-04-15/two-five-sgd.jpg).
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto/https://s.natalian.org/2017-04-15/50sgd.jpg" alt="50SGD is bigger than the iPhone 7+">
+
+The Ezlink... I've yet to [transfer an Ezlink
+chip](https://www.bunniestudios.com/blog/?p=1379) to my iPhone case. I am
+plucking up the courage. It doesn't seem very easy.
+
+As for the condo card, I am looking for a small RFID card, small enough of
+course to fit underneath my quadlock case.
+
+Pros of this (unrealised) setup:
+
+* No wallet in my back pocket!
+* Easier to find via [Find my Iphone](https://www.icloud.com/#find)
+* One less thing to worry about it!
+* <strike>Impossible to withdraw cash since I wouldn't carry the ATM card with this setup</strike> [UOB do this!](http://www.uob.com.sg/personal/ebanking/atm/contactless.html)
+
+Cons:
+
+* Can carry only a small amount of cash (2/5 .. maybe 10SGD notes ... or folded 50SGD)
+* Limited to spend only 100SGD via Paywave... [..actually set by Merchant](https://twitter.com/OCBCBank/status/853789491978539010)
+* The Singapore <abbr title="Identity Card">IC</abbr> in the back of the phone between the iphone and Quadlock case is very cramped
+* No space for cards
+
+I could try this [Quadlock case
+converter](http://www.thingiverse.com/thing:735268) to relieve the pressure of
+cards, but obviously when I am on my bike I want that socket back.
+
+# Outlook
+
+Not having cash in Singapore is a significant problem. Cashless payments do
+feel only limited to big business who can afford the [expensive (and time
+consuming) PDQ fees](/2010/04/12/Why_process_small_business_data_NOT_quickly/).
+In South Africa I noticed the cashless
+[SnapScan](https://twitter.com/SnapScanApp) &
+[Zapper](https://twitter.com/zapper_app?lang=en) Apps (where you pay by QR
+code) used be small businesses... I wonder when they will hit Singapore?! Don't
+get me wrong, I don't want to completely depend on Apple!
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto/https://s.natalian.org/2017-04-15/scansnapzapper.JPG" alt="SnapScan and Zapper">

@@ -1,0 +1,66 @@
+[[!meta title="Paying someone with OCBC online in Singapore"]]
+[[!meta description="Paying someone with OCBC online is ridiculously hard"]]
+
+
+<div style="background-color: #FFFFCC">
+
+**tl;dr**
+
+* the transfer process in unrelated to the value of the transfer so a $500,000
+  transfer would require the same convoluted process as a $0.05 transfer
+* [OCBC recommend their Pay Anyone
+  service](https://twitter.com/OCBCBank/status/808488319072014336), which seems
+to require an App install and to be connected to the recipient by mobile number
+which sounds really awful to me. They say it's good for [microtransactions on
+Carousell](https://twitter.com/OCBCBank/status/808529237900689408) but even
+people I know who work on Carousell have never heard of anyone using this.
+Totally delusional and I wish they would fix their Web app flow.
+
+</div>
+
+
+
+On the ground [OCBC](https://www.ocbc.com/group/group-home.html) are quite a
+good bank especially with their ATM availability.  Online it is a bit of a
+nightmare.
+
+Consider the use case of paying someone online 3.30SGD for an [item on
+Carousell](https://carousell.com/p/41642060/).
+
+<img src=https://s.natalian.org/2016-12-13/carousell.png alt="Making payment on Carousell">
+
+Ok, first login with that token you've misplaced. I am unable to login on my
+mobile. No idea why. So, on your laptop find the UI to pay someone under
+Transfer funds, other Singaporean accounts and [remember POSB =
+DBS](/2012/12/04/Singapore_banking_surprises/).  If you got here without losing
+you mind, just you wait!
+
+<img src=https://s.natalian.org/2016-12-12/too-dumb-to-remove-dashes.png>
+
+Now you need to ask the person who you are transferring to the:
+* Name (as per bank record)
+* Email address
+
+For some reason, an account number is not enough with OCBC! Oh no!
+
+Oh also, make sure you take out the dashes from the account number without
+accidentally removing a digit! Computers are really good at pruning characters,
+but OCBC programmers gets you to do this.
+
+<img src=https://s.natalian.org/2016-12-12/1481506055_2558x1404.png alt="Sign the newly added account">
+
+Now you need to "sign" the last 6 digits of the account number. Why? I have no
+idea. I just want to pay 3.30SGD and be done with it over 10 minutes ago. I
+don't want to purchase anything again from the seller hopefully so I don't want
+his account polluting my OCBC payees list. But you don't have that choice.
+March on!
+
+<img src=https://s.natalian.org/2016-12-12/1481506144_2558x1404.png alt="Final OTP">
+
+Now you can choose the newly added payee to transfer 3.30SGD! Yahoo... oh but
+pickup the token again, now you need to enter a _masked_ (seriously stupid)
+<abbr title="One time password">OTP</abbr> password. It's a trivial sum FFS!
+WHY WHY WHYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+
+Ok, I should have just gone to Woodlands and met this guy in person to pay
+cash. It would be far easier to try do something online with OCBC.

@@ -28,7 +28,9 @@ who can't use the biometric express queues until the child is four years old.
 There are about 40 flights a day between Singapore (SIN) to Kuala Lumpur,
 Malaysia (KUL).
 
-Journey time: 4.5 hours in best case
+Journey time: <strike>4.5 hours in best case</strike> <strike>[FOUR HOURS via SZB](https://youtu.be/K5csNxWPtAc)</strike> [3hr 20mins SZB&rarr;SIN is THE NEW RECORD](https://twitter.com/kaihendry/status/815083413002559488) !
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K5csNxWPtAc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Price: Varies tremendously, but typically in the 150-250SGD range for a return
 fee booked weeks in advance. 3x the cost of a bus and lets not forget the taxis
@@ -53,6 +55,10 @@ travel to Malaysia is expensive.
 
 # Train
 
+Update: [Agreement between Singapore & Malaysia inked on 13 December 2016](https://www.gov.sg/news/content/today-online---singapore-kl-high-speed-rail-agreement-will-be-inked-on-dec-13)
+
+* [10 things to know about the Singapore-Kuala Lumpur high-speed rail](http://www.straitstimes.com/singapore/transport/8-things-to-know-about-the-singapore-kuala-lumpur-high-speed-rail)
+
 Presently the train to KL takes umpteen hours (overnight usually), however there is a new
 [Singapore-Kuala Lumpur High Speed
 Rail](https://en.wikipedia.org/wiki/Kuala_Lumpur%E2%80%93Singapore_High_Speed_Rail)
@@ -62,7 +68,8 @@ Another annoying aspect is proposed new the train terminates in Jurong East,
 not downtown Singapore. Since I live in East Singapore, it can easily take upto
 an hour to get home from Jurong!!
 
-Journey time (once completed in 10 years time): 99 minutes plus 1 hr from Eunos-Jurong & 1 hr between KL & PJ =~ 4 hours
+Journey time (once completed in 10 years time): 99 minutes plus 1 hr from
+Eunos-Jurong & 1 hr between KL & PJ =~ 4 hours
 
 # Conclusion
 

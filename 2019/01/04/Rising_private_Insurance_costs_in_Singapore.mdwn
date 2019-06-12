@@ -1,0 +1,39 @@
+[[!meta title="Rising private Insurance costs in Singapore"]]
+[[!meta description="AIA Healthcare in Singapore is rising alarmingly!"]]
+
+<img src="https://s.natalian.org/2019-01-05/AIA-2019.svg" alt="AIA 2019 Premium rates">
+
+Last year I complained [about a 13% price increase](/2018/01/22/AIA_messaging/)
+to my health insurance premium.
+
+To my astonishment, this year it rose from 43.40SGD to [73SGD for my AIA Max
+Essential A plan](https://twitter.com/kaihendry/status/1078473870607233025). Er, that's a **68.2%** increase !?!
+
+My "AIA Essential A plan" IIUC (AIA seems to make this very confusing) is sold
+together with the **HealthShield** (AIA HealthShield Gold Max A). The
+**SHIELD** (as I understand it) is a _Singapore government initiative_ to
+standardise (and supposingly simplify) [private health care insurance
+offerings](https://www.moh.gov.sg/medishield-life/about-integrated-shield-plans/comparison-of-integrated-shield-plans).
+I recall the **Shield plans** came into affect roughly two years ago.
+
+This is really disappointing considering how AIA seemed to react apologetically
+last year with <https://www.aia.com.sg/en/IP-Riders.html> together with a
+[Strait's Times article titled "Keeping insurance premiums
+affordable"](https://www.straitstimes.com/singapore/health/keeping-insurance-premiums-affordable). That year they attributed the rise to following Health Care Interpretations Task Force (HITF) recommendations, wherever they are published.
+
+This year, in the regular mass mailing where they just gave me a [table with no
+context](https://twitter.com/kaihendry/status/1078473870607233025), I only
+noticed the hike due to my [previous blog](/2018/01/22/AIA_messaging/)! I
+contacted my insurance agent who said "All the insurers increased their premium
+(because) the claims are (way) too high. Every insurer lost money for this
+policy". This statement seems to be confirmed by <https://www.tnp.sg/news/business/insurers-suffer-losses-intergrated-shield-plans-premiums-may-rise>.
+
+I am wondering are the hikes down due to creation of the [Integrated **Shield**
+Plan](https://www.aia.com.sg/content/dam/sg/en/docs/ip-riders/aia-maxessentialrider-infographics-march2018.pdf)
+by the Government? I.e. the government foisted some change with good
+intentions, the insurance industry complied and then reacted by raising the premiums
+silently over the years?
+
+Else how can health care costs go up by SO MUCH?!
+
+I saw [the businesstimes](https://www.businesstimes.com.sg/banking-finance/aia-singapore-sees-42-jump-in-annualised-new-premiums-for-h1) reporting on the rise, but no real reasons why and I am wondering who is looking out for the middle class who buy these policies.

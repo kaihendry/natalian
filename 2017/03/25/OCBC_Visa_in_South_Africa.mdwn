@@ -1,0 +1,85 @@
+[[!meta title="Using OCBC Visa in South Africa"]]
+[[!meta description="Wish my bank could tell me the currency exchange rates in advance"]]
+
+<a href="http://www.xe.com/currencycharts/?from=SGD&to=ZAR"><img src=https://res.cloudinary.com/hendry/image/fetch/f_auto/https://s.natalian.org/2017-03-25/sgd-zar.png alt="Currency rates by XE"></a>
+
+For the first trip ever, I didn't withdraw cash and used my Visa debit card
+exclusively whilst on holiday in South Africa. However I have to trust "the
+system" and see what rates were used retroactively, since there is **no way
+AFAIK to see the rates in advance**!
+
+Sidenote: I was never asked for my PIN whilst in South Africa, despite IIUC
+them having chip and pin capable devices. Only had to sign for transactions.
+Little scary.
+
+I painstakingly [logged in](https://internet.ocbc.com/internet-banking/) and downloaded the CSV and then proceeded to [clean the CSV
+up to join lines and filter only the South African Rand (ZAR) purchases](https://s.natalian.org/2017-03-25/ZAR-SGD.csv).
+
+Next time to write a [program to parse the CSV for the currency values and run a calculation](https://s.natalian.org/2017-03-25/p.sh).
+
+Which results in the following **output**:
+
+	86.880 / 10.010 = 8.679
+	25/03/2017 ,22/03/17 ZAR 86.88 xx-1753 LET'S DELI LONEHILL      L
+	100.000 / 11.520 = 8.681
+	25/03/2017 ,21/03/17 ZAR 100.00 xx-1753 MUGG AND BEAN AIRSIDE    C
+	166.000 / 19.120 = 8.682
+	25/03/2017 ,21/03/17 ZAR 166.00 xx-1753 GAUTRAIN ORTIA TOM       G
+	245.000 / 28.220 = 8.682
+	25/03/2017 ,22/03/17 ZAR 245.00 xx-1753 POLLY POTTERS LONEHILL   L
+	52.000 / 5.990 = 8.681
+	25/03/2017 ,22/03/17 ZAR 52.00 xx-1753 WOOLWORTHS               O
+	44.480 / 5.120 = 8.688
+	24/03/2017 ,xx-1753 PnP Crp Lonehill         S 22/03/17 ZAR 44.48
+	530.000 / 60.980 = 8.691
+	24/03/2017 ,xx-1753 A AND J AFRICAN ARTS AND S 20/03/17 ZAR 530.00
+	150.000 / 17.260 = 8.691
+	24/03/2017 ,xx-1753 RUST EN VREDE WYNLAND    S 20/03/17 ZAR 150.00
+	574.500 / 65.720 = 8.742
+	23/03/2017 ,xx-1753 FALSE BAY SELECT         C 18/03/17 ZAR 574.50
+	525.000 / 60.060 = 8.741
+	23/03/2017 ,xx-1753 CAFE ROUX                N 19/03/17 ZAR 525.00
+	310.000 / 35.460 = 8.742
+	23/03/2017 ,xx-1753 VERGELEGEN STABLES R  TAUS 19/03/17 ZAR 310.00
+	390.000 / 44.620 = 8.740
+	23/03/2017 ,xx-1753 SANBI KIRSTENBOSCH       N 18/03/17 ZAR 390.00
+	1200.000 / 137.270 = 8.742
+	23/03/2017 ,xx-1753 RUST EN VREDE WYNLAND    S 20/03/17 ZAR 1200.00
+	300.000 / 34.210 = 8.769
+	22/03/2017 ,xx-1753 Checkers Stellenbosch    S 20/03/17 ZAR 300.00
+	730.000 / 83.260 = 8.768
+	22/03/2017 ,xx-1753 THE AVENUE RESTAURAN     C 18/03/17 ZAR 730.00
+	28.000 / 3.200 = 8.750
+	21/03/2017 ,xx-1753 VIDA E CAFE              N 18/03/17 ZAR 28.00
+	350.000 / 39.920 = 8.768
+	20/03/2017 ,xx-1753 UBER ZA MAR17 6R444 HELP.h 17/03/17 ZAR 350.00
+	371.000 / 42.310 = 8.769
+	20/03/2017 ,xx-1753 UBER ZA MAR17 WWRXQ HELP.h 17/03/17 ZAR 371.00
+	388.000 / 44.260 = 8.766
+	20/03/2017 ,xx-1753 DA VINCIS ON 2N   56863  C 17/03/17 ZAR 388.00
+	1141.000 / 130.130 = 8.768
+	20/03/2017 ,xx-1753 STEFFANIES               J 16/03/17 ZAR 1141.00
+	149.950 / 17.040 = 8.800
+	18/03/2017 ,xx-1753 PnP Crp Waterstone Vll   S 15/03/17 ZAR 149.95
+	590.000 / 67.070 = 8.797
+	18/03/2017 ,xx-1753 THE MILL HOUSE KITCHEN   S 14/03/17 ZAR 590.00
+	504.000 / 57.290 = 8.797
+	18/03/2017 ,xx-1753 RENTAFONE OR TAMBO INT   J 14/03/17 ZAR 504.00
+	78.000 / 8.670 = 8.997
+	17/03/2017 ,xx-1753 VIDA ORTIA               K 14/03/17 ZAR 78.00
+	129.990 / 14.440 = 9.002
+	17/03/2017 ,xx-1753 CAPI INT D ZERO ONE      K 14/03/17 ZAR 129.99
+	3135.060 / 349.040 = 8.982
+	16/03/2017 ,xx-1753 KULULA SABR              B 11/03/17 ZAR 3135.06
+
+I am not sure how to pull up the rates on the day for a side by side
+comparison. [Currency APIs seem severely
+limited](https://www.programmableweb.com/api/currency-rates) or [just
+expensive](http://www.xe.com/xecurrencydata/).
+
+Wish my bank could show this calculation for me in their user interface. Guess I
+should count my blessings that I am able to do a CSV download.
+
+I wonder what those S, C, N, K letters mean.
+
+Are there any tools to make this easier? Do please let me know.

@@ -1,0 +1,92 @@
+[[!meta title="DO Spaces versus AWS S3 in Singapore"]]
+[[!meta description="Comparing object storage in Singapore with the incumbent and the new comer"]]
+
+<blockquote>
+DO are preying on the "people who pay for stuff but don't use it" market, whereas AWS is more the "pay for exactly what you use" market
+— <cite>Anonymous</cite>
+</footer>
+</blockquote>
+
+<img src="https://natalian.sgp1.digitaloceanspaces.com/2018-01-27/1517046984_2558x1406.png" alt="Spaces signup">
+
+Currently I have about 115GB upon **s.natalian.org** hosted in a public <abbr
+title="Amazon Web services simple storage service">AWS S3</abbr> bucket,
+prefixed my YYYY-MM-DD.  On average ~1GB is downloaded from it everyday. It
+hosts my screenshots and anything I'd like to share by URL.
+
+I don't allow file listings, so you need to know the full URL to object in
+order to view it.
+
+There is a lifecycle rule for the entire bucket to become Standard <abbr title="Infrequent access">IA</abbr>, which is
+[priced at](https://aws.amazon.com/s3/pricing/) $0.02 per GB per month. This
+works out to be 2.3USD a month.
+
+To complicate matters, I have AWS's Cloudfront <abbr title="Content Delivery
+Network">CDN</abbr> in front of my bucket which often costs 5x more that the S3
+storage costs. I prefer it since it allows me to distribute from the
+<https://s.natalian.org> SSL vanity URL and ensure a [fast experience for my
+worldwide audience](https://youtu.be/UtW26z0aTtY).
+
+# Enter Digital Ocean's spaces
+
+So currently I'm trailing Digital Ocean's S3 compatible 5USD dollar a month
+[Spaces](https://www.digitalocean.com/products/spaces/) which includes 250GB
+and 1TB of outbound transfer. So it's already looking like 2x the 2.3USD I pay
+for AWS S3. Essentially the cost of storing data seems exactly the same as
+Standard-IA at **$0.02 per GB**, however <abbr title="Digital Ocean">DO</abbr>
+price in **tiers**. So you effectively pay up front unlike AWS's "pay as you go".
+
+Nonetheless I am going to give it a go, since I feel like it will be the
+[_second_ fastest redundant S3 option I'll have in
+Singapore](https://blog.digitalocean.com/spaces-available-in-sgp1).
+
+Please click on my [Digital ocean referral
+code](https://m.do.co/c/37b3b1850b32) if you are keen to give it a try too.
+
+I'll add information about how I will attempt to sync them up. So far I don't
+have a good idea other than keeping a local copy on my NUC and S3 syncing
+between them!
+
+# rclone
+
+I wrote to Digital Ocean support, asking how best to migrate from AWS S3 to DO
+Spaces and they recommended:
+<https://www.digitalocean.com/community/tutorials/how-to-migrate-from-amazon-s3-to-digitalocean-spaces-with-rclone>.
+
+However it doesn't work.
+
+	rclone v1.39
+	- os/arch: linux/amd64
+	- go version: go1.9.2
+
+	$ rclone ls spaces:natalian/
+	2018/02/05 15:42:31 ERROR : 2018-01-27/: Entry doesn't belong in directory "2018-01-27" (same as directory) - ignoring
+
+I am hitting: <https://github.com/ncw/rclone/issues/1816>
+
+	time rclone sync s3:s.natalian.org spaces:natalian
+	2018/02/05 15:39:54 ERROR : favicon.gif: Failed to copy: InvalidArgument:
+			status code: 400, request id: tx00000000000000000c8c0-005a780a4a-1a74a-sgp1a, host id:
+
+and <https://forum.rclone.org/t/rclone-migration-error-from-amazon-s3-to-digital-ocean-spaces/4192/6>
+
+I've since filed this bug: <https://github.com/ncw/rclone/issues/2049>
+
+Using the `acl = private` workaround, it would appear I am copying via my local machine and sadly not direct! :(
+
+<img src=https://s.natalian.org/2018-02-05/copy.png>
+
+# Outbound transfer
+
+So I noticed whilst running `rclone sync -v s3:s.natalian.org spaces:natalian`,
+my AWS bill hit an alert. It looks like it will cost me 115 x $0.120= ~14USD to
+transfer all my data out of my bucket, for the initial backup. I worry for
+subsequent syncs, this also might be rather expensive!
+
+<img src="https://s.natalian.org/2018-02-06/1517904999_2558x1406.png" alt="S3 cost spike due to outbound transfer">
+
+And on closer inspection of [Digital Ocean pricing](https://www.digitalocean.com/pricing/), I surprisingly noticed, it's MUCH cheaper to transfer away!
+
+They give you 1TB free transfer and $0.01 per additional GB transferred! I am
+surprised they don't highlight this startling **price difference** between AWS S3 and DO
+Spaces.

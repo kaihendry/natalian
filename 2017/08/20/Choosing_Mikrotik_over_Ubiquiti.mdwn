@@ -1,0 +1,140 @@
+[[!meta title="Choosing Mikrotik over Ubiquiti for a roaming setup"]]
+[[!meta description="Notes on Praze Farm's Mikrotik setup."]]
+
+<blockquote
+cite="https://www.youtube.com/watch?v=FnVU0LMtv18&lc=UgwYMTyhzHe-7olEAz54AaABAg.8WpDlmU6uCA8XFQo3amDEV">MikroTik
+devices provide a very poor configuration experience, as there is not really a
+"right way" to do something but rather everything feels like a
+workaround.</blockquote>
+
+<img src="https://s.natalian.org/2017-08-20/1503221661_2558x1438.png" alt="Mikrotik Caps Manager">
+
+Mikrotik unexpectedly cost me many hours of experimenting and learning to
+setup. Was it worth it over using Ubiquiti?
+
+Probably not, though I did learn a lot more about networking in the process.
+
+Here is the [configuration that took me a long time to create for Praze
+Farm](https://www.reddit.com/r/mikrotik/comments/6rq85t/aa_hap_lite_configuration_for_home/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FnVU0LMtv18?rel=0" frameborder="0" allowfullscreen></iframe>
+
+# Winbox
+
+<img src="https://s.natalian.org/2017-08-20/winbox.png" alt="Winbox on Archlinux">
+
+You can get `wine /usr/share/winbox/winbox.exe` running under Archlinux, and
+you need to use this tool if your device has some issue getting an IP address.
+
+I do prefer to use a Web interface, but if you find the Web interface doesn't
+work, do quickly try Winbox, you might be surprised that it works better!
+
+# Avoid Quickset
+
+Mikrotik's [modes are not sufficiently well
+documented](https://wiki.mikrotik.com/wiki/Manual:Quickset) and I have had bad
+experiences where I've applied them and it messed up my configuration in an
+unexpected way.
+
+# Firewall interface sucks
+
+Even the cheapest routers have an easier to use Firewall interface than
+Mikrotik. Would be good if that had some sane wizard at the very least to get
+you up and running and your port 22 protected!
+
+# <abbr title="Power over Ethernet ">PoE</abbr> is cool
+
+Stringing along another access point without the need to worry about powering
+it, is useful. However I do wish there was PoE camera hardware offered by
+Mikrotik too.
+
+# Roaming
+
+My wifi at home is open and you don't need to authenticate. So I am not if
+Ubiquiti's claims of [Fast
+roaming](https://help.ubnt.com/hc/en-us/articles/115004662107-UniFi-Fast-Roaming)
+have merit. Apple [seems to say it is all a client side
+decision](https://support.apple.com/en-sg/HT203068) how to move between Access
+Point stations.
+
+Attractively [Mikrotik does have the ability to kick off
+clients](https://blog.linitx.com/howto-improved-capsman-wireless-client-roaming/)
+but I didn't have time to try it.
+
+# Update: QoS
+
+Thanks to Paul Hendry who contacted me over email and introduced [Queue
+tree](https://wiki.mikrotik.com/wiki/Manual:Queue#Queue_Tree) to me. I have
+turned this A&A control graph:
+
+<img src="https://s.natalian.org/2017-08-14/blue-flame.png" alt="Saturated line">
+
+to
+
+<img src="https://s.natalian.org/2017-12-08/under-control.png" alt="QoS line">
+
+Crucially I always thought a modem could work out when and where it's being
+saturated with the upstream (max-limit), but Paul points out:
+
+	QoS only kicks in when a link is being saturated. The router thinks it has a
+	100mb ethernet port to play with so would never queue traffic going out to your
+	DSL modem.
+
+So I know my parent's line is syncing with an upstream like so:
+
+	2017-11-09 Down:20.8 (20.7/20.8/23.1) Up:1.4 (1.4/1.4/1.5)
+	2017-09-04 Down:19.0 (18.7/18.9/19.0) Up:1.5 (1.2/1.4/1.4)
+	2017-08-15 Down:19.3 (18.0/19.0/19.2) Up:1.4 (1.3/1.4/1.4)
+
+With Paul's help I've successfully sorted out my [Apple Facetime](https://en.wikipedia.org/wiki/FaceTime) issues with:
+
+	/queue tree
+	add max-limit=1448k name=Upload parent=AAISP queue=default
+	add limit-at=800k max-limit=800k name=Upload-UDP packet-mark=UDP parent=Upload
+	add name=Upload-Else packet-mark=Else parent=Upload queue=default
+
+IIUC this guarantees (800k) UDP traffic to Apple Facetime!
+
+Could it be better?
+
+This is explained by Paul as:
+
+	The (above) will set a maximum upload of 1.4Mbps on your PPPoE interface and
+	allow everyone to upload to the full 1.4M except when UDP wants to upload then
+	UDP gets up to 800Kbps whilst everyone else gets throttled back to what's left.
+
+[My full Mikrotik configuration](https://s.natalian.org/2017-12-08/config.txt)
+
+Sidenote: Other Mikrotik users recommened I just prioritise the traffic instead of limiting. This is the wrong approach! Paul explains:
+
+	The problem with using priority is it doesn't guarantee the traffic, it just
+	increases the probability. Both child queues have to refer to the parent queue
+	to make the decision. Also, a child queue with no packet mark won't match any
+	packets so all the below will do is limit only UDP and allow everything else to
+	max the line out. Kinda the opposite of what you are looking to do ;)
+
+There seems to be a [vast amount of ways of doing QoS in
+Mikrotik](https://youtu.be/DLB2pG26dhk?t=592), though thankfully the Queue tree
+above seems to be working!
+
+## Accounting
+
+My dream would to have a table of each named client and their usage. Currently
+I'm torching and matching the IP with the DHCP client table manually. What an
+utter PITA!
+
+# Conclude
+
+I wish Mikrotik software was more open & didn't have this license weirdness..
+Hopefully that would reshape the community and its software. For example, a
+consumer device with [Bottleneck Bandwidth and Round-trip propagation time
+Congestion
+Control](https://www.reddit.com/r/mikrotik/comments/6t8zpi/does_mikrotik_have_any_congestion_control_like_bbr/)
+would be.. nice!
+
+Better support. Ubiquiti's support surprisingly has fast, responsive support
+compared to emailing Mikrotik. Perhaps tools that were able to load a
+`supout.rif` and to simulate RouterOS could help troubleshoot problems without
+requiring a "consultant"?
+
+Mikrotik, how about having a public <abbr title="Bug Tracking System">BTS</abbr>?

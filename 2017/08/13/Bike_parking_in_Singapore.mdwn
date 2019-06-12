@@ -1,0 +1,29 @@
+[[!meta title="The problem with bike parking in Singapore"]]
+[[!meta description="Biking infrastructure in Singapore typically warps wheels"]]
+
+This is typical of bike stands in Singapore:
+
+<img src=https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2017-08-12/clamp.JPG alt="Typical Singapore bike parking">
+
+This front wheel clasp doesn't hold the front wheel and what happens is the
+bike when awkwardly locked to it, leans onto it to stay somewhat upright.
+
+Sidenote: Locking just the front wheel is insecure, a "lean to" type parking
+makes it easier to lock the frame securely.
+
+Now over time, I've found this to warp my front wheel. In a much shorter time,
+if someone accidentally pushes the bike, the pressure on the front wheel will
+cause it to damage.
+
+Poorly designed bike racks like these are found in both public and [private
+condominium spaces](https://s.natalian.org/2017-08-12/condo.JPG).
+
+It's much safer to lean your bike along a wall, but that seems prohibited.
+
+<img src=https://res.cloudinary.com/hendry/image/fetch/f_auto,fl_lossy,q_auto/https://s.natalian.org/2017-08-12/lean.JPG alt="Bikes leaning on a wall">
+
+## tl;dr
+
+Bike parking needs to be the better designed lean to sort and better maintained
+in Singapore. I would seriously pay for safe parking for my bike at this point,
+given the poor options.

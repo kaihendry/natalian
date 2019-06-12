@@ -1,6 +1,8 @@
 [[!meta title="Foreigner Singapore 2FA"]]
 [[!meta description="Singapore's 2FA rollout is pretty theatrical waste of time, especially for EP holders"]]
 
+<img src="https://s.natalian.org/2017-02-05/not-complete-despite-auto-registration.png" alt="Not complete despite auto registration">
+
 I'm keen on two factor authentication (2FA) to improve account security. I use
 Google Authenticator and I must have ported over about 10 accounts to it.
 

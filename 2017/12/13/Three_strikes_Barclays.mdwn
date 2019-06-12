@@ -1,0 +1,43 @@
+[[!meta title="Three strikes and you are out Barclays"]]
+[[!meta description="Barclays lost a customer due to three instances of contempt"]]
+
+UPDATE: [A video where I compare banking between Barclays & Bitcoin](https://youtu.be/_TxuT2U4TYE)
+
+* [Strike 1](https://natalian.org/2014/06/18/Barclays_made_my_backup_account_dormant_and_took_my_money/) - made my backup account dormant
+* Strike 2 is when I was [locked out my own account and money](https://twitter.com/kaihendry/status/883841540589625345) until I could travel to a UK branch from Singapore to verify my identity
+* Strike 3 is [requiring the information on how much I earn and how much tax I pay](https://twitter.com/kaihendry/status/928798501059772417), i.e. a total contempt of my privacy
+
+<img src="https://s.natalian.org/2017-12-13/D8E3B05D-1709-4B45-93E0-62B20E0B283D.jpeg" alt="Important KYC reminder">
+<img src="https://s.natalian.org/2017-12-13/53946116-8BE6-4265-8BF2-EF95485D3E92.jpeg" alt="Annual salary and bonus information request">
+
+At first Barclays claimed it was to [detect fraudsters and
+criminals](https://twitter.com/BarclaysUKHelp/status/928871372494966784). I
+guess being a life long customer is not good enough?
+
+Then Barclays claimed it is a [legal
+requirement](https://twitter.com/BarclaysUKHelp/status/928872988061073408) set
+by the FCA.
+
+I contacted the [FCA](https://www.fca.org.uk/) asking about these requirements and they replied:
+
+<blockquote>
+..we don’t have any rules which specify what information a firm must ask from their customers in relation to ‘knowing your customer’.
+</blockquote>
+
+Furthermore FCA asked me to ask Barclays:
+
+<blockquote>If Barclays can tell you exactly which rule or which regulations
+specify that they must ask you how much you earn then please let me know and I
+will look into this further for you.</blockquote>
+
+And Barclays replied [they can only tell me in private
+DM](https://twitter.com/BarclaysUKHelp/status/928920578597310464). I.e. they
+won't tell us straight.
+
+FCA re-iterated that:
+
+<blockquote>
+no specific rules which state that a firm must ask you how much you earn and this is usually a commercial decision on the firm themselves
+</blockquote>
+
+Therefore Barclays initial claim it was for a [legal requirement](https://twitter.com/BarclaysUKHelp/status/928872988061073408) is also poppycock.

@@ -1,0 +1,45 @@
+[[!meta title="E-stamping Singapore"]]
+[[!meta description="A very frustrating experience interacting with the Smart nation's government"]]
+
+## Exhibit A - A modal confiming the button I just pressed
+
+<img src=https://s.natalian.org/2019-04-02/modal.png>
+
+## Exhibit B - please allow popups
+
+<img src=https://s.natalian.org/2019-04-02/1554192224_2560x1440.png>
+
+Authentication didn't work. It's OK. I can wait to try again. And again.
+
+## Exhibit C - please enter your account number ... without dashes
+
+<img src=https://s.natalian.org/2019-04-02/no-dashes.png>
+
+This makes Paynow look like genius. Can't quite believe I've authenticated with my bank to provide these details again.
+
+## Exhibit D - my reward for paying
+
+<img src=https://s.natalian.org/2019-04-02/d2pay.png>
+
+I don't think it worked. I don't know. I received no confirmation.
+
+# Conclusion
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hi Kai, can you try again and pls choose from the drop-down list box as follows:<br>-DBS Savings Plus <br>-POSB Savings (for POSB eSavings and POSB Passbook)<br>-DBS Current <br>-DBS Autosave (for DBS Multiplier and DBS Multi-Currency Accounts)<br>-POSB Current<br><br>Let us know how it goes. Thanks!</p>&mdash; DBS Care (@dbs_care) <a href="https://twitter.com/dbs_care/status/1113350927065538560?ref_src=twsrc%5Etfw">April 3, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+If you have a DBS "multiplier account" like I do. Choose **DBS Autosave** otherwise _d2pay_ will fail.
+
+To try pay again you need the **Document Ref No** to Search Transactions under
+Payments & Transactions. I called IRAS 1800 460 4923 for 13 minutes to retrieve
+this.
+
+UPDATE TO FIND ESTAMPING DOCUMENT REFERENCE NUMBER:
+
+1. Login using the same SingPass
+2. Go to Records -> Search Stamping Records
+3. Go to Document Status -> Submitted
+4. Enter Submission Date -> click the calendar icon and choose 2 dates to filter your stamping date
+5. Click Search
+6. Then click Details, then if payment made, you may download stamp certificate. If payment does not gone through, they will ask you to make payment.

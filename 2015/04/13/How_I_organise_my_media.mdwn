@@ -1,33 +1,27 @@
 Following up from [How I organise my
-pictures](archives/2013/05/09/How_I_organise_my_pictures), there has been some
+pictures](/2013/05/09/How_I_organise_my_pictures), there has been some
 changes:
 
-* I don't like running the proprietary blob of the Dropbox client, not btsync
-* static.natalian.org is now on [AWS S3](http://aws.amazon.com/s3/)
+* I don't like running the proprietary blob of the Dropbox client or btsync
+* static.natalian.org aka s.natalian.org is now on [AWS S3](http://aws.amazon.com/s3/)
 
-So this is the current workflow (or plan since I haven't got in the rhythm yet):
+From my laptop I run
+[all.sh](https://github.com/kaihendry/media-organisation/blob/master/all.sh) to
+grab my media off my iPhone or SDcard into YYYY-MM-DD folders.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f0FBvOfpI0Y" frameborder="0" allowfullscreen></iframe>
+Then I need to copy my local files to an external NUC using
+[sync.sh](https://github.com/kaihendry/media-organisation/blob/master/sync.sh).
+However since I keep running out of space when it comes to video media, I am
+omitting videos nowadays, choosing to import directly to FCPX on a MBP.
 
-From my laptop:
+# Images
 
-1. Dump media in ~/media/{iphone6,gopro} - I use an Apple lightning cable & <a href=http://dabase.com/blog/Archiving_iPhone_images_with_Archlinux_and_ifuse/>`ifuse` for getting my iPhone media off onto Archlinux</a> - [sync-iphone.sh](http://s.natalian.org/2015-05-23/sync-phone.sh)
-*  Run [datemedia.sh](http://s.natalian.org/2015-05-23/datemedia.sh) to put things in a YYYY-MM-DD organised staging area called **uploadme/**
+Next I run
+[flickr.sh](https://github.com/kaihendry/dotfiles/blob/master/bin/flickr.sh) to
+upload from my NUC, which can take sometime.
 
-Then I need to copy my local files to an external hard disk (/mnt/2tb/media).
+# Videos
 
-[check.sh](http://s.natalian.org/2015-05-23/check.sh) does a couple of things:
-
-* Makes sure it doesn't overwrite the destination file
-* Makes sure if the destination file was deleted, it doesn't copy it back over again
-
-## On my external disk
-
-I first `git add .` and commit the new files. I want to keep the originals in
-order to back out of any edits.
-
-Next I run [flickr.sh](http://s.natalian.org/2015-05-23/flickr.sh) which does a couple of things:
-
-* supplies my image viewer [sxiv](https://github.com/muennich/sxiv) with 10 images at a time to annotate (title & tag) with [.config/sxiv/exec/key-handler](http://s.natalian.org/2015-05-23/key-handler) and [image-info](http://s.natalian.org/2015-05-23/image-info).
-* Prompts me to upload the image with [flickcurl](http://librdf.org/flickcurl/) in the background
-* If the upload is successful, it records the photo id in $filename.uploaded. I also commit this.
+Currently with videos I attempt to import them all to FCPX for editing. And
+then I try archive the the FCPX bundle using these scripts:
+<https://github.com/kaihendry/dotfiles/tree/master/Movies>

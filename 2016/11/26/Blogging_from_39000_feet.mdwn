@@ -1,3 +1,6 @@
+[[!meta title="Blogging from 39000 feet"]]
+[[!meta description="Blogging from a A350-900 over the Pacific ocean"]]
+
 <img src=https://res.cloudinary.com/hendry/image/fetch/f_auto/https://s.natalian.org/2016-11-26/39000feet.JPG alt="Flight information">
 
 My curiosity got the better of me and 4hrs into my trip I paid 21.95USD for
@@ -6,17 +9,16 @@ wifi for the entire journey from SIN to SFO.
 This is the first time I've had Internet on a plane and I feel like I am living
 in the future!
 
-                                                  Packets               Pings
- Host                                            Loss%   Snt   Last   Avg  Best  Wrst StDev
- 1. ns.singaporeair-krisworld.com                 0.0%  2181    1.4   3.2   1.0 338.7  14.5
- 2. 10.50.41.1                                    1.1%  2181    2.4   5.3   1.7 428.0  17.0
- 3. 172.18.14.37                                  2.2%  2181  555.2 591.7 534.5 3040.  95.9
-    172.18.14.42
- 4. 172.18.14.34                                  2.2%  2181  557.7 594.1 535.4 3035. 103.4
- 5. ???
- 6. 10.6.8.4                                      2.7%  2181  639.1 681.6 623.5 1925.  83.3
- 7. 10.6.9.2                                      2.7%  2181  637.1 684.6 625.0 1974.  90.4
- 8. ???
+	 Host                                            Loss%   Snt   Last   Avg  Best  Wrst StDev
+	 1. ns.singaporeair-krisworld.com                 0.0%  2181    1.4   3.2   1.0 338.7  14.5
+	 2. 10.50.41.1                                    1.1%  2181    2.4   5.3   1.7 428.0  17.0
+	 3. 172.18.14.37                                  2.2%  2181  555.2 591.7 534.5 3040.  95.9
+		172.18.14.42
+	 4. 172.18.14.34                                  2.2%  2181  557.7 594.1 535.4 3035. 103.4
+	 5. ???
+	 6. 10.6.8.4                                      2.7%  2181  639.1 681.6 623.5 1925.  83.3
+	 7. 10.6.9.2                                      2.7%  2181  637.1 684.6 625.0 1974.  90.4
+	 8. ???
 
 
 It surprisingly works. Though it wasn't easy to purchase the subscription.
@@ -46,5 +48,5 @@ Good news is that I did manage to Imessage and chat to my wife:
 <img src=https://s.natalian.org/2016-11-26/call-to-my-wife.png alt="My first voice call from a airplane">
 
 Update: On the way back on a B777-300ER via Hong Kong, the T-systems hotspot
-system as opposed to Panasonic Avionics system on out bound doesn't work nearly
+system as opposed to Panasonic Avionics system didn't work nearly
 as well. :(

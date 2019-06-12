@@ -1,0 +1,30 @@
+[[!meta title="SSL Iki.fi via Amazon Certificate Manager"]]
+[[!meta description="This is the best way to host your personal iki.fi homepage on Amazon Web Services"]]
+
+As <https://crt.sh/?q=%25.iki.fi> testifies, <https://hendry.iki.fi> is secured
+by SSL using the [AWS Certificate
+Manager](https://ap-southeast-1.console.aws.amazon.com/acm/home?region=ap-southeast-1#/).
+
+First you need to get a mail server running upon the A/MX field and answer
+emails to <webmaster@XXXX.iki.fi>. I did this quickly by getting <a
+href="https://en.wikipedia.org/wiki/Postfix_(software)">Postfix</a> running on
+an VPS with `mydestination = hendry.iki.fi` and then aliasing to forward to my
+email address that I read. Amazon will send a link you need to activate from
+your AWS account.
+
+Then I setup a hendry.iki.fi hosted zone on
+[Route53](https://console.aws.amazon.com/route53/), Amazon Web Service's DNS
+control panel.
+
+<img src=https://s.natalian.org/2017-01-01/1483246158_2558x1404.png alt="Hosted zone pointing to CloudFront">
+
+Once that's done, I then configure iki.fi with the AWS name servers for my hosted zone.
+
+<img src="https://s.natalian.org/2016-12-24/1482543593_2558x1404.png" alt="Iki.fi setup">
+
+Notice the string **ei-mulle-dns-secondarya** to the CNAME-tietue field and it
+will disable the zone transfer checks.
+
+Special thanks to Tero Kivinen for his excellent work at <http://www.iki.fi/>,
+an incredible lifetime redirection service, typically used by *.helsinki.fi
+alumni.

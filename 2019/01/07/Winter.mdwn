@@ -1,0 +1,32 @@
+[[!meta title="It's cold in the Information Age"]]
+[[!meta description="Hash tag #cryptowinter"]]
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Gartner_Hype_Cycle.svg" alt="Gartner Research's Hype Cycle diagram by Jeremy Kemp">
+
+I can't help but observe from a chat with a friend, that **IT is in a bit of a
+crises**, a "Trough of Disillusionment".
+
+"It doesn't seem to me that there is huge progress on anything."
+
+* #cryptowinter - nevermind the toxic <abbr title="fear, uncertainty, doubt">FUD</abbr> in the (poisoned?) "community"
+* [Virtual Reality Is STRUGGLING](https://www.youtube.com/watch?v=85DiHTpxGCo)
+* <abbr title="Artificial Intelligence">AI</abbr> & <abbr title="Machine Learning">ML</abbr> has certainly peaked expectations
+* Intel seems to have stalled
+* lots of soul searching seems to be happening in Javascript (frontend) land, folks are getting burned out! #realtimeWeb
+* that Internet speeds never seem to get better faster or more reliable
+* still sad that Uber left Singapore. GoJek & Grab are duking it out, but it just feels like more of the same. Nevermind the sad state of bike sharing & electric stuff in Singapore
+* kubernetes's insane complexity proliferating #devops (i personally found <abbr title="Digital Ocean">DO</abbr> [supporting k8s shocking](https://blog.digitalocean.com/digitalocean-releases-k8s-as-a-service/))
+* the never ending AWS new stuff and accompanying complexity ;)
+* the Web losing the 3rd browser engine, Edge, leaving us with Webkit (blink is pretty much the same guys) & [Gecko effectively](https://www.youtube.com/watch?v=ItOKtKItij8)
+* the fact that only big corporates seem able to weather the storm whilst a lot of smaller ventures are in pain/poverty
+
+It's too easy to get depressed in the _information age_ we're in.
+
+Beside being all doom and gloom, I am trying to seek out positives. The only
+thing I can think of is that all my laptops (thinkpads & Apple MBP) are now
+rocking USB-C <abbr title="Power Supply Units">PSU</abbr>s. It's so nice not to worry about what charger is where now.
+[One cable for Internet &
+power](https://www.youtube.com/watch?v=NsVDalL1AYw) feels like great progress.
+Anything else anyone?
+
+My tact to deal with this pain is to try as I usually do.. reduce and shun complexity. Try not to burn out.

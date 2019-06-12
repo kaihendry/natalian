@@ -1,0 +1,29 @@
+[[!meta title="Ninja van notifications"]]
+[[!meta description="Just tell me when you are going to deliver please!"]]
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto/https://s.natalian.org/2017-02-12/nv.png" alt="Ninja van notifications">
+
+I am not too familiar with the Ninja Van company, but they do seem popular in
+Singapore since [Singpost](https://en.wikipedia.org/wiki/Singapore_Post) seem
+totally uncompetitive for local deliveries.
+
+However I wrongly assumed they would be innovative despite hiring engineering
+talent.
+
+For example in my experience they don't tell you in either email or SMS where
+your packages and **when** it will be delivered.
+
+Like many people who work, I need to arrange for someone at home to receive my
+order. Hence a frustrating experience ensues where I am left in the dark when a
+package will arrive.
+
+Ideally their logistics systems would allow me to delegate the delivery to my
+helper. Usually what ends up happening is a delivery man interrupts me at work
+with a phone call, asking if anyone is at home, leaving me with an awkward
+co-ordination problem between the delivery driver (who is usually difficult to
+understand over the phone) and my helper who is usually busy running errands
+herself. Things get worse for me since I save 5SGD a month by not having Caller
+ID enabled on my [Starhub SIM only
+plan](https://www.youtube.com/watch?v=wXILNezACiU).
+
+Sigh ...

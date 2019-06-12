@@ -1,0 +1,72 @@
+[[!meta title="Why I live in Singapore"]]
+[[!meta description="Singapore versus other countries"]]
+
+<style>
+ul {
+  list-style: none;
+}
+</style>
+
+# Singapore
+
+<ul>
+  <li class="yes">✔ Weather</li>
+  <li class="yes">✔ Low taxes</li>
+  <li class="yes">✔ Fast internet</li>
+  <li class="yes">✔ Investor/Immigration friendly</li>
+  <li class="yes">✔ Drinking water</li>
+  <li class="yes">✔ Reliable electricity</li>
+  <li class="yes">✔ Safe</li>
+</ul>
+
+There are many other reasons like political stability, infrastructure, quality
+medical care, affordable help, food, multicultural et al, but I thought I'd
+compare with those just those arguably more [basic
+needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) above.
+
+# Australia
+
+<ul>
+  <li class="yes">✔ Weather</li>
+  <li>✘ Low taxes</li>
+  <li>✘ Fast internet</li>
+  <li class="yes">✔ Investor/Immigration friendly</li>
+  <li class="yes">✔ Drinking water</li>
+  <li class="yes">✔ Reliable electricity</li>
+  <li class="yes">✔ Safe</li>
+</ul>
+
+It doesn't feel _that_ safe at night, though the police are rather good.
+
+# South Africa
+
+<ul>
+  <li class="yes">✔ Weather</li>
+  <li>✘ Low taxes</li>
+  <li>✘ Fast internet</li>
+  <li>✘ Investor/Immigration friendly</li>
+  <li>✘ Drinking water</li>
+  <li>✘ Reliable electricity</li>
+  <li>✘ Safe</li>
+</ul>
+
+You can drink South African tap water, but it can be severely limited. Taxes
+might be considered low, but if you're an earner and you don't even live in
+South Africa, they are looking to steal money from you.
+
+# European Union
+
+<ul>
+  <li>✘ Weather (weather in the South is admittedly rather nice)</li>
+  <li>✘ Low taxes</li>
+  <li class="yes">✔ Fast internet</li>
+  <li>✘ Investor/Immigration friendly</li>
+  <li class="yes">✔ Drinking water</li>
+  <li class="yes">✔ Reliable electricity</li>
+  <li>✘ Safe</li>
+</ul>
+
+Fast internet only in cities. Politically it feels surprisingly unstable. It's
+not very easy to invest in Europe thanks to its bureaucracy and protectionism.
+In many places, they don't seem that keen on immigration, but to its credit
+free movement of people within the EU is great.

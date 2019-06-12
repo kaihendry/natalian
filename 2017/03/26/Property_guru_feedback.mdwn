@@ -1,0 +1,45 @@
+[[!meta title="PropertyGuru feedback"]]
+[[!meta description="PropertyGuru is the main Website used to find rentals in Singapore"]]
+
+Message Agent from the Web page is pretty useless, since there is no context if
+the agent ever replies!
+
+Doesn't protect your phone number or email so brace for endless spam once an
+agent has your contact. TIP: Open a burner email and get a burner SIM card for
+sanity whilst searching for a new place.
+
+[Too much advertising creating noise](https://s.natalian.org/2017-03-26/1490504461_2558x1408.png)
+
+Pretty meaningless yet prominent "Member rating".
+
+Emails without plain text counterparts or way to unsubscribe.
+
+Inability to show a map clearly. Sometimes it shows Google maps at the bottom. Other times the awful Street directory on the right. Confusing and frustrating.
+
+Almost never a clear floor plan. Poor quality photographs.
+
+Doesn't collate duplicate listings.
+
+Site is not [Reactive](https://facebook.github.io/react/) resulting in painful slow back&forth page loads when interacting with it
+
+Average page load time is well over 2 seconds
+
+Sizes in sqft
+
+Can't shortlist from map search
+
+Can't shortlist a condo, has to be a unit
+
+Can't get alerts for new lets in a condo... well you can from a keyword search ... but PITA!
+
+Once [shortlisted](http://www.propertyguru.com.sg/shortlist) and contacted the agent, you don't know if the agent has replied and such
+
+A street view link would be sane.
+
+Never says whether they have an OpenNet / Netlink port or not. This is important as installation cost is >400SGD and can take three months!
+
+No way to mark an item in the shortlist as being invalidated somehow. Adding states like "Viewed", "Like" or some notes would be sane.
+
+Be nice to filter condos by completion date
+
+Would be nice to search by developer

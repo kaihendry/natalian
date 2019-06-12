@@ -1,0 +1,25 @@
+[[!meta title="AIA Singapore messaging"]]
+[[!meta description="Health insurance is funny game, but at least it's not too expensive in Singapore, yet.."]]
+
+# 13% premium rise
+
+AIA, my private health insurers wrote to me saying my premium will rise to
+43.40SGD. They failed to mention the percentage rise. It was 38.40SGD, so that
+makes for a 13% rise, which I think is a bit much.
+
+Admittedly private health insurance is cheap in Singapore, but if it keeps
+having 13% rises every year, it won't be.
+
+I'm not sure how to interpret their argumentation of [inpatient claims in
+private hospitals experienced a 8.1%
+growth](https://s.natalian.org/2018-01-22/aia.jpeg).
+
+# AIA Vitality
+
+This is a dubious attempt for you to share your fitness metrics with an
+insurer. In return they offer "upto 15%" discounts on the premium.
+
+They basically reward you if they can see you've been healthy. They don't
+mention that it costs 3SGD a month just to enrol to Vitality. I will be
+avoiding this on ethical grounds and also I don't care for silly loyalty
+programs.
