@@ -44,3 +44,7 @@ Sadly I couldn't WhatsApp because <https://web.whatsapp.com/> wanted to chat to 
 Good news is that I did manage to Imessage and chat to my wife:
 
 <img src=https://s.natalian.org/2016-11-26/call-to-my-wife.png alt="My first voice call from a airplane">
+
+Update: On the way back on a B777-300ER via Hong Kong, the T-systems hotspot
+system as opposed to Panasonic Avionics system on out bound doesn't work nearly
+as well. :(
