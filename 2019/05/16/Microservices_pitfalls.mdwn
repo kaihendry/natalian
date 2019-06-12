@@ -14,15 +14,18 @@ functions) across different environments and accounts.
 
 It's too easy to [make mistakes](https://www.youtube.com/watch?v=ItOKtKItij8). Now I honestly have a fear of deployment to production since there is so many spinning plates!
 
-# Do not co-ordinate using counters
+# Do not co-ordinate using integers
 
 Are you using an incrementing integer ID counter to identify your records?
 Don't! You need to consider using UUID instead else you will run into
 co-ordination issues as an atomic counter is harder than it sounds.
 
-However when using opaque IDs, realise you probably need to build a map to tell
-whether the payload is a replay so that you don't perform unnecessary (expensive)
-operations!
+Ideally the identifier (ID) is prefixed so that you can better understand the
+payload type.
+
+When using unique IDs, realise you probably need to build a index/map to tell
+whether the payload is a replay so that you don't perform unnecessary
+(expensive) operations!
 
 # Request IDs
 
