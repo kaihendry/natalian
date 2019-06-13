@@ -1,0 +1,48 @@
+[[!meta title="Volkswagen Tiguan's auto hold Function"]]
+[[!meta description="One step forward and steps back for parking handbrakes"]]
+
+The confusing / dangerous way the Volkswagen Tiguan applies the handbrake is
+causing my family a lot of grief.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BYZdHDP4lio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+To _hopefully_ summarise the issue:
+
+1. It's too easy to accidentally apply the hand brake. In my mother's case, the iPhone [fell off the dashboard](https://twitter.com/kaihendry/status/1138515323626196993), and activated the hand brake. When accelerating on the motorway, the hand brake **did not release**, almost causing a serious accident.
+
+2. When **Auto hold** is enabled the parking brake is applied automatically
+   once parking. This can unfortunately leads to complacency, thinking the
+handbrake is automatic. But there are many cases when [Auto hold can be
+disabled](https://www.volkswagen.co.uk/owners/manuals/deniol2171.intern.nionex.net3Y0fbqFDmMzaKdS):
+
+
+* As soon as one of the conditions indicated on is no longer fulfilled:
+	* The driver door is closed.
+	* The driver is wearing a seat belt.
+	* The engine is running.
+* If the engine is not running smoothly or there is an engine fault.
+* If the engine is switched off or stalls. [1]
+* If the accelerator is depressed when the clutch is simultaneously engaged.
+
+[1] Confusing since:
+
+> If the Auto Hold function has been switched on using the AUTO HOLD button
+> before switching the ignition off, the Auto Hold function switches on
+> automatically when the ignition is switched on the next time.
+
+Confused yet? Too much trust in **Auto hold** can result in your <abbr title="Volkswagen">VW</abbr> Tiguan
+rolling down a hill. This also happened to my mother.
+
+The [manual](https://www.vw-manual.co.uk/browse?8-2.ILinkListener-tree-subtree-branches-17-subtree-branches-2-subtree-branches-1-subtree-branches-3-node-junction&token=deniol2171.intern.nionex.net3Y0fbqFDmMzaKdS&lang=en-GB&doc=1325R1TIG20&link=5-1-0-2) states that **Auto Hold** will switch on automatically if the following conditions are met AT THE SAME TIME:
+
+1. The stationary vehicle is held in position on flat ground or on an incline with the footbrake.
+2. The engine is running smoothly.
+
+But often that doesn't appear to be the case!
+
+tl;dr the parking button with the accompanying Auto hold toggle appears poorly
+designed & confusing. This can be at best costly and at worse dangerous.
+**ALWAYS** check the parking brake's red icon <img
+src="https://s.natalian.org/2019-06-12/parking.png"> is illuminated carefully.
+
+When I Google "<a href="https://www.google.com/search?q=tiguan+auto+hold+not+releasing">tiguan auto hold not releasing</a>" I see THOUSANDS of results.
