@@ -1,0 +1,30 @@
+[[!meta title="Editing Panasonic RAW in Apple Photos"]]
+[[!meta description="Is it worth shooting in raw when the file is typically 10x the size?"]]
+
+I'm trying to evaluate RAW photos from my camera for the first time, so please excuse the newbie-ness of this.
+
+<img src="https://s.natalian.org/2019-06-23/photos.png" alt="Apple photos 4">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dS-dtMdKSxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* P1100222.RW2 RW2 5208x3904 5264x3904+0+0 16-bit sRGB 23.041MiB 0.000u 0:00.001
+* P1100222.JPG JPEG 5184x2920 5184x2920+0+0 8-bit sRGB 2.90137MiB 0.010u 0:00.009
+
+# Zoomed out
+
+<img title="raw" src="https://s.natalian.org/2019-06-23/raw.png" alt="raw zoomed out">
+<img title="jpg" src="https://s.natalian.org/2019-06-23/jpg.png" alt="jpg zoomed out">
+
+# Zoomed in
+
+<img title="raw" src="https://s.natalian.org/2019-06-23/raw-zoomed.png" alt="raw zoomed in">
+<img title="jpg" src="https://s.natalian.org/2019-06-23/jpg-zoomed.png" alt="jpg zoomed in">
+
+<a href="https://s.natalian.org/2019-06-23/raw.tar">Download the files</a> and let me know what you can do with RAW?
+
+I doubt Photo's <a
+href="https://s.natalian.org/2019-06-23/adjust.png">**Light** adjustment panel
+is synologous to the GH5's exposure</a>, which admittedly I feel I get wrong all the
+time.
+
+The question I want to answer in my mind is "Is it worth shooting in raw when the file is typically 10x the size?". Already my [Icloud photos account is 75% full](https://s.natalian.org/2019-06-23/153.png). Surely adding RAW to my workflow is going to explode my Cloud storage costs?

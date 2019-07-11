@@ -10,7 +10,7 @@ crises**, a "Trough of Disillusionment".
 
 * #cryptowinter - nevermind the toxic <abbr title="fear, uncertainty, doubt">FUD</abbr> in the (poisoned?) "community"
 * [Virtual Reality Is STRUGGLING](https://www.youtube.com/watch?v=85DiHTpxGCo)
-* <abbr title="Artificial Intelligence">AI</abbr> & <abbr title="Machine Learning">ML</abbr> has certainly peaked expectations
+* <abbr title="Artificial Intelligence">AI</abbr> & <abbr title="Machine Learning">ML</abbr> has certainly peaked expectations, see [Naval break it down](https://youtu.be/3qHkcs3kG44?t=2016)
 * Intel seems to have stalled
 * lots of soul searching seems to be happening in Javascript (frontend) land, folks are getting burned out! #realtimeWeb
 * that Internet speeds never seem to get better faster or more reliable

@@ -1,11 +1,7 @@
 [[!meta title="Why I live in Singapore"]]
 [[!meta description="Singapore versus other countries"]]
 
-<style>
-ul {
-  list-style: none;
-}
-</style>
+<style>ul { list-style: none; }</style>
 
 # Singapore
 
@@ -19,10 +15,30 @@ ul {
   <li class="yes">✔ Safe</li>
 </ul>
 
-There are many other reasons like political stability, infrastructure, quality
-medical care, affordable help, food, multicultural et al, but I thought I'd
-compare with those just those arguably more [basic
+There are many other reasons like political stability, English language,
+infrastructure, quality medical care, affordable help, food, multicultural et
+al, but I thought I'd compare with just those arguably more [basic
 needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) above.
+
+# Canada
+
+<ul>
+  <li>✘ Weather</li>
+  <li>✘ Low taxes</li>
+  <li class="yes">✔ Fast internet</li>
+  <li class="yes">✔ Investor/Immigration friendly</li>
+  <li class="yes">✔ Drinking water</li>
+  <li class="yes">✔ Reliable electricity</li>
+  <li class="yes">✔ Safe</li>
+</ul>
+
+I've heard that it's not that immigration friendly anymore. And the cost of
+living is even higher than Singapore. People complain about Singapore weather,
+but I actually quite like it. I do agree it's a total pain midday to do
+anything, though I usually work midday on something in the air conditioning and
+do some activity either in the early morning, or afternoon.
+
+Cold grey Winters suck.
 
 # Australia
 
@@ -57,7 +73,7 @@ South Africa, they are looking to steal money from you.
 # European Union
 
 <ul>
-  <li>✘ Weather (weather in the South is admittedly rather nice)</li>
+  <li>✘ Weather (weather in southern Europe is admittedly rather nice)</li>
   <li>✘ Low taxes</li>
   <li class="yes">✔ Fast internet</li>
   <li>✘ Investor/Immigration friendly</li>
@@ -66,7 +82,23 @@ South Africa, they are looking to steal money from you.
   <li>✘ Safe</li>
 </ul>
 
-Fast internet only in cities. Politically it feels surprisingly unstable. It's
-not very easy to invest in Europe thanks to its bureaucracy and protectionism.
-In many places, they don't seem that keen on immigration, but to its credit
-free movement of people within the EU is great.
+Fast internet only in cities, in some places. Politically it feels surprisingly
+unstable. It's not very easy to invest in Europe thanks to its bureaucracy and
+protectionism.  In many places, they don't seem that keen on immigration, but
+to its credit free movement of people within the EU is great. Most people
+outside cities are pretty closed minded.
+
+# Conclusion
+
+Singapore has its problems, don't get me wrong. Freedom of speech is touted,
+though I think of [free speech as
+money](https://www.youtube.com/watch?v=Zeeq0qaEaLw) and with high taxation and
+bureaucratic limits elsewhere, I honestly wonder if my European cousins are
+really "free".
+
+Singapore also has a high suicide rate amongst the elderly who struggle to fit
+into its fast paced culture. Nonetheless I don't plan to retire in Singapore.
+
+Singapore feels definitely seems the right place for me and my family, right
+now. Though I do miss the outdoors and friends & family that Europe has to
+offer.
