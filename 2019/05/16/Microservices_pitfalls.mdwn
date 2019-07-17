@@ -1,6 +1,8 @@
 [[!meta title="Microservices pitfalls"]]
 [[!meta description="The disadvantages of microservices after dev-opsing them"]]
 
+Update: [Slides from a talk of my experiences with Microservices on AWS](https://talks.webconverger.com/2019-07-16/index.html)
+
 <blockquote cite="https://youtu.be/L43P3DMZwUg?t=502">..do not think of microservices until you have a people problem</blockquote>
 
 I find it **difficult to recommend** microservice Architecture. Here are some
@@ -88,6 +90,31 @@ like Javascript can't accommodate it. You will then architect for asynchronous
 events through out.  Without a synchronous **request and response**, you will find
 it challenging to collate and reason about events.
 
+# <abbr title="Denial of Service">DoS</abbr> yourself
+
+Microservice architecture generally treats each action or job as its own
+isolated payload. Imagine the scenario when there is a bulk edit changing state of 100 records.
+Traditionally in a monolith (non-microservice architecture) a single database
+connection is open and lets say 100 records are inserted, perhaps in a
+transaction.
+
+Typically in Microservice architecture 100 messages are _not batched_ & are
+asyncronously fired for a 100 record edit. Meaning 100 concurrent invocations
+of lambda, each potentially opening up several database connections each and in
+contention with each other to perform SQL.  **Deadlocks** can easily result and
+kill connectivity to your database thanks to this load spike.
+
+Your database likely will not handle these loads spikes well at all and
+typically you need to run a much higher instance than you really should need!
+
+<img src="https://s.natalian.org/2019-07-17/limit-lambda-concurrency.png" alt="limit AWS lambda concurrency">
+
+Limiting lambda concurrency and using <abbr title="Amazon Simple Queue
+Service">SQS</abbr> are used to smooth out these spikes, but these mechanisms
+will make your architecture extra complex and tricky to orchestrate. For best
+performance, you need to "right size" concurrency limits to what your database
+is capable of, which is hit and miss.
+
 # Same problem in different microservices
 
 The way how languages like Go and SQL handle null values in JSON payloads can
@@ -133,9 +160,10 @@ payloads for that to be useful.
 
 	Error 1040: Too many connections
 
-Lambda and SQL is pain. Credentials & fine grained permissions with IAM roles
-are pain. VPCs add extra pain. Multiply by the amount of microservices and
-environments you have.
+Lambda and SQL is pain since the setup cost can be very high, as well as
+requiring multiple connections to a database. Credentials & fine grained
+permissions with IAM roles are pain. VPCs add extra pain. Pain multiplied by
+the amount of microservices and environments you have.
 
 # Conclusion
 

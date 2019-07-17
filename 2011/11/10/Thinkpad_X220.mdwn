@@ -32,7 +32,7 @@ Another problem is the "Intel Corporation Centrino Advanced-N 6205 (rev 34)"
 wireless. Arch's `wifi-select wlan0` doesn't seem to want to join an open
 network. The problem seems similar to an issue documented with my X201 and
 [DHCP IP lease attempt failed on
-Archlinux](/archives/2011/09/28/DHCP_IP_lease_attempt_failed_on_Archlinx/).
+Archlinux](/2011/09/28/DHCP_IP_lease_attempt_failed_on_Archlinux/).
 I've also found general complaints about the [Intel iwalgn
 driver](https://lkml.org/lkml/2011/10/15/107).  My workaround is to `sudo
 iwconfig wlan0 essid praze`, `sudo iwconfig wlan0 key off` & `sudo dhcpcd
