@@ -1,0 +1,32 @@
+[[!meta title="DynamoDB discoveries"]]
+[[!meta description="Notes on getting upto speed on AWS's electric NoSQL product"]]
+
+A lot of [preparation needs to go into a DynamoDB design](https://www.youtube.com/watch?v=HaEPXoXVf2k).
+
+* normalised fields where strings are lowercased
+* composite keys can be quite loaded
+* [tag use case](https://twitter.com/kaihendry/status/1161905837163462657), BatchWriteItem might come into play
+* [versioning](https://github.com/kaihendry/dynamodb-version-history)
+* getting design support from AWS
+* SDK pain like getting to know dynamoattribute / [expression builder](https://github.com/aws/aws-sdk-go-v2/tree/master/example/service/dynamodb/expression) and [v1/v2 confusion](https://github.com/tj/go-news/pull/1#issuecomment-527379585)
+* Are projections premature optimisation?
+* code struct doesn't document the table, people [describe their setup in a README](https://github.com/tj/go-news#setup)
+* Are keys Capitalised?
+* Scans versus Query... is it ever OK to do a scan?
+* How to store time? UTC? You want it in ISO8601 type format to make it queryable as opposed to epoch
+* [Designs are rarely captured in code](https://twitter.com/kaihendry/status/1169428297739984896) [README doc example](https://gist.github.com/buggy/a54091a4b2c6a718c94439ca6557d2c6)
+
+Operational considerations:
+
+* Use **on-demand scaling** https://twitter.com/alexbdebrie/status/1169431799518441472 but that's 6x more expensive https://twitter.com/enepture/status/1169437406195400704
+* Predicting cost
+
+# Good resources
+
+* <https://www.dynamodbguide.com/>
+
+# Who to follow on Twitter
+
+* @alexbdebrie
+* @richbuggy
+* @enepture

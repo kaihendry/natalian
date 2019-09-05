@@ -87,8 +87,12 @@ messages could be received.
 
 Sooner or later you will find synchronicity too hard or too slow or a language
 like Javascript can't accommodate it. You will then architect for asynchronous
-events through out.  Without a synchronous **request and response**, you will find
-it challenging to collate and reason about events.
+events through out. Error feedback via "Dead letter queue" subscriptions.
+Without a synchronous **request and response**, you will find it challenging to
+collate and reason about events.
+
+Test failure and I recommend you run through some failure cases so that your
+team are familiar with debugging what's going on.
 
 # <abbr title="Denial of Service">DoS</abbr> yourself
 
@@ -171,3 +175,7 @@ Adopting microservices requires often exponential co-ordination and consistency
 challenges. Problems you would rarely see or just see once in monolithic
 architectures. If you integrate with AWS, you will make it practically
 impossible to reproduce your environment on a standalone computer. YMMV.
+
+Update: AWS have a [Microservices
+whitepaper](https://docs.aws.amazon.com/whitepapers/latest/microservices-on-aws/introduction.html)
+which is worth reading.
