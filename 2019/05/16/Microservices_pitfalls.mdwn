@@ -1,5 +1,5 @@
 [[!meta title="Microservices pitfalls"]]
-[[!meta description="The disadvantages of microservices after dev-opsing them"]]
+[[!meta description="The disadvantages of microservices after experiencing them first hand"]]
 
 Update: [Slides from a talk of my experiences with Microservices on AWS](https://talks.webconverger.com/2019-07-16/index.html)
 
@@ -103,7 +103,7 @@ connection is open and lets say 100 records are inserted, perhaps in a
 transaction.
 
 Typically in Microservice architecture 100 messages are _not batched_ & are
-asyncronously fired for a 100 record edit. Meaning 100 concurrent invocations
+asynchronously fired for a 100 record edit. Meaning 100 concurrent invocations
 of lambda, each potentially opening up several database connections each and in
 contention with each other to perform SQL.  **Deadlocks** can easily result and
 kill connectivity to your database thanks to this load spike.
@@ -159,6 +159,14 @@ I still have not figured out how to analyse a queue between SNS invoking lambda
 when concurrency is limited. There is very little visibility. You could rely on
 CloudWatch metrics maybe to give you a gist, but often you need to inspect
 payloads for that to be useful.
+
+## FIFO Queue
+
+You can't trigger lambdas from a [SQS FIFO
+queue](https://twitter.com/kaihendry/status/1167337485732474881). Bizaare. And
+you need FIFO for handling messages which need to be in order!
+
+<https://stackoverflow.com/questions/57666833/how-to-handle-out-of-order-microservice-messages/57759755#57759755>
 
 ## 💩Cold starts, fine grained permissions, VPCs
 

@@ -1,38 +1,70 @@
 [[!meta title="Communicating with the Singaporean Authorities"]]
 [[!meta description="Summarising the weird and wonderful ways to communication with the government"]]
 
+My opinion is that I'd prefer to have a society where people reported back to the
+local civil services and the local civil services clearly communicated the
+status quo back to the public instead of say **privacy killing** blanket
+surveillance.
+
+Privacy is a feature after all.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U1K6D2SlNcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Emergency communication to the public
 
-<img src="https://s.natalian.org/2019-09-05/sgsecure.jpeg" alt="DOWNLOAD the sgsecure app">
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto/e_shadow/https://s.natalian.org/2019-09-05/sgsecure.jpeg" alt="DOWNLOAD the sgsecure app">
 
-There is also the [SG secure](https://www.youtube.com/watch?v=hrYR0AA-6T0) App which people are supposed to install.
+Instead of a URL, the native [SG
+secure](https://www.youtube.com/watch?v=hrYR0AA-6T0) App is what Singapore
+residents need to install.
 
-I am not quite sure why IOS native features like [AMBER alerts](https://support.apple.com/en-us/HT202743) are not used in Singapore.
+I am not quite sure why mobile features like [Cell
+broadcasts](https://en.wikipedia.org/wiki/Cell_Broadcast) or [AMBER
+alerts](https://support.apple.com/en-us/HT202743) are not used in Singapore.
+I've never seen one.
+
+[Sirens](https://en.wikipedia.org/wiki/Public_Warning_System_(Singapore)) are
+used in Singapore and are referred to as the <abbr title="Public Warning
+System">PWS</abbr>.
+
+Once a siren goes off, I think the idea is the population tunes into a [radio
+or TV for further
+information](https://www.scdf.gov.sg/home/civil-defence-shelter/public-warning-system).
+Unfortunately personally I don't own a TV or Radio.
+
+Though judging from the latest communication, it appears Siren and then check
+**SGSecure**. Still dismayed it can't be a well known .sg Web URL instead.
+
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto/e_shadow/https://s.natalian.org/2019-09-10/pws_poster_sep2019.jpg" alt="Siren + SGSecure">
 
 # Emergency communication from the public
 
 I don't think many people are aware of how to trigger help using their
 [iPhone](https://support.apple.com/en-sg/HT208076). In an emergency this needs
-to be second nature.
+to be second nature!
 
 What surprises me, is that a lot of people are not 100% sure what number to dial.
 
 Is it for the police? Fire brigade? Or an Ambulance?
 Is it 112? 999? [112 is the GSM standard when in doubt](https://en.wikipedia.org/wiki/112_(emergency_telephone_number)).
 
-<img src="https://s.natalian.org/2019-09-05/995.jpeg" alt="Use the App to call 995">
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto/e_shadow/https://s.natalian.org/2019-09-05/995.jpeg" alt="Use an App to call 995">
 
-How does one share the location? I wonder how the [iPhone actually shares the
+How does one share your location? I wonder how the [iPhone actually shares the
 location with authorities](https://support.apple.com/en-sg/HT208076) and more
 importantly.... do we have any confidence it works?
 
-Sometimes friends need to be relied upon! Since most people are familiar with ubiquitous WhatsApp location sharing:
+Sometimes friends need to be relied upon! Since most people are familiar with
+ubiquitous WhatsApp location sharing:
 
 <blockquote cite="https://www.bbc.com/news/world-europe-49393668">
-We shared a pin of our location with friends, who contacted the local Protezione Civile (the civilian protection agency), and a team set out to find us. 
+We shared a pin of our location with friends, who contacted the local Protezione Civile (the civilian protection agency), and a team set out to find us.
 </blockquote>
 
-[What 3 words](https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/) are proprietary, and can you seriously be expected to install an App in an emergency to share your location?
+I've noticed in the UK, a push for [What 3
+words](https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/) are
+proprietary, and can you seriously be expected to install an App in an
+emergency to share your location?!
 
 Is it maybe a non-emergency?
 
@@ -53,8 +85,8 @@ What I find curious that outside Singapore, my European counterparts frown on
 reporting civil issues, for fear of being called as a "nosy busybody" at best
 or "snitch" at worse.
 
-<img src="https://s.natalian.org/2019-09-05/1777.jpeg" alt="1777 for non-emergencies">
+<img src="https://res.cloudinary.com/hendry/image/fetch/f_auto/e_shadow/https://s.natalian.org/2019-09-05/1777.jpeg" alt="1777 for non-emergencies">
 
 [One service](https://www.oneservice.sg/) is an app in Singapore to help direct
 feedback to right government department. I wish it was just a Web form, but
-instead there is a clunky App experience to look forward to.
+instead there is a [clunky App experience](https://www.youtube.com/watch?v=tA9yhKxdopI) to look forward to.

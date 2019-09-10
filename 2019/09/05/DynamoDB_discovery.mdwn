@@ -11,22 +11,73 @@ A lot of [preparation needs to go into a DynamoDB design](https://www.youtube.co
 * SDK pain like getting to know dynamoattribute / [expression builder](https://github.com/aws/aws-sdk-go-v2/tree/master/example/service/dynamodb/expression) and [v1/v2 confusion](https://github.com/tj/go-news/pull/1#issuecomment-527379585)
 * Are projections premature optimisation?
 * code struct doesn't document the table, people [describe their setup in a README](https://github.com/tj/go-news#setup)
-* Are keys Capitalised?
+* Are keys Capitalised? [Rich likes them Generic for Appsync](https://twitter.com/richbuggy/status/1169443776525324288)
 * Scans versus Query... is it ever OK to do a scan?
 * How to store time? UTC? You want it in ISO8601 type format to make it queryable as opposed to epoch
 * [Designs are rarely captured in code](https://twitter.com/kaihendry/status/1169428297739984896) [README doc example](https://gist.github.com/buggy/a54091a4b2c6a718c94439ca6557d2c6)
 
 Operational considerations:
 
-* Use **on-demand scaling** https://twitter.com/alexbdebrie/status/1169431799518441472 but that's 6x more expensive https://twitter.com/enepture/status/1169437406195400704
-* Predicting cost
+* Use [on-demand scaling](https://twitter.com/alexbdebrie/status/1169431799518441472) but that's [6x more expensive](https://twitter.com/enepture/status/1169437406195400704)
+* Predicting cost isn't easy until you know the [X requests per second](https://twitter.com/alexbdebrie/status/1169435071121711106). And some people tend to think you you should be [limits in](https://twitter.com/enepture/status/1169527421990621185), whilst developing.
 
 # Good resources
 
 * <https://www.dynamodbguide.com/>
 
-# Who to follow on Twitter
+# Who to follow on Twitter, when it comes to sharing DynamoDB knowledge
 
-* @alexbdebrie
-* @richbuggy
-* @enepture
+* [@alexbdebrie](https://twitter.com/alexbdebrie)
+* [@richbuggy](https://twitter.com/richbuggy)
+* [@enepture](https://twitter.com/enepture)
+
+# Case study
+
+Via #databases on <https://awsdevelopers.slack.com/>, Martin asks:
+
+> Hello, everyone. I’m pretty new with DynamoDB and I need some advice on which
+> will be the best Partition Key and Sort Key for my use case. We are migration
+> this table jobs which is not complex but have thousands of queries per hour by
+> date, basically always is #date between :start_time and :end_time. Below the
+> specification
+
+	table name: jobs
+	Id:         unique string
+	created_at: date time, format ISO 8601: 20150311T122706Z
+	Data:       string
+
+This is an example how we need access the data
+
+	tableName = 'jobs'
+	params = {
+		table_name: tableName,
+		key_condition_expression: "#date between :start_time and :end_time",
+		expression_attribute_names: {
+			"#date" => "created_at"
+		},
+		expression_attribute_values: {
+			":start_time" => "20150311T122706Z",
+			":end_time" => "20150313T122700Z"
+		}
+	}
+	DynamodbClient.client.query(params)
+
+Michael says:
+
+> Depending on how many days you query at a time, you could even make the day (or
+> month) the hash key, and the rest of the timestamp (plus a job id?) the range
+> key. Advantages are that, assuming you have an even distribution of job
+> creation times, each hash key shouldn't get too "hot" (ie, you'll only have as
+> many in each hash as you create in a day, or month). Disadvantages are that
+> querying multiple days (or months) will mean multiple queries (can do in
+> parallel, but if you have hundreds, bleh). And if you're creating millions a
+> day (or month) this wouldn't be suitable either
+
+Rich says:
+
+> I'd be inclined to use the job ID as the PK for the table because changing that
+> value requires writing a new record and removing the old one. I'd then create a
+> secondary index with the PK based on what you're likely to query. For example:
+> date (pk) + date/time (sk); "date + status" (pk) + time (sk); "date + hour +
+> status" (pk) + time (sk). Now if you want all the pending jobs in the last hour
+> you query the key "2019090906pending".
