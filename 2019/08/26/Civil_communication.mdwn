@@ -1,12 +1,12 @@
-[[!meta title="Communicating with the Singaporean Authorities"]]
-[[!meta description="Summarising the weird and wonderful ways to communication with the government"]]
+[[!meta title="Emergency communication between Singapore's Civil service & the public"]]
+[[!meta description="Summarising the two way communication between government and the public"]]
 
-My opinion is that I'd prefer to have a society where people reported back to the
-local civil services and the local civil services clearly communicated the
-status quo back to the public instead of say **privacy killing** blanket
-surveillance.
+My opinion is that I'd prefer to have a society where people reported back to
+the local civil services and the local civil services clearly communicated the
+status quo back to the public instead of say **privacy killing** and
+unaccountable (leading to power abuse) blanket surveillance.
 
-Privacy is a feature after all.
+Singapore's "complaining" culture should be celebrated! It demonstrates two way and balanced communication, to me at least.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U1K6D2SlNcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -14,7 +14,7 @@ Privacy is a feature after all.
 
 <img src="https://res.cloudinary.com/hendry/image/fetch/f_auto/e_shadow/https://s.natalian.org/2019-09-05/sgsecure.jpeg" alt="DOWNLOAD the sgsecure app">
 
-Instead of a URL, the native [SG
+Instead of a simple Web page URL, the native [SG
 secure](https://www.youtube.com/watch?v=hrYR0AA-6T0) App is what Singapore
 residents need to install.
 
@@ -90,3 +90,7 @@ or "snitch" at worse.
 [One service](https://www.oneservice.sg/) is an app in Singapore to help direct
 feedback to right government department. I wish it was just a Web form, but
 instead there is a [clunky App experience](https://www.youtube.com/watch?v=tA9yhKxdopI) to look forward to.
+
+For those who don't believe it's possible to share a location with an image
+from **the Web**, may I present to you <https://github.com/kaihendry/geotag-image>,
+with a [demo](https://g.natalian.org/).

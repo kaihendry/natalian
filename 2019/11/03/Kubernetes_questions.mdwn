@@ -1,0 +1,66 @@
+[[!meta title="Kubernetes Questions"]]
+[[!meta description="k8s chaos"]]
+
+<img width="100" height="50" src="https://s.natalian.org/2019-11-03/k8s.svg" alt="Kubernetes logo">
+
+# Outstanding questions
+
+Why is [terraform](https://www.terraform.io/) needed (or rather always used) to
+manage Kubernetes (k8s)? Why can't Kubernetes be the complete declarative model?!
+
+What's the point of scaling (replicas) a pod on a single node? Is it supposed
+to be some el cheapo form of concurrency?
+
+Why do Kubernetes app packages (aka helm charts) so very obtuse? It makes the succint PKGBUILD of
+Archlinux look absolutely ingenious.
+
+How do you monitor your application, assuming [it exports at
+/metrics](https://discuss.kubernetes.io/t/week-in-as-full-stack-yaml-developer/8511)?
+At each pod? At the load balancer?
+
+If Kubernetes declarative YAML was so awesome, how come **no upstream app**
+seems to ship it? [Except my test
+project](https://github.com/kaihendry/sla/blob/master/k8s/deploy.yaml)
+
+Prometheus **autodiscovery/autoscraping** solution whereby I deploy pods
+exporting /metrics (my `hendry/sla` image) and a single prometheus pod can
+autodiscover them and scrape them.
+<https://github.com/helm/charts/tree/master/stable/prometheus-operator> is far
+FAR too heavy. I just want one Prom process.
+<https://github.com/coreos/kube-prometheus> is also nuts. I don't need a Highly
+available {Prometheus,alertmanager} on my cluster... DO I?
+
+How do you hide the `/metrics` path from being exposed the the public?
+
+## What does SSL?
+
+Consider:
+
+	apiVersion: v1
+	kind: Service
+	metadata:
+	  name: knote
+	spec:
+	  selector:
+		app: knote
+	  ports:
+		- port: 80
+		  targetPort: 3000
+	  type: LoadBalancer
+
+Now how is one expected to put this upon https://example.com on port 443!?
+
+# Questions answered
+
+Many thanks to <https://twitter.com/danielepolencic> of <https://learnk8s.io/nodejs-kubernetes-guide/>
+
+<https://discuss.kubernetes.io/t/week-in-as-full-stack-yaml-developer/8511>
+
+<blockquote>
+A convenient way to check all the values that you could have in the YAML is the API: <https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.16/>
+
+VSCode has an excellent Kubernetes extension that autocompletes your YAML. I’m not aware of an equivalent for Vim.In Kubernetes, we assume that Docker images are immutable. If you’re pushing the same image with the latest tag, Kubernetes won’t detect the change and you have to trigger a rolling update manually.
+
+If you’re pushing images with tags then Kubernetes will pick up the change automatically and deploy the new version.Services have (usually) 2 ports that are worth remembering:- `port` as the port exposed by the Service
+- `targetPort` as the port exposed by the Pods. The port is used by the Service to route the traffic to a Pod.So if you wish to expose a different port on the Service, you can simply change the `port` field to 9000.
+</blockquote>

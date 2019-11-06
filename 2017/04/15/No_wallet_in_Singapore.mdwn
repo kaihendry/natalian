@@ -59,7 +59,7 @@ Pros of this (unrealised) setup:
 * No wallet in my back pocket!
 * Easier to find via [Find my Iphone](https://www.icloud.com/#find)
 * One less thing to worry about it!
-* <strike>Impossible to withdraw cash since I wouldn't carry the ATM card with this setup</strike> [UOB do this!](http://www.uob.com.sg/personal/ebanking/atm/contactless.html)
+* <strike>Impossible to withdraw cash since I wouldn't carry the ATM card with this setup</strike> [UOB do this!](http://www.uob.com.sg/personal/ebanking/atm/contactless.html) and [so does OCBC](https://youtu.be/2Wz4BvjZkU0)
 
 Cons:
 
