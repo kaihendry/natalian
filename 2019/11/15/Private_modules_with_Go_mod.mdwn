@@ -1,0 +1,41 @@
+[[!meta title="Private modules with Go mod"]]
+[[!meta description="use go mod vendor especially with private modules"]]
+
+If you have hit an error in your build like:
+
+	fatal: could not read Username for 'https://source.example.com': terminal prompts disabled
+	Makefile:36: recipe for target 'build' failed
+	make: *** [build] Error 1
+	The command '/bin/sh -c make build' returned a non-zero code: 2
+
+Despite having `GOPRIVATE="source.example.com"` etc set, it probably because you expected:
+
+	git config url."https://gitlab-ci-token:${CI_BUILD_TOKEN}@source.example.com".insteadOf "https://source.example.com"
+
+... to work in your Docker build. It won't because the git config is missing
+the `--global` switch to fetch other private git repos. That means you need an
+`ARG CI_BUILD_TOKEN` in your Dockerfile and well STOP. Don't do that!
+
+# Use go vendor
+
+Don't be afraid to commit that `vendor/` directory into your sources. Use `export
+GOFLAGS=-mod=vendor` in your **Makefile**.
+
+When you (the developer) `go get -u`, it will rely on your local `~/.gitconfig`
+to have the correct credentials to fetch the **private module source**.
+
+Don't rely on your <abbr title="Continuous Integration">CI</abbr> to actually fetch the networked dependencies.
+
+Reduce complexity! Save time.
+
+# Other advantages to using mod=vendor
+
+As argued on [golang/go/issues/27227](https://github.com/golang/go/issues/27227)
+
+* **a single deliverable** - the client is able to take the codebase and build the application from source without internet access.
+* **guaranteed stability** - the leftpad problem simply cannot happen with vendoring. It is still an issue with both GOPATH and module development
+* **security audits** - the client is able to audit not just our source code, but our dependencies in a reproducible manner.
+
+# Some nice to haves that are missing from 1.13
+
+<img src="https://s.natalian.org/2019-11-15/gopher-slack-modules.png">

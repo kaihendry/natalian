@@ -10,10 +10,12 @@ couple of months, the upload channel has sunk to 0.75Mb/s. A lowpoint.
 
 <img src="https://s.natalian.org/2019-10-19/2019-10-praze-internet.png" alt="poor upload speeds on FTTC">
 
-Now when I Apple Facetime my parents not only am unable to clearly see them, but now **audio drops** out.
+Now when I Apple Facetime my parents not only am I unable to clearly see them, but now **audio drops** out.
 
 Annoyingly they see and hear me clearly since their **download is still above
 10Mb/s**, but I cannot. I have been very frustrated by this situation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLfF0FEkYFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Cornwall Development Company
 
@@ -29,9 +31,9 @@ When the Internet started dropping four months ago, I enquired again about
 Fibre on Demand is a FTTP (Fibre to the Premises) service available to premises connected to a fibre cabinet.
 It is usually expensive to install and requires a 3 year top end contract, but the details will be dependent on the ISP.
 
-Not many ISPs offer FoD there is an FAQ at https://www.superfastcornwall.org/your-questions-answered/ which lists the ISPs we think offer it.
+Not many ISPs offer FoD there is an [FAQ](https://www.superfastcornwall.org/your-questions-answered/) which lists the ISPs we think offer it.
 
-You could try and get a quote from them .... and perhaps investigate using a GBVS voucher to cover the costs. These Gov funded vouchers have just been upgraded to up to £3500 per business in rural areas. There is some info about the GBVS scheme at https://www.superfastcornwall.org/getting-connected/alternative-solutions/
+You could try and get a quote from them .... and perhaps investigate using a GBVS voucher to cover the costs. These Gov funded vouchers have just been upgraded to up to £3500 per business in rural areas. There is some info about the GBVS scheme at <https://www.superfastcornwall.org/getting-connected/alternative-solutions/>
 
 GBVS could also pay towards a Community Fibre Partnership solution directly from Openreach. This could be a better way forward because there are 2 registered addresses at your location (Praze Farm and Barn Conversion).
 </blockquote>
@@ -60,7 +62,7 @@ Of course I enquired about that option since our neighbour actually has a digger
 
 Another option to reduce the 13kGBP fibre install cost so I could Facetime my
 parents were **Rural Gigabit Connectivity Vouchers**, aka <abbr title="Gigabit
-Broadband Voucher Scheme">GBVS</abbr>. Alledgedly there was a [new Rural
+Broadband Voucher Scheme">GBVS</abbr>. Allegedly there was a [new Rural
 Gigabit Connectivity
 scheme](https://s.natalian.org/2019-10-19/new-rural-gigabit.pdf) to help here.
 
@@ -90,7 +92,7 @@ Very disheartening.
 
 However with [new vouchers](https://www.ispreview.co.uk/index.php/2019/05/200m-uk-rural-gigabit-broadband-connectivity-programme-starts.html) it could be as low as **4600GBP**:
 
-<blockquote>1 of the address is business and the other residential this means DCMS will give you £5000.00 Superfast Cornwall £3400.00 total £8400.00 leaving a balance of £4600.00</blockquote>.
+<blockquote>1 of the address is business and the other residential this means DCMS will give you £5000.00 Superfast Cornwall £3400.00 total £8400.00 leaving a balance of £4600.00</blockquote>
 
 # Current status
 
@@ -100,6 +102,9 @@ on it too.
 
 # Other options
 
-* A neighbor across the valley got a **free of cost** upgrade courtesy of BT. Bit of a lottery.
+<img src="https://s.natalian.org/2019-11-06/OpenReachOptical.jpeg" alt="FTTH on the other side of a Cornish valley">
+
+* A neighbor across the valley got a **free of cost** upgrade with fibre into their home courtesy of BT. They won the lottery, especially considering they live in a far more inaccessible location than we do along the main road.
 * Can we believe the politicians 2025 pledge? ... [oh no it has been dodged](https://www.bbc.com/news/technology-50042720) and wait another **six years**
-* AAISP proposed getting a bonded line. IIUC this would double my ISP costs to about 200GBP per month.
+* [AAISP](https://www.aa.net.uk/) proposed getting a bonded line. IIUC this would double my ISP costs to about 200GBP per month.
+* Sad thing is even if I pay for the Fibre install, BT Openreach rental which is passed onto me via AAISP amounts to about [40GBP a month, with a 100GBP setup cost](https://www.aa.net.uk/broadband/home1/)
