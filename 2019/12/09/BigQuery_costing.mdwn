@@ -1,0 +1,101 @@
+[[!meta title="Big Query costing"]]
+[[!meta description=""]]
+
+Imagine looking at your GCP Platform to see a spike like this:
+
+<img src="https://s.natalian.org/2019-12-09/spike.png">
+
+You knew it happened yesterday. You wish you knew earlier.
+
+Lets investigate!
+
+	This is BigQuery CLI 2.0.50
+
+You first try run `bq ls -j` to see your jobs. It's not your job of course. Must be someone else in the project!
+
+`bq ls -j -a` shows other queries, but it only shows the last 50 queries today!
+Pressure is on. We need to find the culprit quickly and stop it happening
+again!
+
+	$ man bq
+	No manual entry for bq
+
+`man gcloud` ... `Pattern not found  (press RETURN)` whilst frantically searching for "bq" or just desperately "query".
+
+This CLI is not working. Time to Google!
+
+With your amazing Google-FU you find: <https://cloud.google.com/bigquery/docs/reference/rest/v2/jobs/list>
+
+But now you need to calculate **minCreationTime** and maybe **maxCreationTime** to find the expensive queries. Let's write some shell!
+
+	millitime() {
+			if test "$1"
+			then
+					# time described by arg
+					echo $(($(date -d"$1" +%s%N)/1000000))
+			else
+					# now
+					echo $(($(date +%s%N)/1000000))
+			fi
+	}
+
+You got this!
+
+<img src="https://s.natalian.org/2019-12-09/jobs-list.png">
+
+Don't for get to ensure allUsers is on and Projection is full. Now you have a HUGE JSON to work with:
+
+<img src="https://s.natalian.org/2019-12-09/output.png">
+
+Now you need to sort on the string **totalBytesBilled** which is nested deep inside a JSON structure...
+
+What is the expensive query people are asking? You have to ignore them because
+now you are frantically Googling `jq` to hopefully sort this, whilst vim is
+struggling to syntax highlight megabytes of JSON.
+
+You give up on `jq`, now you are using `grep totalBytesBilled output.json`,
+visually sorting for the big one. And searching for the same value in vim.
+
+Search backward for "jobreference", finally! I good suspect.
+
+	bq show -j 084b6616-0f28-477e-ae40-b2e833999c7a
+
+Finally we can view the **User Email**, but this isn't telling us much.
+
+
+Google time. Can <https://cloud.google.com/bigquery/docs/reference/rest/v2/jobs/get> help? Seems to be the same output as [list](https://cloud.google.com/bigquery/docs/reference/rest/v2/jobs/list)... but now I can see query... kinof.
+
+<img src="https://s.natalian.org/2019-12-09/query.png">
+
+Just need to unparse this SQL from JSON... minutes... go by. Now I can grep
+around a git repo to find the offending job.
+
+# But how much did it cost?
+
+**totalBytesBilled** appears to be a red herring. What you really need is [Billing Export enabled](https://cloud.google.com/billing/docs/how-to/export-data-bigquery).
+
+
+	SELECT * FROM `billing.fact_gcp_billing_data_science` WHERE partitiontime = '2019-12-04' AND service.description = 'BigQuery' AND sku.description= 'Analysis' ORDER BY cost DESC
+
+Finally on <https://console.cloud.google.com/bigquery> I can see the cost which
+lines up to the report! The Google provided Big Query CLI tools feel like a
+complete waste of time.
+
+How can you see something missing from the billing info?
+
+	Row		billing_account_id	service.id	service.description		sku.id	sku.description		usage_start_time	usage_end_time	project.id	project.name	project.labels.key	project.labels.value	project.ancestry_numbers	labels.key	labels.value	system_labels.key	system_labels.value		location.location	location.country	location.region		location.zone	export_time		cost	currency	currency_conversion_rate	usage.amount	usage.unit	usage.amount_in_pricing_units	usage.pricing_unit	credits.name	credits.amount	invoice.month	cost_type	partitiontime	partitiondate 
+
+There is no Job ID to reference back to actual running SQL or **User Email**!!
+
+## But how to avoid this again?
+
+I don't have access the [budgets](https://cloud.google.com/billing/docs/how-to/budgets).
+
+Some people so I could have used [Stackdriver
+logging](https://cloud.google.com/bigquery/docs/reference/auditlogs/#data_access_data_access)
+perhaps to see this. But now you don't feel you can trust query time or
+**totalBytesBilled** over the values in the Billing export.
+
+<img src="https://s.natalian.org/2019-12-09/stackdriver.png" alt="logs/cloudaudit.googleapis.com/data_access">
+
+I'm left with a very bitter taste in my mouth.
