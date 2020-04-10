@@ -1,0 +1,19 @@
+[[!meta title="Hygenic taps in a post COVID-19 world"]]
+[[!meta description="We need better sensor tap design for new public health reality"]]
+
+Prompted by a [couple of](https://twitter.com/ehn/status/1248101907005976576)
+[tweets](https://twitter.com/simonw/status/1247636178171342848) on post
+COVID-19 needs, I have been thinking about improving taps so that you don't
+need to touch them! #socialdistancing
+
+**Sensor taps** have a couple of issues:
+
+1. They require electricity
+2. In my experience they often do not work
+3. There is no way to override them to work if the sensor fails
+4. Of course they are much more expensive than a basic tap
+
+Ideally there would be an inexpensive tap with a [mini hydro
+turbine](https://www.coroflot.com/jinwoohan/Mini-Hydro-Turbine) powering a
+reliable sensor to dispense water once your hands are near it. I haven't heard
+or seen such a product. Have you?
