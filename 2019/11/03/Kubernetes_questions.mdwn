@@ -10,6 +10,8 @@ _some questions are missing answers, please get in touch_
 Why is the Terraform abstraction typically used to manage Kubernetes (k8s)? Why
 can't Kubernetes be the complete declarative model?!
 
+I heard that <https://github.com/kubernetes-sigs/cluster-api> hopes to address this bootstrapping issue.
+
 ## What's the point of scaling (replicas) of a pod on a single node?
 
 Is it supposed to be some el cheapo form of concurrency?
@@ -18,14 +20,15 @@ Is it supposed to be some el cheapo form of concurrency?
 
 ## Why are Kubernetes app packages (aka helm charts) so very obtuse?
 
-It makes the succint PKGBUILD of Archlinux look absolutely ingenious.
+It makes the succinct PKGBUILD of Archlinux look absolutely ingenious.
 
 > helm can bundle all the resources at a particular version and deploy them all in one go.
 instead of helm you can literally just have your yaml in a dir and apply it in one go.
 helm provides a workflow for people who aren't so careful with maintaining the state of the declarative models in git.
 
 Helm charts are very obtuse since unlike packages, they **describe usually a
-cohort of microservices**. Most charts do seem to go overboard with **configs that stretch pages**. :/
+cohort of microservices**. Most charts do seem to go overboard with **configs
+that stretch pages** unlike my preferred choice **docker-compose.yml**.
 
 ## How do you monitor your application?
 
@@ -37,6 +40,9 @@ At each pod? At the load balancer?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TNg3ga7s_MY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Prometheus in a k8s cluster appears to export a ton of metrics. I wonder which
+are actually useful.
+
 ## If Kubernetes declarative YAML was so awesome, how come **no upstream app** seems to ship it?
 
 [Except my test project](https://github.com/kaihendry/sla/blob/master/k8s/deploy.yaml) 🤣
@@ -44,6 +50,8 @@ At each pod? At the load balancer?
 > There is a fledgling concept called **kube**
 
 ## Why does prometheus-operator suck so hard?
+
+<img src="https://s.natalian.org/2019-11-17/prometheus-operator.png" alt="Prometheus operator sucking CPU">
 
 All I want is a Prometheus **autodiscovery/autoscraping** solution whereby I deploy pods
 exporting /metrics (my `hendry/sla` image) and a single prometheus pod can
@@ -116,6 +124,46 @@ in a blue-green deployment, I have “int” or “string”. the OR is exclusiv
 
 <https://learnk8s.io/kubernetes-rollbacks/>
 
+# Open questions
+
+## Node pools only appears to exist in <abbr title="Google Kubernetes Engine">GKE</abbr>
+
+Why isn't it a native feature of Kubernetes? No tooling seems to be Node pool aware.
+
+## Why allow developers to request resources?
+
+I think it's foolish budgeting exercise for developers to request resources for
+their application to run. They might conservatively reserve 2GB, whilst 512mb
+is more than sufficient. This leads to very inefficient pod placement amongst
+your nodes. Leading to under utilized resources.
+
+## Work load Isolation with kubernetes seems poorly defined
+
+Do you have a cluster per project? Do you put all your projects in one
+**production cluster**? If you put all your eggs in one basket, what happens
+when the Kubernetes master node fails? **Complete chaos**.
+
+I don't like the idea of #devops making poorly document decisions of why certain
+workloads are isolated in their own clusters, whilst others are grouped
+together.
+
+## Upgrade story
+
+Upgrading and changing the declarative model appears non-deterministic to me.
+What is the upgrade from say v1.12? Will there by downtime? It all seems to be
+a **dark art**.
+
+<https://k8s.af/> offers chilling testimony.
+
+# General tooling confusion
+
+Is Heapster deprecated?
+
+<img src="https://s.natalian.org/2019-11-17/low-resource.png">
+
+What tooling should I be using to work out inefficiently placed workloads? Why
+am I having to do this even?
+
 # Credits aka thank you for helping me wrap my head around k8s
 
-Many thanks to [@danielepolencic](https://twitter.com/danielepolencic/) of <https://learnk8s.io/nodejs-kubernetes-guide/> and [@alexellisuk](https://twitter.com/alexellisuk?lang=en)
+Many thanks to [@danielepolencic](https://twitter.com/danielepolencic/) of <https://learnk8s.io/nodejs-kubernetes-guide/> and [@alexellisuk](https://twitter.com/alexellisuk?lang=en).

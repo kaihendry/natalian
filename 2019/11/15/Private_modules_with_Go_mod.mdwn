@@ -8,12 +8,12 @@ If you have hit an error in your build like:
 	make: *** [build] Error 1
 	The command '/bin/sh -c make build' returned a non-zero code: 2
 
-Despite having `GOPRIVATE="source.example.com"` etc set, it probably because you expected:
+Despite having `GOPRIVATE="source.example.com"` etc set, it's probably because you expected:
 
 	git config url."https://gitlab-ci-token:${CI_BUILD_TOKEN}@source.example.com".insteadOf "https://source.example.com"
 
 ... to work in your Docker build. It won't because the git config is missing
-the `--global` switch to fetch other private git repos. That means you need an
+the **`--global` switch to fetch other private git repos**. That means you need an
 `ARG CI_BUILD_TOKEN` in your Dockerfile and well STOP. Don't do that!
 
 # Use go vendor

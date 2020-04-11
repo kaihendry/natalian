@@ -1,4 +1,4 @@
-[[!meta title="Grab Express"]]
+[[!meta title="Grab Express experience during Circuit Breaker"]]
 [[!meta description="User Experience of Grab Express delivery service in Singapore"]]
 
 Since Singpore's COVID-19 Circuit Breaker, I am reliant on delivery services
@@ -36,14 +36,21 @@ number was missing from my address.
 
 # Price
 
-Tbh I wasn't in a hurry. Anytime same day delivery would have been fine. Even
-though it was a pricey 16SGD for 10km trip, I kinda of expected a more of an
-Amazon Prime experience where the driver might go on a detour. But in this
-case, it seemed very similar to a Ride share experience. It was absolutely
-direct and fast.
+Worst thing is there is no dynamic pricing with [GrabExpress
+rates](https://www.grab.com/sg/express/). No supply / demand fluctuations.
 
-Are there cheaper, slower options? With a better form and live view of the
-driver? 
+<img src="https://s.natalian.org/2020-04-10/grabexpress-bike-price.png">
+
+Extra 2SGD for lunch time deliveries between 11.30am to 1.30pm.
+
+Tbh I wasn't in a hurry. Anytime same day delivery would have been fine. Even
+though it was a pricey 16SGD for a 10km trip, I kinda expected a more of an
+[Amazon Prime](https://www.amazon.sg/prime) experience where the driver might
+go on a detour. But in this case, it seemed very similar to a Ride share
+experience. Absolutely direct and fast.
+
+Are there cheaper, slower options? With a better form and realtime live view of
+the driver?
 
 Or will it take another billionaire dollars of startup funding to
 deliver?
@@ -62,3 +69,26 @@ Van</a>. Alarming they somehow have a worse form:
 <https://www.qoo10.sg> won't allow me to register with my email address:
 
 <img src="https://s.natalian.org/2020-04-09/invalid.png" alt="invalid email address">
+
+And their captcha is damn hard.
+
+## Uparcel
+
+After registering with <https://www.uparcel.sg> and their site timing out (must be popular?), I am supposed to specify a time:
+
+<img src="https://s.natalian.org/2020-04-09/time-uparcel.png">
+
+How about... **any time**? My friend and I are at home... **ALL DAY**!
+
+After filling out the details of the form, they appear to charge 10SGD for same
+day delivery. That's if I figure out how to pay them.
+
+<img src="https://s.natalian.org/2020-04-09/uparcel-payments.png">
+
+## Lalamove
+
+Lalamove seems to have replicated [Grab's delivery
+product](https://www.grab.com/sg/express/). Pricing model is exactly the same,
+which is not competitive.
+
+<img src="https://s.natalian.org/2020-04-10/lalamove.png">

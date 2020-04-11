@@ -6,6 +6,11 @@ Prompted by a [couple of](https://twitter.com/ehn/status/1248101907005976576)
 COVID-19 needs, I have been thinking about improving taps so that you don't
 need to touch them! #socialdistancing
 
+You could conceivably wash your hands after touching a push down timed-flow tap,
+though I find it awkward to do so.
+
+<img src="https://s.natalian.org/2020-04-11/sensor-tap.jpg" alt="touch free sensor tap by GROHE">
+
 **Sensor taps** have a couple of issues:
 
 1. They require electricity
@@ -17,3 +22,67 @@ Ideally there would be an inexpensive tap with a [mini hydro
 turbine](https://www.coroflot.com/jinwoohan/Mini-Hydro-Turbine) powering a
 reliable sensor to dispense water once your hands are near it. I haven't heard
 or seen such a product. Have you?
+
+## Foot tap
+
+<a href="https://www.amazon.de/dp/B07BD6GJHZ/ref=cm_sw_r_wa_apa_i_SkjKEbV25Q784?pldnSite=1">
+<img src="https://s.natalian.org/2020-04-10/foot-tap.jpg" alt="foot controlled system faucet">
+</a>
+
+Foot controlled system; Pros: pure mechanics, no electricity. Kudos to my dear friend Felix for the link.
+
+Cons: How the hell do you clean the foot trigger? Difficult with wheelchair users.
+
+## Lever taps
+
+<a href="https://www.washwareessentials.co.uk/taps/6inch-lever-basin-taps">
+<img src="https://s.natalian.org/2020-04-11/6inch-lever-basin-taps.jpg" alt="6 Inch Lever Operated Basin Taps">
+</a>
+
+Seen as the traditional option with the main drawback being you still have to
+touch them with your elbow..
+
+Big **disadvantage** is that they are not water saving since it won't turn off automatically!
+
+Typically **single lever** unlike the ones above.
+
+# NHS Hospital pattern
+
+
+The Health Technical Memorandum 64 stipulates:
+
+<blockquote>
+Hospital pattern basins should be used in clinical procedures with safe,
+integral thermostatically (TMV3 D08) controlled water and wall-mounted single
+lever-action or sensor taps with concealed/ducted services.
+</blockquote>
+
+And that
+
+<blockquote>
+proximity sensor are now an alternative to lever-action taps.
+</blockquote>
+
+<blockquote>
+Sensor-controlled fittings are ideally suited to control the flow of water at
+scrub-up troughs and can offer the additional benefit of controlled runtimes.
+The relationship between the taps and the trough is critical in order to avoid
+splashing.
+</blockquote>
+
+Furthermore "Spray-type mixer taps are not recommended in healthcare premises;
+therefore, the type of tap should be carefully selected to minimise the
+formation of water droplets and aerosols."
+
+Interesting the stipulates wall mounted fittings and basins **without tap holes**.
+
+<blockquote>
+The fitting and basin combination should be such that the water stream never
+discharges directly into the basin's waste outlet</blockquote>
+
+* [HBN 00-10 Part C](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/148497/HBN_00-10_Part_C_Final.pdf)
+– ‘Sanitary assemblies’
+* [Safe water in healthcare premises](https://www.gov.uk/government/publications/hot-and-cold-water-supply-storage-and-distribution-systems-for-healthcare-premises)
+
+Point-of-use (POU) filter – a filter with a maximal pore size of 0.2 μm applied
+at the outlet, which removes bacteria from the water flow.
