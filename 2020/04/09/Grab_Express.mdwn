@@ -1,13 +1,23 @@
 [[!meta title="Singapore Same day delivery experience during Circuit Breaker"]]
 [[!meta description="User Experience of Grab Express delivery service in Singapore"]]
 
+
+<style>
+img {
+  width: 10em;
+  margin: 0 1em 1em 0;
+  box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+  image-orientation: from-image;
+}
+</style>
+
 Since Singpore's COVID-19 Circuit Breaker, I am reliant on delivery services
 for getting me stuff. I want to borrow an item off a friend, I can't expect him
 to go to Singpost. Not that Singpost is a sane option without COVID-19. 😂
 
 So enter "Grab Express", which is found confusingly under the "Delivery" button in the App.
 
-<img width="25%" src="https://s.natalian.org/2020-04-09/delivery.jpeg" alt="Grab delivery">
+<img src="https://s.natalian.org/2020-04-09/delivery.jpeg" alt="Grab delivery">
 
 Next issue is that it assumes I want to send something. Now I want the Grab express delivery guy to pick up the item. Now I need to fight the UI.
 
@@ -17,7 +27,7 @@ Doesn't seem to know my address, despite using Grab from my address 100s of time
 
 Once you filled in the form without making a mistake and resetting it, now you get to see the price!
 
-<img width="25%" src="https://s.natalian.org/2020-04-09/price.jpeg" alt="Courier price">
+<img src="https://s.natalian.org/2020-04-09/price.jpeg" alt="Courier price">
 
 Don't like the price and back out? Prepare to fill in the forms from scratch once again! 🤦
 
@@ -26,8 +36,8 @@ Don't like the price and back out? Prepare to fill in the forms from scratch onc
 Next issue is once you've been assigned a driver there is no way to share the
 driver's whereabouts with parties concerned. Oh boy...
 
-<img width="25%" src="https://s.natalian.org/2020-04-09/ten.png">
-<img width="25%" src="https://s.natalian.org/2020-04-09/underway.png">
+<img src="https://s.natalian.org/2020-04-09/ten.png">
+<img src="https://s.natalian.org/2020-04-09/underway.png">
 
 I put in the details of my friend and my helper, since I was going out for
 exercise. Unfortunately the driver was trying to communicate with me and not
@@ -95,7 +105,16 @@ which is not competitive.
 
 ## Gogovan
 
-Haven't tried yet!
+Off the bat Gogovan fails the, "I want to collect" test. Gogovan assumes you are the sender.
+
+So of course the courier uncle calls me up asking me whether I'm available now
+for the pick up. Even though I put copious notes the Recipient info is who he's
+collecting the item from!
+
+<img src="https://s.natalian.org/2020-04-23/gogovan.jpeg">
+
+It has a live map which is nice, though the Amazon Prime live map is so much
+nicer and better executed.
 
 <img src="https://s.natalian.org/2020-04-13/gogovan.png">
 
@@ -104,5 +123,26 @@ Haven't tried yet!
 ## carousellxblu
 
 <img src="https://s.natalian.org/2020-04-13/blu.png">
+
+Blu's App or process is very confusing. My first experience of their service
+was this message via WhatsApp:
+
+<img src="https://s.natalian.org/2020-04-23/blu-first.jpeg">
+
+The parcel reference cannot be used in the App **confusingly**:
+
+
+<img src="https://s.natalian.org/2020-04-23/blu-fapp.jpeg">
+
+After raising a support query with Blu, they called me to say that I should
+ignore that message and wait for a **Your parcel is ready for collection**
+message over WhatsApp. Heavens know what the UX is if you don't have WhatsApp!
+
+So you actually do not need to use the App at all to collect. #goblutoday
+
+<img src="https://s.natalian.org/2020-04-23/collected-blu.jpeg">
+
+When collecting you have to sign with the recipient's name. I am not sure if
+this would work at all if I delegated for someone else to collect on my behalf.
 
 <https://blu.com.sg/carousellxblu>

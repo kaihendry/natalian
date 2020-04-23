@@ -36,6 +36,7 @@ img { max-width: 100%; height: auto; }
 
 article {
 	max-width: 50em;
+	margin-top: 1em;
 	position: relative;
 	margin: 0 auto 0;
 	padding: 0 1.5em 3%;
