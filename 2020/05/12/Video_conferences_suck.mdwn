@@ -1,0 +1,108 @@
+[[!meta title="Video conferences suck"]]
+[[!meta description="Video meetings or Webinars are awful. Can they be better?"]]
+
+Personally I find [synchronous video meetings agonising](https://twitter.com/kaihendry/status/1259378038103347200)!
+
+# So why do people have video meetings?
+
+* No way to meet or collaborate in person #covid19
+* Stakeholders at the table
+* Deadlines
+* Alignment
+* Gets people to show up
+* Conflict resolution
+* Recognised as a medium to decide upon things collectively
+* Express dependencies
+* Express priorities
+* Lowest common denominator, recognised as the way to do business in 2020
+
+# So why do video conferences suck?
+
+## Chairing issues
+
+No agenda, participants often aren't prepared.
+
+Recording of decisions is done poorly. No minutes. No way to reference a decision or action.
+
+Difficulty co-ordinating who speaks and for how long.
+
+No time limit, so they basically can go on and on... until the next scheduled meeting.
+
+## Technical issues
+
+Poor audio. No decent microphone or headset. Noisy environment. Room with poor acoustic qualities (reverb).
+
+Poor video. Poor lighting or camera. Distracting background.
+
+Poor network. Packetloss. Latency. Difficult to diagnose where the issue lies between several participants.
+
+Conferencing technology often requires centralisation to be efficient. It's
+not peer to peer since many upload channels can only afford one video uplink.
+
+Using wireless instead of wired.
+
+<img title="wireless sucks" src="https://s.natalian.org/2020-05-12/wireless-lan-smokepoing.png" alt="wireless latency on a LAN">
+<img title="wired is stable" src="https://s.natalian.org/2020-05-12/wired-lan-smokeping.png" alt="wired latency on a LAN">
+
+Other participants unable to mute their microphone
+
+Software unable to do noise suppression.
+
+Not easy to share a desktop with common desktop anti-patterns of notifications interrupting focus.
+
+Not easy to point or highlight elements on a shared desktop in real time.
+
+Different software platforms have different features or limitations. For
+example you can't mute people in Microsoft Teams. If you collaborate with an
+Enterprise you might be able to choose a better solution.
+
+Difficult to diagnose issues. Play a game between participants. Take turns
+counting up as soon as hear the number.
+
+## Issues with the medium itself
+
+<blockquote>
+A pointless meeting with five people that lasts an hour is not a waste of one hour of productivity, it's a waste of five hours.
+</blockquote>
+
+Presenting without seeing your audience.
+
+# How to avoid video conferencing?
+
+Don't have them like most <abbr title="Open-source software">OSS</abbr> projects.
+
+However OSS often have properties that businesses do not:
+
+* Strong individual contribution
+* Better public documentation
+* Operate in the public, transparently
+* Having a way to reference decisions and data points, e.g. Github issues comments
+* <https://en.wikipedia.org/wiki/Servant_leadership>
+* OSS is based on passion and interest, business isn't
+* People are truly committed
+* Share the same knowledge, vision and idea
+* Born distributed on the Internet
+* Strong email etiquette <https://lkml.org/> and archives
+* Acceptance of asynchronous mediums like <abbr title="Inter Relay Chat">IRC</abbr> or Slack
+
+End result is that a majority of OSS do not need meetings.
+
+# How to make video conferencing suck less?
+
+Address the issues above! Solve organisational/management issues; e.g. Promote
+a chair person. Adopt good minuting practices and tools. Like the W3C does?
+
+Solve technical issues; e.g. Supply a [Jabra
+headset](https://www.jabra.sg/business/office-headsets/jabra-evolve/jabra-evolve-20)
+to staff and tell them to be wired!
+
+Instead of "live" Webinars, record and edit presentation in advance and then
+take questions after?
+
+Attempt to solve the problem in a different way!
+For example using [Standups](https://standuply.com/) for **alignment**, in an asynchronous medium like Slack.
+
+Use **email**. However improving [posting
+style](https://en.wikipedia.org/wiki/Posting_style) in software like Outlook is
+impossible to do, so OSS practices present in <https://lkml.org/> cannot be
+adopted without software changes.
