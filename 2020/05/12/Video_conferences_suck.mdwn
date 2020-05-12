@@ -18,6 +18,17 @@ Personally I find [synchronous video meetings agonising](https://twitter.com/kai
 
 # So why do video conferences suck?
 
+<blockquote>
+A pointless meeting with five people that lasts an hour is not a waste of one hour of productivity, it's a waste of five hours.
+</blockquote>
+
+These are issues I've personally experienced. Hopefully over time people will
+look at these issues and wonder how they were issues to begin with! 
+
+To begin with, presenting without seeing your audience is excruciating. Even
+though it's a video conference, it's not practical to view participants faces
+whilst sharing a screen.
+
 ## Chairing issues
 
 No agenda, participants often aren't prepared.
@@ -39,37 +50,29 @@ Poor network. Packetloss. Latency. Difficult to diagnose where the issue lies be
 Conferencing technology often requires centralisation to be efficient. It's
 not peer to peer since many upload channels can only afford one video uplink.
 
-Using wireless instead of wired.
+Using wireless instead of wired as you can see for yourself is suboptimal:
 
 <img title="wireless sucks" src="https://s.natalian.org/2020-05-12/wireless-lan-smokepoing.png" alt="wireless latency on a LAN">
 <img title="wired is stable" src="https://s.natalian.org/2020-05-12/wired-lan-smokeping.png" alt="wired latency on a LAN">
 
-Other participants unable to mute their microphone
+Participants unable to mute their microphone.
 
 Software unable to do noise suppression.
 
 Not easy to share a desktop with common desktop anti-patterns of notifications interrupting focus.
 
-Not easy to point or highlight elements on a shared desktop in real time.
+Not easy to point or highlight / magnify elements on a shared desktop in real time.
 
 Different software platforms have different features or limitations. For
 example you can't mute people in Microsoft Teams. If you collaborate with an
-Enterprise you might be able to choose a better solution.
+Enterprise you might not be able to choose a better solution.
 
-Difficult to diagnose issues. Play a game between participants. Take turns
-counting up as soon as hear the number.
-
-## Issues with the medium itself
-
-<blockquote>
-A pointless meeting with five people that lasts an hour is not a waste of one hour of productivity, it's a waste of five hours.
-</blockquote>
-
-Presenting without seeing your audience.
+Difficult to diagnose issues. Try play a game between participants: Take turns
+counting up as soon as hear the number. It's an awful experience.
 
 # How to avoid video conferencing?
 
-Don't have them like most <abbr title="Open-source software">OSS</abbr> projects.
+Don't host them like most <abbr title="Open-source software">OSS</abbr> projects.
 
 However OSS often have properties that businesses do not:
 
@@ -77,9 +80,9 @@ However OSS often have properties that businesses do not:
 * Better public documentation
 * Operate in the public, transparently
 * Having a way to reference decisions and data points, e.g. Github issues comments
-* <https://en.wikipedia.org/wiki/Servant_leadership>
+* <https://en.wikipedia.org/wiki/Servant_leadership> h/t [harish](https://twitter.com/harishpillay/status/1259431437855383553)
 * OSS is based on passion and interest, business isn't
-* People are truly committed
+* Project members are truly committed
 * Share the same knowledge, vision and idea
 * Born distributed on the Internet
 * Strong email etiquette <https://lkml.org/> and archives
@@ -89,12 +92,16 @@ End result is that a majority of OSS do not need meetings.
 
 # How to make video conferencing suck less?
 
-Address the issues above! Solve organisational/management issues; e.g. Promote
+Address the issues above! Solve organisational/management issues; e.g. **Promote**
 a chair person. Adopt good minuting practices and tools. Like the W3C does?
 
 Solve technical issues; e.g. Supply a [Jabra
 headset](https://www.jabra.sg/business/office-headsets/jabra-evolve/jabra-evolve-20)
 to staff and tell them to be wired!
+
+**Record meetings**. Re-visit them. What could be better? Improve them!
+
+**Reference recordings** and their products: actions/decisions.
 
 Instead of "live" Webinars, record and edit presentation in advance and then
 take questions after?
@@ -104,5 +111,5 @@ For example using [Standups](https://standuply.com/) for **alignment**, in an as
 
 Use **email**. However improving [posting
 style](https://en.wikipedia.org/wiki/Posting_style) in software like Outlook is
-impossible to do, so OSS practices present in <https://lkml.org/> cannot be
-adopted without software changes.
+impossible to do, so good etiquette OSS practices present in [mailing
+lists](https://lkml.org/) cannot be adopted without software changes.
