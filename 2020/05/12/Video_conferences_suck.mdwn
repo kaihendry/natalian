@@ -17,24 +17,33 @@ Personally I find [synchronous video meetings agonising](https://twitter.com/kai
 * Express priorities
 * Lowest common denominator, recognised as the way to do business in 2020
 * Need to present some slides and talk over them
-* Need to whiteboard some idea
+* Need to _whiteboard_ some idea
 * Get feedback from peers on some narrative
 * Considered an open _unstructured_ forum by some
+* Better place to socialise, joke and to be more human
 
 # So why do video conferences suck?
 
-<blockquote>
-A pointless meeting with five people that lasts an hour is not a waste of one hour of productivity, it's a waste of five hours.
-</blockquote>
+<blockquote> In-person conferences suck because they are inaccessible (e.g. if
+you're poor and can't travel, or if you have a medical condition and can't
+travel, or if you have family constraints and can't travel, or...). Video
+conferences mostly just suck because of bandwidth and camera/microphone quality
+constraints these days... At least, for meetings that are well run (with agenda
+etc). But then I don't attend the ones that suck, so... :-) <cite>Ian
+Hickson</cite> </blockquote>
 
 These are issues I've personally experienced. Hopefully over time people will
 look at these issues and wonder how they were issues to begin with!
 
-To begin with, presenting without seeing your audience is excruciating. Even
-though it's a video conference, it's not practical to view participants faces
-whilst sharing a screen.
+I've found presenting without seeing your audience _excruciating_. Even though
+it's a video conference, it's not practical to view participants faces whilst
+sharing a screen.
 
 ## Chairing issues
+
+<blockquote>
+A pointless meeting with five people that lasts an hour is not a waste of one hour of productivity, it's a waste of five hours.
+</blockquote>
 
 No agenda, participants often aren't prepared.
 
@@ -52,39 +61,45 @@ Poor video. Poor lighting or camera. Distracting background.
 
 Poor network. Packetloss. Latency. Difficult to diagnose where the issue lies between several participants.
 
-Conferencing technology often requires centralisation to be efficient. It's
-not peer to peer since many upload channels can only afford one video uplink.
+Conferencing technology often requires _centralisation_ to be efficient. It's
+not peer to peer since typical constrained upload channels can only afford one
+video uplink. _Centralisation_ means conferences are typically not end to end
+encrypted, making **video conferences a security concern**.
 
-Using wireless instead of wired as you can see for yourself is suboptimal:
+Using _optimal_ wireless instead of wired as you can see for yourself is _suboptimal_ compared to wired below:
 
-<img title="wireless sucks" src="https://s.natalian.org/2020-05-12/wireless-lan-smokepoing.png" alt="wireless latency on a LAN">
+<img title="optimal wireless is still unstable" src="https://s.natalian.org/2020-05-12/wireless-lan-smokepoing.png" alt="wireless latency on a LAN">
 <img title="wired is stable" src="https://s.natalian.org/2020-05-12/wired-lan-smokeping.png" alt="wired latency on a LAN">
 
 Participants unable to mute their microphone.
 
 Software unable to do noise suppression.
 
-Not easy to share a desktop with common desktop anti-patterns of notifications interrupting focus.
+Not easy to share a desktop with common desktop anti-patterns of notifications
+interrupting focus.  Not easy to point or annotate / highlight / magnify
+elements on a shared desktop in real time.
 
-Not easy to point or highlight / magnify elements on a shared desktop in real time.
-
-Different software platforms have different features or limitations. For
-example you can't mute people in Microsoft Teams. If you collaborate with an
-Enterprise you might not be able to choose a better solution.
+Different software platforms have different features or limitations. If you
+collaborate with an Enterprise you might not be able to choose a better
+solution.
 
 Difficult to diagnose issues. Try play a game between participants: Take turns
 counting up as soon as hear the number. It's an awful experience.
 
 # How to avoid video conferencing?
 
-Don't host them like most <abbr title="Open-source software">OSS</abbr> projects.
+Learn from <abbr title="Open-source software">OSS</abbr> projects and do not
+resort to video conferences!  Admittedly <abbr title="Open-source
+software">OSS</abbr> is focused around **code reviews**, nonetheless they do
+tend to produce amazing value / work.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No PMs, no agile, no scrum, no SLAs, no KPIs, no arbitary deadlines</p>&mdash; Alyssa Quek (@alyssaquek) <a href="https://twitter.com/alyssaquek/status/1260179756684845056?ref_src=twsrc%5Etfw">May 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 However OSS often have properties that businesses do not:
 
 * Strong individual contribution
 * Better public documentation
 * Operate in the public, transparently
-* Assume good intentions
 * Have a good way to reference decisions and data points
 * **Importantly** the references (URLs) are used and cross referenced , e.g. [Github PRs issues comments](https://whatwg.org/working-mode#new-proposals)
 * <https://en.wikipedia.org/wiki/Servant_leadership> h/t [harish](https://twitter.com/harishpillay/status/1259431437855383553)
@@ -97,13 +112,16 @@ However OSS often have properties that businesses do not:
 
 End result is that a majority of OSS do not need meetings.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You could add that OSS projects have evolved over decades of remote &amp; geo-distributed work to operate *asynchronously* by default. Videoconfs are often a misguided lift-and-shift effort to replicate physical offices</p>&mdash; Mahemoff @ 🏡 (@mahemoff) <a href="https://twitter.com/mahemoff/status/1260446274664517635?ref_src=twsrc%5Etfw">May 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # How to make video conferencing suck less?
 
 Address the issues above! Solve organisational/management issues. **Take
 responsibility**. I personally have the feeling that a lot of meeting
 participants want to be "off record" to save their skins.
 
-**Promote** a chair person. Arrange a queue or adopt "hand up" approach to indicate the participant has a point to make. Keep time!
+**Promote** a chair person. Arrange a queue or adopt "hand up" approach to
+indicate the participant has a point to make. Keep time! Own it!
 
 **Promote** a note taker / scribe. Adopt good minuting practices and tools.
 Have a Google doc or some other realtime pad so participants can collaborate
@@ -118,13 +136,14 @@ to staff and tell them to be wired!
 
 **Reference recordings** and their products: actions/decisions.
 
-Instead of "live" Webinars, record and edit presentation in advance and then
-take questions after?
+Instead of "live" Webinars, pre-record and edit presentation in advance and
+then take questions after? If you can't get good results in a recording, you
+certainly won't achieve them live!
 
 Attempt to solve the problem in a different way!
-For example using [Standups](https://standuply.com/) for **alignment**, in an asynchronous medium like Slack.
+For example using [Standups](https://standuply.com/) for **alignment**, in an **asynchronous medium** like Slack or IRC.
 
-Use **email**. However improving [posting
+Use **email with archives (decisions) you can reference**. However improving [posting
 style](https://en.wikipedia.org/wiki/Posting_style) in software like Outlook is
 impossible to do, so good etiquette OSS practices present in [mailing
 lists](https://lkml.org/) cannot be adopted without software changes.
