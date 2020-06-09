@@ -1,0 +1,71 @@
+[[!meta title="Games for a four year old"]]
+[[!meta description="Games my four year old son and I enjoyed"]]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JjJSYk2hWIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The games below we enjoyed. We tried many more games that sucked. Avoid In-App purchase games!
+
+<!-- view-source:https://codemadness.org/datatable-example.html -->
+
+<table id="datatable" class="datatable">
+<thead>
+<tr>
+<th>Name</th>
+<th>Platform</th>
+<th>Score</th>
+<th>Comments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mario Kart 8</td>
+<td>Nintendo Wii U</td>
+<td>7</td>
+<td>Too young to pick up drift controls</td>
+</tr>
+<tr>
+<td>Super Smash Brothers</td>
+<td>Nintendo Wii U</td>
+<td>8</td>
+<td>Likes key smashing, but can't realistically compete &gt;3 CPU opponents</td>
+</tr>
+<tr>
+<td><a href="https://twitter.com/kaihendry/status/1257967188461252608">PikuNiku</a></td>
+<td>Steam PC</td>
+<td>10</td>
+<td>Co-Op is great with <abbr title="DUALSHOCK 4 wireless controller">DS4</abbr></td>
+</tr>
+<tr>
+<td><a href="https://store.steampowered.com/app/1055540/A_Short_Hike/">A Short Hike</a></td>
+<td>Steam PC</td>
+<td>9</td>
+<td>Too young for him to play, so he watched me play</td>
+</tr>
+<tr>
+<td>Mario64 PC Port with <abbr title="DUALSHOCK 4 wireless controller">DS4</abbr></td>
+<td>Windows PC</td>
+<td>9</td>
+<td>Too young for him to play, so he watched me play. We enjoyed watching the Youtube walkthroughs and <a href="https://www.youtube.com/channel/UClvMduw1MDMQ0PuH753-XSA">speed running</a>.</td>
+</tr>
+<tr>
+<td><a href="https://apps.apple.com/us/app/lego-builders-journey/id1441636691">Lego builders Journey</a></td>
+<td>iPad Pro with Arcade subscription</td>
+<td>9</td>
+<td>Found the controls a little unresponsive, but my son really enjoyed it. He did need help on at least half the levels.</td>
+</tr>
+<tr>
+<td><a href="https://twitter.com/kaihendry/status/1269238668566224896">Sneaky Sasquatch</a></td>
+<td>iPad Pro with Arcade subscription</td>
+<td>10</td>
+<td>He can control this game really well.</td>
+</tr>
+<tr>
+<td><a href="https://apps.apple.com/us/app/cricket-through-the-ages/id1435904911">Cricket through the Ages</a></td>
+<td>iPad Pro with Arcade subscription</td>
+<td>9</td>
+<td>We laughed together playing this</td>
+</tr>
+</tbody>
+</table>
+
+Do let me know if you any recommendations please!

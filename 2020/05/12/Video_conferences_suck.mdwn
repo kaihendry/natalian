@@ -3,6 +3,8 @@
 
 Personally I find [synchronous video meetings agonising](https://twitter.com/kaihendry/status/1259378038103347200)!
 
+<img src="https://s.natalian.org/2020-05-17/video-conf.png" alt="Video conferencing screen from Charlie Brooker's Antiviral Wipe">
+
 # So why do people have video meetings?
 
 * No way to meet or collaborate in person #covid19
@@ -29,7 +31,7 @@ you're poor and can't travel, or if you have a medical condition and can't
 travel, or if you have family constraints and can't travel, or...). Video
 conferences mostly just suck because of bandwidth and camera/microphone quality
 constraints these days... At least, for meetings that are well run (with agenda
-etc). But then I don't attend the ones that suck, so... :-) <cite>Ian
+etc). But then I don't attend the ones that suck, so... :-) <cite>&mdash; Ian
 Hickson</cite> </blockquote>
 
 These are issues I've personally experienced. Hopefully over time people will
@@ -39,7 +41,7 @@ I've found presenting without seeing your audience _excruciating_. Even though
 it's a video conference, it's not practical to view participants faces whilst
 sharing a screen.
 
-## Chairing / moderation issues
+## Chairing / moderation / Host issues
 
 <blockquote>
 A pointless meeting with five people that lasts an hour is not a waste of one hour of productivity, it's a waste of five hours.
@@ -145,13 +147,13 @@ Instead of "live" Webinars, pre-record and edit presentation in advance and
 then take questions after? If you can't get good results in a recording, you
 certainly won't achieve them live!
 
-Attempt to solve the problem in a different way!  For example using _short form_
+Attempt to solve the problem in a different way!  For example using _short form_ [on demand]
 [Standups](https://standuply.com/) for **alignment**, in an **asynchronous
 medium** like Slack or IRC.
 
 <blockquote>The IRC room forces people to convert their fast thoughts into text. The
 questions  were collected  and added  to the  main audio  stream context
-according to the current moderator.<cite>20h</cite></blockquote>
+according to the current moderator.<cite>&mdash; 20h</cite></blockquote>
 
 Use **email with archives (decisions) you can reference**. However improving [posting
 style](https://en.wikipedia.org/wiki/Posting_style) in software like Outlook is
