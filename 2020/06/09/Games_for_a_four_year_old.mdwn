@@ -12,7 +12,7 @@ The games below we enjoyed. We tried many more games that sucked. Avoid In-App p
 <tr>
 <th>Name</th>
 <th>Platform</th>
-<th>Score</th>
+<th style="white-space:nowrap">Score</th>
 <th>Comments</th>
 </tr>
 </thead>
