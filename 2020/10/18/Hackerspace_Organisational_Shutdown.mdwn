@@ -1,0 +1,82 @@
+[[!meta title="Hackerspace.sg Organisation Shutdown"]]
+[[!meta description="Thoughts of the Singapore Hackerspace on its impeding closure"]]
+
+I came aware of the <a href="https://hackerspace.sg"><abbr title="Hackerspace.SG">HSG</abbr></a> [Organisation
+Shutdown](https://hackerspace.sg/plenum/2020-10-20/) since I watch the
+[hackerspace.sg](https://github.com/hackerspacesg/hackerspace.sg) repo.
+
+The sad news was later announced on the [hackerspace.sg mailing
+list](https://groups.google.com/g/hackerspacesg/c/nTWiUvvrG4s).
+
+I've been reflecting on it whilst looking through [some old pictures on Flickr](https://www.flickr.com/search/?tags=hackerspacesg).
+
+# Space at Bussorah Street 2012-2014
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendry/6923576444/in/photolist-e34SKi-e3ayGb-e34SNT-e3aySQ-e24Jth-dQbGHK-dQhhV1-dN1k9r-dMn929-dAvDp3-dAvDkW-bDPxM9-bA7YtU-bxP8xA-bLHQ4g-bLHQjz-bxP8Wh-bLHQtv-bxP9k1-bLHQRZ-bxP94E-bLt8L4-bLdBkB-bLduZv-bJX5np-btGqpb-bCFkhV-bpLoGC-bpLozC-bBAWor-bBAWvM-boG31u-boG2RL-boc7wy-bwm2Ei-bvZAxe-bvZzx4-bvZzJa-bvZAmD-bvZA2M-br3bXB-br3abg-dzbeM7-dz5KXH-dz5L9r-dzbeUE-dz5L4P-dz5L7i-dzbeRY-dz5LaV" title="You can actually see it from across the road pretty well"><img src="https://live.staticflickr.com/7251/6923576444_097a5a8e4d.jpg" width="500" height="375" alt="You can actually see it from across the road pretty well"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+* Incredible location - nightlife, tourists, great for food/tea
+* Met a bunch of fantastic people
+* Enthused me to stay in Singapore whilst visiting from Malaysia
+* Great social atmosphere where we would often go to eat together at Beach Road Hawker centre
+* Quiet room called "The Zone"
+* On the second floor
+* Ground floor was a great place to hang out and even have a [drink](https://www.flickr.com/photos/hendry/8536224697/)
+
+I set a Web cam there: <http://cam.hackerspace.sg/#2013-10-18>
+
+# Space on King George's Avenue 2014-2020
+
+The camera was moved <http://cam.hackerspace.sg/#2014-12-18>
+
+Lavender is actually a pretty good area, but not nearly as lively as the previous location in Kampung Glam.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendry/10820123554/in/photolist-jAKFcB-jAJuDB-jyWuLE-jpoTfH-hG4mNK-hEChkb-hu8XLo-hu8fEr-kiPBar-ij3dEL-i1wVrD-i1wP98-hK6oUC-hEBxF4-hECxqT-hu8Wmj-hu9GiB-hu8UKo-hu9Eba-hu8cUg-hu8SHC-hu9C7R-hu8gbC-hu9zRD-hu8Qfw-hu8d9L-hu8LEL-hu9x3n-hu89c7-ha53pd-gEXJHJ-grdKeh-fGEhTr-fxqPL9-fxbukT-eP8zVq-eKrWc3-e34SNT-e34SKi-e3aySQ-e3ayGb-e24Jth-dQhhV1-dN1k9r-hu8Sbq-hu88Fg-hu86b6-hu8NwG-hu83KV-hu8Ku9/" title="Unpacking in the new Hacker space!"><img src="https://live.staticflickr.com/3810/10820123554_992ef530d0_b.jpg" width="1024" height="768" alt="Unpacking in the new Hacker space!"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+* Dark claustrophobic space with poor ventilation
+* Not terribly easy to find
+* Fourth floor: Up a couple flights of steps making it difficult to bump into people
+
+I stopped visiting around 2016, and I cancelled my membership on 6 December
+2017. This probably is more to do with the fact that I had become a father than
+anything else. No time to hang out with the geeks.
+
+However I do feel despite people's best efforts, some things did go wrong.
+
+As a co-working space, it lacked proper "front desk" management. Some people
+were really abusing the space imho. The feeling of the space became
+uncomfortable for me at least.
+
+# Thank you
+
+Just want to say thank you to people who founded and ran the space for so long.
+
+It was quite a respectable run!
+
+# The future of "hackerspaces" in Singapore
+
+Despite the incredible growth of co-working spaces in just about every corner
+of downtown Singapore, nothing quite comes close to the feeling of the original
+Hackerspace on Bussorah Street for me.
+
+COVID-19 might be attributed to closure of Hackerspace.sg, but I'm thinking
+there needs to be central accessible place for nerds to meet up and exchange
+ideas, more than ever.
+
+# Future proposals
+
+Paying members should be listed and shown whether they are in good standing. In
+my mind we were lacking a good membership system, though I'll be the first to
+admit I've not made an effort to fix it.
+
+The paid up members ideally would make decisions in an asynchronous / online
+manner. No need for [frustrating synchronous plenums at the space as I moaned
+about
+before](https://natalian.org/2014/04/04/Better_organisational_decision_making/).
+
+Without naming (real) names, there needs to be a way of basically kicking abusive
+people out, as decided by paying members. Perhaps if you have three complaints
+you are barred for a year? Something forgiving. AFAIK there is no clear policy
+here.
+
+To keep the place fresh and clean, it would be good if the space could
+physically move at last once every couple of years.
