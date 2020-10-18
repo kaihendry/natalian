@@ -1,0 +1,48 @@
+[[!meta title="Which pediatrician is best in Singapore?"]]
+[[!meta description="How to choose a doctor for your child"]]
+
+As someone of the libertarian persuasion, it _pains me_ to say that the
+Government options for healthcare are the best options in Singapore at time of
+writing.
+
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Government</th>
+<th>Private</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Location</td>
+<td><abbr title="KK Women's and Children's Hospital">KKH</abbr> (229899)</td>
+<td>Everywhere</td>
+</tr>
+<tr>
+<td>Booking system</td>
+<td><a href="https://www.youtube.com/watch?v=VhwtQJu8KgI&feature=youtu.be">Appalling</a>.. Tip: Just go emergency</td>
+<td>Pick up phone</td>
+</tr>
+<tr>
+<td>Opening hours</td>
+<td>24/7</td>
+<td>Working hours</td>
+</tr>
+<tr>
+<td>Participate in Science</td>
+<td>yes, via Publications and Research Trials</td>
+<td>None cited, ok maybe a magazine</td>
+</tr>
+<tr>
+<td>Cost</td>
+<td>120SGD flat fee</td>
+<td>from 160SGD + drugs + treatments</td>
+</tr>
+<tr>
+<td>Treated like</td>
+<td>Patient</td>
+<td>Customer</td>
+</tr>
+</tbody>
+</table>
