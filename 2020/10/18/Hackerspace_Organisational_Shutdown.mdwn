@@ -22,7 +22,7 @@ I've been reflecting on it whilst looking through [some old pictures on Flickr](
 * On the second floor
 * Ground floor was a great place to hang out and even have a [drink](https://www.flickr.com/photos/hendry/8536224697/)
 
-I set a Web cam there: <http://cam.hackerspace.sg/#2013-10-18>
+I set up a raspberry Pi powered Web cam there: <http://cam.hackerspace.sg/#2013-10-18>
 
 # Space on King George's Avenue 2014-2020
 
@@ -38,17 +38,19 @@ Lavender is actually a pretty good area, but not nearly as lively as the previou
 
 I stopped visiting around 2016, and I cancelled my membership on 6 December
 2017. This probably is more to do with the fact that I had become a father than
-anything else. No time to hang out with the geeks.
+anything else. No time to hang out with my peers aka the geeks!
 
 However I do feel despite people's best efforts, some things did go wrong.
 
 As a co-working space, it lacked proper "front desk" management. Some people
-were really abusing the space imho. The feeling of the space became
-uncomfortable for me at least.
+were really abusing the space imho. The feeling of the <abbr title="King
+George's Building">KGB</abbr> space became uncomfortable for me at least, due
+to some people there I didn't like. Hey, it could be me(!)
 
 # Thank you
 
-Just want to say thank you to people who founded and ran the space for so long.
+Just want to say thank you to people who founded and especially the people who
+ran the space for so long.
 
 It was quite a respectable run!
 
@@ -78,5 +80,8 @@ people out, as decided by paying members. Perhaps if you have three complaints
 you are barred for a year? Something forgiving. AFAIK there is no clear policy
 here.
 
-To keep the place fresh and clean, it would be good if the space could
-physically move at least once every two years. Unless it's in Kampung Glam. ;)
+To keep the place **fresh and clean**, it would be good if the space could
+physically move every two years. Unless it's in Kampung Glam. ;)
+
+To conclude, I think there is a need for a Hackerspace in Singapore. I think we
+need a "shutdown" so we can "rise like a phoenix from the ashes". haha

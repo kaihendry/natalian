@@ -56,6 +56,9 @@ The new **Wholesale electricity Price bill** has many new line items, which I do
 
 <img src="https://s.natalian.org/2019-07-24/new.png" alt="My first wholesale electricity bill">
 
+* Bill from [August 2020](https://twitter.com/kaihendry/status/1296284301521072128)
+* Bill from [October 2020](https://s.natalian.org/2020-10-21/sp-oct.jpeg)
+
 Focusing just on the kWh price, ignoring transmission charges et al, it's now
 **0.0929**, down from 0.2279SGD per kWh. That's a 84% difference! Pretty drastic.
 
