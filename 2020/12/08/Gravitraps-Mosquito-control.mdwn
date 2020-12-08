@@ -1,0 +1,29 @@
+[[!meta title="Gravitraps to measure mosquitoes"]]
+[[!meta description="TIL about Gravitraps"]]
+
+<img src="https://s.natalian.org/2020-12-08/picture-of-gravitraps.webp" alt="Mosquito Gravitrap">
+
+<abbr title="Today I Learn">TIL</abbr> that Gravitraps around my Singaporean
+neighbourhood are inspected once every two weeks.
+
+<img src="https://s.natalian.org/2020-12-08/bike-mosquitoes.jpeg" alt="Mosquito collection">
+
+The mosquitoes go inside the [Gravitrap](https://www.nea.gov.sg/media/nea-vox/index/why-is-nea-placing-mosquito-traps-outside-my-house-will-this-increase-my-chances-of-being-bitten-by-mosquitoes#.XPTELvi-F3o) to lay their eggs, but get trapped by a sticky
+film, that gets replaced every two weeks.
+
+The trapped and dead mosquitoes are then moved from the film to a vial, with a cut yellow plastic straw.
+
+<img src="https://s.natalian.org/2020-12-08/sample.jpeg">
+
+This sample will then be tested in a laboratory to check what type of mosquitoes they are, to determine their threat.
+
+If the threat is high, increased fogging and inspections will be conducted by the <abbr
+title="The National Environment Agency">NEA</abbr>.
+
+<img src="https://s.natalian.org/2020-12-08/Nealogo.png" alt="NEA logo">
+
+Many people do not really know what these traps are, and how they help conduct
+the needed diligent science needed to control the mosquito pest. Often traps
+are vandalised or just thrown away. 
+
+I hope you now know better!

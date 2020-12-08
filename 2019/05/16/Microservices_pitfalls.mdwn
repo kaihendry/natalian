@@ -187,3 +187,5 @@ impossible to reproduce your environment on a standalone computer. YMMV.
 Update: AWS have a [Microservices
 whitepaper](https://docs.aws.amazon.com/whitepapers/latest/microservices-on-aws/introduction.html)
 which is worth reading.
+
+Update: [Good parody on Microservices](https://www.youtube.com/watch?v=y8OnoxKotPQ)
