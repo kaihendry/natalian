@@ -1,0 +1,26 @@
+[[!meta title="Samsung Portable SSD T7 leak"]]
+[[!meta description="An SSD enclosure that leaks a white waxy substance"]]
+
+<img src="https://s.natalian.org/2021-01-31/T7.webp" alt="Samsung Portable SSD T7">
+
+Bought the Samsung Model MU-PC1T0T/AM for 234.43SGD from Amazon.SG 22 August
+2020, it began to leak a white substance months later, that feels like wax.
+
+Samsung **agree it's defective**, but say in Singapore they are not entitled to
+support the device because it does not with an International Warranty.
+
+> Based the image yes your SSD has been defective. However we do regret unable
+> to support warranty claimed for your SSD due to your SSD does not support
+> with Local Singapore Warranty.For the Samsung SSD product does not comes with
+> International Warranty.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sx4fl0rjpeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I wish I paid better attention to the [Amazon reviews of the Samsung
+SSD](https://www.amazon.sg/gp/product/B0874XN4D8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1#customerReviews)
+as Adrian points out:
+
+> I was quite disappointed when SAMSUNG SINGAPORE wrote back to me that they
+> would not provide Warranty Coverage for the product purchased on AMAZON SG.
+
+Now I distrust Samsung.

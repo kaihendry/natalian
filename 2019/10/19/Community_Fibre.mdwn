@@ -1,6 +1,8 @@
 [[!meta title="Cornwall Community Fibre"]]
 [[!meta description="Is it worth spending 4600GBP to expedite an inevitable rural fiber internet install?"]]
 
+2021-01-07 UPDATE WE ARE FINALLY CONNECTED BY FIBRE IN RURAL CORNWALL! <https://dabase.com/blog/2021/FTTP/>
+
 For six years since my [last post on the state of my parents Superfast Cornwall
 Internet connection](/2013/09/28/Superfast_Cornwall/), we have been enduring
 roughly ~1Mb/s of upload, delivered via a [mile of thin copper from a cabinet equipped with Fibre (FTTC)](/2014/07/02/FTTC_is_worse_than_ADSL_when_2km_far_away_from_exchange/).
