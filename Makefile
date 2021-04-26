@@ -42,7 +42,7 @@ $(OUTPUT)/index.rss: $(LIST)
 	feeds
 	cat index.rss > $@
 
-$(OUTPUT)/index.html: $(LIST) godeps
+$(OUTPUT)/index.html: $(LIST)
 	@index > $@
 
 # http://natalian.s3-website-ap-southeast-1.amazonaws.com/
