@@ -1,0 +1,108 @@
+[[!meta title="Why I suck at investing"]]
+[[!meta description="Corporate greed deter me from growing my savings"]]
+
+My money sits in cash in a current account with basically no interest. I've
+been prompted to look at investing of late to beat inflation, a worldwide
+symptom of economies battling COVID.
+
+However I suck at investing, and allow me to explain why:
+
+# Bull market
+
+It's the information age and I would normally just invest in Tech stocks, but
+looking at:
+
+<img src="https://s.natalian.org/2021-05-25/nasdaq.png">
+
+I feel late to the game. Besides the super sale in March 2020, people
+acknowledge the stock market is due for a "re-adjustment".
+
+Yes, **over the long term my money is probably safe**, but I don't want to buy
+peak!
+
+# The interface to buying stocks / funds
+
+I've honestly tried to put some of my hard earned money into the stock market.
+I did my research, Interactive Brokers seems best. However the user interface
+is awful. My expectation was to plant 20% of my salary into some companies I like,
+but that's extremely challenging.
+
+1. It's a serious pain transferring money into <abbr title="Interactive Brokers">IBKR</abbr>
+2. It's a pain to then convert the SGD into USD as most stocks require USD to buy
+3. Purchasing a stock is incredibly confusing and I've got constant <abbr title="Fear of missing out">FOMO</abbr> that I've done it incorrectly or inefficiently
+4. I'm always worried about some capital gains tax implications
+
+That's not even the beginning of it. I have several accounts that I can't
+seem to consolidate. Support is terrible. I haven't found a sane community to
+converse with yet about it.
+
+# Exchange Traded Fund (ETFs) contains stock I do not want to support
+
+For example UK centric "basket of stocks" [Fundsmith invests in Microsoft](https://youtu.be/bbDl0wNIAXA?t=129)
+
+Most high profile tech companies like Oracle, Microsoft et al, I do not want to support.
+
+Admittedly Microsoft's practices has spurred my to try Linux and get involved
+in the <abbr title="Opensource software">OSS</abbr> community. And now you want me to invest in them? No no no
+
+# Don't want to support Corporates
+
+Corporate culture drives me to despair. I don't want to fund something I don't like.
+
+I would prefer to support a product or mission I believed in. Instead most
+IPO-ed companies appear [detached from their users and employees](https://paygo.media/p/25171).
+
+# Bitcoin
+
+I am tired of friends explaining to me that Bitcoin or some other shitcoin will
+"go to the moon". I was an earlier adopter of bitcoin and I did mine about 5
+years ago, so don't assume I don't know or understand decentralised currency or
+blockchain. I'm sick of the greed. I honestly don't think the technology is fit
+for purpose. [It's a disaster](https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html) No thanks!
+
+# Micro-loans
+
+I've heard of companies that invest in small businesses, though none of them
+appear reputable / accountable to my tastes.
+
+1. Isn't this what banks should be doing?
+2. Many of them seem focused on the third world and make you feel like you're adopting an orphan or being charitable
+
+# Venture Capital
+
+I wouldn't mind putting some of my money into startups, but the risks do seem
+too high in Singapore and most of the bets would appear too long term to me. I
+know of VCs who have invested in companies and only get their money a decade
+later, even if the company has done miraculously well over those 10 years.
+There are plenty of losers like Redmart that burn.
+
+I'm based in Singapore and ideally I'd invest in such companies with my time
+and expertise, but that doesn't appear to happen very much here, compared to
+Silicon Valley.
+
+# Gold
+
+As a South African born guy, gold has always been "the inflation beating" store of value. However:
+
+1. Kruger coin is not legal in Singapore ... why? it's not pure enough <99.5% purity
+2. When you sell physical gold, you usually get hit for a evaluation fee or buyback fee which usually kills your profits
+3. You can only realistically expect gold to keep up with inflation, which feels like running on a treadmill
+4. It doesn't _invest_ in people or a mission, i.e. make the world a better place. I don't want to lock up resources that can potentially lift people out of poverty or rob people of opportunities.
+
+# tl;dr
+
+<q>Best investment you can make is an investment in yourself</q> said Warren Buffett
+
+Atm, I am thinking of how to invest in myself and my family. Traditionally this
+would probably mean buying (or building) a house, however the housing market
+has spiked in these COVID times and I feel that that opportunity might have
+passed us by.
+
+Another thought that has crossed my mind is to start a small business of my own
+like [Webconverger](https://webconverger.com/) again. I do have the cash to
+cover a year or two of development, but that just about covers my families
+costs. I know how hard it is to build a business by yourself. I am not 100%
+confident I can do it. The risks are high that I would essentially burn through
+our family savings.
+
+Comments? [Twitter](https://twitter.com/kaihendry/status/1409331181770788867)
