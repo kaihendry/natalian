@@ -1,5 +1,5 @@
 INFILES = $(shell find . -name '*.mdwn' -type f)
-OUTPUT = /srv/www/natalian
+OUTPUT = /tmp/www/natalian
 OUTFILES = $(INFILES:.mdwn=/index.html)
 LIST=$(addprefix $(OUTPUT)/, $(OUTFILES))
 
