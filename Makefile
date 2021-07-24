@@ -6,11 +6,7 @@ LIST=$(addprefix $(OUTPUT)/, $(OUTFILES))
 all: $(LIST) $(OUTPUT)/index.html $(OUTPUT)/index.rss $(OUTPUT)/index.atom $(OUTPUT)/sitemap.txt $(OUTPUT)/404.html $(OUTPUT)/stats.js $(OUTPUT)/thank-you.html $(OUTPUT)/oh-no.html
 
 godeps:
-	go install github.com/kaihendry/blog/header
-	go install github.com/kaihendry/blog/index
-	go install github.com/kaihendry/blog/feeds
-	go install github.com/kaihendry/blog/footer
-	go install github.com/kaihendry/blog/sitemap
+	go get github.com/kaihendry/blog/...
 
 $(OUTPUT)/404.html: 404.html
 	cat $< > $@

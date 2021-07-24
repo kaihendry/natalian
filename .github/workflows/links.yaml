@@ -1,0 +1,16 @@
+name: Links
+
+on:
+  workflow_dispatch:
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1
+        continue-on-error: true
+        with:
+          args: --no-progress **/*.mdwn
+          issue: false
