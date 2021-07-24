@@ -42,8 +42,9 @@ For example UK centric "basket of stocks" [Fundsmith invests in Microsoft](https
 
 Most high profile tech companies like Oracle, Microsoft et al, I do not want to support.
 
-Admittedly Microsoft's practices has spurred my to try Linux and get involved
-in the <abbr title="Opensource software">OSS</abbr> community. And now you want me to invest in them? No no no
+Admittedly Microsoft's monopoly spurred me to try Linux and get involved in
+the <abbr title="Opensource software">OSS</abbr> community. And now you want me
+to invest in them? No no no... that would go against my hard work, wouldn't it?!
 
 # Don't want to support Corporates
 
