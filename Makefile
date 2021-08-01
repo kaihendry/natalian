@@ -17,7 +17,7 @@ $(OUTPUT)/oh-no.html: oh-no.html
 $(OUTPUT)/thank-you.html: thank-you.html
 	cat $< > $@
 
-$(OUTPUT)/%/index.html: %.mdwn godeps
+$(OUTPUT)/%/index.html: %.mdwn
 	@mkdir -p $(@D)
 	@header $< > $@
 	@sed '/^\[\[/ d' $< | cmark --unsafe >> $@
