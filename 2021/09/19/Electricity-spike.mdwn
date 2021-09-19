@@ -1,0 +1,27 @@
+[[!meta title="Singapore Electricity surprise"]]
+[[!meta description="A price spike"]]
+
+I've recommended [SP group whole electricity
+price](https://natalian.org/2019/07/24/Open_Electricity_Market/), and I've had
+the lowest bills ~200SGD pcm until July 2021. I immediately complained and I
+received a response 10 days later:
+
+> During 26 - 29 July, there was a partial curtailment of natural gas supply
+> piped from Indonesia. While there was sufficient generation capacity and gas
+> supply to meet electricity demand, the Wholesale Electricity Price takes into
+> account various factors, which include supply of natural gas from external
+> sources, capacity of the power generation companies and electricity demand.
+> Hence, the spike resulted in a rise in the WEP.
+
+
+# June 2021
+
+<img src="https://s.natalian.org/2021-09-19/jun2021.jpeg">
+
+# July 2021
+
+<img src="https://s.natalian.org/2021-09-19/jul2021.jpeg">
+
+# August 2021
+
+<img src="https://s.natalian.org/2021-09-19/aug2021.jpeg">
