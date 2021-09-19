@@ -3,7 +3,7 @@ OUTPUT = /tmp/www/natalian
 OUTFILES = $(INFILES:.mdwn=/index.html)
 LIST=$(addprefix $(OUTPUT)/, $(OUTFILES))
 
-all: $(LIST) $(OUTPUT)/index.html $(OUTPUT)/index.rss $(OUTPUT)/index.atom $(OUTPUT)/sitemap.txt $(OUTPUT)/404.html $(OUTPUT)/stats.js $(OUTPUT)/thank-you.html $(OUTPUT)/oh-no.html
+all: godeps $(LIST) $(OUTPUT)/index.html $(OUTPUT)/index.rss $(OUTPUT)/index.atom $(OUTPUT)/sitemap.txt $(OUTPUT)/404.html $(OUTPUT)/stats.js $(OUTPUT)/thank-you.html $(OUTPUT)/oh-no.html
 
 godeps:
 	go get github.com/kaihendry/blog/...
