@@ -1,7 +1,7 @@
 [[!meta title="Singapore Electricity surprise"]]
 [[!meta description="A price spike"]]
 
-I've recommended [SP group whole electricity
+I've recommended [SP group wholesale electricity
 price](https://natalian.org/2019/07/24/Open_Electricity_Market/), and I've had
 the lowest bills ~200SGD pcm until July 2021. I immediately complained and I
 received a response 10 days later:
@@ -24,4 +24,18 @@ received a response 10 days later:
 
 # August 2021
 
+Despite the aforementioned spike, Singapore's <abbr title="Wholesale Energy Price">WEP</abbr> is still up!
+
 <img src="https://s.natalian.org/2021-09-19/aug2021.jpeg">
+
+# Conclusion
+
+It would appear there is no sane way to track the <abbr title="Wholesale Energy
+Price">WEP</abbr>, best you can do is monitor it, but you will not really know
+**why prices are high** or if they will go down.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">WEP is always risky. I’m on it and I was burnt too. You can try to monitor but there is nothing you can do except maybe use less electricity. If you don’t like suprises get a retailer plan.</p>&mdash; Sau Sheong (@sausheong) <a href="https://twitter.com/sausheong/status/1439451908138160133?ref_src=twsrc%5Etfw">September 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I feel consumers are getting pushed to a retail plan. Retailers buy at <abbr
+title="Wholesale Energy Price">WEP</abbr>, so I am a little puzzled how they
+can absorb the cost.
