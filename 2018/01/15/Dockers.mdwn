@@ -1,6 +1,8 @@
 [[!meta title="Deciphering Dockers designs"]]
 [[!meta description="Quest to get reproducible clothing going"]]
 
+UPDATE: [How to buy Dockers in Singapore](https://youtu.be/7jzrrnkzIyU)
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/hendry/39670623972/in/datetaken/" title="Smartphone pocket"><img src="https://farm5.staticflickr.com/4716/39670623972_fb61a866b1_z.jpg" width="640" height="361" alt="Smartphone pocket"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 So I'm one of those tame chumps who always has a pair of khaki shorts and
