@@ -1,6 +1,8 @@
 [[!meta title="Singapore's Open Electricity Market, a consumer perspective"]]
 [[!meta description="Singapore impressively has unbundled its energy supply to encourage competition, but at considerable confusion"]]
 
+UPDATE: 12-2021 I have **switchback** to the regulated tariff due to INSANE 600% fluctuations in the wholesale price.
+
 <img src="https://www.ema.gov.sg/cmsmedia/OEM/OEM_Nationwide_Rollout_Map_Transparent.png" alt="Singapore regions">
 
 On 1 March 2019 in the East area of Singapore where I live, the **Open
