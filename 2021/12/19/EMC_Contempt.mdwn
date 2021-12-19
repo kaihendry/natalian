@@ -1,0 +1,57 @@
+[[!meta title="EMC contempt for the consumer"]]
+[[!meta description="Singapore's energy market which shuns the public"]]
+
+My typical bill has been ~200SGD and now it's [five times
+that](https://s.natalian.org/2021-12-02/sp-shock.jpeg)! 😲
+
+Since I'm [subscribed to the wholesale
+market](/2019/07/24/Open_Electricity_Market/), I can expect price volatility,
+but the issue I have is the terrible communication from Singapore's [Energy
+Market Company](https://www.emcsg.com/), charged with operating the electricity
+market in Singapore.
+
+# No accessible API to check the price
+
+<img src="https://s.natalian.org/2021-12-19/emc-subscription.png">
+
+Want an API to check the half hour fluctuations of price? Expect to pay 1000+SGD for that information!!
+
+# No clear outlook or coverage
+
+Why is the <abbr title="Wholesale Electricity Price">WEP</abbr> is so volatile?
+
+You won't find out from the <abbr title="Energy Market Company">EMC</abbr>. The
+[national
+newspaper](https://www.straitstimes.com/business/economy/spore-electricity-spot-prices-hit-new-highs-tariffs-expected-to-rise)
+will attribute it to a "global energy crisis".
+
+# SPgroup consumer advisory
+
+I received post, not email from SP group with a consumer advisory on how to
+switch to the regulated tariff using **Switchback**. Why not communicate this
+new via email or on a Web page in a far more timely fashion?
+
+The high <abbr title="Wholesale Electricity Price">WEP</abbr> was attributed to:
+
+1. Global energy crunch resulting in high spot natural gas prices
+2. Production issues in Indonesia's gas fields disrupting supply of natural gas
+3. Unplanned outages of generation plants
+
+The advisory also noted that the <abbr title="Energy Market
+Authority">EMA</abbr> is working with generation companies including
+"establishing a standby fuel facility".
+
+Personally I wonder why _Malaysia_ or _Brunei_ is not mentioned here?
+
+Can I expect to hear news by Singpost months after the event?
+
+# To conclude
+
+My issue is really poor communication of prices to the public. It has taken
+months and is this a half hour "real time" and competitive electricity market?
+
+I've asked for the [price feed before in July 2019](https://github.com/datagovsg/datagovsg-datasets/issues/450), and the answer was this information belongs to a private entity.
+
+I'm assuming that's <abbr title="Energy Market Company">EMC</abbr> who charge
+1000+ SGD a month for it which effectively keeps Singapore's wholesale
+consumers in the dark.
