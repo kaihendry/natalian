@@ -47,8 +47,8 @@ Can I expect to hear news by Singpost months after the event?
 
 # To conclude
 
-My issue is really poor communication of prices to the public. It has taken
-months and is this a half hour "real time" and competitive electricity market?
+My issue is slow communication of prices to the public. **Months** instead of a
+half hour "real time" competitive electricity market.
 
 I've asked for the [price feed before in July 2019](https://github.com/datagovsg/datagovsg-datasets/issues/450), and the answer was this information belongs to a private entity.
 
