@@ -1,6 +1,10 @@
 [[!meta title="An Ode to Katong Swimming Complex"]]
 [[!meta description="Pre and post COVID renovation"]]
 
+<style>
+img, video { width: 100% }
+</style>
+
 <img src="https://s.natalian.org/2022-04-12/Katong-Swimming-Complex1.webp" alt="Olympic swimming pool">
 
 <img src="https://s.natalian.org/2022-04-12/Katong-Swimming-Complex2.webp" alt="Fun water spouts">
@@ -17,6 +21,4 @@
 
 # After renovation
 
-<img src="https://s.natalian.org/2022-04-12/katong-dark-renovated.jpeg" alt="2022 renovation colours">
-
-<video src="https://s.natalian.org/2022-04-10/katong-swimming.mp4" controls></video>
+<video poster="https://s.natalian.org/2022-04-12/katong-dark-renovated.jpeg" src="https://s.natalian.org/2022-04-10/katong-swimming.mp4" controls></video>
