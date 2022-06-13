@@ -1,7 +1,7 @@
 [[!meta title="My muscle strain exercises"]]
 [[!meta description="Need to warm up and maintain my calf muscles"]]
 
-Stretch calf for 5 seconds
+Stretch calf for 30 seconds
 
 <video src="https://s.natalian.org/2022-05-05/wall-stretch.mp4" controls></video>
 
@@ -16,3 +16,37 @@ Walk on your toes
 Ten times, three sets
 
 <video src="https://s.natalian.org/2022-05-05/single-leg-lift.mp4" controls></video>
+
+# Soleous rehab
+
+<video controls>
+<source src="https://media.physiotools.com/video/mp4/X5UQBBZLVSZPWZ0UNNC3FTSJ6EA6.MP4">
+<source src="https://s.natalian.org/2022-06-14/X5UQBBZLVSZPWZ0UNNC3FTSJ6EA6.MP4">
+</video>
+
+Slow Heel Raises
+
+Stand on one leg and take support.
+
+Slowly rise up on to your toes and hold at the top. Maintain the weight evenly on the ball of the foot. Then slowly lower your heel back down.
+
+Repeat 10 times.
+3 sets
+
+<img src="https://s.natalian.org/2022-06-14/heel-raise.webp">
+
+Lean against chest of drawers/table to offload your bodyweight
+
+Stand and transfer your weight onto one foot.
+
+Bend your knee.
+
+<img src="https://s.natalian.org/2022-06-14/heel-raise-toes.webp">
+
+Rise up onto the toes of this foot. Lower down and repeat.
+
+Keep your knee bent at all times.
+
+Repeat 8 times.
+3 sets
+Keep pain score less than 3/10
