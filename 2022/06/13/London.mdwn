@@ -1,6 +1,8 @@
 [[!meta title="London after COVID"]]
 [[!meta description="London after five years"]]
 
+> To London's credit, it's the first major city to shake off COVID
+
 [Candy stores on Oxford street](https://www.independent.co.uk/news/uk/home-news/sweet-shops-london-council-investigation-b2098539.html) are a thing!
 
 Every payment is contactless
@@ -22,3 +24,5 @@ Biking is still popular, bikes are a lot better than the ones you typically find
 Some people on electric scooters, but not many. Doesn't seem practical somehow.
 
 Still no (working) water fountains to be found anywhere.
+
+<img src="https://s.natalian.org/2022-06-14/london-water.jpeg" alt="London water fountain">
