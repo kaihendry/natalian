@@ -42,10 +42,12 @@ $(OUTPUT)/index.html: $(LIST)
 	@index > $@
 
 # http://natalian.s3-website-ap-southeast-1.amazonaws.com/
+# Use --profile mine locally, but not in CI where credentials are configured via OIDC
+AWS_PROFILE_FLAG := $(if $(CI),,--profile mine)
 upload: $(OUTPUT)/index.html
-	@aws s3 --profile mine website s3://natalian/ --index-document index.html --error-document 404.html
-	@aws s3 --profile mine sync --exclude .htaccess --cache-control="max-age=86400" --storage-class STANDARD_IA --acl public-read $(OUTPUT)/ s3://natalian/
-	@aws --profile mine cloudfront create-invalidation --distribution-id E2AXSD6P2TRMEA --invalidation-batch "{ \"Paths\": { \"Quantity\": 1, \"Items\": [ \"/*\" ] }, \"CallerReference\": \"$(shell date +%s)\" }"
+	@aws s3 $(AWS_PROFILE_FLAG) website s3://natalian/ --index-document index.html --error-document 404.html
+	@aws s3 $(AWS_PROFILE_FLAG) sync --exclude .htaccess --cache-control="max-age=86400" --storage-class STANDARD_IA --acl public-read $(OUTPUT)/ s3://natalian/
+	@aws $(AWS_PROFILE_FLAG) cloudfront create-invalidation --distribution-id E2AXSD6P2TRMEA --invalidation-batch "{ \"Paths\": { \"Quantity\": 1, \"Items\": [ \"/*\" ] }, \"CallerReference\": \"$(shell date +%s)\" }"
 
 clean: godeps
 	@rm -rf $(OUTPUT) index.rss index.atom
