@@ -9,10 +9,10 @@ jobs:
       id-token: write
       contents: read
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-go@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
         with:
-          go-version: 1.18
+          go-version: '1.23'
       - run: sudo apt-get update && sudo apt-get -y install cmark
       - name: Download all workflow run artifacts
         uses: actions/download-artifact@v4.1.7
@@ -23,7 +23,7 @@ jobs:
           aws-region: ap-southeast-1
       - run: make upload
       - name: Archive production artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: output
           path: |
