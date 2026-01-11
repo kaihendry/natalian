@@ -23,7 +23,7 @@ jobs:
           aws-region: ap-southeast-1
       - run: make upload
       - name: Archive production artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: output
           path: |
