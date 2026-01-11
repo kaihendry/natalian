@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "post-edit": "make",
+    "post-write": "make"
+  }
+}
